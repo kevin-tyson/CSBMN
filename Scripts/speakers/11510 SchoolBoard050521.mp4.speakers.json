@@ -1,0 +1,168 @@
+{
+ "Speaker 2": {
+  "name": "Frank Sprague",
+  "role": "Claremont School Board Chair"
+ },
+ "Speaker 13": {
+  "name": "Frank Sprague",
+  "role": "Claremont School Board Chair"
+ },
+ "Speaker 5": {
+  "name": "Michael Tempesta",
+  "role": "Superintendent, SAU 6"
+ },
+ "Speaker 3": {
+  "name": "Donna Magoon",
+  "role": "Assistant Superintendent, SAU 6 (uncertain outside segments 36-50 - cluster also holds short remarks on grading and AP weighting)"
+ },
+ "Speaker 7": {
+  "name": "Heather Whitney",
+  "role": "Claremont School Board member"
+ },
+ "Speaker 12": {
+  "name": "Steven Horsky",
+  "role": "Claremont School Board member"
+ },
+ "Speaker 14": {
+  "name": "Michael Petrin",
+  "role": "Claremont School Board member"
+ },
+ "Speaker 15": {
+  "name": "Joshua Lambert",
+  "role": "Claremont School Board member"
+ },
+ "Speaker 6": {
+  "name": "Prescott Herzog",
+  "role": "Student representative to the Claremont School Board"
+ },
+ "Speaker 10": {
+  "name": "Patricia Barry",
+  "role": "Principal, Stevens High School"
+ },
+ "Speaker 17": {
+  "name": "Patricia Barry",
+  "role": "Principal, Stevens High School"
+ },
+ "Speaker 11": {
+  "name": "Charlie Gessner",
+  "role": "Guidance department chair, Stevens High School"
+ },
+ "Speaker 4": {
+  "name": "Unidentified",
+  "role": "Unidentified - cluster mixes the clerk's roll call, clipped onsets of Barry and short questions from board members; see overrides"
+ },
+ "Speaker 1": {
+  "name": "Unidentified",
+  "role": "Unidentified - short board-member replies at the opening (roll answer, 'I move that')"
+ },
+ "Speaker 18": {
+  "name": "Unidentified",
+  "role": "Unidentified - cluster of short acknowledgements and crosstalk from several voices"
+ },
+ "Speaker 16": {
+  "name": "Unidentified",
+  "role": "Unidentified - fragments of crosstalk from several voices"
+ },
+ "Speaker 9": {
+  "name": "Unidentified",
+  "role": "Unidentified - two fragments during agenda transitions"
+ },
+ "Speaker 8": {
+  "name": "Unidentified",
+  "role": "Unidentified - single aside during superintendent's slides"
+ },
+ "Speaker 19": {
+  "name": "Unidentified",
+  "role": "Unidentified - two short fragments"
+ },
+ "__overrides__": {
+  "6": {
+   "name": "Mary Woodman",
+   "role": "School district clerk and board recording secretary"
+  },
+  "7": {
+   "name": "Mary Woodman",
+   "role": "School district clerk and board recording secretary"
+  },
+  "110": {
+   "name": "Patricia Barry",
+   "role": "Principal, Stevens High School"
+  },
+  "111": {
+   "name": "Patricia Barry",
+   "role": "Principal, Stevens High School"
+  },
+  "136": {
+   "name": "Patricia Barry",
+   "role": "Principal, Stevens High School"
+  },
+  "163": {
+   "name": "Patricia Barry",
+   "role": "Principal, Stevens High School"
+  },
+  "189": {
+   "name": "Patricia Barry",
+   "role": "Principal, Stevens High School"
+  },
+  "234": {
+   "name": "Patricia Barry",
+   "role": "Principal, Stevens High School"
+  },
+  "236": {
+   "name": "Patricia Barry",
+   "role": "Principal, Stevens High School"
+  },
+  "237": {
+   "name": "Patricia Barry",
+   "role": "Principal, Stevens High School"
+  },
+  "130": {
+   "name": "Heather Whitney",
+   "role": "Claremont School Board member"
+  },
+  "140": {
+   "name": "Heather Whitney",
+   "role": "Claremont School Board member"
+  },
+  "3": {
+   "name": "Unidentified",
+   "role": "Unidentified - pledge of allegiance, group recitation"
+  },
+  "21": {
+   "name": "Unidentified",
+   "role": "Unidentified - board member completing a motion to accept minutes (voice clustered with Magoon)"
+  },
+  "102": {
+   "name": "Unidentified",
+   "role": "Unidentified - board member moving adoption of the strategic plan (voice clustered with student representative)"
+  },
+  "175": {
+   "name": "Frank Sprague",
+   "role": "Claremont School Board Chair"
+  },
+  "244": {
+   "name": "Frank Sprague",
+   "role": "Claremont School Board Chair"
+  },
+  "249": {
+   "name": "Frank Sprague",
+   "role": "Claremont School Board Chair"
+  },
+  "232": {
+   "name": "Steven Horsky",
+   "role": "Claremont School Board member"
+  },
+  "275": {
+   "name": "Joshua Lambert",
+   "role": "Claremont School Board member"
+  },
+  "353": {
+   "name": "Joshua Lambert",
+   "role": "Claremont School Board member"
+  },
+  "392": {
+   "name": "Unidentified",
+   "role": "Unidentified - board member seconding the grading motion"
+  }
+ }
+}

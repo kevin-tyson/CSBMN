@@ -1,0 +1,68 @@
+{
+ "Speaker 1": {
+  "name": "Michael Petrin",
+  "role": "SAU 6 Board Chair; Claremont School Board member"
+ },
+ "Speaker 2": {
+  "name": "Unidentified",
+  "role": "Unidentified - cluster mixes roll-call answers and several women's remarks, including a Unity member on Unity attendance"
+ },
+ "Speaker 3": {
+  "name": "Mary Woodman",
+  "role": "School district clerk and board recording secretary"
+ },
+ "Speaker 4": {
+  "name": "Michael Tempesta",
+  "role": "Superintendent, SAU 6"
+ },
+ "Speaker 5": {
+  "name": "Unidentified",
+  "role": "Unidentified - short interjections and a second"
+ },
+ "Speaker 6": {
+  "name": "Carolyn Towle",
+  "role": "SAU 6 Board member (Claremont)"
+ },
+ "Speaker 7": {
+  "name": "Frank Sprague",
+  "role": "Claremont School Board Chair; SAU 6 Board member"
+ },
+ "Speaker 8": {
+  "name": "Unidentified",
+  "role": "Unidentified - short interjections and vote responses"
+ },
+ "Speaker 9": {
+  "name": "Unidentified",
+  "role": "Unidentified SAU 6 board member (asks about grants manager and a monthly superintendent newsletter)"
+ },
+ "Speaker 10": {
+  "name": "Unidentified",
+  "role": "Unidentified SAU 6 board member (moves approval of accountant/grants position)"
+ },
+ "Speaker 11": {
+  "name": "Unidentified",
+  "role": "Unidentified - closing remark"
+ },
+ "__overrides__": {
+  "12": {
+   "name": "Unidentified",
+   "role": "Unidentified board member moving the agenda (diarized with Tempesta)"
+  },
+  "112": {
+   "name": "Unidentified",
+   "role": "Unidentified Unity member of the SAU 6 board (diarized with Towle)"
+  },
+  "116": {
+   "name": "Unidentified",
+   "role": "Unidentified Unity member of the SAU 6 board (diarized with Towle)"
+  },
+  "213": {
+   "name": "Unidentified",
+   "role": "Unidentified Unity member of the SAU 6 board (diarized with Towle)"
+  },
+  "214": {
+   "name": "Unidentified",
+   "role": "Unidentified Unity member of the SAU 6 board (diarized with Towle)"
+  }
+ }
+}

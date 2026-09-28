@@ -1,0 +1,636 @@
+{
+  "Speaker 1": {
+    "name": "Alex Herzog",
+    "role": "Director, Sugar River Valley Regional Technical Center (CTE director)"
+  },
+  "Speaker 2": {
+    "name": "Heather Whitney",
+    "role": "Claremont School Board Chair; finance/budget subcommittee member"
+  },
+  "Speaker 3": {
+    "name": "Mary Henry",
+    "role": "Business Administrator, Claremont School District / SAU 6"
+  },
+  "Speaker 4": {
+    "name": "Candace Crawford",
+    "role": "Claremont School Board member; finance/budget subcommittee member"
+  },
+  "Speaker 5": {
+    "name": "Frank Sprague",
+    "role": "Chair, finance/budget subcommittee; Claremont School Board Vice Chair"
+  },
+  "Speaker 6": {
+    "name": "Chris Pratt",
+    "role": "Principal, Stevens High School"
+  },
+  "Speaker 7": {
+    "name": "Frank Romeo",
+    "role": "Principal, Claremont Middle School"
+  },
+  "Speaker 8": {
+    "name": "Michael Tempesta",
+    "role": "Superintendent, SAU 6 (participating remotely; audio poor)"
+  },
+  "Speaker 9": {
+    "name": "Unidentified",
+    "role": "Brief interjection or crosstalk - voice not identifiable"
+  },
+  "Speaker 10": {
+    "name": "Unidentified",
+    "role": "Brief interjection or crosstalk - voice not identifiable"
+  },
+  "Speaker 11": {
+    "name": "Jeff Small",
+    "role": "Director of Technology - name not spoken in this recording; identified from role and district records"
+  },
+  "Speaker 12": {
+    "name": "Unidentified",
+    "role": "Brief interjection or crosstalk - voice not identifiable"
+  },
+  "Speaker 13": {
+    "name": "Unidentified",
+    "role": "Brief interjection or crosstalk - voice not identifiable"
+  },
+  "__overrides__": {
+    "0": {
+      "name": "Frank Sprague",
+      "role": "Chair, finance/budget subcommittee; Claremont School Board Vice Chair"
+    },
+    "1": {
+      "name": "Frank Sprague",
+      "role": "Chair, finance/budget subcommittee; Claremont School Board Vice Chair"
+    },
+    "2": {
+      "name": "Frank Sprague",
+      "role": "Chair, finance/budget subcommittee; Claremont School Board Vice Chair"
+    },
+    "3": {
+      "name": "Frank Sprague",
+      "role": "Chair, finance/budget subcommittee; Claremont School Board Vice Chair"
+    },
+    "227": {
+      "name": "Frank Sprague",
+      "role": "Chair, finance/budget subcommittee; Claremont School Board Vice Chair"
+    },
+    "229": {
+      "name": "Frank Sprague",
+      "role": "Chair, finance/budget subcommittee; Claremont School Board Vice Chair"
+    },
+    "375": {
+      "name": "Frank Sprague",
+      "role": "Chair, finance/budget subcommittee; Claremont School Board Vice Chair"
+    },
+    "414": {
+      "name": "Frank Sprague",
+      "role": "Chair, finance/budget subcommittee; Claremont School Board Vice Chair"
+    },
+    "418": {
+      "name": "Frank Sprague",
+      "role": "Chair, finance/budget subcommittee; Claremont School Board Vice Chair"
+    },
+    "421": {
+      "name": "Frank Sprague",
+      "role": "Chair, finance/budget subcommittee; Claremont School Board Vice Chair"
+    },
+    "437": {
+      "name": "Frank Sprague",
+      "role": "Chair, finance/budget subcommittee; Claremont School Board Vice Chair"
+    },
+    "452": {
+      "name": "Frank Sprague",
+      "role": "Chair, finance/budget subcommittee; Claremont School Board Vice Chair"
+    },
+    "479": {
+      "name": "Frank Sprague",
+      "role": "Chair, finance/budget subcommittee; Claremont School Board Vice Chair"
+    },
+    "544": {
+      "name": "Frank Sprague",
+      "role": "Chair, finance/budget subcommittee; Claremont School Board Vice Chair"
+    },
+    "552": {
+      "name": "Frank Sprague",
+      "role": "Chair, finance/budget subcommittee; Claremont School Board Vice Chair"
+    },
+    "1151": {
+      "name": "Frank Sprague",
+      "role": "Chair, finance/budget subcommittee; Claremont School Board Vice Chair"
+    },
+    "1188": {
+      "name": "Frank Sprague",
+      "role": "Chair, finance/budget subcommittee; Claremont School Board Vice Chair"
+    },
+    "1189": {
+      "name": "Frank Sprague",
+      "role": "Chair, finance/budget subcommittee; Claremont School Board Vice Chair"
+    },
+    "1312": {
+      "name": "Frank Sprague",
+      "role": "Chair, finance/budget subcommittee; Claremont School Board Vice Chair"
+    },
+    "1508": {
+      "name": "Frank Sprague",
+      "role": "Chair, finance/budget subcommittee; Claremont School Board Vice Chair"
+    },
+    "1696": {
+      "name": "Frank Sprague",
+      "role": "Chair, finance/budget subcommittee; Claremont School Board Vice Chair"
+    },
+    "1758": {
+      "name": "Frank Sprague",
+      "role": "Chair, finance/budget subcommittee; Claremont School Board Vice Chair"
+    },
+    "1763": {
+      "name": "Frank Sprague",
+      "role": "Chair, finance/budget subcommittee; Claremont School Board Vice Chair"
+    },
+    "1765": {
+      "name": "Frank Sprague",
+      "role": "Chair, finance/budget subcommittee; Claremont School Board Vice Chair"
+    },
+    "99": {
+      "name": "Heather Whitney",
+      "role": "Claremont School Board Chair; finance/budget subcommittee member"
+    },
+    "171": {
+      "name": "Heather Whitney",
+      "role": "Claremont School Board Chair; finance/budget subcommittee member"
+    },
+    "177": {
+      "name": "Heather Whitney",
+      "role": "Claremont School Board Chair; finance/budget subcommittee member"
+    },
+    "250": {
+      "name": "Heather Whitney",
+      "role": "Claremont School Board Chair; finance/budget subcommittee member"
+    },
+    "266": {
+      "name": "Heather Whitney",
+      "role": "Claremont School Board Chair; finance/budget subcommittee member"
+    },
+    "274": {
+      "name": "Heather Whitney",
+      "role": "Claremont School Board Chair; finance/budget subcommittee member"
+    },
+    "314": {
+      "name": "Heather Whitney",
+      "role": "Claremont School Board Chair; finance/budget subcommittee member"
+    },
+    "318": {
+      "name": "Heather Whitney",
+      "role": "Claremont School Board Chair; finance/budget subcommittee member"
+    },
+    "587": {
+      "name": "Heather Whitney",
+      "role": "Claremont School Board Chair; finance/budget subcommittee member"
+    },
+    "1142": {
+      "name": "Heather Whitney",
+      "role": "Claremont School Board Chair; finance/budget subcommittee member"
+    },
+    "1715": {
+      "name": "Heather Whitney",
+      "role": "Claremont School Board Chair; finance/budget subcommittee member"
+    },
+    "1767": {
+      "name": "Heather Whitney",
+      "role": "Claremont School Board Chair; finance/budget subcommittee member"
+    },
+    "306": {
+      "name": "Candace Crawford",
+      "role": "Claremont School Board member; finance/budget subcommittee member"
+    },
+    "373": {
+      "name": "Candace Crawford",
+      "role": "Claremont School Board member; finance/budget subcommittee member"
+    },
+    "384": {
+      "name": "Candace Crawford",
+      "role": "Claremont School Board member; finance/budget subcommittee member"
+    },
+    "396": {
+      "name": "Candace Crawford",
+      "role": "Claremont School Board member; finance/budget subcommittee member"
+    },
+    "498": {
+      "name": "Candace Crawford",
+      "role": "Claremont School Board member; finance/budget subcommittee member"
+    },
+    "534": {
+      "name": "Candace Crawford",
+      "role": "Claremont School Board member; finance/budget subcommittee member"
+    },
+    "1011": {
+      "name": "Candace Crawford",
+      "role": "Claremont School Board member; finance/budget subcommittee member"
+    },
+    "1571": {
+      "name": "Candace Crawford",
+      "role": "Claremont School Board member; finance/budget subcommittee member"
+    },
+    "1621": {
+      "name": "Candace Crawford",
+      "role": "Claremont School Board member; finance/budget subcommittee member"
+    },
+    "1653": {
+      "name": "Candace Crawford",
+      "role": "Claremont School Board member; finance/budget subcommittee member"
+    },
+    "1721": {
+      "name": "Candace Crawford",
+      "role": "Claremont School Board member; finance/budget subcommittee member"
+    },
+    "1754": {
+      "name": "Candace Crawford",
+      "role": "Claremont School Board member; finance/budget subcommittee member"
+    },
+    "1761": {
+      "name": "Candace Crawford",
+      "role": "Claremont School Board member; finance/budget subcommittee member"
+    },
+    "346": {
+      "name": "Mary Henry",
+      "role": "Business Administrator, Claremont School District / SAU 6"
+    },
+    "361": {
+      "name": "Mary Henry",
+      "role": "Business Administrator, Claremont School District / SAU 6"
+    },
+    "474": {
+      "name": "Mary Henry",
+      "role": "Business Administrator, Claremont School District / SAU 6"
+    },
+    "481": {
+      "name": "Mary Henry",
+      "role": "Business Administrator, Claremont School District / SAU 6"
+    },
+    "494": {
+      "name": "Mary Henry",
+      "role": "Business Administrator, Claremont School District / SAU 6"
+    },
+    "546": {
+      "name": "Mary Henry",
+      "role": "Business Administrator, Claremont School District / SAU 6"
+    },
+    "580": {
+      "name": "Mary Henry",
+      "role": "Business Administrator, Claremont School District / SAU 6"
+    },
+    "945": {
+      "name": "Mary Henry",
+      "role": "Business Administrator, Claremont School District / SAU 6"
+    },
+    "1093": {
+      "name": "Mary Henry",
+      "role": "Business Administrator, Claremont School District / SAU 6"
+    },
+    "1099": {
+      "name": "Mary Henry",
+      "role": "Business Administrator, Claremont School District / SAU 6"
+    },
+    "1102": {
+      "name": "Mary Henry",
+      "role": "Business Administrator, Claremont School District / SAU 6"
+    },
+    "1110": {
+      "name": "Mary Henry",
+      "role": "Business Administrator, Claremont School District / SAU 6"
+    },
+    "1112": {
+      "name": "Mary Henry",
+      "role": "Business Administrator, Claremont School District / SAU 6"
+    },
+    "1136": {
+      "name": "Mary Henry",
+      "role": "Business Administrator, Claremont School District / SAU 6"
+    },
+    "1147": {
+      "name": "Mary Henry",
+      "role": "Business Administrator, Claremont School District / SAU 6"
+    },
+    "1148": {
+      "name": "Mary Henry",
+      "role": "Business Administrator, Claremont School District / SAU 6"
+    },
+    "1153": {
+      "name": "Mary Henry",
+      "role": "Business Administrator, Claremont School District / SAU 6"
+    },
+    "1155": {
+      "name": "Mary Henry",
+      "role": "Business Administrator, Claremont School District / SAU 6"
+    },
+    "1291": {
+      "name": "Mary Henry",
+      "role": "Business Administrator, Claremont School District / SAU 6"
+    },
+    "1630": {
+      "name": "Mary Henry",
+      "role": "Business Administrator, Claremont School District / SAU 6"
+    },
+    "1699": {
+      "name": "Mary Henry",
+      "role": "Business Administrator, Claremont School District / SAU 6"
+    },
+    "1717": {
+      "name": "Mary Henry",
+      "role": "Business Administrator, Claremont School District / SAU 6"
+    },
+    "1719": {
+      "name": "Mary Henry",
+      "role": "Business Administrator, Claremont School District / SAU 6"
+    },
+    "243": {
+      "name": "Frank Romeo",
+      "role": "Principal, Claremont Middle School"
+    },
+    "268": {
+      "name": "Frank Romeo",
+      "role": "Principal, Claremont Middle School"
+    },
+    "276": {
+      "name": "Frank Romeo",
+      "role": "Principal, Claremont Middle School"
+    },
+    "283": {
+      "name": "Frank Romeo",
+      "role": "Principal, Claremont Middle School"
+    },
+    "286": {
+      "name": "Frank Romeo",
+      "role": "Principal, Claremont Middle School"
+    },
+    "291": {
+      "name": "Frank Romeo",
+      "role": "Principal, Claremont Middle School"
+    },
+    "435": {
+      "name": "Frank Romeo",
+      "role": "Principal, Claremont Middle School"
+    },
+    "450": {
+      "name": "Frank Romeo",
+      "role": "Principal, Claremont Middle School"
+    },
+    "515": {
+      "name": "Frank Romeo",
+      "role": "Principal, Claremont Middle School"
+    },
+    "522": {
+      "name": "Frank Romeo",
+      "role": "Principal, Claremont Middle School"
+    },
+    "528": {
+      "name": "Frank Romeo",
+      "role": "Principal, Claremont Middle School"
+    },
+    "591": {
+      "name": "Chris Pratt",
+      "role": "Principal, Stevens High School"
+    },
+    "1665": {
+      "name": "Josh",
+      "role": "CCTV/broadcast operator - inferred from the off-air announcement; 'Josh' is the operator named at the open, surname never spoken"
+    },
+    "188": {
+      "name": "Unidentified",
+      "role": "Brief interjection or crosstalk - voice not identifiable"
+    },
+    "193": {
+      "name": "Unidentified",
+      "role": "Brief interjection or crosstalk - voice not identifiable"
+    },
+    "195": {
+      "name": "Unidentified",
+      "role": "Brief interjection or crosstalk - voice not identifiable"
+    },
+    "198": {
+      "name": "Unidentified",
+      "role": "Brief interjection or crosstalk - voice not identifiable"
+    },
+    "216": {
+      "name": "Unidentified",
+      "role": "Brief interjection or crosstalk - voice not identifiable"
+    },
+    "221": {
+      "name": "Unidentified",
+      "role": "Brief interjection or crosstalk - voice not identifiable"
+    },
+    "224": {
+      "name": "Unidentified",
+      "role": "Brief interjection or crosstalk - voice not identifiable"
+    },
+    "238": {
+      "name": "Unidentified",
+      "role": "Brief interjection or crosstalk - voice not identifiable"
+    },
+    "241": {
+      "name": "Unidentified",
+      "role": "Brief interjection or crosstalk - voice not identifiable"
+    },
+    "258": {
+      "name": "Unidentified",
+      "role": "Brief interjection or crosstalk - voice not identifiable"
+    },
+    "262": {
+      "name": "Unidentified",
+      "role": "Brief interjection or crosstalk - voice not identifiable"
+    },
+    "278": {
+      "name": "Unidentified",
+      "role": "Brief interjection or crosstalk - voice not identifiable"
+    },
+    "279": {
+      "name": "Unidentified",
+      "role": "Brief interjection or crosstalk - voice not identifiable"
+    },
+    "298": {
+      "name": "Unidentified",
+      "role": "Brief interjection or crosstalk - voice not identifiable"
+    },
+    "310": {
+      "name": "Unidentified",
+      "role": "Brief interjection or crosstalk - voice not identifiable"
+    },
+    "312": {
+      "name": "Unidentified",
+      "role": "Brief interjection or crosstalk - voice not identifiable"
+    },
+    "316": {
+      "name": "Unidentified",
+      "role": "Brief interjection or crosstalk - voice not identifiable"
+    },
+    "321": {
+      "name": "Unidentified",
+      "role": "Brief interjection or crosstalk - voice not identifiable"
+    },
+    "342": {
+      "name": "Unidentified",
+      "role": "Brief interjection or crosstalk - voice not identifiable"
+    },
+    "344": {
+      "name": "Unidentified",
+      "role": "Brief interjection or crosstalk - voice not identifiable"
+    },
+    "352": {
+      "name": "Unidentified",
+      "role": "Brief interjection or crosstalk - voice not identifiable"
+    },
+    "356": {
+      "name": "Unidentified",
+      "role": "Brief interjection or crosstalk - voice not identifiable"
+    },
+    "363": {
+      "name": "Unidentified",
+      "role": "Brief interjection or crosstalk - voice not identifiable"
+    },
+    "389": {
+      "name": "Unidentified",
+      "role": "Brief interjection or crosstalk - voice not identifiable"
+    },
+    "401": {
+      "name": "Unidentified",
+      "role": "Brief interjection or crosstalk - voice not identifiable"
+    },
+    "404": {
+      "name": "Unidentified",
+      "role": "Brief interjection or crosstalk - voice not identifiable"
+    },
+    "406": {
+      "name": "Unidentified",
+      "role": "Brief interjection or crosstalk - voice not identifiable"
+    },
+    "416": {
+      "name": "Unidentified",
+      "role": "Brief interjection or crosstalk - voice not identifiable"
+    },
+    "431": {
+      "name": "Unidentified",
+      "role": "Brief interjection or crosstalk - voice not identifiable"
+    },
+    "440": {
+      "name": "Unidentified",
+      "role": "Brief interjection or crosstalk - voice not identifiable"
+    },
+    "444": {
+      "name": "Unidentified",
+      "role": "Brief interjection or crosstalk - voice not identifiable"
+    },
+    "460": {
+      "name": "Unidentified",
+      "role": "Brief interjection or crosstalk - voice not identifiable"
+    },
+    "464": {
+      "name": "Unidentified",
+      "role": "Brief interjection or crosstalk - voice not identifiable"
+    },
+    "469": {
+      "name": "Unidentified",
+      "role": "Brief interjection or crosstalk - voice not identifiable"
+    },
+    "477": {
+      "name": "Unidentified",
+      "role": "Brief interjection or crosstalk - voice not identifiable"
+    },
+    "483": {
+      "name": "Unidentified",
+      "role": "Brief interjection or crosstalk - voice not identifiable"
+    },
+    "496": {
+      "name": "Unidentified",
+      "role": "Brief interjection or crosstalk - voice not identifiable"
+    },
+    "517": {
+      "name": "Unidentified",
+      "role": "Brief interjection or crosstalk - voice not identifiable"
+    },
+    "520": {
+      "name": "Unidentified",
+      "role": "Brief interjection or crosstalk - voice not identifiable"
+    },
+    "526": {
+      "name": "Unidentified",
+      "role": "Brief interjection or crosstalk - voice not identifiable"
+    },
+    "537": {
+      "name": "Unidentified",
+      "role": "Brief interjection or crosstalk - voice not identifiable"
+    },
+    "540": {
+      "name": "Unidentified",
+      "role": "Brief interjection or crosstalk - voice not identifiable"
+    },
+    "559": {
+      "name": "Unidentified",
+      "role": "Brief interjection or crosstalk - voice not identifiable"
+    },
+    "563": {
+      "name": "Unidentified",
+      "role": "Brief interjection or crosstalk - voice not identifiable"
+    },
+    "564": {
+      "name": "Unidentified",
+      "role": "Brief interjection or crosstalk - voice not identifiable"
+    },
+    "565": {
+      "name": "Unidentified",
+      "role": "Brief interjection or crosstalk - voice not identifiable"
+    },
+    "570": {
+      "name": "Unidentified",
+      "role": "Brief interjection or crosstalk - voice not identifiable"
+    },
+    "572": {
+      "name": "Unidentified",
+      "role": "Brief interjection or crosstalk - voice not identifiable"
+    },
+    "577": {
+      "name": "Unidentified",
+      "role": "Brief interjection or crosstalk - voice not identifiable"
+    },
+    "582": {
+      "name": "Unidentified",
+      "role": "Brief interjection or crosstalk - voice not identifiable"
+    },
+    "589": {
+      "name": "Unidentified",
+      "role": "Brief interjection or crosstalk - voice not identifiable"
+    },
+    "983": {
+      "name": "Unidentified",
+      "role": "Brief interjection or crosstalk - voice not identifiable"
+    },
+    "999": {
+      "name": "Unidentified",
+      "role": "Brief interjection or crosstalk - voice not identifiable"
+    },
+    "1000": {
+      "name": "Unidentified",
+      "role": "Brief interjection or crosstalk - voice not identifiable"
+    },
+    "1382": {
+      "name": "Unidentified",
+      "role": "Brief interjection or crosstalk - voice not identifiable"
+    },
+    "1411": {
+      "name": "Unidentified",
+      "role": "Brief interjection or crosstalk - voice not identifiable"
+    },
+    "1419": {
+      "name": "Unidentified",
+      "role": "Brief interjection or crosstalk - voice not identifiable"
+    },
+    "1500": {
+      "name": "Unidentified",
+      "role": "Brief interjection or crosstalk - voice not identifiable"
+    },
+    "1545": {
+      "name": "Unidentified",
+      "role": "Brief interjection or crosstalk - voice not identifiable"
+    },
+    "1646": {
+      "name": "Unidentified",
+      "role": "Brief interjection or crosstalk - voice not identifiable"
+    }
+  }
+}

@@ -1,0 +1,514 @@
+{
+ "Speaker 1": {
+  "name": "Unidentified",
+  "role": "Unidentified - single opening line, likely CCTV or meeting host"
+ },
+ "Speaker 2": {
+  "name": "Donna Magoon",
+  "role": "Assistant Superintendent, SAU 6 (ASR 'Donna McGowan')"
+ },
+ "Speaker 3": {
+  "name": "Michael Tempesta",
+  "role": "Superintendent, SAU 6 (cluster also carries some of the chair's floor control during the organizational segment, reassigned)"
+ },
+ "Speaker 4": {
+  "name": "Rob Lovett Jr.",
+  "role": "Claremont School Board member"
+ },
+ "Speaker 5": {
+  "name": "Heather Whitney",
+  "role": "Claremont School Board member; elected Vice Chair at this meeting [96]-[98]"
+ },
+ "Speaker 6": {
+  "name": "Richard Seaman",
+  "role": "Business Administrator, SAU 6 (cluster also carries Benware, Petrin and other short answers; separable segments reassigned)"
+ },
+ "Speaker 7": {
+  "name": "Carolyn Towle",
+  "role": "Claremont School Board member"
+ },
+ "Speaker 8": {
+  "name": "Matt Upton",
+  "role": "School district attorney, Drummond Woodsum"
+ },
+ "Speaker 9": {
+  "name": "Rebecca Zullo",
+  "role": "Claremont School Board member; Vice Chair until the election at this meeting"
+ },
+ "Speaker 10": {
+  "name": "Frank Sprague",
+  "role": "Claremont School Board Chair"
+ },
+ "Speaker 11": {
+  "name": "Jeff Small",
+  "role": "Director of Technology, SAU 6; hosting from the technology center"
+ },
+ "Speaker 12": {
+  "name": "Frank Sprague",
+  "role": "Claremont School Board Chair"
+ },
+ "Speaker 13": {
+  "name": "Patrick Adrian",
+  "role": "Public commenter by phone, Ward 1; Eagle Times reporter; former Claremont School Board member"
+ },
+ "Speaker 14": {
+  "name": "Tyler Sullivan",
+  "role": "Student representative to the Claremont School Board"
+ },
+ "Speaker 15": {
+  "name": "Unidentified",
+  "role": "Unidentified - male SAU 6 administrator speaking on special education and the NECC contract (uncertain - possibly Ben Nester, Director of Special Education, or Superintendent Tempesta); [487],[489] reassigned"
+ },
+ "Speaker 16": {
+  "name": "Unidentified",
+  "role": "Unidentified - cluster mixes several members' short answers and roll-call votes; separable segments reassigned"
+ },
+ "Speaker 17": {
+  "name": "Jason Benware",
+  "role": "Claremont School Board member (ASR 'Ben where', 'Benwell', 'Bender')"
+ },
+ "Speaker 18": {
+  "name": "Rob Lovett Jr.",
+  "role": "Claremont School Board member"
+ },
+ "__overrides__": {
+  "61": {
+   "name": "Frank Sprague"
+  },
+  "63": {
+   "name": "Frank Sprague"
+  },
+  "64": {
+   "name": "Frank Sprague"
+  },
+  "92": {
+   "name": "Frank Sprague"
+  },
+  "94": {
+   "name": "Frank Sprague"
+  },
+  "96": {
+   "name": "Frank Sprague"
+  },
+  "98": {
+   "name": "Frank Sprague"
+  },
+  "112": {
+   "name": "Frank Sprague"
+  },
+  "129": {
+   "name": "Frank Sprague"
+  },
+  "141": {
+   "name": "Frank Sprague"
+  },
+  "143": {
+   "name": "Frank Sprague"
+  },
+  "144": {
+   "name": "Frank Sprague"
+  },
+  "164": {
+   "name": "Frank Sprague"
+  },
+  "175": {
+   "name": "Frank Sprague"
+  },
+  "419": {
+   "name": "Frank Sprague"
+  },
+  "118": {
+   "name": "Frank Sprague",
+   "role": "Claremont School Board Chair (attribution by elimination in the 'who is with you' round)"
+  },
+  "100": {
+   "name": "Unidentified",
+   "role": "Unidentified - short remark in a mixed cluster, speaker not determinable"
+  },
+  "120": {
+   "name": "Unidentified",
+   "role": "Unidentified - short remark in a mixed cluster, speaker not determinable"
+  },
+  "37": {
+   "name": "Unidentified",
+   "role": "Unidentified - a woman's second, not named on the record"
+  },
+  "9": {
+   "name": "Unidentified",
+   "role": "Unidentified - group response, fragment or pledge chorus"
+  },
+  "16": {
+   "name": "Unidentified",
+   "role": "Unidentified - group response, fragment or pledge chorus"
+  },
+  "39": {
+   "name": "Unidentified",
+   "role": "Unidentified - group response, fragment or pledge chorus"
+  },
+  "199": {
+   "name": "Unidentified",
+   "role": "Unidentified - group response, fragment or pledge chorus"
+  },
+  "218": {
+   "name": "Unidentified",
+   "role": "Unidentified - group response, fragment or pledge chorus"
+  },
+  "28": {
+   "name": "Unidentified",
+   "role": "Unidentified - short interjection in the mixed Speaker 6 cluster"
+  },
+  "30": {
+   "name": "Unidentified",
+   "role": "Unidentified - short interjection in the mixed Speaker 6 cluster"
+  },
+  "68": {
+   "name": "Unidentified",
+   "role": "Unidentified - short interjection in the mixed Speaker 6 cluster"
+  },
+  "75": {
+   "name": "Unidentified",
+   "role": "Unidentified - short interjection in the mixed Speaker 6 cluster"
+  },
+  "80": {
+   "name": "Unidentified",
+   "role": "Unidentified - short interjection in the mixed Speaker 6 cluster"
+  },
+  "84": {
+   "name": "Unidentified",
+   "role": "Unidentified - short interjection in the mixed Speaker 6 cluster"
+  },
+  "105": {
+   "name": "Unidentified",
+   "role": "Unidentified - short interjection in the mixed Speaker 6 cluster"
+  },
+  "111": {
+   "name": "Unidentified",
+   "role": "Unidentified - short interjection in the mixed Speaker 6 cluster"
+  },
+  "133": {
+   "name": "Unidentified",
+   "role": "Unidentified - short interjection in the mixed Speaker 6 cluster"
+  },
+  "135": {
+   "name": "Unidentified",
+   "role": "Unidentified - short interjection in the mixed Speaker 6 cluster"
+  },
+  "138": {
+   "name": "Unidentified",
+   "role": "Unidentified - short interjection in the mixed Speaker 6 cluster"
+  },
+  "156": {
+   "name": "Unidentified",
+   "role": "Unidentified - short interjection in the mixed Speaker 6 cluster"
+  },
+  "193": {
+   "name": "Unidentified",
+   "role": "Unidentified - short interjection in the mixed Speaker 6 cluster"
+  },
+  "214": {
+   "name": "Unidentified",
+   "role": "Unidentified - short interjection in the mixed Speaker 6 cluster"
+  },
+  "225": {
+   "name": "Unidentified",
+   "role": "Unidentified - short interjection in the mixed Speaker 6 cluster"
+  },
+  "290": {
+   "name": "Unidentified",
+   "role": "Unidentified - short interjection in the mixed Speaker 6 cluster"
+  },
+  "314": {
+   "name": "Unidentified",
+   "role": "Unidentified - short interjection in the mixed Speaker 6 cluster"
+  },
+  "332": {
+   "name": "Unidentified",
+   "role": "Unidentified - short interjection in the mixed Speaker 6 cluster"
+  },
+  "337": {
+   "name": "Unidentified",
+   "role": "Unidentified - short interjection in the mixed Speaker 6 cluster"
+  },
+  "373": {
+   "name": "Unidentified",
+   "role": "Unidentified - short interjection in the mixed Speaker 6 cluster"
+  },
+  "383": {
+   "name": "Unidentified",
+   "role": "Unidentified - short interjection in the mixed Speaker 6 cluster"
+  },
+  "414": {
+   "name": "Unidentified",
+   "role": "Unidentified - short interjection in the mixed Speaker 6 cluster"
+  },
+  "427": {
+   "name": "Unidentified",
+   "role": "Unidentified - short interjection in the mixed Speaker 6 cluster"
+  },
+  "429": {
+   "name": "Unidentified",
+   "role": "Unidentified - short interjection in the mixed Speaker 6 cluster"
+  },
+  "433": {
+   "name": "Unidentified",
+   "role": "Unidentified - short interjection in the mixed Speaker 6 cluster"
+  },
+  "453": {
+   "name": "Unidentified",
+   "role": "Unidentified - short interjection in the mixed Speaker 6 cluster"
+  },
+  "546": {
+   "name": "Unidentified",
+   "role": "Unidentified - short interjection in the mixed Speaker 6 cluster"
+  },
+  "550": {
+   "name": "Unidentified",
+   "role": "Unidentified - short interjection in the mixed Speaker 6 cluster"
+  },
+  "586": {
+   "name": "Unidentified",
+   "role": "Unidentified - short interjection in the mixed Speaker 6 cluster"
+  },
+  "671": {
+   "name": "Unidentified",
+   "role": "Unidentified - short interjection in the mixed Speaker 6 cluster"
+  },
+  "13": {
+   "name": "Jason Benware"
+  },
+  "45": {
+   "name": "Jason Benware"
+  },
+  "60": {
+   "name": "Jason Benware"
+  },
+  "62": {
+   "name": "Jason Benware"
+  },
+  "65": {
+   "name": "Jason Benware"
+  },
+  "66": {
+   "name": "Jason Benware"
+  },
+  "90": {
+   "name": "Jason Benware"
+  },
+  "203": {
+   "name": "Jason Benware"
+  },
+  "212": {
+   "name": "Jason Benware"
+  },
+  "228": {
+   "name": "Jason Benware"
+  },
+  "242": {
+   "name": "Jason Benware"
+  },
+  "249": {
+   "name": "Jason Benware"
+  },
+  "259": {
+   "name": "Jason Benware"
+  },
+  "269": {
+   "name": "Jason Benware"
+  },
+  "487": {
+   "name": "Jason Benware"
+  },
+  "488": {
+   "name": "Jason Benware"
+  },
+  "489": {
+   "name": "Jason Benware"
+  },
+  "557": {
+   "name": "Jason Benware"
+  },
+  "577": {
+   "name": "Jason Benware"
+  },
+  "580": {
+   "name": "Jason Benware"
+  },
+  "582": {
+   "name": "Jason Benware"
+  },
+  "33": {
+   "name": "Jason Benware",
+   "role": "Claremont School Board member (ASR 'Ben where', 'Benwell', 'Bender') (uncertain - nomination of Sprague not credited by name; same voice then asks to nominate for vice chair [60])"
+  },
+  "35": {
+   "name": "Jason Benware",
+   "role": "Claremont School Board member (ASR 'Ben where', 'Benwell', 'Bender') (uncertain - nomination of Sprague not credited by name; same voice then asks to nominate for vice chair [60])"
+  },
+  "117": {
+   "name": "Jason Benware",
+   "role": "Claremont School Board member (ASR 'Ben where', 'Benwell', 'Bender') (attribution by elimination)"
+  },
+  "47": {
+   "name": "Frank Sprague"
+  },
+  "22": {
+   "name": "Michael Petrin",
+   "role": "Claremont School Board member (ASR 'Patron'); no own diarized cluster, answers scattered across mixed clusters"
+  },
+  "53": {
+   "name": "Michael Petrin",
+   "role": "Claremont School Board member (ASR 'Patron'); no own diarized cluster, answers scattered across mixed clusters"
+  },
+  "88": {
+   "name": "Michael Petrin",
+   "role": "Claremont School Board member (ASR 'Patron'); no own diarized cluster, answers scattered across mixed clusters"
+  },
+  "125": {
+   "name": "Michael Petrin",
+   "role": "Claremont School Board member (ASR 'Patron'); no own diarized cluster, answers scattered across mixed clusters"
+  },
+  "207": {
+   "name": "Michael Petrin",
+   "role": "Claremont School Board member (ASR 'Patron'); no own diarized cluster, answers scattered across mixed clusters"
+  },
+  "232": {
+   "name": "Michael Petrin",
+   "role": "Claremont School Board member (ASR 'Patron'); no own diarized cluster, answers scattered across mixed clusters"
+  },
+  "253": {
+   "name": "Michael Petrin",
+   "role": "Claremont School Board member (ASR 'Patron'); no own diarized cluster, answers scattered across mixed clusters"
+  },
+  "273": {
+   "name": "Michael Petrin",
+   "role": "Claremont School Board member (ASR 'Patron'); no own diarized cluster, answers scattered across mixed clusters"
+  },
+  "561": {
+   "name": "Michael Petrin",
+   "role": "Claremont School Board member (ASR 'Patron'); no own diarized cluster, answers scattered across mixed clusters"
+  },
+  "593": {
+   "name": "Michael Petrin",
+   "role": "Claremont School Board member (ASR 'Patron'); no own diarized cluster, answers scattered across mixed clusters"
+  },
+  "651": {
+   "name": "Michael Petrin",
+   "role": "Claremont School Board member (ASR 'Patron'); no own diarized cluster, answers scattered across mixed clusters"
+  },
+  "769": {
+   "name": "Michael Petrin",
+   "role": "Claremont School Board member (ASR 'Patron'); no own diarized cluster, answers scattered across mixed clusters"
+  },
+  "792": {
+   "name": "Michael Petrin",
+   "role": "Claremont School Board member (ASR 'Patron'); no own diarized cluster, answers scattered across mixed clusters"
+  },
+  "807": {
+   "name": "Michael Petrin",
+   "role": "Claremont School Board member (ASR 'Patron'); no own diarized cluster, answers scattered across mixed clusters"
+  },
+  "831": {
+   "name": "Michael Petrin",
+   "role": "Claremont School Board member (ASR 'Patron'); no own diarized cluster, answers scattered across mixed clusters"
+  },
+  "912": {
+   "name": "Michael Petrin",
+   "role": "Claremont School Board member (ASR 'Patron'); no own diarized cluster, answers scattered across mixed clusters"
+  },
+  "257": {
+   "name": "Carolyn Towle"
+  },
+  "279": {
+   "name": "Tyler Sullivan"
+  },
+  "281": {
+   "name": "Tyler Sullivan"
+  },
+  "282": {
+   "name": "Tyler Sullivan"
+  },
+  "881": {
+   "name": "Tyler Sullivan"
+  },
+  "145": {
+   "name": "Michael Tempesta"
+  },
+  "166": {
+   "name": "Michael Tempesta"
+  },
+  "183": {
+   "name": "Michael Tempesta"
+  },
+  "323": {
+   "name": "Michael Tempesta"
+  },
+  "324": {
+   "name": "Michael Tempesta"
+  },
+  "358": {
+   "name": "Michael Tempesta"
+  },
+  "399": {
+   "name": "Michael Tempesta"
+  },
+  "410": {
+   "name": "Michael Tempesta"
+  },
+  "412": {
+   "name": "Michael Tempesta"
+  },
+  "422": {
+   "name": "Michael Tempesta"
+  },
+  "779": {
+   "name": "Michael Tempesta"
+  },
+  "127": {
+   "name": "Richard Seaman"
+  },
+  "501": {
+   "name": "Rob Lovett Jr."
+  },
+  "503": {
+   "name": "Rob Lovett Jr."
+  },
+  "506": {
+   "name": "Rob Lovett Jr."
+  },
+  "559": {
+   "name": "Rob Lovett Jr."
+  },
+  "534": {
+   "name": "Donna Magoon"
+  },
+  "15": {
+   "name": "Heather Whitney"
+  },
+  "20": {
+   "name": "Rebecca Zullo"
+  },
+  "51": {
+   "name": "Rebecca Zullo"
+  },
+  "479": {
+   "name": "Unidentified",
+   "role": "Unidentified - short interjection in the mixed Speaker 16 cluster"
+  },
+  "539": {
+   "name": "Unidentified",
+   "role": "Unidentified - short interjection in the mixed Speaker 16 cluster"
+  },
+  "547": {
+   "name": "Unidentified",
+   "role": "Unidentified - short interjection in the mixed Speaker 16 cluster"
+  },
+  "551": {
+   "name": "Unidentified",
+   "role": "Unidentified - short interjection in the mixed Speaker 16 cluster"
+  },
+  "567": {
+   "name": "Unidentified",
+   "role": "Unidentified - short interjection in the mixed Speaker 16 cluster"
+  }
+ }
+}

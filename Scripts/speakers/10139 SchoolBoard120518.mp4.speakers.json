@@ -1,0 +1,271 @@
+{
+ "Speaker 1": {
+  "name": "Frank Sprague",
+  "role": "Claremont School Board Chair (opens the meeting [0-3], runs agenda, recognitions and votes; names himself to the lead-safety group [788-808])"
+ },
+ "Speaker 2": {
+  "name": "Michelle Pierce",
+  "role": "Claremont School Board member (recognized 'Michelle' [179, 292, 541, 561, 764] before this cluster speaks; 'as a board member' [591])"
+ },
+ "Speaker 3": {
+  "name": "Jason Benware",
+  "role": "Claremont School Board member, budget subcommittee (chair: 'Mr.. Ben, where could I have a motion' [13]; recognized 'Jason' [231, 732, 794, 868]; 'Frank, Mike and myself' [504])"
+ },
+ "Speaker 4": {
+  "name": "Jesse",
+  "role": "Student representative to the board (chair: 'Mr. Jesse for all of us tonight with the student reps report' [17]; 'Any questions for Jessie?' [30]; surname not given)"
+ },
+ "Speaker 5": {
+  "name": "Keith Pfeifer",
+  "role": "Interim Superintendent, SAU 6 (delivers the superintendent's report after 'Superintendents report' [38-54]; takes questions 'for the superintendent' [55-71])"
+ },
+ "Speaker 6": {
+  "name": "Klein",
+  "role": "Music director, Stevens High School; public commenter, Ward 3 (does not state her name at the mic [73]; LeClair later: 'Miss Klein mentioned earlier, she's doubled the size of the high school band' [529]; spelling unverified)"
+ },
+ "Speaker 7": {
+  "name": "Carolyn Towle",
+  "role": "Claremont School Board member (recognized 'Go ahead. Carolyn?' [310] before [312] and 'Jason. And then Carolyn.' [732] before [736]; capital improvement plan advocacy [845-863])"
+ },
+ "Speaker 8": {
+  "name": "Unidentified",
+  "role": "Unidentified - short remarks and questions from a board member during the moderator's report [115-149]; not recognized by name"
+ },
+ "Speaker 9": {
+  "name": "Tracy Pope",
+  "role": "School district moderator (agenda moved 'Mrs. Pope to the first item' [4-5]; addressed 'Tracy' [113, 140, 213]; debrief of the 2018 deliberative session)"
+ },
+ "Speaker 10": {
+  "name": "Unidentified",
+  "role": "Unidentified - cluster of short interjections from several voices"
+ },
+ "Speaker 11": {
+  "name": "Rob Lovett Jr.",
+  "role": "Claremont School Board member (recognized 'Rob, you have a good' [771] before [772]; Benware: 'with Robert, that money was for food' [778])"
+ },
+ "Speaker 12": {
+  "name": "Cory LeClair",
+  "role": "Assistant Superintendent, SAU 6 (presents donations, the federal-funding report and policies; addressed 'Corey' [92, 465, 610]; 'Josh and I' [372])"
+ },
+ "Speaker 13": {
+  "name": "Michael O'Neill",
+  "role": "Business Administrator, SAU 6 (uncertain - not named at his turn; answers on lunch-account balances [242-244] and 'about a dime for every lunch' [440]; subcommittee 'worked with Cory and Doctor Pfeiffer and Mike' [504])"
+ },
+ "Speaker 14": {
+  "name": "Michael Petrin",
+  "role": "Claremont School Board member, budget subcommittee (chair: 'So might do you have anything to add as part of the group?' [538] before [540]; 'I'm very aware of that, Michael' [602]; Benware: 'exactly what Mike said' [778])"
+ },
+ "Speaker 15": {
+  "name": "Cory LeClair",
+  "role": "Assistant Superintendent, SAU 6 (uncertain - short fragments inside her federal-funding presentation [365-434])"
+ },
+ "Speaker 16": {
+  "name": "Unidentified",
+  "role": "Unidentified - short procedural fragments during the policy votes"
+ },
+ "Speaker 17": {
+  "name": "Unidentified",
+  "role": "Unidentified - cluster of short interjections from several voices"
+ },
+ "Speaker 18": {
+  "name": "Rebecca Zullo",
+  "role": "Claremont School Board Vice Chair (recognized 'I've got Rebecca and then Michelle.' [764] before [765]; 'Rebecca seconded' [685] after [648])"
+ },
+ "Speaker 19": {
+  "name": "Josh Malloy",
+  "role": "Director of Instructional Technology, SAU 6 (uncertain - thanked 'And Josh' [485], then explains the projector/TV deal [491, 493])"
+ },
+ "Speaker 20": {
+  "name": "Doug Beaupre",
+  "role": "Athletic Director, Stevens High School (chair: 'I'm going to invite Mr. Beaupre up to the podium' [715]; 'That's where Doug could use some support' [747]; spelling unverified)"
+ },
+ "Speaker 21": {
+  "name": "Unidentified",
+  "role": "Unidentified - cluster of short interjections from several voices"
+ },
+ "Speaker 22": {
+  "name": "Patricia Barry",
+  "role": "Principal, Stevens High School (uncertain - addressed only as 'Pat' [702, 751]; surname from roster; speaks for CMS principal Romeo [752-758])"
+ },
+ "__overrides__": {
+  "78": {
+   "name": "Maggie May",
+   "role": "Public commenter, Ward 3 (self-identifies 'Hello, I'm Maggie May. I'm part of Ward three' [78])"
+  },
+  "79": {
+   "name": "Maggie May"
+  },
+  "80": {
+   "name": "Maggie May"
+  },
+  "81": {
+   "name": "Maggie May"
+  },
+  "85": {
+   "name": "Maggie May"
+  },
+  "86": {
+   "name": "Maggie May"
+  },
+  "241": {
+   "name": "Carolyn Towle",
+   "role": "Claremont School Board member (recognized 'Carolyn.' [240]; diarized with Pierce)"
+  },
+  "207": {
+   "name": "Unidentified",
+   "role": "Unidentified - board member thanking the moderator; sentence split between the Pierce and Towle clusters [207-213]"
+  },
+  "208": {
+   "name": "Unidentified",
+   "role": "Unidentified - board member thanking the moderator; sentence split between the Pierce and Towle clusters [207-213]"
+  },
+  "209": {
+   "name": "Unidentified",
+   "role": "Unidentified - board member thanking the moderator; sentence split between the Pierce and Towle clusters [207-213]"
+  },
+  "210": {
+   "name": "Unidentified",
+   "role": "Unidentified - board member thanking the moderator; sentence split between the Pierce and Towle clusters [207-213]"
+  },
+  "211": {
+   "name": "Unidentified",
+   "role": "Unidentified - board member thanking the moderator; sentence split between the Pierce and Towle clusters [207-213]"
+  },
+  "212": {
+   "name": "Unidentified",
+   "role": "Unidentified - board member thanking the moderator; sentence split between the Pierce and Towle clusters [207-213]"
+  },
+  "213": {
+   "name": "Unidentified",
+   "role": "Unidentified - board member thanking the moderator; sentence split between the Pierce and Towle clusters [207-213]"
+  },
+  "482": {
+   "name": "Michelle Pierce",
+   "role": "Claremont School Board member (uncertain - continues her 'Just a quick comment' [480] and is answered 'Thank you Michel.' [483]; diarized with Zullo)"
+  },
+  "267": {
+   "name": "Jason Benware"
+  },
+  "270": {
+   "name": "Jason Benware"
+  },
+  "151": {
+   "name": "Unidentified",
+   "role": "Unidentified - cross-talk fragment"
+  },
+  "153": {
+   "name": "Unidentified",
+   "role": "Unidentified - cross-talk fragment"
+  },
+  "157": {
+   "name": "Unidentified",
+   "role": "Unidentified - cross-talk fragment"
+  },
+  "160": {
+   "name": "Unidentified",
+   "role": "Unidentified - cross-talk fragment"
+  },
+  "185": {
+   "name": "Unidentified",
+   "role": "Unidentified - cross-talk fragment"
+  },
+  "187": {
+   "name": "Unidentified",
+   "role": "Unidentified - cross-talk fragment"
+  },
+  "150": {
+   "name": "Unidentified",
+   "role": "Unidentified - cross-talk fragment"
+  },
+  "159": {
+   "name": "Unidentified",
+   "role": "Unidentified - cross-talk fragment"
+  },
+  "66": {
+   "name": "Keith Pfeifer"
+  },
+  "347": {
+   "name": "Cory LeClair"
+  },
+  "349": {
+   "name": "Cory LeClair"
+  },
+  "363": {
+   "name": "Cory LeClair"
+  },
+  "421": {
+   "name": "Cory LeClair"
+  },
+  "514": {
+   "name": "Cory LeClair"
+  },
+  "201": {
+   "name": "Unidentified",
+   "role": "Unidentified - short response"
+  },
+  "369": {
+   "name": "Unidentified",
+   "role": "Unidentified - short response"
+  },
+  "405": {
+   "name": "Unidentified",
+   "role": "Unidentified - short response"
+  },
+  "458": {
+   "name": "Unidentified",
+   "role": "Unidentified - short response"
+  },
+  "681": {
+   "name": "Unidentified",
+   "role": "Unidentified - short response"
+  },
+  "692": {
+   "name": "Keith Pfeifer",
+   "role": "Interim Superintendent, SAU 6 (uncertain - diarized with the chair; he makes and withdraws the CMS athletic coordinator request, which Zullo calls 'what Doctor Pfeiffer listed earlier' [765])"
+  },
+  "694": {
+   "name": "Keith Pfeifer",
+   "role": "Interim Superintendent, SAU 6 (uncertain - diarized with the chair; he makes and withdraws the CMS athletic coordinator request, which Zullo calls 'what Doctor Pfeiffer listed earlier' [765])"
+  },
+  "696": {
+   "name": "Keith Pfeifer",
+   "role": "Interim Superintendent, SAU 6 (uncertain - diarized with the chair; he makes and withdraws the CMS athletic coordinator request, which Zullo calls 'what Doctor Pfeiffer listed earlier' [765])"
+  },
+  "698": {
+   "name": "Keith Pfeifer",
+   "role": "Interim Superintendent, SAU 6 (uncertain - diarized with the chair; he makes and withdraws the CMS athletic coordinator request, which Zullo calls 'what Doctor Pfeiffer listed earlier' [765])"
+  },
+  "700": {
+   "name": "Keith Pfeifer",
+   "role": "Interim Superintendent, SAU 6 (uncertain - diarized with the chair; he makes and withdraws the CMS athletic coordinator request, which Zullo calls 'what Doctor Pfeiffer listed earlier' [765])"
+  },
+  "738": {
+   "name": "Keith Pfeifer",
+   "role": "Interim Superintendent, SAU 6 (uncertain - diarized with the chair; he makes and withdraws the CMS athletic coordinator request, which Zullo calls 'what Doctor Pfeiffer listed earlier' [765])"
+  },
+  "740": {
+   "name": "Keith Pfeifer",
+   "role": "Interim Superintendent, SAU 6 (uncertain - diarized with the chair; he makes and withdraws the CMS athletic coordinator request, which Zullo calls 'what Doctor Pfeiffer listed earlier' [765])"
+  },
+  "747": {
+   "name": "Keith Pfeifer",
+   "role": "Interim Superintendent, SAU 6 (uncertain - diarized with the chair; he makes and withdraws the CMS athletic coordinator request, which Zullo calls 'what Doctor Pfeiffer listed earlier' [765])"
+  },
+  "751": {
+   "name": "Keith Pfeifer",
+   "role": "Interim Superintendent, SAU 6 (uncertain - diarized with the chair; he makes and withdraws the CMS athletic coordinator request, which Zullo calls 'what Doctor Pfeiffer listed earlier' [765])"
+  },
+  "754": {
+   "name": "Keith Pfeifer",
+   "role": "Interim Superintendent, SAU 6 (uncertain - diarized with the chair; he makes and withdraws the CMS athletic coordinator request, which Zullo calls 'what Doctor Pfeiffer listed earlier' [765])"
+  },
+  "759": {
+   "name": "Keith Pfeifer",
+   "role": "Interim Superintendent, SAU 6 (uncertain - diarized with the chair; he makes and withdraws the CMS athletic coordinator request, which Zullo calls 'what Doctor Pfeiffer listed earlier' [765])"
+  },
+  "766": {
+   "name": "Keith Pfeifer",
+   "role": "Interim Superintendent, SAU 6 (uncertain - diarized with the chair; he makes and withdraws the CMS athletic coordinator request, which Zullo calls 'what Doctor Pfeiffer listed earlier' [765])"
+  }
+ }
+}

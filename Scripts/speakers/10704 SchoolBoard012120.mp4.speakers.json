@@ -1,0 +1,752 @@
+{
+ "Speaker 1": {
+  "name": "Frank Sprague",
+  "role": "Claremont School Board Chair"
+ },
+ "Speaker 2": {
+  "name": "Michael Tempesta",
+  "role": "Superintendent, SAU 6"
+ },
+ "Speaker 3": {
+  "name": "Richard Seaman",
+  "role": "Business Administrator, SAU 6"
+ },
+ "Speaker 4": {
+  "name": "Patrick Adrian",
+  "role": "Public commenter, Ward 1 (former board member)"
+ },
+ "Speaker 5": {
+  "name": "Heather Whitney",
+  "role": "Claremont School Board member"
+ },
+ "Speaker 6": {
+  "name": "Unidentified",
+  "role": "Unidentified - cluster of short acknowledgements from several voices; public commenter Rod Beaton reassigned via overrides"
+ },
+ "Speaker 7": {
+  "name": "Tyler Sullivan",
+  "role": "Student representative to the Claremont School Board, speaking at public comment, Ward 1 (ASR 'Tanner Tyler Sullivan'; student rep is 'Tyler' in the 1/15/2020 meeting; surname uncertain)"
+ },
+ "Speaker 8": {
+  "name": "Dave",
+  "role": "Public commenter, Ward 3 (surname not given)"
+ },
+ "Speaker 9": {
+  "name": "Misty Wheelock",
+  "role": "Public commenter, Ward 3"
+ },
+ "Speaker 10": {
+  "name": "Amanda Barton",
+  "role": "Public commenter, Ward 2"
+ },
+ "Speaker 11": {
+  "name": "Jason Benware",
+  "role": "Claremont School Board member"
+ },
+ "Speaker 12": {
+  "name": "Unidentified",
+  "role": "Unidentified - cluster of short interjections (seconds, thanks) from several board members; identifiable segments reassigned via overrides"
+ },
+ "Speaker 13": {
+  "name": "Brianna Gordon",
+  "role": "Public commenter, Ward 2 (chair calls her 'Sabrina' then 'Brianna')"
+ },
+ "Speaker 14": {
+  "name": "Unidentified",
+  "role": "Unidentified - cluster mixes short onsets of several voices (Donna Magoon, Heather Whitney, commenters); see overrides"
+ },
+ "Speaker 15": {
+  "name": "Mike Levine",
+  "role": "Public commenter, Ward 1 (ASR 'Mike Levine, board. One'; spelling uncertain)"
+ },
+ "Speaker 16": {
+  "name": "Sam Torres",
+  "role": "Public commenter, Ward 1 (preschool teacher)"
+ },
+ "Speaker 17": {
+  "name": "Unidentified",
+  "role": "Unidentified - SAU 6 administrator answering pre-K question, plus short remarks (uncertain - never named)"
+ },
+ "Speaker 18": {
+  "name": "Michelle",
+  "role": "Public commenter, Ward 2 (surname not given)"
+ },
+ "Speaker 19": {
+  "name": "Vicky White",
+  "role": "Public commenter, Ward 3"
+ },
+ "Speaker 20": {
+  "name": "Carolyn Towle",
+  "role": "Claremont School Board member"
+ },
+ "Speaker 21": {
+  "name": "Rebecca Zullo",
+  "role": "Claremont School Board Vice Chair"
+ },
+ "Speaker 22": {
+  "name": "Joyce Hines",
+  "role": "Public commenter, Ward 2 (ASR 'Joyce Hines. Brook Ward two'; surname uncertain)"
+ },
+ "Speaker 23": {
+  "name": "Samantha Fontaine",
+  "role": "Public commenter, Maple Avenue school parent"
+ },
+ "Speaker 24": {
+  "name": "Shelly",
+  "role": "Public commenter, Ward 2 (kindergarten teacher; surname not given)"
+ },
+ "Speaker 25": {
+  "name": "Norm Saint Aubin",
+  "role": "Public commenter, Ward 3 (ASR 'Norm. Saint Aubin', 'Saying Auburn'; spelling uncertain)"
+ },
+ "Speaker 26": {
+  "name": "Fred Weber",
+  "role": "Public commenter, Ward 1"
+ },
+ "Speaker 27": {
+  "name": "Unidentified",
+  "role": "Unidentified - short mixed cluster; roll-call segment reassigned to Mary Woodman"
+ },
+ "__overrides__": {
+  "186": {
+   "name": "Jason Benware",
+   "role": "Claremont School Board member"
+  },
+  "185": {
+   "name": "Jason Benware",
+   "role": "Claremont School Board member"
+  },
+  "393": {
+   "name": "Jason Benware",
+   "role": "Claremont School Board member"
+  },
+  "545": {
+   "name": "Jason Benware",
+   "role": "Claremont School Board member"
+  },
+  "547": {
+   "name": "Jason Benware",
+   "role": "Claremont School Board member"
+  },
+  "234": {
+   "name": "Mike Levine",
+   "role": "Public commenter, Ward 1 (ASR 'Mike Levine, board. One'; spelling uncertain)"
+  },
+  "269": {
+   "name": "Rod Beaton",
+   "role": "Public commenter, Ward 2"
+  },
+  "271": {
+   "name": "Rod Beaton",
+   "role": "Public commenter, Ward 2"
+  },
+  "281": {
+   "name": "Rod Beaton",
+   "role": "Public commenter, Ward 2"
+  },
+  "282": {
+   "name": "Rod Beaton",
+   "role": "Public commenter, Ward 2"
+  },
+  "283": {
+   "name": "Rod Beaton",
+   "role": "Public commenter, Ward 2"
+  },
+  "270": {
+   "name": "Rod Beaton",
+   "role": "Public commenter, Ward 2"
+  },
+  "425": {
+   "name": "Richard Seaman",
+   "role": "Business Administrator, SAU 6"
+  },
+  "623": {
+   "name": "Richard Seaman",
+   "role": "Business Administrator, SAU 6"
+  },
+  "561": {
+   "name": "Heather Whitney",
+   "role": "Claremont School Board member"
+  },
+  "578": {
+   "name": "Heather Whitney",
+   "role": "Claremont School Board member"
+  },
+  "471": {
+   "name": "Heather Whitney",
+   "role": "Claremont School Board member"
+  },
+  "473": {
+   "name": "Heather Whitney",
+   "role": "Claremont School Board member"
+  },
+  "298": {
+   "name": "Rebecca Zullo",
+   "role": "Claremont School Board Vice Chair"
+  },
+  "299": {
+   "name": "Rebecca Zullo",
+   "role": "Claremont School Board Vice Chair"
+  },
+  "300": {
+   "name": "Rebecca Zullo",
+   "role": "Claremont School Board Vice Chair"
+  },
+  "292": {
+   "name": "Carolyn Towle",
+   "role": "Claremont School Board member"
+  },
+  "345": {
+   "name": "Carolyn Towle",
+   "role": "Claremont School Board member"
+  },
+  "483": {
+   "name": "Carolyn Towle",
+   "role": "Claremont School Board member"
+  },
+  "492": {
+   "name": "Carolyn Towle",
+   "role": "Claremont School Board member"
+  },
+  "228": {
+   "name": "Unidentified",
+   "role": "Unidentified - female administrator or board member responding on research literature (possibly Donna Magoon or Heather Whitney; not determinable)"
+  },
+  "230": {
+   "name": "Unidentified",
+   "role": "Unidentified - female administrator or board member responding on research literature (possibly Donna Magoon or Heather Whitney; not determinable)"
+  },
+  "229": {
+   "name": "Unidentified",
+   "role": "Unidentified - female administrator or board member responding on research literature (possibly Donna Magoon or Heather Whitney; not determinable)"
+  },
+  "231": {
+   "name": "Unidentified",
+   "role": "Unidentified - female administrator or board member responding on research literature (possibly Donna Magoon or Heather Whitney; not determinable)"
+  },
+  "232": {
+   "name": "Unidentified",
+   "role": "Unidentified - female administrator or board member responding on research literature (possibly Donna Magoon or Heather Whitney; not determinable)"
+  },
+  "253": {
+   "name": "Donna Magoon",
+   "role": "Assistant Superintendent, SAU 6"
+  },
+  "255": {
+   "name": "Donna Magoon",
+   "role": "Assistant Superintendent, SAU 6"
+  },
+  "643": {
+   "name": "Donna Magoon",
+   "role": "Assistant Superintendent, SAU 6"
+  },
+  "288": {
+   "name": "Vicky White",
+   "role": "Public commenter, Ward 3"
+  },
+  "320": {
+   "name": "Shelly",
+   "role": "Public commenter, Ward 2 (kindergarten teacher; surname not given)"
+  },
+  "303": {
+   "name": "Joyce Hines",
+   "role": "Public commenter, Ward 2 (ASR 'Joyce Hines. Brook Ward two'; surname uncertain)"
+  },
+  "392": {
+   "name": "Mary Woodman",
+   "role": "School District Clerk and recording secretary"
+  },
+  "394": {
+   "name": "Mary Woodman",
+   "role": "School District Clerk and recording secretary"
+  },
+  "310": {
+   "name": "Samantha Fontaine",
+   "role": "Public commenter, Maple Avenue school parent"
+  },
+  "314": {
+   "name": "Samantha Fontaine",
+   "role": "Public commenter, Maple Avenue school parent"
+  },
+  "315": {
+   "name": "Samantha Fontaine",
+   "role": "Public commenter, Maple Avenue school parent"
+  },
+  "316": {
+   "name": "Samantha Fontaine",
+   "role": "Public commenter, Maple Avenue school parent"
+  },
+  "317": {
+   "name": "Samantha Fontaine",
+   "role": "Public commenter, Maple Avenue school parent"
+  },
+  "318": {
+   "name": "Samantha Fontaine",
+   "role": "Public commenter, Maple Avenue school parent"
+  },
+  "363": {
+   "name": "Fred Weber",
+   "role": "Public commenter, Ward 1"
+  },
+  "601": {
+   "name": "Unidentified",
+   "role": "Unidentified - short fragment misassigned by diarizer; speaker not determinable"
+  },
+  "381": {
+   "name": "Unidentified",
+   "role": "Unidentified - short fragment misassigned by diarizer; speaker not determinable"
+  },
+  "759": {
+   "name": "Unidentified",
+   "role": "Unidentified - short fragment misassigned by diarizer; speaker not determinable"
+  },
+  "615": {
+   "name": "Frank Sprague",
+   "role": "Claremont School Board Chair"
+  },
+  "111": {
+   "name": "Cynthia Howard",
+   "role": "Public commenter, Ward 2"
+  },
+  "113": {
+   "name": "Cynthia Howard",
+   "role": "Public commenter, Ward 2"
+  },
+  "115": {
+   "name": "Cynthia Howard",
+   "role": "Public commenter, Ward 2"
+  },
+  "128": {
+   "name": "Cynthia Howard",
+   "role": "Public commenter, Ward 2"
+  },
+  "130": {
+   "name": "Cynthia Howard",
+   "role": "Public commenter, Ward 2"
+  },
+  "136": {
+   "name": "Cynthia Howard",
+   "role": "Public commenter, Ward 2"
+  },
+  "141": {
+   "name": "Cynthia Howard",
+   "role": "Public commenter, Ward 2"
+  },
+  "142": {
+   "name": "Cynthia Howard",
+   "role": "Public commenter, Ward 2"
+  },
+  "146": {
+   "name": "Cynthia Howard",
+   "role": "Public commenter, Ward 2"
+  },
+  "147": {
+   "name": "Cynthia Howard",
+   "role": "Public commenter, Ward 2"
+  },
+  "150": {
+   "name": "Cynthia Howard",
+   "role": "Public commenter, Ward 2"
+  },
+  "152": {
+   "name": "Cynthia Howard",
+   "role": "Public commenter, Ward 2"
+  },
+  "153": {
+   "name": "Cynthia Howard",
+   "role": "Public commenter, Ward 2"
+  },
+  "156": {
+   "name": "Cynthia Howard",
+   "role": "Public commenter, Ward 2"
+  },
+  "157": {
+   "name": "Cynthia Howard",
+   "role": "Public commenter, Ward 2"
+  },
+  "158": {
+   "name": "Cynthia Howard",
+   "role": "Public commenter, Ward 2"
+  },
+  "642": {
+   "name": "Donna Magoon",
+   "role": "Assistant Superintendent, SAU 6"
+  },
+  "644": {
+   "name": "Donna Magoon",
+   "role": "Assistant Superintendent, SAU 6"
+  },
+  "646": {
+   "name": "Donna Magoon",
+   "role": "Assistant Superintendent, SAU 6"
+  },
+  "647": {
+   "name": "Donna Magoon",
+   "role": "Assistant Superintendent, SAU 6"
+  },
+  "650": {
+   "name": "Donna Magoon",
+   "role": "Assistant Superintendent, SAU 6"
+  },
+  "654": {
+   "name": "Donna Magoon",
+   "role": "Assistant Superintendent, SAU 6"
+  },
+  "657": {
+   "name": "Donna Magoon",
+   "role": "Assistant Superintendent, SAU 6"
+  },
+  "658": {
+   "name": "Donna Magoon",
+   "role": "Assistant Superintendent, SAU 6"
+  },
+  "662": {
+   "name": "Donna Magoon",
+   "role": "Assistant Superintendent, SAU 6"
+  },
+  "664": {
+   "name": "Donna Magoon",
+   "role": "Assistant Superintendent, SAU 6"
+  },
+  "666": {
+   "name": "Donna Magoon",
+   "role": "Assistant Superintendent, SAU 6"
+  },
+  "668": {
+   "name": "Donna Magoon",
+   "role": "Assistant Superintendent, SAU 6"
+  },
+  "677": {
+   "name": "Donna Magoon",
+   "role": "Assistant Superintendent, SAU 6"
+  },
+  "681": {
+   "name": "Donna Magoon",
+   "role": "Assistant Superintendent, SAU 6"
+  },
+  "687": {
+   "name": "Donna Magoon",
+   "role": "Assistant Superintendent, SAU 6"
+  },
+  "690": {
+   "name": "Donna Magoon",
+   "role": "Assistant Superintendent, SAU 6"
+  },
+  "692": {
+   "name": "Donna Magoon",
+   "role": "Assistant Superintendent, SAU 6"
+  },
+  "694": {
+   "name": "Donna Magoon",
+   "role": "Assistant Superintendent, SAU 6"
+  },
+  "697": {
+   "name": "Donna Magoon",
+   "role": "Assistant Superintendent, SAU 6"
+  },
+  "700": {
+   "name": "Donna Magoon",
+   "role": "Assistant Superintendent, SAU 6"
+  },
+  "702": {
+   "name": "Donna Magoon",
+   "role": "Assistant Superintendent, SAU 6"
+  },
+  "713": {
+   "name": "Donna Magoon",
+   "role": "Assistant Superintendent, SAU 6"
+  },
+  "716": {
+   "name": "Donna Magoon",
+   "role": "Assistant Superintendent, SAU 6"
+  },
+  "721": {
+   "name": "Donna Magoon",
+   "role": "Assistant Superintendent, SAU 6"
+  },
+  "724": {
+   "name": "Donna Magoon",
+   "role": "Assistant Superintendent, SAU 6"
+  },
+  "727": {
+   "name": "Donna Magoon",
+   "role": "Assistant Superintendent, SAU 6"
+  },
+  "728": {
+   "name": "Donna Magoon",
+   "role": "Assistant Superintendent, SAU 6"
+  },
+  "730": {
+   "name": "Donna Magoon",
+   "role": "Assistant Superintendent, SAU 6"
+  },
+  "732": {
+   "name": "Donna Magoon",
+   "role": "Assistant Superintendent, SAU 6"
+  },
+  "750": {
+   "name": "Donna Magoon",
+   "role": "Assistant Superintendent, SAU 6"
+  },
+  "752": {
+   "name": "Donna Magoon",
+   "role": "Assistant Superintendent, SAU 6"
+  },
+  "754": {
+   "name": "Donna Magoon",
+   "role": "Assistant Superintendent, SAU 6"
+  },
+  "757": {
+   "name": "Donna Magoon",
+   "role": "Assistant Superintendent, SAU 6"
+  },
+  "557": {
+   "name": "Frank Sprague",
+   "role": "Claremont School Board Chair"
+  },
+  "558": {
+   "name": "Frank Sprague",
+   "role": "Claremont School Board Chair"
+  },
+  "560": {
+   "name": "Frank Sprague",
+   "role": "Claremont School Board Chair"
+  },
+  "565": {
+   "name": "Frank Sprague",
+   "role": "Claremont School Board Chair"
+  },
+  "570": {
+   "name": "Frank Sprague",
+   "role": "Claremont School Board Chair"
+  },
+  "572": {
+   "name": "Frank Sprague",
+   "role": "Claremont School Board Chair"
+  },
+  "574": {
+   "name": "Frank Sprague",
+   "role": "Claremont School Board Chair"
+  },
+  "589": {
+   "name": "Frank Sprague",
+   "role": "Claremont School Board Chair"
+  },
+  "591": {
+   "name": "Frank Sprague",
+   "role": "Claremont School Board Chair"
+  },
+  "593": {
+   "name": "Frank Sprague",
+   "role": "Claremont School Board Chair"
+  },
+  "598": {
+   "name": "Frank Sprague",
+   "role": "Claremont School Board Chair"
+  },
+  "607": {
+   "name": "Frank Sprague",
+   "role": "Claremont School Board Chair"
+  },
+  "611": {
+   "name": "Frank Sprague",
+   "role": "Claremont School Board Chair"
+  },
+  "614": {
+   "name": "Frank Sprague",
+   "role": "Claremont School Board Chair"
+  },
+  "616": {
+   "name": "Frank Sprague",
+   "role": "Claremont School Board Chair"
+  },
+  "618": {
+   "name": "Frank Sprague",
+   "role": "Claremont School Board Chair"
+  },
+  "620": {
+   "name": "Frank Sprague",
+   "role": "Claremont School Board Chair"
+  },
+  "625": {
+   "name": "Frank Sprague",
+   "role": "Claremont School Board Chair"
+  },
+  "626": {
+   "name": "Frank Sprague",
+   "role": "Claremont School Board Chair"
+  },
+  "628": {
+   "name": "Frank Sprague",
+   "role": "Claremont School Board Chair"
+  },
+  "631": {
+   "name": "Frank Sprague",
+   "role": "Claremont School Board Chair"
+  },
+  "633": {
+   "name": "Frank Sprague",
+   "role": "Claremont School Board Chair"
+  },
+  "636": {
+   "name": "Frank Sprague",
+   "role": "Claremont School Board Chair"
+  },
+  "637": {
+   "name": "Frank Sprague",
+   "role": "Claremont School Board Chair"
+  },
+  "639": {
+   "name": "Frank Sprague",
+   "role": "Claremont School Board Chair"
+  },
+  "640": {
+   "name": "Frank Sprague",
+   "role": "Claremont School Board Chair"
+  },
+  "641": {
+   "name": "Frank Sprague",
+   "role": "Claremont School Board Chair"
+  },
+  "651": {
+   "name": "Frank Sprague",
+   "role": "Claremont School Board Chair"
+  },
+  "653": {
+   "name": "Frank Sprague",
+   "role": "Claremont School Board Chair"
+  },
+  "655": {
+   "name": "Frank Sprague",
+   "role": "Claremont School Board Chair"
+  },
+  "656": {
+   "name": "Frank Sprague",
+   "role": "Claremont School Board Chair"
+  },
+  "667": {
+   "name": "Frank Sprague",
+   "role": "Claremont School Board Chair"
+  },
+  "671": {
+   "name": "Frank Sprague",
+   "role": "Claremont School Board Chair"
+  },
+  "673": {
+   "name": "Frank Sprague",
+   "role": "Claremont School Board Chair"
+  },
+  "676": {
+   "name": "Frank Sprague",
+   "role": "Claremont School Board Chair"
+  },
+  "678": {
+   "name": "Frank Sprague",
+   "role": "Claremont School Board Chair"
+  },
+  "680": {
+   "name": "Frank Sprague",
+   "role": "Claremont School Board Chair"
+  },
+  "686": {
+   "name": "Frank Sprague",
+   "role": "Claremont School Board Chair"
+  },
+  "688": {
+   "name": "Frank Sprague",
+   "role": "Claremont School Board Chair"
+  },
+  "701": {
+   "name": "Frank Sprague",
+   "role": "Claremont School Board Chair"
+  },
+  "703": {
+   "name": "Frank Sprague",
+   "role": "Claremont School Board Chair"
+  },
+  "705": {
+   "name": "Frank Sprague",
+   "role": "Claremont School Board Chair"
+  },
+  "707": {
+   "name": "Frank Sprague",
+   "role": "Claremont School Board Chair"
+  },
+  "710": {
+   "name": "Frank Sprague",
+   "role": "Claremont School Board Chair"
+  },
+  "712": {
+   "name": "Frank Sprague",
+   "role": "Claremont School Board Chair"
+  },
+  "714": {
+   "name": "Frank Sprague",
+   "role": "Claremont School Board Chair"
+  },
+  "717": {
+   "name": "Frank Sprague",
+   "role": "Claremont School Board Chair"
+  },
+  "719": {
+   "name": "Frank Sprague",
+   "role": "Claremont School Board Chair"
+  },
+  "720": {
+   "name": "Frank Sprague",
+   "role": "Claremont School Board Chair"
+  },
+  "722": {
+   "name": "Frank Sprague",
+   "role": "Claremont School Board Chair"
+  },
+  "725": {
+   "name": "Frank Sprague",
+   "role": "Claremont School Board Chair"
+  },
+  "729": {
+   "name": "Frank Sprague",
+   "role": "Claremont School Board Chair"
+  },
+  "731": {
+   "name": "Frank Sprague",
+   "role": "Claremont School Board Chair"
+  },
+  "733": {
+   "name": "Frank Sprague",
+   "role": "Claremont School Board Chair"
+  },
+  "736": {
+   "name": "Frank Sprague",
+   "role": "Claremont School Board Chair"
+  },
+  "737": {
+   "name": "Frank Sprague",
+   "role": "Claremont School Board Chair"
+  },
+  "740": {
+   "name": "Frank Sprague",
+   "role": "Claremont School Board Chair"
+  },
+  "742": {
+   "name": "Frank Sprague",
+   "role": "Claremont School Board Chair"
+  },
+  "744": {
+   "name": "Frank Sprague",
+   "role": "Claremont School Board Chair"
+  },
+  "749": {
+   "name": "Frank Sprague",
+   "role": "Claremont School Board Chair"
+  },
+  "756": {
+   "name": "Frank Sprague",
+   "role": "Claremont School Board Chair"
+  },
+  "761": {
+   "name": "Frank Sprague",
+   "role": "Claremont School Board Chair"
+  }
+ }
+}

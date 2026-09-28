@@ -1,0 +1,83 @@
+{
+ "Speaker 1": {
+  "name": "Michael Petrin",
+  "role": "SAU 6 Board Chair"
+ },
+ "Speaker 2": {
+  "name": "Marjorie Erickson",
+  "role": "SAU 6 Board Vice Chair (Unity)"
+ },
+ "Speaker 3": {
+  "name": "Unidentified",
+  "role": "Unidentified - pledge, seconds, ayes and roll-call responses from several members"
+ },
+ "Speaker 4": {
+  "name": "Frank Sprague",
+  "role": "Claremont School Board Chair; SAU 6 Board member"
+ },
+ "Speaker 5": {
+  "name": "Rebecca Zullo",
+  "role": "Claremont School Board Vice Chair; SAU 6 Board member"
+ },
+ "Speaker 6": {
+  "name": "Michael Tempesta",
+  "role": "Incoming Superintendent, SAU 6 (starts 7/1/2019)"
+ },
+ "Speaker 7": {
+  "name": "Cory LeClair",
+  "role": "Acting Superintendent, SAU 6"
+ },
+ "Speaker 8": {
+  "name": "Rob Lovett Jr.",
+  "role": "Claremont School Board member (uncertain - never named; male member present per roll, reads the RSA 91-A nonpublic motion as Lovett did on 6/4/19; Robert McDevitt and Gary Bader not excluded)"
+ },
+ "Speaker 9": {
+  "name": "Unidentified",
+  "role": "Unidentified - board member familiar with server battery backups [284]; possibly a Unity member (McDevitt or Bader)"
+ },
+ "Speaker 10": {
+  "name": "Heather Whitney",
+  "role": "Claremont School Board member; SAU 6 Board member"
+ },
+ "Speaker 11": {
+  "name": "Josh Malloy",
+  "role": "Director of Instructional Technology, SAU 6"
+ },
+ "Speaker 12": {
+  "name": "Mary Woodman",
+  "role": "School district clerk and recording secretary"
+ },
+ "__overrides__": {
+  "6": {
+   "name": "Mary Woodman",
+   "role": "School district clerk and recording secretary"
+  },
+  "7": {
+   "name": "Mary Woodman",
+   "role": "School district clerk and recording secretary"
+  },
+  "8": {
+   "name": "Mary Woodman",
+   "role": "School district clerk and recording secretary"
+  },
+  "9": {
+   "name": "Mary Woodman",
+   "role": "School district clerk and recording secretary"
+  },
+  "65": {
+   "name": "Heather Whitney"
+  },
+  "247": {
+   "name": "Heather Whitney"
+  },
+  "249": {
+   "name": "Heather Whitney"
+  },
+  "226": {
+   "name": "Cory LeClair"
+  },
+  "228": {
+   "name": "Cory LeClair"
+  }
+ }
+}

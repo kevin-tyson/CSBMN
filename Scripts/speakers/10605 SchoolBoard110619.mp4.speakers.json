@@ -1,0 +1,167 @@
+{
+ "Speaker 1": {
+  "name": "Frank Sprague",
+  "role": "Claremont School Board Chair"
+ },
+ "Speaker 2": {
+  "name": "Michael Tempesta",
+  "role": "Superintendent, SAU 6"
+ },
+ "Speaker 3": {
+  "name": "Unidentified",
+  "role": "Public commenter identifying as 'e-Ticker News of Claremont' (ASR 'Tick or news of Claremont'); name not stated"
+ },
+ "Speaker 4": {
+  "name": "Cynthia Howard",
+  "role": "Public commenter, Ward 2"
+ },
+ "Speaker 5": {
+  "name": "Jason Benware",
+  "role": "Claremont School Board member"
+ },
+ "Speaker 6": {
+  "name": "Michael Petrin",
+  "role": "Claremont School Board member"
+ },
+ "Speaker 7": {
+  "name": "Mary Woodman",
+  "role": "School district clerk and board recording secretary"
+ },
+ "Speaker 8": {
+  "name": "Carolyn Towle",
+  "role": "Claremont School Board member"
+ },
+ "Speaker 9": {
+  "name": "Rebecca Zullo",
+  "role": "Claremont School Board member; Vice Chair per roster (uncertain - by elimination: female member other than Towle and Whitney, abstains for absence on 10/16)"
+ },
+ "Speaker 10": {
+  "name": "Donna Magoon",
+  "role": "Assistant Superintendent, SAU 6"
+ },
+ "Speaker 11": {
+  "name": "Donna Magoon",
+  "role": "Assistant Superintendent, SAU 6"
+ },
+ "Speaker 12": {
+  "name": "Tyler Sullivan",
+  "role": "Student representative to the school board, Stevens High School"
+ },
+ "Speaker 13": {
+  "name": "Grace Thorton",
+  "role": "Stevens High School senior, Friends of Rachel / CARE conference presenter (name as stated; spelling unverified)"
+ },
+ "Speaker 14": {
+  "name": "Unidentified",
+  "role": "Unidentified - short interjections and vote responses from several board members"
+ },
+ "Speaker 15": {
+  "name": "Heather Whitney",
+  "role": "Claremont School Board member"
+ },
+ "Speaker 16": {
+  "name": "Unidentified",
+  "role": "Unidentified - short interjections"
+ },
+ "Speaker 17": {
+  "name": "Unidentified",
+  "role": "Unidentified - short interjections"
+ },
+ "Speaker 18": {
+  "name": "Unidentified",
+  "role": "Unidentified - short interjection"
+ },
+ "__overrides__": {
+  "27": {
+   "name": "Richard Seaman",
+   "role": "Business Administrator, SAU 6 (introduced as Assistant Superintendent Seaman); attribution of [27]-[28],[40]-[43] uncertain - diarized with Benware but content is the administration's funding explanation after the chair's hand-off"
+  },
+  "28": {
+   "name": "Richard Seaman"
+  },
+  "40": {
+   "name": "Richard Seaman"
+  },
+  "41": {
+   "name": "Richard Seaman"
+  },
+  "42": {
+   "name": "Richard Seaman"
+  },
+  "43": {
+   "name": "Richard Seaman"
+  },
+  "57": {
+   "name": "Unidentified",
+   "role": "Unidentified - roll-call answers ('here') mixed with clerk Mary Woodman calling names"
+  },
+  "97": {
+   "name": "Donna Magoon"
+  },
+  "133": {
+   "name": "Grace Thorton"
+  },
+  "178": {
+   "name": "Heather Whitney"
+  },
+  "180": {
+   "name": "Heather Whitney"
+  },
+  "328": {
+   "name": "Frank Sprague"
+  },
+  "329": {
+   "name": "Richard Seaman"
+  },
+  "330": {
+   "name": "Richard Seaman"
+  },
+  "331": {
+   "name": "Richard Seaman"
+  },
+  "332": {
+   "name": "Unidentified",
+   "role": "Unidentified - question and answer on missed food-service reimbursements merged in one segment"
+  },
+  "334": {
+   "name": "Frank Sprague"
+  },
+  "344": {
+   "name": "Unidentified",
+   "role": "Unidentified board member (diarized with Tempesta; speaks as 'we as a board')"
+  },
+  "346": {
+   "name": "Unidentified",
+   "role": "Unidentified board member (diarized with Tempesta; speaks as 'we as a board')"
+  },
+  "349": {
+   "name": "Unidentified",
+   "role": "Unidentified board member (diarized with Tempesta; speaks as 'we as a board')"
+  },
+  "351": {
+   "name": "Unidentified",
+   "role": "Unidentified board member (diarized with Tempesta; speaks as 'we as a board')"
+  },
+  "409": {
+   "name": "Frank Sprague"
+  },
+  "413": {
+   "name": "Frank Sprague"
+  },
+  "373": {
+   "name": "Frank Sprague"
+  },
+  "374": {
+   "name": "Frank Sprague"
+  },
+  "375": {
+   "name": "Frank Sprague"
+  },
+  "383": {
+   "name": "Frank Sprague"
+  },
+  "384": {
+   "name": "Frank Sprague"
+  }
+ }
+}

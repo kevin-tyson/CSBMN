@@ -1,0 +1,316 @@
+{
+ "Speaker 1": {
+  "name": "Frank Sprague",
+  "role": "Claremont School Board Chair (co-presiding; calls meeting to order [0]; 'my school board chair notes' [24]; Rep.: 'your point, chairman, a chair, Sprague' [322] after [311-316])"
+ },
+ "Speaker 2": {
+  "name": "Unidentified",
+  "role": "Unidentified - cluster mixes the pledge, roll-call answers and short remarks; Mayor Lovett's closing segments overridden"
+ },
+ "Speaker 3": {
+  "name": "Unidentified",
+  "role": "Unidentified - cluster mixes the city clerk's and school board clerk's roll calls, Councilor Kier (overridden) and short remarks"
+ },
+ "Speaker 4": {
+  "name": "Unidentified",
+  "role": "Unidentified - public commenter, Ward 2, member of the Racial Healing Working Group (name garbled in ASR 'some settings I used that' [52]); [12] is a motion on the minutes, voice not established"
+ },
+ "Speaker 5": {
+  "name": "Charlene Lovett",
+  "role": "Mayor of Claremont, presiding for the City Council (addressed 'Madam Mayor' [291, 456]; 'I have been concerned about this issue since I served on the school board' [265]; McGoodwin: 'Charlene, you were on the board' [46])"
+ },
+ "Speaker 6": {
+  "name": "Middleton McGoodwin",
+  "role": "Superintendent, SAU 6 (recognized by the mayor with a State House clock [26-42] and thanks her [43-47]; McNutt: 'Middleton' [90])"
+ },
+ "Speaker 7": {
+  "name": "Middleton McGoodwin",
+  "role": "Superintendent, SAU 6 (onset 'I am' [44] of his thanks [45])"
+ },
+ "Speaker 8": {
+  "name": "Walt Stapleton",
+  "role": "Public commenter, Ward 3, candidate for NH House (onset 'Good evening.' [64] before his self-ID [65])"
+ },
+ "Speaker 9": {
+  "name": "Walt Stapleton",
+  "role": "Public commenter, Ward 3, candidate for NH House (self-ID 'I'm Walt Stapleton from Ward three' [65])"
+ },
+ "Speaker 10": {
+  "name": "Ryan McNutt",
+  "role": "City Manager, Claremont (mayor: 'Mr. McKnight. Did you have anything' [89] -> [90]; 'Mr. McNutt, you're going to be back on the fourth' [187] -> [188])"
+ },
+ "Speaker 11": {
+  "name": "Pope",
+  "role": "Claremont City Councilor, first name not on this recording ('Counselor Pope.' [99, 210, 365] each followed by this cluster; 'I agree with Mr. Pope.' [213])"
+ },
+ "Speaker 12": {
+  "name": "Carolyn Towle",
+  "role": "Claremont School Board member (mayor: 'school board member tall had asked' [307] -> [308-310]; Sprague: 'Carolyn Todd will be taking the lead' on legislative focus [24])"
+ },
+ "Speaker 13": {
+  "name": "Michelle Pierce",
+  "role": "Claremont School Board member ('Pierce.' [117] -> [119]; 'Michelle.' [220] -> [221])"
+ },
+ "Speaker 14": {
+  "name": "Steven Horsky",
+  "role": "Claremont School Board member (uncertain - no recognition on the record; school board member volunteering to stand in [219, 243-247]; attribution by speech pattern and elimination)"
+ },
+ "Speaker 15": {
+  "name": "David Putnam",
+  "role": "Public commenter, former Claremont School Board member (McNutt: 'Mr. Putnam's idea of inviting the Lebanon person' [266] = [252]; first name from the mayor's 'David.' [206] before his turn, uncertain)"
+ },
+ "Speaker 16": {
+  "name": "Allen Damren",
+  "role": "Assistant Mayor, Claremont ('Mr. mayor.' [268, 373] -> this cluster; 'what the assistant mayor said' [169]; 'Assistant Mayor Damron suggested August 9th' [469] = [269])"
+ },
+ "Speaker 17": {
+  "name": "Jason Benware",
+  "role": "Claremont School Board member ('Oh, Jason. Yes.' [296] -> [297-305])"
+ },
+ "Speaker 18": {
+  "name": "Gauthier",
+  "role": "NH State Representative (mayor: 'So, Representative Gauthier.' [348] -> [349]; introduced as 'Representative Gauthier' [274]; first name and spelling not verified)"
+ },
+ "Speaker 19": {
+  "name": "Cloutier",
+  "role": "NH State Representative, Claremont (introduced as 'Representative Currier' [274], addressed 'Representative Claudia' [289, 333]; refers to 'represent Gauthier and I' [293]; spelling Cloutier is a best-effort reading of the ASR, not verified)"
+ },
+ "__overrides__": {
+  "59": {
+   "name": "Marjorie Erickson",
+   "role": "SAU 6 Board Chair (Unity) (self-ID 'Hi, I'm Marjorie Erickson' [59], 'just ... elected to as chairwoman of the Saw six board' [60]; McGoodwin: 'Doctor Erickson' [437])"
+  },
+  "60": {
+   "name": "Marjorie Erickson",
+   "role": "SAU 6 Board Chair (Unity) (self-ID 'Hi, I'm Marjorie Erickson' [59], 'just ... elected to as chairwoman of the Saw six board' [60]; McGoodwin: 'Doctor Erickson' [437])"
+  },
+  "61": {
+   "name": "Marjorie Erickson",
+   "role": "SAU 6 Board Chair (Unity) (self-ID 'Hi, I'm Marjorie Erickson' [59], 'just ... elected to as chairwoman of the Saw six board' [60]; McGoodwin: 'Doctor Erickson' [437])"
+  },
+  "62": {
+   "name": "Marjorie Erickson",
+   "role": "SAU 6 Board Chair (Unity) (self-ID 'Hi, I'm Marjorie Erickson' [59], 'just ... elected to as chairwoman of the Saw six board' [60]; McGoodwin: 'Doctor Erickson' [437])"
+  },
+  "438": {
+   "name": "Marjorie Erickson",
+   "role": "SAU 6 Board Chair (Unity) (self-ID 'Hi, I'm Marjorie Erickson' [59], 'just ... elected to as chairwoman of the Saw six board' [60]; McGoodwin: 'Doctor Erickson' [437])"
+  },
+  "440": {
+   "name": "Marjorie Erickson",
+   "role": "SAU 6 Board Chair (Unity) (self-ID 'Hi, I'm Marjorie Erickson' [59], 'just ... elected to as chairwoman of the Saw six board' [60]; McGoodwin: 'Doctor Erickson' [437])"
+  },
+  "441": {
+   "name": "Marjorie Erickson",
+   "role": "SAU 6 Board Chair (Unity) (self-ID 'Hi, I'm Marjorie Erickson' [59], 'just ... elected to as chairwoman of the Saw six board' [60]; McGoodwin: 'Doctor Erickson' [437])"
+  },
+  "442": {
+   "name": "Marjorie Erickson",
+   "role": "SAU 6 Board Chair (Unity) (self-ID 'Hi, I'm Marjorie Erickson' [59], 'just ... elected to as chairwoman of the Saw six board' [60]; McGoodwin: 'Doctor Erickson' [437])"
+  },
+  "443": {
+   "name": "Marjorie Erickson",
+   "role": "SAU 6 Board Chair (Unity) (self-ID 'Hi, I'm Marjorie Erickson' [59], 'just ... elected to as chairwoman of the Saw six board' [60]; McGoodwin: 'Doctor Erickson' [437])"
+  },
+  "444": {
+   "name": "Marjorie Erickson",
+   "role": "SAU 6 Board Chair (Unity) (self-ID 'Hi, I'm Marjorie Erickson' [59], 'just ... elected to as chairwoman of the Saw six board' [60]; McGoodwin: 'Doctor Erickson' [437])"
+  },
+  "445": {
+   "name": "Marjorie Erickson",
+   "role": "SAU 6 Board Chair (Unity) (self-ID 'Hi, I'm Marjorie Erickson' [59], 'just ... elected to as chairwoman of the Saw six board' [60]; McGoodwin: 'Doctor Erickson' [437])"
+  },
+  "446": {
+   "name": "Marjorie Erickson",
+   "role": "SAU 6 Board Chair (Unity) (self-ID 'Hi, I'm Marjorie Erickson' [59], 'just ... elected to as chairwoman of the Saw six board' [60]; McGoodwin: 'Doctor Erickson' [437])"
+  },
+  "447": {
+   "name": "Marjorie Erickson",
+   "role": "SAU 6 Board Chair (Unity) (self-ID 'Hi, I'm Marjorie Erickson' [59], 'just ... elected to as chairwoman of the Saw six board' [60]; McGoodwin: 'Doctor Erickson' [437])"
+  },
+  "448": {
+   "name": "Marjorie Erickson",
+   "role": "SAU 6 Board Chair (Unity) (self-ID 'Hi, I'm Marjorie Erickson' [59], 'just ... elected to as chairwoman of the Saw six board' [60]; McGoodwin: 'Doctor Erickson' [437])"
+  },
+  "449": {
+   "name": "Marjorie Erickson",
+   "role": "SAU 6 Board Chair (Unity) (self-ID 'Hi, I'm Marjorie Erickson' [59], 'just ... elected to as chairwoman of the Saw six board' [60]; McGoodwin: 'Doctor Erickson' [437])"
+  },
+  "452": {
+   "name": "Marjorie Erickson",
+   "role": "SAU 6 Board Chair (Unity) (self-ID 'Hi, I'm Marjorie Erickson' [59], 'just ... elected to as chairwoman of the Saw six board' [60]; McGoodwin: 'Doctor Erickson' [437])"
+  },
+  "114": {
+   "name": "Abigail Kier",
+   "role": "Claremont City Councilor (recognized 'Council cares' [177], 'councilor gear' [206]; Benware: 'I agree with Mrs. Chiara' [215]; ASR forms of Kier)"
+  },
+  "115": {
+   "name": "Abigail Kier",
+   "role": "Claremont City Councilor (recognized 'Council cares' [177], 'councilor gear' [206]; Benware: 'I agree with Mrs. Chiara' [215]; ASR forms of Kier)"
+  },
+  "116": {
+   "name": "Abigail Kier",
+   "role": "Claremont City Councilor (recognized 'Council cares' [177], 'councilor gear' [206]; Benware: 'I agree with Mrs. Chiara' [215]; ASR forms of Kier)"
+  },
+  "178": {
+   "name": "Abigail Kier",
+   "role": "Claremont City Councilor (recognized 'Council cares' [177], 'councilor gear' [206]; Benware: 'I agree with Mrs. Chiara' [215]; ASR forms of Kier)"
+  },
+  "179": {
+   "name": "Abigail Kier",
+   "role": "Claremont City Councilor (recognized 'Council cares' [177], 'councilor gear' [206]; Benware: 'I agree with Mrs. Chiara' [215]; ASR forms of Kier)"
+  },
+  "207": {
+   "name": "Abigail Kier",
+   "role": "Claremont City Councilor (recognized 'Council cares' [177], 'councilor gear' [206]; Benware: 'I agree with Mrs. Chiara' [215]; ASR forms of Kier)"
+  },
+  "208": {
+   "name": "Abigail Kier",
+   "role": "Claremont City Councilor (recognized 'Council cares' [177], 'councilor gear' [206]; Benware: 'I agree with Mrs. Chiara' [215]; ASR forms of Kier)"
+  },
+  "99": {
+   "name": "Charlene Lovett",
+   "role": "Mayor of Claremont, presiding for the City Council (recognition absorbed into another cluster)"
+  },
+  "106": {
+   "name": "Charlene Lovett",
+   "role": "Mayor of Claremont, presiding for the City Council (recognition absorbed into another cluster)"
+  },
+  "107": {
+   "name": "Charlene Lovett",
+   "role": "Mayor of Claremont, presiding for the City Council (recognition absorbed into another cluster)"
+  },
+  "223": {
+   "name": "Charlene Lovett",
+   "role": "Mayor of Claremont, presiding for the City Council (recognition absorbed into another cluster)"
+  },
+  "454": {
+   "name": "Charlene Lovett",
+   "role": "Mayor of Claremont, presiding for the City Council (closing items; addressed 'Madam Mayor' [456])"
+  },
+  "455": {
+   "name": "Charlene Lovett",
+   "role": "Mayor of Claremont, presiding for the City Council (closing items; addressed 'Madam Mayor' [456])"
+  },
+  "465": {
+   "name": "Charlene Lovett",
+   "role": "Mayor of Claremont, presiding for the City Council (closing items; addressed 'Madam Mayor' [456])"
+  },
+  "466": {
+   "name": "Charlene Lovett",
+   "role": "Mayor of Claremont, presiding for the City Council (closing items; addressed 'Madam Mayor' [456])"
+  },
+  "468": {
+   "name": "Charlene Lovett",
+   "role": "Mayor of Claremont, presiding for the City Council (closing items; addressed 'Madam Mayor' [456])"
+  },
+  "469": {
+   "name": "Charlene Lovett",
+   "role": "Mayor of Claremont, presiding for the City Council (closing items; addressed 'Madam Mayor' [456])"
+  },
+  "471": {
+   "name": "Charlene Lovett",
+   "role": "Mayor of Claremont, presiding for the City Council (closing items; addressed 'Madam Mayor' [456])"
+  },
+  "473": {
+   "name": "Charlene Lovett",
+   "role": "Mayor of Claremont, presiding for the City Council (closing items; addressed 'Madam Mayor' [456])"
+  },
+  "474": {
+   "name": "Charlene Lovett",
+   "role": "Mayor of Claremont, presiding for the City Council (closing items; addressed 'Madam Mayor' [456])"
+  },
+  "475": {
+   "name": "Charlene Lovett",
+   "role": "Mayor of Claremont, presiding for the City Council (closing items; addressed 'Madam Mayor' [456])"
+  },
+  "476": {
+   "name": "Charlene Lovett",
+   "role": "Mayor of Claremont, presiding for the City Council (closing items; addressed 'Madam Mayor' [456])"
+  },
+  "480": {
+   "name": "Charlene Lovett",
+   "role": "Mayor of Claremont, presiding for the City Council (closing items; addressed 'Madam Mayor' [456])"
+  },
+  "481": {
+   "name": "Charlene Lovett",
+   "role": "Mayor of Claremont, presiding for the City Council (closing items; addressed 'Madam Mayor' [456])"
+  },
+  "483": {
+   "name": "Charlene Lovett",
+   "role": "Mayor of Claremont, presiding for the City Council (closing items; addressed 'Madam Mayor' [456])"
+  },
+  "486": {
+   "name": "Charlene Lovett",
+   "role": "Mayor of Claremont, presiding for the City Council (closing items; addressed 'Madam Mayor' [456])"
+  },
+  "488": {
+   "name": "Charlene Lovett",
+   "role": "Mayor of Claremont, presiding for the City Council (closing items; addressed 'Madam Mayor' [456])"
+  },
+  "490": {
+   "name": "Charlene Lovett",
+   "role": "Mayor of Claremont, presiding for the City Council (closing items; addressed 'Madam Mayor' [456])"
+  },
+  "492": {
+   "name": "Charlene Lovett",
+   "role": "Mayor of Claremont, presiding for the City Council (closing items; addressed 'Madam Mayor' [456])"
+  },
+  "224": {
+   "name": "Jonathan Stone",
+   "role": "Claremont City Councilor (recognized 'Councilor Stone.' [223])"
+  },
+  "226": {
+   "name": "Jonathan Stone",
+   "role": "Claremont City Councilor (recognized 'Councilor Stone.' [223])"
+  },
+  "298": {
+   "name": "Jason Benware",
+   "role": "Claremont School Board member ('Oh, Jason. Yes.' [296] -> [297-305])"
+  },
+  "300": {
+   "name": "Jason Benware",
+   "role": "Claremont School Board member ('Oh, Jason. Yes.' [296] -> [297-305])"
+  },
+  "302": {
+   "name": "Jason Benware",
+   "role": "Claremont School Board member ('Oh, Jason. Yes.' [296] -> [297-305])"
+  },
+  "131": {
+   "name": "Steven Horsky",
+   "role": "Claremont School Board member (uncertain - no recognition on the record; school board member volunteering to stand in [219, 243-247]; attribution by speech pattern and elimination)"
+  },
+  "132": {
+   "name": "Steven Horsky",
+   "role": "Claremont School Board member (uncertain - no recognition on the record; school board member volunteering to stand in [219, 243-247]; attribution by speech pattern and elimination)"
+  },
+  "133": {
+   "name": "Steven Horsky",
+   "role": "Claremont School Board member (uncertain - no recognition on the record; school board member volunteering to stand in [219, 243-247]; attribution by speech pattern and elimination)"
+  },
+  "134": {
+   "name": "Steven Horsky",
+   "role": "Claremont School Board member (uncertain - no recognition on the record; school board member volunteering to stand in [219, 243-247]; attribution by speech pattern and elimination)"
+  },
+  "291": {
+   "name": "Cloutier",
+   "role": "NH State Representative, Claremont (introduced as 'Representative Currier' [274], addressed 'Representative Claudia' [289, 333]; refers to 'represent Gauthier and I' [293]; spelling Cloutier is a best-effort reading of the ASR, not verified)"
+  },
+  "292": {
+   "name": "Cloutier",
+   "role": "NH State Representative, Claremont (introduced as 'Representative Currier' [274], addressed 'Representative Claudia' [289, 333]; refers to 'represent Gauthier and I' [293]; spelling Cloutier is a best-effort reading of the ASR, not verified)"
+  },
+  "277": {
+   "name": "Gauthier",
+   "role": "NH State Representative (mayor: 'So, Representative Gauthier.' [348] -> [349]; introduced as 'Representative Gauthier' [274]; first name and spelling not verified)"
+  },
+  "108": {
+   "name": "Carolyn Towle",
+   "role": "Claremont School Board member (mayor: 'school board member tall had asked' [307] -> [308-310]; Sprague: 'Carolyn Todd will be taking the lead' on legislative focus [24])"
+  },
+  "151": {
+   "name": "David Putnam",
+   "role": "Public commenter, former Claremont School Board member (McNutt: 'Mr. Putnam's idea of inviting the Lebanon person' [266] = [252]; first name from the mayor's 'David.' [206] before his turn, uncertain)"
+  }
+ }
+}

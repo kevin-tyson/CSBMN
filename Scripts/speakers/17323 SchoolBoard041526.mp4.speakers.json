@@ -1,0 +1,552 @@
+{
+ "Speaker 1": {
+  "name": "Candace Crawford",
+  "role": "School Board Chair (presides; also on the Finance and SRVRTC subcommittees) (short fragments of the chair's own speech split into their own cluster)"
+ },
+ "Speaker 2": {
+  "name": "Candace Crawford",
+  "role": "School Board Chair (presides; also on the Finance and SRVRTC subcommittees)"
+ },
+ "Speaker 3": {
+  "name": "Don Lavalette",
+  "role": "School Board Member; Policy and Finance subcommittees; ad hoc reconfiguration committee (MERGED CLUSTER - this label also caught Dr. Michael Herrington, Brian Rapp, Michael Petrin, the two student ambassadors and one public commenter; those segments are reassigned individually)"
+ },
+ "Speaker 4": {
+  "name": "Michelle Herrington",
+  "role": "Director, Sugar River Valley Regional Technical Center (self-identified at this meeting as 'the director at the tech center'; ASR renders the surname 'Harrington') (this cluster also caught the clerk's roll call - reassigned individually)"
+ },
+ "Speaker 5": {
+  "name": "Ellie Girard",
+  "role": "Student, Sugar River Valley Regional Technical Center / Stevens High School (entrepreneurship program); U.S. Presidential Scholars Program nominee (surname as heard - ASR gives both 'Girard' and 'Gerard')"
+ },
+ "Speaker 6": {
+  "name": "Brian Rapp",
+  "role": "School Board Member; Policy and Capital Improvement subcommittees (MERGED CLUSTER - this label also caught the two student ambassadors, Don Lavalette and the chair; those segments are reassigned individually)"
+ },
+ "Speaker 7": {
+  "name": "Unidentified",
+  "role": "Brief crosstalk and assent fragments; diarizer catch-all cluster - voice not distinguishable"
+ },
+ "Speaker 8": {
+  "name": "Unidentified",
+  "role": "Student ambassador, Sugar River Valley Regional Technical Center - Justin McGuire or Cody Button (only those two students spoke; not distinguishable by voice)"
+ },
+ "Speaker 9": {
+  "name": "Heather Whitney",
+  "role": "School Board Member; chair of the ad hoc school reconfiguration committee; Finance subcommittee (MERGED CLUSTER - this label also caught Interim Superintendent Kerry Kennedy, the clerk and the chair; those segments are reassigned individually)"
+ },
+ "Speaker 10": {
+  "name": "Camron Lownie",
+  "role": "Public commenter, Ward 2; teacher and family small-business owner (self-identified: 'Cameron Lonnie, Ward two, teacher')"
+ },
+ "Speaker 11": {
+  "name": "Brian Rapp",
+  "role": "School Board Member; Policy and Capital Improvement subcommittees (second cluster for the same voice - the diarizer split it)"
+ },
+ "Speaker 12": {
+  "name": "Kerry Kennedy",
+  "role": "Interim Superintendent, SAU 6"
+ },
+ "Speaker 13": {
+  "name": "Loren Howard",
+  "role": "School Board Member; Policy subcommittee chair; ad hoc communications"
+ },
+ "Speaker 14": {
+  "name": "Unidentified",
+  "role": "A board member registering a 'no' on the motion to have counsel review the bylaws; voice not distinguishable"
+ },
+ "Speaker 15": {
+  "name": "Michael Petrin",
+  "role": "School Board Vice Chair; chair of the Sugar River Valley Regional Technical Center subcommittee and member of the ad hoc superintendent/leadership search committee (Don Lavalette leaks into this cluster during the teacher-appreciation discussion - reassigned individually)"
+ },
+ "__overrides__": {
+  "387": {
+   "name": "Loren Howard",
+   "role": "School Board Member; Policy subcommittee chair; ad hoc communications (roll-call response, identified by position in the standing roll-call order Howard, Lavalette, Madden, Petrin, Rapp, Whitney, Crawford - Madden absent)"
+  },
+  "2": {
+   "name": "Multiple",
+   "role": "Group recitation of the Pledge of Allegiance (captured as one voice)"
+  },
+  "46": {
+   "name": "Justin McGuire",
+   "role": "Student ambassador, Sugar River Valley Regional Technical Center (entrepreneurship program; self-identified)"
+  },
+  "50": {
+   "name": "Justin McGuire",
+   "role": "Student ambassador, Sugar River Valley Regional Technical Center (entrepreneurship program; self-identified)"
+  },
+  "48": {
+   "name": "Unidentified",
+   "role": "Brief acknowledgement during the student-ambassador presentation - the chair or the tech-center director, not distinguishable"
+  },
+  "53": {
+   "name": "Michelle Herrington",
+   "role": "Director, Sugar River Valley Regional Technical Center (self-identified at this meeting as 'the director at the tech center'; ASR renders the surname 'Harrington') (sentence continuation or onset clipped into a neighbouring cluster by the diarizer)"
+  },
+  "64": {
+   "name": "Unidentified",
+   "role": "Student ambassador(s) thanking the board after the recognition"
+  },
+  "69": {
+   "name": "Michael Petrin",
+   "role": "School Board Vice Chair; chair of the Sugar River Valley Regional Technical Center subcommittee and member of the ad hoc superintendent/leadership search committee (reporting for the ad hoc leadership/superintendent search committee; the chair recognises him at segment 67 - ASR 'Mr. Patron')"
+  },
+  "70": {
+   "name": "Michael Petrin",
+   "role": "School Board Vice Chair; chair of the Sugar River Valley Regional Technical Center subcommittee and member of the ad hoc superintendent/leadership search committee (reporting for the ad hoc leadership/superintendent search committee; the chair recognises him at segment 67 - ASR 'Mr. Patron')"
+  },
+  "125": {
+   "name": "Brian Rapp",
+   "role": "School Board Member; Policy and Capital Improvement subcommittees (clarifying his own remarks recorded in the 4/1/26 minutes; the statement alternates between two clusters)"
+  },
+  "127": {
+   "name": "Brian Rapp",
+   "role": "School Board Member; Policy and Capital Improvement subcommittees (clarifying his own remarks recorded in the 4/1/26 minutes; the statement alternates between two clusters)"
+  },
+  "129": {
+   "name": "Brian Rapp",
+   "role": "School Board Member; Policy and Capital Improvement subcommittees (clarifying his own remarks recorded in the 4/1/26 minutes; the statement alternates between two clusters)"
+  },
+  "143": {
+   "name": "Camron Lownie",
+   "role": "Public commenter, Ward 2; teacher and family small-business owner (self-identified: 'Cameron Lonnie, Ward two, teacher') (self-identification; onset clipped into a neighbouring cluster)"
+  },
+  "176": {
+   "name": "Michael Herrington",
+   "role": "Principal, Stevens High School (ASR renders the surname 'Harrington')"
+  },
+  "177": {
+   "name": "Michael Herrington",
+   "role": "Principal, Stevens High School (ASR renders the surname 'Harrington')"
+  },
+  "178": {
+   "name": "Michael Herrington",
+   "role": "Principal, Stevens High School (ASR renders the surname 'Harrington')"
+  },
+  "179": {
+   "name": "Michael Herrington",
+   "role": "Principal, Stevens High School (ASR renders the surname 'Harrington')"
+  },
+  "180": {
+   "name": "Michael Herrington",
+   "role": "Principal, Stevens High School (ASR renders the surname 'Harrington')"
+  },
+  "182": {
+   "name": "Michael Herrington",
+   "role": "Principal, Stevens High School (ASR renders the surname 'Harrington')"
+  },
+  "183": {
+   "name": "Michael Herrington",
+   "role": "Principal, Stevens High School (ASR renders the surname 'Harrington')"
+  },
+  "184": {
+   "name": "Michael Herrington",
+   "role": "Principal, Stevens High School (ASR renders the surname 'Harrington')"
+  },
+  "186": {
+   "name": "Michael Herrington",
+   "role": "Principal, Stevens High School (ASR renders the surname 'Harrington')"
+  },
+  "188": {
+   "name": "Michael Herrington",
+   "role": "Principal, Stevens High School (ASR renders the surname 'Harrington')"
+  },
+  "189": {
+   "name": "Michael Herrington",
+   "role": "Principal, Stevens High School (ASR renders the surname 'Harrington')"
+  },
+  "190": {
+   "name": "Michael Herrington",
+   "role": "Principal, Stevens High School (ASR renders the surname 'Harrington')"
+  },
+  "192": {
+   "name": "Michael Herrington",
+   "role": "Principal, Stevens High School (ASR renders the surname 'Harrington')"
+  },
+  "194": {
+   "name": "Michael Herrington",
+   "role": "Principal, Stevens High School (ASR renders the surname 'Harrington')"
+  },
+  "196": {
+   "name": "Michael Herrington",
+   "role": "Principal, Stevens High School (ASR renders the surname 'Harrington')"
+  },
+  "199": {
+   "name": "Michael Herrington",
+   "role": "Principal, Stevens High School (ASR renders the surname 'Harrington')"
+  },
+  "201": {
+   "name": "Michael Herrington",
+   "role": "Principal, Stevens High School (ASR renders the surname 'Harrington')"
+  },
+  "202": {
+   "name": "Michael Herrington",
+   "role": "Principal, Stevens High School (ASR renders the surname 'Harrington')"
+  },
+  "204": {
+   "name": "Michael Herrington",
+   "role": "Principal, Stevens High School (ASR renders the surname 'Harrington')"
+  },
+  "207": {
+   "name": "Michael Herrington",
+   "role": "Principal, Stevens High School (ASR renders the surname 'Harrington')"
+  },
+  "209": {
+   "name": "Michael Herrington",
+   "role": "Principal, Stevens High School (ASR renders the surname 'Harrington')"
+  },
+  "247": {
+   "name": "Brian Rapp",
+   "role": "School Board Member; Policy and Capital Improvement subcommittees"
+  },
+  "253": {
+   "name": "Brian Rapp",
+   "role": "School Board Member; Policy and Capital Improvement subcommittees"
+  },
+  "255": {
+   "name": "Brian Rapp",
+   "role": "School Board Member; Policy and Capital Improvement subcommittees"
+  },
+  "257": {
+   "name": "Brian Rapp",
+   "role": "School Board Member; Policy and Capital Improvement subcommittees"
+  },
+  "299": {
+   "name": "Multiple",
+   "role": "Voice vote on the bylaws-review motion (chorus of ayes captured as one voice)"
+  },
+  "311": {
+   "name": "Brian Rapp",
+   "role": "School Board Member; Policy and Capital Improvement subcommittees (the chair recognises him at segment 310 - 'Okay, Brian')"
+  },
+  "312": {
+   "name": "Brian Rapp",
+   "role": "School Board Member; Policy and Capital Improvement subcommittees (the chair recognises him at segment 310 - 'Okay, Brian')"
+  },
+  "316": {
+   "name": "Brian Rapp",
+   "role": "School Board Member; Policy and Capital Improvement subcommittees (the chair recognises him at segment 310 - 'Okay, Brian')"
+  },
+  "318": {
+   "name": "Brian Rapp",
+   "role": "School Board Member; Policy and Capital Improvement subcommittees (the chair recognises him at segment 310 - 'Okay, Brian')"
+  },
+  "323": {
+   "name": "Brian Rapp",
+   "role": "School Board Member; Policy and Capital Improvement subcommittees (the chair recognises him at segment 310 - 'Okay, Brian')"
+  },
+  "334": {
+   "name": "Loren Howard",
+   "role": "School Board Member; Policy subcommittee chair; ad hoc communications (sentence continuation or onset clipped into a neighbouring cluster by the diarizer)"
+  },
+  "342": {
+   "name": "Loren Howard",
+   "role": "School Board Member; Policy subcommittee chair; ad hoc communications (sentence continuation or onset clipped into a neighbouring cluster by the diarizer)"
+  },
+  "345": {
+   "name": "Brian Rapp",
+   "role": "School Board Member; Policy and Capital Improvement subcommittees"
+  },
+  "347": {
+   "name": "Brian Rapp",
+   "role": "School Board Member; Policy and Capital Improvement subcommittees"
+  },
+  "349": {
+   "name": "Brian Rapp",
+   "role": "School Board Member; Policy and Capital Improvement subcommittees"
+  },
+  "353": {
+   "name": "Brian Rapp",
+   "role": "School Board Member; Policy and Capital Improvement subcommittees"
+  },
+  "357": {
+   "name": "Brian Rapp",
+   "role": "School Board Member; Policy and Capital Improvement subcommittees"
+  },
+  "358": {
+   "name": "Brian Rapp",
+   "role": "School Board Member; Policy and Capital Improvement subcommittees"
+  },
+  "379": {
+   "name": "Multiple",
+   "role": "Roll-call responses from three board members captured in one segment - in roll-call order Lavalette, Petrin and Rapp (entering nonpublic session)"
+  },
+  "384": {
+   "name": "Candace Crawford",
+   "role": "School Board Chair (presides; also on the Finance and SRVRTC subcommittees) (sentence continuation or onset clipped into a neighbouring cluster by the diarizer)"
+  },
+  "390": {
+   "name": "Brian Rapp",
+   "role": "School Board Member; Policy and Capital Improvement subcommittees (roll-call response, identified by position in the standing roll-call order Howard, Lavalette, Madden, Petrin, Rapp, Whitney, Crawford - Madden absent)"
+  },
+  "404": {
+   "name": "Unidentified",
+   "role": "A board member announcing an abstention on the staff-rehire vote as to one named employee; the surname is heard 'Mrs. Robb' at ASR confidence 0.24 and the voice sits in a merged cluster - speaker and employee both unresolved"
+  },
+  "428": {
+   "name": "Candace Crawford",
+   "role": "School Board Chair (presides; also on the Finance and SRVRTC subcommittees) (reassuring Mr. Howard; the chair's 'It's okay' follows in segment 430)"
+  },
+  "5": {
+   "name": "Noelle Kronberg",
+   "role": "School Board Clerk (calls the roll and keeps the minutes) (calls the opening roll)"
+  },
+  "7": {
+   "name": "Noelle Kronberg",
+   "role": "School Board Clerk (calls the roll and keeps the minutes) (calls the opening roll)"
+  },
+  "25": {
+   "name": "Unidentified",
+   "role": "Brief thanks following the chair's congratulations - Ellie Girard or Michelle Herrington, not distinguishable"
+  },
+  "28": {
+   "name": "Candace Crawford",
+   "role": "School Board Chair (presides; also on the Finance and SRVRTC subcommittees) (sentence continuation or onset clipped into a neighbouring cluster by the diarizer)"
+  },
+  "47": {
+   "name": "Cody Button",
+   "role": "Student ambassador, Sugar River Valley Regional Technical Center (plumbing, heating and HVAC program; self-identified)"
+  },
+  "49": {
+   "name": "Justin McGuire",
+   "role": "Student ambassador, Sugar River Valley Regional Technical Center (entrepreneurship program; self-identified)"
+  },
+  "51": {
+   "name": "Justin McGuire",
+   "role": "Student ambassador, Sugar River Valley Regional Technical Center (entrepreneurship program; self-identified)"
+  },
+  "52": {
+   "name": "Justin McGuire",
+   "role": "Student ambassador, Sugar River Valley Regional Technical Center (entrepreneurship program; self-identified)"
+  },
+  "56": {
+   "name": "Unidentified",
+   "role": "Student ambassador, Sugar River Valley Regional Technical Center - Justin McGuire or Cody Button (not distinguishable by voice)"
+  },
+  "59": {
+   "name": "Unidentified",
+   "role": "Student ambassador, Sugar River Valley Regional Technical Center - Justin McGuire or Cody Button (not distinguishable by voice)"
+  },
+  "62": {
+   "name": "Candace Crawford",
+   "role": "School Board Chair (presides; also on the Finance and SRVRTC subcommittees) (sentence continuation or onset clipped into a neighbouring cluster by the diarizer)"
+  },
+  "85": {
+   "name": "Candace Crawford",
+   "role": "School Board Chair (presides; also on the Finance and SRVRTC subcommittees) (sentence continuation or onset clipped into a neighbouring cluster by the diarizer)"
+  },
+  "108": {
+   "name": "Candace Crawford",
+   "role": "School Board Chair (presides; also on the Finance and SRVRTC subcommittees) (sentence continuation or onset clipped into a neighbouring cluster by the diarizer)"
+  },
+  "87": {
+   "name": "Don Lavalette",
+   "role": "School Board Member; Policy and Finance subcommittees; ad hoc reconfiguration committee (opening his review of the 4/1/26 draft minutes; 'So no Noel' = 'So, Noelle', addressing the clerk)"
+  },
+  "88": {
+   "name": "Don Lavalette",
+   "role": "School Board Member; Policy and Finance subcommittees; ad hoc reconfiguration committee (opening his review of the 4/1/26 draft minutes; 'So no Noel' = 'So, Noelle', addressing the clerk)"
+  },
+  "90": {
+   "name": "Don Lavalette",
+   "role": "School Board Member; Policy and Finance subcommittees; ad hoc reconfiguration committee (opening his review of the 4/1/26 draft minutes; 'So no Noel' = 'So, Noelle', addressing the clerk)"
+  },
+  "136": {
+   "name": "Unidentified",
+   "role": "Motion to approve the consent agenda as amended plus another member's 'Second' - two voices captured in one segment"
+  },
+  "54": {
+   "name": "Michelle Herrington",
+   "role": "Director, Sugar River Valley Regional Technical Center (self-identified at this meeting as 'the director at the tech center'; ASR renders the surname 'Harrington')"
+  },
+  "66": {
+   "name": "Michelle Herrington",
+   "role": "Director, Sugar River Valley Regional Technical Center (self-identified at this meeting as 'the director at the tech center'; ASR renders the surname 'Harrington')"
+  },
+  "377": {
+   "name": "Noelle Kronberg",
+   "role": "School Board Clerk (calls the roll and keeps the minutes) (calling the roll on entering nonpublic session)"
+  },
+  "389": {
+   "name": "Michael Petrin",
+   "role": "School Board Vice Chair; chair of the Sugar River Valley Regional Technical Center subcommittee and member of the ad hoc superintendent/leadership search committee (roll-call response, identified by position in the standing roll-call order Howard, Lavalette, Madden, Petrin, Rapp, Whitney, Crawford - Madden absent)"
+  },
+  "414": {
+   "name": "Loren Howard",
+   "role": "School Board Member; Policy subcommittee chair; ad hoc communications (sentence continuation or onset clipped into a neighbouring cluster by the diarizer)"
+  },
+  "448": {
+   "name": "Heather Whitney",
+   "role": "School Board Member; chair of the ad hoc school reconfiguration committee; Finance subcommittee (one continuous statement about agenda-posting deadlines that the diarizer split across five clusters, segments 448-456)"
+  },
+  "455": {
+   "name": "Heather Whitney",
+   "role": "School Board Member; chair of the ad hoc school reconfiguration committee; Finance subcommittee (one continuous statement about agenda-posting deadlines that the diarizer split across five clusters, segments 448-456)"
+  },
+  "391": {
+   "name": "Heather Whitney",
+   "role": "School Board Member; chair of the ad hoc school reconfiguration committee; Finance subcommittee (roll-call response, identified by position in the standing roll-call order Howard, Lavalette, Madden, Petrin, Rapp, Whitney, Crawford - Madden absent)"
+  },
+  "450": {
+   "name": "Heather Whitney",
+   "role": "School Board Member; chair of the ad hoc school reconfiguration committee; Finance subcommittee (one continuous statement about agenda-posting deadlines that the diarizer split across five clusters, segments 448-456)"
+  },
+  "453": {
+   "name": "Heather Whitney",
+   "role": "School Board Member; chair of the ad hoc school reconfiguration committee; Finance subcommittee (one continuous statement about agenda-posting deadlines that the diarizer split across five clusters, segments 448-456)"
+  },
+  "92": {
+   "name": "Noelle Kronberg",
+   "role": "School Board Clerk (calls the roll and keeps the minutes) (the clerk answering the minutes corrections; UNCERTAIN - this cluster also holds Ms. Whitney and Ms. Kennedy)"
+  },
+  "94": {
+   "name": "Noelle Kronberg",
+   "role": "School Board Clerk (calls the roll and keeps the minutes) (the clerk answering the minutes corrections; UNCERTAIN - this cluster also holds Ms. Whitney and Ms. Kennedy)"
+  },
+  "101": {
+   "name": "Noelle Kronberg",
+   "role": "School Board Clerk (calls the roll and keeps the minutes) (the clerk answering the minutes corrections; UNCERTAIN - this cluster also holds Ms. Whitney and Ms. Kennedy)"
+  },
+  "99": {
+   "name": "Don Lavalette",
+   "role": "School Board Member; Policy and Finance subcommittees; ad hoc reconfiguration committee (sentence continuation or onset clipped into a neighbouring cluster by the diarizer)"
+  },
+  "114": {
+   "name": "Don Lavalette",
+   "role": "School Board Member; Policy and Finance subcommittees; ad hoc reconfiguration committee (sentence continuation or onset clipped into a neighbouring cluster by the diarizer)"
+  },
+  "120": {
+   "name": "Don Lavalette",
+   "role": "School Board Member; Policy and Finance subcommittees; ad hoc reconfiguration committee (sentence continuation or onset clipped into a neighbouring cluster by the diarizer)"
+  },
+  "107": {
+   "name": "Candace Crawford",
+   "role": "School Board Chair (presides; also on the Finance and SRVRTC subcommittees) (sentence continuation or onset clipped into a neighbouring cluster by the diarizer)"
+  },
+  "122": {
+   "name": "Candace Crawford",
+   "role": "School Board Chair (presides; also on the Finance and SRVRTC subcommittees) (sentence continuation or onset clipped into a neighbouring cluster by the diarizer)"
+  },
+  "146": {
+   "name": "Candace Crawford",
+   "role": "School Board Chair (presides; also on the Finance and SRVRTC subcommittees) (sentence continuation or onset clipped into a neighbouring cluster by the diarizer)"
+  },
+  "161": {
+   "name": "Candace Crawford",
+   "role": "School Board Chair (presides; also on the Finance and SRVRTC subcommittees) (sentence continuation or onset clipped into a neighbouring cluster by the diarizer)"
+  },
+  "167": {
+   "name": "Candace Crawford",
+   "role": "School Board Chair (presides; also on the Finance and SRVRTC subcommittees) (sentence continuation or onset clipped into a neighbouring cluster by the diarizer)"
+  },
+  "171": {
+   "name": "Candace Crawford",
+   "role": "School Board Chair (presides; also on the Finance and SRVRTC subcommittees) (sentence continuation or onset clipped into a neighbouring cluster by the diarizer)"
+  },
+  "478": {
+   "name": "Candace Crawford",
+   "role": "School Board Chair (presides; also on the Finance and SRVRTC subcommittees) (sentence continuation or onset clipped into a neighbouring cluster by the diarizer)"
+  },
+  "134": {
+   "name": "Brian Rapp",
+   "role": "School Board Member; Policy and Capital Improvement subcommittees (sentence continuation or onset clipped into a neighbouring cluster by the diarizer)"
+  },
+  "137": {
+   "name": "Unidentified",
+   "role": "Brief assent from the board table after the consent-agenda motion - voice not distinguishable"
+  },
+  "139": {
+   "name": "Multiple",
+   "role": "Voice vote on the consent agenda (chorus of ayes captured as one voice)"
+  },
+  "173": {
+   "name": "Kerry Kennedy",
+   "role": "Interim Superintendent, SAU 6 (the chair calls on her at segment 172; she asks to move the high-school items up)"
+  },
+  "175": {
+   "name": "Kerry Kennedy",
+   "role": "Interim Superintendent, SAU 6 (the chair calls on her at segment 172; she asks to move the high-school items up)"
+  },
+  "218": {
+   "name": "Kerry Kennedy",
+   "role": "Interim Superintendent, SAU 6"
+  },
+  "219": {
+   "name": "Kerry Kennedy",
+   "role": "Interim Superintendent, SAU 6"
+  },
+  "220": {
+   "name": "Kerry Kennedy",
+   "role": "Interim Superintendent, SAU 6"
+  },
+  "221": {
+   "name": "Kerry Kennedy",
+   "role": "Interim Superintendent, SAU 6"
+  },
+  "222": {
+   "name": "Kerry Kennedy",
+   "role": "Interim Superintendent, SAU 6"
+  },
+  "224": {
+   "name": "Kerry Kennedy",
+   "role": "Interim Superintendent, SAU 6"
+  },
+  "226": {
+   "name": "Kerry Kennedy",
+   "role": "Interim Superintendent, SAU 6"
+  },
+  "228": {
+   "name": "Kerry Kennedy",
+   "role": "Interim Superintendent, SAU 6"
+  },
+  "230": {
+   "name": "Kerry Kennedy",
+   "role": "Interim Superintendent, SAU 6"
+  },
+  "263": {
+   "name": "Kerry Kennedy",
+   "role": "Interim Superintendent, SAU 6"
+  },
+  "265": {
+   "name": "Kerry Kennedy",
+   "role": "Interim Superintendent, SAU 6"
+  },
+  "314": {
+   "name": "Kerry Kennedy",
+   "role": "Interim Superintendent, SAU 6"
+  },
+  "216": {
+   "name": "Unidentified",
+   "role": "Brief crosstalk while the high-school principal leaves the table - voice not distinguishable"
+  },
+  "386": {
+   "name": "Noelle Kronberg",
+   "role": "School Board Clerk (calls the roll and keeps the minutes) (calling the second roll call)"
+  },
+  "451": {
+   "name": "Heather Whitney",
+   "role": "School Board Member; chair of the ad hoc school reconfiguration committee; Finance subcommittee (one continuous statement about agenda-posting deadlines that the diarizer split across five clusters, segments 448-456)"
+  },
+  "454": {
+   "name": "Heather Whitney",
+   "role": "School Board Member; chair of the ad hoc school reconfiguration committee; Finance subcommittee (one continuous statement about agenda-posting deadlines that the diarizer split across five clusters, segments 448-456)"
+  },
+  "475": {
+   "name": "Unidentified",
+   "role": "Single garbled word between Mr. Petrin's proposal and the reply - voice not distinguishable"
+  },
+  "407": {
+   "name": "Don Lavalette",
+   "role": "School Board Member; Policy and Finance subcommittees; ad hoc reconfiguration committee (the chair names him at segment 408 - ASR 'Mr. LaValley' - as the second volunteer for teacher appreciation week)"
+  },
+  "409": {
+   "name": "Don Lavalette",
+   "role": "School Board Member; Policy and Finance subcommittees; ad hoc reconfiguration committee (the chair names him at segment 408 - ASR 'Mr. LaValley' - as the second volunteer for teacher appreciation week)"
+  },
+  "413": {
+   "name": "Don Lavalette",
+   "role": "School Board Member; Policy and Finance subcommittees; ad hoc reconfiguration committee (the chair names him at segment 408 - ASR 'Mr. LaValley' - as the second volunteer for teacher appreciation week)"
+  }
+ }
+}

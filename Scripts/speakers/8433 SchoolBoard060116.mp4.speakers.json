@@ -1,0 +1,164 @@
+{
+ "Speaker 1": {
+  "name": "Ben Nester",
+  "role": "Stevens High School administrator overseeing guidance and college planning; title not stated on this recording (superintendent: 'I want to welcome Ben Nester and Pat Berry' [74]; 'I'm glad Ben said what he just said' [100]; cluster also holds the chair's opening, see overrides)"
+ },
+ "Speaker 2": {
+  "name": "Unidentified",
+  "role": "Unidentified - cluster of short interjections by several voices, including roll-call answers [4]"
+ },
+ "Speaker 3": {
+  "name": "Middleton McGoodwin",
+  "role": "Superintendent, SAU 6 (Speaker 1: 'like Middleton said' [58]; delivers the superintendent's report [24-33]; Barry and Adrian: 'Doctor Goodwin' [423, 730])"
+ },
+ "Speaker 4": {
+  "name": "Unidentified",
+  "role": "Unidentified - two short remarks during the agenda motion [9, 14]"
+ },
+ "Speaker 5": {
+  "name": "Brent Ferland",
+  "role": "Claremont School Board member (minute taker: 'Brant, you made the motion' [821] after this voice moves the calendar [816]; chair: 'Brant sort of brought in a little spreadsheet' [558] -> [559]; ASR 'Brant')"
+ },
+ "Speaker 6": {
+  "name": "Patrick Adrian",
+  "role": "Claremont School Board member (superintendent answers 'Patrick' [45, 48] after this voice's question [39-44]; chair: 'Any other thoughts? Patrick?' [217] -> [218]; superintendent: 'Patrick, you are correct' [593])"
+ },
+ "Speaker 7": {
+  "name": "Brian Rapp",
+  "role": "Claremont School Board Chair (runs agenda and votes from [165]; LeClair: 'as Brian mentioned' [214] after [203-205]; superintendent: 'if I may, Brian' [127, 174, 242])"
+ },
+ "Speaker 8": {
+  "name": "Patricia Barry",
+  "role": "Principal, Stevens High School (welcomed as 'Pat Berry' [74]; Sprague: 'as you've just described Pat' [463]; Adrian: 'thank you Doctor Barry' [480]; Ferland: 'as the principal of the school' [631] -> [634])"
+ },
+ "Speaker 9": {
+  "name": "Michelle Pierce",
+  "role": "Claremont School Board member (superintendent: 'Michelle, if you have any kind of problems' [174] after [171-173]; Chris: 'I appreciate that, Michel' [340]; answers 'Michelle Pierce' in the nonpublic roll call [836])"
+ },
+ "Speaker 10": {
+  "name": "Cory LeClair",
+  "role": "SAU 6 administrator, Assistant Superintendent per roster by Jan 2017; title not stated on this recording (superintendent: 'as you just heard Corey say' [369] after [362-363]; Ferland: 'Corey, you worked with the community center' [663] -> [664])"
+ },
+ "Speaker 11": {
+  "name": "Patricia Barry",
+  "role": "Principal, Stevens High School"
+ },
+ "Speaker 12": {
+  "name": "Patricia Barry",
+  "role": "Principal, Stevens High School"
+ },
+ "Speaker 13": {
+  "name": "Frank Sprague",
+  "role": "Claremont School Board member (answers 'Frank Sprague. Yes.' in the nonpublic roll call [839]; superintendent: 'Frank, you've been around the track' [243] after [239]; 'as you know, Frank' [405] after [400])"
+ },
+ "Speaker 14": {
+  "name": "Michael O'Neill",
+  "role": "Business Administrator, SAU 6 (superintendent: 'So, Mr. O'Neil, I can tell he's working on this' [186] -> [188]; Barry: 'what Mike's talking about is our custodians' [643] after [639-640]; surname spelling per roster)"
+ },
+ "Speaker 15": {
+  "name": "Unidentified",
+  "role": "Unidentified - single remark about preparing meeting paperwork with the superintendent [192]; possibly an SAU staff member (uncertain)"
+ },
+ "Speaker 16": {
+  "name": "Chris",
+  "role": "Special Education Director, SAU 6; first name only on record (superintendent: 'So, Chris, I shared with Chris [ASR Bezos]' and 'Chris, thank you, sir' [268-269]; 'when I came into this role July 1st' [277]; other districts ask 'Hey, Chris' [393])"
+ },
+ "Speaker 17": {
+  "name": "Patrick Adrian",
+  "role": "Claremont School Board member (fragments of Adrian's turns: 'Just so under the weather' [219] answering 'Patrick?' [217]; [479] continues into [480])"
+ },
+ "Speaker 18": {
+  "name": "Chris",
+  "role": "Special Education Director, SAU 6; first name only on record (short fragments of Chris's presentation [272-347])"
+ },
+ "Speaker 19": {
+  "name": "Brent Ferland",
+  "role": "Claremont School Board member (clipped onsets of Ferland's turns: [632] continues into [633], [683] into [684])"
+ },
+ "Speaker 20": {
+  "name": "Unidentified",
+  "role": "Unidentified - cluster of voice votes, seconds and short interjections by several board members"
+ },
+ "__overrides__": {
+  "0": {
+   "name": "Brian Rapp"
+  },
+  "2": {
+   "name": "Brian Rapp"
+  },
+  "5": {
+   "name": "Brian Rapp"
+  },
+  "8": {
+   "name": "Brian Rapp"
+  },
+  "11": {
+   "name": "Brian Rapp"
+  },
+  "13": {
+   "name": "Brian Rapp"
+  },
+  "15": {
+   "name": "Brian Rapp"
+  },
+  "17": {
+   "name": "Brian Rapp"
+  },
+  "19": {
+   "name": "Brian Rapp"
+  },
+  "20": {
+   "name": "Brian Rapp"
+  },
+  "22": {
+   "name": "Brian Rapp"
+  },
+  "23": {
+   "name": "Brian Rapp"
+  },
+  "34": {
+   "name": "Brian Rapp"
+  },
+  "38": {
+   "name": "Brian Rapp"
+  },
+  "49": {
+   "name": "Brian Rapp"
+  },
+  "52": {
+   "name": "Brian Rapp"
+  },
+  "55": {
+   "name": "Brian Rapp"
+  },
+  "57": {
+   "name": "Brian Rapp"
+  },
+  "58": {
+   "name": "Brian Rapp"
+  },
+  "60": {
+   "name": "Brian Rapp"
+  },
+  "68": {
+   "name": "Brian Rapp"
+  },
+  "71": {
+   "name": "Brian Rapp"
+  },
+  "1": {
+   "name": "Unidentified",
+   "role": "Unidentified - group recitation of the Pledge of Allegiance"
+  },
+  "3": {
+   "name": "Unidentified",
+   "role": "Unidentified - roll-call answer"
+  },
+  "132": {
+   "name": "Frank Sprague"
+  },
+  "610": {
+   "name": "Middleton McGoodwin"
+  }
+ }
+}

@@ -1,0 +1,1084 @@
+{
+ "Speaker 1": {
+  "name": "Frank Sprague",
+  "role": "Claremont School Board Chair"
+ },
+ "Speaker 2": {
+  "name": "Rob Lovett Jr.",
+  "role": "Claremont School Board member"
+ },
+ "Speaker 3": {
+  "name": "Ben Nester",
+  "role": "Director of Special Education, SAU 6"
+ },
+ "Speaker 4": {
+  "name": "Unidentified",
+  "role": "Unidentified - room/mixed cluster of roll-call responses and short remarks from several people; see overrides"
+ },
+ "Speaker 5": {
+  "name": "Heather Whitney",
+  "role": "Claremont School Board Vice Chair (title attested on the 2/1/2021 deliberative session record)"
+ },
+ "Speaker 6": {
+  "name": "Mary Woodman",
+  "role": "School district clerk and board recording secretary"
+ },
+ "Speaker 7": {
+  "name": "Carolyn Towle",
+  "role": "Claremont School Board member"
+ },
+ "Speaker 8": {
+  "name": "Prescott Herzog",
+  "role": "Student representative to the board (only 'Prescott' said on the 1/2021 records; surname from roster RC 2019-05-15)"
+ },
+ "Speaker 9": {
+  "name": "Michael Tempesta",
+  "role": "Superintendent, SAU 6"
+ },
+ "Speaker 10": {
+  "name": "Donna Magoon",
+  "role": "Assistant Superintendent, SAU 6"
+ },
+ "Speaker 11": {
+  "name": "Unidentified",
+  "role": "Unidentified - mixed cluster of short remarks, fragments and roll-call responses from several people; see overrides"
+ },
+ "Speaker 12": {
+  "name": "Frank Romeo",
+  "role": "Principal, Claremont Middle School"
+ },
+ "Speaker 13": {
+  "name": "Frank Romeo",
+  "role": "Principal, Claremont Middle School"
+ },
+ "Speaker 14": {
+  "name": "Frank Sprague",
+  "role": "Claremont School Board Chair"
+ },
+ "Speaker 15": {
+  "name": "Frank Sprague",
+  "role": "Claremont School Board Chair"
+ },
+ "Speaker 16": {
+  "name": "Melissa Lewis",
+  "role": "Principal, Disnard Elementary School"
+ },
+ "Speaker 17": {
+  "name": "Dale Chenette",
+  "role": "Principal, Bluff School (uncertain - identified by elimination: Magoon names 'Dale' and 'Kathleen' as present; speaks of 'my building'; self-ID garbled as 'this is a testament')"
+ },
+ "Speaker 18": {
+  "name": "Alex Herzog",
+  "role": "Director, Sugar River Valley Regional Technical Center"
+ },
+ "Speaker 19": {
+  "name": "Jason Benware",
+  "role": "Claremont School Board member"
+ },
+ "Speaker 20": {
+  "name": "Carolyn Towle",
+  "role": "Claremont School Board member"
+ },
+ "Speaker 21": {
+  "name": "Frank Sprague",
+  "role": "Claremont School Board Chair"
+ },
+ "Speaker 22": {
+  "name": "Rebecca Zullo",
+  "role": "Claremont School Board member"
+ },
+ "Speaker 23": {
+  "name": "Unidentified",
+  "role": "Unidentified - administrator answering who covers for quarantined teachers (uncertain - likely Magoon or Tempesta)"
+ },
+ "Speaker 24": {
+  "name": "Unidentified",
+  "role": "Unidentified - administrator answering who covers for quarantined teachers (uncertain - likely Magoon or Tempesta)"
+ },
+ "Speaker 25": {
+  "name": "Michael Petrin",
+  "role": "Claremont School Board member"
+ },
+ "Speaker 26": {
+  "name": "Kathleen Bunnell",
+  "role": "Principal, Maple Avenue Elementary School"
+ },
+ "Speaker 27": {
+  "name": "Unidentified",
+  "role": "Unidentified - short remarks; see overrides"
+ },
+ "Speaker 28": {
+  "name": "Unidentified",
+  "role": "Unidentified - short remarks"
+ },
+ "Speaker 29": {
+  "name": "Unidentified",
+  "role": "Unidentified - short remarks and answers from an administrator or member"
+ },
+ "__overrides__": {
+  "187": {
+   "name": "Richard Seaman",
+   "role": "Assistant Superintendent for Finance and HR, SAU 6"
+  },
+  "196": {
+   "name": "Richard Seaman",
+   "role": "Assistant Superintendent for Finance and HR, SAU 6"
+  },
+  "186": {
+   "name": "Richard Seaman",
+   "role": "Assistant Superintendent for Finance and HR, SAU 6"
+  },
+  "204": {
+   "name": "Richard Seaman",
+   "role": "Assistant Superintendent for Finance and HR, SAU 6"
+  },
+  "205": {
+   "name": "Richard Seaman",
+   "role": "Assistant Superintendent for Finance and HR, SAU 6"
+  },
+  "206": {
+   "name": "Richard Seaman",
+   "role": "Assistant Superintendent for Finance and HR, SAU 6"
+  },
+  "207": {
+   "name": "Richard Seaman",
+   "role": "Assistant Superintendent for Finance and HR, SAU 6"
+  },
+  "208": {
+   "name": "Richard Seaman",
+   "role": "Assistant Superintendent for Finance and HR, SAU 6"
+  },
+  "209": {
+   "name": "Richard Seaman",
+   "role": "Assistant Superintendent for Finance and HR, SAU 6"
+  },
+  "210": {
+   "name": "Richard Seaman",
+   "role": "Assistant Superintendent for Finance and HR, SAU 6"
+  },
+  "211": {
+   "name": "Richard Seaman",
+   "role": "Assistant Superintendent for Finance and HR, SAU 6"
+  },
+  "212": {
+   "name": "Richard Seaman",
+   "role": "Assistant Superintendent for Finance and HR, SAU 6"
+  },
+  "213": {
+   "name": "Richard Seaman",
+   "role": "Assistant Superintendent for Finance and HR, SAU 6"
+  },
+  "214": {
+   "name": "Richard Seaman",
+   "role": "Assistant Superintendent for Finance and HR, SAU 6"
+  },
+  "215": {
+   "name": "Richard Seaman",
+   "role": "Assistant Superintendent for Finance and HR, SAU 6"
+  },
+  "216": {
+   "name": "Richard Seaman",
+   "role": "Assistant Superintendent for Finance and HR, SAU 6"
+  },
+  "217": {
+   "name": "Richard Seaman",
+   "role": "Assistant Superintendent for Finance and HR, SAU 6"
+  },
+  "218": {
+   "name": "Richard Seaman",
+   "role": "Assistant Superintendent for Finance and HR, SAU 6"
+  },
+  "219": {
+   "name": "Richard Seaman",
+   "role": "Assistant Superintendent for Finance and HR, SAU 6"
+  },
+  "220": {
+   "name": "Richard Seaman",
+   "role": "Assistant Superintendent for Finance and HR, SAU 6"
+  },
+  "221": {
+   "name": "Richard Seaman",
+   "role": "Assistant Superintendent for Finance and HR, SAU 6"
+  },
+  "222": {
+   "name": "Richard Seaman",
+   "role": "Assistant Superintendent for Finance and HR, SAU 6"
+  },
+  "223": {
+   "name": "Richard Seaman",
+   "role": "Assistant Superintendent for Finance and HR, SAU 6"
+  },
+  "224": {
+   "name": "Richard Seaman",
+   "role": "Assistant Superintendent for Finance and HR, SAU 6"
+  },
+  "225": {
+   "name": "Richard Seaman",
+   "role": "Assistant Superintendent for Finance and HR, SAU 6"
+  },
+  "226": {
+   "name": "Richard Seaman",
+   "role": "Assistant Superintendent for Finance and HR, SAU 6"
+  },
+  "227": {
+   "name": "Richard Seaman",
+   "role": "Assistant Superintendent for Finance and HR, SAU 6"
+  },
+  "228": {
+   "name": "Richard Seaman",
+   "role": "Assistant Superintendent for Finance and HR, SAU 6"
+  },
+  "229": {
+   "name": "Richard Seaman",
+   "role": "Assistant Superintendent for Finance and HR, SAU 6"
+  },
+  "230": {
+   "name": "Richard Seaman",
+   "role": "Assistant Superintendent for Finance and HR, SAU 6"
+  },
+  "231": {
+   "name": "Richard Seaman",
+   "role": "Assistant Superintendent for Finance and HR, SAU 6"
+  },
+  "232": {
+   "name": "Richard Seaman",
+   "role": "Assistant Superintendent for Finance and HR, SAU 6"
+  },
+  "233": {
+   "name": "Richard Seaman",
+   "role": "Assistant Superintendent for Finance and HR, SAU 6"
+  },
+  "234": {
+   "name": "Richard Seaman",
+   "role": "Assistant Superintendent for Finance and HR, SAU 6"
+  },
+  "235": {
+   "name": "Richard Seaman",
+   "role": "Assistant Superintendent for Finance and HR, SAU 6"
+  },
+  "236": {
+   "name": "Richard Seaman",
+   "role": "Assistant Superintendent for Finance and HR, SAU 6"
+  },
+  "237": {
+   "name": "Richard Seaman",
+   "role": "Assistant Superintendent for Finance and HR, SAU 6"
+  },
+  "238": {
+   "name": "Richard Seaman",
+   "role": "Assistant Superintendent for Finance and HR, SAU 6"
+  },
+  "239": {
+   "name": "Richard Seaman",
+   "role": "Assistant Superintendent for Finance and HR, SAU 6"
+  },
+  "240": {
+   "name": "Richard Seaman",
+   "role": "Assistant Superintendent for Finance and HR, SAU 6"
+  },
+  "241": {
+   "name": "Richard Seaman",
+   "role": "Assistant Superintendent for Finance and HR, SAU 6"
+  },
+  "242": {
+   "name": "Richard Seaman",
+   "role": "Assistant Superintendent for Finance and HR, SAU 6"
+  },
+  "243": {
+   "name": "Richard Seaman",
+   "role": "Assistant Superintendent for Finance and HR, SAU 6"
+  },
+  "244": {
+   "name": "Richard Seaman",
+   "role": "Assistant Superintendent for Finance and HR, SAU 6"
+  },
+  "245": {
+   "name": "Richard Seaman",
+   "role": "Assistant Superintendent for Finance and HR, SAU 6"
+  },
+  "246": {
+   "name": "Richard Seaman",
+   "role": "Assistant Superintendent for Finance and HR, SAU 6"
+  },
+  "247": {
+   "name": "Richard Seaman",
+   "role": "Assistant Superintendent for Finance and HR, SAU 6"
+  },
+  "248": {
+   "name": "Richard Seaman",
+   "role": "Assistant Superintendent for Finance and HR, SAU 6"
+  },
+  "249": {
+   "name": "Richard Seaman",
+   "role": "Assistant Superintendent for Finance and HR, SAU 6"
+  },
+  "250": {
+   "name": "Richard Seaman",
+   "role": "Assistant Superintendent for Finance and HR, SAU 6"
+  },
+  "251": {
+   "name": "Richard Seaman",
+   "role": "Assistant Superintendent for Finance and HR, SAU 6"
+  },
+  "252": {
+   "name": "Richard Seaman",
+   "role": "Assistant Superintendent for Finance and HR, SAU 6"
+  },
+  "253": {
+   "name": "Richard Seaman",
+   "role": "Assistant Superintendent for Finance and HR, SAU 6"
+  },
+  "254": {
+   "name": "Richard Seaman",
+   "role": "Assistant Superintendent for Finance and HR, SAU 6"
+  },
+  "255": {
+   "name": "Richard Seaman",
+   "role": "Assistant Superintendent for Finance and HR, SAU 6"
+  },
+  "256": {
+   "name": "Richard Seaman",
+   "role": "Assistant Superintendent for Finance and HR, SAU 6"
+  },
+  "257": {
+   "name": "Richard Seaman",
+   "role": "Assistant Superintendent for Finance and HR, SAU 6"
+  },
+  "258": {
+   "name": "Richard Seaman",
+   "role": "Assistant Superintendent for Finance and HR, SAU 6"
+  },
+  "259": {
+   "name": "Richard Seaman",
+   "role": "Assistant Superintendent for Finance and HR, SAU 6"
+  },
+  "260": {
+   "name": "Richard Seaman",
+   "role": "Assistant Superintendent for Finance and HR, SAU 6"
+  },
+  "264": {
+   "name": "Richard Seaman",
+   "role": "Assistant Superintendent for Finance and HR, SAU 6"
+  },
+  "272": {
+   "name": "Richard Seaman",
+   "role": "Assistant Superintendent for Finance and HR, SAU 6"
+  },
+  "445": {
+   "name": "Richard Seaman",
+   "role": "Assistant Superintendent for Finance and HR, SAU 6"
+  },
+  "446": {
+   "name": "Richard Seaman",
+   "role": "Assistant Superintendent for Finance and HR, SAU 6"
+  },
+  "447": {
+   "name": "Richard Seaman",
+   "role": "Assistant Superintendent for Finance and HR, SAU 6"
+  },
+  "448": {
+   "name": "Richard Seaman",
+   "role": "Assistant Superintendent for Finance and HR, SAU 6"
+  },
+  "449": {
+   "name": "Richard Seaman",
+   "role": "Assistant Superintendent for Finance and HR, SAU 6"
+  },
+  "450": {
+   "name": "Richard Seaman",
+   "role": "Assistant Superintendent for Finance and HR, SAU 6"
+  },
+  "451": {
+   "name": "Richard Seaman",
+   "role": "Assistant Superintendent for Finance and HR, SAU 6"
+  },
+  "452": {
+   "name": "Richard Seaman",
+   "role": "Assistant Superintendent for Finance and HR, SAU 6"
+  },
+  "453": {
+   "name": "Richard Seaman",
+   "role": "Assistant Superintendent for Finance and HR, SAU 6"
+  },
+  "200": {
+   "name": "Michael Tempesta",
+   "role": "Superintendent, SAU 6"
+  },
+  "202": {
+   "name": "Michael Tempesta",
+   "role": "Superintendent, SAU 6"
+  },
+  "297": {
+   "name": "Michael Tempesta",
+   "role": "Superintendent, SAU 6"
+  },
+  "299": {
+   "name": "Michael Tempesta",
+   "role": "Superintendent, SAU 6"
+  },
+  "352": {
+   "name": "Michael Tempesta",
+   "role": "Superintendent, SAU 6"
+  },
+  "354": {
+   "name": "Michael Tempesta",
+   "role": "Superintendent, SAU 6"
+  },
+  "355": {
+   "name": "Michael Tempesta",
+   "role": "Superintendent, SAU 6"
+  },
+  "357": {
+   "name": "Michael Tempesta",
+   "role": "Superintendent, SAU 6"
+  },
+  "358": {
+   "name": "Michael Tempesta",
+   "role": "Superintendent, SAU 6"
+  },
+  "410": {
+   "name": "Michael Tempesta",
+   "role": "Superintendent, SAU 6"
+  },
+  "411": {
+   "name": "Michael Tempesta",
+   "role": "Superintendent, SAU 6"
+  },
+  "472": {
+   "name": "Michael Tempesta",
+   "role": "Superintendent, SAU 6"
+  },
+  "474": {
+   "name": "Michael Tempesta",
+   "role": "Superintendent, SAU 6"
+  },
+  "528": {
+   "name": "Michael Tempesta",
+   "role": "Superintendent, SAU 6"
+  },
+  "530": {
+   "name": "Michael Tempesta",
+   "role": "Superintendent, SAU 6"
+  },
+  "531": {
+   "name": "Michael Tempesta",
+   "role": "Superintendent, SAU 6"
+  },
+  "532": {
+   "name": "Michael Tempesta",
+   "role": "Superintendent, SAU 6"
+  },
+  "537": {
+   "name": "Michael Tempesta",
+   "role": "Superintendent, SAU 6"
+  },
+  "538": {
+   "name": "Michael Tempesta",
+   "role": "Superintendent, SAU 6"
+  },
+  "542": {
+   "name": "Michael Tempesta",
+   "role": "Superintendent, SAU 6"
+  },
+  "344": {
+   "name": "Michael Tempesta",
+   "role": "Superintendent, SAU 6"
+  },
+  "349": {
+   "name": "Michael Tempesta",
+   "role": "Superintendent, SAU 6"
+  },
+  "351": {
+   "name": "Michael Tempesta",
+   "role": "Superintendent, SAU 6"
+  },
+  "353": {
+   "name": "Michael Tempesta",
+   "role": "Superintendent, SAU 6"
+  },
+  "409": {
+   "name": "Michael Tempesta",
+   "role": "Superintendent, SAU 6"
+  },
+  "610": {
+   "name": "Michael Tempesta",
+   "role": "Superintendent, SAU 6"
+  },
+  "631": {
+   "name": "Michael Tempesta",
+   "role": "Superintendent, SAU 6"
+  },
+  "686": {
+   "name": "Michael Tempesta",
+   "role": "Superintendent, SAU 6"
+  },
+  "66": {
+   "name": "Michael Tempesta",
+   "role": "Superintendent, SAU 6"
+  },
+  "263": {
+   "name": "Frank Sprague",
+   "role": "Claremont School Board Chair"
+  },
+  "266": {
+   "name": "Frank Sprague",
+   "role": "Claremont School Board Chair"
+  },
+  "270": {
+   "name": "Frank Sprague",
+   "role": "Claremont School Board Chair"
+  },
+  "273": {
+   "name": "Frank Sprague",
+   "role": "Claremont School Board Chair"
+  },
+  "285": {
+   "name": "Frank Sprague",
+   "role": "Claremont School Board Chair"
+  },
+  "287": {
+   "name": "Frank Sprague",
+   "role": "Claremont School Board Chair"
+  },
+  "289": {
+   "name": "Frank Sprague",
+   "role": "Claremont School Board Chair"
+  },
+  "290": {
+   "name": "Frank Sprague",
+   "role": "Claremont School Board Chair"
+  },
+  "308": {
+   "name": "Frank Sprague",
+   "role": "Claremont School Board Chair"
+  },
+  "310": {
+   "name": "Frank Sprague",
+   "role": "Claremont School Board Chair"
+  },
+  "312": {
+   "name": "Frank Sprague",
+   "role": "Claremont School Board Chair"
+  },
+  "314": {
+   "name": "Frank Sprague",
+   "role": "Claremont School Board Chair"
+  },
+  "315": {
+   "name": "Frank Sprague",
+   "role": "Claremont School Board Chair"
+  },
+  "316": {
+   "name": "Frank Sprague",
+   "role": "Claremont School Board Chair"
+  },
+  "318": {
+   "name": "Frank Sprague",
+   "role": "Claremont School Board Chair"
+  },
+  "319": {
+   "name": "Frank Sprague",
+   "role": "Claremont School Board Chair"
+  },
+  "321": {
+   "name": "Frank Sprague",
+   "role": "Claremont School Board Chair"
+  },
+  "262": {
+   "name": "Frank Sprague",
+   "role": "Claremont School Board Chair"
+  },
+  "265": {
+   "name": "Frank Sprague",
+   "role": "Claremont School Board Chair"
+  },
+  "267": {
+   "name": "Frank Sprague",
+   "role": "Claremont School Board Chair"
+  },
+  "188": {
+   "name": "Frank Sprague",
+   "role": "Claremont School Board Chair"
+  },
+  "54": {
+   "name": "Frank Sprague",
+   "role": "Claremont School Board Chair"
+  },
+  "606": {
+   "name": "Frank Sprague",
+   "role": "Claremont School Board Chair"
+  },
+  "544": {
+   "name": "Frank Sprague",
+   "role": "Claremont School Board Chair"
+  },
+  "546": {
+   "name": "Frank Sprague",
+   "role": "Claremont School Board Chair"
+  },
+  "574": {
+   "name": "Frank Sprague",
+   "role": "Claremont School Board Chair"
+  },
+  "575": {
+   "name": "Frank Sprague",
+   "role": "Claremont School Board Chair"
+  },
+  "783": {
+   "name": "Frank Sprague",
+   "role": "Claremont School Board Chair"
+  },
+  "717": {
+   "name": "Frank Sprague",
+   "role": "Claremont School Board Chair"
+  },
+  "2": {
+   "name": "Ben Nester",
+   "role": "Director of Special Education, SAU 6"
+  },
+  "26": {
+   "name": "Michael Petrin",
+   "role": "Claremont School Board member"
+  },
+  "41": {
+   "name": "Michael Petrin",
+   "role": "Claremont School Board member"
+  },
+  "50": {
+   "name": "Michael Petrin",
+   "role": "Claremont School Board member"
+  },
+  "178": {
+   "name": "Michael Petrin",
+   "role": "Claremont School Board member"
+  },
+  "339": {
+   "name": "Michael Petrin",
+   "role": "Claremont School Board member"
+  },
+  "602": {
+   "name": "Michael Petrin",
+   "role": "Claremont School Board member"
+  },
+  "420": {
+   "name": "Michael Petrin",
+   "role": "Claremont School Board member"
+  },
+  "751": {
+   "name": "Michael Petrin",
+   "role": "Claremont School Board member"
+  },
+  "753": {
+   "name": "Michael Petrin",
+   "role": "Claremont School Board member"
+  },
+  "48": {
+   "name": "Rob Lovett Jr.",
+   "role": "Claremont School Board member"
+  },
+  "176": {
+   "name": "Rob Lovett Jr.",
+   "role": "Claremont School Board member"
+  },
+  "337": {
+   "name": "Rob Lovett Jr.",
+   "role": "Claremont School Board member"
+  },
+  "600": {
+   "name": "Rob Lovett Jr.",
+   "role": "Claremont School Board member"
+  },
+  "560": {
+   "name": "Rob Lovett Jr.",
+   "role": "Claremont School Board member"
+  },
+  "561": {
+   "name": "Rob Lovett Jr.",
+   "role": "Claremont School Board member"
+  },
+  "562": {
+   "name": "Rob Lovett Jr.",
+   "role": "Claremont School Board member"
+  },
+  "563": {
+   "name": "Rob Lovett Jr.",
+   "role": "Claremont School Board member"
+  },
+  "163": {
+   "name": "Jason Benware",
+   "role": "Claremont School Board member"
+  },
+  "165": {
+   "name": "Jason Benware",
+   "role": "Claremont School Board member"
+  },
+  "174": {
+   "name": "Jason Benware",
+   "role": "Claremont School Board member"
+  },
+  "322": {
+   "name": "Jason Benware",
+   "role": "Claremont School Board member"
+  },
+  "325": {
+   "name": "Jason Benware",
+   "role": "Claremont School Board member"
+  },
+  "326": {
+   "name": "Jason Benware",
+   "role": "Claremont School Board member"
+  },
+  "328": {
+   "name": "Jason Benware",
+   "role": "Claremont School Board member"
+  },
+  "335": {
+   "name": "Jason Benware",
+   "role": "Claremont School Board member"
+  },
+  "598": {
+   "name": "Jason Benware",
+   "role": "Claremont School Board member"
+  },
+  "766": {
+   "name": "Jason Benware",
+   "role": "Claremont School Board member"
+  },
+  "767": {
+   "name": "Jason Benware",
+   "role": "Claremont School Board member"
+  },
+  "769": {
+   "name": "Jason Benware",
+   "role": "Claremont School Board member"
+  },
+  "58": {
+   "name": "Prescott Herzog",
+   "role": "Student representative to the board (only 'Prescott' said on the 1/2021 records; surname from roster RC 2019-05-15)"
+  },
+  "60": {
+   "name": "Prescott Herzog",
+   "role": "Student representative to the board (only 'Prescott' said on the 1/2021 records; surname from roster RC 2019-05-15)"
+  },
+  "73": {
+   "name": "Jeff Small",
+   "role": "Director of Technology, SAU 6"
+  },
+  "464": {
+   "name": "Heather Whitney",
+   "role": "Claremont School Board Vice Chair (title attested on the 2/1/2021 deliberative session record)"
+  },
+  "476": {
+   "name": "Heather Whitney",
+   "role": "Claremont School Board Vice Chair (title attested on the 2/1/2021 deliberative session record)"
+  },
+  "486": {
+   "name": "Heather Whitney",
+   "role": "Claremont School Board Vice Chair (title attested on the 2/1/2021 deliberative session record)"
+  },
+  "514": {
+   "name": "Heather Whitney",
+   "role": "Claremont School Board Vice Chair (title attested on the 2/1/2021 deliberative session record)"
+  },
+  "517": {
+   "name": "Heather Whitney",
+   "role": "Claremont School Board Vice Chair (title attested on the 2/1/2021 deliberative session record)"
+  },
+  "519": {
+   "name": "Heather Whitney",
+   "role": "Claremont School Board Vice Chair (title attested on the 2/1/2021 deliberative session record)"
+  },
+  "533": {
+   "name": "Heather Whitney",
+   "role": "Claremont School Board Vice Chair (title attested on the 2/1/2021 deliberative session record)"
+  },
+  "540": {
+   "name": "Heather Whitney",
+   "role": "Claremont School Board Vice Chair (title attested on the 2/1/2021 deliberative session record)"
+  },
+  "678": {
+   "name": "Heather Whitney",
+   "role": "Claremont School Board Vice Chair (title attested on the 2/1/2021 deliberative session record)"
+  },
+  "502": {
+   "name": "Heather Whitney",
+   "role": "Claremont School Board Vice Chair (title attested on the 2/1/2021 deliberative session record)"
+  },
+  "463": {
+   "name": "Heather Whitney",
+   "role": "Claremont School Board Vice Chair (title attested on the 2/1/2021 deliberative session record)"
+  },
+  "481": {
+   "name": "Donna Magoon",
+   "role": "Assistant Superintendent, SAU 6"
+  },
+  "483": {
+   "name": "Donna Magoon",
+   "role": "Assistant Superintendent, SAU 6"
+  },
+  "505": {
+   "name": "Donna Magoon",
+   "role": "Assistant Superintendent, SAU 6"
+  },
+  "507": {
+   "name": "Donna Magoon",
+   "role": "Assistant Superintendent, SAU 6"
+  },
+  "712": {
+   "name": "Donna Magoon",
+   "role": "Assistant Superintendent, SAU 6"
+  },
+  "703": {
+   "name": "Donna Magoon",
+   "role": "Assistant Superintendent, SAU 6"
+  },
+  "711": {
+   "name": "Donna Magoon",
+   "role": "Assistant Superintendent, SAU 6"
+  },
+  "592": {
+   "name": "Carolyn Towle",
+   "role": "Claremont School Board member"
+  },
+  "380": {
+   "name": "Melissa Lewis",
+   "role": "Principal, Disnard Elementary School"
+  },
+  "460": {
+   "name": "Kathleen Bunnell",
+   "role": "Principal, Maple Avenue Elementary School"
+  },
+  "359": {
+   "name": "Frank Romeo",
+   "role": "Principal, Claremont Middle School"
+  },
+  "395": {
+   "name": "Alex Herzog",
+   "role": "Director, Sugar River Valley Regional Technical Center"
+  },
+  "29": {
+   "name": "Unidentified",
+   "role": "Unidentified - short remark clustered with the clerk's roll-call voice"
+  },
+  "32": {
+   "name": "Unidentified",
+   "role": "Unidentified - short remark clustered with the clerk's roll-call voice"
+  },
+  "121": {
+   "name": "Unidentified",
+   "role": "Unidentified - short remark clustered with the clerk's roll-call voice"
+  },
+  "157": {
+   "name": "Unidentified",
+   "role": "Unidentified - short remark clustered with the clerk's roll-call voice"
+  },
+  "159": {
+   "name": "Unidentified",
+   "role": "Unidentified - short remark clustered with the clerk's roll-call voice"
+  },
+  "306": {
+   "name": "Unidentified",
+   "role": "Unidentified - short remark clustered with the clerk's roll-call voice"
+  },
+  "317": {
+   "name": "Unidentified",
+   "role": "Unidentified - short remark clustered with the clerk's roll-call voice"
+  },
+  "454": {
+   "name": "Unidentified",
+   "role": "Unidentified - short remark clustered with the clerk's roll-call voice"
+  },
+  "478": {
+   "name": "Unidentified",
+   "role": "Unidentified - short remark clustered with the clerk's roll-call voice"
+  },
+  "523": {
+   "name": "Unidentified",
+   "role": "Unidentified - short remark clustered with the clerk's roll-call voice"
+  },
+  "529": {
+   "name": "Unidentified",
+   "role": "Unidentified - short remark clustered with the clerk's roll-call voice"
+  },
+  "608": {
+   "name": "Unidentified",
+   "role": "Unidentified - short remark clustered with the clerk's roll-call voice"
+  },
+  "645": {
+   "name": "Unidentified",
+   "role": "Unidentified - short remark clustered with the clerk's roll-call voice"
+  },
+  "649": {
+   "name": "Unidentified",
+   "role": "Unidentified - short remark clustered with the clerk's roll-call voice"
+  },
+  "732": {
+   "name": "Unidentified",
+   "role": "Unidentified - short remark clustered with the clerk's roll-call voice"
+  },
+  "805": {
+   "name": "Unidentified",
+   "role": "Unidentified - short remark clustered with the clerk's roll-call voice"
+  },
+  "320": {
+   "name": "Unidentified",
+   "role": "Unidentified - short remark clustered with the student representative"
+  },
+  "12": {
+   "name": "Unidentified",
+   "role": "Unidentified - Pledge of Allegiance, group recitation"
+  },
+  "572": {
+   "name": "Michael Tempesta",
+   "role": "Superintendent, SAU 6"
+  },
+  "573": {
+   "name": "Michael Tempesta",
+   "role": "Superintendent, SAU 6"
+  },
+  "611": {
+   "name": "Michael Tempesta",
+   "role": "Superintendent, SAU 6"
+  },
+  "612": {
+   "name": "Michael Tempesta",
+   "role": "Superintendent, SAU 6"
+  },
+  "613": {
+   "name": "Michael Tempesta",
+   "role": "Superintendent, SAU 6"
+  },
+  "619": {
+   "name": "Michael Tempesta",
+   "role": "Superintendent, SAU 6"
+  },
+  "622": {
+   "name": "Michael Tempesta",
+   "role": "Superintendent, SAU 6"
+  },
+  "626": {
+   "name": "Michael Tempesta",
+   "role": "Superintendent, SAU 6"
+  },
+  "632": {
+   "name": "Michael Tempesta",
+   "role": "Superintendent, SAU 6"
+  },
+  "633": {
+   "name": "Michael Tempesta",
+   "role": "Superintendent, SAU 6"
+  },
+  "634": {
+   "name": "Michael Tempesta",
+   "role": "Superintendent, SAU 6"
+  },
+  "635": {
+   "name": "Michael Tempesta",
+   "role": "Superintendent, SAU 6"
+  },
+  "656": {
+   "name": "Michael Tempesta",
+   "role": "Superintendent, SAU 6"
+  },
+  "658": {
+   "name": "Michael Tempesta",
+   "role": "Superintendent, SAU 6"
+  },
+  "669": {
+   "name": "Michael Tempesta",
+   "role": "Superintendent, SAU 6"
+  },
+  "671": {
+   "name": "Michael Tempesta",
+   "role": "Superintendent, SAU 6"
+  },
+  "673": {
+   "name": "Michael Tempesta",
+   "role": "Superintendent, SAU 6"
+  },
+  "674": {
+   "name": "Michael Tempesta",
+   "role": "Superintendent, SAU 6"
+  },
+  "675": {
+   "name": "Michael Tempesta",
+   "role": "Superintendent, SAU 6"
+  },
+  "676": {
+   "name": "Michael Tempesta",
+   "role": "Superintendent, SAU 6"
+  },
+  "681": {
+   "name": "Michael Tempesta",
+   "role": "Superintendent, SAU 6"
+  },
+  "683": {
+   "name": "Michael Tempesta",
+   "role": "Superintendent, SAU 6"
+  },
+  "684": {
+   "name": "Michael Tempesta",
+   "role": "Superintendent, SAU 6"
+  },
+  "696": {
+   "name": "Michael Tempesta",
+   "role": "Superintendent, SAU 6"
+  },
+  "718": {
+   "name": "Michael Tempesta",
+   "role": "Superintendent, SAU 6"
+  },
+  "719": {
+   "name": "Michael Tempesta",
+   "role": "Superintendent, SAU 6"
+  },
+  "720": {
+   "name": "Michael Tempesta",
+   "role": "Superintendent, SAU 6"
+  },
+  "721": {
+   "name": "Michael Tempesta",
+   "role": "Superintendent, SAU 6"
+  },
+  "722": {
+   "name": "Michael Tempesta",
+   "role": "Superintendent, SAU 6"
+  },
+  "723": {
+   "name": "Michael Tempesta",
+   "role": "Superintendent, SAU 6"
+  },
+  "724": {
+   "name": "Michael Tempesta",
+   "role": "Superintendent, SAU 6"
+  },
+  "730": {
+   "name": "Michael Tempesta",
+   "role": "Superintendent, SAU 6"
+  },
+  "731": {
+   "name": "Michael Tempesta",
+   "role": "Superintendent, SAU 6"
+  },
+  "741": {
+   "name": "Michael Tempesta",
+   "role": "Superintendent, SAU 6"
+  },
+  "755": {
+   "name": "Michael Tempesta",
+   "role": "Superintendent, SAU 6"
+  },
+  "756": {
+   "name": "Michael Tempesta",
+   "role": "Superintendent, SAU 6"
+  },
+  "758": {
+   "name": "Michael Tempesta",
+   "role": "Superintendent, SAU 6"
+  },
+  "760": {
+   "name": "Michael Tempesta",
+   "role": "Superintendent, SAU 6"
+  }
+ }
+}

@@ -1,0 +1,212 @@
+{
+ "Speaker 1": {
+  "name": "Rebecca Zullo",
+  "role": "Claremont School Board Vice Chair (medium - not named on her own lines; answers the first roll-call slot [103] before Benware, matching the roll order used at 11/20 and 12/12/2019; phrasing matches her 12/5/2019 remarks)"
+ },
+ "Speaker 2": {
+  "name": "Frank Sprague",
+  "role": "Claremont School Board Chair"
+ },
+ "Speaker 3": {
+  "name": "Patrick Adrian",
+  "role": "Public commenter, Ward 1; reporter and former Claremont School Board member (self-identified [7])"
+ },
+ "Speaker 4": {
+  "name": "Cassie Burke",
+  "role": "Public commenter, Ward 3, parent (ASR 'Kasey Burke' [51], 'Cassie' [68], 'Cassie Burke' [293]; spelling unverified)"
+ },
+ "Speaker 5": {
+  "name": "Jason Benware",
+  "role": "Claremont School Board member"
+ },
+ "Speaker 6": {
+  "name": "Michael Tempesta",
+  "role": "Superintendent, SAU 6"
+ },
+ "Speaker 7": {
+  "name": "Unidentified",
+  "role": "Unidentified staff voice (short remarks on public hearings and the Facebook page)"
+ },
+ "Speaker 8": {
+  "name": "Carolyn Towle",
+  "role": "Claremont School Board member (chair recognizes 'Carolyn' [395], [561])"
+ },
+ "Speaker 9": {
+  "name": "Unidentified",
+  "role": "Unidentified - cluster mixes several voices (board members, an administrator, audience); see overrides"
+ },
+ "Speaker 10": {
+  "name": "Mary Woodman",
+  "role": "School district clerk and board recording secretary"
+ },
+ "Speaker 11": {
+  "name": "Tyler Sullivan",
+  "role": "Student representative, Stevens High School senior (ASR 'Tala Sullivan' [127], chair 'Tyler' [159]; spelling unverified)"
+ },
+ "Speaker 12": {
+  "name": "Unidentified",
+  "role": "Unidentified - audiovisual setup chatter"
+ },
+ "Speaker 13": {
+  "name": "Unidentified",
+  "role": "Unidentified - audiovisual setup chatter"
+ },
+ "Speaker 14": {
+  "name": "Unidentified",
+  "role": "Unidentified - cluster mixes short interjections from several board members and staff"
+ },
+ "Speaker 15": {
+  "name": "Alex Herzog",
+  "role": "Director, Sugar River Valley Regional Technical Center (self-identified [173])"
+ },
+ "Speaker 16": {
+  "name": "Rebecca Zullo",
+  "role": "Claremont School Board Vice Chair (medium - not named on her own lines; answers the first roll-call slot [103] before Benware, matching the roll order used at 11/20 and 12/12/2019; phrasing matches her 12/5/2019 remarks)"
+ },
+ "Speaker 17": {
+  "name": "Rob Lovett Jr.",
+  "role": "Claremont School Board member (uncertain - Towle refers to 'as Rob said' [370] after this robocall remark; diarized with Benware)"
+ },
+ "Speaker 18": {
+  "name": "Rob Lovett Jr.",
+  "role": "Claremont School Board member (uncertain - Towle refers to 'as Rob said' [370] after this robocall remark; diarized with Benware)"
+ },
+ "Speaker 19": {
+  "name": "Ben Nester",
+  "role": "Director of Special Education, SAU 6 (medium - chair addresses 'So Ben' [440] re Medicaid; but chair said at [109] 'Dessner is not here')"
+ },
+ "Speaker 20": {
+  "name": "Heather Whitney",
+  "role": "Claremont School Board member (chair recognizes 'Heather' [513] before her food service remarks)"
+ },
+ "__overrides__": {
+  "18": {
+   "name": "Unidentified",
+   "role": "Unidentified - brief interjection"
+  },
+  "32": {
+   "name": "Unidentified",
+   "role": "Unidentified - brief interjection"
+  },
+  "41": {
+   "name": "Unidentified",
+   "role": "Unidentified - brief interjection"
+  },
+  "37": {
+   "name": "Rebecca Zullo"
+  },
+  "39": {
+   "name": "Frank Sprague"
+  },
+  "20": {
+   "name": "Unidentified",
+   "role": "Board member relaying 'Jason had some questions' about the 12/12 meeting (uncertain - diarized with Benware but appears to speak for him; possibly Rob Lovett Jr.)"
+  },
+  "21": {
+   "name": "Unidentified",
+   "role": "Board member relaying 'Jason had some questions' about the 12/12 meeting (uncertain - diarized with Benware but appears to speak for him; possibly Rob Lovett Jr.)"
+  },
+  "22": {
+   "name": "Unidentified",
+   "role": "Board member relaying 'Jason had some questions' about the 12/12 meeting (uncertain - diarized with Benware but appears to speak for him; possibly Rob Lovett Jr.)"
+  },
+  "23": {
+   "name": "Unidentified",
+   "role": "Board member relaying 'Jason had some questions' about the 12/12 meeting (uncertain - diarized with Benware but appears to speak for him; possibly Rob Lovett Jr.)"
+  },
+  "26": {
+   "name": "Unidentified",
+   "role": "Board member relaying 'Jason had some questions' about the 12/12 meeting (uncertain - diarized with Benware but appears to speak for him; possibly Rob Lovett Jr.)"
+  },
+  "30": {
+   "name": "Unidentified",
+   "role": "Board member relaying 'Jason had some questions' about the 12/12 meeting (uncertain - diarized with Benware but appears to speak for him; possibly Rob Lovett Jr.)"
+  },
+  "33": {
+   "name": "Unidentified",
+   "role": "Board member relaying 'Jason had some questions' about the 12/12 meeting (uncertain - diarized with Benware but appears to speak for him; possibly Rob Lovett Jr.)"
+  },
+  "35": {
+   "name": "Unidentified",
+   "role": "Board member relaying 'Jason had some questions' about the 12/12 meeting (uncertain - diarized with Benware but appears to speak for him; possibly Rob Lovett Jr.)"
+  },
+  "100": {
+   "name": "Unidentified",
+   "role": "Unidentified - group response (pledge or aye vote)"
+  },
+  "120": {
+   "name": "Unidentified",
+   "role": "Unidentified - group response (pledge or aye vote)"
+  },
+  "405": {
+   "name": "Unidentified",
+   "role": "Unidentified - group response (pledge or aye vote)"
+  },
+  "407": {
+   "name": "Unidentified",
+   "role": "Unidentified - group response (pledge or aye vote)"
+  },
+  "101": {
+   "name": "Unidentified",
+   "role": "Unidentified - group response (pledge or aye vote)"
+  },
+  "409": {
+   "name": "Mary Woodman"
+  },
+  "359": {
+   "name": "Rob Lovett Jr.",
+   "role": "Claremont School Board member (uncertain - Towle refers to 'as Rob said' [370] after this robocall remark; diarized with Benware)"
+  },
+  "361": {
+   "name": "Rob Lovett Jr.",
+   "role": "Claremont School Board member (uncertain - Towle refers to 'as Rob said' [370] after this robocall remark; diarized with Benware)"
+  },
+  "363": {
+   "name": "Rob Lovett Jr.",
+   "role": "Claremont School Board member (uncertain - Towle refers to 'as Rob said' [370] after this robocall remark; diarized with Benware)"
+  },
+  "326": {
+   "name": "Heather Whitney"
+  },
+  "107": {
+   "name": "Heather Whitney"
+  },
+  "293": {
+   "name": "Cassie Burke"
+  },
+  "105": {
+   "name": "Michael Petrin",
+   "role": "SAU 6 Board Chair; Claremont School Board member (answers roll after 'Michael' [104])"
+  },
+  "372": {
+   "name": "Unidentified",
+   "role": "Administrator or clerk explaining notice posting and RSA 40:16 (uncertain - not named)"
+  },
+  "373": {
+   "name": "Unidentified",
+   "role": "Administrator or clerk explaining notice posting and RSA 40:16 (uncertain - not named)"
+  },
+  "375": {
+   "name": "Unidentified",
+   "role": "Administrator or clerk explaining notice posting and RSA 40:16 (uncertain - not named)"
+  },
+  "376": {
+   "name": "Unidentified",
+   "role": "Administrator or clerk explaining notice posting and RSA 40:16 (uncertain - not named)"
+  },
+  "382": {
+   "name": "Unidentified",
+   "role": "Administrator or clerk explaining notice posting and RSA 40:16 (uncertain - not named)"
+  },
+  "291": {
+   "name": "Alex Herzog"
+  },
+  "277": {
+   "name": "Unidentified",
+   "role": "Unidentified - brief interjection"
+  },
+  "441": {
+   "name": "Ben Nester"
+  }
+ }
+}

@@ -1,0 +1,188 @@
+{
+ "Speaker 1": {
+  "name": "Unidentified",
+  "role": "Unidentified - short fragment before the hearing opens"
+ },
+ "Speaker 2": {
+  "name": "Brian Rapp",
+  "role": "Claremont School Board Chair (opens the hearing [2-8]; recognizes 'Mr. Osgood' [80]; commenter addresses 'Brian' [138]; members later move to 'overrule the chair' and refer to 'Mr. Roth' [169-174])"
+ },
+ "Speaker 3": {
+  "name": "Middleton McGoodwin",
+  "role": "Superintendent, SAU 6 (self-introduced, ASR 'Middleton Goodwin' [9]; answers as superintendent [97-116, 194-195])"
+ },
+ "Speaker 4": {
+  "name": "Michael O'Neill",
+  "role": "Business Administrator, SAU 6 (self-introduced, 'Mike O'Neill, director of business and finance' [60]; surname spelling unverified)"
+ },
+ "Speaker 5": {
+  "name": "Jason Benware",
+  "role": "Public commenter, Ward 1 (self-introduced, ASR 'Jason Ben Ward one' [75]; roster spelling Benware; sworn in as a School Board member 3/21/2018)"
+ },
+ "Speaker 6": {
+  "name": "Carolyn Towle",
+  "role": "Public commenter (self-introduced, ASR 'Carolyn tall' [86]; roster spelling Towle; ward not stated); later a School Board member from 3/21/2018 per roster"
+ },
+ "Speaker 7": {
+  "name": "Unidentified",
+  "role": "Unidentified - short fragment"
+ },
+ "Speaker 8": {
+  "name": "Unidentified",
+  "role": "Unidentified - short fragment (possibly the start of O'Neill's food-service answer [93])"
+ },
+ "Speaker 9": {
+  "name": "Unidentified",
+  "role": "Public commenter, Stevens class of 1979, teaches at River Valley Community College; name not audible ('Hi, my name is I'm a Stevens class of 1979' [94])"
+ },
+ "Speaker 10": {
+  "name": "Middleton McGoodwin",
+  "role": "Superintendent, SAU 6 (self-introduced, ASR 'Middleton Goodwin' [9]; answers as superintendent [97-116, 194-195])"
+ },
+ "Speaker 11": {
+  "name": "Unidentified",
+  "role": "Unidentified - short fragments ('Thank you', 'I')"
+ },
+ "Speaker 12": {
+  "name": "Heather Irish",
+  "role": "Public commenter, Ward 3, former Claremont School Board member (self-introduced 'Heather Irish, Ward three ... I sat on this board for several years' [129])"
+ },
+ "Speaker 13": {
+  "name": "Unidentified",
+  "role": "Unidentified - board-table voice during the dispute over the three-minute limit ('It says so on the agenda' [142]); not named"
+ },
+ "Speaker 14": {
+  "name": "Unidentified",
+  "role": "Unidentified - short interjection"
+ },
+ "Speaker 15": {
+  "name": "Unidentified",
+  "role": "Unidentified - Claremont School Board member from the majority that overruled the chair ('We do not agree to his time' [144]; 'Brian, he has the right' [157]); not named"
+ },
+ "Speaker 16": {
+  "name": "Matt Bean",
+  "role": "Public commenter, Ward 2 (uncertain - self-introduction heard as 'I'm at being War two' [145]; says he told the board 'two weeks ago that that job saves children's lives', matching Matt Bean, Ward 2, at the 12/20/17 meeting, file 9507 [102-110])"
+ },
+ "Speaker 17": {
+  "name": "Jason Benware",
+  "role": "Public commenter, Ward 1 (self-introduced, ASR 'Jason Ben Ward one' [75]; roster spelling Benware; sworn in as a School Board member 3/21/2018)"
+ },
+ "Speaker 18": {
+  "name": "Unidentified",
+  "role": "Stevens High School administrator and former selectman in another town ('I was a selectman in my town for six years' [201]; 'As administrators, we were asked' [202]); name not stated; segment [210] ends with the recognition 'Andrea Wilson'"
+ },
+ "Speaker 19": {
+  "name": "Andrea Wilson",
+  "role": "Public commenter, Ward 1 (name spoken at the end of [210], 'Ward one' [211]; continues in file 9548)"
+ },
+ "__overrides__": {
+  "81": {
+   "name": "Joe Osgood",
+   "role": "Public commenter, Ward 2 (recognized as 'Mr. Osgood' [80]; self-introduced 'Joe Osgood, Ward two' [81]; spelling unverified)"
+  },
+  "82": {
+   "name": "Joe Osgood",
+   "role": "Public commenter, Ward 2 (recognized as 'Mr. Osgood' [80]; self-introduced 'Joe Osgood, Ward two' [81]; spelling unverified)"
+  },
+  "83": {
+   "name": "Joe Osgood",
+   "role": "Public commenter, Ward 2 (recognized as 'Mr. Osgood' [80]; self-introduced 'Joe Osgood, Ward two' [81]; spelling unverified)"
+  },
+  "84": {
+   "name": "Joe Osgood",
+   "role": "Public commenter, Ward 2 (recognized as 'Mr. Osgood' [80]; self-introduced 'Joe Osgood, Ward two' [81]; spelling unverified)"
+  },
+  "85": {
+   "name": "Joe Osgood",
+   "role": "Public commenter, Ward 2 (recognized as 'Mr. Osgood' [80]; self-introduced 'Joe Osgood, Ward two' [81]; spelling unverified)"
+  },
+  "59": {
+   "name": "Michael O'Neill",
+   "role": "Business Administrator, SAU 6 (self-introduced, 'Mike O'Neill, director of business and finance' [60]; surname spelling unverified) - uncertain: greeting just before his self-introduction [60]"
+  },
+  "149": {
+   "name": "Unidentified",
+   "role": "Unidentified - disorder after the chair called a break: diarizer merges Chair Rapp and board members who moved to overrule the chair [167-177]; voices not separable"
+  },
+  "151": {
+   "name": "Unidentified",
+   "role": "Unidentified - disorder after the chair called a break: diarizer merges Chair Rapp and board members who moved to overrule the chair [167-177]; voices not separable"
+  },
+  "153": {
+   "name": "Unidentified",
+   "role": "Unidentified - disorder after the chair called a break: diarizer merges Chair Rapp and board members who moved to overrule the chair [167-177]; voices not separable"
+  },
+  "158": {
+   "name": "Unidentified",
+   "role": "Unidentified - disorder after the chair called a break: diarizer merges Chair Rapp and board members who moved to overrule the chair [167-177]; voices not separable"
+  },
+  "160": {
+   "name": "Unidentified",
+   "role": "Unidentified - disorder after the chair called a break: diarizer merges Chair Rapp and board members who moved to overrule the chair [167-177]; voices not separable"
+  },
+  "162": {
+   "name": "Unidentified",
+   "role": "Unidentified - disorder after the chair called a break: diarizer merges Chair Rapp and board members who moved to overrule the chair [167-177]; voices not separable"
+  },
+  "164": {
+   "name": "Unidentified",
+   "role": "Unidentified - disorder after the chair called a break: diarizer merges Chair Rapp and board members who moved to overrule the chair [167-177]; voices not separable"
+  },
+  "166": {
+   "name": "Unidentified",
+   "role": "Unidentified - disorder after the chair called a break: diarizer merges Chair Rapp and board members who moved to overrule the chair [167-177]; voices not separable"
+  },
+  "167": {
+   "name": "Unidentified",
+   "role": "Unidentified - disorder after the chair called a break: diarizer merges Chair Rapp and board members who moved to overrule the chair [167-177]; voices not separable"
+  },
+  "169": {
+   "name": "Unidentified",
+   "role": "Unidentified - disorder after the chair called a break: diarizer merges Chair Rapp and board members who moved to overrule the chair [167-177]; voices not separable"
+  },
+  "170": {
+   "name": "Unidentified",
+   "role": "Unidentified - disorder after the chair called a break: diarizer merges Chair Rapp and board members who moved to overrule the chair [167-177]; voices not separable"
+  },
+  "171": {
+   "name": "Unidentified",
+   "role": "Unidentified - disorder after the chair called a break: diarizer merges Chair Rapp and board members who moved to overrule the chair [167-177]; voices not separable"
+  },
+  "174": {
+   "name": "Unidentified",
+   "role": "Unidentified - disorder after the chair called a break: diarizer merges Chair Rapp and board members who moved to overrule the chair [167-177]; voices not separable"
+  },
+  "175": {
+   "name": "Unidentified",
+   "role": "Unidentified - disorder after the chair called a break: diarizer merges Chair Rapp and board members who moved to overrule the chair [167-177]; voices not separable"
+  },
+  "177": {
+   "name": "Unidentified",
+   "role": "Unidentified - disorder after the chair called a break: diarizer merges Chair Rapp and board members who moved to overrule the chair [167-177]; voices not separable"
+  },
+  "180": {
+   "name": "Unidentified",
+   "role": "Unidentified - disorder after the chair called a break: diarizer merges Chair Rapp and board members who moved to overrule the chair [167-177]; voices not separable"
+  },
+  "182": {
+   "name": "Unidentified",
+   "role": "Unidentified - disorder after the chair called a break: diarizer merges Chair Rapp and board members who moved to overrule the chair [167-177]; voices not separable"
+  },
+  "184": {
+   "name": "Unidentified",
+   "role": "Unidentified - disorder after the chair called a break: diarizer merges Chair Rapp and board members who moved to overrule the chair [167-177]; voices not separable"
+  },
+  "189": {
+   "name": "Unidentified",
+   "role": "Unidentified - one-word answer 'Correct' to a question addressed to O'Neill"
+  },
+  "181": {
+   "name": "Unidentified",
+   "role": "Unidentified - 'Sit down. Or are you going to walk away?' during the dispute; speaker not determinable"
+  },
+  "143": {
+   "name": "Unidentified",
+   "role": "Unidentified - audience interjection during the time-limit dispute"
+  }
+ }
+}

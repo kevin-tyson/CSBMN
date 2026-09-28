@@ -1,0 +1,584 @@
+{
+ "Speaker 1": {
+  "name": "Alex Herzog",
+  "role": "Candidate for the board vacancy, appointed and sworn in as Claremont School Board member this meeting (self-ID 'I'm Doctor Alex Herzog' seg 253)"
+ },
+ "Speaker 2": {
+  "name": "Brian Rapp",
+  "role": "Claremont School Board Chair"
+ },
+ "Speaker 3": {
+  "name": "Middleton McGoodwin",
+  "role": "Superintendent, SAU 6"
+ },
+ "Speaker 4": {
+  "name": "Mary Woodman",
+  "role": "School district clerk and board recording secretary (calls roll seg 4; superintendent names 'Mary Woodman' re the oath seg 140; administers oath segs 502-547)"
+ },
+ "Speaker 5": {
+  "name": "Cory LeClair",
+  "role": "Assistant Superintendent, SAU 6 (thanked as 'Corey' seg 313; superintendent defers 'No pressure. Corey.' seg 585, answered seg 587)"
+ },
+ "Speaker 6": {
+  "name": "Brent Ferland",
+  "role": "Claremont School Board member (attribution by elimination; uncertain - never named on this recording; see report)"
+ },
+ "Speaker 7": {
+  "name": "Unidentified",
+  "role": "Unidentified - single short remark"
+ },
+ "Speaker 8": {
+  "name": "Frank Sprague",
+  "role": "Claremont School Board member (says 'when I was the principal of Stevens High School' seg 95; on roll call seg 4)"
+ },
+ "Speaker 9": {
+  "name": "Marion",
+  "role": "Student representative to the board (named 'Marion' by the superintendent and chair, segs 55, 460, 553; surname not on this recording)"
+ },
+ "Speaker 10": {
+  "name": "Michelle Pierce",
+  "role": "Claremont School Board member (self-ID 'Michelle Pierce, Ward one' seg 106)"
+ },
+ "Speaker 11": {
+  "name": "Michael O'Neill",
+  "role": "Business Administrator, SAU 6 (presents the DOE-25 and fund balance, segs 621-855; 'Mike' per chair seg 616)"
+ },
+ "Speaker 12": {
+  "name": "Mike Siri",
+  "role": "Candidate for the board vacancy, retired Stevens math teacher (self-ID ASR 'I'm mike. Siri' seg 171; surname spelling unverified)"
+ },
+ "Speaker 13": {
+  "name": "Patrick Adrian",
+  "role": "Claremont School Board member (addressed as 'Patrick' segs 121-124, 580)"
+ },
+ "Speaker 14": {
+  "name": "Unidentified",
+  "role": "Unidentified - cluster of short interjections from several board members and candidates"
+ },
+ "Speaker 15": {
+  "name": "Unidentified",
+  "role": "Unidentified - two short fragments"
+ },
+ "Speaker 16": {
+  "name": "Chris Irish",
+  "role": "Claremont School Board Vice Chair (uncertain - identified by the business administrator's reply 'Christian [Chris],' seg 742 and by elimination; makes the appointment motion seg 494)"
+ },
+ "Speaker 17": {
+  "name": "Brent Ferland",
+  "role": "Claremont School Board member (attribution by elimination; uncertain - never named on this recording; see report)"
+ },
+ "Speaker 18": {
+  "name": "Richard Seaman",
+  "role": "Former board member and candidate for the vacancy, withdraws his candidacy (greeted 'Welcome, Richard' seg 315; 'my involvement on the school board before' seg 318)"
+ },
+ "Speaker 19": {
+  "name": "Rebecca Zullo",
+  "role": "Candidate for the board vacancy (self-ID 'My name is Rebecca Zullo' seg 329)"
+ },
+ "Speaker 20": {
+  "name": "Unidentified",
+  "role": "Unidentified - single short remark"
+ },
+ "Speaker 21": {
+  "name": "Unidentified",
+  "role": "Unidentified - cluster of short acknowledgements by several board members during the fund balance discussion"
+ },
+ "Speaker 22": {
+  "name": "Unidentified",
+  "role": "Unidentified - board member question about the tax rate (segs 830-834)"
+ },
+ "__overrides__": {
+  "84": {
+   "name": "Mike Siri"
+  },
+  "86": {
+   "name": "Mike Siri"
+  },
+  "93": {
+   "name": "Mike Siri"
+  },
+  "97": {
+   "name": "Unidentified",
+   "role": "Unidentified - short remark before the business administrator's report; the O'Neill cluster absorbs several board members and candidates here"
+  },
+  "99": {
+   "name": "Unidentified",
+   "role": "Unidentified - short remark before the business administrator's report; the O'Neill cluster absorbs several board members and candidates here"
+  },
+  "101": {
+   "name": "Unidentified",
+   "role": "Unidentified - short remark before the business administrator's report; the O'Neill cluster absorbs several board members and candidates here"
+  },
+  "116": {
+   "name": "Unidentified",
+   "role": "Unidentified - short remark before the business administrator's report; the O'Neill cluster absorbs several board members and candidates here"
+  },
+  "123": {
+   "name": "Unidentified",
+   "role": "Unidentified - short remark before the business administrator's report; the O'Neill cluster absorbs several board members and candidates here"
+  },
+  "125": {
+   "name": "Unidentified",
+   "role": "Unidentified - short remark before the business administrator's report; the O'Neill cluster absorbs several board members and candidates here"
+  },
+  "134": {
+   "name": "Unidentified",
+   "role": "Unidentified - short remark before the business administrator's report; the O'Neill cluster absorbs several board members and candidates here"
+  },
+  "136": {
+   "name": "Unidentified",
+   "role": "Unidentified - short remark before the business administrator's report; the O'Neill cluster absorbs several board members and candidates here"
+  },
+  "151": {
+   "name": "Unidentified",
+   "role": "Unidentified - short remark before the business administrator's report; the O'Neill cluster absorbs several board members and candidates here"
+  },
+  "155": {
+   "name": "Unidentified",
+   "role": "Unidentified - short remark before the business administrator's report; the O'Neill cluster absorbs several board members and candidates here"
+  },
+  "160": {
+   "name": "Unidentified",
+   "role": "Unidentified - short remark before the business administrator's report; the O'Neill cluster absorbs several board members and candidates here"
+  },
+  "164": {
+   "name": "Unidentified",
+   "role": "Unidentified - short remark before the business administrator's report; the O'Neill cluster absorbs several board members and candidates here"
+  },
+  "165": {
+   "name": "Unidentified",
+   "role": "Unidentified - short remark before the business administrator's report; the O'Neill cluster absorbs several board members and candidates here"
+  },
+  "168": {
+   "name": "Unidentified",
+   "role": "Unidentified - short remark before the business administrator's report; the O'Neill cluster absorbs several board members and candidates here"
+  },
+  "170": {
+   "name": "Mike Siri"
+  },
+  "174": {
+   "name": "Mike Siri"
+  },
+  "178": {
+   "name": "Unidentified",
+   "role": "Unidentified - short remark before the business administrator's report; the O'Neill cluster absorbs several board members and candidates here"
+  },
+  "180": {
+   "name": "Unidentified",
+   "role": "Unidentified - short remark before the business administrator's report; the O'Neill cluster absorbs several board members and candidates here"
+  },
+  "182": {
+   "name": "Unidentified",
+   "role": "Unidentified - short remark before the business administrator's report; the O'Neill cluster absorbs several board members and candidates here"
+  },
+  "197": {
+   "name": "Unidentified",
+   "role": "Unidentified - short remark before the business administrator's report; the O'Neill cluster absorbs several board members and candidates here"
+  },
+  "201": {
+   "name": "Unidentified",
+   "role": "Unidentified - short remark before the business administrator's report; the O'Neill cluster absorbs several board members and candidates here"
+  },
+  "206": {
+   "name": "Unidentified",
+   "role": "Unidentified - short remark before the business administrator's report; the O'Neill cluster absorbs several board members and candidates here"
+  },
+  "213": {
+   "name": "Unidentified",
+   "role": "Unidentified - short remark before the business administrator's report; the O'Neill cluster absorbs several board members and candidates here"
+  },
+  "221": {
+   "name": "Unidentified",
+   "role": "Unidentified - short remark before the business administrator's report; the O'Neill cluster absorbs several board members and candidates here"
+  },
+  "224": {
+   "name": "Unidentified",
+   "role": "Unidentified - short remark before the business administrator's report; the O'Neill cluster absorbs several board members and candidates here"
+  },
+  "227": {
+   "name": "Unidentified",
+   "role": "Unidentified - short remark before the business administrator's report; the O'Neill cluster absorbs several board members and candidates here"
+  },
+  "236": {
+   "name": "Unidentified",
+   "role": "Unidentified - short remark before the business administrator's report; the O'Neill cluster absorbs several board members and candidates here"
+  },
+  "238": {
+   "name": "Unidentified",
+   "role": "Unidentified - short remark before the business administrator's report; the O'Neill cluster absorbs several board members and candidates here"
+  },
+  "243": {
+   "name": "Unidentified",
+   "role": "Unidentified - short remark before the business administrator's report; the O'Neill cluster absorbs several board members and candidates here"
+  },
+  "245": {
+   "name": "Unidentified",
+   "role": "Unidentified - short remark before the business administrator's report; the O'Neill cluster absorbs several board members and candidates here"
+  },
+  "247": {
+   "name": "Unidentified",
+   "role": "Unidentified - short remark before the business administrator's report; the O'Neill cluster absorbs several board members and candidates here"
+  },
+  "263": {
+   "name": "Unidentified",
+   "role": "Unidentified - short remark before the business administrator's report; the O'Neill cluster absorbs several board members and candidates here"
+  },
+  "276": {
+   "name": "Unidentified",
+   "role": "Unidentified - short remark before the business administrator's report; the O'Neill cluster absorbs several board members and candidates here"
+  },
+  "282": {
+   "name": "Unidentified",
+   "role": "Unidentified - short remark before the business administrator's report; the O'Neill cluster absorbs several board members and candidates here"
+  },
+  "304": {
+   "name": "Unidentified",
+   "role": "Unidentified - short remark before the business administrator's report; the O'Neill cluster absorbs several board members and candidates here"
+  },
+  "309": {
+   "name": "Unidentified",
+   "role": "Unidentified - short remark before the business administrator's report; the O'Neill cluster absorbs several board members and candidates here"
+  },
+  "311": {
+   "name": "Unidentified",
+   "role": "Unidentified - short remark before the business administrator's report; the O'Neill cluster absorbs several board members and candidates here"
+  },
+  "313": {
+   "name": "Unidentified",
+   "role": "Unidentified - short remark before the business administrator's report; the O'Neill cluster absorbs several board members and candidates here"
+  },
+  "316": {
+   "name": "Unidentified",
+   "role": "Unidentified - short remark before the business administrator's report; the O'Neill cluster absorbs several board members and candidates here"
+  },
+  "322": {
+   "name": "Unidentified",
+   "role": "Unidentified - short remark before the business administrator's report; the O'Neill cluster absorbs several board members and candidates here"
+  },
+  "325": {
+   "name": "Unidentified",
+   "role": "Unidentified - short remark before the business administrator's report; the O'Neill cluster absorbs several board members and candidates here"
+  },
+  "326": {
+   "name": "Unidentified",
+   "role": "Unidentified - short remark before the business administrator's report; the O'Neill cluster absorbs several board members and candidates here"
+  },
+  "333": {
+   "name": "Unidentified",
+   "role": "Unidentified - short remark before the business administrator's report; the O'Neill cluster absorbs several board members and candidates here"
+  },
+  "348": {
+   "name": "Unidentified",
+   "role": "Unidentified - short remark before the business administrator's report; the O'Neill cluster absorbs several board members and candidates here"
+  },
+  "379": {
+   "name": "Unidentified",
+   "role": "Unidentified - short remark before the business administrator's report; the O'Neill cluster absorbs several board members and candidates here"
+  },
+  "390": {
+   "name": "Unidentified",
+   "role": "Unidentified - short remark before the business administrator's report; the O'Neill cluster absorbs several board members and candidates here"
+  },
+  "401": {
+   "name": "Unidentified",
+   "role": "Unidentified - short remark before the business administrator's report; the O'Neill cluster absorbs several board members and candidates here"
+  },
+  "418": {
+   "name": "Unidentified",
+   "role": "Unidentified - short remark before the business administrator's report; the O'Neill cluster absorbs several board members and candidates here"
+  },
+  "421": {
+   "name": "Unidentified",
+   "role": "Unidentified - short remark before the business administrator's report; the O'Neill cluster absorbs several board members and candidates here"
+  },
+  "425": {
+   "name": "Unidentified",
+   "role": "Unidentified - short remark before the business administrator's report; the O'Neill cluster absorbs several board members and candidates here"
+  },
+  "438": {
+   "name": "Unidentified",
+   "role": "Unidentified - short remark before the business administrator's report; the O'Neill cluster absorbs several board members and candidates here"
+  },
+  "439": {
+   "name": "Unidentified",
+   "role": "Unidentified - short remark before the business administrator's report; the O'Neill cluster absorbs several board members and candidates here"
+  },
+  "441": {
+   "name": "Unidentified",
+   "role": "Unidentified - short remark before the business administrator's report; the O'Neill cluster absorbs several board members and candidates here"
+  },
+  "448": {
+   "name": "Unidentified",
+   "role": "Unidentified - short remark before the business administrator's report; the O'Neill cluster absorbs several board members and candidates here"
+  },
+  "453": {
+   "name": "Unidentified",
+   "role": "Unidentified - short remark before the business administrator's report; the O'Neill cluster absorbs several board members and candidates here"
+  },
+  "455": {
+   "name": "Unidentified",
+   "role": "Unidentified - short remark before the business administrator's report; the O'Neill cluster absorbs several board members and candidates here"
+  },
+  "457": {
+   "name": "Unidentified",
+   "role": "Unidentified - short remark before the business administrator's report; the O'Neill cluster absorbs several board members and candidates here"
+  },
+  "459": {
+   "name": "Unidentified",
+   "role": "Unidentified - short remark before the business administrator's report; the O'Neill cluster absorbs several board members and candidates here"
+  },
+  "462": {
+   "name": "Unidentified",
+   "role": "Unidentified - short remark before the business administrator's report; the O'Neill cluster absorbs several board members and candidates here"
+  },
+  "465": {
+   "name": "Unidentified",
+   "role": "Unidentified - short remark before the business administrator's report; the O'Neill cluster absorbs several board members and candidates here"
+  },
+  "466": {
+   "name": "Unidentified",
+   "role": "Unidentified - short remark before the business administrator's report; the O'Neill cluster absorbs several board members and candidates here"
+  },
+  "468": {
+   "name": "Unidentified",
+   "role": "Unidentified - short remark before the business administrator's report; the O'Neill cluster absorbs several board members and candidates here"
+  },
+  "471": {
+   "name": "Unidentified",
+   "role": "Unidentified - short remark before the business administrator's report; the O'Neill cluster absorbs several board members and candidates here"
+  },
+  "474": {
+   "name": "Unidentified",
+   "role": "Unidentified - short remark before the business administrator's report; the O'Neill cluster absorbs several board members and candidates here"
+  },
+  "476": {
+   "name": "Unidentified",
+   "role": "Unidentified - short remark before the business administrator's report; the O'Neill cluster absorbs several board members and candidates here"
+  },
+  "479": {
+   "name": "Unidentified",
+   "role": "Unidentified - short remark before the business administrator's report; the O'Neill cluster absorbs several board members and candidates here"
+  },
+  "481": {
+   "name": "Unidentified",
+   "role": "Unidentified - short remark before the business administrator's report; the O'Neill cluster absorbs several board members and candidates here"
+  },
+  "483": {
+   "name": "Unidentified",
+   "role": "Unidentified - short remark before the business administrator's report; the O'Neill cluster absorbs several board members and candidates here"
+  },
+  "486": {
+   "name": "Unidentified",
+   "role": "Unidentified - short remark before the business administrator's report; the O'Neill cluster absorbs several board members and candidates here"
+  },
+  "489": {
+   "name": "Unidentified",
+   "role": "Unidentified - short remark before the business administrator's report; the O'Neill cluster absorbs several board members and candidates here"
+  },
+  "492": {
+   "name": "Unidentified",
+   "role": "Unidentified - short remark before the business administrator's report; the O'Neill cluster absorbs several board members and candidates here"
+  },
+  "496": {
+   "name": "Unidentified",
+   "role": "Unidentified - short remark before the business administrator's report; the O'Neill cluster absorbs several board members and candidates here"
+  },
+  "500": {
+   "name": "Unidentified",
+   "role": "Unidentified - short remark before the business administrator's report; the O'Neill cluster absorbs several board members and candidates here"
+  },
+  "549": {
+   "name": "Unidentified",
+   "role": "Unidentified - short remark before the business administrator's report; the O'Neill cluster absorbs several board members and candidates here"
+  },
+  "550": {
+   "name": "Unidentified",
+   "role": "Unidentified - short remark before the business administrator's report; the O'Neill cluster absorbs several board members and candidates here"
+  },
+  "552": {
+   "name": "Unidentified",
+   "role": "Unidentified - short remark before the business administrator's report; the O'Neill cluster absorbs several board members and candidates here"
+  },
+  "554": {
+   "name": "Unidentified",
+   "role": "Unidentified - short remark before the business administrator's report; the O'Neill cluster absorbs several board members and candidates here"
+  },
+  "555": {
+   "name": "Unidentified",
+   "role": "Unidentified - short remark before the business administrator's report; the O'Neill cluster absorbs several board members and candidates here"
+  },
+  "563": {
+   "name": "Unidentified",
+   "role": "Unidentified - short remark before the business administrator's report; the O'Neill cluster absorbs several board members and candidates here"
+  },
+  "566": {
+   "name": "Unidentified",
+   "role": "Unidentified - short remark before the business administrator's report; the O'Neill cluster absorbs several board members and candidates here"
+  },
+  "574": {
+   "name": "Unidentified",
+   "role": "Unidentified - short remark before the business administrator's report; the O'Neill cluster absorbs several board members and candidates here"
+  },
+  "577": {
+   "name": "Unidentified",
+   "role": "Unidentified - short remark before the business administrator's report; the O'Neill cluster absorbs several board members and candidates here"
+  },
+  "579": {
+   "name": "Unidentified",
+   "role": "Unidentified - short remark before the business administrator's report; the O'Neill cluster absorbs several board members and candidates here"
+  },
+  "581": {
+   "name": "Unidentified",
+   "role": "Unidentified - short remark before the business administrator's report; the O'Neill cluster absorbs several board members and candidates here"
+  },
+  "586": {
+   "name": "Unidentified",
+   "role": "Unidentified - short remark before the business administrator's report; the O'Neill cluster absorbs several board members and candidates here"
+  },
+  "595": {
+   "name": "Unidentified",
+   "role": "Unidentified - short remark before the business administrator's report; the O'Neill cluster absorbs several board members and candidates here"
+  },
+  "602": {
+   "name": "Unidentified",
+   "role": "Unidentified - short remark before the business administrator's report; the O'Neill cluster absorbs several board members and candidates here"
+  },
+  "611": {
+   "name": "Unidentified",
+   "role": "Unidentified - short remark before the business administrator's report; the O'Neill cluster absorbs several board members and candidates here"
+  },
+  "613": {
+   "name": "Unidentified",
+   "role": "Unidentified - short remark before the business administrator's report; the O'Neill cluster absorbs several board members and candidates here"
+  },
+  "615": {
+   "name": "Unidentified",
+   "role": "Unidentified - short remark before the business administrator's report; the O'Neill cluster absorbs several board members and candidates here"
+  },
+  "618": {
+   "name": "Unidentified",
+   "role": "Unidentified - short remark before the business administrator's report; the O'Neill cluster absorbs several board members and candidates here"
+  },
+  "620": {
+   "name": "Unidentified",
+   "role": "Unidentified - short remark before the business administrator's report; the O'Neill cluster absorbs several board members and candidates here"
+  },
+  "512": {
+   "name": "Alex Herzog"
+  },
+  "544": {
+   "name": "Alex Herzog"
+  },
+  "514": {
+   "name": "Alex Herzog"
+  },
+  "516": {
+   "name": "Alex Herzog"
+  },
+  "518": {
+   "name": "Alex Herzog"
+  },
+  "542": {
+   "name": "Alex Herzog"
+  },
+  "520": {
+   "name": "Alex Herzog"
+  },
+  "522": {
+   "name": "Alex Herzog"
+  },
+  "525": {
+   "name": "Alex Herzog"
+  },
+  "537": {
+   "name": "Alex Herzog"
+  },
+  "528": {
+   "name": "Alex Herzog"
+  },
+  "530": {
+   "name": "Alex Herzog"
+  },
+  "534": {
+   "name": "Alex Herzog"
+  },
+  "503": {
+   "name": "Alex Herzog"
+  },
+  "505": {
+   "name": "Alex Herzog"
+  },
+  "507": {
+   "name": "Alex Herzog"
+  },
+  "540": {
+   "name": "Alex Herzog"
+  },
+  "510": {
+   "name": "Alex Herzog"
+  },
+  "0": {
+   "name": "Unidentified",
+   "role": "Unidentified - board member voice merged into the Herzog cluster while Herzog waited outside during the interviews"
+  },
+  "117": {
+   "name": "Unidentified",
+   "role": "Unidentified - board member voice merged into the Herzog cluster while Herzog waited outside during the interviews"
+  },
+  "126": {
+   "name": "Unidentified",
+   "role": "Unidentified - board member voice merged into the Herzog cluster while Herzog waited outside during the interviews"
+  },
+  "199": {
+   "name": "Unidentified",
+   "role": "Unidentified - board member voice merged into the Herzog cluster while Herzog waited outside during the interviews"
+  },
+  "203": {
+   "name": "Unidentified",
+   "role": "Unidentified - board member voice merged into the Herzog cluster while Herzog waited outside during the interviews"
+  },
+  "208": {
+   "name": "Unidentified",
+   "role": "Unidentified - board member voice merged into the Herzog cluster while Herzog waited outside during the interviews"
+  },
+  "209": {
+   "name": "Unidentified",
+   "role": "Unidentified - board member voice merged into the Herzog cluster while Herzog waited outside during the interviews"
+  },
+  "214": {
+   "name": "Unidentified",
+   "role": "Unidentified - board member voice merged into the Herzog cluster while Herzog waited outside during the interviews"
+  },
+  "218": {
+   "name": "Unidentified",
+   "role": "Unidentified - board member voice merged into the Herzog cluster while Herzog waited outside during the interviews"
+  },
+  "250": {
+   "name": "Alex Herzog"
+  },
+  "252": {
+   "name": "Alex Herzog"
+  },
+  "109": {
+   "name": "Michelle Pierce"
+  },
+  "432": {
+   "name": "Rebecca Zullo"
+  },
+  "546": {
+   "name": "Mary Woodman"
+  },
+  "833": {
+   "name": "Unidentified",
+   "role": "Unidentified - board member question about the tax rate (segs 830-834)"
+  },
+  "244": {
+   "name": "Unidentified",
+   "role": "Unidentified - board member voice merged into the Herzog cluster while Herzog waited outside during the interviews"
+  },
+  "246": {
+   "name": "Unidentified",
+   "role": "Unidentified - board member voice merged into the Herzog cluster while Herzog waited outside during the interviews"
+  }
+ }
+}

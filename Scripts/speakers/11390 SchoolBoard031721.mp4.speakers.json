@@ -1,0 +1,204 @@
+{
+ "Speaker 1": {
+  "name": "Frank Sprague",
+  "role": "Claremont School Board Chair (re-elected chair this meeting [127-132])"
+ },
+ "Speaker 2": {
+  "name": "Michael Tempesta",
+  "role": "Superintendent, SAU 6 (presides at the opening until officers are elected)"
+ },
+ "Speaker 4": {
+  "name": "Heather Whitney",
+  "role": "Claremont School Board member"
+ },
+ "Speaker 9": {
+  "name": "Michael Petrin",
+  "role": "Claremont School Board member"
+ },
+ "Speaker 10": {
+  "name": "Steven Horsky",
+  "role": "Claremont School Board member (newly seated this meeting)"
+ },
+ "Speaker 7": {
+  "name": "Carolyn Towle",
+  "role": "Claremont School Board member"
+ },
+ "Speaker 6": {
+  "name": "Carolyn Towle",
+  "role": "Claremont School Board member"
+ },
+ "Speaker 5": {
+  "name": "Mary Woodman",
+  "role": "School district clerk and board recording secretary (sworn as clerk this meeting)"
+ },
+ "Speaker 12": {
+  "name": "Donna Magoon",
+  "role": "Assistant Superintendent, SAU 6"
+ },
+ "Speaker 11": {
+  "name": "Patrick Adrian",
+  "role": "Public commenter, Ward 1 (former Claremont School Board member)"
+ },
+ "Speaker 3": {
+  "name": "Unidentified",
+  "role": "Unidentified - short interjections from several voices; see overrides"
+ },
+ "Speaker 8": {
+  "name": "Unidentified",
+  "role": "Unidentified - short interjections from several voices; see overrides"
+ },
+ "Speaker 13": {
+  "name": "Unidentified",
+  "role": "Unidentified - short acknowledgements and remarks from several voices"
+ },
+ "Speaker 14": {
+  "name": "Unidentified",
+  "role": "Unidentified - single fragment"
+ },
+ "__overrides__": {
+  "17": {
+   "name": "Donna Magoon",
+   "role": "Assistant Superintendent, SAU 6"
+  },
+  "74": {
+   "name": "Donna Magoon",
+   "role": "Assistant Superintendent, SAU 6"
+  },
+  "76": {
+   "name": "Donna Magoon",
+   "role": "Assistant Superintendent, SAU 6"
+  },
+  "85": {
+   "name": "Donna Magoon",
+   "role": "Assistant Superintendent, SAU 6"
+  },
+  "89": {
+   "name": "Carolyn Towle",
+   "role": "Claremont School Board member"
+  },
+  "91": {
+   "name": "Carolyn Towle",
+   "role": "Claremont School Board member"
+  },
+  "97": {
+   "name": "Unidentified",
+   "role": "Unidentified - short remark (voice clustered with the clerk)"
+  },
+  "54": {
+   "name": "Unidentified",
+   "role": "Unidentified - gives the smart board size (possibly Jeff Small, not established)"
+  },
+  "129": {
+   "name": "Heather Whitney",
+   "role": "Claremont School Board member"
+  },
+  "140": {
+   "name": "Unidentified",
+   "role": "Unidentified - roll-call vote answer"
+  },
+  "141": {
+   "name": "Unidentified",
+   "role": "Unidentified - roll-call vote answer"
+  },
+  "146": {
+   "name": "Unidentified",
+   "role": "Unidentified - roll-call attendance answer"
+  },
+  "154": {
+   "name": "Unidentified",
+   "role": "Unidentified - roll-call vote answer"
+  },
+  "156": {
+   "name": "Rob Lovett Jr.",
+   "role": "Claremont School Board member (arrived late, \"Rob is here today\" [112])"
+  },
+  "284": {
+   "name": "Rob Lovett Jr.",
+   "role": "Claremont School Board member (arrived late, \"Rob is here today\" [112])"
+  },
+  "286": {
+   "name": "Unidentified",
+   "role": "Unidentified - roll-call vote answer"
+  },
+  "195": {
+   "name": "Michael Tempesta",
+   "role": "Superintendent, SAU 6 (presides at the opening until officers are elected)"
+  },
+  "203": {
+   "name": "Jeff Small",
+   "role": "Director of Technology, SAU 6 (superintendent: 'Jeff, please fill in if I'm missed anything' [202]) (uncertain - identified by the hand-off only)"
+  },
+  "204": {
+   "name": "Jeff Small",
+   "role": "Director of Technology, SAU 6 (superintendent: 'Jeff, please fill in if I'm missed anything' [202]) (uncertain - identified by the hand-off only)"
+  },
+  "205": {
+   "name": "Jeff Small",
+   "role": "Director of Technology, SAU 6 (superintendent: 'Jeff, please fill in if I'm missed anything' [202]) (uncertain - identified by the hand-off only)"
+  },
+  "206": {
+   "name": "Jeff Small",
+   "role": "Director of Technology, SAU 6 (superintendent: 'Jeff, please fill in if I'm missed anything' [202]) (uncertain - identified by the hand-off only)"
+  },
+  "207": {
+   "name": "Jeff Small",
+   "role": "Director of Technology, SAU 6 (superintendent: 'Jeff, please fill in if I'm missed anything' [202]) (uncertain - identified by the hand-off only)"
+  },
+  "208": {
+   "name": "Jeff Small",
+   "role": "Director of Technology, SAU 6 (superintendent: 'Jeff, please fill in if I'm missed anything' [202]) (uncertain - identified by the hand-off only)"
+  },
+  "209": {
+   "name": "Jeff Small",
+   "role": "Director of Technology, SAU 6 (superintendent: 'Jeff, please fill in if I'm missed anything' [202]) (uncertain - identified by the hand-off only)"
+  },
+  "210": {
+   "name": "Jeff Small",
+   "role": "Director of Technology, SAU 6 (superintendent: 'Jeff, please fill in if I'm missed anything' [202]) (uncertain - identified by the hand-off only)"
+  },
+  "211": {
+   "name": "Jeff Small",
+   "role": "Director of Technology, SAU 6 (superintendent: 'Jeff, please fill in if I'm missed anything' [202]) (uncertain - identified by the hand-off only)"
+  },
+  "212": {
+   "name": "Jeff Small",
+   "role": "Director of Technology, SAU 6 (superintendent: 'Jeff, please fill in if I'm missed anything' [202]) (uncertain - identified by the hand-off only)"
+  },
+  "213": {
+   "name": "Jeff Small",
+   "role": "Director of Technology, SAU 6 (superintendent: 'Jeff, please fill in if I'm missed anything' [202]) (uncertain - identified by the hand-off only)"
+  },
+  "214": {
+   "name": "Jeff Small",
+   "role": "Director of Technology, SAU 6 (superintendent: 'Jeff, please fill in if I'm missed anything' [202]) (uncertain - identified by the hand-off only)"
+  },
+  "220": {
+   "name": "Unidentified",
+   "role": "Unidentified - tells the superintendent he is muted"
+  },
+  "250": {
+   "name": "Donna Magoon",
+   "role": "Assistant Superintendent, SAU 6"
+  },
+  "346": {
+   "name": "Unidentified",
+   "role": "Unidentified - answer to the chair's question to Rob about the retreat time (voice clustered with Horsky)"
+  },
+  "400": {
+   "name": "Frank Sprague",
+   "role": "Claremont School Board Chair (re-elected chair this meeting [127-132])"
+  },
+  "402": {
+   "name": "Frank Sprague",
+   "role": "Claremont School Board Chair (re-elected chair this meeting [127-132])"
+  },
+  "408": {
+   "name": "Frank Sprague",
+   "role": "Claremont School Board Chair (re-elected chair this meeting [127-132])"
+  },
+  "411": {
+   "name": "Richard Seaman",
+   "role": "Business Administrator (Director of Finance), SAU 6 (uncertain - answers the chair's 'I think it's Richard 300 and something' [410])"
+  }
+ }
+}

@@ -1,0 +1,524 @@
+{
+ "Speaker 1": {
+  "name": "Alan",
+  "role": "NHSBA search consultant, former head of the NH special education administrators association (first name on record; surname unclear, ASR 'Alan party' [59])"
+ },
+ "Speaker 2": {
+  "name": "Mary Woodman",
+  "role": "Recording secretary / clerk, SAU 6 Board"
+ },
+ "Speaker 3": {
+  "name": "Marjorie Erickson",
+  "role": "SAU 6 Board Chair (Unity School Board member) (identified by floor control plus NHSBA's 'send it to you in Marjorie chair' [599]; see report)"
+ },
+ "Speaker 4": {
+  "name": "Frank Sprague",
+  "role": "SAU 6 Board member (Claremont School Board Chair)"
+ },
+ "Speaker 5": {
+  "name": "Unidentified",
+  "role": "Roll-call 'yes' responses and a second from several members"
+ },
+ "Speaker 6": {
+  "name": "Carolyn Towle",
+  "role": "SAU 6 Board member (Claremont School Board)"
+ },
+ "Speaker 7": {
+  "name": "Rebecca Zullo",
+  "role": "SAU 6 Board member (Claremont School Board Vice Chair)"
+ },
+ "Speaker 8": {
+  "name": "Unidentified",
+  "role": "Board member, brief remarks; voice not tied to a name"
+ },
+ "Speaker 9": {
+  "name": "Barrett Christina",
+  "role": "Executive Director, New Hampshire School Boards Association (self-identified [59])"
+ },
+ "Speaker 10": {
+  "name": "Bill",
+  "role": "NHSBA search consultant, co-founder of the Center for Secondary School Redesign (first name on record; surname unclear, ASR 'Bill, Brian' [59])"
+ },
+ "Speaker 11": {
+  "name": "Unidentified",
+  "role": "Cluster mixes clipped fragments of consultant Bill's speech with short board interjections during the handout search; see overrides"
+ },
+ "Speaker 12": {
+  "name": "Bill",
+  "role": "NHSBA search consultant, co-founder of the Center for Secondary School Redesign (first name on record; surname unclear, ASR 'Bill, Brian' [59]); cluster also holds a few clipped fragments during the handout search [176-186], speaker uncertain"
+ },
+ "Speaker 13": {
+  "name": "Michael Petrin",
+  "role": "SAU 6 Board member (Claremont School Board)"
+ },
+ "Speaker 14": {
+  "name": "Jason Benware",
+  "role": "SAU 6 Board member (Claremont School Board)"
+ },
+ "Speaker 15": {
+  "name": "Unidentified",
+  "role": "Board member, two short fragments"
+ },
+ "Speaker 16": {
+  "name": "Michelle Pierce",
+  "role": "SAU 6 Board member (Claremont School Board)"
+ },
+ "Speaker 17": {
+  "name": "Barrett Christina",
+  "role": "Executive Director, New Hampshire School Boards Association (self-identified [59])"
+ },
+ "Speaker 18": {
+  "name": "Unidentified",
+  "role": "Board member, one short fragment"
+ },
+ "Speaker 19": {
+  "name": "Unidentified",
+  "role": "One short fragment"
+ },
+ "Speaker 20": {
+  "name": "Carolyn Towle",
+  "role": "SAU 6 Board member (Claremont School Board)"
+ },
+ "Speaker 21": {
+  "name": "Rebecca Zullo",
+  "role": "SAU 6 Board member (Claremont School Board Vice Chair)"
+ },
+ "Speaker 22": {
+  "name": "Mary Woodman",
+  "role": "Recording secretary / clerk, SAU 6 Board"
+ },
+ "__overrides__": {
+  "0": {
+   "name": "Unidentified",
+   "role": "Group recitation of the Pledge of Allegiance"
+  },
+  "3": {
+   "name": "Michael Petrin",
+   "role": "SAU 6 Board member (Claremont School Board)"
+  },
+  "25": {
+   "name": "Unidentified",
+   "role": "Short remark, speaker uncertain"
+  },
+  "41": {
+   "name": "Keith Pfeifer",
+   "role": "Interim Superintendent, SAU 6 (uncertain - answers the chair's 'Do we have a policy, sir?' [40])"
+  },
+  "122": {
+   "name": "Bill",
+   "role": "NHSBA search consultant, co-founder of the Center for Secondary School Redesign (first name on record; surname unclear, ASR 'Bill, Brian' [59])"
+  },
+  "124": {
+   "name": "Bill",
+   "role": "NHSBA search consultant, co-founder of the Center for Secondary School Redesign (first name on record; surname unclear, ASR 'Bill, Brian' [59])"
+  },
+  "127": {
+   "name": "Bill",
+   "role": "NHSBA search consultant, co-founder of the Center for Secondary School Redesign (first name on record; surname unclear, ASR 'Bill, Brian' [59])"
+  },
+  "129": {
+   "name": "Bill",
+   "role": "NHSBA search consultant, co-founder of the Center for Secondary School Redesign (first name on record; surname unclear, ASR 'Bill, Brian' [59])"
+  },
+  "132": {
+   "name": "Bill",
+   "role": "NHSBA search consultant, co-founder of the Center for Secondary School Redesign (first name on record; surname unclear, ASR 'Bill, Brian' [59])"
+  },
+  "134": {
+   "name": "Bill",
+   "role": "NHSBA search consultant, co-founder of the Center for Secondary School Redesign (first name on record; surname unclear, ASR 'Bill, Brian' [59])"
+  },
+  "140": {
+   "name": "Bill",
+   "role": "NHSBA search consultant, co-founder of the Center for Secondary School Redesign (first name on record; surname unclear, ASR 'Bill, Brian' [59])"
+  },
+  "142": {
+   "name": "Barrett Christina",
+   "role": "Executive Director, New Hampshire School Boards Association (self-identified [59])"
+  },
+  "144": {
+   "name": "Barrett Christina",
+   "role": "Executive Director, New Hampshire School Boards Association (self-identified [59])"
+  },
+  "157": {
+   "name": "Bill",
+   "role": "NHSBA search consultant, co-founder of the Center for Secondary School Redesign (first name on record; surname unclear, ASR 'Bill, Brian' [59])"
+  },
+  "167": {
+   "name": "Bill",
+   "role": "NHSBA search consultant, co-founder of the Center for Secondary School Redesign (first name on record; surname unclear, ASR 'Bill, Brian' [59])"
+  },
+  "169": {
+   "name": "Bill",
+   "role": "NHSBA search consultant, co-founder of the Center for Secondary School Redesign (first name on record; surname unclear, ASR 'Bill, Brian' [59])"
+  },
+  "203": {
+   "name": "Michael Petrin",
+   "role": "SAU 6 Board member (Claremont School Board) (answers consultant's 'So Michael, your favorite' [202]; diarized with the chair's cluster)"
+  },
+  "205": {
+   "name": "Unidentified",
+   "role": "Board member in the interview-question go-around (uncertain)"
+  },
+  "212": {
+   "name": "Sara Lowe",
+   "role": "SAU 6 Board member (Unity School Board Chair)"
+  },
+  "326": {
+   "name": "Keith Pfeifer",
+   "role": "Interim Superintendent, SAU 6 (consultant asks 'Keith' for comments [323])"
+  },
+  "330": {
+   "name": "Marjorie Erickson",
+   "role": "SAU 6 Board Chair (Unity School Board member) (identified by floor control plus NHSBA's 'send it to you in Marjorie chair' [599]; see report)"
+  },
+  "367": {
+   "name": "Steven Horsky",
+   "role": "SAU 6 Board member (Claremont School Board)"
+  },
+  "368": {
+   "name": "Steven Horsky",
+   "role": "SAU 6 Board member (Claremont School Board)"
+  },
+  "369": {
+   "name": "Steven Horsky",
+   "role": "SAU 6 Board member (Claremont School Board)"
+  },
+  "370": {
+   "name": "Steven Horsky",
+   "role": "SAU 6 Board member (Claremont School Board)"
+  },
+  "374": {
+   "name": "Sara Lowe",
+   "role": "SAU 6 Board member (Unity School Board Chair)"
+  },
+  "375": {
+   "name": "Sara Lowe",
+   "role": "SAU 6 Board member (Unity School Board Chair)"
+  },
+  "471": {
+   "name": "Sara Lowe",
+   "role": "SAU 6 Board member (Unity School Board Chair)"
+  },
+  "472": {
+   "name": "Sara Lowe",
+   "role": "SAU 6 Board member (Unity School Board Chair)"
+  },
+  "475": {
+   "name": "Sara Lowe",
+   "role": "SAU 6 Board member (Unity School Board Chair)"
+  },
+  "477": {
+   "name": "Sara Lowe",
+   "role": "SAU 6 Board member (Unity School Board Chair)"
+  },
+  "479": {
+   "name": "Marjorie Erickson",
+   "role": "SAU 6 Board Chair (Unity School Board member) (identified by floor control plus NHSBA's 'send it to you in Marjorie chair' [599]; see report) (recognition 'Greg' = Frank Sprague, diarized into Zullo's cluster)"
+  },
+  "486": {
+   "name": "Marjorie Erickson",
+   "role": "SAU 6 Board Chair (Unity School Board member) (identified by floor control plus NHSBA's 'send it to you in Marjorie chair' [599]; see report)"
+  },
+  "488": {
+   "name": "Marjorie Erickson",
+   "role": "SAU 6 Board Chair (Unity School Board member) (identified by floor control plus NHSBA's 'send it to you in Marjorie chair' [599]; see report)"
+  },
+  "490": {
+   "name": "Marjorie Erickson",
+   "role": "SAU 6 Board Chair (Unity School Board member) (identified by floor control plus NHSBA's 'send it to you in Marjorie chair' [599]; see report)"
+  },
+  "492": {
+   "name": "Steven Horsky",
+   "role": "SAU 6 Board member (Claremont School Board)"
+  },
+  "493": {
+   "name": "Steven Horsky",
+   "role": "SAU 6 Board member (Claremont School Board)"
+  },
+  "495": {
+   "name": "Marjorie Erickson",
+   "role": "SAU 6 Board Chair (Unity School Board member) (identified by floor control plus NHSBA's 'send it to you in Marjorie chair' [599]; see report)"
+  },
+  "498": {
+   "name": "Steven Horsky",
+   "role": "SAU 6 Board member (Claremont School Board)"
+  },
+  "499": {
+   "name": "Steven Horsky",
+   "role": "SAU 6 Board member (Claremont School Board)"
+  },
+  "511": {
+   "name": "Michael O'Neill",
+   "role": "Business Administrator, SAU 6 (addressed as 'Mike' on budget questions [509]; surname per roster, not spoken on this recording)"
+  },
+  "513": {
+   "name": "Michael O'Neill",
+   "role": "Business Administrator, SAU 6 (addressed as 'Mike' on budget questions [509]; surname per roster, not spoken on this recording)"
+  },
+  "515": {
+   "name": "Michael O'Neill",
+   "role": "Business Administrator, SAU 6 (addressed as 'Mike' on budget questions [509]; surname per roster, not spoken on this recording)"
+  },
+  "538": {
+   "name": "Marjorie Erickson",
+   "role": "SAU 6 Board Chair (Unity School Board member) (identified by floor control plus NHSBA's 'send it to you in Marjorie chair' [599]; see report)"
+  },
+  "540": {
+   "name": "Jason Benware",
+   "role": "SAU 6 Board member (Claremont School Board)"
+  },
+  "541": {
+   "name": "Mary Woodman",
+   "role": "Recording secretary / clerk, SAU 6 Board"
+  },
+  "542": {
+   "name": "Steven Horsky",
+   "role": "SAU 6 Board member (Claremont School Board)"
+  },
+  "543": {
+   "name": "Mary Woodman",
+   "role": "Recording secretary / clerk, SAU 6 Board"
+  },
+  "545": {
+   "name": "Mary Woodman",
+   "role": "Recording secretary / clerk, SAU 6 Board"
+  },
+  "547": {
+   "name": "Mary Woodman",
+   "role": "Recording secretary / clerk, SAU 6 Board"
+  },
+  "548": {
+   "name": "Mary Woodman",
+   "role": "Recording secretary / clerk, SAU 6 Board"
+  },
+  "549": {
+   "name": "Frank Sprague",
+   "role": "SAU 6 Board member (Claremont School Board Chair)"
+  },
+  "550": {
+   "name": "Mary Woodman",
+   "role": "Recording secretary / clerk, SAU 6 Board"
+  },
+  "551": {
+   "name": "Mary Woodman",
+   "role": "Recording secretary / clerk, SAU 6 Board"
+  },
+  "552": {
+   "name": "Mary Woodman",
+   "role": "Recording secretary / clerk, SAU 6 Board"
+  },
+  "555": {
+   "name": "Marjorie Erickson",
+   "role": "SAU 6 Board Chair (Unity School Board member) (identified by floor control plus NHSBA's 'send it to you in Marjorie chair' [599]; see report)"
+  },
+  "595": {
+   "name": "Steven Horsky",
+   "role": "SAU 6 Board member (Claremont School Board)"
+  },
+  "596": {
+   "name": "Steven Horsky",
+   "role": "SAU 6 Board member (Claremont School Board)"
+  },
+  "601": {
+   "name": "Sara Lowe",
+   "role": "SAU 6 Board member (Unity School Board Chair)"
+  },
+  "649": {
+   "name": "Unidentified",
+   "role": "Board member recalling the prior search committee size (uncertain)"
+  },
+  "652": {
+   "name": "Steven Horsky",
+   "role": "SAU 6 Board member (Claremont School Board)"
+  },
+  "653": {
+   "name": "Steven Horsky",
+   "role": "SAU 6 Board member (Claremont School Board)"
+  },
+  "668": {
+   "name": "Michael O'Neill",
+   "role": "Business Administrator, SAU 6 (addressed as 'Mike' on budget questions [509]; surname per roster, not spoken on this recording)"
+  },
+  "670": {
+   "name": "Michael O'Neill",
+   "role": "Business Administrator, SAU 6 (addressed as 'Mike' on budget questions [509]; surname per roster, not spoken on this recording)"
+  },
+  "672": {
+   "name": "Michael O'Neill",
+   "role": "Business Administrator, SAU 6 (addressed as 'Mike' on budget questions [509]; surname per roster, not spoken on this recording)"
+  },
+  "673": {
+   "name": "Michael O'Neill",
+   "role": "Business Administrator, SAU 6 (addressed as 'Mike' on budget questions [509]; surname per roster, not spoken on this recording)"
+  },
+  "675": {
+   "name": "Michael O'Neill",
+   "role": "Business Administrator, SAU 6 (addressed as 'Mike' on budget questions [509]; surname per roster, not spoken on this recording)"
+  },
+  "676": {
+   "name": "Michael O'Neill",
+   "role": "Business Administrator, SAU 6 (addressed as 'Mike' on budget questions [509]; surname per roster, not spoken on this recording)"
+  },
+  "677": {
+   "name": "Michael O'Neill",
+   "role": "Business Administrator, SAU 6 (addressed as 'Mike' on budget questions [509]; surname per roster, not spoken on this recording)"
+  },
+  "679": {
+   "name": "Michael O'Neill",
+   "role": "Business Administrator, SAU 6 (addressed as 'Mike' on budget questions [509]; surname per roster, not spoken on this recording)"
+  },
+  "681": {
+   "name": "Michael O'Neill",
+   "role": "Business Administrator, SAU 6 (addressed as 'Mike' on budget questions [509]; surname per roster, not spoken on this recording)"
+  },
+  "688": {
+   "name": "Michael O'Neill",
+   "role": "Business Administrator, SAU 6 (addressed as 'Mike' on budget questions [509]; surname per roster, not spoken on this recording)"
+  },
+  "690": {
+   "name": "Michael O'Neill",
+   "role": "Business Administrator, SAU 6 (addressed as 'Mike' on budget questions [509]; surname per roster, not spoken on this recording)"
+  },
+  "691": {
+   "name": "Unidentified",
+   "role": "Board member, short procedural remark"
+  },
+  "695": {
+   "name": "Michael O'Neill",
+   "role": "Business Administrator, SAU 6 (addressed as 'Mike' on budget questions [509]; surname per roster, not spoken on this recording)"
+  },
+  "697": {
+   "name": "Michael O'Neill",
+   "role": "Business Administrator, SAU 6 (addressed as 'Mike' on budget questions [509]; surname per roster, not spoken on this recording)"
+  },
+  "698": {
+   "name": "Michael O'Neill",
+   "role": "Business Administrator, SAU 6 (addressed as 'Mike' on budget questions [509]; surname per roster, not spoken on this recording)"
+  },
+  "706": {
+   "name": "Michael O'Neill",
+   "role": "Business Administrator, SAU 6 (addressed as 'Mike' on budget questions [509]; surname per roster, not spoken on this recording)"
+  },
+  "708": {
+   "name": "Michael O'Neill",
+   "role": "Business Administrator, SAU 6 (addressed as 'Mike' on budget questions [509]; surname per roster, not spoken on this recording)"
+  },
+  "710": {
+   "name": "Michael O'Neill",
+   "role": "Business Administrator, SAU 6 (addressed as 'Mike' on budget questions [509]; surname per roster, not spoken on this recording)"
+  },
+  "713": {
+   "name": "Michael O'Neill",
+   "role": "Business Administrator, SAU 6 (addressed as 'Mike' on budget questions [509]; surname per roster, not spoken on this recording)"
+  },
+  "715": {
+   "name": "Michael O'Neill",
+   "role": "Business Administrator, SAU 6 (addressed as 'Mike' on budget questions [509]; surname per roster, not spoken on this recording)"
+  },
+  "726": {
+   "name": "Keith Pfeifer",
+   "role": "Interim Superintendent, SAU 6 (responds to Towle's question about Dr. Pfeifer helping with the strategic plan [722-725])"
+  },
+  "727": {
+   "name": "Keith Pfeifer",
+   "role": "Interim Superintendent, SAU 6 (responds to Towle's question about Dr. Pfeifer helping with the strategic plan [722-725])"
+  },
+  "738": {
+   "name": "Steven Horsky",
+   "role": "SAU 6 Board member (Claremont School Board)"
+  },
+  "739": {
+   "name": "Steven Horsky",
+   "role": "SAU 6 Board member (Claremont School Board)"
+  },
+  "740": {
+   "name": "Steven Horsky",
+   "role": "SAU 6 Board member (Claremont School Board)"
+  },
+  "747": {
+   "name": "Sara Lowe",
+   "role": "SAU 6 Board member (Unity School Board Chair)"
+  },
+  "748": {
+   "name": "Sara Lowe",
+   "role": "SAU 6 Board member (Unity School Board Chair)"
+  },
+  "749": {
+   "name": "Sara Lowe",
+   "role": "SAU 6 Board member (Unity School Board Chair)"
+  },
+  "750": {
+   "name": "Sara Lowe",
+   "role": "SAU 6 Board member (Unity School Board Chair)"
+  },
+  "772": {
+   "name": "Marjorie Erickson",
+   "role": "SAU 6 Board Chair (Unity School Board member) (identified by floor control plus NHSBA's 'send it to you in Marjorie chair' [599]; see report)"
+  },
+  "776": {
+   "name": "Marjorie Erickson",
+   "role": "SAU 6 Board Chair (Unity School Board member) (identified by floor control plus NHSBA's 'send it to you in Marjorie chair' [599]; see report)"
+  },
+  "777": {
+   "name": "Steven Horsky",
+   "role": "SAU 6 Board member (Claremont School Board)"
+  },
+  "778": {
+   "name": "Unidentified",
+   "role": "Board member, short procedural remark"
+  },
+  "783": {
+   "name": "Marjorie Erickson",
+   "role": "SAU 6 Board Chair (Unity School Board member) (identified by floor control plus NHSBA's 'send it to you in Marjorie chair' [599]; see report)"
+  },
+  "784": {
+   "name": "Steven Horsky",
+   "role": "SAU 6 Board member (Claremont School Board)"
+  },
+  "785": {
+   "name": "Marjorie Erickson",
+   "role": "SAU 6 Board Chair (Unity School Board member) (identified by floor control plus NHSBA's 'send it to you in Marjorie chair' [599]; see report)"
+  },
+  "787": {
+   "name": "Steven Horsky",
+   "role": "SAU 6 Board member (Claremont School Board)"
+  },
+  "797": {
+   "name": "Steven Horsky",
+   "role": "SAU 6 Board member (Claremont School Board)"
+  },
+  "801": {
+   "name": "Marjorie Erickson",
+   "role": "SAU 6 Board Chair (Unity School Board member) (identified by floor control plus NHSBA's 'send it to you in Marjorie chair' [599]; see report)"
+  },
+  "803": {
+   "name": "Marjorie Erickson",
+   "role": "SAU 6 Board Chair (Unity School Board member) (identified by floor control plus NHSBA's 'send it to you in Marjorie chair' [599]; see report)"
+  },
+  "805": {
+   "name": "Marjorie Erickson",
+   "role": "SAU 6 Board Chair (Unity School Board member) (identified by floor control plus NHSBA's 'send it to you in Marjorie chair' [599]; see report)"
+  },
+  "810": {
+   "name": "Marjorie Erickson",
+   "role": "SAU 6 Board Chair (Unity School Board member) (identified by floor control plus NHSBA's 'send it to you in Marjorie chair' [599]; see report)"
+  },
+  "816": {
+   "name": "Unidentified",
+   "role": "Voice vote response"
+  },
+  "818": {
+   "name": "Unidentified",
+   "role": "Voice vote response"
+  },
+  "835": {
+   "name": "Steven Horsky",
+   "role": "SAU 6 Board member (Claremont School Board)"
+  },
+  "851": {
+   "name": "Sara Lowe",
+   "role": "SAU 6 Board member (Unity School Board Chair)"
+  }
+ }
+}

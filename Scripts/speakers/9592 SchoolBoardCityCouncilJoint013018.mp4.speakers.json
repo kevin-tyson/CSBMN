@@ -1,0 +1,210 @@
+{
+ "Speaker 1": {
+  "name": "Brian Rapp",
+  "role": "Claremont School Board Chair (opens the joint meeting and leads the school board items; mayor refers to 'Chair Wrap' [32]; 'I have a school board member [page]' [218])"
+ },
+ "Speaker 2": {
+  "name": "Mary Woodman",
+  "role": "School District Clerk and board recording secretary (school board roll call [5-7]; chair: 'Thank you. Mary, for that' [19] after the filing-deadline notice; 'I've been serving here as secretary for too many years' [298]); cluster also absorbs fragments of other speakers"
+ },
+ "Speaker 3": {
+  "name": "Charlene Lovett",
+  "role": "Mayor of Claremont (presides over the council side; city manager: 'Thank you, Madam Mayor' [127]; board chair thanks 'Charlene' for her leadership [123])"
+ },
+ "Speaker 4": {
+  "name": "Dan Kelly",
+  "role": "Veterinarian, emergency animal clinic in Lebanon (self-introduced, ASR 'Dan Kelly' [35]; 'Doctor Kelly' [50, 75, 79]); lead-in-pets study presenter"
+ },
+ "Speaker 5": {
+  "name": "Mike",
+  "role": "Faculty member, Kimball Union Academy (uncertain - one fragment 'At Kimball Union Academy' [37] echoing his introduction)"
+ },
+ "Speaker 6": {
+  "name": "Mike",
+  "role": "Faculty member, Kimball Union Academy, lead-in-pets study presenter ('I'm Mike and a faculty member at Kimball Union Academy' [35]; Kelly: 'as Mike saying' [56]; surname heard as 'Van Andel' [77-78], unverified); later fragments of this cluster reassigned per segment"
+ },
+ "Speaker 7": {
+  "name": "Middleton McGoodwin",
+  "role": "Superintendent, SAU 6 (self-describes 'superintendent of schools' [86]; mayor: 'Doctor Goodwin' [233]; 'Middleton' [174, 428])"
+ },
+ "Speaker 8": {
+  "name": "Ryan McNutt",
+  "role": "City Manager, Claremont (mayor: 'Yes, Mr. McNutt' [100] and 'Mr. McNutt, if you would like to talk' [126]; 'Ryan is absolutely correct' [379])"
+ },
+ "Speaker 9": {
+  "name": "Abigail Kier",
+  "role": "Claremont City Councilor (recognized 'Councilor care' [164, 255] and 'Counselor cure' [521] before this voice; ASR 'Kerr/care/cure'; first name not on this recording, per roster)"
+ },
+ "Speaker 10": {
+  "name": "Frank Sprague",
+  "role": "Claremont School Board member (uncertain - chair: 'Oh, Frank. Were you' [173] immediately before this voice [174]; speaks for the school board [386-396])"
+ },
+ "Speaker 11": {
+  "name": "Scott Pope",
+  "role": "Claremont City Councilor (mayor: 'Councilor Pope' [190, 269, 360]; superintendent: 'Scott, you could spend the evening talking about this' [450] answered by this voice [451]; also teaches in the district: 'my other hat ... in the Claremont School District' [361], 'my shop', 'my program' [480, 484])"
+ },
+ "Speaker 12": {
+  "name": "Unidentified",
+  "role": "Unidentified City Councilor (business owner who uses TripAdvisor cards [206-208]; 'the reason I brought about forced inspections for welfare' [380]; name not on this recording)"
+ },
+ "Speaker 13": {
+  "name": "Alex Herzog",
+  "role": "Claremont School Board member (superintendent: 'I'm not saying, Alex' [251] answering this voice's climate-survey suggestion [248-250]; asked 'the president of the college' about schools when moving here [213])"
+ },
+ "Speaker 14": {
+  "name": "Rebecca Zullo",
+  "role": "Claremont School Board member and City Councilor ('Rebecca.' [356] then this voice [357]; mayor: 'Mrs. Zulus comment' [371]; superintendent: 'to Rebecca's point' [448]; answers council roll as 'Councilor Zullo' [8])"
+ },
+ "Speaker 15": {
+  "name": "Michelle Pierce",
+  "role": "Claremont School Board member (mayor: 'in response to what miss Pierce was saying' [347] after this voice [338-346]; city manager: 'school board member Pierce' [373])"
+ },
+ "Speaker 16": {
+  "name": "Unidentified",
+  "role": "Unidentified City Councilor (mayor: 'Thank you Councilwoman' [294]; says she took over a city center and expanded its newsletter [291]; name not on this recording)"
+ },
+ "Speaker 17": {
+  "name": "Unidentified",
+  "role": "Unidentified City Councilor (single question to the superintendent [416] after the mayor recognizes 'counselors')"
+ },
+ "Speaker 18": {
+  "name": "Scott Pope",
+  "role": "Claremont City Councilor (continuation of his question to 'Middleton' [428-429])"
+ },
+ "Speaker 19": {
+  "name": "Unidentified",
+  "role": "Unidentified - two fragments [471, 523] reassigned per segment"
+ },
+ "__overrides__": {
+  "227": {
+   "name": "Unidentified",
+   "role": "Unidentified - short fragment from a board member or councilor, diarized with the Kimball Union presenter's cluster"
+  },
+  "267": {
+   "name": "Unidentified",
+   "role": "Unidentified - short fragment from a board member or councilor, diarized with the Kimball Union presenter's cluster"
+  },
+  "270": {
+   "name": "Unidentified",
+   "role": "Unidentified - short fragment from a board member or councilor, diarized with the Kimball Union presenter's cluster"
+  },
+  "272": {
+   "name": "Unidentified",
+   "role": "Unidentified - short fragment from a board member or councilor, diarized with the Kimball Union presenter's cluster"
+  },
+  "320": {
+   "name": "Unidentified",
+   "role": "Unidentified - short fragment from a board member or councilor, diarized with the Kimball Union presenter's cluster"
+  },
+  "331": {
+   "name": "Unidentified",
+   "role": "Unidentified - short fragment from a board member or councilor, diarized with the Kimball Union presenter's cluster"
+  },
+  "333": {
+   "name": "Unidentified",
+   "role": "Unidentified - short fragment from a board member or councilor, diarized with the Kimball Union presenter's cluster"
+  },
+  "356": {
+   "name": "Unidentified",
+   "role": "Unidentified - short fragment from a board member or councilor, diarized with the Kimball Union presenter's cluster"
+  },
+  "377": {
+   "name": "Unidentified",
+   "role": "Unidentified - short fragment from a board member or councilor, diarized with the Kimball Union presenter's cluster"
+  },
+  "395": {
+   "name": "Unidentified",
+   "role": "Unidentified - short fragment from a board member or councilor, diarized with the Kimball Union presenter's cluster"
+  },
+  "443": {
+   "name": "Unidentified",
+   "role": "Unidentified - short fragment from a board member or councilor, diarized with the Kimball Union presenter's cluster"
+  },
+  "499": {
+   "name": "Unidentified",
+   "role": "Unidentified - short fragment from a board member or councilor, diarized with the Kimball Union presenter's cluster"
+  },
+  "519": {
+   "name": "Unidentified",
+   "role": "Unidentified - short fragment from a board member or councilor, diarized with the Kimball Union presenter's cluster"
+  },
+  "538": {
+   "name": "Unidentified",
+   "role": "Unidentified - short fragment from a board member or councilor, diarized with the Kimball Union presenter's cluster"
+  },
+  "545": {
+   "name": "Unidentified",
+   "role": "Unidentified - short fragment from a board member or councilor, diarized with the Kimball Union presenter's cluster"
+  },
+  "385": {
+   "name": "Frank Sprague"
+  },
+  "387": {
+   "name": "Frank Sprague"
+  },
+  "389": {
+   "name": "Frank Sprague"
+  },
+  "465": {
+   "name": "Frank Sprague"
+  },
+  "278": {
+   "name": "Unidentified",
+   "role": "Unidentified City Councilor (business owner who uses TripAdvisor cards [206-208]; 'the reason I brought about forced inspections for welfare' [380]; name not on this recording)"
+  },
+  "280": {
+   "name": "Unidentified",
+   "role": "Unidentified City Councilor (business owner who uses TripAdvisor cards [206-208]; 'the reason I brought about forced inspections for welfare' [380]; name not on this recording)"
+  },
+  "408": {
+   "name": "Unidentified",
+   "role": "Unidentified City Councilor (business owner who uses TripAdvisor cards [206-208]; 'the reason I brought about forced inspections for welfare' [380]; name not on this recording)"
+  },
+  "8": {
+   "name": "Unidentified",
+   "role": "Council roll call caller (uncertain - likely the City Clerk; diarized with the school district clerk; roster places City Clerk Russell as council roll caller in 2018)"
+  },
+  "43": {
+   "name": "Mike"
+  },
+  "85": {
+   "name": "Middleton McGoodwin"
+  },
+  "78": {
+   "name": "Charlene Lovett"
+  },
+  "95": {
+   "name": "Charlene Lovett"
+  },
+  "121": {
+   "name": "Charlene Lovett"
+  },
+  "143": {
+   "name": "Charlene Lovett"
+  },
+  "224": {
+   "name": "Charlene Lovett"
+  },
+  "108": {
+   "name": "Mike"
+  },
+  "167": {
+   "name": "Abigail Kier"
+  },
+  "258": {
+   "name": "Abigail Kier"
+  },
+  "262": {
+   "name": "Abigail Kier"
+  },
+  "523": {
+   "name": "Abigail Kier"
+  },
+  "191": {
+   "name": "Scott Pope"
+  },
+  "471": {
+   "name": "Scott Pope"
+  }
+ }
+}

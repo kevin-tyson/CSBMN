@@ -1,0 +1,380 @@
+{
+ "Speaker 1": {
+  "name": "Keith Pfeifer",
+  "role": "Interim Superintendent, SAU 6 (introduced by LeClair as 'Doctor Pfeiffer ... our interim superintendent' [31]; started that week)"
+ },
+ "Speaker 2": {
+  "name": "Steven Horsky",
+  "role": "Claremont School Board member"
+ },
+ "Speaker 3": {
+  "name": "Cory LeClair",
+  "role": "Assistant Superintendent, SAU 6 (named 'Corey' [42-43, 329]; 'Cary' [583-585])"
+ },
+ "Speaker 4": {
+  "name": "Michael O'Neill",
+  "role": "Business Administrator, SAU 6 (addressed as 'Mike' [47]; surname per roster, not spoken on this recording)"
+ },
+ "Speaker 5": {
+  "name": "Jason Benware",
+  "role": "Claremont School Board member"
+ },
+ "Speaker 6": {
+  "name": "Rebecca Zullo",
+  "role": "Claremont School Board Vice Chair"
+ },
+ "Speaker 7": {
+  "name": "Susan Mason",
+  "role": "Public commenter, Winter Street, Claremont (self-identified [91])"
+ },
+ "Speaker 8": {
+  "name": "Frank Sprague",
+  "role": "Claremont School Board Chair (self-identified as chairman [148])"
+ },
+ "Speaker 9": {
+  "name": "Susan Mason",
+  "role": "Public commenter, Winter Street, Claremont (self-identified [91])"
+ },
+ "Speaker 10": {
+  "name": "Carolyn Towle",
+  "role": "Claremont School Board member"
+ },
+ "Speaker 11": {
+  "name": "John Cloutier",
+  "role": "NH State Representative, Ward 1, Claremont (ASR 'John Claudia'; chair: 'Representative Claudia' [138])"
+ },
+ "Speaker 12": {
+  "name": "Unidentified",
+  "role": "SAU 6 administrator presenting the Bridges out-of-district program update; name not on this recording"
+ },
+ "Speaker 13": {
+  "name": "Unidentified",
+  "role": "Two short fragments, speaker uncertain"
+ },
+ "Speaker 14": {
+  "name": "Michael Petrin",
+  "role": "Claremont School Board member"
+ },
+ "Speaker 15": {
+  "name": "Alex Herzog",
+  "role": "Director, Sugar River Valley Regional Technical Center (self-identified [238])"
+ },
+ "Speaker 16": {
+  "name": "Unidentified",
+  "role": "Cluster of short fragments from several voices; recording secretary's lines [612-616] and others reassigned in overrides"
+ },
+ "Speaker 17": {
+  "name": "Ashley Greenfield",
+  "role": "Greater Sullivan County Public Health Network (self-identified [372])"
+ },
+ "Speaker 18": {
+  "name": "Cory LeClair",
+  "role": "Assistant Superintendent, SAU 6 (named 'Corey' [42-43, 329]; 'Cary' [583-585])"
+ },
+ "Speaker 19": {
+  "name": "Melissa Lewis",
+  "role": "Principal, Disnard Elementary School (chair: 'Thank you Melissa' [429, 688]; Horsky: 'Miss Lewis, who is the principal' [384])"
+ },
+ "Speaker 20": {
+  "name": "Patricia Barry",
+  "role": "Principal, Stevens High School (uncertain - not named on this recording; attributed by role, presenting the SHS and Alt program handbooks, and roster listing her as SHS principal)"
+ },
+ "Speaker 21": {
+  "name": "Mary Woodman",
+  "role": "School district clerk / board recording secretary"
+ },
+ "__overrides__": {
+  "0": {
+   "name": "Frank Sprague",
+   "role": "Claremont School Board Chair (self-identified as chairman [148])"
+  },
+  "1": {
+   "name": "Frank Sprague",
+   "role": "Claremont School Board Chair (self-identified as chairman [148])"
+  },
+  "2": {
+   "name": "Frank Sprague",
+   "role": "Claremont School Board Chair (self-identified as chairman [148])"
+  },
+  "3": {
+   "name": "Unidentified",
+   "role": "Roll-call exchange; several voices answering 'here'"
+  },
+  "4": {
+   "name": "Unidentified",
+   "role": "Roll-call exchange; several voices answering 'here'"
+  },
+  "5": {
+   "name": "Unidentified",
+   "role": "Roll-call exchange; several voices answering 'here'"
+  },
+  "6": {
+   "name": "Frank Sprague",
+   "role": "Claremont School Board Chair (self-identified as chairman [148])"
+  },
+  "8": {
+   "name": "Frank Sprague",
+   "role": "Claremont School Board Chair (self-identified as chairman [148])"
+  },
+  "10": {
+   "name": "Frank Sprague",
+   "role": "Claremont School Board Chair (self-identified as chairman [148])"
+  },
+  "14": {
+   "name": "Frank Sprague",
+   "role": "Claremont School Board Chair (self-identified as chairman [148])"
+  },
+  "18": {
+   "name": "Frank Sprague",
+   "role": "Claremont School Board Chair (self-identified as chairman [148])"
+  },
+  "20": {
+   "name": "Frank Sprague",
+   "role": "Claremont School Board Chair (self-identified as chairman [148])"
+  },
+  "22": {
+   "name": "Frank Sprague",
+   "role": "Claremont School Board Chair (self-identified as chairman [148])"
+  },
+  "24": {
+   "name": "Frank Sprague",
+   "role": "Claremont School Board Chair (self-identified as chairman [148])"
+  },
+  "25": {
+   "name": "Frank Sprague",
+   "role": "Claremont School Board Chair (self-identified as chairman [148])"
+  },
+  "26": {
+   "name": "Frank Sprague",
+   "role": "Claremont School Board Chair (self-identified as chairman [148])"
+  },
+  "27": {
+   "name": "Frank Sprague",
+   "role": "Claremont School Board Chair (self-identified as chairman [148])"
+  },
+  "29": {
+   "name": "Frank Sprague",
+   "role": "Claremont School Board Chair (self-identified as chairman [148])"
+  },
+  "30": {
+   "name": "Frank Sprague",
+   "role": "Claremont School Board Chair (self-identified as chairman [148])"
+  },
+  "65": {
+   "name": "Frank Sprague",
+   "role": "Claremont School Board Chair (self-identified as chairman [148])"
+  },
+  "66": {
+   "name": "Carolyn Towle",
+   "role": "Claremont School Board member (after chair's 'Carolyn' [65]; diarized with the public commenter's cluster - medium confidence)"
+  },
+  "69": {
+   "name": "Carolyn Towle",
+   "role": "Claremont School Board member (after chair's 'Carolyn' [65]; diarized with the public commenter's cluster - medium confidence)"
+  },
+  "74": {
+   "name": "Carolyn Towle",
+   "role": "Claremont School Board member (after chair's 'Carolyn' [65]; diarized with the public commenter's cluster - medium confidence)"
+  },
+  "84": {
+   "name": "Unidentified",
+   "role": "Short remark, speaker uncertain"
+  },
+  "87": {
+   "name": "Frank Sprague",
+   "role": "Claremont School Board Chair (self-identified as chairman [148])"
+  },
+  "109": {
+   "name": "Frank Sprague",
+   "role": "Claremont School Board Chair (self-identified as chairman [148])"
+  },
+  "133": {
+   "name": "Frank Sprague",
+   "role": "Claremont School Board Chair (self-identified as chairman [148])"
+  },
+  "158": {
+   "name": "Frank Sprague",
+   "role": "Claremont School Board Chair (self-identified as chairman [148])"
+  },
+  "162": {
+   "name": "Frank Sprague",
+   "role": "Claremont School Board Chair (self-identified as chairman [148])"
+  },
+  "164": {
+   "name": "Steven Horsky",
+   "role": "Claremont School Board member"
+  },
+  "182": {
+   "name": "Cory LeClair",
+   "role": "Assistant Superintendent, SAU 6 (named 'Corey' [42-43, 329]; 'Cary' [583-585])"
+  },
+  "186": {
+   "name": "Cory LeClair",
+   "role": "Assistant Superintendent, SAU 6 (named 'Corey' [42-43, 329]; 'Cary' [583-585])"
+  },
+  "188": {
+   "name": "Cory LeClair",
+   "role": "Assistant Superintendent, SAU 6 (named 'Corey' [42-43, 329]; 'Cary' [583-585])"
+  },
+  "194": {
+   "name": "Cory LeClair",
+   "role": "Assistant Superintendent, SAU 6 (named 'Corey' [42-43, 329]; 'Cary' [583-585])"
+  },
+  "345": {
+   "name": "Unidentified",
+   "role": "Board member seconding"
+  },
+  "378": {
+   "name": "Frank Sprague",
+   "role": "Claremont School Board Chair (self-identified as chairman [148])"
+  },
+  "389": {
+   "name": "Laura Byrne",
+   "role": "HIV Resource Center, Lebanon, syringe exchange operator (self-identified [389]; spelling of surname uncertain)"
+  },
+  "390": {
+   "name": "Laura Byrne",
+   "role": "HIV Resource Center, Lebanon, syringe exchange operator (self-identified [389]; spelling of surname uncertain)"
+  },
+  "391": {
+   "name": "Laura Byrne",
+   "role": "HIV Resource Center, Lebanon, syringe exchange operator (self-identified [389]; spelling of surname uncertain)"
+  },
+  "392": {
+   "name": "Laura Byrne",
+   "role": "HIV Resource Center, Lebanon, syringe exchange operator (self-identified [389]; spelling of surname uncertain)"
+  },
+  "393": {
+   "name": "Laura Byrne",
+   "role": "HIV Resource Center, Lebanon, syringe exchange operator (self-identified [389]; spelling of surname uncertain)"
+  },
+  "394": {
+   "name": "Laura Byrne",
+   "role": "HIV Resource Center, Lebanon, syringe exchange operator (self-identified [389]; spelling of surname uncertain)"
+  },
+  "395": {
+   "name": "Laura Byrne",
+   "role": "HIV Resource Center, Lebanon, syringe exchange operator (self-identified [389]; spelling of surname uncertain)"
+  },
+  "398": {
+   "name": "Laura Byrne",
+   "role": "HIV Resource Center, Lebanon, syringe exchange operator (self-identified [389]; spelling of surname uncertain)"
+  },
+  "400": {
+   "name": "Laura Byrne",
+   "role": "HIV Resource Center, Lebanon, syringe exchange operator (self-identified [389]; spelling of surname uncertain)"
+  },
+  "402": {
+   "name": "Laura Byrne",
+   "role": "HIV Resource Center, Lebanon, syringe exchange operator (self-identified [389]; spelling of surname uncertain)"
+  },
+  "403": {
+   "name": "Laura Byrne",
+   "role": "HIV Resource Center, Lebanon, syringe exchange operator (self-identified [389]; spelling of surname uncertain)"
+  },
+  "404": {
+   "name": "Laura Byrne",
+   "role": "HIV Resource Center, Lebanon, syringe exchange operator (self-identified [389]; spelling of surname uncertain)"
+  },
+  "410": {
+   "name": "Laura Byrne",
+   "role": "HIV Resource Center, Lebanon, syringe exchange operator (self-identified [389]; spelling of surname uncertain)"
+  },
+  "411": {
+   "name": "Laura Byrne",
+   "role": "HIV Resource Center, Lebanon, syringe exchange operator (self-identified [389]; spelling of surname uncertain)"
+  },
+  "412": {
+   "name": "Laura Byrne",
+   "role": "HIV Resource Center, Lebanon, syringe exchange operator (self-identified [389]; spelling of surname uncertain)"
+  },
+  "414": {
+   "name": "Laura Byrne",
+   "role": "HIV Resource Center, Lebanon, syringe exchange operator (self-identified [389]; spelling of surname uncertain)"
+  },
+  "415": {
+   "name": "Laura Byrne",
+   "role": "HIV Resource Center, Lebanon, syringe exchange operator (self-identified [389]; spelling of surname uncertain)"
+  },
+  "416": {
+   "name": "Laura Byrne",
+   "role": "HIV Resource Center, Lebanon, syringe exchange operator (self-identified [389]; spelling of surname uncertain)"
+  },
+  "417": {
+   "name": "Laura Byrne",
+   "role": "HIV Resource Center, Lebanon, syringe exchange operator (self-identified [389]; spelling of surname uncertain)"
+  },
+  "419": {
+   "name": "Laura Byrne",
+   "role": "HIV Resource Center, Lebanon, syringe exchange operator (self-identified [389]; spelling of surname uncertain)"
+  },
+  "422": {
+   "name": "Laura Byrne",
+   "role": "HIV Resource Center, Lebanon, syringe exchange operator (self-identified [389]; spelling of surname uncertain)"
+  },
+  "425": {
+   "name": "Laura Byrne",
+   "role": "HIV Resource Center, Lebanon, syringe exchange operator (self-identified [389]; spelling of surname uncertain)"
+  },
+  "427": {
+   "name": "Laura Byrne",
+   "role": "HIV Resource Center, Lebanon, syringe exchange operator (self-identified [389]; spelling of surname uncertain)"
+  },
+  "430": {
+   "name": "Melissa Lewis",
+   "role": "Principal, Disnard Elementary School (chair: 'Thank you Melissa' [429, 688]; Horsky: 'Miss Lewis, who is the principal' [384])"
+  },
+  "431": {
+   "name": "Melissa Lewis",
+   "role": "Principal, Disnard Elementary School (chair: 'Thank you Melissa' [429, 688]; Horsky: 'Miss Lewis, who is the principal' [384])"
+  },
+  "447": {
+   "name": "Unidentified",
+   "role": "Board member answering the abstention call"
+  },
+  "454": {
+   "name": "Patricia Barry",
+   "role": "Principal, Stevens High School (uncertain - not named on this recording; attributed by role, presenting the SHS and Alt program handbooks, and roster listing her as SHS principal)"
+  },
+  "475": {
+   "name": "Unidentified",
+   "role": "Board member seconding"
+  },
+  "487": {
+   "name": "Rebecca Zullo",
+   "role": "Claremont School Board Vice Chair"
+  },
+  "553": {
+   "name": "Patricia Barry",
+   "role": "Principal, Stevens High School (uncertain - not named on this recording; attributed by role, presenting the SHS and Alt program handbooks, and roster listing her as SHS principal)"
+  },
+  "612": {
+   "name": "Mary Woodman",
+   "role": "School district clerk / board recording secretary"
+  },
+  "614": {
+   "name": "Mary Woodman",
+   "role": "School district clerk / board recording secretary"
+  },
+  "616": {
+   "name": "Mary Woodman",
+   "role": "School district clerk / board recording secretary"
+  },
+  "664": {
+   "name": "Melissa Lewis",
+   "role": "Principal, Disnard Elementary School (chair: 'Thank you Melissa' [429, 688]; Horsky: 'Miss Lewis, who is the principal' [384])"
+  },
+  "672": {
+   "name": "Unidentified",
+   "role": "Board member seconding"
+  },
+  "872": {
+   "name": "Unidentified",
+   "role": "Board member moving to enter nonpublic"
+  },
+  "881": {
+   "name": "Frank Sprague",
+   "role": "Claremont School Board Chair (self-identified as chairman [148])"
+  }
+ }
+}

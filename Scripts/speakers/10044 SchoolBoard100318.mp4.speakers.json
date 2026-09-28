@@ -1,0 +1,180 @@
+{
+ "Speaker 1": {
+  "name": "Frank Sprague",
+  "role": "Claremont School Board Chair (runs the meeting; 'chairpersons editorial' [283]; presents Scott Pope's certificate as his former colleague [40-43], Pope: 'Frank being one of them' [51]; the opening cluster Speaker 1 [0-31] carries the same chair functions)"
+ },
+ "Speaker 2": {
+  "name": "Mary Woodman",
+  "role": "School District Clerk and recording secretary (chair: 'Mrs. Woodman, could you do roll call' [4] -> roll [6-7]; corrects her own minutes wording [15-17]; explains vacancy election rules [325-327]; asks who seconded [724])"
+ },
+ "Speaker 3": {
+  "name": "Jason Benware",
+  "role": "Claremont School Board member (chair: 'Okay, Jason.' [146] -> [147]; 'Jason and then Carolyn' [521] -> [522]; 'Jason's a natural choice for region ten' [431] -> accepts [432])"
+ },
+ "Speaker 4": {
+  "name": "Unidentified",
+  "role": "Unidentified - board member (minutes page reference [22-24]; seconds the minutes [30])"
+ },
+ "Speaker 5": {
+  "name": "Frank Sprague",
+  "role": "Claremont School Board Chair (runs the meeting; 'chairpersons editorial' [283]; presents Scott Pope's certificate as his former colleague [40-43], Pope: 'Frank being one of them' [51]; the opening cluster Speaker 1 [0-31] carries the same chair functions)"
+ },
+ "Speaker 6": {
+  "name": "Scott Pope",
+  "role": "Machine tool teacher, Sugar River Valley Regional Technical Center (honored by the board; 'Mr. Scott Pope is sitting in the audience' [40]; his thanks [51-52])"
+ },
+ "Speaker 7": {
+  "name": "Unidentified",
+  "role": "Unidentified - short interjections from several voices"
+ },
+ "Speaker 8": {
+  "name": "Keith Pfeifer",
+  "role": "Interim Superintendent, SAU 6 (superintendent's report [57-63]; chair gives the ballots 'to Doctor Pfeifer' [381] -> he announces 'Carolyn has three votes' [391])"
+ },
+ "Speaker 9": {
+  "name": "Marjorie Erickson",
+  "role": "SAU 6 Board member (Unity), superintendent search committee member (Pfeifer: 'Marjorie's here as well ... So, Margaret, anything you want to say?' [75-76] -> [77-78]; 'Thanks, Marjorie' [377])"
+ },
+ "Speaker 10": {
+  "name": "Michelle Pierce",
+  "role": "Claremont School Board member (chair: 'Michelle.' [460] -> [461]; 'Michelle, did you still have a question?' [510] -> [511]; says she ran 'almost three years ago' [686])"
+ },
+ "Speaker 11": {
+  "name": "Michael O'Neill",
+  "role": "Business Administrator, SAU 6 ('Thanks, Mike' [126], 'Michael' [128] after his DOE-25 report [109-124]; chair: 'Mike, do you want to comment?' [435] -> [436]; surname from roster)"
+ },
+ "Speaker 12": {
+  "name": "Carolyn Towle",
+  "role": "Claremont School Board member (chair: 'Carolyn.' [188] -> [189], [674] -> [675]; 'Carolyn are you? You're interested' [334] -> 'I am' [335]; wins the search-committee ballot [391])"
+ },
+ "Speaker 13": {
+  "name": "Rebecca Zullo",
+  "role": "Claremont School Board Vice Chair (chair: 'So Rebecca.' [164] -> [165]; Benware: 'Rebecca, were you asking' [174])"
+ },
+ "Speaker 14": {
+  "name": "Unidentified",
+  "role": "Unidentified - short responses from several voices"
+ },
+ "Speaker 15": {
+  "name": "Cory LeClair",
+  "role": "Assistant Superintendent, SAU 6 (uncertain - not named at her turns; administrator distinct from Pfeifer and O'Neill; supplies enrollment numbers ('I gave last time' [702]) and tech center staffing [676]; Pierce recalls 'Corey did a really great presentation' on capacity [657])"
+ },
+ "Speaker 16": {
+  "name": "Unidentified",
+  "role": "Unidentified - fragment [584]"
+ },
+ "__overrides__": {
+  "32": {
+   "name": "Unidentified",
+   "role": "Student representative, Stevens High School (a senior [284]; not named on this recording)"
+  },
+  "33": {
+   "name": "Unidentified",
+   "role": "Student representative, Stevens High School (a senior [284]; not named on this recording)"
+  },
+  "34": {
+   "name": "Unidentified",
+   "role": "Student representative, Stevens High School (a senior [284]; not named on this recording)"
+  },
+  "35": {
+   "name": "Unidentified",
+   "role": "Student representative, Stevens High School (a senior [284]; not named on this recording)"
+  },
+  "36": {
+   "name": "Unidentified",
+   "role": "Student representative, Stevens High School (a senior [284]; not named on this recording)"
+  },
+  "37": {
+   "name": "Unidentified",
+   "role": "Student representative, Stevens High School (a senior [284]; not named on this recording)"
+  },
+  "274": {
+   "name": "Unidentified",
+   "role": "Student representative, Stevens High School (a senior [284]; not named on this recording)"
+  },
+  "284": {
+   "name": "Unidentified",
+   "role": "Student representative, Stevens High School (a senior [284]; not named on this recording)"
+  },
+  "74": {
+   "name": "Frank Sprague",
+   "role": "Claremont School Board Chair (runs the meeting; 'chairpersons editorial' [283]; presents Scott Pope's certificate as his former colleague [40-43], Pope: 'Frank being one of them' [51]; the opening cluster Speaker 1 [0-31] carries the same chair functions)"
+  },
+  "86": {
+   "name": "Frank Sprague",
+   "role": "Claremont School Board Chair (runs the meeting; 'chairpersons editorial' [283]; presents Scott Pope's certificate as his former colleague [40-43], Pope: 'Frank being one of them' [51]; the opening cluster Speaker 1 [0-31] carries the same chair functions)"
+  },
+  "88": {
+   "name": "Frank Sprague",
+   "role": "Claremont School Board Chair (runs the meeting; 'chairpersons editorial' [283]; presents Scott Pope's certificate as his former colleague [40-43], Pope: 'Frank being one of them' [51]; the opening cluster Speaker 1 [0-31] carries the same chair functions)"
+  },
+  "5": {
+   "name": "Mary Woodman",
+   "role": "School District Clerk and recording secretary (chair: 'Mrs. Woodman, could you do roll call' [4] -> roll [6-7]; corrects her own minutes wording [15-17]; explains vacancy election rules [325-327]; asks who seconded [724])"
+  },
+  "77": {
+   "name": "Marjorie Erickson",
+   "role": "SAU 6 Board member (Unity), superintendent search committee member (Pfeifer: 'Marjorie's here as well ... So, Margaret, anything you want to say?' [75-76] -> [77-78]; 'Thanks, Marjorie' [377])"
+  },
+  "126": {
+   "name": "Unidentified",
+   "role": "Unidentified - thanks to the business administrator; diarized with the clerk"
+  },
+  "595": {
+   "name": "Unidentified",
+   "role": "Unidentified - short confirmation; diarized with the clerk"
+  },
+  "105": {
+   "name": "Unidentified",
+   "role": "Unidentified - board member seconding the audit motion; diarized with Erickson"
+  },
+  "47": {
+   "name": "Scott Pope",
+   "role": "Machine tool teacher, Sugar River Valley Regional Technical Center (honored by the board; 'Mr. Scott Pope is sitting in the audience' [40]; his thanks [51-52])"
+  },
+  "48": {
+   "name": "Scott Pope",
+   "role": "Machine tool teacher, Sugar River Valley Regional Technical Center (honored by the board; 'Mr. Scott Pope is sitting in the audience' [40]; his thanks [51-52])"
+  },
+  "49": {
+   "name": "Scott Pope",
+   "role": "Machine tool teacher, Sugar River Valley Regional Technical Center (honored by the board; 'Mr. Scott Pope is sitting in the audience' [40]; his thanks [51-52])"
+  },
+  "50": {
+   "name": "Scott Pope",
+   "role": "Machine tool teacher, Sugar River Valley Regional Technical Center (honored by the board; 'Mr. Scott Pope is sitting in the audience' [40]; his thanks [51-52])"
+  },
+  "56": {
+   "name": "Keith Pfeifer",
+   "role": "Interim Superintendent, SAU 6 (superintendent's report [57-63]; chair gives the ballots 'to Doctor Pfeifer' [381] -> he announces 'Carolyn has three votes' [391])"
+  },
+  "93": {
+   "name": "Unidentified",
+   "role": "Unidentified - short interjection diarized with Scott Pope"
+  },
+  "119": {
+   "name": "Unidentified",
+   "role": "Unidentified - short interjection diarized with Scott Pope"
+  },
+  "184": {
+   "name": "Unidentified",
+   "role": "Unidentified - short interjection diarized with Scott Pope"
+  },
+  "198": {
+   "name": "Unidentified",
+   "role": "Unidentified - short interjection diarized with Scott Pope"
+  },
+  "235": {
+   "name": "Unidentified",
+   "role": "Unidentified - short interjection diarized with Scott Pope"
+  },
+  "278": {
+   "name": "Unidentified",
+   "role": "Unidentified - short interjection diarized with Scott Pope"
+  },
+  "175": {
+   "name": "Rebecca Zullo",
+   "role": "Claremont School Board Vice Chair (chair: 'So Rebecca.' [164] -> [165]; Benware: 'Rebecca, were you asking' [174])"
+  }
+ }
+}

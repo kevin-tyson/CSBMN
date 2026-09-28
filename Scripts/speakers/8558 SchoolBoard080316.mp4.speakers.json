@@ -1,0 +1,345 @@
+{
+ "Speaker 1": {
+  "name": "Brian Rapp",
+  "role": "Claremont School Board Chair (cluster also carries Vice Chair Chris Irish; his passages reassigned where the record names him)"
+ },
+ "Speaker 2": {
+  "name": "Patrick Adrian",
+  "role": "Claremont School Board member"
+ },
+ "Speaker 3": {
+  "name": "Middleton McGoodwin",
+  "role": "Superintendent, SAU 6"
+ },
+ "Speaker 4": {
+  "name": "Frank Sprague",
+  "role": "Claremont School Board member"
+ },
+ "Speaker 5": {
+  "name": "Unidentified",
+  "role": "Unidentified - short remarks cluster mixing board members and staff; identifiable segments reassigned"
+ },
+ "Speaker 6": {
+  "name": "Richard Seaman",
+  "role": "Public commenter, Ward 3; former Claremont School Board member and chair"
+ },
+ "Speaker 7": {
+  "name": "Michelle Pierce",
+  "role": "Claremont School Board member"
+ },
+ "Speaker 8": {
+  "name": "Michael O'Neill",
+  "role": "Business Administrator, SAU 6 (ASR 'Michael Neil', 'Mr. O'Neal'; spelling per roster, unverified)"
+ },
+ "Speaker 9": {
+  "name": "Brent Ferland",
+  "role": "Claremont School Board member (addressed as 'Brant' (ASR))"
+ },
+ "Speaker 10": {
+  "name": "Rebecca Ferland",
+  "role": "Claremont School Board member; SAU 6 Board Chair"
+ },
+ "Speaker 11": {
+  "name": "Carol Gregory",
+  "role": "Food Service Director, Claremont School District (ASR 'Kyle Gregory'; named 'Carol Gregory' by the superintendent)"
+ },
+ "Speaker 12": {
+  "name": "Unidentified",
+  "role": "Unidentified - single brief remark in the food service discussion"
+ },
+ "Speaker 13": {
+  "name": "Patrick Adrian",
+  "role": "Claremont School Board member"
+ },
+ "Speaker 14": {
+  "name": "Chris Irish",
+  "role": "Claremont School Board Vice Chair"
+ },
+ "Speaker 15": {
+  "name": "Unidentified",
+  "role": "Unidentified - brief interjections"
+ },
+ "Speaker 16": {
+  "name": "Brian Rapp",
+  "role": "Claremont School Board Chair (uncertain - separate cluster; chair recognitions at [402-407], attribution by floor control)"
+ },
+ "Speaker 17": {
+  "name": "Patrick Adrian",
+  "role": "Claremont School Board member"
+ },
+ "Speaker 18": {
+  "name": "Patrick Adrian",
+  "role": "Claremont School Board member"
+ },
+ "Speaker 19": {
+  "name": "Unidentified",
+  "role": "Unidentified - cluster mixes roll call votes, seconds and procedural remarks from several members"
+ },
+ "Speaker 20": {
+  "name": "Brian Rapp",
+  "role": "Claremont School Board Chair (separate cluster; recognizes 'Chris', 'Pat', 'Richard' and calls votes)"
+ },
+ "Speaker 21": {
+  "name": "Patricia Barry",
+  "role": "Principal, Stevens High School (addressed 'Pat', 'Miss Berry' (ASR))"
+ },
+ "Speaker 22": {
+  "name": "Mary Woodman",
+  "role": "Recording secretary / school district clerk (uncertain - called 'Mary' while taking minutes; roster names Mary Woodman)"
+ },
+ "Speaker 23": {
+  "name": "Unidentified",
+  "role": "Unidentified - brief procedural remarks"
+ },
+ "Speaker 24": {
+  "name": "Unidentified",
+  "role": "Unidentified - single brief remark"
+ },
+ "Speaker 25": {
+  "name": "Unidentified",
+  "role": "Unidentified - cluster mixes the second roll call reader and several members"
+ },
+ "Speaker 26": {
+  "name": "Patrick Adrian",
+  "role": "Claremont School Board member"
+ },
+ "Speaker 27": {
+  "name": "Unidentified",
+  "role": "Unidentified - cluster mixes several members during the final motions (includes the motion to comply)"
+ },
+ "Speaker 28": {
+  "name": "Unidentified",
+  "role": "Unidentified - board member, not named (cites Robert's Rules; pro A/B)"
+ },
+ "Speaker 29": {
+  "name": "Unidentified",
+  "role": "Unidentified - cluster mixes the motion to table and the aye chorus"
+ },
+ "__overrides__": {
+  "283": {
+   "name": "Chris Irish"
+  },
+  "284": {
+   "name": "Chris Irish"
+  },
+  "285": {
+   "name": "Chris Irish"
+  },
+  "286": {
+   "name": "Chris Irish"
+  },
+  "287": {
+   "name": "Chris Irish"
+  },
+  "288": {
+   "name": "Chris Irish"
+  },
+  "289": {
+   "name": "Chris Irish"
+  },
+  "290": {
+   "name": "Chris Irish"
+  },
+  "291": {
+   "name": "Chris Irish"
+  },
+  "301": {
+   "name": "Chris Irish"
+  },
+  "303": {
+   "name": "Chris Irish"
+  },
+  "305": {
+   "name": "Chris Irish"
+  },
+  "306": {
+   "name": "Chris Irish"
+  },
+  "307": {
+   "name": "Chris Irish"
+  },
+  "308": {
+   "name": "Chris Irish"
+  },
+  "311": {
+   "name": "Chris Irish"
+  },
+  "315": {
+   "name": "Chris Irish"
+  },
+  "317": {
+   "name": "Chris Irish"
+  },
+  "319": {
+   "name": "Chris Irish"
+  },
+  "518": {
+   "name": "Chris Irish"
+  },
+  "519": {
+   "name": "Chris Irish"
+  },
+  "520": {
+   "name": "Chris Irish"
+  },
+  "521": {
+   "name": "Chris Irish"
+  },
+  "522": {
+   "name": "Chris Irish"
+  },
+  "523": {
+   "name": "Chris Irish"
+  },
+  "524": {
+   "name": "Chris Irish"
+  },
+  "525": {
+   "name": "Chris Irish"
+  },
+  "531": {
+   "name": "Chris Irish"
+  },
+  "627": {
+   "name": "Chris Irish"
+  },
+  "628": {
+   "name": "Chris Irish"
+  },
+  "629": {
+   "name": "Chris Irish"
+  },
+  "632": {
+   "name": "Chris Irish"
+  },
+  "634": {
+   "name": "Chris Irish"
+  },
+  "43": {
+   "name": "Richard Seaman"
+  },
+  "54": {
+   "name": "Richard Seaman"
+  },
+  "405": {
+   "name": "Richard Seaman"
+  },
+  "736": {
+   "name": "Richard Seaman"
+  },
+  "739": {
+   "name": "Richard Seaman"
+  },
+  "32": {
+   "name": "Middleton McGoodwin"
+  },
+  "89": {
+   "name": "Middleton McGoodwin"
+  },
+  "172": {
+   "name": "Middleton McGoodwin"
+  },
+  "175": {
+   "name": "Middleton McGoodwin"
+  },
+  "103": {
+   "name": "Michael O'Neill"
+  },
+  "158": {
+   "name": "Michael O'Neill"
+  },
+  "221": {
+   "name": "Michael O'Neill"
+  },
+  "223": {
+   "name": "Michael O'Neill"
+  },
+  "110": {
+   "name": "Frank Sprague"
+  },
+  "36": {
+   "name": "Michelle Pierce"
+  },
+  "546": {
+   "name": "Michelle Pierce"
+  },
+  "202": {
+   "name": "Carol Gregory"
+  },
+  "225": {
+   "name": "Rebecca Ferland"
+  },
+  "266": {
+   "name": "Rebecca Ferland"
+  },
+  "467": {
+   "name": "Brent Ferland"
+  },
+  "469": {
+   "name": "Brent Ferland"
+  },
+  "292": {
+   "name": "Brian Rapp"
+  },
+  "491": {
+   "name": "Brian Rapp"
+  },
+  "540": {
+   "name": "Brian Rapp"
+  },
+  "645": {
+   "name": "Mary Woodman"
+  },
+  "649": {
+   "name": "Mary Woodman"
+  },
+  "651": {
+   "name": "Mary Woodman"
+  },
+  "653": {
+   "name": "Mary Woodman"
+  },
+  "824": {
+   "name": "Mary Woodman"
+  },
+  "830": {
+   "name": "Mary Woodman"
+  },
+  "528": {
+   "name": "Unidentified",
+   "role": "Unidentified - roll call vote or brief remark in a merged cluster"
+  },
+  "533": {
+   "name": "Unidentified",
+   "role": "Unidentified - roll call vote or brief remark in a merged cluster"
+  },
+  "553": {
+   "name": "Unidentified",
+   "role": "Unidentified - roll call vote or brief remark in a merged cluster"
+  },
+  "560": {
+   "name": "Unidentified",
+   "role": "Unidentified - roll call vote or brief remark in a merged cluster"
+  },
+  "569": {
+   "name": "Unidentified",
+   "role": "Unidentified - roll call vote or brief remark in a merged cluster"
+  },
+  "572": {
+   "name": "Unidentified",
+   "role": "Unidentified - roll call vote or brief remark in a merged cluster"
+  },
+  "591": {
+   "name": "Unidentified",
+   "role": "Unidentified - roll call vote or brief remark in a merged cluster"
+  },
+  "593": {
+   "name": "Unidentified",
+   "role": "Unidentified - roll call vote or brief remark in a merged cluster"
+  },
+  "644": {
+   "name": "Unidentified",
+   "role": "Unidentified - roll call vote or brief remark in a merged cluster"
+  }
+ }
+}

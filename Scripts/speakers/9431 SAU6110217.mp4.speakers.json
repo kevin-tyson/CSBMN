@@ -1,0 +1,128 @@
+{
+ "Speaker 1": {
+  "name": "Sara Lowe",
+  "role": "SAU 6 Board Chair (Unity) (uncertain - never named on this recording; identified by floor control, her Unity-side remarks, and the roster's SAU chair for Oct 2017)"
+ },
+ "Speaker 2": {
+  "name": "Middleton McGoodwin",
+  "role": "Superintendent, SAU 6"
+ },
+ "Speaker 3": {
+  "name": "Nathan",
+  "role": "SAU 6 business office staff, formerly technology department (first name from seg 370 and 388; surname not on the recording; cluster also carries a few short fragments of others)"
+ },
+ "Speaker 4": {
+  "name": "Michael O'Neill",
+  "role": "Business Administrator, SAU 6"
+ },
+ "Speaker 5": {
+  "name": "Rebecca Zullo",
+  "role": "SAU 6 Board member (Claremont)"
+ },
+ "Speaker 6": {
+  "name": "Josh Malloy",
+  "role": "Director of Technology, SAU 6"
+ },
+ "Speaker 7": {
+  "name": "Unidentified",
+  "role": "Unidentified - Claremont member of the SAU 6 board (not Irish, Rapp or Zullo; possibly Michael Petrin or Frank Sprague)"
+ },
+ "Speaker 8": {
+  "name": "Unidentified",
+  "role": "Unidentified - short fragments"
+ },
+ "Speaker 9": {
+  "name": "Unidentified",
+  "role": "Unidentified - SAU 6 board member (asks about technology staffing and Windows 10; seconds minutes)"
+ },
+ "Speaker 10": {
+  "name": "Brian Rapp",
+  "role": "SAU 6 Board member (Claremont); Claremont School Board Chair"
+ },
+ "Speaker 11": {
+  "name": "Robert McDevitt",
+  "role": "SAU 6 Board member (Unity)"
+ },
+ "Speaker 12": {
+  "name": "Cory LeClair",
+  "role": "Assistant Superintendent, SAU 6"
+ },
+ "Speaker 13": {
+  "name": "Unidentified",
+  "role": "Unidentified - cluster mixes board members' seconds, ayes and roll-call votes"
+ },
+ "Speaker 14": {
+  "name": "Chris",
+  "role": "SAU 6 student services / special education administrator (first name from seg 326, 360, 395; surname not on the recording)"
+ },
+ "Speaker 15": {
+  "name": "Unidentified",
+  "role": "Unidentified - 'Thank you' only"
+ },
+ "Speaker 16": {
+  "name": "Unidentified",
+  "role": "Unidentified - short fragment"
+ },
+ "Speaker 17": {
+  "name": "Unidentified",
+  "role": "Unidentified - recording secretary calling the roll (not named on this recording)"
+ },
+ "__overrides__": {
+  "180": {
+   "name": "Robert McDevitt"
+  },
+  "237": {
+   "name": "Robert McDevitt"
+  },
+  "239": {
+   "name": "Robert McDevitt"
+  },
+  "244": {
+   "name": "Robert McDevitt"
+  },
+  "355": {
+   "name": "Robert McDevitt"
+  },
+  "363": {
+   "name": "Robert McDevitt"
+  },
+  "215": {
+   "name": "Cory LeClair"
+  },
+  "216": {
+   "name": "Cory LeClair"
+  },
+  "217": {
+   "name": "Cory LeClair"
+  },
+  "218": {
+   "name": "Cory LeClair"
+  },
+  "219": {
+   "name": "Cory LeClair"
+  },
+  "220": {
+   "name": "Cory LeClair"
+  },
+  "266": {
+   "name": "Cory LeClair"
+  },
+  "267": {
+   "name": "Cory LeClair"
+  },
+  "73": {
+   "name": "Josh Malloy"
+  },
+  "75": {
+   "name": "Josh Malloy"
+  },
+  "462": {
+   "name": "Unidentified",
+   "role": "Group recitation of the Pledge of Allegiance"
+  },
+  "463": {
+   "name": "Unidentified",
+   "role": "Group recitation of the Pledge of Allegiance"
+  }
+ }
+}

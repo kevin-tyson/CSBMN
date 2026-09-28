@@ -1,0 +1,348 @@
+{
+ "Speaker 1": {
+  "name": "Arlene Hawkins",
+  "role": "CHAIR, SAU 6 Joint Board; Claremont School Board member - opens the meeting ('call to order the SA six [SAU 6] school board meeting for December 12th'), directs the clerk by name ('Miss Kronborg, would you take a roll call', conf 1.00, 36.6s), is answered last in the roll ('And Arlene Hawkins here', conf 1.00/0.80), is addressed as 'Madam Chair' at 2182.6s, opens and closes the budget public hearing, and recognises members by name all night. MERGED CLUSTER: it also carries crosstalk from the members it is answering - see the overrides"
+ },
+ "Speaker 2": {
+  "name": "Mary Henry",
+  "role": "Business Administrator, SAU 6 - presents the FY2025-26 SAU 6 budget in the first person. Chair Hawkins hands her the floor ('So, Mary, I think that's all the information', conf 1.00, 350.7s), asks 'What would that be, Mary?' (2158.6s, conf 1.00) and 'You have anything else, Mary' (3608.2s); Superintendent Pratt says 'I know myself and Mary and the administration worked really hard to give you a budget' (3422.7s, conf 1.00). MERGED CLUSTER: it also carries Clerk Noelle Kronberg's four roll-call and minute-taking turns - see the overrides"
+ },
+ "Speaker 3": {
+  "name": "Mike Koski",
+  "role": "Assistant Superintendent, SAU 6 - MEDIUM confidence and NO direct name anchor. The cluster's long turns are a senior administrator answering for the district curriculum programme, in dialogue with (and distinct from) Superintendent Pratt and the business administrator. Pratt names the assistant superintendent as his curriculum co-lead twice ('myself and Assistant Superintendent Kosky will divide and conquer', 601.9s conf 0.73; 'Assistant Superintendent Kosky take over the elementaries and the curriculum', 614.6s conf 0.95); Candace Crawford says 'the assistant superintendent is giving a lot of leadership to the curriculum job' (1195s); Heather Whitney says the work would fall 'into Mr. and Mr. Pratt's hands' (1084s, a swallowed surname); Frank Sprague addresses this voice in the second person about the administrative assistant TO THE ASSISTANT SUPERINTENDENT ('you didn't have a secretary', 2497s; 'the assistant to work with you', 2545s); and Chair Hawkins says 'Mike.' at 3909.1s (conf 0.91). MERGED SINK CLUSTER: most of its short segments are other people's clipped words - see the overrides"
+ },
+ "Speaker 4": {
+  "name": "Heather Whitney",
+  "role": "CHAIR, Claremont School Board; SAU 6 Joint Board member - HIGH confidence. She says 'Second.' at 3892.9s and Chair Hawkins immediately records it: 'And the second was made by Heather. Miss Whitney, miss Whitney' (3920.9-3922.2s, all conf 1.00). Frank Sprague answers her argument with 'I want to just make a comment to Heather's point' (1015.9s) and Candace Crawford with 'I agree with Miss Whitney' (1252.6s, conf 0.94). Roll call: 'Heather Whitney here' (60.7s, conf 1.00)"
+ },
+ "Speaker 5": {
+  "name": "Candace Crawford",
+  "role": "Claremont School Board member; SAU 6 Joint Board member - HIGH confidence. Chair Hawkins's recognition is absorbed into this voice's own onset at 1177.6s ('Miss Crawford', conf 1.00), she says 'Mr. Peterson? Oh, sorry, Miss Crawford.' 0.08s before it speaks (1766.5s, conf 1.00) and 'I understand, Miss Crawford, you'd like to make a motion' 3.0s before it moves the budget (3720.1s, conf 1.00). This voice moves the FY26 budget. Roll call: 'Candace Crawford here' (56.9s)"
+ },
+ "Speaker 6": {
+  "name": "Chris Pratt",
+  "role": "Superintendent of Schools, SAU 6 - HIGH confidence. Mary Henry hands him the floor ('I think I'm going to let Chris talk a little bit more about that', 575.5s, conf 1.00) and says 'Superintendent Pratt was very adamant about that' (524.7s, conf 1.00); Chair Hawkins asks 'if the superintendent had any proposals ... for the fund balance' and this voice answers 'I don't have any proposals'; Henry says 'Yeah. Mr. Pratt yeah.' 0.0s before it speaks at 2438.1s; Frank Sprague addresses it as 'Chris' at 2558.2s. It speaks throughout as the superintendent"
+ },
+ "Speaker 7": {
+  "name": "Frank Sprague",
+  "role": "VICE CHAIR, Claremont School Board; SAU 6 Joint Board member - HIGH confidence. Chair Hawkins says 'Mr. Sprague, we don't' 1.1s before this voice speaks at 2389.6s (conf 1.00) and 'Yes. Mr. Sprague.' 0.16s before it speaks at 3191.5s (conf 1.00); Mary Henry says 'which I think, Frank, you're familiar with indirect costs' (2759.4s, conf 0.90) while answering it. Roll call: 'Frank Sprague here' (51.2s)"
+ },
+ "Speaker 8": {
+  "name": "Whitney Skillen",
+  "role": "Claremont School Board member; SAU 6 Joint Board member; chair, Claremont Policy subcommittee - MEDIUM-HIGH confidence, by elimination plus role fit. A woman at the board table who moves the $160,000 fund-balance motion (Chair Hawkins: 'Excuse me, miss.' 0.08s earlier) and moves adoption of Policy KE with a proof-reading correction - Skillen chairs the Claremont policy subcommittee. The other three women seated tonight are separately anchored: Hawkins (Speaker 1), Heather Whitney (Speaker 4) and Candace Crawford (Speaker 5). Roll call: 'Whitney. Skilling here' (54.8s, conf 1.00). This cluster overlaps Speaker 4 in time, so it is NOT the second Heather Whitney cluster this diarizer produces at SAU 6 meetings"
+ },
+ "Speaker 9": {
+  "name": "Michael Petrin",
+  "role": "Claremont School Board member; SAU 6 Joint Board member - HIGH confidence for 1911-3592s. Chair Hawkins says 'Mr. Petra.' 0.7s before it speaks at 2934.8s (conf 0.72) and 'Mr. Patron.' 0.8s before it speaks at 3350.1s (conf 0.87); Superintendent Pratt answers it with 'So thank you Michael.' at 3592.2s (conf 1.00). Roll-call vote: 'Michael. Patron. Yes.' (209.3s). CAVEAT: the Unity withdrawal update at 4036.9-4090.1s is also in this cluster although Rocco Ruggeri delivered that report at the 9/12/24 and 11/14/24 meetings - see the report"
+ },
+ "Speaker 10": {
+  "name": "Unidentified",
+  "role": "Unidentified voice away from the microphone - asks twice which meeting the auditors will attend; the chair answers 'I didn't hear your question'. Rocco Ruggeri, SAU 6 vice chair, answers the roll at 42.6s and is otherwise unheard all night, which makes him the leading candidate, but no name is spoken"
+ },
+ "__overrides__": {
+  "3": {
+   "name": "Noelle Kronberg",
+   "role": "Board Clerk, SAU 6 - Chair Hawkins says 'Miss Kronborg, would you take a roll call of attendance of board members?' (conf 1.00) 4.5s earlier; this voice reads the roll"
+  },
+  "23": {
+   "name": "Noelle Kronberg",
+   "role": "Board Clerk, SAU 6 - Chair Hawkins asks 'Miss. Would you please take a roll call? Vote?' 0.2s earlier; this voice reads the roll-call vote on entering nonpublic session"
+  },
+  "25": {
+   "name": "Noelle Kronberg",
+   "role": "Board Clerk, SAU 6 - Chair Hawkins asks 'Miss. Would you please take a roll call? Vote?' 0.2s earlier; this voice reads the roll-call vote on entering nonpublic session"
+  },
+  "449": {
+   "name": "Noelle Kronberg",
+   "role": "Board Clerk, SAU 6 - Chair Hawkins asks 'You got that, Miss Grunberg [Kronberg]?' (conf 1.00) 1.2s earlier and this voice answers that it could not catch the figure"
+  },
+  "454": {
+   "name": "Noelle Kronberg",
+   "role": "Board Clerk, SAU 6 - Chair Hawkins asks 'You got that, Miss Grunberg [Kronberg]?' (conf 1.00) 1.2s earlier and this voice answers that it could not catch the figure"
+  },
+  "234": {
+   "name": "Arlene Hawkins",
+   "role": "CHAIR, SAU 6 Joint Board; Claremont School Board member - the chair recognising 'Candy' (Candace Crawford, conf 0.79) before turning to Mr. Sprague"
+  },
+  "266": {
+   "name": "Arlene Hawkins",
+   "role": "CHAIR, SAU 6 Joint Board; Claremont School Board member - the chair's words clipped into a neighbouring cluster; each runs straight on into her own next segment"
+  },
+  "311": {
+   "name": "Arlene Hawkins",
+   "role": "CHAIR, SAU 6 Joint Board; Claremont School Board member - the chair's words clipped into a neighbouring cluster; each runs straight on into her own next segment"
+  },
+  "384": {
+   "name": "Arlene Hawkins",
+   "role": "CHAIR, SAU 6 Joint Board; Claremont School Board member - the chair's words clipped into a neighbouring cluster; each runs straight on into her own next segment"
+  },
+  "409": {
+   "name": "Arlene Hawkins",
+   "role": "CHAIR, SAU 6 Joint Board; Claremont School Board member - the chair's words clipped into a neighbouring cluster; each runs straight on into her own next segment"
+  },
+  "419": {
+   "name": "Arlene Hawkins",
+   "role": "CHAIR, SAU 6 Joint Board; Claremont School Board member - the chair's words clipped into a neighbouring cluster; each runs straight on into her own next segment"
+  },
+  "19": {
+   "name": "Multiple",
+   "role": "Board members answering a voice vote"
+  },
+  "442": {
+   "name": "Multiple",
+   "role": "Board members answering a voice vote"
+  },
+  "466": {
+   "name": "Multiple",
+   "role": "Board members answering a voice vote"
+  },
+  "488": {
+   "name": "Multiple",
+   "role": "Board members answering a voice vote"
+  },
+  "42": {
+   "name": "Multiple",
+   "role": "The board's 'Aye' and the chair's 'Opposed?' inside one segment ('I opposed' = 'Aye. Opposed?')"
+  },
+  "490": {
+   "name": "Multiple",
+   "role": "Closing thanks around the table at adjournment"
+  },
+  "112": {
+   "name": "Whitney Skillen",
+   "role": "Claremont School Board member; SAU 6 Joint Board member; chair, Claremont Policy subcommittee - runs continuously into this voice's own next segment with no pause"
+  },
+  "115": {
+   "name": "Whitney Skillen",
+   "role": "Claremont School Board member; SAU 6 Joint Board member; chair, Claremont Policy subcommittee - runs continuously into this voice's own next segment with no pause"
+  },
+  "146": {
+   "name": "Heather Whitney",
+   "role": "CHAIR, Claremont School Board; SAU 6 Joint Board member - clipped word running straight into her own next segment"
+  },
+  "188": {
+   "name": "Heather Whitney",
+   "role": "CHAIR, Claremont School Board; SAU 6 Joint Board member - clipped word running straight into her own next segment"
+  },
+  "199": {
+   "name": "Candace Crawford",
+   "role": "Claremont School Board member; SAU 6 Joint Board member - clipped words that run continuously into her own adjoining segments"
+  },
+  "201": {
+   "name": "Candace Crawford",
+   "role": "Claremont School Board member; SAU 6 Joint Board member - clipped words that run continuously into her own adjoining segments"
+  },
+  "210": {
+   "name": "Candace Crawford",
+   "role": "Claremont School Board member; SAU 6 Joint Board member - clipped words that run continuously into her own adjoining segments"
+  },
+  "263": {
+   "name": "Candace Crawford",
+   "role": "Claremont School Board member; SAU 6 Joint Board member - clipped words that run continuously into her own adjoining segments"
+  },
+  "299": {
+   "name": "Candace Crawford",
+   "role": "Claremont School Board member; SAU 6 Joint Board member - clipped words that run continuously into her own adjoining segments"
+  },
+  "392": {
+   "name": "Candace Crawford",
+   "role": "Claremont School Board member; SAU 6 Joint Board member - clipped words that run continuously into her own adjoining segments"
+  },
+  "395": {
+   "name": "Candace Crawford",
+   "role": "Claremont School Board member; SAU 6 Joint Board member - clipped words that run continuously into her own adjoining segments"
+  },
+  "197": {
+   "name": "Candace Crawford",
+   "role": "Claremont School Board member; SAU 6 Joint Board member - continues her own preceding sentence ('I understand, but we can ... [in]struct the administrative team to investigate those opportunities')"
+  },
+  "171": {
+   "name": "Chris Pratt",
+   "role": "Superintendent of Schools, SAU 6 - clipped words that run continuously into his own adjoining segments"
+  },
+  "172": {
+   "name": "Chris Pratt",
+   "role": "Superintendent of Schools, SAU 6 - clipped words that run continuously into his own adjoining segments"
+  },
+  "173": {
+   "name": "Chris Pratt",
+   "role": "Superintendent of Schools, SAU 6 - clipped words that run continuously into his own adjoining segments"
+  },
+  "174": {
+   "name": "Chris Pratt",
+   "role": "Superintendent of Schools, SAU 6 - clipped words that run continuously into his own adjoining segments"
+  },
+  "176": {
+   "name": "Chris Pratt",
+   "role": "Superintendent of Schools, SAU 6 - clipped words that run continuously into his own adjoining segments"
+  },
+  "178": {
+   "name": "Chris Pratt",
+   "role": "Superintendent of Schools, SAU 6 - clipped words that run continuously into his own adjoining segments"
+  },
+  "369": {
+   "name": "Chris Pratt",
+   "role": "Superintendent of Schools, SAU 6 - clipped words that run continuously into his own adjoining segments"
+  },
+  "371": {
+   "name": "Chris Pratt",
+   "role": "Superintendent of Schools, SAU 6 - clipped words that run continuously into his own adjoining segments"
+  },
+  "373": {
+   "name": "Chris Pratt",
+   "role": "Superintendent of Schools, SAU 6 - clipped words that run continuously into his own adjoining segments"
+  },
+  "375": {
+   "name": "Chris Pratt",
+   "role": "Superintendent of Schools, SAU 6 - clipped words that run continuously into his own adjoining segments"
+  },
+  "378": {
+   "name": "Chris Pratt",
+   "role": "Superintendent of Schools, SAU 6 - clipped words that run continuously into his own adjoining segments"
+  },
+  "289": {
+   "name": "Mary Henry",
+   "role": "Business Administrator, SAU 6 - clipped words that run continuously into her own adjoining segments"
+  },
+  "303": {
+   "name": "Mary Henry",
+   "role": "Business Administrator, SAU 6 - clipped words that run continuously into her own adjoining segments"
+  },
+  "314": {
+   "name": "Mary Henry",
+   "role": "Business Administrator, SAU 6 - clipped words that run continuously into her own adjoining segments"
+  },
+  "325": {
+   "name": "Mary Henry",
+   "role": "Business Administrator, SAU 6 - clipped words that run continuously into her own adjoining segments"
+  },
+  "336": {
+   "name": "Mary Henry",
+   "role": "Business Administrator, SAU 6 - clipped words that run continuously into her own adjoining segments"
+  },
+  "347": {
+   "name": "Mary Henry",
+   "role": "Business Administrator, SAU 6 - clipped words that run continuously into her own adjoining segments"
+  },
+  "357": {
+   "name": "Mary Henry",
+   "role": "Business Administrator, SAU 6 - clipped words that run continuously into her own adjoining segments"
+  },
+  "399": {
+   "name": "Mary Henry",
+   "role": "Business Administrator, SAU 6 - clipped words that run continuously into her own adjoining segments"
+  },
+  "406": {
+   "name": "Mary Henry",
+   "role": "Business Administrator, SAU 6 - clipped words that run continuously into her own adjoining segments"
+  },
+  "78": {
+   "name": "Frank Sprague",
+   "role": "VICE CHAIR, Claremont School Board; SAU 6 Joint Board member - one continuous question flapped between two clusters word-group by word-group with zero-length gaps (915.9-940.7s): 'I guess on that line, current curriculum director is also doing part of her time working as a coach ... can we make that change ... curriculum director 50% and instead of cutting 100%'. The interleaved Speaker 7 halves are already his"
+  },
+  "80": {
+   "name": "Frank Sprague",
+   "role": "VICE CHAIR, Claremont School Board; SAU 6 Joint Board member - one continuous question flapped between two clusters word-group by word-group with zero-length gaps (915.9-940.7s): 'I guess on that line, current curriculum director is also doing part of her time working as a coach ... can we make that change ... curriculum director 50% and instead of cutting 100%'. The interleaved Speaker 7 halves are already his"
+  },
+  "82": {
+   "name": "Frank Sprague",
+   "role": "VICE CHAIR, Claremont School Board; SAU 6 Joint Board member - one continuous question flapped between two clusters word-group by word-group with zero-length gaps (915.9-940.7s): 'I guess on that line, current curriculum director is also doing part of her time working as a coach ... can we make that change ... curriculum director 50% and instead of cutting 100%'. The interleaved Speaker 7 halves are already his"
+  },
+  "84": {
+   "name": "Frank Sprague",
+   "role": "VICE CHAIR, Claremont School Board; SAU 6 Joint Board member - one continuous question flapped between two clusters word-group by word-group with zero-length gaps (915.9-940.7s): 'I guess on that line, current curriculum director is also doing part of her time working as a coach ... can we make that change ... curriculum director 50% and instead of cutting 100%'. The interleaved Speaker 7 halves are already his"
+  },
+  "86": {
+   "name": "Frank Sprague",
+   "role": "VICE CHAIR, Claremont School Board; SAU 6 Joint Board member - one continuous question flapped between two clusters word-group by word-group with zero-length gaps (915.9-940.7s): 'I guess on that line, current curriculum director is also doing part of her time working as a coach ... can we make that change ... curriculum director 50% and instead of cutting 100%'. The interleaved Speaker 7 halves are already his"
+  },
+  "323": {
+   "name": "Frank Sprague",
+   "role": "VICE CHAIR, Claremont School Board; SAU 6 Joint Board member - clipped words inside his own exchange with the business administrator"
+  },
+  "338": {
+   "name": "Frank Sprague",
+   "role": "VICE CHAIR, Claremont School Board; SAU 6 Joint Board member - clipped words inside his own exchange with the business administrator"
+  },
+  "305": {
+   "name": "Michael Petrin",
+   "role": "Claremont School Board member; SAU 6 Joint Board member - clipped words that run continuously into his own adjoining segments"
+  },
+  "307": {
+   "name": "Michael Petrin",
+   "role": "Claremont School Board member; SAU 6 Joint Board member - clipped words that run continuously into his own adjoining segments"
+  },
+  "363": {
+   "name": "Michael Petrin",
+   "role": "Claremont School Board member; SAU 6 Joint Board member - clipped words that run continuously into his own adjoining segments"
+  },
+  "365": {
+   "name": "Michael Petrin",
+   "role": "Claremont School Board member; SAU 6 Joint Board member - clipped words that run continuously into his own adjoining segments"
+  },
+  "475": {
+   "name": "Michael Petrin",
+   "role": "Claremont School Board member; SAU 6 Joint Board member - clipped words that run continuously into his own adjoining segments"
+  },
+  "129": {
+   "name": "Mike Koski",
+   "role": "Assistant Superintendent, SAU 6 - his 'Sure.' answering the chair's request, 0.8s before his own outline of the curriculum director's role"
+  },
+  "10": {
+   "name": "Unidentified",
+   "role": "Unidentified SAU 6 board member - the chair recognises 'Whitney' (conf 1.00) at 107.4s and Heather Whitney and Whitney Skillen are both seated; the file does not separate them here"
+  },
+  "12": {
+   "name": "Unidentified",
+   "role": "Unidentified SAU 6 board member - the chair recognises 'Whitney' (conf 1.00) at 107.4s and Heather Whitney and Whitney Skillen are both seated; the file does not separate them here"
+  },
+  "14": {
+   "name": "Unidentified",
+   "role": "Unidentified SAU 6 board member - the chair recognises 'Whitney' (conf 1.00) at 107.4s and Heather Whitney and Whitney Skillen are both seated; the file does not separate them here"
+  },
+  "24": {
+   "name": "Unidentified",
+   "role": "Unidentified SAU 6 board member answering the roll-call vote on entering nonpublic session; the clerk's spoken names between 195.6s and 201.5s were not transcribed, and the standing roll order puts Rocco Ruggeri first"
+  },
+  "15": {
+   "name": "Unidentified",
+   "role": "Unidentified SAU 6 board member seconding the motion to approve the November 14 minutes - the voice is not the business administrator and no name is spoken"
+  },
+  "36": {
+   "name": "Unidentified",
+   "role": "Unidentified - one of several voices correcting the chair's word 'bonus' to 'parity'"
+  },
+  "425": {
+   "name": "Unidentified",
+   "role": "Unidentified - number crosstalk while the board and the business administrator read the budget figure back to each other"
+  },
+  "427": {
+   "name": "Unidentified",
+   "role": "Unidentified - number crosstalk while the board and the business administrator read the budget figure back to each other"
+  },
+  "438": {
+   "name": "Unidentified",
+   "role": "Unidentified - number crosstalk while the board and the business administrator read the budget figure back to each other"
+  },
+  "450": {
+   "name": "Unidentified",
+   "role": "Unidentified - number crosstalk while the board and the business administrator read the budget figure back to each other"
+  },
+  "186": {
+   "name": "Unidentified",
+   "role": "Unidentified - crosstalk fragment inside a merged cluster; no name anchor and no continuous speech to place it"
+  },
+  "292": {
+   "name": "Unidentified",
+   "role": "Unidentified - crosstalk fragment inside a merged cluster; no name anchor and no continuous speech to place it"
+  },
+  "329": {
+   "name": "Unidentified",
+   "role": "Unidentified - crosstalk fragment inside a merged cluster; no name anchor and no continuous speech to place it"
+  },
+  "473": {
+   "name": "Unidentified",
+   "role": "Unidentified - crosstalk fragment inside a merged cluster; no name anchor and no continuous speech to place it"
+  }
+ }
+}

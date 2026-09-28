@@ -1,0 +1,108 @@
+{
+ "Speaker 1": {
+  "name": "Frank Sprague",
+  "role": "Claremont School Board Chair"
+ },
+ "Speaker 2": {
+  "name": "Heather Whitney",
+  "role": "Claremont School Board member (attribution by elimination)"
+ },
+ "Speaker 3": {
+  "name": "Rob Lovett Jr.",
+  "role": "Claremont School Board member"
+ },
+ "Speaker 4": {
+  "name": "Michael Tempesta",
+  "role": "Superintendent, SAU 6"
+ },
+ "Speaker 5": {
+  "name": "Unidentified",
+  "role": "Unidentified - SAU 6 administrator speaking on academic initiatives and principal qualities (possibly the curriculum director referred to as Mary Ellen, uncertain)"
+ },
+ "Speaker 6": {
+  "name": "Michael Petrin",
+  "role": "Claremont School Board member; SAU 6 Board Chair"
+ },
+ "Speaker 7": {
+  "name": "Steven Horsky",
+  "role": "Claremont School Board member"
+ },
+ "Speaker 8": {
+  "name": "Nicholas Stone",
+  "role": "Claremont School Board member"
+ },
+ "Speaker 9": {
+  "name": "Unidentified",
+  "role": "Unidentified - single remark 'I'll make it work'"
+ },
+ "__overrides__": {
+  "2": {
+   "name": "Mary Woodman",
+   "role": "School district clerk and recording secretary"
+  },
+  "4": {
+   "name": "Mary Woodman",
+   "role": "School district clerk and recording secretary"
+  },
+  "5": {
+   "name": "Mary Woodman",
+   "role": "School district clerk and recording secretary"
+  },
+  "11": {
+   "name": "Unidentified",
+   "role": "Unidentified - board member moving approval of the 11/3/2021 minutes; diarized with the superintendent's voice"
+  },
+  "13": {
+   "name": "Steven Horsky",
+   "role": "Claremont School Board member"
+  },
+  "141": {
+   "name": "Richard Seaman",
+   "role": "Assistant Superintendent for Finance, SAU 6"
+  },
+  "143": {
+   "name": "Richard Seaman",
+   "role": "Assistant Superintendent for Finance, SAU 6"
+  },
+  "144": {
+   "name": "Richard Seaman",
+   "role": "Assistant Superintendent for Finance, SAU 6"
+  },
+  "146": {
+   "name": "Richard Seaman",
+   "role": "Assistant Superintendent for Finance, SAU 6"
+  },
+  "148": {
+   "name": "Richard Seaman",
+   "role": "Assistant Superintendent for Finance, SAU 6"
+  },
+  "150": {
+   "name": "Richard Seaman",
+   "role": "Assistant Superintendent for Finance, SAU 6"
+  },
+  "152": {
+   "name": "Richard Seaman",
+   "role": "Assistant Superintendent for Finance, SAU 6"
+  },
+  "154": {
+   "name": "Richard Seaman",
+   "role": "Assistant Superintendent for Finance, SAU 6"
+  },
+  "156": {
+   "name": "Richard Seaman",
+   "role": "Assistant Superintendent for Finance, SAU 6"
+  },
+  "160": {
+   "name": "Richard Seaman",
+   "role": "Assistant Superintendent for Finance, SAU 6"
+  },
+  "162": {
+   "name": "Richard Seaman",
+   "role": "Assistant Superintendent for Finance, SAU 6"
+  },
+  "165": {
+   "name": "Richard Seaman",
+   "role": "Assistant Superintendent for Finance, SAU 6"
+  }
+ }
+}

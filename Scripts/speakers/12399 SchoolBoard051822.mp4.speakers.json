@@ -1,0 +1,594 @@
+{
+ "Speaker 1": {
+  "name": "Michael Petrin",
+  "role": "Claremont School Board Chair (calls the meeting to order [1], answers roll 'Patron here' [7], runs agenda, recognitions and votes throughout; says the student rep Hannah is his daughter [32]; Nester addresses him as 'Michael' [409])"
+ },
+ "Speaker 2": {
+  "name": "Unidentified",
+  "role": "Unidentified - mixed cluster: pledge chorus [3], short acknowledgments, fragments of principals' presentations; see overrides"
+ },
+ "Speaker 3": {
+  "name": "Unidentified",
+  "role": "Unidentified - mixed cluster: roll-call reading, seconds, thank-yous, and two elementary principals' presentations; see overrides"
+ },
+ "Speaker 4": {
+  "name": "Michael Tempesta",
+  "role": "Superintendent, SAU 6 (delivers the superintendent's report [48-63] and bullying parent group update [73-80]; Bluff principal refers to 'Superintendent Vesta' [271] and Disnard principal to 'Superintendent Tempesta' [322] recalling his report)"
+ },
+ "Speaker 5": {
+  "name": "Candace Crawford",
+  "role": "Public commenter, Ward 2 (self-ID at the mic, ASR 'Candy Crawford for two' [23]; spelling as heard)"
+ },
+ "Speaker 6": {
+  "name": "Hannah",
+  "role": "Student representative to the Claremont School Board (introduced by the chair as the new student rep Hannah [32-34], his daughter; surname not stated)"
+ },
+ "Speaker 7": {
+  "name": "Whitney Skillen",
+  "role": "Claremont School Board member (medium - chair: 'I've got Whitney and then Steven' [233] before this voice's question [234]; the chair calls Heather Whitney 'Heather' [600])"
+ },
+ "Speaker 8": {
+  "name": "Steven Horsky",
+  "role": "Claremont School Board member (chair recognizes 'Stephen.' [442] and 'Steven' [233], [281] before this voice; Nester answers 'Steve' [446]; chair: 'motion by Steven' [600] after this voice moves to adjourn [599])"
+ },
+ "Speaker 9": {
+  "name": "Unidentified",
+  "role": "Unidentified - short acknowledgments from several voices; Frank Sprague segments reassigned by override"
+ },
+ "Speaker 10": {
+  "name": "Chris Pratt",
+  "role": "Incoming Stevens High School principal (superintendent: 'I hand it off to Chris Pratt' [80]; presents restorative practices [84-184]; Disnard principal refers to 'Principal Pratt's presentation' [300])"
+ },
+ "Speaker 11": {
+  "name": "Unidentified",
+  "role": "Unidentified - adult voice in the restorative practices demonstration video played at the meeting [114-172]"
+ },
+ "Speaker 12": {
+  "name": "Unidentified",
+  "role": "Unidentified - student voice ('Jack') in the demonstration video [116-171], plus a stray 'Thank you' [387]"
+ },
+ "Speaker 13": {
+  "name": "Unidentified",
+  "role": "Unidentified - student voice ('Amy') in the demonstration video [149-161]"
+ },
+ "Speaker 14": {
+  "name": "Richard Seaman",
+  "role": "Assistant Superintendent for Finance, SAU 6 (chair asked 'Richard' to report on the lunch program [9-10], [480] and this voice gives it [482-529]; chair: 'as Richard described' [547]; see overrides for Frank Sprague segments merged into this cluster)"
+ },
+ "Speaker 15": {
+  "name": "Chris Pratt",
+  "role": "Incoming Stevens High School principal (second cluster: answers the chair's training-timeline questions [226-238] continuing the restorative practices presentation)"
+ },
+ "Speaker 16": {
+  "name": "Melissa Lewis",
+  "role": "Principal, Disnard Elementary School (presents 'Dessner' (Disnard) [288-340]; Maple principal: 'As Principal Lewis just mentioned' [359]; first name from roster ET-2020-12-14, not stated on the record; see overrides for Nicole Boynton)"
+ },
+ "Speaker 17": {
+  "name": "Unidentified",
+  "role": "Unidentified - single remark after the Maple presentation [389]"
+ },
+ "Speaker 18": {
+  "name": "Unidentified",
+  "role": "Unidentified - Claremont School Board member asking about the PRIDE program and middle school [454], [470-471] and free-lunch paperwork [546], [551] (possibly Heather Whitney or Joshua Lambert, uncertain - no name cue)"
+ },
+ "Speaker 19": {
+  "name": "Ben Nester",
+  "role": "Director of Special Education, SAU 6 (chair: 'Mister Nestor. Update on the special ed programs' [397] before this voice presents [407-473])"
+ },
+ "Speaker 20": {
+  "name": "Bonnie Miles",
+  "role": "Claremont School Board member (chair: 'Start on this one with Bonnie' [570] before this voice [572]; 'being new to this group' [545])"
+ },
+ "Speaker 21": {
+  "name": "Joshua Lambert",
+  "role": "Claremont School Board member (chair recognizes 'Joshua.' [583] immediately before this voice [584])"
+ },
+ "__overrides__": {
+  "6": {
+   "name": "Melissa Small",
+   "role": "SAU administrative assistant, taking the roll call (chair: 'Melissa, can we have a roll call, please?' [5])"
+  },
+  "8": {
+   "name": "Melissa Small",
+   "role": "SAU administrative assistant, taking the roll call (chair: 'Melissa, can we have a roll call, please?' [5])"
+  },
+  "12": {
+   "name": "Steven Horsky",
+   "role": "Claremont School Board member (chair recognizes 'Steve.' [11] immediately before this motion; merged into the superintendent's cluster)"
+  },
+  "14": {
+   "name": "Steven Horsky",
+   "role": "Claremont School Board member (chair recognizes 'Steve.' [11] immediately before this motion; merged into the superintendent's cluster)"
+  },
+  "16": {
+   "name": "Steven Horsky",
+   "role": "Claremont School Board member (chair recognizes 'Steve.' [11] immediately before this motion; merged into the superintendent's cluster)"
+  },
+  "197": {
+   "name": "Steven Horsky",
+   "role": "Claremont School Board member (fragment of Horsky's own sentence merged into another cluster; [533] continues at [534])"
+  },
+  "533": {
+   "name": "Steven Horsky",
+   "role": "Claremont School Board member (fragment of Horsky's own sentence merged into another cluster; [533] continues at [534])"
+  },
+  "185": {
+   "name": "Heather Whitney",
+   "role": "Claremont School Board Vice Chair (Frank Sprague: 'piggyback on what Heather was talking about' [209] referring to the victim-participation question [186]; [185] is its onset)"
+  },
+  "186": {
+   "name": "Heather Whitney",
+   "role": "Claremont School Board Vice Chair (Frank Sprague: 'piggyback on what Heather was talking about' [209] referring to the victim-participation question [186]; [185] is its onset)"
+  },
+  "189": {
+   "name": "Heather Whitney",
+   "role": "Claremont School Board Vice Chair (Frank Sprague: 'piggyback on what Heather was talking about' [209] referring to the victim-participation question [186]; [185] is its onset)"
+  },
+  "245": {
+   "name": "Baker",
+   "role": "Principal, Bluff Elementary School (presents Bluff's year [245-285]; Horsky: 'Miss Baker, did you happen to get the... pig's name' [282]; Disnard principal: 'just as Principal Baker spoke' [290]; first name not stated)"
+  },
+  "246": {
+   "name": "Baker",
+   "role": "Principal, Bluff Elementary School (presents Bluff's year [245-285]; Horsky: 'Miss Baker, did you happen to get the... pig's name' [282]; Disnard principal: 'just as Principal Baker spoke' [290]; first name not stated)"
+  },
+  "247": {
+   "name": "Baker",
+   "role": "Principal, Bluff Elementary School (presents Bluff's year [245-285]; Horsky: 'Miss Baker, did you happen to get the... pig's name' [282]; Disnard principal: 'just as Principal Baker spoke' [290]; first name not stated)"
+  },
+  "248": {
+   "name": "Baker",
+   "role": "Principal, Bluff Elementary School (presents Bluff's year [245-285]; Horsky: 'Miss Baker, did you happen to get the... pig's name' [282]; Disnard principal: 'just as Principal Baker spoke' [290]; first name not stated)"
+  },
+  "249": {
+   "name": "Baker",
+   "role": "Principal, Bluff Elementary School (presents Bluff's year [245-285]; Horsky: 'Miss Baker, did you happen to get the... pig's name' [282]; Disnard principal: 'just as Principal Baker spoke' [290]; first name not stated)"
+  },
+  "250": {
+   "name": "Baker",
+   "role": "Principal, Bluff Elementary School (presents Bluff's year [245-285]; Horsky: 'Miss Baker, did you happen to get the... pig's name' [282]; Disnard principal: 'just as Principal Baker spoke' [290]; first name not stated)"
+  },
+  "251": {
+   "name": "Baker",
+   "role": "Principal, Bluff Elementary School (presents Bluff's year [245-285]; Horsky: 'Miss Baker, did you happen to get the... pig's name' [282]; Disnard principal: 'just as Principal Baker spoke' [290]; first name not stated)"
+  },
+  "252": {
+   "name": "Baker",
+   "role": "Principal, Bluff Elementary School (presents Bluff's year [245-285]; Horsky: 'Miss Baker, did you happen to get the... pig's name' [282]; Disnard principal: 'just as Principal Baker spoke' [290]; first name not stated)"
+  },
+  "253": {
+   "name": "Baker",
+   "role": "Principal, Bluff Elementary School (presents Bluff's year [245-285]; Horsky: 'Miss Baker, did you happen to get the... pig's name' [282]; Disnard principal: 'just as Principal Baker spoke' [290]; first name not stated)"
+  },
+  "255": {
+   "name": "Baker",
+   "role": "Principal, Bluff Elementary School (presents Bluff's year [245-285]; Horsky: 'Miss Baker, did you happen to get the... pig's name' [282]; Disnard principal: 'just as Principal Baker spoke' [290]; first name not stated)"
+  },
+  "256": {
+   "name": "Baker",
+   "role": "Principal, Bluff Elementary School (presents Bluff's year [245-285]; Horsky: 'Miss Baker, did you happen to get the... pig's name' [282]; Disnard principal: 'just as Principal Baker spoke' [290]; first name not stated)"
+  },
+  "257": {
+   "name": "Baker",
+   "role": "Principal, Bluff Elementary School (presents Bluff's year [245-285]; Horsky: 'Miss Baker, did you happen to get the... pig's name' [282]; Disnard principal: 'just as Principal Baker spoke' [290]; first name not stated)"
+  },
+  "258": {
+   "name": "Baker",
+   "role": "Principal, Bluff Elementary School (presents Bluff's year [245-285]; Horsky: 'Miss Baker, did you happen to get the... pig's name' [282]; Disnard principal: 'just as Principal Baker spoke' [290]; first name not stated)"
+  },
+  "259": {
+   "name": "Baker",
+   "role": "Principal, Bluff Elementary School (presents Bluff's year [245-285]; Horsky: 'Miss Baker, did you happen to get the... pig's name' [282]; Disnard principal: 'just as Principal Baker spoke' [290]; first name not stated)"
+  },
+  "260": {
+   "name": "Baker",
+   "role": "Principal, Bluff Elementary School (presents Bluff's year [245-285]; Horsky: 'Miss Baker, did you happen to get the... pig's name' [282]; Disnard principal: 'just as Principal Baker spoke' [290]; first name not stated)"
+  },
+  "261": {
+   "name": "Baker",
+   "role": "Principal, Bluff Elementary School (presents Bluff's year [245-285]; Horsky: 'Miss Baker, did you happen to get the... pig's name' [282]; Disnard principal: 'just as Principal Baker spoke' [290]; first name not stated)"
+  },
+  "262": {
+   "name": "Baker",
+   "role": "Principal, Bluff Elementary School (presents Bluff's year [245-285]; Horsky: 'Miss Baker, did you happen to get the... pig's name' [282]; Disnard principal: 'just as Principal Baker spoke' [290]; first name not stated)"
+  },
+  "263": {
+   "name": "Baker",
+   "role": "Principal, Bluff Elementary School (presents Bluff's year [245-285]; Horsky: 'Miss Baker, did you happen to get the... pig's name' [282]; Disnard principal: 'just as Principal Baker spoke' [290]; first name not stated)"
+  },
+  "264": {
+   "name": "Baker",
+   "role": "Principal, Bluff Elementary School (presents Bluff's year [245-285]; Horsky: 'Miss Baker, did you happen to get the... pig's name' [282]; Disnard principal: 'just as Principal Baker spoke' [290]; first name not stated)"
+  },
+  "265": {
+   "name": "Baker",
+   "role": "Principal, Bluff Elementary School (presents Bluff's year [245-285]; Horsky: 'Miss Baker, did you happen to get the... pig's name' [282]; Disnard principal: 'just as Principal Baker spoke' [290]; first name not stated)"
+  },
+  "266": {
+   "name": "Baker",
+   "role": "Principal, Bluff Elementary School (presents Bluff's year [245-285]; Horsky: 'Miss Baker, did you happen to get the... pig's name' [282]; Disnard principal: 'just as Principal Baker spoke' [290]; first name not stated)"
+  },
+  "267": {
+   "name": "Baker",
+   "role": "Principal, Bluff Elementary School (presents Bluff's year [245-285]; Horsky: 'Miss Baker, did you happen to get the... pig's name' [282]; Disnard principal: 'just as Principal Baker spoke' [290]; first name not stated)"
+  },
+  "268": {
+   "name": "Baker",
+   "role": "Principal, Bluff Elementary School (presents Bluff's year [245-285]; Horsky: 'Miss Baker, did you happen to get the... pig's name' [282]; Disnard principal: 'just as Principal Baker spoke' [290]; first name not stated)"
+  },
+  "269": {
+   "name": "Baker",
+   "role": "Principal, Bluff Elementary School (presents Bluff's year [245-285]; Horsky: 'Miss Baker, did you happen to get the... pig's name' [282]; Disnard principal: 'just as Principal Baker spoke' [290]; first name not stated)"
+  },
+  "271": {
+   "name": "Baker",
+   "role": "Principal, Bluff Elementary School (presents Bluff's year [245-285]; Horsky: 'Miss Baker, did you happen to get the... pig's name' [282]; Disnard principal: 'just as Principal Baker spoke' [290]; first name not stated)"
+  },
+  "272": {
+   "name": "Baker",
+   "role": "Principal, Bluff Elementary School (presents Bluff's year [245-285]; Horsky: 'Miss Baker, did you happen to get the... pig's name' [282]; Disnard principal: 'just as Principal Baker spoke' [290]; first name not stated)"
+  },
+  "273": {
+   "name": "Baker",
+   "role": "Principal, Bluff Elementary School (presents Bluff's year [245-285]; Horsky: 'Miss Baker, did you happen to get the... pig's name' [282]; Disnard principal: 'just as Principal Baker spoke' [290]; first name not stated)"
+  },
+  "274": {
+   "name": "Baker",
+   "role": "Principal, Bluff Elementary School (presents Bluff's year [245-285]; Horsky: 'Miss Baker, did you happen to get the... pig's name' [282]; Disnard principal: 'just as Principal Baker spoke' [290]; first name not stated)"
+  },
+  "275": {
+   "name": "Baker",
+   "role": "Principal, Bluff Elementary School (presents Bluff's year [245-285]; Horsky: 'Miss Baker, did you happen to get the... pig's name' [282]; Disnard principal: 'just as Principal Baker spoke' [290]; first name not stated)"
+  },
+  "276": {
+   "name": "Baker",
+   "role": "Principal, Bluff Elementary School (presents Bluff's year [245-285]; Horsky: 'Miss Baker, did you happen to get the... pig's name' [282]; Disnard principal: 'just as Principal Baker spoke' [290]; first name not stated)"
+  },
+  "277": {
+   "name": "Baker",
+   "role": "Principal, Bluff Elementary School (presents Bluff's year [245-285]; Horsky: 'Miss Baker, did you happen to get the... pig's name' [282]; Disnard principal: 'just as Principal Baker spoke' [290]; first name not stated)"
+  },
+  "278": {
+   "name": "Baker",
+   "role": "Principal, Bluff Elementary School (presents Bluff's year [245-285]; Horsky: 'Miss Baker, did you happen to get the... pig's name' [282]; Disnard principal: 'just as Principal Baker spoke' [290]; first name not stated)"
+  },
+  "279": {
+   "name": "Baker",
+   "role": "Principal, Bluff Elementary School (presents Bluff's year [245-285]; Horsky: 'Miss Baker, did you happen to get the... pig's name' [282]; Disnard principal: 'just as Principal Baker spoke' [290]; first name not stated)"
+  },
+  "283": {
+   "name": "Baker",
+   "role": "Principal, Bluff Elementary School (presents Bluff's year [245-285]; Horsky: 'Miss Baker, did you happen to get the... pig's name' [282]; Disnard principal: 'just as Principal Baker spoke' [290]; first name not stated)"
+  },
+  "285": {
+   "name": "Baker",
+   "role": "Principal, Bluff Elementary School (presents Bluff's year [245-285]; Horsky: 'Miss Baker, did you happen to get the... pig's name' [282]; Disnard principal: 'just as Principal Baker spoke' [290]; first name not stated)"
+  },
+  "345": {
+   "name": "Unidentified",
+   "role": "Unidentified - Principal, Maple Avenue Elementary School (presents Maple's year [345-385]; name not stated on the record)"
+  },
+  "347": {
+   "name": "Unidentified",
+   "role": "Unidentified - Principal, Maple Avenue Elementary School (presents Maple's year [345-385]; name not stated on the record)"
+  },
+  "349": {
+   "name": "Unidentified",
+   "role": "Unidentified - Principal, Maple Avenue Elementary School (presents Maple's year [345-385]; name not stated on the record)"
+  },
+  "351": {
+   "name": "Unidentified",
+   "role": "Unidentified - Principal, Maple Avenue Elementary School (presents Maple's year [345-385]; name not stated on the record)"
+  },
+  "353": {
+   "name": "Unidentified",
+   "role": "Unidentified - Principal, Maple Avenue Elementary School (presents Maple's year [345-385]; name not stated on the record)"
+  },
+  "348": {
+   "name": "Unidentified",
+   "role": "Unidentified - Principal, Maple Avenue Elementary School (presents Maple's year [345-385]; name not stated on the record)"
+  },
+  "350": {
+   "name": "Unidentified",
+   "role": "Unidentified - Principal, Maple Avenue Elementary School (presents Maple's year [345-385]; name not stated on the record)"
+  },
+  "352": {
+   "name": "Unidentified",
+   "role": "Unidentified - Principal, Maple Avenue Elementary School (presents Maple's year [345-385]; name not stated on the record)"
+  },
+  "354": {
+   "name": "Unidentified",
+   "role": "Unidentified - Principal, Maple Avenue Elementary School (presents Maple's year [345-385]; name not stated on the record)"
+  },
+  "355": {
+   "name": "Unidentified",
+   "role": "Unidentified - Principal, Maple Avenue Elementary School (presents Maple's year [345-385]; name not stated on the record)"
+  },
+  "356": {
+   "name": "Unidentified",
+   "role": "Unidentified - Principal, Maple Avenue Elementary School (presents Maple's year [345-385]; name not stated on the record)"
+  },
+  "357": {
+   "name": "Unidentified",
+   "role": "Unidentified - Principal, Maple Avenue Elementary School (presents Maple's year [345-385]; name not stated on the record)"
+  },
+  "358": {
+   "name": "Unidentified",
+   "role": "Unidentified - Principal, Maple Avenue Elementary School (presents Maple's year [345-385]; name not stated on the record)"
+  },
+  "359": {
+   "name": "Unidentified",
+   "role": "Unidentified - Principal, Maple Avenue Elementary School (presents Maple's year [345-385]; name not stated on the record)"
+  },
+  "360": {
+   "name": "Unidentified",
+   "role": "Unidentified - Principal, Maple Avenue Elementary School (presents Maple's year [345-385]; name not stated on the record)"
+  },
+  "361": {
+   "name": "Unidentified",
+   "role": "Unidentified - Principal, Maple Avenue Elementary School (presents Maple's year [345-385]; name not stated on the record)"
+  },
+  "362": {
+   "name": "Unidentified",
+   "role": "Unidentified - Principal, Maple Avenue Elementary School (presents Maple's year [345-385]; name not stated on the record)"
+  },
+  "363": {
+   "name": "Unidentified",
+   "role": "Unidentified - Principal, Maple Avenue Elementary School (presents Maple's year [345-385]; name not stated on the record)"
+  },
+  "364": {
+   "name": "Unidentified",
+   "role": "Unidentified - Principal, Maple Avenue Elementary School (presents Maple's year [345-385]; name not stated on the record)"
+  },
+  "365": {
+   "name": "Unidentified",
+   "role": "Unidentified - Principal, Maple Avenue Elementary School (presents Maple's year [345-385]; name not stated on the record)"
+  },
+  "366": {
+   "name": "Unidentified",
+   "role": "Unidentified - Principal, Maple Avenue Elementary School (presents Maple's year [345-385]; name not stated on the record)"
+  },
+  "367": {
+   "name": "Unidentified",
+   "role": "Unidentified - Principal, Maple Avenue Elementary School (presents Maple's year [345-385]; name not stated on the record)"
+  },
+  "368": {
+   "name": "Unidentified",
+   "role": "Unidentified - Principal, Maple Avenue Elementary School (presents Maple's year [345-385]; name not stated on the record)"
+  },
+  "369": {
+   "name": "Unidentified",
+   "role": "Unidentified - Principal, Maple Avenue Elementary School (presents Maple's year [345-385]; name not stated on the record)"
+  },
+  "370": {
+   "name": "Unidentified",
+   "role": "Unidentified - Principal, Maple Avenue Elementary School (presents Maple's year [345-385]; name not stated on the record)"
+  },
+  "371": {
+   "name": "Unidentified",
+   "role": "Unidentified - Principal, Maple Avenue Elementary School (presents Maple's year [345-385]; name not stated on the record)"
+  },
+  "372": {
+   "name": "Unidentified",
+   "role": "Unidentified - Principal, Maple Avenue Elementary School (presents Maple's year [345-385]; name not stated on the record)"
+  },
+  "373": {
+   "name": "Unidentified",
+   "role": "Unidentified - Principal, Maple Avenue Elementary School (presents Maple's year [345-385]; name not stated on the record)"
+  },
+  "374": {
+   "name": "Unidentified",
+   "role": "Unidentified - Principal, Maple Avenue Elementary School (presents Maple's year [345-385]; name not stated on the record)"
+  },
+  "375": {
+   "name": "Unidentified",
+   "role": "Unidentified - Principal, Maple Avenue Elementary School (presents Maple's year [345-385]; name not stated on the record)"
+  },
+  "376": {
+   "name": "Unidentified",
+   "role": "Unidentified - Principal, Maple Avenue Elementary School (presents Maple's year [345-385]; name not stated on the record)"
+  },
+  "377": {
+   "name": "Unidentified",
+   "role": "Unidentified - Principal, Maple Avenue Elementary School (presents Maple's year [345-385]; name not stated on the record)"
+  },
+  "378": {
+   "name": "Unidentified",
+   "role": "Unidentified - Principal, Maple Avenue Elementary School (presents Maple's year [345-385]; name not stated on the record)"
+  },
+  "379": {
+   "name": "Unidentified",
+   "role": "Unidentified - Principal, Maple Avenue Elementary School (presents Maple's year [345-385]; name not stated on the record)"
+  },
+  "380": {
+   "name": "Unidentified",
+   "role": "Unidentified - Principal, Maple Avenue Elementary School (presents Maple's year [345-385]; name not stated on the record)"
+  },
+  "381": {
+   "name": "Unidentified",
+   "role": "Unidentified - Principal, Maple Avenue Elementary School (presents Maple's year [345-385]; name not stated on the record)"
+  },
+  "382": {
+   "name": "Unidentified",
+   "role": "Unidentified - Principal, Maple Avenue Elementary School (presents Maple's year [345-385]; name not stated on the record)"
+  },
+  "383": {
+   "name": "Unidentified",
+   "role": "Unidentified - Principal, Maple Avenue Elementary School (presents Maple's year [345-385]; name not stated on the record)"
+  },
+  "384": {
+   "name": "Unidentified",
+   "role": "Unidentified - Principal, Maple Avenue Elementary School (presents Maple's year [345-385]; name not stated on the record)"
+  },
+  "385": {
+   "name": "Unidentified",
+   "role": "Unidentified - Principal, Maple Avenue Elementary School (presents Maple's year [345-385]; name not stated on the record)"
+  },
+  "304": {
+   "name": "Nicole Boynton",
+   "role": "Student services coordinator, Disnard Elementary School (medium - introduced by Principal Lewis [288]; Lewis: 'I'll let Nicole talk about that one' [303] and 'I'm going to let her explain this' [326] before these segments; merged into Lewis's cluster)"
+  },
+  "305": {
+   "name": "Nicole Boynton",
+   "role": "Student services coordinator, Disnard Elementary School (medium - introduced by Principal Lewis [288]; Lewis: 'I'll let Nicole talk about that one' [303] and 'I'm going to let her explain this' [326] before these segments; merged into Lewis's cluster)"
+  },
+  "306": {
+   "name": "Nicole Boynton",
+   "role": "Student services coordinator, Disnard Elementary School (medium - introduced by Principal Lewis [288]; Lewis: 'I'll let Nicole talk about that one' [303] and 'I'm going to let her explain this' [326] before these segments; merged into Lewis's cluster)"
+  },
+  "307": {
+   "name": "Nicole Boynton",
+   "role": "Student services coordinator, Disnard Elementary School (medium - introduced by Principal Lewis [288]; Lewis: 'I'll let Nicole talk about that one' [303] and 'I'm going to let her explain this' [326] before these segments; merged into Lewis's cluster)"
+  },
+  "328": {
+   "name": "Nicole Boynton",
+   "role": "Student services coordinator, Disnard Elementary School (medium - introduced by Principal Lewis [288]; Lewis: 'I'll let Nicole talk about that one' [303] and 'I'm going to let her explain this' [326] before these segments; merged into Lewis's cluster)"
+  },
+  "329": {
+   "name": "Nicole Boynton",
+   "role": "Student services coordinator, Disnard Elementary School (medium - introduced by Principal Lewis [288]; Lewis: 'I'll let Nicole talk about that one' [303] and 'I'm going to let her explain this' [326] before these segments; merged into Lewis's cluster)"
+  },
+  "225": {
+   "name": "Chris Pratt",
+   "role": "Incoming Stevens High School principal (onset 'And my crystal ball' of Pratt's answer continued at [226])"
+  },
+  "399": {
+   "name": "Ben Nester",
+   "role": "Director of Special Education, SAU 6 (fragments of Nester's own sentences merged into another cluster)"
+  },
+  "405": {
+   "name": "Ben Nester",
+   "role": "Director of Special Education, SAU 6 (fragments of Nester's own sentences merged into another cluster)"
+  },
+  "460": {
+   "name": "Ben Nester",
+   "role": "Director of Special Education, SAU 6 (fragments of Nester's own sentences merged into another cluster)"
+  },
+  "204": {
+   "name": "Frank Sprague",
+   "role": "Claremont School Board member (chair: 'I got Frank and then Steve' [430] before [431]; Nester answers 'Frank' [440]; Seaman answers 'Frank' [510] after [499-509]; chair: 'Frankly (Frank), did you have something' [587]; [411] uncertain; merged into Seaman's cluster)"
+  },
+  "205": {
+   "name": "Frank Sprague",
+   "role": "Claremont School Board member (chair: 'I got Frank and then Steve' [430] before [431]; Nester answers 'Frank' [440]; Seaman answers 'Frank' [510] after [499-509]; chair: 'Frankly (Frank), did you have something' [587]; [411] uncertain; merged into Seaman's cluster)"
+  },
+  "209": {
+   "name": "Frank Sprague",
+   "role": "Claremont School Board member (chair: 'I got Frank and then Steve' [430] before [431]; Nester answers 'Frank' [440]; Seaman answers 'Frank' [510] after [499-509]; chair: 'Frankly (Frank), did you have something' [587]; [411] uncertain; merged into Seaman's cluster)"
+  },
+  "212": {
+   "name": "Frank Sprague",
+   "role": "Claremont School Board member (chair: 'I got Frank and then Steve' [430] before [431]; Nester answers 'Frank' [440]; Seaman answers 'Frank' [510] after [499-509]; chair: 'Frankly (Frank), did you have something' [587]; [411] uncertain; merged into Seaman's cluster)"
+  },
+  "217": {
+   "name": "Frank Sprague",
+   "role": "Claremont School Board member (chair: 'I got Frank and then Steve' [430] before [431]; Nester answers 'Frank' [440]; Seaman answers 'Frank' [510] after [499-509]; chair: 'Frankly (Frank), did you have something' [587]; [411] uncertain; merged into Seaman's cluster)"
+  },
+  "411": {
+   "name": "Frank Sprague",
+   "role": "Claremont School Board member (chair: 'I got Frank and then Steve' [430] before [431]; Nester answers 'Frank' [440]; Seaman answers 'Frank' [510] after [499-509]; chair: 'Frankly (Frank), did you have something' [587]; [411] uncertain; merged into Seaman's cluster)"
+  },
+  "431": {
+   "name": "Frank Sprague",
+   "role": "Claremont School Board member (chair: 'I got Frank and then Steve' [430] before [431]; Nester answers 'Frank' [440]; Seaman answers 'Frank' [510] after [499-509]; chair: 'Frankly (Frank), did you have something' [587]; [411] uncertain; merged into Seaman's cluster)"
+  },
+  "435": {
+   "name": "Frank Sprague",
+   "role": "Claremont School Board member (chair: 'I got Frank and then Steve' [430] before [431]; Nester answers 'Frank' [440]; Seaman answers 'Frank' [510] after [499-509]; chair: 'Frankly (Frank), did you have something' [587]; [411] uncertain; merged into Seaman's cluster)"
+  },
+  "458": {
+   "name": "Frank Sprague",
+   "role": "Claremont School Board member (chair: 'I got Frank and then Steve' [430] before [431]; Nester answers 'Frank' [440]; Seaman answers 'Frank' [510] after [499-509]; chair: 'Frankly (Frank), did you have something' [587]; [411] uncertain; merged into Seaman's cluster)"
+  },
+  "462": {
+   "name": "Frank Sprague",
+   "role": "Claremont School Board member (chair: 'I got Frank and then Steve' [430] before [431]; Nester answers 'Frank' [440]; Seaman answers 'Frank' [510] after [499-509]; chair: 'Frankly (Frank), did you have something' [587]; [411] uncertain; merged into Seaman's cluster)"
+  },
+  "465": {
+   "name": "Frank Sprague",
+   "role": "Claremont School Board member (chair: 'I got Frank and then Steve' [430] before [431]; Nester answers 'Frank' [440]; Seaman answers 'Frank' [510] after [499-509]; chair: 'Frankly (Frank), did you have something' [587]; [411] uncertain; merged into Seaman's cluster)"
+  },
+  "467": {
+   "name": "Frank Sprague",
+   "role": "Claremont School Board member (chair: 'I got Frank and then Steve' [430] before [431]; Nester answers 'Frank' [440]; Seaman answers 'Frank' [510] after [499-509]; chair: 'Frankly (Frank), did you have something' [587]; [411] uncertain; merged into Seaman's cluster)"
+  },
+  "500": {
+   "name": "Frank Sprague",
+   "role": "Claremont School Board member (chair: 'I got Frank and then Steve' [430] before [431]; Nester answers 'Frank' [440]; Seaman answers 'Frank' [510] after [499-509]; chair: 'Frankly (Frank), did you have something' [587]; [411] uncertain; merged into Seaman's cluster)"
+  },
+  "502": {
+   "name": "Frank Sprague",
+   "role": "Claremont School Board member (chair: 'I got Frank and then Steve' [430] before [431]; Nester answers 'Frank' [440]; Seaman answers 'Frank' [510] after [499-509]; chair: 'Frankly (Frank), did you have something' [587]; [411] uncertain; merged into Seaman's cluster)"
+  },
+  "504": {
+   "name": "Frank Sprague",
+   "role": "Claremont School Board member (chair: 'I got Frank and then Steve' [430] before [431]; Nester answers 'Frank' [440]; Seaman answers 'Frank' [510] after [499-509]; chair: 'Frankly (Frank), did you have something' [587]; [411] uncertain; merged into Seaman's cluster)"
+  },
+  "506": {
+   "name": "Frank Sprague",
+   "role": "Claremont School Board member (chair: 'I got Frank and then Steve' [430] before [431]; Nester answers 'Frank' [440]; Seaman answers 'Frank' [510] after [499-509]; chair: 'Frankly (Frank), did you have something' [587]; [411] uncertain; merged into Seaman's cluster)"
+  },
+  "509": {
+   "name": "Frank Sprague",
+   "role": "Claremont School Board member (chair: 'I got Frank and then Steve' [430] before [431]; Nester answers 'Frank' [440]; Seaman answers 'Frank' [510] after [499-509]; chair: 'Frankly (Frank), did you have something' [587]; [411] uncertain; merged into Seaman's cluster)"
+  },
+  "588": {
+   "name": "Frank Sprague",
+   "role": "Claremont School Board member (chair: 'I got Frank and then Steve' [430] before [431]; Nester answers 'Frank' [440]; Seaman answers 'Frank' [510] after [499-509]; chair: 'Frankly (Frank), did you have something' [587]; [411] uncertain; merged into Seaman's cluster)"
+  },
+  "499": {
+   "name": "Frank Sprague",
+   "role": "Claremont School Board member (alternating fragments of the same remark as [500-509], answered by Seaman 'Frank' [510])"
+  },
+  "501": {
+   "name": "Frank Sprague",
+   "role": "Claremont School Board member (alternating fragments of the same remark as [500-509], answered by Seaman 'Frank' [510])"
+  },
+  "503": {
+   "name": "Frank Sprague",
+   "role": "Claremont School Board member (alternating fragments of the same remark as [500-509], answered by Seaman 'Frank' [510])"
+  },
+  "505": {
+   "name": "Frank Sprague",
+   "role": "Claremont School Board member (alternating fragments of the same remark as [500-509], answered by Seaman 'Frank' [510])"
+  },
+  "507": {
+   "name": "Frank Sprague",
+   "role": "Claremont School Board member (alternating fragments of the same remark as [500-509], answered by Seaman 'Frank' [510])"
+  },
+  "589": {
+   "name": "Frank Sprague",
+   "role": "Claremont School Board member (completes 'I just shoot [588] you emails')"
+  },
+  "515": {
+   "name": "Richard Seaman"
+  },
+  "517": {
+   "name": "Richard Seaman"
+  },
+  "402": {
+   "name": "Unidentified",
+   "role": "Unidentified - short interjection from a board member or audience member, no name cue"
+  },
+  "413": {
+   "name": "Unidentified",
+   "role": "Unidentified - short interjection from a board member or audience member, no name cue"
+  },
+  "403": {
+   "name": "Unidentified",
+   "role": "Unidentified - short interjection from a board member or audience member, no name cue"
+  },
+  "439": {
+   "name": "Unidentified",
+   "role": "Unidentified - short interjection from a board member or audience member, no name cue"
+  },
+  "571": {
+   "name": "Unidentified",
+   "role": "Unidentified - short interjection from a board member or audience member, no name cue"
+  },
+  "346": {
+   "name": "Unidentified",
+   "role": "Unidentified - short interjection from a board member or audience member, no name cue"
+  }
+ }
+}

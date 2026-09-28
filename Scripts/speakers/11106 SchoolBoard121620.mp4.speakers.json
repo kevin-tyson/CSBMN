@@ -1,0 +1,401 @@
+{
+ "Speaker 1": {
+  "name": "Michael Tempesta",
+  "role": "Superintendent, SAU 6 (cluster also carries the chair's opening and procedural segments before the superintendent's report; those are reassigned per segment)"
+ },
+ "Speaker 2": {
+  "name": "Unidentified",
+  "role": "Unidentified - cluster mixes clerk Mary Woodman's roll-call calls and Heather Whitney's remarks with short unattributable interjections; see overrides"
+ },
+ "Speaker 3": {
+  "name": "Michael Petrin",
+  "role": "Claremont School Board member"
+ },
+ "Speaker 4": {
+  "name": "Heather Whitney",
+  "role": "Claremont School Board member"
+ },
+ "Speaker 5": {
+  "name": "Prescott Herzog",
+  "role": "Student representative to the board (Stevens High School)"
+ },
+ "Speaker 6": {
+  "name": "Donna Magoon",
+  "role": "Assistant Superintendent, SAU 6"
+ },
+ "Speaker 7": {
+  "name": "Unidentified",
+  "role": "Unidentified - three short segments; [74] is the superintendent (reassigned)"
+ },
+ "Speaker 8": {
+  "name": "Unidentified",
+  "role": "Unidentified - single two-word interjection"
+ },
+ "Speaker 9": {
+  "name": "Unidentified",
+  "role": "Unidentified - cluster merges at least three male voices (Michael Petrin, Jason Benware and chair Frank Sprague's recognitions); separable segments reassigned per overrides"
+ },
+ "Speaker 10": {
+  "name": "Unidentified",
+  "role": "Unidentified - board member voice asking about the Goshen anchor-school vote (uncertain - possibly chair Frank Sprague) plus fragments of others' turns (reassigned)"
+ },
+ "Speaker 11": {
+  "name": "Rebecca Zullo",
+  "role": "Claremont School Board member (Vice Chair per roster; not stated on this recording); attending remotely"
+ },
+ "Speaker 12": {
+  "name": "Rebecca Zullo",
+  "role": "Claremont School Board member (Vice Chair per roster; not stated on this recording); attending remotely"
+ },
+ "Speaker 13": {
+  "name": "Ben Nester",
+  "role": "Director of Special Education, SAU 6"
+ },
+ "Speaker 14": {
+  "name": "Rob Lovett Jr.",
+  "role": "Claremont School Board member; attending remotely"
+ },
+ "Speaker 15": {
+  "name": "Frank Sprague",
+  "role": "Claremont School Board Chair"
+ },
+ "Speaker 16": {
+  "name": "Jason Benware",
+  "role": "Claremont School Board member (arrived late)"
+ },
+ "Speaker 17": {
+  "name": "Michael Tempesta",
+  "role": "Superintendent, SAU 6"
+ },
+ "Speaker 18": {
+  "name": "Carolyn Towle",
+  "role": "Claremont School Board member; attending remotely"
+ },
+ "Speaker 19": {
+  "name": "Unidentified",
+  "role": "Unidentified - single short interjection"
+ },
+ "__overrides__": {
+  "0": {
+   "name": "Frank Sprague",
+   "role": "Claremont School Board Chair"
+  },
+  "1": {
+   "name": "Frank Sprague",
+   "role": "Claremont School Board Chair"
+  },
+  "2": {
+   "name": "Frank Sprague",
+   "role": "Claremont School Board Chair"
+  },
+  "12": {
+   "name": "Frank Sprague",
+   "role": "Claremont School Board Chair"
+  },
+  "13": {
+   "name": "Frank Sprague",
+   "role": "Claremont School Board Chair"
+  },
+  "16": {
+   "name": "Frank Sprague",
+   "role": "Claremont School Board Chair"
+  },
+  "22": {
+   "name": "Frank Sprague",
+   "role": "Claremont School Board Chair"
+  },
+  "25": {
+   "name": "Frank Sprague",
+   "role": "Claremont School Board Chair"
+  },
+  "27": {
+   "name": "Frank Sprague",
+   "role": "Claremont School Board Chair"
+  },
+  "29": {
+   "name": "Frank Sprague",
+   "role": "Claremont School Board Chair"
+  },
+  "32": {
+   "name": "Frank Sprague",
+   "role": "Claremont School Board Chair"
+  },
+  "38": {
+   "name": "Frank Sprague",
+   "role": "Claremont School Board Chair"
+  },
+  "40": {
+   "name": "Frank Sprague",
+   "role": "Claremont School Board Chair"
+  },
+  "43": {
+   "name": "Frank Sprague",
+   "role": "Claremont School Board Chair"
+  },
+  "45": {
+   "name": "Frank Sprague",
+   "role": "Claremont School Board Chair"
+  },
+  "47": {
+   "name": "Frank Sprague",
+   "role": "Claremont School Board Chair"
+  },
+  "48": {
+   "name": "Frank Sprague",
+   "role": "Claremont School Board Chair"
+  },
+  "49": {
+   "name": "Frank Sprague",
+   "role": "Claremont School Board Chair"
+  },
+  "50": {
+   "name": "Frank Sprague",
+   "role": "Claremont School Board Chair"
+  },
+  "53": {
+   "name": "Frank Sprague",
+   "role": "Claremont School Board Chair"
+  },
+  "63": {
+   "name": "Frank Sprague",
+   "role": "Claremont School Board Chair"
+  },
+  "66": {
+   "name": "Frank Sprague",
+   "role": "Claremont School Board Chair"
+  },
+  "238": {
+   "name": "Frank Sprague",
+   "role": "Claremont School Board Chair"
+  },
+  "249": {
+   "name": "Frank Sprague",
+   "role": "Claremont School Board Chair"
+  },
+  "264": {
+   "name": "Frank Sprague",
+   "role": "Claremont School Board Chair"
+  },
+  "274": {
+   "name": "Frank Sprague",
+   "role": "Claremont School Board Chair"
+  },
+  "308": {
+   "name": "Frank Sprague",
+   "role": "Claremont School Board Chair"
+  },
+  "3": {
+   "name": "Unidentified",
+   "role": "Unidentified - roll-call answers merged into one segment"
+  },
+  "5": {
+   "name": "Unidentified",
+   "role": "Unidentified - roll-call answers merged into one segment"
+  },
+  "7": {
+   "name": "Unidentified",
+   "role": "Unidentified - roll-call answers merged into one segment"
+  },
+  "11": {
+   "name": "Unidentified",
+   "role": "Unidentified - roll-call answers merged into one segment"
+  },
+  "4": {
+   "name": "Mary Woodman",
+   "role": "School district clerk and board recording secretary (calls roll)"
+  },
+  "6": {
+   "name": "Mary Woodman",
+   "role": "School district clerk and board recording secretary (calls roll)"
+  },
+  "8": {
+   "name": "Mary Woodman",
+   "role": "School district clerk and board recording secretary (calls roll)"
+  },
+  "9": {
+   "name": "Mary Woodman",
+   "role": "School district clerk and board recording secretary (calls roll)"
+  },
+  "10": {
+   "name": "Mary Woodman",
+   "role": "School district clerk and board recording secretary (calls roll)"
+  },
+  "18": {
+   "name": "Mary Woodman",
+   "role": "School district clerk and board recording secretary (calls roll)"
+  },
+  "19": {
+   "name": "Mary Woodman",
+   "role": "School district clerk and board recording secretary (calls roll)"
+  },
+  "21": {
+   "name": "Mary Woodman",
+   "role": "School district clerk and board recording secretary (calls roll)"
+  },
+  "23": {
+   "name": "Mary Woodman",
+   "role": "School district clerk and board recording secretary (calls roll)"
+  },
+  "33": {
+   "name": "Mary Woodman",
+   "role": "School district clerk and board recording secretary (calls roll)"
+  },
+  "35": {
+   "name": "Mary Woodman",
+   "role": "School district clerk and board recording secretary (calls roll)"
+  },
+  "37": {
+   "name": "Mary Woodman",
+   "role": "School district clerk and board recording secretary (calls roll)"
+  },
+  "386": {
+   "name": "Mary Woodman",
+   "role": "School district clerk and board recording secretary (calls roll)"
+  },
+  "404": {
+   "name": "Mary Woodman",
+   "role": "School district clerk and board recording secretary (calls roll)"
+  },
+  "405": {
+   "name": "Mary Woodman",
+   "role": "School district clerk and board recording secretary (calls roll)"
+  },
+  "406": {
+   "name": "Mary Woodman",
+   "role": "School district clerk and board recording secretary (calls roll)"
+  },
+  "407": {
+   "name": "Mary Woodman",
+   "role": "School district clerk and board recording secretary (calls roll)"
+  },
+  "409": {
+   "name": "Mary Woodman",
+   "role": "School district clerk and board recording secretary (calls roll)"
+  },
+  "417": {
+   "name": "Mary Woodman",
+   "role": "School district clerk and board recording secretary (calls roll)"
+  },
+  "420": {
+   "name": "Mary Woodman",
+   "role": "School district clerk and board recording secretary (calls roll)"
+  },
+  "67": {
+   "name": "Michael Tempesta"
+  },
+  "69": {
+   "name": "Michael Tempesta"
+  },
+  "71": {
+   "name": "Michael Tempesta"
+  },
+  "74": {
+   "name": "Michael Tempesta"
+  },
+  "190": {
+   "name": "Michael Tempesta"
+  },
+  "103": {
+   "name": "Donna Magoon"
+  },
+  "210": {
+   "name": "Heather Whitney"
+  },
+  "212": {
+   "name": "Heather Whitney"
+  },
+  "214": {
+   "name": "Heather Whitney"
+  },
+  "217": {
+   "name": "Heather Whitney"
+  },
+  "219": {
+   "name": "Heather Whitney"
+  },
+  "220": {
+   "name": "Heather Whitney"
+  },
+  "221": {
+   "name": "Heather Whitney"
+  },
+  "222": {
+   "name": "Heather Whitney"
+  },
+  "340": {
+   "name": "Heather Whitney"
+  },
+  "350": {
+   "name": "Heather Whitney"
+  },
+  "401": {
+   "name": "Heather Whitney"
+  },
+  "120": {
+   "name": "Jason Benware"
+  },
+  "123": {
+   "name": "Jason Benware"
+  },
+  "125": {
+   "name": "Jason Benware"
+  },
+  "275": {
+   "name": "Jason Benware"
+  },
+  "276": {
+   "name": "Jason Benware"
+  },
+  "278": {
+   "name": "Jason Benware"
+  },
+  "280": {
+   "name": "Jason Benware"
+  },
+  "227": {
+   "name": "Michael Petrin"
+  },
+  "228": {
+   "name": "Michael Petrin"
+  },
+  "229": {
+   "name": "Michael Petrin"
+  },
+  "230": {
+   "name": "Michael Petrin"
+  },
+  "231": {
+   "name": "Michael Petrin"
+  },
+  "232": {
+   "name": "Michael Petrin"
+  },
+  "299": {
+   "name": "Michael Petrin"
+  },
+  "300": {
+   "name": "Michael Petrin"
+  },
+  "301": {
+   "name": "Michael Petrin"
+  },
+  "302": {
+   "name": "Michael Petrin"
+  },
+  "303": {
+   "name": "Michael Petrin"
+  },
+  "304": {
+   "name": "Michael Petrin"
+  },
+  "305": {
+   "name": "Michael Petrin"
+  },
+  "306": {
+   "name": "Michael Petrin"
+  },
+  "250": {
+   "name": "Prescott Herzog"
+  }
+ }
+}

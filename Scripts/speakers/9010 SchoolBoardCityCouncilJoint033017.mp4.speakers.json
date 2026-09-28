@@ -1,0 +1,442 @@
+{
+ "Speaker 1": {
+  "name": "Brian Rapp",
+  "role": "Claremont School Board Chair"
+ },
+ "Speaker 2": {
+  "name": "Charlene Lovett",
+  "role": "Mayor, City of Claremont (addressed 'Madam Mayor'; first and last name per roster)"
+ },
+ "Speaker 3": {
+  "name": "Ryan McNutt",
+  "role": "City Manager, City of Claremont"
+ },
+ "Speaker 4": {
+  "name": "Middleton McGoodwin",
+  "role": "Superintendent, SAU 6"
+ },
+ "Speaker 6": {
+  "name": "Tom Connair",
+  "role": "Attorney, Claremont school funding lawsuit counsel (ASR 'Tom cannon', 'Mr. Conor'; surname spelling per public record, not on the roster)"
+ },
+ "Speaker 7": {
+  "name": "Gauthier",
+  "role": "NH State Representative (first name not on this recording; ASR 'Representative Gauthier'; cluster also carries Rep. John Cloutier, see overrides)"
+ },
+ "Speaker 11": {
+  "name": "Gauthier",
+  "role": "NH State Representative (first name not on this recording; ASR 'Representative Gauthier'; cluster also carries Rep. John Cloutier, see overrides)"
+ },
+ "Speaker 8": {
+  "name": "Keith Thibeault",
+  "role": "Southwestern Community Services representative (self-identified 'my name is Keith'; surname from the mayor, ASR 'Thibeault'/'Teboe', spelling unverified)"
+ },
+ "Speaker 9": {
+  "name": "Chris Irish",
+  "role": "Claremont School Board Vice Chair (uncertain - cluster onset 'Mr. Irish, quick question' [79]; speaker says he was once on the city council [238]; Patrick Adrian passages reassigned by override)"
+ },
+ "Speaker 14": {
+  "name": "Patrick Adrian",
+  "role": "Claremont School Board member"
+ },
+ "Speaker 13": {
+  "name": "Pope",
+  "role": "Claremont City Councilor (first name not on this recording; roster lists 'Councilor Pope', possibly Scott Pope, unverified)"
+ },
+ "Speaker 15": {
+  "name": "Allen Damren",
+  "role": "Claremont City Councilor (ASR 'Councilor Damron'; spelling per roster)"
+ },
+ "Speaker 10": {
+  "name": "Unidentified",
+  "role": "Unidentified - participant at the table asking about lead case tracking [104]-[106]"
+ },
+ "Speaker 12": {
+  "name": "Unidentified",
+  "role": "Unidentified - female participant at the table (possibly Rebecca Zullo; not named on the recording)"
+ },
+ "Speaker 16": {
+  "name": "Unidentified",
+  "role": "Unidentified - short interjections by several voices"
+ },
+ "Speaker 5": {
+  "name": "Unidentified",
+  "role": "Unidentified - short interjection"
+ },
+ "Speaker 17": {
+  "name": "Unidentified",
+  "role": "Unidentified - short interjection"
+ },
+ "__overrides__": {
+  "4": {
+   "name": "Unidentified",
+   "role": "Unidentified - roll-call caller and responses"
+  },
+  "5": {
+   "name": "Unidentified",
+   "role": "Unidentified - roll-call caller and responses"
+  },
+  "6": {
+   "name": "Unidentified",
+   "role": "Unidentified - roll-call caller and responses"
+  },
+  "7": {
+   "name": "Unidentified",
+   "role": "Unidentified - roll-call caller and responses"
+  },
+  "8": {
+   "name": "Unidentified",
+   "role": "Unidentified - roll-call caller and responses"
+  },
+  "9": {
+   "name": "Unidentified",
+   "role": "Unidentified - roll-call caller and responses"
+  },
+  "10": {
+   "name": "Unidentified",
+   "role": "Unidentified - roll-call caller and responses"
+  },
+  "54": {
+   "name": "John Cloutier",
+   "role": "NH State Representative, Claremont (ASR 'John Claudia', 'Representative cloudier', 'Kluger'; spelling per public record, not on the roster)"
+  },
+  "55": {
+   "name": "John Cloutier",
+   "role": "NH State Representative, Claremont (ASR 'John Claudia', 'Representative cloudier', 'Kluger'; spelling per public record, not on the roster)"
+  },
+  "56": {
+   "name": "John Cloutier",
+   "role": "NH State Representative, Claremont (ASR 'John Claudia', 'Representative cloudier', 'Kluger'; spelling per public record, not on the roster)"
+  },
+  "57": {
+   "name": "John Cloutier",
+   "role": "NH State Representative, Claremont (ASR 'John Claudia', 'Representative cloudier', 'Kluger'; spelling per public record, not on the roster)"
+  },
+  "58": {
+   "name": "John Cloutier",
+   "role": "NH State Representative, Claremont (ASR 'John Claudia', 'Representative cloudier', 'Kluger'; spelling per public record, not on the roster)"
+  },
+  "59": {
+   "name": "John Cloutier",
+   "role": "NH State Representative, Claremont (ASR 'John Claudia', 'Representative cloudier', 'Kluger'; spelling per public record, not on the roster)"
+  },
+  "61": {
+   "name": "John Cloutier",
+   "role": "NH State Representative, Claremont (ASR 'John Claudia', 'Representative cloudier', 'Kluger'; spelling per public record, not on the roster)"
+  },
+  "427": {
+   "name": "John Cloutier",
+   "role": "NH State Representative, Claremont (ASR 'John Claudia', 'Representative cloudier', 'Kluger'; spelling per public record, not on the roster)"
+  },
+  "429": {
+   "name": "John Cloutier",
+   "role": "NH State Representative, Claremont (ASR 'John Claudia', 'Representative cloudier', 'Kluger'; spelling per public record, not on the roster)"
+  },
+  "432": {
+   "name": "John Cloutier",
+   "role": "NH State Representative, Claremont (ASR 'John Claudia', 'Representative cloudier', 'Kluger'; spelling per public record, not on the roster)"
+  },
+  "433": {
+   "name": "John Cloutier",
+   "role": "NH State Representative, Claremont (ASR 'John Claudia', 'Representative cloudier', 'Kluger'; spelling per public record, not on the roster)"
+  },
+  "434": {
+   "name": "John Cloutier",
+   "role": "NH State Representative, Claremont (ASR 'John Claudia', 'Representative cloudier', 'Kluger'; spelling per public record, not on the roster)"
+  },
+  "435": {
+   "name": "John Cloutier",
+   "role": "NH State Representative, Claremont (ASR 'John Claudia', 'Representative cloudier', 'Kluger'; spelling per public record, not on the roster)"
+  },
+  "436": {
+   "name": "John Cloutier",
+   "role": "NH State Representative, Claremont (ASR 'John Claudia', 'Representative cloudier', 'Kluger'; spelling per public record, not on the roster)"
+  },
+  "437": {
+   "name": "John Cloutier",
+   "role": "NH State Representative, Claremont (ASR 'John Claudia', 'Representative cloudier', 'Kluger'; spelling per public record, not on the roster)"
+  },
+  "438": {
+   "name": "John Cloutier",
+   "role": "NH State Representative, Claremont (ASR 'John Claudia', 'Representative cloudier', 'Kluger'; spelling per public record, not on the roster)"
+  },
+  "439": {
+   "name": "John Cloutier",
+   "role": "NH State Representative, Claremont (ASR 'John Claudia', 'Representative cloudier', 'Kluger'; spelling per public record, not on the roster)"
+  },
+  "440": {
+   "name": "John Cloutier",
+   "role": "NH State Representative, Claremont (ASR 'John Claudia', 'Representative cloudier', 'Kluger'; spelling per public record, not on the roster)"
+  },
+  "441": {
+   "name": "John Cloutier",
+   "role": "NH State Representative, Claremont (ASR 'John Claudia', 'Representative cloudier', 'Kluger'; spelling per public record, not on the roster)"
+  },
+  "442": {
+   "name": "John Cloutier",
+   "role": "NH State Representative, Claremont (ASR 'John Claudia', 'Representative cloudier', 'Kluger'; spelling per public record, not on the roster)"
+  },
+  "443": {
+   "name": "John Cloutier",
+   "role": "NH State Representative, Claremont (ASR 'John Claudia', 'Representative cloudier', 'Kluger'; spelling per public record, not on the roster)"
+  },
+  "444": {
+   "name": "John Cloutier",
+   "role": "NH State Representative, Claremont (ASR 'John Claudia', 'Representative cloudier', 'Kluger'; spelling per public record, not on the roster)"
+  },
+  "446": {
+   "name": "John Cloutier",
+   "role": "NH State Representative, Claremont (ASR 'John Claudia', 'Representative cloudier', 'Kluger'; spelling per public record, not on the roster)"
+  },
+  "520": {
+   "name": "John Cloutier",
+   "role": "NH State Representative, Claremont (ASR 'John Claudia', 'Representative cloudier', 'Kluger'; spelling per public record, not on the roster)"
+  },
+  "521": {
+   "name": "John Cloutier",
+   "role": "NH State Representative, Claremont (ASR 'John Claudia', 'Representative cloudier', 'Kluger'; spelling per public record, not on the roster)"
+  },
+  "139": {
+   "name": "Peter Wright",
+   "role": "Valley Regional Hospital representative; chair of the Sullivan County public health commission (self-described [195]); 'Peter Wright' per the superintendent [29]"
+  },
+  "140": {
+   "name": "Peter Wright",
+   "role": "Valley Regional Hospital representative; chair of the Sullivan County public health commission (self-described [195]); 'Peter Wright' per the superintendent [29]"
+  },
+  "141": {
+   "name": "Peter Wright",
+   "role": "Valley Regional Hospital representative; chair of the Sullivan County public health commission (self-described [195]); 'Peter Wright' per the superintendent [29]"
+  },
+  "142": {
+   "name": "Peter Wright",
+   "role": "Valley Regional Hospital representative; chair of the Sullivan County public health commission (self-described [195]); 'Peter Wright' per the superintendent [29]"
+  },
+  "143": {
+   "name": "Peter Wright",
+   "role": "Valley Regional Hospital representative; chair of the Sullivan County public health commission (self-described [195]); 'Peter Wright' per the superintendent [29]"
+  },
+  "144": {
+   "name": "Peter Wright",
+   "role": "Valley Regional Hospital representative; chair of the Sullivan County public health commission (self-described [195]); 'Peter Wright' per the superintendent [29]"
+  },
+  "145": {
+   "name": "Peter Wright",
+   "role": "Valley Regional Hospital representative; chair of the Sullivan County public health commission (self-described [195]); 'Peter Wright' per the superintendent [29]"
+  },
+  "146": {
+   "name": "Peter Wright",
+   "role": "Valley Regional Hospital representative; chair of the Sullivan County public health commission (self-described [195]); 'Peter Wright' per the superintendent [29]"
+  },
+  "147": {
+   "name": "Peter Wright",
+   "role": "Valley Regional Hospital representative; chair of the Sullivan County public health commission (self-described [195]); 'Peter Wright' per the superintendent [29]"
+  },
+  "151": {
+   "name": "Peter Wright",
+   "role": "Valley Regional Hospital representative; chair of the Sullivan County public health commission (self-described [195]); 'Peter Wright' per the superintendent [29]"
+  },
+  "153": {
+   "name": "Peter Wright",
+   "role": "Valley Regional Hospital representative; chair of the Sullivan County public health commission (self-described [195]); 'Peter Wright' per the superintendent [29]"
+  },
+  "155": {
+   "name": "Peter Wright",
+   "role": "Valley Regional Hospital representative; chair of the Sullivan County public health commission (self-described [195]); 'Peter Wright' per the superintendent [29]"
+  },
+  "157": {
+   "name": "Peter Wright",
+   "role": "Valley Regional Hospital representative; chair of the Sullivan County public health commission (self-described [195]); 'Peter Wright' per the superintendent [29]"
+  },
+  "158": {
+   "name": "Peter Wright",
+   "role": "Valley Regional Hospital representative; chair of the Sullivan County public health commission (self-described [195]); 'Peter Wright' per the superintendent [29]"
+  },
+  "159": {
+   "name": "Peter Wright",
+   "role": "Valley Regional Hospital representative; chair of the Sullivan County public health commission (self-described [195]); 'Peter Wright' per the superintendent [29]"
+  },
+  "164": {
+   "name": "Peter Wright",
+   "role": "Valley Regional Hospital representative; chair of the Sullivan County public health commission (self-described [195]); 'Peter Wright' per the superintendent [29]"
+  },
+  "165": {
+   "name": "Peter Wright",
+   "role": "Valley Regional Hospital representative; chair of the Sullivan County public health commission (self-described [195]); 'Peter Wright' per the superintendent [29]"
+  },
+  "170": {
+   "name": "Peter Wright",
+   "role": "Valley Regional Hospital representative; chair of the Sullivan County public health commission (self-described [195]); 'Peter Wright' per the superintendent [29]"
+  },
+  "172": {
+   "name": "Peter Wright",
+   "role": "Valley Regional Hospital representative; chair of the Sullivan County public health commission (self-described [195]); 'Peter Wright' per the superintendent [29]"
+  },
+  "175": {
+   "name": "Peter Wright",
+   "role": "Valley Regional Hospital representative; chair of the Sullivan County public health commission (self-described [195]); 'Peter Wright' per the superintendent [29]"
+  },
+  "176": {
+   "name": "Peter Wright",
+   "role": "Valley Regional Hospital representative; chair of the Sullivan County public health commission (self-described [195]); 'Peter Wright' per the superintendent [29]"
+  },
+  "177": {
+   "name": "Peter Wright",
+   "role": "Valley Regional Hospital representative; chair of the Sullivan County public health commission (self-described [195]); 'Peter Wright' per the superintendent [29]"
+  },
+  "181": {
+   "name": "Peter Wright",
+   "role": "Valley Regional Hospital representative; chair of the Sullivan County public health commission (self-described [195]); 'Peter Wright' per the superintendent [29]"
+  },
+  "191": {
+   "name": "Peter Wright",
+   "role": "Valley Regional Hospital representative; chair of the Sullivan County public health commission (self-described [195]); 'Peter Wright' per the superintendent [29]"
+  },
+  "192": {
+   "name": "Peter Wright",
+   "role": "Valley Regional Hospital representative; chair of the Sullivan County public health commission (self-described [195]); 'Peter Wright' per the superintendent [29]"
+  },
+  "193": {
+   "name": "Peter Wright",
+   "role": "Valley Regional Hospital representative; chair of the Sullivan County public health commission (self-described [195]); 'Peter Wright' per the superintendent [29]"
+  },
+  "195": {
+   "name": "Peter Wright",
+   "role": "Valley Regional Hospital representative; chair of the Sullivan County public health commission (self-described [195]); 'Peter Wright' per the superintendent [29]"
+  },
+  "196": {
+   "name": "Peter Wright",
+   "role": "Valley Regional Hospital representative; chair of the Sullivan County public health commission (self-described [195]); 'Peter Wright' per the superintendent [29]"
+  },
+  "197": {
+   "name": "Peter Wright",
+   "role": "Valley Regional Hospital representative; chair of the Sullivan County public health commission (self-described [195]); 'Peter Wright' per the superintendent [29]"
+  },
+  "213": {
+   "name": "Peter Wright",
+   "role": "Valley Regional Hospital representative; chair of the Sullivan County public health commission (self-described [195]); 'Peter Wright' per the superintendent [29]"
+  },
+  "214": {
+   "name": "Peter Wright",
+   "role": "Valley Regional Hospital representative; chair of the Sullivan County public health commission (self-described [195]); 'Peter Wright' per the superintendent [29]"
+  },
+  "220": {
+   "name": "Peter Wright",
+   "role": "Valley Regional Hospital representative; chair of the Sullivan County public health commission (self-described [195]); 'Peter Wright' per the superintendent [29]"
+  },
+  "225": {
+   "name": "Peter Wright",
+   "role": "Valley Regional Hospital representative; chair of the Sullivan County public health commission (self-described [195]); 'Peter Wright' per the superintendent [29]"
+  },
+  "236": {
+   "name": "Peter Wright",
+   "role": "Valley Regional Hospital representative; chair of the Sullivan County public health commission (self-described [195]); 'Peter Wright' per the superintendent [29]"
+  },
+  "243": {
+   "name": "Peter Wright",
+   "role": "Valley Regional Hospital representative; chair of the Sullivan County public health commission (self-described [195]); 'Peter Wright' per the superintendent [29]"
+  },
+  "244": {
+   "name": "Peter Wright",
+   "role": "Valley Regional Hospital representative; chair of the Sullivan County public health commission (self-described [195]); 'Peter Wright' per the superintendent [29]"
+  },
+  "138": {
+   "name": "Peter Wright",
+   "role": "Valley Regional Hospital representative; chair of the Sullivan County public health commission (self-described [195]); 'Peter Wright' per the superintendent [29]"
+  },
+  "51": {
+   "name": "Gauthier"
+  },
+  "167": {
+   "name": "Gauthier"
+  },
+  "64": {
+   "name": "Keith Thibeault"
+  },
+  "183": {
+   "name": "Patrick Adrian"
+  },
+  "185": {
+   "name": "Patrick Adrian"
+  },
+  "187": {
+   "name": "Patrick Adrian"
+  },
+  "188": {
+   "name": "Patrick Adrian"
+  },
+  "189": {
+   "name": "Patrick Adrian"
+  },
+  "190": {
+   "name": "Patrick Adrian"
+  },
+  "201": {
+   "name": "Patrick Adrian"
+  },
+  "202": {
+   "name": "Patrick Adrian"
+  },
+  "203": {
+   "name": "Patrick Adrian"
+  },
+  "204": {
+   "name": "Patrick Adrian"
+  },
+  "524": {
+   "name": "Patrick Adrian"
+  },
+  "205": {
+   "name": "Unidentified",
+   "role": "Unidentified - segment splices the end of Adrian's sentence with another voice (Peter Wright or Tom Connair)"
+  },
+  "208": {
+   "name": "Unidentified",
+   "role": "Unidentified - participant question on lead testing funds"
+  },
+  "359": {
+   "name": "Pope"
+  },
+  "386": {
+   "name": "Unidentified",
+   "role": "Unidentified - short interjection"
+  },
+  "389": {
+   "name": "Chris Irish"
+  },
+  "532": {
+   "name": "Chris Irish"
+  },
+  "480": {
+   "name": "Gauthier"
+  },
+  "482": {
+   "name": "Gauthier"
+  },
+  "484": {
+   "name": "Gauthier"
+  },
+  "486": {
+   "name": "Gauthier"
+  },
+  "542": {
+   "name": "Gauthier"
+  },
+  "368": {
+   "name": "Allen Damren"
+  },
+  "400": {
+   "name": "Tom Connair"
+  },
+  "461": {
+   "name": "Tom Connair"
+  },
+  "472": {
+   "name": "Tom Connair"
+  },
+  "102": {
+   "name": "Unidentified",
+   "role": "Unidentified - participant at the table asking about lead case tracking [104]-[106]"
+  }
+ }
+}

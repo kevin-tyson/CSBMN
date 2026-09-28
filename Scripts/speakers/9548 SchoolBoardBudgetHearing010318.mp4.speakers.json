@@ -1,0 +1,173 @@
+{
+ "Speaker 1": {
+  "name": "Andrea Wilson",
+  "role": "Public commenter, Ward 1 (uncertain - her name and ward are given at the end of the preceding recording 9547 [210-211] and she continues here; criticizes the chair 'Brian' [1-4])"
+ },
+ "Speaker 2": {
+  "name": "Debbie Laffan",
+  "role": "Public commenter, Ward 1 (self-introduced, ASR 'Debbie Laffan' [8]; speaks for the Claremont Adult Learning Center)"
+ },
+ "Speaker 3": {
+  "name": "Chris Irish",
+  "role": "Claremont School Board Vice Chair ('The four of us that supported that budget on the 20th' [60]; 'Mr. Rapp was not there' [125]; David Putnam: 'Chris, you just mentioned that x amount of money was returned' [150] referring to [133-135]); cluster also carries Chair Rapp's hearing management - see overrides"
+ },
+ "Speaker 4": {
+  "name": "Unidentified",
+  "role": "Public commenter, Ward 1 (Park Ave), Stevens High School school counselor in her second year; name not audible [19-26]"
+ },
+ "Speaker 5": {
+  "name": "Unidentified",
+  "role": "Unidentified - board member voice saying 'Thank you' after commenters; not named"
+ },
+ "Speaker 6": {
+  "name": "Jeremy Zullo",
+  "role": "Public commenter, Ward 3 (self-introduced, ASR 'Jeremy Zulu' [28]; spelling Zullo per roster garble, unverified); questions the $70,000 paving [29-40]"
+ },
+ "Speaker 7": {
+  "name": "Michael O'Neill",
+  "role": "Business Administrator, SAU 6 (answers roof and fund-balance questions: warrant article history [33-37], RSA 198:20 carryover [152-161]; 'Mr. McNeil' [88]; surname spelling unverified)"
+ },
+ "Speaker 8": {
+  "name": "Larissa Cahill",
+  "role": "Public commenter, Ward 2, Stevens High School teacher and parent (self-introduced, ASR 'Larissa Cahill' [41])"
+ },
+ "Speaker 9": {
+  "name": "Marion Lovett",
+  "role": "Public commenter, Stevens graduate and former student representative to the school board (self-introduced, ASR 'Marion Lovett' [50]; spelling unverified, other files use Marian)"
+ },
+ "Speaker 10": {
+  "name": "John Young",
+  "role": "Public commenter (self-introduced, ASR 'John Young' [58]; ward not stated)"
+ },
+ "Speaker 11": {
+  "name": "Rebecca Zullo",
+  "role": "Claremont School Board member (uncertain - board member answering from the budget majority: 'if you take a moment to go through the budget line by line' [68]; Richard Seaman then addresses 'Rebecca' about 'the kind of numbers that you were throwing out' [103])"
+ },
+ "Speaker 12": {
+  "name": "David Putnam",
+  "role": "Public commenter, Ward 2, former Claremont School Board chair (self-introduced, ASR 'David Putnam for two' [76]; 'I did it for 17 years ... as school board chair' [76])"
+ },
+ "Speaker 13": {
+  "name": "Ellie Filene",
+  "role": "Public commenter, Ward 2, Maple Avenue School teacher (self-introduced, ASR 'Ellie Filene' [85]; spelling unverified)"
+ },
+ "Speaker 14": {
+  "name": "Ellie Filene",
+  "role": "Public commenter, Ward 2, Maple Avenue School teacher (self-introduced, ASR 'Ellie Filene' [85]; spelling unverified)"
+ },
+ "Speaker 15": {
+  "name": "Nick",
+  "role": "Public commenter, Ward 3 (self-introduced, ASR 'Nick Ward three' [90]; surname not audible)"
+ },
+ "Speaker 16": {
+  "name": "Jesse Burrill",
+  "role": "Public commenter, Ward 3, not a registered voter; Stevens High School staff member inviting board members to shadow students (self-introduced, ASR 'Jessie Burrill' [94])"
+ },
+ "Speaker 17": {
+  "name": "Richard Seaman",
+  "role": "Public commenter, Ward 3, former Claremont School Board member (self-introduced [98])"
+ },
+ "Speaker 18": {
+  "name": "Joe",
+  "role": "Public commenter (first name only: Irish 'To get to your point, Joe' [125]; Carolyn Towle 'Joe. This is for you' [142]; his self-introduction is garbled [107])"
+ },
+ "Speaker 19": {
+  "name": "Middleton McGoodwin",
+  "role": "Superintendent, SAU 6 (answers the question to the administration: 'The school board gave a directive in early October. I felt it was mistake' [112])"
+ },
+ "Speaker 20": {
+  "name": "Brian Rapp",
+  "role": "Claremont School Board Chair (presides over the hearing; commenter addresses 'Brian ... We did not put you as the chair' [1-3]; 'If the chair wants to' [121] then 'From my perspective' [122-123])"
+ },
+ "Speaker 21": {
+  "name": "Carolyn Towle",
+  "role": "Public commenter, Ward 1 (self-introduced, ASR 'Carolyn Tull' [142]; roster spelling Towle); later a School Board member from 3/21/2018 per roster"
+ },
+ "Speaker 22": {
+  "name": "Derek Ferland",
+  "role": "Public commenter, Ward 3 (introduced as 'Derek Ferland, Ward three' [172], ASR form; not verified)"
+ },
+ "Speaker 23": {
+  "name": "Unidentified",
+  "role": "Public commenter who works in adult education; name not audible [183-187]"
+ },
+ "__overrides__": {
+  "17": {
+   "name": "Brian Rapp",
+   "role": "Claremont School Board Chair (presides over the hearing; commenter addresses 'Brian ... We did not put you as the chair' [1-3]; 'If the chair wants to' [121] then 'From my perspective' [122-123])"
+  },
+  "18": {
+   "name": "Brian Rapp",
+   "role": "Claremont School Board Chair (presides over the hearing; commenter addresses 'Brian ... We did not put you as the chair' [1-3]; 'If the chair wants to' [121] then 'From my perspective' [122-123])"
+  },
+  "83": {
+   "name": "Brian Rapp",
+   "role": "Claremont School Board Chair (presides over the hearing; commenter addresses 'Brian ... We did not put you as the chair' [1-3]; 'If the chair wants to' [121] then 'From my perspective' [122-123])"
+  },
+  "114": {
+   "name": "Brian Rapp",
+   "role": "Claremont School Board Chair (presides over the hearing; commenter addresses 'Brian ... We did not put you as the chair' [1-3]; 'If the chair wants to' [121] then 'From my perspective' [122-123])"
+  },
+  "116": {
+   "name": "Brian Rapp",
+   "role": "Claremont School Board Chair (presides over the hearing; commenter addresses 'Brian ... We did not put you as the chair' [1-3]; 'If the chair wants to' [121] then 'From my perspective' [122-123])"
+  },
+  "119": {
+   "name": "Brian Rapp",
+   "role": "Claremont School Board Chair (presides over the hearing; commenter addresses 'Brian ... We did not put you as the chair' [1-3]; 'If the chair wants to' [121] then 'From my perspective' [122-123])"
+  },
+  "122": {
+   "name": "Brian Rapp",
+   "role": "Claremont School Board Chair (presides over the hearing; commenter addresses 'Brian ... We did not put you as the chair' [1-3]; 'If the chair wants to' [121] then 'From my perspective' [122-123])"
+  },
+  "123": {
+   "name": "Brian Rapp",
+   "role": "Claremont School Board Chair (presides over the hearing; commenter addresses 'Brian ... We did not put you as the chair' [1-3]; 'If the chair wants to' [121] then 'From my perspective' [122-123])"
+  },
+  "138": {
+   "name": "Brian Rapp",
+   "role": "Claremont School Board Chair (presides over the hearing; commenter addresses 'Brian ... We did not put you as the chair' [1-3]; 'If the chair wants to' [121] then 'From my perspective' [122-123])"
+  },
+  "189": {
+   "name": "Brian Rapp",
+   "role": "Claremont School Board Chair (presides over the hearing; commenter addresses 'Brian ... We did not put you as the chair' [1-3]; 'If the chair wants to' [121] then 'From my perspective' [122-123])"
+  },
+  "192": {
+   "name": "Brian Rapp",
+   "role": "Claremont School Board Chair (presides over the hearing; commenter addresses 'Brian ... We did not put you as the chair' [1-3]; 'If the chair wants to' [121] then 'From my perspective' [122-123])"
+  },
+  "194": {
+   "name": "Brian Rapp",
+   "role": "Claremont School Board Chair (presides over the hearing; commenter addresses 'Brian ... We did not put you as the chair' [1-3]; 'If the chair wants to' [121] then 'From my perspective' [122-123])"
+  },
+  "200": {
+   "name": "Brian Rapp",
+   "role": "Claremont School Board Chair (presides over the hearing; commenter addresses 'Brian ... We did not put you as the chair' [1-3]; 'If the chair wants to' [121] then 'From my perspective' [122-123])"
+  },
+  "124": {
+   "name": "Unidentified",
+   "role": "Unidentified - segment runs together Chair Rapp's answer and the start of Vice Chair Irish's rebuttal ('I respond to that because that is not even close to true')"
+  },
+  "28": {
+   "name": "Jeremy Zullo"
+  },
+  "30": {
+   "name": "Jeremy Zullo"
+  },
+  "172": {
+   "name": "Derek Ferland"
+  },
+  "129": {
+   "name": "Unidentified",
+   "role": "Unidentified - short fragment"
+  },
+  "141": {
+   "name": "Unidentified",
+   "role": "Unidentified - short fragment"
+  },
+  "146": {
+   "name": "Unidentified",
+   "role": "Unidentified - short fragment"
+  }
+ }
+}

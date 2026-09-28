@@ -1,0 +1,348 @@
+{
+  "Speaker 1": {
+    "name": "Heather Whitney",
+    "role": "Chair, Claremont School Board - calls the meeting to order at segment 0 and chairs throughout; the roll caller reads 'Heather. Whitney.' at segment 104 and this voice answers 'Yes.' at 105; Michael Tempesta says 'I talked to Heather about that' at 470 and the chair refers to 'Mr. Tempesta['s] point' at 372. NOT Whitney Skillen, who is a separate member on this board"
+  },
+  "Speaker 2": {
+    "name": "Mike Koski",
+    "role": "Assistant Superintendent, SAU 6 - Michael Tempesta says 'I would defer to Mr. Kosky for the deets' at segment 144 and this voice immediately begins the ESSA/CSI accountability presentation at 145 and carries it to 287. MERGED CLUSTER: every Speaker 2 segment before 145 is Ben Nester (he reads all four pre-clerk roll calls and answers the students' 504 questions) and is reassigned by override; a dozen one- and two-word assents late in the meeting are this cluster's catch-all and are not separable"
+  },
+  "Speaker 3": {
+    "name": "Nicole Bouchard",
+    "role": "Student board member, Stevens High School (grade 10) - the chair introduces 'Nicole Bouchard and Kylie Plummer' at segment 7 (ASR splits 'Nicole' into 'new Cole') and this voice opens the student report at 8 with 'Thank you for having me again'; at 17 the chair asks her to repeat the hall-monitor suggestion she made at the 11/1/23 meeting and she does so at 19-20, matching the 11/1 student report verbatim in substance; says 'I'm only a sophomore' at 69. The 3/6/24 recording separates the two reps by subject - Bouchard on theatre and band, Plummer on the Newport tech center - and principal Chris Pratt on 11/1/23 credits 'Nicole' with a role in the school play"
+  },
+  "Speaker 4": {
+    "name": "Kylie Plummer",
+    "role": "Student board member, Stevens High School (grade 10) - the second of the two reps the chair names at segment 7; identifies herself at 14 as 'part of the cosmetology class' at the Newport tech center and describes her own missed transport, her mother and sisters. The 3/6/24 recording has the same rep speaking for the tech-center students ('for us, travel there, have their full 85 minute blocks and then travel back') and for the culinary classes, while the other rep speaks on theatre and band"
+  },
+  "Speaker 5": {
+    "name": "Frank Sprague",
+    "role": "Vice Chair, Claremont School Board - moves every motion of the night (nonpublic at 100, sealing at 121, the deliberative-session date at 389 and its friendly amendment at 404); says 'I actually had to go over when I was the principal and stop the basketball practice' at 434; draws on guidance-office and No Child Left Behind experience at 91, 167 and 182; the chair credits 'Mr. Sprague's motion' at 447 and seats 'Miss Crawford and Mr. Sprague' for the para negotiations at 463"
+  },
+  "Speaker 6": {
+    "name": "Arlene Hawkins",
+    "role": "Claremont School Board member (elected 3/14/2023) and SAU 6 Board chair - the chair says 'Arlene, was your question answered?' at segment 67 and this voice answers at 68; she seconds at 102 and the next speaker asks 'Arlene, did you second?' at 120; she raises the December 7th SAU meeting at 575 and 579 and seconds the adjournment at 585 after Frank Sprague's 'Make a motion to adjourn, Arlene'"
+  },
+  "Speaker 7": {
+    "name": "Candace Crawford",
+    "role": "Claremont School Board member (appointed 7/19/2023) - Mike Koski says 'Question. Candace' at the tail of segment 150 and this voice asks the question at 151; the chair thanks 'Candy' at 67 immediately after this voice's student-council point at 58, and says 'Candice was on volunteering as well' at 458 before seating 'Miss Crawford' for the para negotiations; recalls 'We used to have them on Saturday' about deliberative sessions at 366, consistent with her 1991-2002 service on this board"
+  },
+  "Speaker 8": {
+    "name": "Whitney Skillen",
+    "role": "Claremont School Board member; policy subcommittee chair - MEDIUM CONFIDENCE, reached by elimination plus board-only actions. She answers every roll call, and this cluster performs things only a seated member can do: it seconds the motion appointing the clerk (292), votes 'Aye' (301), asks a substantive 504-versus-IEP question (259), supplies 'Finance' when the business administrator forgets the subcommittee's name (315) and argues the deliberative-session date (374, 377). She is the only member present who has no other cluster. The cluster demonstrably also carries incoming clerk Noelle Kronberg and business administrator Mary Henry; those segments are reassigned by override. Nobody speaks her name in this recording"
+  },
+  "Speaker 9": {
+    "name": "Michael Tempesta",
+    "role": "Superintendent, SAU 6 - the chair says 'Mr. Tempesta, would you would like to introduce our' at segment 288 and this voice introduces the clerk candidate at 289; delivers the superintendent's report from 126 ('the one item I have on the superintendent's report'), jokes about his 'Massachusetts accent' at 143 and defers to 'Mr. Kosky' at 144; presents both MOU stipends from 464; the chair refers to him as 'Mr. Contessa' (ASR) at 563"
+  },
+  "Speaker 10": {
+    "name": "Ben Nester",
+    "role": "Director of Special Education, SAU 6, and the board's de facto roll-caller until this meeting - Michael Tempesta says 'Ben can speak to that on some of the loads... do you remember you would know them?' at segment 480 and this voice answers at 482; explains alternative assessments and 504 accommodations at 254-260 ('I try to build in accommodations'). He also reads all four pre-clerk roll calls in the Speaker 2 cluster; the chair addresses him as 'Ben' at 103 and 'Mr. Nestor' at 113"
+  },
+  "Speaker 11": {
+    "name": "Mary Henry",
+    "role": "Business Administrator, Claremont School District (started July 2023) - the chair introduces 'a brief update from Mary Henry, our business administrator' at segment 307 and this voice begins the budget-timeline report at 308; quotes a colleague saying 'Mary, did you see an email from the state' at 327; reports the ESSER close-out and the new sweep account. MERGED CLUSTER: it also carries board member Jennifer Gallagher, who is coached into the nonpublic motion at 536 ('Jennifer.') and reads her prepared statement at 564-567 after the chair says 'Jen Gallagher requested a few moments of our time'; those segments are reassigned by override"
+  },
+  "Speaker 12": {
+    "name": "Mary Henry",
+    "role": "Business Administrator - a single fragment inside her own sentence about the ESSER claims ('I have some' / 'that are missing' / 'It was fun. But it's done'), with a zero-length gap on both sides"
+  },
+  "Speaker 13": {
+    "name": "Whitney Skillen",
+    "role": "Claremont School Board member - MEDIUM-LOW CONFIDENCE. A single 'You got this.' declining the paraprofessional-negotiations seat, two segments before the same phrase is repeated in full at 456 ('I'm actively working on the policy audit. So you got this.'), which is the policy subcommittee chair. The diarizer scatters this speaker's voice across three clusters; it could also be another member encouraging Frank Sprague"
+  },
+  "Speaker 14": {
+    "name": "Noelle Kronberg",
+    "role": "School Board Clerk, Claremont School District - appointed at this meeting on a motion by the chair at segment 291 (ASR 'Noelle Cronenberg'); she reads her first three roll calls here after 'Let me find my list here' (542) and Jennifer Gallagher's coaching 'and then you have to read all of [our names]' (545). She had been appointed SAU 6 clerk six days earlier, on 11/9/23"
+  },
+  "__overrides__": {
+    "1": {
+      "name": "Unidentified",
+      "role": "A voice reciting the Pledge of Allegiance with the room after the chair calls for it"
+    },
+    "3": {
+      "name": "Ben Nester"
+    },
+    "4": {
+      "name": "Ben Nester"
+    },
+    "13": {
+      "name": "Ben Nester"
+    },
+    "23": {
+      "name": "Kylie Plummer"
+    },
+    "25": {
+      "name": "Ben Nester"
+    },
+    "28": {
+      "name": "Frank Sprague"
+    },
+    "30": {
+      "name": "Ben Nester"
+    },
+    "32": {
+      "name": "Ben Nester"
+    },
+    "35": {
+      "name": "Ben Nester"
+    },
+    "36": {
+      "name": "Arlene Hawkins"
+    },
+    "38": {
+      "name": "Candace Crawford"
+    },
+    "40": {
+      "name": "Ben Nester"
+    },
+    "42": {
+      "name": "Ben Nester"
+    },
+    "48": {
+      "name": "Ben Nester"
+    },
+    "61": {
+      "name": "Heather Whitney"
+    },
+    "65": {
+      "name": "Ben Nester"
+    },
+    "81": {
+      "name": "Ben Nester"
+    },
+    "83": {
+      "name": "Michael Tempesta"
+    },
+    "87": {
+      "name": "Ben Nester"
+    },
+    "98": {
+      "name": "Ben Nester"
+    },
+    "104": {
+      "name": "Ben Nester"
+    },
+    "106": {
+      "name": "Ben Nester"
+    },
+    "112": {
+      "name": "Ben Nester"
+    },
+    "115": {
+      "name": "Ben Nester"
+    },
+    "116": {
+      "name": "Noelle Kronberg"
+    },
+    "118": {
+      "name": "Ben Nester"
+    },
+    "119": {
+      "name": "Candace Crawford"
+    },
+    "120": {
+      "name": "Noelle Kronberg"
+    },
+    "123": {
+      "name": "Unidentified",
+      "role": "The board's spoken 'aye' - several members answering the chair's 'All in favor' at once; the individual voices are not separable"
+    },
+    "125": {
+      "name": "Michael Tempesta"
+    },
+    "130": {
+      "name": "Ben Nester"
+    },
+    "131": {
+      "name": "Noelle Kronberg"
+    },
+    "133": {
+      "name": "Noelle Kronberg"
+    },
+    "135": {
+      "name": "Noelle Kronberg"
+    },
+    "136": {
+      "name": "Ben Nester"
+    },
+    "137": {
+      "name": "Noelle Kronberg"
+    },
+    "139": {
+      "name": "Ben Nester"
+    },
+    "140": {
+      "name": "Ben Nester"
+    },
+    "141": {
+      "name": "Ben Nester"
+    },
+    "237": {
+      "name": "Mike Koski"
+    },
+    "263": {
+      "name": "Arlene Hawkins"
+    },
+    "295": {
+      "name": "Noelle Kronberg"
+    },
+    "296": {
+      "name": "Noelle Kronberg"
+    },
+    "297": {
+      "name": "Noelle Kronberg"
+    },
+    "298": {
+      "name": "Noelle Kronberg"
+    },
+    "306": {
+      "name": "Noelle Kronberg"
+    },
+    "317": {
+      "name": "Mary Henry"
+    },
+    "325": {
+      "name": "Mary Henry"
+    },
+    "328": {
+      "name": "Mary Henry"
+    },
+    "361": {
+      "name": "Mary Henry"
+    },
+    "363": {
+      "name": "Heather Whitney"
+    },
+    "378": {
+      "name": "Whitney Skillen"
+    },
+    "379": {
+      "name": "Whitney Skillen"
+    },
+    "383": {
+      "name": "Frank Sprague"
+    },
+    "422": {
+      "name": "Candace Crawford"
+    },
+    "425": {
+      "name": "Michael Tempesta"
+    },
+    "427": {
+      "name": "Michael Tempesta"
+    },
+    "428": {
+      "name": "Michael Tempesta"
+    },
+    "430": {
+      "name": "Michael Tempesta"
+    },
+    "442": {
+      "name": "Michael Tempesta"
+    },
+    "444": {
+      "name": "Michael Tempesta"
+    },
+    "448": {
+      "name": "Unidentified",
+      "role": "The board's spoken 'aye' - several members answering the chair's 'All in favor' at once; the individual voices are not separable"
+    },
+    "451": {
+      "name": "Heather Whitney"
+    },
+    "452": {
+      "name": "Frank Sprague"
+    },
+    "456": {
+      "name": "Whitney Skillen"
+    },
+    "457": {
+      "name": "Frank Sprague"
+    },
+    "478": {
+      "name": "Frank Sprague"
+    },
+    "481": {
+      "name": "Ben Nester"
+    },
+    "489": {
+      "name": "Ben Nester"
+    },
+    "491": {
+      "name": "Jennifer Gallagher",
+      "role": "Claremont School Board member (elected 3/14/2023 to the one-year seat) - answers her name in every roll call; the chair says 'Jennifer.' at segment 536 immediately before she moves the nonpublic session at 537, and introduces her at 563 as 'Jen Gallagher requested a few moments of our time' before her prepared statement at 564-567; Michael Tempesta tells her 'I think you were in the tail end of that today, Jen' at 466"
+    },
+    "506": {
+      "name": "Candace Crawford"
+    },
+    "514": {
+      "name": "Arlene Hawkins"
+    },
+    "530": {
+      "name": "Jennifer Gallagher",
+      "role": "Claremont School Board member (elected 3/14/2023 to the one-year seat) - answers her name in every roll call; the chair says 'Jennifer.' at segment 536 immediately before she moves the nonpublic session at 537, and introduces her at 563 as 'Jen Gallagher requested a few moments of our time' before her prepared statement at 564-567; Michael Tempesta tells her 'I think you were in the tail end of that today, Jen' at 466"
+    },
+    "533": {
+      "name": "Jennifer Gallagher",
+      "role": "Claremont School Board member (elected 3/14/2023 to the one-year seat) - answers her name in every roll call; the chair says 'Jennifer.' at segment 536 immediately before she moves the nonpublic session at 537, and introduces her at 563 as 'Jen Gallagher requested a few moments of our time' before her prepared statement at 564-567; Michael Tempesta tells her 'I think you were in the tail end of that today, Jen' at 466"
+    },
+    "535": {
+      "name": "Jennifer Gallagher",
+      "role": "Claremont School Board member (elected 3/14/2023 to the one-year seat) - answers her name in every roll call; the chair says 'Jennifer.' at segment 536 immediately before she moves the nonpublic session at 537, and introduces her at 563 as 'Jen Gallagher requested a few moments of our time' before her prepared statement at 564-567; Michael Tempesta tells her 'I think you were in the tail end of that today, Jen' at 466"
+    },
+    "537": {
+      "name": "Jennifer Gallagher",
+      "role": "Claremont School Board member (elected 3/14/2023 to the one-year seat) - answers her name in every roll call; the chair says 'Jennifer.' at segment 536 immediately before she moves the nonpublic session at 537, and introduces her at 563 as 'Jen Gallagher requested a few moments of our time' before her prepared statement at 564-567; Michael Tempesta tells her 'I think you were in the tail end of that today, Jen' at 466"
+    },
+    "539": {
+      "name": "Jennifer Gallagher",
+      "role": "Claremont School Board member (elected 3/14/2023 to the one-year seat) - answers her name in every roll call; the chair says 'Jennifer.' at segment 536 immediately before she moves the nonpublic session at 537, and introduces her at 563 as 'Jen Gallagher requested a few moments of our time' before her prepared statement at 564-567; Michael Tempesta tells her 'I think you were in the tail end of that today, Jen' at 466"
+    },
+    "541": {
+      "name": "Jennifer Gallagher",
+      "role": "Claremont School Board member (elected 3/14/2023 to the one-year seat) - answers her name in every roll call; the chair says 'Jennifer.' at segment 536 immediately before she moves the nonpublic session at 537, and introduces her at 563 as 'Jen Gallagher requested a few moments of our time' before her prepared statement at 564-567; Michael Tempesta tells her 'I think you were in the tail end of that today, Jen' at 466"
+    },
+    "545": {
+      "name": "Jennifer Gallagher",
+      "role": "Claremont School Board member (elected 3/14/2023 to the one-year seat) - answers her name in every roll call; the chair says 'Jennifer.' at segment 536 immediately before she moves the nonpublic session at 537, and introduces her at 563 as 'Jen Gallagher requested a few moments of our time' before her prepared statement at 564-567; Michael Tempesta tells her 'I think you were in the tail end of that today, Jen' at 466"
+    },
+    "549": {
+      "name": "Heather Whitney"
+    },
+    "554": {
+      "name": "Frank Sprague"
+    },
+    "560": {
+      "name": "Frank Sprague"
+    },
+    "562": {
+      "name": "Candace Crawford"
+    },
+    "564": {
+      "name": "Jennifer Gallagher",
+      "role": "Claremont School Board member (elected 3/14/2023 to the one-year seat) - answers her name in every roll call; the chair says 'Jennifer.' at segment 536 immediately before she moves the nonpublic session at 537, and introduces her at 563 as 'Jen Gallagher requested a few moments of our time' before her prepared statement at 564-567; Michael Tempesta tells her 'I think you were in the tail end of that today, Jen' at 466"
+    },
+    "565": {
+      "name": "Jennifer Gallagher",
+      "role": "Claremont School Board member (elected 3/14/2023 to the one-year seat) - answers her name in every roll call; the chair says 'Jennifer.' at segment 536 immediately before she moves the nonpublic session at 537, and introduces her at 563 as 'Jen Gallagher requested a few moments of our time' before her prepared statement at 564-567; Michael Tempesta tells her 'I think you were in the tail end of that today, Jen' at 466"
+    },
+    "566": {
+      "name": "Jennifer Gallagher",
+      "role": "Claremont School Board member (elected 3/14/2023 to the one-year seat) - answers her name in every roll call; the chair says 'Jennifer.' at segment 536 immediately before she moves the nonpublic session at 537, and introduces her at 563 as 'Jen Gallagher requested a few moments of our time' before her prepared statement at 564-567; Michael Tempesta tells her 'I think you were in the tail end of that today, Jen' at 466"
+    },
+    "567": {
+      "name": "Jennifer Gallagher",
+      "role": "Claremont School Board member (elected 3/14/2023 to the one-year seat) - answers her name in every roll call; the chair says 'Jennifer.' at segment 536 immediately before she moves the nonpublic session at 537, and introduces her at 563 as 'Jen Gallagher requested a few moments of our time' before her prepared statement at 564-567; Michael Tempesta tells her 'I think you were in the tail end of that today, Jen' at 466"
+    },
+    "571": {
+      "name": "Heather Whitney"
+    },
+    "578": {
+      "name": "Noelle Kronberg"
+    },
+    "582": {
+      "name": "Michael Tempesta"
+    }
+  }
+}

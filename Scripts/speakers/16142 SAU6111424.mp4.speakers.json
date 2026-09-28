@@ -1,0 +1,536 @@
+{
+ "Speaker 1": {
+  "name": "Unidentified",
+  "role": "Unidentified - a crumb cluster: the room's Pledge of Allegiance, one-word assents and roll-call fragments. Its FY24 budget-arithmetic fragments are reassigned by override to Frank Sprague, inside whose recognised floor time they fall"
+ },
+ "Speaker 2": {
+  "name": "Arlene Hawkins",
+  "role": "SAU 6 Joint Board CHAIR - opens the meeting ('I'd like to call the meeting of the [SAU] six school board to order', 2.7s), answers her own name in the roll ('Eileen [Arlene]. Hawkins.' 59.6-59.9s conf 1.00, then 'Here' at 60.5s) and presides throughout. The mover of the agenda amendments calls her 'Chair Hawkins' (134.2-134.6s, conf 1.00) and the mover of the unsealing motion calls her 'Arlene Hawkins' (2557.0-2557.6s, conf 0.90/1.00). HIGH confidence. From 2420.4s the diarizer moves her voice into the business administrator's cluster (Speaker 4); the overrides carry it back"
+ },
+ "Speaker 3": {
+  "name": "Chris Pratt",
+  "role": "Superintendent of Schools, SAU 6 - reads all four roll calls in the clerk's absence: Chair Hawkins says 'Miss Cronenberg [Kronberg] is not here tonight. So that's why Mr. Pratt was so gracious in taking a [roll] call' (62.9-67.7s, 'Pratt' conf 1.00) and 'Mr. Pratt, would you please do [a roll] call' (274.4s, conf 1.00). The voice identifies itself as the superintendent at 1204.7s ('for myself and Assistant Superintendent Kosky [Koski]... it's in the contract') and at 1356.0s ('Mike and myself'). MERGED CLUSTER - it also carries Frank Sprague and Rocco Ruggeri; the overrides carry the exceptions"
+ },
+ "Speaker 4": {
+  "name": "Mary Henry",
+  "role": "Business Administrator, SAU 6 - Chair Hawkins hands her the floor with 'In it. Mary.' (1149.9s, conf 1.00), asks 'Any other questions for Mary?' (2068.9s, conf 1.00) and closes with 'Thank you very much Mary' (2106.1s, conf 0.93); she presents the proposed FY2025-26 SAU budget, the health and dental renewals and the fund balance in the first person ('I budgeted more last year', 'I'm going to send you the budget again after I go through it'). MERGED CLUSTER - it also carries Chair Hawkins from 2420.4s on and the board members who move motions; the overrides carry the exceptions"
+ },
+ "Speaker 5": {
+  "name": "Unidentified",
+  "role": "Unidentified SAU 6 board member - moved acceptance of the September 12 minutes as amended (223.4s) and the motion to seal the nonpublic minutes for nine years (395.3s), and pressed the long question on paying mileage and cell-phone stipends against actual expenditure ('I know in my world, reimbursement such as mileage and cell phones are based on actual numbers of turning in', 1125.5s). Chair Hawkins recognises this voice at 1123.5s but says only 'Oh. I'm sorry. I see. You.' - no name. Heather Whitney, Candace Crawford, Atonya Hart and Michael Petrin all answer the roll and none of the four is anchored to a voice tonight, so elimination is not available"
+ },
+ "Speaker 6": {
+  "name": "Unidentified",
+  "role": "Unidentified - short assent, agreement and crosstalk fragments (28 segments, none longer than 5.9s) that do not hold a single voice. Its longest turn recalls that the board's contracted-services line paid for the superintendent-evaluation consultant (1683.5s), which fits an evaluation-subcommittee member - Frank Sprague names 'Rocco and Tanya and Whitney' as invited to that committee at 2438.7-2441.1s - but no name is spoken"
+ },
+ "Speaker 7": {
+  "name": "Chris Pratt",
+  "role": "Superintendent of Schools, SAU 6 - the second cluster the diarizer gives Chris Pratt. He owns and shares the superintendent-evaluation artifacts: after Frank Sprague warns the board it may have to request access, this voice answers 'I think I went through and checked them all again. So you should be all set' (2495.8-2501.8s). MEDIUM confidence; the cluster is small (6 segments) and one of them is reassigned by override to Kelly Simpson"
+ },
+ "Speaker 8": {
+  "name": "Kelly Simpson",
+  "role": "Unity School Board member; SAU 6 Board member - answers the roll ('Kelly. Kelly. Simpson. Sorry. Here', 54.3-56.9s, 'Kelly' conf 1.00) and is recognised by the chair 'Yes. Kelly.' at 1402.0s (conf 0.78), after which this voice says 'Two questions' and asks both. She speaks from outside Claremont at 2810.9s: 'So you're telling me that I will get texts about things that happen at Claremont Schools.' MEDIUM-HIGH confidence"
+ },
+ "Speaker 9": {
+  "name": "Rocco Ruggeri",
+  "role": "SAU 6 Joint Board VICE CHAIR (elected 4/11/24); Unity School Board member; delivers the Unity withdrawal report - Chair Hawkins recognises 'Rocco.' at 2165.3s (conf 0.97), 1.0s before this voice's policy KE question, and 'Mr. Ruggieri.' at 2659.7s (conf 1.00) immediately before its Unity Planning Committee report. He is NOT preserved in the transcribed roll call, but eight members answer the return-to-public roll where the ASR preserves only seven names. HIGH confidence"
+ },
+ "Speaker 10": {
+  "name": "Unidentified",
+  "role": "Unidentified - five short fragments (0.3-1.7s): two voice-vote 'Aye's, a 'Thank you' at adjournment and two crosstalk crumbs. No name anchor"
+ },
+ "Speaker 11": {
+  "name": "Mary Henry",
+  "role": "Business Administrator, SAU 6 - the second cluster the diarizer gives Mary Henry. Chair Hawkins says 'Next item future agenda items the audit presentation dates. Mary, you said you have those... Do you want to send those to the board' (2612.1s, 'Mary' conf 1.00) and this voice answers 'If I just send them to [you]' 6.7s later, then asks the board 'when is your next official meeting for this board?' so the audit presentations can be scheduled. MEDIUM-HIGH confidence; its last three fragments (2827-2838s, on the emergency-text system and Unity students at Stevens) are the weakest and could be another voice"
+ },
+ "__overrides__": {
+  "2": {
+   "name": "Unidentified",
+   "role": "Unidentified - the room reciting the Pledge of Allegiance; a collective recitation cannot be attributed to one speaker"
+  },
+  "5": {
+   "name": "Chris Pratt",
+   "role": "Superintendent of Schools, SAU 6 - reads all four roll calls in the clerk's absence: Chair Hawkins says 'Miss Cronenberg [Kronberg] is not here tonight. So that's why Mr. Pratt was so gracious in taking a [roll] call' (62.9-67.7s, 'Pratt' conf 1.00) and 'Mr. Pratt, would you please do [a roll] call' (274.4s, conf 1.00). The voice identifies itself as the superintendent at 1204.7s ('for myself and Assistant Superintendent Kosky [Koski]... it's in the contract') and at 1356.0s ('Mike and myself'). MERGED CLUSTER - it also carries Frank Sprague and Rocco Ruggeri; the overrides carry the exceptions. MERGED SEGMENT: the members' roll answers are absorbed into the reader's segment and cannot be separated from it"
+  },
+  "6": {
+   "name": "Chris Pratt",
+   "role": "Superintendent of Schools, SAU 6 - reads all four roll calls in the clerk's absence: Chair Hawkins says 'Miss Cronenberg [Kronberg] is not here tonight. So that's why Mr. Pratt was so gracious in taking a [roll] call' (62.9-67.7s, 'Pratt' conf 1.00) and 'Mr. Pratt, would you please do [a roll] call' (274.4s, conf 1.00). The voice identifies itself as the superintendent at 1204.7s ('for myself and Assistant Superintendent Kosky [Koski]... it's in the contract') and at 1356.0s ('Mike and myself'). MERGED CLUSTER - it also carries Frank Sprague and Rocco Ruggeri; the overrides carry the exceptions. MERGED SEGMENT: the members' roll answers are absorbed into the reader's segment and cannot be separated from it"
+  },
+  "11": {
+   "name": "Unidentified",
+   "role": "Unidentified SAU 6 board member - moved approval of the chair's two agenda additions ('...as described by Chair Hawkins', 134.2-134.6s, conf 1.00). Diarized into the business administrator's cluster, and Mary Henry does not move board motions; the mover is never named"
+  },
+  "12": {
+   "name": "Unidentified",
+   "role": "Unidentified - a sub-second crosstalk crumb with no name anchor"
+  },
+  "14": {
+   "name": "Unidentified",
+   "role": "Unidentified - a voice-vote 'Aye'; a collective assent cannot be attributed to one member"
+  },
+  "19": {
+   "name": "Unidentified",
+   "role": "Unidentified - a board member's second. The voice sits in a staff cluster (the superintendent's or the business administrator's) and staff do not second board motions; the seconder is never named"
+  },
+  "21": {
+   "name": "Unidentified",
+   "role": "Unidentified - a voice-vote 'Aye'; a collective assent cannot be attributed to one member"
+  },
+  "23": {
+   "name": "Atonya Hart",
+   "role": "Unity School Board member; SAU 6 Board member - the abstention on the September 12 minutes. She answers the roll ('Tanya. Hot [Hart] here', 48.8-49.3s, conf 0.99/0.98); the chair's next segment carries the abstainer's own 'I wasn't here' and then 'Thank you. Tonya.' (241.1s, conf 0.69), and the 9/12/24 roll call does not name her. MEDIUM confidence - the only word attributed here is the garbled 'Extension' [abstention]"
+  },
+  "24": {
+   "name": "Arlene Hawkins",
+   "role": "SAU 6 Joint Board CHAIR - opens the meeting ('I'd like to call the meeting of the [SAU] six school board to order', 2.7s), answers her own name in the roll ('Eileen [Arlene]. Hawkins.' 59.6-59.9s conf 1.00, then 'Here' at 60.5s) and presides throughout. The mover of the agenda amendments calls her 'Chair Hawkins' (134.2-134.6s, conf 1.00) and the mover of the unsealing motion calls her 'Arlene Hawkins' (2557.0-2557.6s, conf 0.90/1.00). HIGH confidence. From 2420.4s the diarizer moves her voice into the business administrator's cluster (Speaker 4); the overrides carry it back. MERGED SEGMENT: it opens with the abstainer's own 'I wasn't here' before the chair's 'Thank you. Tonya.' (241.1s, conf 0.69) and the move into nonpublic session"
+  },
+  "25": {
+   "name": "Unidentified",
+   "role": "Unidentified - a board member's second. The voice sits in a staff cluster (the superintendent's or the business administrator's) and staff do not second board motions; the seconder is never named"
+  },
+  "27": {
+   "name": "Chris Pratt",
+   "role": "Superintendent of Schools, SAU 6 - reads all four roll calls in the clerk's absence: Chair Hawkins says 'Miss Cronenberg [Kronberg] is not here tonight. So that's why Mr. Pratt was so gracious in taking a [roll] call' (62.9-67.7s, 'Pratt' conf 1.00) and 'Mr. Pratt, would you please do [a roll] call' (274.4s, conf 1.00). The voice identifies itself as the superintendent at 1204.7s ('for myself and Assistant Superintendent Kosky [Koski]... it's in the contract') and at 1356.0s ('Mike and myself'). MERGED CLUSTER - it also carries Frank Sprague and Rocco Ruggeri; the overrides carry the exceptions. MERGED SEGMENT: the members' roll answers are absorbed into the reader's segment and cannot be separated from it"
+  },
+  "28": {
+   "name": "Unidentified",
+   "role": "Unidentified - a member's answer in a roll-call vote. The ASR does not preserve the name the roll reader called in these segments, so the answer cannot be attached to a member"
+  },
+  "29": {
+   "name": "Chris Pratt",
+   "role": "Superintendent of Schools, SAU 6 - reads all four roll calls in the clerk's absence: Chair Hawkins says 'Miss Cronenberg [Kronberg] is not here tonight. So that's why Mr. Pratt was so gracious in taking a [roll] call' (62.9-67.7s, 'Pratt' conf 1.00) and 'Mr. Pratt, would you please do [a roll] call' (274.4s, conf 1.00). The voice identifies itself as the superintendent at 1204.7s ('for myself and Assistant Superintendent Kosky [Koski]... it's in the contract') and at 1356.0s ('Mike and myself'). MERGED CLUSTER - it also carries Frank Sprague and Rocco Ruggeri; the overrides carry the exceptions. MERGED SEGMENT: the members' roll answers are absorbed into the reader's segment and cannot be separated from it"
+  },
+  "30": {
+   "name": "Unidentified",
+   "role": "Unidentified - a member's answer in a roll-call vote. The ASR does not preserve the name the roll reader called in these segments, so the answer cannot be attached to a member"
+  },
+  "31": {
+   "name": "Arlene Hawkins",
+   "role": "SAU 6 Joint Board CHAIR - opens the meeting ('I'd like to call the meeting of the [SAU] six school board to order', 2.7s), answers her own name in the roll ('Eileen [Arlene]. Hawkins.' 59.6-59.9s conf 1.00, then 'Here' at 60.5s) and presides throughout. The mover of the agenda amendments calls her 'Chair Hawkins' (134.2-134.6s, conf 1.00) and the mover of the unsealing motion calls her 'Arlene Hawkins' (2557.0-2557.6s, conf 0.90/1.00). HIGH confidence. From 2420.4s the diarizer moves her voice into the business administrator's cluster (Speaker 4); the overrides carry it back. CLIPPED ONSET: a 0.84s 'Motion.' 0.08s before her own 'Motion passes' - this diarizer's documented habit of clipping a sentence onset into the neighbouring cluster"
+  },
+  "34": {
+   "name": "Frank Sprague",
+   "role": "Claremont School Board VICE CHAIR and chair of its Finance Committee; SAU 6 Board member; CHAIR of the SAU 6 superintendent-evaluation subcommittee - called first in the roll ('Frank Sprague.' 43.9-44.2s, then 'Here'), and recognised by Chair Hawkins five times immediately before this voice answers: 'Mr. Sprague' (348.9s conf 1.00), 'Frank?' (712.5s conf 0.53), 'Mr. Sprague' (991.2s conf 1.00), 'Frank,' (1717.0s conf 1.00) and 'Superintendent evaluation committee report, Mr. Sprague' (2435.2s conf 1.00). HIGH confidence on those turns"
+  },
+  "36": {
+   "name": "Unidentified",
+   "role": "Unidentified - a board member's second. The voice sits in a staff cluster (the superintendent's or the business administrator's) and staff do not second board motions; the seconder is never named"
+  },
+  "40": {
+   "name": "Unidentified",
+   "role": "Unidentified - a member's answer in a roll-call vote. The ASR does not preserve the name the roll reader called in these segments, so the answer cannot be attached to a member"
+  },
+  "41": {
+   "name": "Unidentified",
+   "role": "Unidentified - a member's answer in a roll-call vote. The ASR does not preserve the name the roll reader called in these segments, so the answer cannot be attached to a member"
+  },
+  "42": {
+   "name": "Unidentified",
+   "role": "Unidentified - a member's answer in a roll-call vote. The ASR does not preserve the name the roll reader called in these segments, so the answer cannot be attached to a member"
+  },
+  "43": {
+   "name": "Unidentified",
+   "role": "Unidentified - a member's answer in a roll-call vote. The ASR does not preserve the name the roll reader called in these segments, so the answer cannot be attached to a member"
+  },
+  "44": {
+   "name": "Chris Pratt",
+   "role": "Superintendent of Schools, SAU 6 - reads all four roll calls in the clerk's absence: Chair Hawkins says 'Miss Cronenberg [Kronberg] is not here tonight. So that's why Mr. Pratt was so gracious in taking a [roll] call' (62.9-67.7s, 'Pratt' conf 1.00) and 'Mr. Pratt, would you please do [a roll] call' (274.4s, conf 1.00). The voice identifies itself as the superintendent at 1204.7s ('for myself and Assistant Superintendent Kosky [Koski]... it's in the contract') and at 1356.0s ('Mike and myself'). MERGED CLUSTER - it also carries Frank Sprague and Rocco Ruggeri; the overrides carry the exceptions. MERGED SEGMENT: the members' roll answers are absorbed into the reader's segment and cannot be separated from it"
+  },
+  "45": {
+   "name": "Chris Pratt",
+   "role": "Superintendent of Schools, SAU 6 - reads all four roll calls in the clerk's absence: Chair Hawkins says 'Miss Cronenberg [Kronberg] is not here tonight. So that's why Mr. Pratt was so gracious in taking a [roll] call' (62.9-67.7s, 'Pratt' conf 1.00) and 'Mr. Pratt, would you please do [a roll] call' (274.4s, conf 1.00). The voice identifies itself as the superintendent at 1204.7s ('for myself and Assistant Superintendent Kosky [Koski]... it's in the contract') and at 1356.0s ('Mike and myself'). MERGED CLUSTER - it also carries Frank Sprague and Rocco Ruggeri; the overrides carry the exceptions"
+  },
+  "46": {
+   "name": "Chris Pratt",
+   "role": "Superintendent of Schools, SAU 6 - reads all four roll calls in the clerk's absence: Chair Hawkins says 'Miss Cronenberg [Kronberg] is not here tonight. So that's why Mr. Pratt was so gracious in taking a [roll] call' (62.9-67.7s, 'Pratt' conf 1.00) and 'Mr. Pratt, would you please do [a roll] call' (274.4s, conf 1.00). The voice identifies itself as the superintendent at 1204.7s ('for myself and Assistant Superintendent Kosky [Koski]... it's in the contract') and at 1356.0s ('Mike and myself'). MERGED CLUSTER - it also carries Frank Sprague and Rocco Ruggeri; the overrides carry the exceptions. MERGED SEGMENT: the members' roll answers are absorbed into the reader's segment and cannot be separated from it"
+  },
+  "47": {
+   "name": "Chris Pratt",
+   "role": "Superintendent of Schools, SAU 6 - reads all four roll calls in the clerk's absence: Chair Hawkins says 'Miss Cronenberg [Kronberg] is not here tonight. So that's why Mr. Pratt was so gracious in taking a [roll] call' (62.9-67.7s, 'Pratt' conf 1.00) and 'Mr. Pratt, would you please do [a roll] call' (274.4s, conf 1.00). The voice identifies itself as the superintendent at 1204.7s ('for myself and Assistant Superintendent Kosky [Koski]... it's in the contract') and at 1356.0s ('Mike and myself'). MERGED CLUSTER - it also carries Frank Sprague and Rocco Ruggeri; the overrides carry the exceptions. MERGED SEGMENT: the members' roll answers are absorbed into the reader's segment and cannot be separated from it"
+  },
+  "53": {
+   "name": "Unidentified",
+   "role": "Unidentified - floor discussion of whether the nonpublic minutes needed sealing at all ('I don't think we need to [seal]'; 'It's pretty generic, two sentences'). Board members' judgement diarized into staff clusters; none of the voices is named"
+  },
+  "54": {
+   "name": "Unidentified",
+   "role": "Unidentified - floor discussion of whether the nonpublic minutes needed sealing at all ('I don't think we need to [seal]'; 'It's pretty generic, two sentences'). Board members' judgement diarized into staff clusters; none of the voices is named"
+  },
+  "55": {
+   "name": "Unidentified",
+   "role": "Unidentified - floor discussion of whether the nonpublic minutes needed sealing at all ('I don't think we need to [seal]'; 'It's pretty generic, two sentences'). Board members' judgement diarized into staff clusters; none of the voices is named"
+  },
+  "57": {
+   "name": "Unidentified",
+   "role": "Unidentified - a sub-second crosstalk crumb with no name anchor"
+  },
+  "59": {
+   "name": "Unidentified",
+   "role": "Unidentified - a sub-second crosstalk crumb with no name anchor"
+  },
+  "60": {
+   "name": "Unidentified",
+   "role": "Unidentified - floor discussion of whether the nonpublic minutes needed sealing at all ('I don't think we need to [seal]'; 'It's pretty generic, two sentences'). Board members' judgement diarized into staff clusters; none of the voices is named"
+  },
+  "97": {
+   "name": "Frank Sprague",
+   "role": "Claremont School Board VICE CHAIR and chair of its Finance Committee; SAU 6 Board member; CHAIR of the SAU 6 superintendent-evaluation subcommittee - called first in the roll ('Frank Sprague.' 43.9-44.2s, then 'Here'), and recognised by Chair Hawkins five times immediately before this voice answers: 'Mr. Sprague' (348.9s conf 1.00), 'Frank?' (712.5s conf 0.53), 'Mr. Sprague' (991.2s conf 1.00), 'Frank,' (1717.0s conf 1.00) and 'Superintendent evaluation committee report, Mr. Sprague' (2435.2s conf 1.00). HIGH confidence on those turns"
+  },
+  "99": {
+   "name": "Frank Sprague",
+   "role": "Claremont School Board VICE CHAIR and chair of its Finance Committee; SAU 6 Board member - MEDIUM confidence. Chair Hawkins gave him the floor at 712.5s ('any questions or comments, Frank?') and these fragments continue his own FY24 budget-versus-actual question across the business administrator's answers, but no name is spoken in them and the diarizer splits them across three clusters"
+  },
+  "103": {
+   "name": "Frank Sprague",
+   "role": "Claremont School Board VICE CHAIR and chair of its Finance Committee; SAU 6 Board member - MEDIUM confidence. Chair Hawkins gave him the floor at 712.5s ('any questions or comments, Frank?') and these fragments continue his own FY24 budget-versus-actual question across the business administrator's answers, but no name is spoken in them and the diarizer splits them across three clusters"
+  },
+  "104": {
+   "name": "Frank Sprague",
+   "role": "Claremont School Board VICE CHAIR and chair of its Finance Committee; SAU 6 Board member - MEDIUM confidence. Chair Hawkins gave him the floor at 712.5s ('any questions or comments, Frank?') and these fragments continue his own FY24 budget-versus-actual question across the business administrator's answers, but no name is spoken in them and the diarizer splits them across three clusters"
+  },
+  "106": {
+   "name": "Frank Sprague",
+   "role": "Claremont School Board VICE CHAIR and chair of its Finance Committee; SAU 6 Board member - MEDIUM confidence. Chair Hawkins gave him the floor at 712.5s ('any questions or comments, Frank?') and these fragments continue his own FY24 budget-versus-actual question across the business administrator's answers, but no name is spoken in them and the diarizer splits them across three clusters"
+  },
+  "113": {
+   "name": "Frank Sprague",
+   "role": "Claremont School Board VICE CHAIR and chair of its Finance Committee; SAU 6 Board member - MEDIUM confidence. Chair Hawkins gave him the floor at 712.5s ('any questions or comments, Frank?') and these fragments continue his own FY24 budget-versus-actual question across the business administrator's answers, but no name is spoken in them and the diarizer splits them across three clusters"
+  },
+  "115": {
+   "name": "Frank Sprague",
+   "role": "Claremont School Board VICE CHAIR and chair of its Finance Committee; SAU 6 Board member - MEDIUM confidence. Chair Hawkins gave him the floor at 712.5s ('any questions or comments, Frank?') and these fragments continue his own FY24 budget-versus-actual question across the business administrator's answers, but no name is spoken in them and the diarizer splits them across three clusters"
+  },
+  "117": {
+   "name": "Frank Sprague",
+   "role": "Claremont School Board VICE CHAIR and chair of its Finance Committee; SAU 6 Board member - MEDIUM confidence. Chair Hawkins gave him the floor at 712.5s ('any questions or comments, Frank?') and these fragments continue his own FY24 budget-versus-actual question across the business administrator's answers, but no name is spoken in them and the diarizer splits them across three clusters"
+  },
+  "127": {
+   "name": "Frank Sprague",
+   "role": "Claremont School Board VICE CHAIR and chair of its Finance Committee; SAU 6 Board member; CHAIR of the SAU 6 superintendent-evaluation subcommittee - called first in the roll ('Frank Sprague.' 43.9-44.2s, then 'Here'), and recognised by Chair Hawkins five times immediately before this voice answers: 'Mr. Sprague' (348.9s conf 1.00), 'Frank?' (712.5s conf 0.53), 'Mr. Sprague' (991.2s conf 1.00), 'Frank,' (1717.0s conf 1.00) and 'Superintendent evaluation committee report, Mr. Sprague' (2435.2s conf 1.00). HIGH confidence on those turns"
+  },
+  "129": {
+   "name": "Frank Sprague",
+   "role": "Claremont School Board VICE CHAIR and chair of its Finance Committee; SAU 6 Board member; CHAIR of the SAU 6 superintendent-evaluation subcommittee - called first in the roll ('Frank Sprague.' 43.9-44.2s, then 'Here'), and recognised by Chair Hawkins five times immediately before this voice answers: 'Mr. Sprague' (348.9s conf 1.00), 'Frank?' (712.5s conf 0.53), 'Mr. Sprague' (991.2s conf 1.00), 'Frank,' (1717.0s conf 1.00) and 'Superintendent evaluation committee report, Mr. Sprague' (2435.2s conf 1.00). HIGH confidence on those turns"
+  },
+  "147": {
+   "name": "Arlene Hawkins",
+   "role": "SAU 6 Joint Board CHAIR - opens the meeting ('I'd like to call the meeting of the [SAU] six school board to order', 2.7s), answers her own name in the roll ('Eileen [Arlene]. Hawkins.' 59.6-59.9s conf 1.00, then 'Here' at 60.5s) and presides throughout. The mover of the agenda amendments calls her 'Chair Hawkins' (134.2-134.6s, conf 1.00) and the mover of the unsealing motion calls her 'Arlene Hawkins' (2557.0-2557.6s, conf 0.90/1.00). HIGH confidence. From 2420.4s the diarizer moves her voice into the business administrator's cluster (Speaker 4); the overrides carry it back"
+  },
+  "206": {
+   "name": "Arlene Hawkins",
+   "role": "SAU 6 Joint Board CHAIR - opens the meeting ('I'd like to call the meeting of the [SAU] six school board to order', 2.7s), answers her own name in the roll ('Eileen [Arlene]. Hawkins.' 59.6-59.9s conf 1.00, then 'Here' at 60.5s) and presides throughout. The mover of the agenda amendments calls her 'Chair Hawkins' (134.2-134.6s, conf 1.00) and the mover of the unsealing motion calls her 'Arlene Hawkins' (2557.0-2557.6s, conf 0.90/1.00). HIGH confidence. From 2420.4s the diarizer moves her voice into the business administrator's cluster (Speaker 4); the overrides carry it back. MERGED SEGMENT: it opens with Mary Henry's 'Thank you. Yep.' before the chair's recognition 'Yes. Kelly.' (1402.0s, conf 0.78)"
+  },
+  "207": {
+   "name": "Kelly Simpson",
+   "role": "Unity School Board member; SAU 6 Board member - answers the roll ('Kelly. Kelly. Simpson. Sorry. Here', 54.3-56.9s, 'Kelly' conf 1.00) and is recognised by the chair 'Yes. Kelly.' at 1402.0s (conf 0.78), after which this voice says 'Two questions' and asks both. She speaks from outside Claremont at 2810.9s: 'So you're telling me that I will get texts about things that happen at Claremont Schools.' MEDIUM-HIGH confidence"
+  },
+  "208": {
+   "name": "Kelly Simpson",
+   "role": "Unity School Board member; SAU 6 Board member - answers the roll ('Kelly. Kelly. Simpson. Sorry. Here', 54.3-56.9s, 'Kelly' conf 1.00) and is recognised by the chair 'Yes. Kelly.' at 1402.0s (conf 0.78), after which this voice says 'Two questions' and asks both. She speaks from outside Claremont at 2810.9s: 'So you're telling me that I will get texts about things that happen at Claremont Schools.' MEDIUM-HIGH confidence"
+  },
+  "209": {
+   "name": "Kelly Simpson",
+   "role": "Unity School Board member; SAU 6 Board member - answers the roll ('Kelly. Kelly. Simpson. Sorry. Here', 54.3-56.9s, 'Kelly' conf 1.00) and is recognised by the chair 'Yes. Kelly.' at 1402.0s (conf 0.78), after which this voice says 'Two questions' and asks both. She speaks from outside Claremont at 2810.9s: 'So you're telling me that I will get texts about things that happen at Claremont Schools.' MEDIUM-HIGH confidence"
+  },
+  "215": {
+   "name": "Arlene Hawkins",
+   "role": "SAU 6 Joint Board CHAIR - opens the meeting ('I'd like to call the meeting of the [SAU] six school board to order', 2.7s), answers her own name in the roll ('Eileen [Arlene]. Hawkins.' 59.6-59.9s conf 1.00, then 'Here' at 60.5s) and presides throughout. The mover of the agenda amendments calls her 'Chair Hawkins' (134.2-134.6s, conf 1.00) and the mover of the unsealing motion calls her 'Arlene Hawkins' (2557.0-2557.6s, conf 0.90/1.00). HIGH confidence. From 2420.4s the diarizer moves her voice into the business administrator's cluster (Speaker 4); the overrides carry it back"
+  },
+  "218": {
+   "name": "Unidentified",
+   "role": "Unidentified SAU 6 board member recalling why cell-phone reimbursement replaced district-issued phones ('And I was on the board in the past, it went that way because people said... who wants to carry around two cell phones'). It sits in the superintendent's cluster, but Chris Pratt has never sat on this board; the speaker is never named"
+  },
+  "249": {
+   "name": "Unidentified",
+   "role": "Unidentified SAU 6 board member answering the chair's question to the board on the $10,000 contracted-services line ('I don't think we need [it]'). In the business administrator's cluster; never named"
+  },
+  "252": {
+   "name": "Frank Sprague",
+   "role": "Claremont School Board VICE CHAIR and chair of its Finance Committee; SAU 6 Board member; CHAIR of the SAU 6 superintendent-evaluation subcommittee - called first in the roll ('Frank Sprague.' 43.9-44.2s, then 'Here'), and recognised by Chair Hawkins five times immediately before this voice answers: 'Mr. Sprague' (348.9s conf 1.00), 'Frank?' (712.5s conf 0.53), 'Mr. Sprague' (991.2s conf 1.00), 'Frank,' (1717.0s conf 1.00) and 'Superintendent evaluation committee report, Mr. Sprague' (2435.2s conf 1.00). HIGH confidence on those turns"
+  },
+  "261": {
+   "name": "Rocco Ruggeri",
+   "role": "SAU 6 Joint Board VICE CHAIR (elected 4/11/24); Unity School Board member; delivers the Unity withdrawal report - Chair Hawkins recognises 'Rocco.' at 2165.3s (conf 0.97), 1.0s before this voice's policy KE question, and 'Mr. Ruggieri.' at 2659.7s (conf 1.00) immediately before its Unity Planning Committee report. He is NOT preserved in the transcribed roll call, but eight members answer the return-to-public roll where the ASR preserves only seven names. HIGH confidence"
+  },
+  "264": {
+   "name": "Unidentified",
+   "role": "Unidentified - a voice-vote 'Aye'; a collective assent cannot be attributed to one member"
+  },
+  "314": {
+   "name": "Unidentified",
+   "role": "Unidentified SAU 6 board member - mover of the policy-adoption slate and then of the friendly amendment ('my motion', 2276.9s; 'my friendly amendment', 2406.0s), speaking for the policy subcommittee in the first person ('this is the recommendation that the committee made... I did ask the superintendent afterwards', 2367.1-2387.1s). CONFLICTING EVIDENCE, deliberately unresolved: the chair's recognition 0.1s before the motion is heard as 'Okay windy' (2117.3s, conf 0.80), an ASR form this corpus attests BOTH for Heather Whitney and for 'Candy' (Candace Crawford); while the SAU 6 policy subcommittee seated 4/11/24 was Crawford, Kelly Simpson and Chair Hawkins, and Simpson and Hawkins each hold their own voice tonight, which points to Crawford. No name is spoken, so this is left unnamed"
+  },
+  "315": {
+   "name": "Unidentified",
+   "role": "Unidentified SAU 6 board member - mover of the policy-adoption slate and then of the friendly amendment ('my motion', 2276.9s; 'my friendly amendment', 2406.0s), speaking for the policy subcommittee in the first person ('this is the recommendation that the committee made... I did ask the superintendent afterwards', 2367.1-2387.1s). CONFLICTING EVIDENCE, deliberately unresolved: the chair's recognition 0.1s before the motion is heard as 'Okay windy' (2117.3s, conf 0.80), an ASR form this corpus attests BOTH for Heather Whitney and for 'Candy' (Candace Crawford); while the SAU 6 policy subcommittee seated 4/11/24 was Crawford, Kelly Simpson and Chair Hawkins, and Simpson and Hawkins each hold their own voice tonight, which points to Crawford. No name is spoken, so this is left unnamed"
+  },
+  "316": {
+   "name": "Arlene Hawkins",
+   "role": "SAU 6 Joint Board CHAIR - opens the meeting ('I'd like to call the meeting of the [SAU] six school board to order', 2.7s), answers her own name in the roll ('Eileen [Arlene]. Hawkins.' 59.6-59.9s conf 1.00, then 'Here' at 60.5s) and presides throughout. The mover of the agenda amendments calls her 'Chair Hawkins' (134.2-134.6s, conf 1.00) and the mover of the unsealing motion calls her 'Arlene Hawkins' (2557.0-2557.6s, conf 0.90/1.00). HIGH confidence. From 2420.4s the diarizer moves her voice into the business administrator's cluster (Speaker 4); the overrides carry it back. MERGED SEGMENT: her 'Go for it.' granting the floor, with the mover's restart ('I'd like to make a [motion]') absorbed at the tail"
+  },
+  "317": {
+   "name": "Unidentified",
+   "role": "Unidentified SAU 6 board member - mover of the policy-adoption slate and then of the friendly amendment ('my motion', 2276.9s; 'my friendly amendment', 2406.0s), speaking for the policy subcommittee in the first person ('this is the recommendation that the committee made... I did ask the superintendent afterwards', 2367.1-2387.1s). CONFLICTING EVIDENCE, deliberately unresolved: the chair's recognition 0.1s before the motion is heard as 'Okay windy' (2117.3s, conf 0.80), an ASR form this corpus attests BOTH for Heather Whitney and for 'Candy' (Candace Crawford); while the SAU 6 policy subcommittee seated 4/11/24 was Crawford, Kelly Simpson and Chair Hawkins, and Simpson and Hawkins each hold their own voice tonight, which points to Crawford. No name is spoken, so this is left unnamed"
+  },
+  "318": {
+   "name": "Unidentified",
+   "role": "Unidentified SAU 6 board member - mover of the policy-adoption slate and then of the friendly amendment ('my motion', 2276.9s; 'my friendly amendment', 2406.0s), speaking for the policy subcommittee in the first person ('this is the recommendation that the committee made... I did ask the superintendent afterwards', 2367.1-2387.1s). CONFLICTING EVIDENCE, deliberately unresolved: the chair's recognition 0.1s before the motion is heard as 'Okay windy' (2117.3s, conf 0.80), an ASR form this corpus attests BOTH for Heather Whitney and for 'Candy' (Candace Crawford); while the SAU 6 policy subcommittee seated 4/11/24 was Crawford, Kelly Simpson and Chair Hawkins, and Simpson and Hawkins each hold their own voice tonight, which points to Crawford. No name is spoken, so this is left unnamed"
+  },
+  "319": {
+   "name": "Unidentified",
+   "role": "Unidentified SAU 6 board member - mover of the policy-adoption slate and then of the friendly amendment ('my motion', 2276.9s; 'my friendly amendment', 2406.0s), speaking for the policy subcommittee in the first person ('this is the recommendation that the committee made... I did ask the superintendent afterwards', 2367.1-2387.1s). CONFLICTING EVIDENCE, deliberately unresolved: the chair's recognition 0.1s before the motion is heard as 'Okay windy' (2117.3s, conf 0.80), an ASR form this corpus attests BOTH for Heather Whitney and for 'Candy' (Candace Crawford); while the SAU 6 policy subcommittee seated 4/11/24 was Crawford, Kelly Simpson and Chair Hawkins, and Simpson and Hawkins each hold their own voice tonight, which points to Crawford. No name is spoken, so this is left unnamed"
+  },
+  "320": {
+   "name": "Unidentified",
+   "role": "Unidentified SAU 6 board member - mover of the policy-adoption slate and then of the friendly amendment ('my motion', 2276.9s; 'my friendly amendment', 2406.0s), speaking for the policy subcommittee in the first person ('this is the recommendation that the committee made... I did ask the superintendent afterwards', 2367.1-2387.1s). CONFLICTING EVIDENCE, deliberately unresolved: the chair's recognition 0.1s before the motion is heard as 'Okay windy' (2117.3s, conf 0.80), an ASR form this corpus attests BOTH for Heather Whitney and for 'Candy' (Candace Crawford); while the SAU 6 policy subcommittee seated 4/11/24 was Crawford, Kelly Simpson and Chair Hawkins, and Simpson and Hawkins each hold their own voice tonight, which points to Crawford. No name is spoken, so this is left unnamed"
+  },
+  "321": {
+   "name": "Unidentified",
+   "role": "Unidentified SAU 6 board member - mover of the policy-adoption slate and then of the friendly amendment ('my motion', 2276.9s; 'my friendly amendment', 2406.0s), speaking for the policy subcommittee in the first person ('this is the recommendation that the committee made... I did ask the superintendent afterwards', 2367.1-2387.1s). CONFLICTING EVIDENCE, deliberately unresolved: the chair's recognition 0.1s before the motion is heard as 'Okay windy' (2117.3s, conf 0.80), an ASR form this corpus attests BOTH for Heather Whitney and for 'Candy' (Candace Crawford); while the SAU 6 policy subcommittee seated 4/11/24 was Crawford, Kelly Simpson and Chair Hawkins, and Simpson and Hawkins each hold their own voice tonight, which points to Crawford. No name is spoken, so this is left unnamed"
+  },
+  "322": {
+   "name": "Unidentified",
+   "role": "Unidentified SAU 6 board member - mover of the policy-adoption slate and then of the friendly amendment ('my motion', 2276.9s; 'my friendly amendment', 2406.0s), speaking for the policy subcommittee in the first person ('this is the recommendation that the committee made... I did ask the superintendent afterwards', 2367.1-2387.1s). CONFLICTING EVIDENCE, deliberately unresolved: the chair's recognition 0.1s before the motion is heard as 'Okay windy' (2117.3s, conf 0.80), an ASR form this corpus attests BOTH for Heather Whitney and for 'Candy' (Candace Crawford); while the SAU 6 policy subcommittee seated 4/11/24 was Crawford, Kelly Simpson and Chair Hawkins, and Simpson and Hawkins each hold their own voice tonight, which points to Crawford. No name is spoken, so this is left unnamed"
+  },
+  "323": {
+   "name": "Unidentified",
+   "role": "Unidentified SAU 6 board member - mover of the policy-adoption slate and then of the friendly amendment ('my motion', 2276.9s; 'my friendly amendment', 2406.0s), speaking for the policy subcommittee in the first person ('this is the recommendation that the committee made... I did ask the superintendent afterwards', 2367.1-2387.1s). CONFLICTING EVIDENCE, deliberately unresolved: the chair's recognition 0.1s before the motion is heard as 'Okay windy' (2117.3s, conf 0.80), an ASR form this corpus attests BOTH for Heather Whitney and for 'Candy' (Candace Crawford); while the SAU 6 policy subcommittee seated 4/11/24 was Crawford, Kelly Simpson and Chair Hawkins, and Simpson and Hawkins each hold their own voice tonight, which points to Crawford. No name is spoken, so this is left unnamed"
+  },
+  "324": {
+   "name": "Unidentified",
+   "role": "Unidentified SAU 6 board member - mover of the policy-adoption slate and then of the friendly amendment ('my motion', 2276.9s; 'my friendly amendment', 2406.0s), speaking for the policy subcommittee in the first person ('this is the recommendation that the committee made... I did ask the superintendent afterwards', 2367.1-2387.1s). CONFLICTING EVIDENCE, deliberately unresolved: the chair's recognition 0.1s before the motion is heard as 'Okay windy' (2117.3s, conf 0.80), an ASR form this corpus attests BOTH for Heather Whitney and for 'Candy' (Candace Crawford); while the SAU 6 policy subcommittee seated 4/11/24 was Crawford, Kelly Simpson and Chair Hawkins, and Simpson and Hawkins each hold their own voice tonight, which points to Crawford. No name is spoken, so this is left unnamed"
+  },
+  "325": {
+   "name": "Unidentified",
+   "role": "Unidentified SAU 6 board member - mover of the policy-adoption slate and then of the friendly amendment ('my motion', 2276.9s; 'my friendly amendment', 2406.0s), speaking for the policy subcommittee in the first person ('this is the recommendation that the committee made... I did ask the superintendent afterwards', 2367.1-2387.1s). CONFLICTING EVIDENCE, deliberately unresolved: the chair's recognition 0.1s before the motion is heard as 'Okay windy' (2117.3s, conf 0.80), an ASR form this corpus attests BOTH for Heather Whitney and for 'Candy' (Candace Crawford); while the SAU 6 policy subcommittee seated 4/11/24 was Crawford, Kelly Simpson and Chair Hawkins, and Simpson and Hawkins each hold their own voice tonight, which points to Crawford. No name is spoken, so this is left unnamed"
+  },
+  "326": {
+   "name": "Unidentified",
+   "role": "Unidentified - the audible 'Second' on the motion to adopt the policy slate. Chair Hawkins records the seconder as Atonya Hart 12s later ('And Tanya seconded it', 2161.2s, conf 1.00), but the fragment sits inside the chair's own cluster and cannot be separated from it, so it is not attributed"
+  },
+  "329": {
+   "name": "Unidentified",
+   "role": "Unidentified SAU 6 board member - mover of the policy-adoption slate and then of the friendly amendment ('my motion', 2276.9s; 'my friendly amendment', 2406.0s), speaking for the policy subcommittee in the first person ('this is the recommendation that the committee made... I did ask the superintendent afterwards', 2367.1-2387.1s). CONFLICTING EVIDENCE, deliberately unresolved: the chair's recognition 0.1s before the motion is heard as 'Okay windy' (2117.3s, conf 0.80), an ASR form this corpus attests BOTH for Heather Whitney and for 'Candy' (Candace Crawford); while the SAU 6 policy subcommittee seated 4/11/24 was Crawford, Kelly Simpson and Chair Hawkins, and Simpson and Hawkins each hold their own voice tonight, which points to Crawford. No name is spoken, so this is left unnamed"
+  },
+  "330": {
+   "name": "Arlene Hawkins",
+   "role": "SAU 6 Joint Board CHAIR - opens the meeting ('I'd like to call the meeting of the [SAU] six school board to order', 2.7s), answers her own name in the roll ('Eileen [Arlene]. Hawkins.' 59.6-59.9s conf 1.00, then 'Here' at 60.5s) and presides throughout. The mover of the agenda amendments calls her 'Chair Hawkins' (134.2-134.6s, conf 1.00) and the mover of the unsealing motion calls her 'Arlene Hawkins' (2557.0-2557.6s, conf 0.90/1.00). HIGH confidence. From 2420.4s the diarizer moves her voice into the business administrator's cluster (Speaker 4); the overrides carry it back. MERGED SEGMENT: it opens with the mover's own 'As written.' before the chair records 'And Tanya seconded it' and recognises 'Rocco.'"
+  },
+  "336": {
+   "name": "Unidentified",
+   "role": "Unidentified SAU 6 board member - mover of the policy-adoption slate and then of the friendly amendment ('my motion', 2276.9s; 'my friendly amendment', 2406.0s), speaking for the policy subcommittee in the first person ('this is the recommendation that the committee made... I did ask the superintendent afterwards', 2367.1-2387.1s). CONFLICTING EVIDENCE, deliberately unresolved: the chair's recognition 0.1s before the motion is heard as 'Okay windy' (2117.3s, conf 0.80), an ASR form this corpus attests BOTH for Heather Whitney and for 'Candy' (Candace Crawford); while the SAU 6 policy subcommittee seated 4/11/24 was Crawford, Kelly Simpson and Chair Hawkins, and Simpson and Hawkins each hold their own voice tonight, which points to Crawford. No name is spoken, so this is left unnamed"
+  },
+  "338": {
+   "name": "Rocco Ruggeri",
+   "role": "SAU 6 Joint Board VICE CHAIR (elected 4/11/24); Unity School Board member; delivers the Unity withdrawal report - Chair Hawkins recognises 'Rocco.' at 2165.3s (conf 0.97), 1.0s before this voice's policy KE question, and 'Mr. Ruggieri.' at 2659.7s (conf 1.00) immediately before its Unity Planning Committee report. He is NOT preserved in the transcribed roll call, but eight members answer the return-to-public roll where the ASR preserves only seven names. HIGH confidence"
+  },
+  "340": {
+   "name": "Rocco Ruggeri",
+   "role": "SAU 6 Joint Board VICE CHAIR (elected 4/11/24); Unity School Board member; delivers the Unity withdrawal report - Chair Hawkins recognises 'Rocco.' at 2165.3s (conf 0.97), 1.0s before this voice's policy KE question, and 'Mr. Ruggieri.' at 2659.7s (conf 1.00) immediately before its Unity Planning Committee report. He is NOT preserved in the transcribed roll call, but eight members answer the return-to-public roll where the ASR preserves only seven names. HIGH confidence"
+  },
+  "343": {
+   "name": "Unidentified",
+   "role": "Unidentified SAU 6 board member - mover of the policy-adoption slate and then of the friendly amendment ('my motion', 2276.9s; 'my friendly amendment', 2406.0s), speaking for the policy subcommittee in the first person ('this is the recommendation that the committee made... I did ask the superintendent afterwards', 2367.1-2387.1s). CONFLICTING EVIDENCE, deliberately unresolved: the chair's recognition 0.1s before the motion is heard as 'Okay windy' (2117.3s, conf 0.80), an ASR form this corpus attests BOTH for Heather Whitney and for 'Candy' (Candace Crawford); while the SAU 6 policy subcommittee seated 4/11/24 was Crawford, Kelly Simpson and Chair Hawkins, and Simpson and Hawkins each hold their own voice tonight, which points to Crawford. No name is spoken, so this is left unnamed"
+  },
+  "344": {
+   "name": "Unidentified",
+   "role": "Unidentified SAU 6 board member - mover of the policy-adoption slate and then of the friendly amendment ('my motion', 2276.9s; 'my friendly amendment', 2406.0s), speaking for the policy subcommittee in the first person ('this is the recommendation that the committee made... I did ask the superintendent afterwards', 2367.1-2387.1s). CONFLICTING EVIDENCE, deliberately unresolved: the chair's recognition 0.1s before the motion is heard as 'Okay windy' (2117.3s, conf 0.80), an ASR form this corpus attests BOTH for Heather Whitney and for 'Candy' (Candace Crawford); while the SAU 6 policy subcommittee seated 4/11/24 was Crawford, Kelly Simpson and Chair Hawkins, and Simpson and Hawkins each hold their own voice tonight, which points to Crawford. No name is spoken, so this is left unnamed"
+  },
+  "345": {
+   "name": "Unidentified",
+   "role": "Unidentified SAU 6 board member - mover of the policy-adoption slate and then of the friendly amendment ('my motion', 2276.9s; 'my friendly amendment', 2406.0s), speaking for the policy subcommittee in the first person ('this is the recommendation that the committee made... I did ask the superintendent afterwards', 2367.1-2387.1s). CONFLICTING EVIDENCE, deliberately unresolved: the chair's recognition 0.1s before the motion is heard as 'Okay windy' (2117.3s, conf 0.80), an ASR form this corpus attests BOTH for Heather Whitney and for 'Candy' (Candace Crawford); while the SAU 6 policy subcommittee seated 4/11/24 was Crawford, Kelly Simpson and Chair Hawkins, and Simpson and Hawkins each hold their own voice tonight, which points to Crawford. No name is spoken, so this is left unnamed"
+  },
+  "346": {
+   "name": "Rocco Ruggeri",
+   "role": "SAU 6 Joint Board VICE CHAIR (elected 4/11/24); Unity School Board member; delivers the Unity withdrawal report - Chair Hawkins recognises 'Rocco.' at 2165.3s (conf 0.97), 1.0s before this voice's policy KE question, and 'Mr. Ruggieri.' at 2659.7s (conf 1.00) immediately before its Unity Planning Committee report. He is NOT preserved in the transcribed roll call, but eight members answer the return-to-public roll where the ASR preserves only seven names. HIGH confidence. MERGED SEGMENT: it opens with a seconder's 'Second.' on the friendly amendment before Ruggeri's own 'Just a copy and paste [of the]...'; the seconder is not identifiable"
+  },
+  "348": {
+   "name": "Rocco Ruggeri",
+   "role": "SAU 6 Joint Board VICE CHAIR (elected 4/11/24); Unity School Board member; delivers the Unity withdrawal report - Chair Hawkins recognises 'Rocco.' at 2165.3s (conf 0.97), 1.0s before this voice's policy KE question, and 'Mr. Ruggieri.' at 2659.7s (conf 1.00) immediately before its Unity Planning Committee report. He is NOT preserved in the transcribed roll call, but eight members answer the return-to-public roll where the ASR preserves only seven names. HIGH confidence"
+  },
+  "349": {
+   "name": "Unidentified",
+   "role": "Unidentified SAU 6 board member - mover of the policy-adoption slate and then of the friendly amendment ('my motion', 2276.9s; 'my friendly amendment', 2406.0s), speaking for the policy subcommittee in the first person ('this is the recommendation that the committee made... I did ask the superintendent afterwards', 2367.1-2387.1s). CONFLICTING EVIDENCE, deliberately unresolved: the chair's recognition 0.1s before the motion is heard as 'Okay windy' (2117.3s, conf 0.80), an ASR form this corpus attests BOTH for Heather Whitney and for 'Candy' (Candace Crawford); while the SAU 6 policy subcommittee seated 4/11/24 was Crawford, Kelly Simpson and Chair Hawkins, and Simpson and Hawkins each hold their own voice tonight, which points to Crawford. No name is spoken, so this is left unnamed"
+  },
+  "351": {
+   "name": "Unidentified",
+   "role": "Unidentified SAU 6 board member - mover of the policy-adoption slate and then of the friendly amendment ('my motion', 2276.9s; 'my friendly amendment', 2406.0s), speaking for the policy subcommittee in the first person ('this is the recommendation that the committee made... I did ask the superintendent afterwards', 2367.1-2387.1s). CONFLICTING EVIDENCE, deliberately unresolved: the chair's recognition 0.1s before the motion is heard as 'Okay windy' (2117.3s, conf 0.80), an ASR form this corpus attests BOTH for Heather Whitney and for 'Candy' (Candace Crawford); while the SAU 6 policy subcommittee seated 4/11/24 was Crawford, Kelly Simpson and Chair Hawkins, and Simpson and Hawkins each hold their own voice tonight, which points to Crawford. No name is spoken, so this is left unnamed"
+  },
+  "353": {
+   "name": "Arlene Hawkins",
+   "role": "SAU 6 Joint Board CHAIR - opens the meeting ('I'd like to call the meeting of the [SAU] six school board to order', 2.7s), answers her own name in the roll ('Eileen [Arlene]. Hawkins.' 59.6-59.9s conf 1.00, then 'Here' at 60.5s) and presides throughout. The mover of the agenda amendments calls her 'Chair Hawkins' (134.2-134.6s, conf 1.00) and the mover of the unsealing motion calls her 'Arlene Hawkins' (2557.0-2557.6s, conf 0.90/1.00). HIGH confidence. From 2420.4s the diarizer moves her voice into the business administrator's cluster (Speaker 4); the overrides carry it back"
+  },
+  "354": {
+   "name": "Rocco Ruggeri",
+   "role": "SAU 6 Joint Board VICE CHAIR (elected 4/11/24); Unity School Board member; delivers the Unity withdrawal report - Chair Hawkins recognises 'Rocco.' at 2165.3s (conf 0.97), 1.0s before this voice's policy KE question, and 'Mr. Ruggieri.' at 2659.7s (conf 1.00) immediately before its Unity Planning Committee report. He is NOT preserved in the transcribed roll call, but eight members answer the return-to-public roll where the ASR preserves only seven names. HIGH confidence"
+  },
+  "355": {
+   "name": "Unidentified",
+   "role": "Unidentified SAU 6 board member - mover of the policy-adoption slate and then of the friendly amendment ('my motion', 2276.9s; 'my friendly amendment', 2406.0s), speaking for the policy subcommittee in the first person ('this is the recommendation that the committee made... I did ask the superintendent afterwards', 2367.1-2387.1s). CONFLICTING EVIDENCE, deliberately unresolved: the chair's recognition 0.1s before the motion is heard as 'Okay windy' (2117.3s, conf 0.80), an ASR form this corpus attests BOTH for Heather Whitney and for 'Candy' (Candace Crawford); while the SAU 6 policy subcommittee seated 4/11/24 was Crawford, Kelly Simpson and Chair Hawkins, and Simpson and Hawkins each hold their own voice tonight, which points to Crawford. No name is spoken, so this is left unnamed"
+  },
+  "356": {
+   "name": "Rocco Ruggeri",
+   "role": "SAU 6 Joint Board VICE CHAIR (elected 4/11/24); Unity School Board member; delivers the Unity withdrawal report - Chair Hawkins recognises 'Rocco.' at 2165.3s (conf 0.97), 1.0s before this voice's policy KE question, and 'Mr. Ruggieri.' at 2659.7s (conf 1.00) immediately before its Unity Planning Committee report. He is NOT preserved in the transcribed roll call, but eight members answer the return-to-public roll where the ASR preserves only seven names. HIGH confidence"
+  },
+  "357": {
+   "name": "Unidentified",
+   "role": "Unidentified SAU 6 board member - mover of the policy-adoption slate and then of the friendly amendment ('my motion', 2276.9s; 'my friendly amendment', 2406.0s), speaking for the policy subcommittee in the first person ('this is the recommendation that the committee made... I did ask the superintendent afterwards', 2367.1-2387.1s). CONFLICTING EVIDENCE, deliberately unresolved: the chair's recognition 0.1s before the motion is heard as 'Okay windy' (2117.3s, conf 0.80), an ASR form this corpus attests BOTH for Heather Whitney and for 'Candy' (Candace Crawford); while the SAU 6 policy subcommittee seated 4/11/24 was Crawford, Kelly Simpson and Chair Hawkins, and Simpson and Hawkins each hold their own voice tonight, which points to Crawford. No name is spoken, so this is left unnamed"
+  },
+  "358": {
+   "name": "Rocco Ruggeri",
+   "role": "SAU 6 Joint Board VICE CHAIR (elected 4/11/24); Unity School Board member; delivers the Unity withdrawal report - Chair Hawkins recognises 'Rocco.' at 2165.3s (conf 0.97), 1.0s before this voice's policy KE question, and 'Mr. Ruggieri.' at 2659.7s (conf 1.00) immediately before its Unity Planning Committee report. He is NOT preserved in the transcribed roll call, but eight members answer the return-to-public roll where the ASR preserves only seven names. HIGH confidence"
+  },
+  "359": {
+   "name": "Unidentified",
+   "role": "Unidentified SAU 6 board member - mover of the policy-adoption slate and then of the friendly amendment ('my motion', 2276.9s; 'my friendly amendment', 2406.0s), speaking for the policy subcommittee in the first person ('this is the recommendation that the committee made... I did ask the superintendent afterwards', 2367.1-2387.1s). CONFLICTING EVIDENCE, deliberately unresolved: the chair's recognition 0.1s before the motion is heard as 'Okay windy' (2117.3s, conf 0.80), an ASR form this corpus attests BOTH for Heather Whitney and for 'Candy' (Candace Crawford); while the SAU 6 policy subcommittee seated 4/11/24 was Crawford, Kelly Simpson and Chair Hawkins, and Simpson and Hawkins each hold their own voice tonight, which points to Crawford. No name is spoken, so this is left unnamed"
+  },
+  "360": {
+   "name": "Rocco Ruggeri",
+   "role": "SAU 6 Joint Board VICE CHAIR (elected 4/11/24); Unity School Board member; delivers the Unity withdrawal report - Chair Hawkins recognises 'Rocco.' at 2165.3s (conf 0.97), 1.0s before this voice's policy KE question, and 'Mr. Ruggieri.' at 2659.7s (conf 1.00) immediately before its Unity Planning Committee report. He is NOT preserved in the transcribed roll call, but eight members answer the return-to-public roll where the ASR preserves only seven names. HIGH confidence"
+  },
+  "361": {
+   "name": "Unidentified",
+   "role": "Unidentified SAU 6 board member - mover of the policy-adoption slate and then of the friendly amendment ('my motion', 2276.9s; 'my friendly amendment', 2406.0s), speaking for the policy subcommittee in the first person ('this is the recommendation that the committee made... I did ask the superintendent afterwards', 2367.1-2387.1s). CONFLICTING EVIDENCE, deliberately unresolved: the chair's recognition 0.1s before the motion is heard as 'Okay windy' (2117.3s, conf 0.80), an ASR form this corpus attests BOTH for Heather Whitney and for 'Candy' (Candace Crawford); while the SAU 6 policy subcommittee seated 4/11/24 was Crawford, Kelly Simpson and Chair Hawkins, and Simpson and Hawkins each hold their own voice tonight, which points to Crawford. No name is spoken, so this is left unnamed"
+  },
+  "362": {
+   "name": "Unidentified",
+   "role": "Unidentified SAU 6 board member - mover of the policy-adoption slate and then of the friendly amendment ('my motion', 2276.9s; 'my friendly amendment', 2406.0s), speaking for the policy subcommittee in the first person ('this is the recommendation that the committee made... I did ask the superintendent afterwards', 2367.1-2387.1s). CONFLICTING EVIDENCE, deliberately unresolved: the chair's recognition 0.1s before the motion is heard as 'Okay windy' (2117.3s, conf 0.80), an ASR form this corpus attests BOTH for Heather Whitney and for 'Candy' (Candace Crawford); while the SAU 6 policy subcommittee seated 4/11/24 was Crawford, Kelly Simpson and Chair Hawkins, and Simpson and Hawkins each hold their own voice tonight, which points to Crawford. No name is spoken, so this is left unnamed"
+  },
+  "364": {
+   "name": "Unidentified",
+   "role": "Unidentified SAU 6 board member - mover of the policy-adoption slate and then of the friendly amendment ('my motion', 2276.9s; 'my friendly amendment', 2406.0s), speaking for the policy subcommittee in the first person ('this is the recommendation that the committee made... I did ask the superintendent afterwards', 2367.1-2387.1s). CONFLICTING EVIDENCE, deliberately unresolved: the chair's recognition 0.1s before the motion is heard as 'Okay windy' (2117.3s, conf 0.80), an ASR form this corpus attests BOTH for Heather Whitney and for 'Candy' (Candace Crawford); while the SAU 6 policy subcommittee seated 4/11/24 was Crawford, Kelly Simpson and Chair Hawkins, and Simpson and Hawkins each hold their own voice tonight, which points to Crawford. No name is spoken, so this is left unnamed"
+  },
+  "366": {
+   "name": "Unidentified",
+   "role": "Unidentified SAU 6 board member - mover of the policy-adoption slate and then of the friendly amendment ('my motion', 2276.9s; 'my friendly amendment', 2406.0s), speaking for the policy subcommittee in the first person ('this is the recommendation that the committee made... I did ask the superintendent afterwards', 2367.1-2387.1s). CONFLICTING EVIDENCE, deliberately unresolved: the chair's recognition 0.1s before the motion is heard as 'Okay windy' (2117.3s, conf 0.80), an ASR form this corpus attests BOTH for Heather Whitney and for 'Candy' (Candace Crawford); while the SAU 6 policy subcommittee seated 4/11/24 was Crawford, Kelly Simpson and Chair Hawkins, and Simpson and Hawkins each hold their own voice tonight, which points to Crawford. No name is spoken, so this is left unnamed"
+  },
+  "368": {
+   "name": "Unidentified",
+   "role": "Unidentified SAU 6 board member - mover of the policy-adoption slate and then of the friendly amendment ('my motion', 2276.9s; 'my friendly amendment', 2406.0s), speaking for the policy subcommittee in the first person ('this is the recommendation that the committee made... I did ask the superintendent afterwards', 2367.1-2387.1s). CONFLICTING EVIDENCE, deliberately unresolved: the chair's recognition 0.1s before the motion is heard as 'Okay windy' (2117.3s, conf 0.80), an ASR form this corpus attests BOTH for Heather Whitney and for 'Candy' (Candace Crawford); while the SAU 6 policy subcommittee seated 4/11/24 was Crawford, Kelly Simpson and Chair Hawkins, and Simpson and Hawkins each hold their own voice tonight, which points to Crawford. No name is spoken, so this is left unnamed"
+  },
+  "370": {
+   "name": "Unidentified",
+   "role": "Unidentified SAU 6 board member - mover of the policy-adoption slate and then of the friendly amendment ('my motion', 2276.9s; 'my friendly amendment', 2406.0s), speaking for the policy subcommittee in the first person ('this is the recommendation that the committee made... I did ask the superintendent afterwards', 2367.1-2387.1s). CONFLICTING EVIDENCE, deliberately unresolved: the chair's recognition 0.1s before the motion is heard as 'Okay windy' (2117.3s, conf 0.80), an ASR form this corpus attests BOTH for Heather Whitney and for 'Candy' (Candace Crawford); while the SAU 6 policy subcommittee seated 4/11/24 was Crawford, Kelly Simpson and Chair Hawkins, and Simpson and Hawkins each hold their own voice tonight, which points to Crawford. No name is spoken, so this is left unnamed"
+  },
+  "372": {
+   "name": "Unidentified",
+   "role": "Unidentified SAU 6 board member - mover of the policy-adoption slate and then of the friendly amendment ('my motion', 2276.9s; 'my friendly amendment', 2406.0s), speaking for the policy subcommittee in the first person ('this is the recommendation that the committee made... I did ask the superintendent afterwards', 2367.1-2387.1s). CONFLICTING EVIDENCE, deliberately unresolved: the chair's recognition 0.1s before the motion is heard as 'Okay windy' (2117.3s, conf 0.80), an ASR form this corpus attests BOTH for Heather Whitney and for 'Candy' (Candace Crawford); while the SAU 6 policy subcommittee seated 4/11/24 was Crawford, Kelly Simpson and Chair Hawkins, and Simpson and Hawkins each hold their own voice tonight, which points to Crawford. No name is spoken, so this is left unnamed"
+  },
+  "373": {
+   "name": "Unidentified",
+   "role": "Unidentified SAU 6 board member - mover of the policy-adoption slate and then of the friendly amendment ('my motion', 2276.9s; 'my friendly amendment', 2406.0s), speaking for the policy subcommittee in the first person ('this is the recommendation that the committee made... I did ask the superintendent afterwards', 2367.1-2387.1s). CONFLICTING EVIDENCE, deliberately unresolved: the chair's recognition 0.1s before the motion is heard as 'Okay windy' (2117.3s, conf 0.80), an ASR form this corpus attests BOTH for Heather Whitney and for 'Candy' (Candace Crawford); while the SAU 6 policy subcommittee seated 4/11/24 was Crawford, Kelly Simpson and Chair Hawkins, and Simpson and Hawkins each hold their own voice tonight, which points to Crawford. No name is spoken, so this is left unnamed"
+  },
+  "375": {
+   "name": "Arlene Hawkins",
+   "role": "SAU 6 Joint Board CHAIR - opens the meeting ('I'd like to call the meeting of the [SAU] six school board to order', 2.7s), answers her own name in the roll ('Eileen [Arlene]. Hawkins.' 59.6-59.9s conf 1.00, then 'Here' at 60.5s) and presides throughout. The mover of the agenda amendments calls her 'Chair Hawkins' (134.2-134.6s, conf 1.00) and the mover of the unsealing motion calls her 'Arlene Hawkins' (2557.0-2557.6s, conf 0.90/1.00). HIGH confidence. From 2420.4s the diarizer moves her voice into the business administrator's cluster (Speaker 4); the overrides carry it back"
+  },
+  "376": {
+   "name": "Frank Sprague",
+   "role": "Claremont School Board VICE CHAIR and chair of its Finance Committee; SAU 6 Board member; CHAIR of the SAU 6 superintendent-evaluation subcommittee - called first in the roll ('Frank Sprague.' 43.9-44.2s, then 'Here'), and recognised by Chair Hawkins five times immediately before this voice answers: 'Mr. Sprague' (348.9s conf 1.00), 'Frank?' (712.5s conf 0.53), 'Mr. Sprague' (991.2s conf 1.00), 'Frank,' (1717.0s conf 1.00) and 'Superintendent evaluation committee report, Mr. Sprague' (2435.2s conf 1.00). HIGH confidence on those turns"
+  },
+  "378": {
+   "name": "Frank Sprague",
+   "role": "Claremont School Board VICE CHAIR and chair of its Finance Committee; SAU 6 Board member; CHAIR of the SAU 6 superintendent-evaluation subcommittee - called first in the roll ('Frank Sprague.' 43.9-44.2s, then 'Here'), and recognised by Chair Hawkins five times immediately before this voice answers: 'Mr. Sprague' (348.9s conf 1.00), 'Frank?' (712.5s conf 0.53), 'Mr. Sprague' (991.2s conf 1.00), 'Frank,' (1717.0s conf 1.00) and 'Superintendent evaluation committee report, Mr. Sprague' (2435.2s conf 1.00). HIGH confidence on those turns"
+  },
+  "383": {
+   "name": "Frank Sprague",
+   "role": "Claremont School Board VICE CHAIR and chair of its Finance Committee; SAU 6 Board member; CHAIR of the SAU 6 superintendent-evaluation subcommittee - called first in the roll ('Frank Sprague.' 43.9-44.2s, then 'Here'), and recognised by Chair Hawkins five times immediately before this voice answers: 'Mr. Sprague' (348.9s conf 1.00), 'Frank?' (712.5s conf 0.53), 'Mr. Sprague' (991.2s conf 1.00), 'Frank,' (1717.0s conf 1.00) and 'Superintendent evaluation committee report, Mr. Sprague' (2435.2s conf 1.00). HIGH confidence on those turns"
+  },
+  "389": {
+   "name": "Frank Sprague",
+   "role": "Claremont School Board VICE CHAIR and chair of its Finance Committee; SAU 6 Board member; CHAIR of the SAU 6 superintendent-evaluation subcommittee - called first in the roll ('Frank Sprague.' 43.9-44.2s, then 'Here'), and recognised by Chair Hawkins five times immediately before this voice answers: 'Mr. Sprague' (348.9s conf 1.00), 'Frank?' (712.5s conf 0.53), 'Mr. Sprague' (991.2s conf 1.00), 'Frank,' (1717.0s conf 1.00) and 'Superintendent evaluation committee report, Mr. Sprague' (2435.2s conf 1.00). HIGH confidence on those turns"
+  },
+  "390": {
+   "name": "Arlene Hawkins",
+   "role": "SAU 6 Joint Board CHAIR - opens the meeting ('I'd like to call the meeting of the [SAU] six school board to order', 2.7s), answers her own name in the roll ('Eileen [Arlene]. Hawkins.' 59.6-59.9s conf 1.00, then 'Here' at 60.5s) and presides throughout. The mover of the agenda amendments calls her 'Chair Hawkins' (134.2-134.6s, conf 1.00) and the mover of the unsealing motion calls her 'Arlene Hawkins' (2557.0-2557.6s, conf 0.90/1.00). HIGH confidence. From 2420.4s the diarizer moves her voice into the business administrator's cluster (Speaker 4); the overrides carry it back"
+  },
+  "391": {
+   "name": "Arlene Hawkins",
+   "role": "SAU 6 Joint Board CHAIR - opens the meeting ('I'd like to call the meeting of the [SAU] six school board to order', 2.7s), answers her own name in the roll ('Eileen [Arlene]. Hawkins.' 59.6-59.9s conf 1.00, then 'Here' at 60.5s) and presides throughout. The mover of the agenda amendments calls her 'Chair Hawkins' (134.2-134.6s, conf 1.00) and the mover of the unsealing motion calls her 'Arlene Hawkins' (2557.0-2557.6s, conf 0.90/1.00). HIGH confidence. From 2420.4s the diarizer moves her voice into the business administrator's cluster (Speaker 4); the overrides carry it back. MERGED SEGMENT: after her 'Do I have a motion?' the mover's whole motion is absorbed at the tail ('I would like to make a motion to unseal the minutes as itemized, per Arlene Hawkins', 2552.6-2557.6s) - the third-person reference shows the mover is not the chair, and the mover is never named"
+  },
+  "393": {
+   "name": "Arlene Hawkins",
+   "role": "SAU 6 Joint Board CHAIR - opens the meeting ('I'd like to call the meeting of the [SAU] six school board to order', 2.7s), answers her own name in the roll ('Eileen [Arlene]. Hawkins.' 59.6-59.9s conf 1.00, then 'Here' at 60.5s) and presides throughout. The mover of the agenda amendments calls her 'Chair Hawkins' (134.2-134.6s, conf 1.00) and the mover of the unsealing motion calls her 'Arlene Hawkins' (2557.0-2557.6s, conf 0.90/1.00). HIGH confidence. From 2420.4s the diarizer moves her voice into the business administrator's cluster (Speaker 4); the overrides carry it back"
+  },
+  "395": {
+   "name": "Arlene Hawkins",
+   "role": "SAU 6 Joint Board CHAIR - opens the meeting ('I'd like to call the meeting of the [SAU] six school board to order', 2.7s), answers her own name in the roll ('Eileen [Arlene]. Hawkins.' 59.6-59.9s conf 1.00, then 'Here' at 60.5s) and presides throughout. The mover of the agenda amendments calls her 'Chair Hawkins' (134.2-134.6s, conf 1.00) and the mover of the unsealing motion calls her 'Arlene Hawkins' (2557.0-2557.6s, conf 0.90/1.00). HIGH confidence. From 2420.4s the diarizer moves her voice into the business administrator's cluster (Speaker 4); the overrides carry it back"
+  },
+  "396": {
+   "name": "Arlene Hawkins",
+   "role": "SAU 6 Joint Board CHAIR - opens the meeting ('I'd like to call the meeting of the [SAU] six school board to order', 2.7s), answers her own name in the roll ('Eileen [Arlene]. Hawkins.' 59.6-59.9s conf 1.00, then 'Here' at 60.5s) and presides throughout. The mover of the agenda amendments calls her 'Chair Hawkins' (134.2-134.6s, conf 1.00) and the mover of the unsealing motion calls her 'Arlene Hawkins' (2557.0-2557.6s, conf 0.90/1.00). HIGH confidence. From 2420.4s the diarizer moves her voice into the business administrator's cluster (Speaker 4); the overrides carry it back"
+  },
+  "397": {
+   "name": "Arlene Hawkins",
+   "role": "SAU 6 Joint Board CHAIR - opens the meeting ('I'd like to call the meeting of the [SAU] six school board to order', 2.7s), answers her own name in the roll ('Eileen [Arlene]. Hawkins.' 59.6-59.9s conf 1.00, then 'Here' at 60.5s) and presides throughout. The mover of the agenda amendments calls her 'Chair Hawkins' (134.2-134.6s, conf 1.00) and the mover of the unsealing motion calls her 'Arlene Hawkins' (2557.0-2557.6s, conf 0.90/1.00). HIGH confidence. From 2420.4s the diarizer moves her voice into the business administrator's cluster (Speaker 4); the overrides carry it back"
+  },
+  "399": {
+   "name": "Arlene Hawkins",
+   "role": "SAU 6 Joint Board CHAIR - opens the meeting ('I'd like to call the meeting of the [SAU] six school board to order', 2.7s), answers her own name in the roll ('Eileen [Arlene]. Hawkins.' 59.6-59.9s conf 1.00, then 'Here' at 60.5s) and presides throughout. The mover of the agenda amendments calls her 'Chair Hawkins' (134.2-134.6s, conf 1.00) and the mover of the unsealing motion calls her 'Arlene Hawkins' (2557.0-2557.6s, conf 0.90/1.00). HIGH confidence. From 2420.4s the diarizer moves her voice into the business administrator's cluster (Speaker 4); the overrides carry it back"
+  },
+  "406": {
+   "name": "Arlene Hawkins",
+   "role": "SAU 6 Joint Board CHAIR - opens the meeting ('I'd like to call the meeting of the [SAU] six school board to order', 2.7s), answers her own name in the roll ('Eileen [Arlene]. Hawkins.' 59.6-59.9s conf 1.00, then 'Here' at 60.5s) and presides throughout. The mover of the agenda amendments calls her 'Chair Hawkins' (134.2-134.6s, conf 1.00) and the mover of the unsealing motion calls her 'Arlene Hawkins' (2557.0-2557.6s, conf 0.90/1.00). HIGH confidence. From 2420.4s the diarizer moves her voice into the business administrator's cluster (Speaker 4); the overrides carry it back"
+  },
+  "408": {
+   "name": "Arlene Hawkins",
+   "role": "SAU 6 Joint Board CHAIR - opens the meeting ('I'd like to call the meeting of the [SAU] six school board to order', 2.7s), answers her own name in the roll ('Eileen [Arlene]. Hawkins.' 59.6-59.9s conf 1.00, then 'Here' at 60.5s) and presides throughout. The mover of the agenda amendments calls her 'Chair Hawkins' (134.2-134.6s, conf 1.00) and the mover of the unsealing motion calls her 'Arlene Hawkins' (2557.0-2557.6s, conf 0.90/1.00). HIGH confidence. From 2420.4s the diarizer moves her voice into the business administrator's cluster (Speaker 4); the overrides carry it back"
+  },
+  "409": {
+   "name": "Rocco Ruggeri",
+   "role": "SAU 6 Joint Board VICE CHAIR (elected 4/11/24); Unity School Board member; delivers the Unity withdrawal report - Chair Hawkins recognises 'Rocco.' at 2165.3s (conf 0.97), 1.0s before this voice's policy KE question, and 'Mr. Ruggieri.' at 2659.7s (conf 1.00) immediately before its Unity Planning Committee report. He is NOT preserved in the transcribed roll call, but eight members answer the return-to-public roll where the ASR preserves only seven names. HIGH confidence"
+  },
+  "410": {
+   "name": "Rocco Ruggeri",
+   "role": "SAU 6 Joint Board VICE CHAIR (elected 4/11/24); Unity School Board member; delivers the Unity withdrawal report - Chair Hawkins recognises 'Rocco.' at 2165.3s (conf 0.97), 1.0s before this voice's policy KE question, and 'Mr. Ruggieri.' at 2659.7s (conf 1.00) immediately before its Unity Planning Committee report. He is NOT preserved in the transcribed roll call, but eight members answer the return-to-public roll where the ASR preserves only seven names. HIGH confidence"
+  },
+  "411": {
+   "name": "Arlene Hawkins",
+   "role": "SAU 6 Joint Board CHAIR - opens the meeting ('I'd like to call the meeting of the [SAU] six school board to order', 2.7s), answers her own name in the roll ('Eileen [Arlene]. Hawkins.' 59.6-59.9s conf 1.00, then 'Here' at 60.5s) and presides throughout. The mover of the agenda amendments calls her 'Chair Hawkins' (134.2-134.6s, conf 1.00) and the mover of the unsealing motion calls her 'Arlene Hawkins' (2557.0-2557.6s, conf 0.90/1.00). HIGH confidence. From 2420.4s the diarizer moves her voice into the business administrator's cluster (Speaker 4); the overrides carry it back"
+  },
+  "412": {
+   "name": "Rocco Ruggeri",
+   "role": "SAU 6 Joint Board VICE CHAIR (elected 4/11/24); Unity School Board member; delivers the Unity withdrawal report - Chair Hawkins recognises 'Rocco.' at 2165.3s (conf 0.97), 1.0s before this voice's policy KE question, and 'Mr. Ruggieri.' at 2659.7s (conf 1.00) immediately before its Unity Planning Committee report. He is NOT preserved in the transcribed roll call, but eight members answer the return-to-public roll where the ASR preserves only seven names. HIGH confidence"
+  },
+  "413": {
+   "name": "Arlene Hawkins",
+   "role": "SAU 6 Joint Board CHAIR - opens the meeting ('I'd like to call the meeting of the [SAU] six school board to order', 2.7s), answers her own name in the roll ('Eileen [Arlene]. Hawkins.' 59.6-59.9s conf 1.00, then 'Here' at 60.5s) and presides throughout. The mover of the agenda amendments calls her 'Chair Hawkins' (134.2-134.6s, conf 1.00) and the mover of the unsealing motion calls her 'Arlene Hawkins' (2557.0-2557.6s, conf 0.90/1.00). HIGH confidence. From 2420.4s the diarizer moves her voice into the business administrator's cluster (Speaker 4); the overrides carry it back"
+  },
+  "414": {
+   "name": "Arlene Hawkins",
+   "role": "SAU 6 Joint Board CHAIR - opens the meeting ('I'd like to call the meeting of the [SAU] six school board to order', 2.7s), answers her own name in the roll ('Eileen [Arlene]. Hawkins.' 59.6-59.9s conf 1.00, then 'Here' at 60.5s) and presides throughout. The mover of the agenda amendments calls her 'Chair Hawkins' (134.2-134.6s, conf 1.00) and the mover of the unsealing motion calls her 'Arlene Hawkins' (2557.0-2557.6s, conf 0.90/1.00). HIGH confidence. From 2420.4s the diarizer moves her voice into the business administrator's cluster (Speaker 4); the overrides carry it back"
+  },
+  "415": {
+   "name": "Arlene Hawkins",
+   "role": "SAU 6 Joint Board CHAIR - opens the meeting ('I'd like to call the meeting of the [SAU] six school board to order', 2.7s), answers her own name in the roll ('Eileen [Arlene]. Hawkins.' 59.6-59.9s conf 1.00, then 'Here' at 60.5s) and presides throughout. The mover of the agenda amendments calls her 'Chair Hawkins' (134.2-134.6s, conf 1.00) and the mover of the unsealing motion calls her 'Arlene Hawkins' (2557.0-2557.6s, conf 0.90/1.00). HIGH confidence. From 2420.4s the diarizer moves her voice into the business administrator's cluster (Speaker 4); the overrides carry it back"
+  },
+  "419": {
+   "name": "Arlene Hawkins",
+   "role": "SAU 6 Joint Board CHAIR - opens the meeting ('I'd like to call the meeting of the [SAU] six school board to order', 2.7s), answers her own name in the roll ('Eileen [Arlene]. Hawkins.' 59.6-59.9s conf 1.00, then 'Here' at 60.5s) and presides throughout. The mover of the agenda amendments calls her 'Chair Hawkins' (134.2-134.6s, conf 1.00) and the mover of the unsealing motion calls her 'Arlene Hawkins' (2557.0-2557.6s, conf 0.90/1.00). HIGH confidence. From 2420.4s the diarizer moves her voice into the business administrator's cluster (Speaker 4); the overrides carry it back"
+  },
+  "422": {
+   "name": "Arlene Hawkins",
+   "role": "SAU 6 Joint Board CHAIR - opens the meeting ('I'd like to call the meeting of the [SAU] six school board to order', 2.7s), answers her own name in the roll ('Eileen [Arlene]. Hawkins.' 59.6-59.9s conf 1.00, then 'Here' at 60.5s) and presides throughout. The mover of the agenda amendments calls her 'Chair Hawkins' (134.2-134.6s, conf 1.00) and the mover of the unsealing motion calls her 'Arlene Hawkins' (2557.0-2557.6s, conf 0.90/1.00). HIGH confidence. From 2420.4s the diarizer moves her voice into the business administrator's cluster (Speaker 4); the overrides carry it back"
+  },
+  "424": {
+   "name": "Arlene Hawkins",
+   "role": "SAU 6 Joint Board CHAIR - opens the meeting ('I'd like to call the meeting of the [SAU] six school board to order', 2.7s), answers her own name in the roll ('Eileen [Arlene]. Hawkins.' 59.6-59.9s conf 1.00, then 'Here' at 60.5s) and presides throughout. The mover of the agenda amendments calls her 'Chair Hawkins' (134.2-134.6s, conf 1.00) and the mover of the unsealing motion calls her 'Arlene Hawkins' (2557.0-2557.6s, conf 0.90/1.00). HIGH confidence. From 2420.4s the diarizer moves her voice into the business administrator's cluster (Speaker 4); the overrides carry it back"
+  },
+  "430": {
+   "name": "Arlene Hawkins",
+   "role": "SAU 6 Joint Board CHAIR - opens the meeting ('I'd like to call the meeting of the [SAU] six school board to order', 2.7s), answers her own name in the roll ('Eileen [Arlene]. Hawkins.' 59.6-59.9s conf 1.00, then 'Here' at 60.5s) and presides throughout. The mover of the agenda amendments calls her 'Chair Hawkins' (134.2-134.6s, conf 1.00) and the mover of the unsealing motion calls her 'Arlene Hawkins' (2557.0-2557.6s, conf 0.90/1.00). HIGH confidence. From 2420.4s the diarizer moves her voice into the business administrator's cluster (Speaker 4); the overrides carry it back"
+  },
+  "431": {
+   "name": "Unidentified",
+   "role": "Unidentified - a board member's second. The voice sits in a staff cluster (the superintendent's or the business administrator's) and staff do not second board motions; the seconder is never named"
+  },
+  "432": {
+   "name": "Arlene Hawkins",
+   "role": "SAU 6 Joint Board CHAIR - opens the meeting ('I'd like to call the meeting of the [SAU] six school board to order', 2.7s), answers her own name in the roll ('Eileen [Arlene]. Hawkins.' 59.6-59.9s conf 1.00, then 'Here' at 60.5s) and presides throughout. The mover of the agenda amendments calls her 'Chair Hawkins' (134.2-134.6s, conf 1.00) and the mover of the unsealing motion calls her 'Arlene Hawkins' (2557.0-2557.6s, conf 0.90/1.00). HIGH confidence. From 2420.4s the diarizer moves her voice into the business administrator's cluster (Speaker 4); the overrides carry it back"
+  },
+  "434": {
+   "name": "Arlene Hawkins",
+   "role": "SAU 6 Joint Board CHAIR - opens the meeting ('I'd like to call the meeting of the [SAU] six school board to order', 2.7s), answers her own name in the roll ('Eileen [Arlene]. Hawkins.' 59.6-59.9s conf 1.00, then 'Here' at 60.5s) and presides throughout. The mover of the agenda amendments calls her 'Chair Hawkins' (134.2-134.6s, conf 1.00) and the mover of the unsealing motion calls her 'Arlene Hawkins' (2557.0-2557.6s, conf 0.90/1.00). HIGH confidence. From 2420.4s the diarizer moves her voice into the business administrator's cluster (Speaker 4); the overrides carry it back"
+  }
+ }
+}

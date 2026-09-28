@@ -1,0 +1,82 @@
+{
+  "Speaker 1": {
+    "name": "Frank Sprague",
+    "role": "Chair, Claremont School Board Finance Committee; Vice Chair, Claremont School Board - opens the session at segment 0 (\"Welcome everyone to the latest installment of our, Finance Subcommittee or Finance Committee meeting. We have had the Whitney back with us\") and closes it at 576/587; addressed as \"Frank\" by Heather Whitney at segment 260 (\"To your point, Frank\"), 240 (\"I think Frank and I... I was very much opposed to it\") and 391 (\"it sounds like what Frank is saying\"), and referred to as \"Frank\" by Michael Tempesta at segment 25 (\"Frank will remember this from the back in the day\"); says \"Frank speaking\" at 117, an ASR rendering of \"frankly speaking\"; addresses Ben Nester directly at 252 (\"Right, Ben. Yes.\"); recounts his own career at 95 (\"when I started working at Newport back in the early 90s\") and at 118 (\"the biggest nightmare for scheduling has always been banned in chorus... anybody that's done a schedule\"); chairmanship independently settled by his own round-robin on 11/30/23 (\"I'm the chair of this committee and vice chair of the Claremont Board\") and restated 12/6/23"
+  },
+  "Speaker 2": {
+    "name": "Michael Tempesta",
+    "role": "Superintendent of Schools, SAU 6 - addressed by name by Candace Crawford at segment 198 (\"I understand, Mr. Tempesta, you know, working out the numbers\"); presents the CMS/Stevens schedule-change analysis he built and e-mailed the board, speaking of Principal Romeo in the third person at segments 3, 6, 33, 35, 46 and 67 (\"I met with Mr. Romeo in his leadership team and presented this before it was ever presented to you folks\"); refers to Sprague in the third person at 25 and to \"Heather's first point\" at 138; owns the union relationship at 59-61 (\"I have a meeting with the Serra [SREA] coming up... I have a meeting with them tomorrow\"), which matches the 12/14 union schedule meeting he set on the 12/6/23 recording. Fired by the SAU 6 board four weeks later, 1/11-12/24"
+  },
+  "Speaker 3": {
+    "name": "Heather Whitney",
+    "role": "Chair, Claremont School Board; Finance Committee member - named by Tempesta at segment 138 (\"Can I, can I, can I go back to the teaching part just to Heather's? Okay. First point\") answering the question this voice asked at 120-128, and by Ben Nester at 362 (\"Heather, I just shared a document with you that you didn't have\"); Candace Crawford refers to this voice at 423 (\"as Heather points out\"); this voice addresses Crawford as \"Candy\" at 238 (\"just so you know, Candy, because you weren't on the board\" - Crawford was appointed 7/19/23) and Sprague as \"Frank\" at 260 and 391; returning after her 12/6/23 absence, which Sprague notes at segment 0"
+  },
+  "Speaker 4": {
+    "name": "Candace Crawford",
+    "role": "Claremont School Board member; Finance Committee member - addressed as \"Candy\" by Heather Whitney at segment 238 and by Ben Nester at 349 (ASR \"Andy,\" conf 0.79 - the \"Andy\"/\"Candy\" garble already documented on 12/6/23), as \"Candace\" by Mary Henry at 520 (\"I understand what you're saying, Candace\") and by Whitney at 551 (\"to Candace's point\"); addresses Mary Henry by name at 510 (\"And this is Mary, in the budget packet on in tab eight\") and Ben Nester at 369 (\"Ben, tell me a little more about that special ed person\") and Tempesta at 198; the third seat of the three-member committee (\"it's just us three\", segments 334/343)"
+  },
+  "Speaker 5": {
+    "name": "Unidentified",
+    "role": "Catch-all fragment cluster - 49 segments, median duration 0.80 s, 123 words in total, made of sub-second onsets, sentence tails and backchannels clipped out of the neighbouring turns; it demonstrably carries every voice at the table. 33 of the 49 are reassigned by override where the fragment grammatically completes the previous turn, opens the next one, or answers the question immediately before it; the 16 rows left here are bare acknowledgements (\"Okay.\", \"Right.\", \"Sure.\", \"Yeah.\") with no anchor - most sit between two segments of one speaker, so they belong to some listener who cannot be named"
+  },
+  "Speaker 6": {
+    "name": "Mary Henry",
+    "role": "Business Administrator, Claremont School District / SAU 6 - addressed as \"Mary\" by Candace Crawford at segment 510 and named in the third person by the unidentified administrator at 542 (\"the state doesn't send up projections like Mary said\"), which this voice answers at 543; answers for the district's DRA filings and the late city tax rate at segments 205-228 (\"I turned in the stuff yesterday... I have been in constant contact with the Dre\"), owns the budget file (\"I will be getting you a new report... I had to update some things within the budget\", 515) and refuses to project grant revenue (\"I don't do projections on grants\", 534). Her Fall Mountain pre-K recollection at 491-495 is consistent with her own account elsewhere in this corpus - \"I grew up in Fall Mountain\" (5/11/23) and \"she was our superintendent at Fall Mountain, and I worked with her for 11 years as on the board... I was the chair with her\" (6/7/23)"
+  },
+  "Speaker 7": {
+    "name": "Ben Nester",
+    "role": "Director of Special Education, SAU 6 - addressed as \"Ben\" by Candace Crawford at segment 369 (\"Ben, tell me a little more about that special ed person\"), which this voice answers at 370, and named by Heather Whitney at 549 (\"But then Ben was helpful with this too\"); addresses Whitney by name at 362 and Crawford as \"Candy\" (ASR \"Andy\") at 349; presents the pre-K relocation and the special-education coordinator proposal, referring back to his own 12/6/23 appearance at 371 (\"in the last finance committee meeting, I offered some proposals for the board for the committee's consideration\"); speaks of Tempesta and Henry in the third person at 403 (\"if Mike and Mary are agreeable\")"
+  },
+  "Speaker 8": {
+    "name": "Unidentified",
+    "role": "Unidentified senior administrator - three segments in one 25-second window (5469-5494 s) and nowhere else in 96 minutes, explaining Title I grant-funded staffing to the committee (\"if we receive title funds, those funds pay for title of staff. If the funds don't exist, the staff don't exist\") and confirming Mary Henry's point about state allocations, naming her in the third person. NOT Henry (she answers it at 543), not one of the three committee members by content. Michael Tempesta is the leading candidate - he is present, is the only confirmed male administrator besides Nester, and is silent in his own cluster from 4937 s to 5659 s, exactly spanning this window - but Ben Nester also speaks immediately before it and no name, self-ID or direct address ties the voice to anyone, so it is left unnamed. Mike Koski is not named anywhere in this recording and his presence is not established"
+  },
+  "__overrides__": {
+    "76":  {"name": "Michael Tempesta"},
+    "143": {"name": "Michael Tempesta"},
+    "234": {"name": "Michael Tempesta"},
+    "443": {"name": "Michael Tempesta"},
+    "447": {"name": "Michael Tempesta"},
+
+    "121": {"name": "Heather Whitney"},
+    "436": {"name": "Heather Whitney"},
+    "445": {"name": "Heather Whitney"},
+    "455": {"name": "Heather Whitney"},
+    "458": {"name": "Heather Whitney"},
+    "460": {"name": "Heather Whitney"},
+    "476": {"name": "Heather Whitney"},
+    "480": {"name": "Heather Whitney"},
+    "483": {"name": "Heather Whitney"},
+    "487": {"name": "Heather Whitney"},
+    "539": {"name": "Heather Whitney"},
+    "548": {"name": "Heather Whitney"},
+    "582": {"name": "Heather Whitney"},
+
+    "155": {"name": "Candace Crawford"},
+    "368": {"name": "Candace Crawford"},
+    "412": {"name": "Candace Crawford"},
+    "554": {"name": "Candace Crawford"},
+    "562": {"name": "Candace Crawford"},
+    "570": {"name": "Candace Crawford"},
+    "573": {"name": "Candace Crawford"},
+    "586": {"name": "Candace Crawford"},
+
+    "200": {"name": "Frank Sprague"},
+    "384": {"name": "Frank Sprague"},
+    "499": {"name": "Frank Sprague"},
+    "501": {"name": "Frank Sprague"},
+    "503": {"name": "Frank Sprague"},
+    "527": {"name": "Frank Sprague"},
+    "577": {"name": "Frank Sprague"},
+    "584": {"name": "Frank Sprague"},
+
+    "490": {"name": "Mary Henry"},
+    "517": {"name": "Mary Henry"},
+    "530": {"name": "Mary Henry"},
+    "533": {"name": "Mary Henry"},
+
+    "353": {"name": "Ben Nester"},
+    "463": {"name": "Ben Nester"},
+    "465": {"name": "Ben Nester"}
+  }
+}

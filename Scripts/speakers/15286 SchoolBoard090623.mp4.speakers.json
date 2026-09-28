@@ -1,0 +1,252 @@
+{
+ "Speaker 1": {
+  "name": "Unidentified",
+  "role": "Short crosstalk, thanks and fillers from the board table and the room - the diarizer's catch-all cluster for sub-second fragments; the fragments that can be tied to a speaker are reassigned, the rest are not separable"
+ },
+ "Speaker 2": {
+  "name": "Frank Sprague",
+  "role": "Vice Chair, Claremont School Board - presides over the opening: calls the 9/6/2023 meeting to order (segment 1), asks 'Mr. Nestor, could you roll call attendance for us' (segment 4), directs 'Arlene, if you could make a note of these and put them to Chelsea' (segment 45), and hands the gavel to the chair at segment 74. He says 'I missed the meeting' of 8/16/2023 at segment 27, and the three 8/16 roll calls read his name with no answer, so he was absent that night and Heather Whitney chaired it. This cluster also carries Superintendent Michael Tempesta's telephone audio"
+ },
+ "Speaker 3": {
+  "name": "Andy",
+  "role": "Chair of the Sugar River Valley Regional Technical Center visioning committee - the presiding officer calls him to the podium as 'Andy' (segment 62) and he identifies himself as 'currently serving as the chair of the Sugar River ... Valley Community Technical Center Committee' (segment 63); his surname is never spoken on this recording"
+ },
+ "Speaker 4": {
+  "name": "Arlene Hawkins",
+  "role": "Claremont School Board member (elected 3/14/2023); also SAU 6 Board chair - brings the corrections to the 8/16/2023 minutes: the presiding officer says 'Arlene, if you could make a note of these and put them to Chelsea' (segment 45) and 'if you'd be so kind as to get that to Chelsea early' (segment 60), to which she answers 'I can do that' (segment 61). From segment 72 on this cluster carries Chair Heather Whitney instead"
+ },
+ "Speaker 5": {
+  "name": "Unidentified",
+  "role": "Claremont School Board member moving to approve the agenda - the presiding officer records only the second ('seconded by [Arlene]', segment 13), so the mover is never named on the recording"
+ },
+ "Speaker 6": {
+  "name": "Unidentified",
+  "role": "Claremont School Board member - one of the three seated members not otherwise placed on this recording (Bonnie Miles, Whitney Skillen, Jennifer Gallagher); the diarizer does not separate them by name and nothing in the recording names this voice - asks whether the minutes bullets are the adjustments the board adopted (segment 41), troubleshoots the superintendent's phone line (segments 79-92), and proposes a New Hampshire School Board Association white paper or blog on the Yondr rollout (segments 222-223)"
+ },
+ "Speaker 7": {
+  "name": "Heather Whitney",
+  "role": "Chair, Claremont School Board - present from the start (she takes part in the minutes discussion at segments 42 and 44 and thanks the citizens' comment speaker at segment 73), then takes the gavel when the vice chair says 'turn the meeting over to [Heather]' at segment 74 and opens the superintendent's report at segment 75; a board member addresses her as 'Heather' at segment 213. NOT board member Whitney Skillen"
+ },
+ "Speaker 8": {
+  "name": "Unidentified",
+  "role": "Room voice during the superintendent's telephone connection trouble - 'But we can't hear him' (segment 83) and 'You might not be able to hear us' (segment 93); not separable"
+ },
+ "Speaker 9": {
+  "name": "Unidentified",
+  "role": "Crosstalk around the speakerphone during the superintendent's call - the cluster carries room voices and, at segment 86, what appears to be Michael Tempesta's own 'Can you hear me?' with the room's 'Yes. Yes.' absorbed; the voices are not separable"
+ },
+ "Speaker 10": {
+  "name": "Chris Pratt",
+  "role": "Principal, Stevens High School - the chair introduces 'Mr. Pratt from principal of Stevens High School' at segment 100; he says 'my second year here' (segment 140) and answers the board's written questions on ASL enrolment, free and reduced lunch, the Yondr phone pouches, scheduling and staffing. In 2023 Pratt is the high school principal, not the superintendent"
+ },
+ "Speaker 11": {
+  "name": "Candace Crawford",
+  "role": "Claremont School Board member (appointed 7/19/2023) - Pratt thanks her by name, 'thank you very much, Candace', at segment 173, immediately after her remarks at segments 170 and 172"
+ },
+ "Speaker 12": {
+  "name": "Unidentified",
+  "role": "Claremont School Board member - one of the three seated members not otherwise placed on this recording (Bonnie Miles, Whitney Skillen, Jennifer Gallagher); the diarizer does not separate them by name and nothing in the recording names this voice - comments that she had not realised how much the phones affected the lunchroom (segment 175), asks whether any classes had to be dropped (segment 176), and suggests contacting WMUR about the Yondr pouches (segment 220)"
+ },
+ "Speaker 13": {
+  "name": "Frank Sprague",
+  "role": "Vice Chair, Claremont School Board - the same voice the diarizer also calls Speaker 2; his segment 183 ('Two quick things.') runs into segment 184 with an 0.08 s gap and completes one turn, in which he asks Pratt to 'get us a student rep for the board' and questions the proposed eight-period schedule"
+ },
+ "Speaker 14": {
+  "name": "Unidentified",
+  "role": "Claremont School Board member - one of the three seated members not otherwise placed on this recording (Bonnie Miles, Whitney Skillen, Jennifer Gallagher); the diarizer does not separate them by name and nothing in the recording names this voice - a former teacher: 'walking back in time to 20 years ago when I was teaching' (segment 215). Bonnie Miles is a realtor, so this is most likely Whitney Skillen or Jennifer Gallagher, but nothing on the recording decides between them"
+ },
+ "Speaker 15": {
+  "name": "Ben Nester",
+  "role": "Director of Special Education, SAU 6 - the chair introduces 'the alternative program update from Mr. Ben Nester, Director of Special Education' at segment 240; he reports on the new alternative programme (the 'Academy'), Lee Malloy's classroom, and the district's relationship with the new Claremont charter school"
+ },
+ "__overrides__": {
+  "76": {
+   "name": "Michael Tempesta",
+   "role": "Superintendent of Schools, SAU 6 - joining by telephone; he apologises that he cannot attend in person because of 'a very serious family illness' (segment 94)"
+  },
+  "77": {
+   "name": "Michael Tempesta",
+   "role": "Superintendent of Schools, SAU 6 - joining by telephone; he apologises that he cannot attend in person because of 'a very serious family illness' (segment 94)"
+  },
+  "84": {
+   "name": "Michael Tempesta",
+   "role": "Superintendent of Schools, SAU 6 - joining by telephone; he apologises that he cannot attend in person because of 'a very serious family illness' (segment 94)"
+  },
+  "87": {
+   "name": "Michael Tempesta",
+   "role": "Superintendent of Schools, SAU 6 - joining by telephone; he apologises that he cannot attend in person because of 'a very serious family illness' (segment 94)"
+  },
+  "89": {
+   "name": "Michael Tempesta",
+   "role": "Superintendent of Schools, SAU 6 - joining by telephone; he apologises that he cannot attend in person because of 'a very serious family illness' (segment 94)"
+  },
+  "90": {
+   "name": "Michael Tempesta",
+   "role": "Superintendent of Schools, SAU 6 - joining by telephone; he apologises that he cannot attend in person because of 'a very serious family illness' (segment 94)"
+  },
+  "94": {
+   "name": "Michael Tempesta",
+   "role": "Superintendent of Schools, SAU 6 - joining by telephone; he apologises that he cannot attend in person because of 'a very serious family illness' (segment 94)"
+  },
+  "95": {
+   "name": "Michael Tempesta",
+   "role": "Superintendent of Schools, SAU 6 - joining by telephone; he apologises that he cannot attend in person because of 'a very serious family illness' (segment 94)"
+  },
+  "96": {
+   "name": "Michael Tempesta",
+   "role": "Superintendent of Schools, SAU 6 - joining by telephone; he apologises that he cannot attend in person because of 'a very serious family illness' (segment 94)"
+  },
+  "101": {
+   "name": "Chris Pratt",
+   "role": "Principal, Stevens High School - the onset of his own turn, 'Good evening everybody', clipped into the neighbouring cluster 0.08 s before his first segment"
+  },
+  "5": {
+   "name": "Ben Nester",
+   "role": "Director of Special Education, SAU 6 - the board's de facto roll-caller and secretary (the district clerk seat is vacant) - reads the roll at the presiding officer's request; the members' one-word 'here' answers (Miles, Skillen, Crawford, Hawkins) are absorbed into this segment"
+  },
+  "55": {
+   "name": "Frank Sprague",
+   "role": "Vice Chair, Claremont School Board - presides over the opening; the same voice the diarizer also calls Speaker 2 - a fragment inside his own sentence, 'no objections have been received regarding the removal' + 'of the Facebook' + 'page of the Claremont Board Facebook page'"
+  },
+  "58": {
+   "name": "Frank Sprague",
+   "role": "Vice Chair, Claremont School Board - presides over the opening; the same voice the diarizer also calls Speaker 2 - a 0.19 s 'Okay.' clipped from the head of his own next segment"
+  },
+  "72": {
+   "name": "Heather Whitney",
+   "role": "Chair, Claremont School Board - takes the gavel from the vice chair at segment 74 ('turn the meeting over to [Heather]', heard as 'heaven') and presides from there on; a board member addresses her as 'Heather' at segment 213"
+  },
+  "85": {
+   "name": "Heather Whitney",
+   "role": "Chair, Claremont School Board - takes the gavel from the vice chair at segment 74 ('turn the meeting over to [Heather]', heard as 'heaven') and presides from there on; a board member addresses her as 'Heather' at segment 213"
+  },
+  "97": {
+   "name": "Heather Whitney",
+   "role": "Chair, Claremont School Board - takes the gavel from the vice chair at segment 74 ('turn the meeting over to [Heather]', heard as 'heaven') and presides from there on; a board member addresses her as 'Heather' at segment 213"
+  },
+  "98": {
+   "name": "Heather Whitney",
+   "role": "Chair, Claremont School Board - takes the gavel from the vice chair at segment 74 ('turn the meeting over to [Heather]', heard as 'heaven') and presides from there on; a board member addresses her as 'Heather' at segment 213"
+  },
+  "182": {
+   "name": "Heather Whitney",
+   "role": "Chair, Claremont School Board - takes the gavel from the vice chair at segment 74 ('turn the meeting over to [Heather]', heard as 'heaven') and presides from there on; a board member addresses her as 'Heather' at segment 213"
+  },
+  "192": {
+   "name": "Heather Whitney",
+   "role": "Chair, Claremont School Board - takes the gavel from the vice chair at segment 74 ('turn the meeting over to [Heather]', heard as 'heaven') and presides from there on; a board member addresses her as 'Heather' at segment 213"
+  },
+  "195": {
+   "name": "Heather Whitney",
+   "role": "Chair, Claremont School Board - takes the gavel from the vice chair at segment 74 ('turn the meeting over to [Heather]', heard as 'heaven') and presides from there on; a board member addresses her as 'Heather' at segment 213"
+  },
+  "197": {
+   "name": "Heather Whitney",
+   "role": "Chair, Claremont School Board - takes the gavel from the vice chair at segment 74 ('turn the meeting over to [Heather]', heard as 'heaven') and presides from there on; a board member addresses her as 'Heather' at segment 213"
+  },
+  "200": {
+   "name": "Heather Whitney",
+   "role": "Chair, Claremont School Board - takes the gavel from the vice chair at segment 74 ('turn the meeting over to [Heather]', heard as 'heaven') and presides from there on; a board member addresses her as 'Heather' at segment 213"
+  },
+  "204": {
+   "name": "Heather Whitney",
+   "role": "Chair, Claremont School Board - takes the gavel from the vice chair at segment 74 ('turn the meeting over to [Heather]', heard as 'heaven') and presides from there on; a board member addresses her as 'Heather' at segment 213"
+  },
+  "207": {
+   "name": "Heather Whitney",
+   "role": "Chair, Claremont School Board - takes the gavel from the vice chair at segment 74 ('turn the meeting over to [Heather]', heard as 'heaven') and presides from there on; a board member addresses her as 'Heather' at segment 213"
+  },
+  "211": {
+   "name": "Heather Whitney",
+   "role": "Chair, Claremont School Board - takes the gavel from the vice chair at segment 74 ('turn the meeting over to [Heather]', heard as 'heaven') and presides from there on; a board member addresses her as 'Heather' at segment 213"
+  },
+  "217": {
+   "name": "Heather Whitney",
+   "role": "Chair, Claremont School Board - takes the gavel from the vice chair at segment 74 ('turn the meeting over to [Heather]', heard as 'heaven') and presides from there on; a board member addresses her as 'Heather' at segment 213"
+  },
+  "219": {
+   "name": "Heather Whitney",
+   "role": "Chair, Claremont School Board - takes the gavel from the vice chair at segment 74 ('turn the meeting over to [Heather]', heard as 'heaven') and presides from there on; a board member addresses her as 'Heather' at segment 213"
+  },
+  "221": {
+   "name": "Heather Whitney",
+   "role": "Chair, Claremont School Board - takes the gavel from the vice chair at segment 74 ('turn the meeting over to [Heather]', heard as 'heaven') and presides from there on; a board member addresses her as 'Heather' at segment 213"
+  },
+  "226": {
+   "name": "Heather Whitney",
+   "role": "Chair, Claremont School Board - takes the gavel from the vice chair at segment 74 ('turn the meeting over to [Heather]', heard as 'heaven') and presides from there on; a board member addresses her as 'Heather' at segment 213"
+  },
+  "228": {
+   "name": "Heather Whitney",
+   "role": "Chair, Claremont School Board - takes the gavel from the vice chair at segment 74 ('turn the meeting over to [Heather]', heard as 'heaven') and presides from there on; a board member addresses her as 'Heather' at segment 213"
+  },
+  "232": {
+   "name": "Heather Whitney",
+   "role": "Chair, Claremont School Board - takes the gavel from the vice chair at segment 74 ('turn the meeting over to [Heather]', heard as 'heaven') and presides from there on; a board member addresses her as 'Heather' at segment 213"
+  },
+  "247": {
+   "name": "Heather Whitney",
+   "role": "Chair, Claremont School Board - takes the gavel from the vice chair at segment 74 ('turn the meeting over to [Heather]', heard as 'heaven') and presides from there on; a board member addresses her as 'Heather' at segment 213"
+  },
+  "100": {
+   "name": "Heather Whitney",
+   "role": "Chair, Claremont School Board - takes the gavel from the vice chair at segment 74 ('turn the meeting over to [Heather]', heard as 'heaven') and presides from there on; a board member addresses her as 'Heather' at segment 213 - introduces the Stevens High School principal's report"
+  },
+  "240": {
+   "name": "Heather Whitney",
+   "role": "Chair, Claremont School Board - takes the gavel from the vice chair at segment 74 ('turn the meeting over to [Heather]', heard as 'heaven') and presides from there on; a board member addresses her as 'Heather' at segment 213 - introduces Ben Nester's alternative programme report"
+  },
+  "169": {
+   "name": "Heather Whitney",
+   "role": "Chair, Claremont School Board - takes the gavel from the vice chair at segment 74 ('turn the meeting over to [Heather]', heard as 'heaven') and presides from there on; a board member addresses her as 'Heather' at segment 213 - thanks Pratt and opens the floor to questions; Candace Crawford's onset ('I would just like to say that totally unsolicited members') is absorbed at the tail and completed in the next segment"
+  },
+  "174": {
+   "name": "Unidentified",
+   "role": "Claremont School Board member - one of the three seated members not otherwise placed on this recording (Bonnie Miles, Whitney Skillen, Jennifer Gallagher); the diarizer does not separate them by name and nothing in the recording names this voice - the onset of her own turn, 'I['d] like to' + 'mention the phones also', clipped into the neighbouring cluster; the same voice the diarizer calls Speaker 12"
+  },
+  "186": {
+   "name": "Frank Sprague",
+   "role": "Vice Chair, Claremont School Board - presides over the opening; the same voice the diarizer also calls Speaker 2 - a 0.36 s 'Oh, yeah.' clipped from the head of his own next question"
+  },
+  "3": {
+   "name": "Unidentified",
+   "role": "The room reciting the Pledge of Allegiance in unison after the presiding officer leads it - many voices, not separable"
+  },
+  "51": {
+   "name": "Unidentified",
+   "role": "Claremont School Board member agreeing on the wording of the Facebook-page entry in the 8/16/2023 minutes - not separable from the other board voices in this cluster"
+  },
+  "57": {
+   "name": "Unidentified",
+   "role": "Claremont School Board member answering the presiding officer's 'Anything else?' - not separable"
+  },
+  "214": {
+   "name": "Unidentified",
+   "role": "Claremont School Board member - one of the three seated members not otherwise placed on this recording (Bonnie Miles, Whitney Skillen, Jennifer Gallagher); the diarizer does not separate them by name and nothing in the recording names this voice - 'Oh.', the second fragment of her own onset before her comment at segment 215; the same voice the diarizer calls Speaker 14"
+  },
+  "234": {
+   "name": "Chris Pratt",
+   "role": "Principal, Stevens High School - 'Oh, sorry.' after being told 'They can't hear you', running straight into his own next segment"
+  },
+  "241": {
+   "name": "Ben Nester",
+   "role": "Director of Special Education, SAU 6 - the board's de facto roll-caller and secretary (the district clerk seat is vacant) - 'Sure.', the onset of his own report, clipped into the neighbouring cluster"
+  },
+  "213": {
+   "name": "Unidentified",
+   "role": "Claremont School Board member - one of the three seated members not otherwise placed on this recording (Bonnie Miles, Whitney Skillen, Jennifer Gallagher); the diarizer does not separate them by name and nothing in the recording names this voice - 'Heather.', the onset of her own turn addressing Chair Heather Whitney before commenting at segment 215; the same voice the diarizer calls Speaker 14"
+  },
+  "242": {
+   "name": "Ben Nester",
+   "role": "Director of Special Education, SAU 6 - the board's de facto roll-caller and secretary (the district clerk seat is vacant) - 'So the.', the second fragment of his own onset, completed by 'Program we discussed several weeks back is operational'"
+  },
+  "248": {
+   "name": "Ben Nester",
+   "role": "Director of Special Education, SAU 6 - the board's de facto roll-caller and secretary (the district clerk seat is vacant) - 'Yeah, I will.', the onset of his own answer to the chair, clipped into the neighbouring cluster"
+  },
+  "224": {
+   "name": "Candace Crawford",
+   "role": "Claremont School Board member (appointed 7/19/2023) - the onset of her own sentence, 'I'll give it to Mr.' + 'Pratt and a case study for, like, Plymouth or Keene', clipped into the neighbouring cluster with no gap"
+  }
+ }
+}

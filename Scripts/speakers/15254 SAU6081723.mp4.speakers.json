@@ -1,0 +1,584 @@
+{
+ "Speaker 1": {
+  "name": "Arlene Hawkins",
+  "role": "SAU 6 Board Chair (elected 7/13/23 over Marjorie Erickson on a show of hands; no tally was announced); Claremont School Board member - presides throughout, and Frank Sprague answers her by name at 2038.7s ('I'll do it, Arlene.')"
+ },
+ "Speaker 2": {
+  "name": "Mary Henry",
+  "role": "Business Administrator, SAU 6 (started 7/1/23) - Heather Whitney addresses her at 2910.3s ('This is actually for Mary. Mary. Are you going to be in contact with Angela during the budget building process?') and again at 3919.8s, 4334.8s and 4483.5s; she presents the Tyler/iVisions purchase and the SAU fund-balance update, says she 'wasn't here for that change', and dates herself to 'the meeting that I was hired at', where David Jack recommended the software"
+ },
+ "Speaker 3": {
+  "name": "Unidentified",
+  "role": "Early-meeting cluster mixing several voices at the board table before and around the nonpublic session (pre-gavel remarks, break crosstalk over the Claremont and Unity name cards); the individually attributable segments are reassigned"
+ },
+ "Speaker 4": {
+  "name": "Unidentified",
+  "role": "Early-meeting cluster that stops entirely at 1128.8s - it carries the roll-call reader together with one- and two-word fragments clipped from the chair, from members' motions and seconds, and from the administrators; the individually attributable segments are reassigned"
+ },
+ "Speaker 5": {
+  "name": "Ben Nester",
+  "role": "Director of Special Education, SAU 6 - Koski hands him the question at 1214.9s ('Good. Ask Ben to answer that'), Frank Sprague credits him at 3277.1s ('Ben was kind enough. He has different access to the DOE site'), and he says 'this is the first year in my eight years here'"
+ },
+ "Speaker 6": {
+  "name": "Frank Sprague",
+  "role": "Claremont School Board Vice Chair; SAU 6 Board member - the chair recognises 'Any discussion, Frank?' at 573.8s and 'Oh, Frank. Oh, Jen.' at 905.7s immediately before this voice; he answers her by name at 2038.7s ('I'll do it, Arlene.') and she names him the delegate mover, 'Thank you. Frank.'"
+ },
+ "Speaker 7": {
+  "name": "Mike Koski",
+  "role": "Assistant Superintendent, SAU 6 - the chair announces at 698.8s 'Mr. Tempesta is not here. Mr. Kosugi [Koski] will be giving the report' and this voice delivers the entire superintendent's report, invites 'Angela, feel free to jump in', and hands the paraprofessional question to Ben"
+ },
+ "Speaker 8": {
+  "name": "Rocco Ruggeri",
+  "role": "SAU 6 Board Vice Chair; Unity School Board member - the chair restates his motion at 2078.5s ('that motion was made by Rocco second and by Tanya'), and he speaks for Unity at 4675.2s about its annual meeting ('We doubled it up this this year. So we did them both on the same day')"
+ },
+ "Speaker 9": {
+  "name": "Jennifer Gallagher",
+  "role": "Claremont School Board member; SAU 6 Board member - the chair recognises 'Oh, Frank. Oh, Jen.' at 905.7s before her turn, Sprague refers back to 'the excerpt you read, Jen' at 1012.7s and Crawford to 'Jen's comments' at 1503.0s; the chair names her the mover to adjourn at 4932.9s"
+ },
+ "Speaker 10": {
+  "name": "Angela Vivian",
+  "role": "Director of Human Resources, SAU 6 - Koski invites 'Angela, feel free to jump in' at 771.0s, the chair calls the item 'Human resources update. Angela' at 2118.9s, and this voice delivers the HR response to the Luchini/Wilson organizational study"
+ },
+ "Speaker 11": {
+  "name": "Candace Crawford",
+  "role": "Claremont School Board member, appointed 7/19/23 - the chair recognises 'Candy' at 1414.4s, 1501.4s, 2961.7s, 4743.9s and 4761.3s immediately before her turns and names her the mover of the pre-populated agenda; she abstains on the 7/13/23 minutes 'because I wasn't a board member then'"
+ },
+ "Speaker 12": {
+  "name": "Heather Whitney",
+  "role": "Claremont School Board Chair; SAU 6 Board member - the chair recognises 'Heather' at 1971.4s, 2006.4s, 2780.2s, 3401.4s and 4763.5s immediately before her turns and names her as mover and seconder at 4568.4s and 4873.5s"
+ },
+ "Speaker 13": {
+  "name": "Unidentified",
+  "role": "Mid-meeting fragment cluster (1589-2916s) of one- and two-word backchannels and sentence onsets clipped from the chair, the administrators and members; the individually attributable segments are reassigned"
+ },
+ "Speaker 14": {
+  "name": "Unidentified",
+  "role": "Three-segment fragment cluster; the two attributable segments are reassigned"
+ },
+ "Speaker 15": {
+  "name": "Arlene Hawkins",
+  "role": "SAU 6 Board Chair - a second cluster carrying her own short asides and recognitions; it names the seconder 'Heather.' at 4763.5s, which she restates in her own cluster at 4873.5s as 'a motion from Candy, seconded by Heather'"
+ },
+ "Speaker 16": {
+  "name": "Jeff Small",
+  "role": "Director of Technology, SAU 6 - the chair hands the item to 'Jeff' at 3481.2s and this voice begins the Tyler software briefing, says 'I pay the bills on the copiers', and hands off to Mary Henry"
+ },
+ "__overrides__": {
+  "9": {
+   "name": "Unidentified",
+   "role": "Pledge of Allegiance - recited by the room; the diarizer split the group recitation between two clusters"
+  },
+  "10": {
+   "name": "Unidentified",
+   "role": "Pledge of Allegiance - recited by the room; the diarizer split the group recitation between two clusters"
+  },
+  "11": {
+   "name": "Unidentified",
+   "role": "Pledge of Allegiance - recited by the room; the diarizer split the group recitation between two clusters"
+  },
+  "12": {
+   "name": "Unidentified",
+   "role": "Pledge of Allegiance - recited by the room; the diarizer split the group recitation between two clusters"
+  },
+  "13": {
+   "name": "Unidentified",
+   "role": "Pledge of Allegiance - recited by the room; the diarizer split the group recitation between two clusters"
+  },
+  "14": {
+   "name": "Unidentified",
+   "role": "Pledge of Allegiance - recited by the room; the diarizer split the group recitation between two clusters"
+  },
+  "5": {
+   "name": "Unidentified",
+   "role": "Reads the attendance roll and all three roll-call votes; never named or addressed on the recording. Two candidates fit and the tape does not choose between them: Ben Nester, Director of Special Education and the board's de facto secretary in this era (he read the SAU 6 roll on 5/11/23 at the chair's request, and two of the roll segments here - 438.1s and 445.5s - fall inside his own diarized cluster), and 'Chelsea', the superintendent's administrative assistant who keeps these minutes (the chair asks her at 4818.4s to 'reflect that in the minutes'). Members' spoken answers are absorbed into the same segments (attendance roll)"
+  },
+  "32": {
+   "name": "Unidentified",
+   "role": "Reads the attendance roll and all three roll-call votes; never named or addressed on the recording. Two candidates fit and the tape does not choose between them: Ben Nester, Director of Special Education and the board's de facto secretary in this era (he read the SAU 6 roll on 5/11/23 at the chair's request, and two of the roll segments here - 438.1s and 445.5s - fall inside his own diarized cluster), and 'Chelsea', the superintendent's administrative assistant who keeps these minutes (the chair asks her at 4818.4s to 'reflect that in the minutes'). Members' spoken answers are absorbed into the same segments (roll-call vote to enter nonpublic session)"
+  },
+  "61": {
+   "name": "Unidentified",
+   "role": "Reads the attendance roll and all three roll-call votes; never named or addressed on the recording. Two candidates fit and the tape does not choose between them: Ben Nester, Director of Special Education and the board's de facto secretary in this era (he read the SAU 6 roll on 5/11/23 at the chair's request, and two of the roll segments here - 438.1s and 445.5s - fall inside his own diarized cluster), and 'Chelsea', the superintendent's administrative assistant who keeps these minutes (the chair asks her at 4818.4s to 'reflect that in the minutes'). Members' spoken answers are absorbed into the same segments (roll-call vote to return to public session)"
+  },
+  "68": {
+   "name": "Unidentified",
+   "role": "Reads the attendance roll and all three roll-call votes; never named or addressed on the recording. Two candidates fit and the tape does not choose between them: Ben Nester, Director of Special Education and the board's de facto secretary in this era (he read the SAU 6 roll on 5/11/23 at the chair's request, and two of the roll segments here - 438.1s and 445.5s - fall inside his own diarized cluster), and 'Chelsea', the superintendent's administrative assistant who keeps these minutes (the chair asks her at 4818.4s to 'reflect that in the minutes'). Members' spoken answers are absorbed into the same segments (roll-call vote to seal the nonpublic minutes)"
+  },
+  "70": {
+   "name": "Unidentified",
+   "role": "Reads the attendance roll and all three roll-call votes; never named or addressed on the recording. Two candidates fit and the tape does not choose between them: Ben Nester, Director of Special Education and the board's de facto secretary in this era (he read the SAU 6 roll on 5/11/23 at the chair's request, and two of the roll segments here - 438.1s and 445.5s - fall inside his own diarized cluster), and 'Chelsea', the superintendent's administrative assistant who keeps these minutes (the chair asks her at 4818.4s to 'reflect that in the minutes'). Members' spoken answers are absorbed into the same segments (roll-call vote to seal the nonpublic minutes)"
+  },
+  "72": {
+   "name": "Unidentified",
+   "role": "Reads the attendance roll and all three roll-call votes; never named or addressed on the recording. Two candidates fit and the tape does not choose between them: Ben Nester, Director of Special Education and the board's de facto secretary in this era (he read the SAU 6 roll on 5/11/23 at the chair's request, and two of the roll segments here - 438.1s and 445.5s - fall inside his own diarized cluster), and 'Chelsea', the superintendent's administrative assistant who keeps these minutes (the chair asks her at 4818.4s to 'reflect that in the minutes'). Members' spoken answers are absorbed into the same segments (roll-call vote to seal the nonpublic minutes)"
+  },
+  "69": {
+   "name": "Unidentified",
+   "role": "Reads the attendance roll and all three roll-call votes; never named or addressed on the recording. Two candidates fit and the tape does not choose between them: Ben Nester, Director of Special Education and the board's de facto secretary in this era (he read the SAU 6 roll on 5/11/23 at the chair's request, and two of the roll segments here - 438.1s and 445.5s - fall inside his own diarized cluster), and 'Chelsea', the superintendent's administrative assistant who keeps these minutes (the chair asks her at 4818.4s to 'reflect that in the minutes'). Members' spoken answers are absorbed into the same segments (roll-call vote to seal the nonpublic minutes; clipped into Ben Nester's cluster)"
+  },
+  "71": {
+   "name": "Unidentified",
+   "role": "Reads the attendance roll and all three roll-call votes; never named or addressed on the recording. Two candidates fit and the tape does not choose between them: Ben Nester, Director of Special Education and the board's de facto secretary in this era (he read the SAU 6 roll on 5/11/23 at the chair's request, and two of the roll segments here - 438.1s and 445.5s - fall inside his own diarized cluster), and 'Chelsea', the superintendent's administrative assistant who keeps these minutes (the chair asks her at 4818.4s to 'reflect that in the minutes'). Members' spoken answers are absorbed into the same segments (roll-call vote to seal the nonpublic minutes; clipped into Ben Nester's cluster)"
+  },
+  "19": {
+   "name": "Heather Whitney",
+   "role": "Claremont School Board Chair; SAU 6 Board member - the chair recognises 'Heather' at 1971.4s, 2006.4s, 2780.2s, 3401.4s and 4763.5s immediately before her turns and names her as mover and seconder at 4568.4s and 4873.5s (UNCERTAIN - 'July.' overlaps the chair reciting the same motion; the chair then says 'Moved by Heather and seconded by Jen', so Whitney is the mover)"
+  },
+  "21": {
+   "name": "Jennifer Gallagher",
+   "role": "Claremont School Board member; SAU 6 Board member - the chair recognises 'Oh, Frank. Oh, Jen.' at 905.7s before her turn, Sprague refers back to 'the excerpt you read, Jen' at 1012.7s and Crawford to 'Jen's comments' at 1503.0s; the chair names her the mover to adjourn at 4932.9s - her second on the 7/13/23 minutes; the chair restates it 4s later as 'seconded by Jen' (the chair misattributes two other seconds tonight, so this rests on her restatement alone)"
+  },
+  "23": {
+   "name": "Unidentified",
+   "role": "SAU 6 Board member - 'It said that I was present for the meeting, and I was not there', objecting to the 7/13/23 minutes. Not Jennifer Gallagher: the already-shipped 15193 SAU6071323 CSV has her answering 'Present' on the 7/13 attendance roll at 496.1s and 'Yes' on both roll-call votes. Hawkins, Whitney, Sprague and Ruggeri all speak on that recording, and Crawford was not yet a member (she abstains separately here at 178.5s), which leaves Bonnie Miles and Atonya Hart as the only candidates; the recording does not distinguish them"
+  },
+  "29": {
+   "name": "Heather Whitney",
+   "role": "Claremont School Board Chair; SAU 6 Board member - the chair recognises 'Heather' at 1971.4s, 2006.4s, 2780.2s, 3401.4s and 4763.5s immediately before her turns and names her as mover and seconder at 4568.4s and 4873.5s - her second on the nonpublic motion; the chair restates it as 'Heather seconds. The motion.' (the chair misattributes two other seconds tonight, so this rests on her restatement alone)"
+  },
+  "17": {
+   "name": "Unidentified",
+   "role": "Voice vote on the amendment to the agenda; the voices are not separable"
+  },
+  "26": {
+   "name": "Candace Crawford",
+   "role": "Claremont School Board member, appointed 7/19/23 - the chair recognises 'Candy' at 1414.4s, 1501.4s, 2961.7s, 4743.9s and 4761.3s immediately before her turns and names her the mover of the pre-populated agenda; she abstains on the 7/13/23 minutes 'because I wasn't a board member then' - 'I'm abstaining because I wasn't a board member then'; the chair restates it as 'Candy abstains because she was not a board member at the time'"
+  },
+  "35": {
+   "name": "Unidentified",
+   "role": "Crosstalk during the nonpublic session and the break; voices not identifiable"
+  },
+  "36": {
+   "name": "Unidentified",
+   "role": "Crosstalk during the nonpublic session and the break; voices not identifiable"
+  },
+  "44": {
+   "name": "Unidentified",
+   "role": "Crosstalk during the nonpublic session and the break; voices not identifiable"
+  },
+  "48": {
+   "name": "Unidentified",
+   "role": "Moves to return to public session, with a second absorbed into the same segment; the chair identifies the mover only as 'She did it'"
+  },
+  "50": {
+   "name": "Unidentified",
+   "role": "Procedural exchange with the chair over whether roll-call votes are needed to leave nonpublic session and to seal the minutes; the voice is not separately anchored and may be the roll-call reader"
+  },
+  "52": {
+   "name": "Unidentified",
+   "role": "Procedural exchange with the chair over whether roll-call votes are needed to leave nonpublic session and to seal the minutes; the voice is not separately anchored and may be the roll-call reader"
+  },
+  "54": {
+   "name": "Unidentified",
+   "role": "Procedural exchange with the chair over whether roll-call votes are needed to leave nonpublic session and to seal the minutes; the voice is not separately anchored and may be the roll-call reader"
+  },
+  "56": {
+   "name": "Unidentified",
+   "role": "Procedural exchange with the chair over whether roll-call votes are needed to leave nonpublic session and to seal the minutes; the voice is not separately anchored and may be the roll-call reader"
+  },
+  "58": {
+   "name": "Unidentified",
+   "role": "Procedural exchange with the chair over whether roll-call votes are needed to leave nonpublic session and to seal the minutes; the voice is not separately anchored and may be the roll-call reader"
+  },
+  "60": {
+   "name": "Unidentified",
+   "role": "Procedural exchange with the chair over whether roll-call votes are needed to leave nonpublic session and to seal the minutes; the voice is not separately anchored and may be the roll-call reader"
+  },
+  "63": {
+   "name": "Unidentified",
+   "role": "Motion to seal the nonpublic minutes for two years and its second, merged into one segment; the chair first credits the second to 'Candy' and then corrects herself - 'Oh, I'm sorry Tonya' (Atonya Hart) - and never names the mover"
+  },
+  "65": {
+   "name": "Unidentified",
+   "role": "Motion to seal the nonpublic minutes for two years and its second, merged into one segment; the chair first credits the second to 'Candy' and then corrects herself - 'Oh, I'm sorry Tonya' (Atonya Hart) - and never names the mover"
+  },
+  "74": {
+   "name": "Unidentified",
+   "role": "A second from the board table; the chair does not name the seconder"
+  },
+  "81": {
+   "name": "Unidentified",
+   "role": "A second from the board table; the chair does not name the seconder"
+  },
+  "91": {
+   "name": "Unidentified",
+   "role": "A second from the board table; the chair does not name the seconder"
+  },
+  "101": {
+   "name": "Unidentified",
+   "role": "A second from the board table; the chair does not name the seconder"
+  },
+  "84": {
+   "name": "Unidentified",
+   "role": "Voice vote; the voices are not separable"
+  },
+  "98": {
+   "name": "Unidentified",
+   "role": "Voice vote; the voices are not separable"
+  },
+  "104": {
+   "name": "Unidentified",
+   "role": "One-word remark at the close of the vote on suspending policy CBI; voice not identifiable"
+  },
+  "76": {
+   "name": "Frank Sprague",
+   "role": "Claremont School Board Vice Chair; SAU 6 Board member - the chair recognises 'Any discussion, Frank?' at 573.8s and 'Oh, Frank. Oh, Jen.' at 905.7s immediately before this voice; he answers her by name at 2038.7s ('I'll do it, Arlene.') and she names him the delegate mover, 'Thank you. Frank.' (fragment of his own sentence, 'I was going to make a motion to appoint a chair')"
+  },
+  "78": {
+   "name": "Frank Sprague",
+   "role": "Claremont School Board Vice Chair; SAU 6 Board member - the chair recognises 'Any discussion, Frank?' at 573.8s and 'Oh, Frank. Oh, Jen.' at 905.7s immediately before this voice; he answers her by name at 2038.7s ('I'll do it, Arlene.') and she names him the delegate mover, 'Thank you. Frank.' (fragment of his own sentence, 'I was going to make a motion to appoint a chair')"
+  },
+  "88": {
+   "name": "Frank Sprague",
+   "role": "Claremont School Board Vice Chair; SAU 6 Board member - the chair recognises 'Any discussion, Frank?' at 573.8s and 'Oh, Frank. Oh, Jen.' at 905.7s immediately before this voice; he answers her by name at 2038.7s ('I'll do it, Arlene.') and she names him the delegate mover, 'Thank you. Frank.' (fragment of his own 'Can you make it? Since you...')"
+  },
+  "106": {
+   "name": "Mike Koski",
+   "role": "Assistant Superintendent, SAU 6 - the chair announces at 698.8s 'Mr. Tempesta is not here. Mr. Kosugi [Koski] will be giving the report' and this voice delivers the entire superintendent's report, invites 'Angela, feel free to jump in', and hands the paraprofessional question to Ben (onset of his own report, clipped into the neighbouring cluster)"
+  },
+  "112": {
+   "name": "Mike Koski",
+   "role": "Assistant Superintendent, SAU 6 - the chair announces at 698.8s 'Mr. Tempesta is not here. Mr. Kosugi [Koski] will be giving the report' and this voice delivers the entire superintendent's report, invites 'Angela, feel free to jump in', and hands the paraprofessional question to Ben (onset clip - 'Salary.' begins the sentence he completes in the next segment)"
+  },
+  "115": {
+   "name": "Unidentified",
+   "role": "SAU 6 Board member - points out that the exit survey 'was written before the race [raise]. Nobody had the benefit of the raise of the board'. Never named. Chair Arlene Hawkins is the leading candidate (she is the only member in dialogue with Koski across this stretch and her clipped speech lands in this same cluster at 1098-1115s), but nothing on the recording settles it"
+  },
+  "117": {
+   "name": "Unidentified",
+   "role": "SAU 6 Board member - points out that the exit survey 'was written before the race [raise]. Nobody had the benefit of the raise of the board'. Never named. Chair Arlene Hawkins is the leading candidate (she is the only member in dialogue with Koski across this stretch and her clipped speech lands in this same cluster at 1098-1115s), but nothing on the recording settles it"
+  },
+  "119": {
+   "name": "Unidentified",
+   "role": "SAU 6 Board member - points out that the exit survey 'was written before the race [raise]. Nobody had the benefit of the raise of the board'. Never named. Chair Arlene Hawkins is the leading candidate (she is the only member in dialogue with Koski across this stretch and her clipped speech lands in this same cluster at 1098-1115s), but nothing on the recording settles it"
+  },
+  "122": {
+   "name": "Jennifer Gallagher",
+   "role": "Claremont School Board member; SAU 6 Board member - the chair recognises 'Oh, Frank. Oh, Jen.' at 905.7s before her turn, Sprague refers back to 'the excerpt you read, Jen' at 1012.7s and Crawford to 'Jen's comments' at 1503.0s; the chair names her the mover to adjourn at 4932.9s (onset clip - 'Okay. Thank[ ]' begins 'Thank you for putting this together')"
+  },
+  "125": {
+   "name": "Arlene Hawkins",
+   "role": "SAU 6 Board Chair (elected 7/13/23 over Marjorie Erickson on a show of hands; no tally was announced); Claremont School Board member - presides throughout, and Frank Sprague answers her by name at 2038.7s ('I'll do it, Arlene.') - thanking Gallagher before recognising Sprague"
+  },
+  "130": {
+   "name": "Angela Vivian",
+   "role": "Director of Human Resources, SAU 6 - Koski invites 'Angela, feel free to jump in' at 771.0s, the chair calls the item 'Human resources update. Angela' at 2118.9s, and this voice delivers the HR response to the Luchini/Wilson organizational study (continuation of her own 'So can I just add / to that')"
+  },
+  "132": {
+   "name": "Unidentified",
+   "role": "Short interjection inside the exit-interview discussion; voice not identifiable"
+  },
+  "134": {
+   "name": "Unidentified",
+   "role": "Short interjection inside the exit-interview discussion; voice not identifiable"
+  },
+  "138": {
+   "name": "Unidentified",
+   "role": "Short interjection inside the exit-interview discussion; voice not identifiable"
+  },
+  "144": {
+   "name": "Unidentified",
+   "role": "Short interjection inside the exit-interview discussion; voice not identifiable"
+  },
+  "141": {
+   "name": "Frank Sprague",
+   "role": "Claremont School Board Vice Chair; SAU 6 Board member - the chair recognises 'Any discussion, Frank?' at 573.8s and 'Oh, Frank. Oh, Jen.' at 905.7s immediately before this voice; he answers her by name at 2038.7s ('I'll do it, Arlene.') and she names him the delegate mover, 'Thank you. Frank.' (continuation of his own 'I think / it would / be open information')"
+  },
+  "146": {
+   "name": "Arlene Hawkins",
+   "role": "SAU 6 Board Chair (elected 7/13/23 over Marjorie Erickson on a show of hands; no tally was announced); Claremont School Board member - presides throughout, and Frank Sprague answers her by name at 2038.7s ('I'll do it, Arlene.') (her own question, split alternately between two clusters: 'I have a question. Do we know if these eight respondents were they all from Claremont or any of them from unity')"
+  },
+  "148": {
+   "name": "Arlene Hawkins",
+   "role": "SAU 6 Board Chair (elected 7/13/23 over Marjorie Erickson on a show of hands; no tally was announced); Claremont School Board member - presides throughout, and Frank Sprague answers her by name at 2038.7s ('I'll do it, Arlene.') (her own question, split alternately between two clusters: 'I have a question. Do we know if these eight respondents were they all from Claremont or any of them from unity')"
+  },
+  "150": {
+   "name": "Arlene Hawkins",
+   "role": "SAU 6 Board Chair (elected 7/13/23 over Marjorie Erickson on a show of hands; no tally was announced); Claremont School Board member - presides throughout, and Frank Sprague answers her by name at 2038.7s ('I'll do it, Arlene.') (her own question, split alternately between two clusters: 'I have a question. Do we know if these eight respondents were they all from Claremont or any of them from unity')"
+  },
+  "152": {
+   "name": "Arlene Hawkins",
+   "role": "SAU 6 Board Chair (elected 7/13/23 over Marjorie Erickson on a show of hands; no tally was announced); Claremont School Board member - presides throughout, and Frank Sprague answers her by name at 2038.7s ('I'll do it, Arlene.') (her own question, split alternately between two clusters: 'I have a question. Do we know if these eight respondents were they all from Claremont or any of them from unity')"
+  },
+  "154": {
+   "name": "Arlene Hawkins",
+   "role": "SAU 6 Board Chair (elected 7/13/23 over Marjorie Erickson on a show of hands; no tally was announced); Claremont School Board member - presides throughout, and Frank Sprague answers her by name at 2038.7s ('I'll do it, Arlene.') (her own question, split alternately between two clusters: 'I have a question. Do we know if these eight respondents were they all from Claremont or any of them from unity')"
+  },
+  "158": {
+   "name": "Angela Vivian",
+   "role": "Director of Human Resources, SAU 6 - Koski invites 'Angela, feel free to jump in' at 771.0s, the chair calls the item 'Human resources update. Angela' at 2118.9s, and this voice delivers the HR response to the Luchini/Wilson organizational study (continuation of her own 'I think / so, yeah')"
+  },
+  "160": {
+   "name": "Arlene Hawkins",
+   "role": "SAU 6 Board Chair (elected 7/13/23 over Marjorie Erickson on a show of hands; no tally was announced); Claremont School Board member - presides throughout, and Frank Sprague answers her by name at 2038.7s ('I'll do it, Arlene.') (onset of her own next segment)"
+  },
+  "1": {
+   "name": "Unidentified",
+   "role": "Remark before the board is called to order; voice not identifiable"
+  },
+  "34": {
+   "name": "Unidentified",
+   "role": "Crosstalk as the board moves into nonpublic session; voice not identifiable"
+  },
+  "164": {
+   "name": "Unidentified",
+   "role": "SAU 6 Board member - unprompted question on the exit-interview packet about 'not enough special educators or paras', then a three-minute plea to raise paraprofessional pay 'including unity. So I'm thinking as a whole'. She is never named, never recognised by name, and no one answers her by name. Not Mary Henry, whose cluster this is: the 'you know' rate here is 29 per 1,000 words against 4 per 1,000 in Henry's own turns, and Koski answers it as a board member's question ('Good. Ask Ben to answer that'). Every other member present speaks elsewhere in this same discussion from a different cluster, which leaves Bonnie Miles (Claremont) and Atonya Hart (Unity) as the only candidates; the recording does not distinguish them"
+  },
+  "165": {
+   "name": "Unidentified",
+   "role": "SAU 6 Board member - unprompted question on the exit-interview packet about 'not enough special educators or paras', then a three-minute plea to raise paraprofessional pay 'including unity. So I'm thinking as a whole'. She is never named, never recognised by name, and no one answers her by name. Not Mary Henry, whose cluster this is: the 'you know' rate here is 29 per 1,000 words against 4 per 1,000 in Henry's own turns, and Koski answers it as a board member's question ('Good. Ask Ben to answer that'). Every other member present speaks elsewhere in this same discussion from a different cluster, which leaves Bonnie Miles (Claremont) and Atonya Hart (Unity) as the only candidates; the recording does not distinguish them"
+  },
+  "168": {
+   "name": "Unidentified",
+   "role": "SAU 6 Board member - unprompted question on the exit-interview packet about 'not enough special educators or paras', then a three-minute plea to raise paraprofessional pay 'including unity. So I'm thinking as a whole'. She is never named, never recognised by name, and no one answers her by name. Not Mary Henry, whose cluster this is: the 'you know' rate here is 29 per 1,000 words against 4 per 1,000 in Henry's own turns, and Koski answers it as a board member's question ('Good. Ask Ben to answer that'). Every other member present speaks elsewhere in this same discussion from a different cluster, which leaves Bonnie Miles (Claremont) and Atonya Hart (Unity) as the only candidates; the recording does not distinguish them"
+  },
+  "169": {
+   "name": "Unidentified",
+   "role": "SAU 6 Board member - unprompted question on the exit-interview packet about 'not enough special educators or paras', then a three-minute plea to raise paraprofessional pay 'including unity. So I'm thinking as a whole'. She is never named, never recognised by name, and no one answers her by name. Not Mary Henry, whose cluster this is: the 'you know' rate here is 29 per 1,000 words against 4 per 1,000 in Henry's own turns, and Koski answers it as a board member's question ('Good. Ask Ben to answer that'). Every other member present speaks elsewhere in this same discussion from a different cluster, which leaves Bonnie Miles (Claremont) and Atonya Hart (Unity) as the only candidates; the recording does not distinguish them"
+  },
+  "170": {
+   "name": "Unidentified",
+   "role": "SAU 6 Board member - unprompted question on the exit-interview packet about 'not enough special educators or paras', then a three-minute plea to raise paraprofessional pay 'including unity. So I'm thinking as a whole'. She is never named, never recognised by name, and no one answers her by name. Not Mary Henry, whose cluster this is: the 'you know' rate here is 29 per 1,000 words against 4 per 1,000 in Henry's own turns, and Koski answers it as a board member's question ('Good. Ask Ben to answer that'). Every other member present speaks elsewhere in this same discussion from a different cluster, which leaves Bonnie Miles (Claremont) and Atonya Hart (Unity) as the only candidates; the recording does not distinguish them"
+  },
+  "171": {
+   "name": "Unidentified",
+   "role": "SAU 6 Board member - unprompted question on the exit-interview packet about 'not enough special educators or paras', then a three-minute plea to raise paraprofessional pay 'including unity. So I'm thinking as a whole'. She is never named, never recognised by name, and no one answers her by name. Not Mary Henry, whose cluster this is: the 'you know' rate here is 29 per 1,000 words against 4 per 1,000 in Henry's own turns, and Koski answers it as a board member's question ('Good. Ask Ben to answer that'). Every other member present speaks elsewhere in this same discussion from a different cluster, which leaves Bonnie Miles (Claremont) and Atonya Hart (Unity) as the only candidates; the recording does not distinguish them"
+  },
+  "172": {
+   "name": "Unidentified",
+   "role": "SAU 6 Board member - unprompted question on the exit-interview packet about 'not enough special educators or paras', then a three-minute plea to raise paraprofessional pay 'including unity. So I'm thinking as a whole'. She is never named, never recognised by name, and no one answers her by name. Not Mary Henry, whose cluster this is: the 'you know' rate here is 29 per 1,000 words against 4 per 1,000 in Henry's own turns, and Koski answers it as a board member's question ('Good. Ask Ben to answer that'). Every other member present speaks elsewhere in this same discussion from a different cluster, which leaves Bonnie Miles (Claremont) and Atonya Hart (Unity) as the only candidates; the recording does not distinguish them"
+  },
+  "271": {
+   "name": "Heather Whitney",
+   "role": "Claremont School Board Chair; SAU 6 Board member - the chair recognises 'Heather' at 1971.4s, 2006.4s, 2780.2s, 3401.4s and 4763.5s immediately before her turns and names her as mover and seconder at 4568.4s and 4873.5s (UNCERTAIN - the chair's segment ends 0.08s earlier on 'heather.' at 1883.8s, her standard recognition, and the register matches Whitney's other turns; the diarizer placed these segments in Mary Henry's cluster)"
+  },
+  "273": {
+   "name": "Heather Whitney",
+   "role": "Claremont School Board Chair; SAU 6 Board member - the chair recognises 'Heather' at 1971.4s, 2006.4s, 2780.2s, 3401.4s and 4763.5s immediately before her turns and names her as mover and seconder at 4568.4s and 4873.5s (UNCERTAIN - the chair's segment ends 0.08s earlier on 'heather.' at 1883.8s, her standard recognition, and the register matches Whitney's other turns; the diarizer placed these segments in Mary Henry's cluster)"
+  },
+  "275": {
+   "name": "Heather Whitney",
+   "role": "Claremont School Board Chair; SAU 6 Board member - the chair recognises 'Heather' at 1971.4s, 2006.4s, 2780.2s, 3401.4s and 4763.5s immediately before her turns and names her as mover and seconder at 4568.4s and 4873.5s (UNCERTAIN - the chair's segment ends 0.08s earlier on 'heather.' at 1883.8s, her standard recognition, and the register matches Whitney's other turns; the diarizer placed these segments in Mary Henry's cluster)"
+  },
+  "287": {
+   "name": "Heather Whitney",
+   "role": "Claremont School Board Chair; SAU 6 Board member - the chair recognises 'Heather' at 1971.4s, 2006.4s, 2780.2s, 3401.4s and 4763.5s immediately before her turns and names her as mover and seconder at 4568.4s and 4873.5s (UNCERTAIN - the chair's segment ends 0.08s earlier on 'heather.' at 1883.8s, her standard recognition, and the register matches Whitney's other turns; the diarizer placed these segments in Mary Henry's cluster)"
+  },
+  "289": {
+   "name": "Heather Whitney",
+   "role": "Claremont School Board Chair; SAU 6 Board member - the chair recognises 'Heather' at 1971.4s, 2006.4s, 2780.2s, 3401.4s and 4763.5s immediately before her turns and names her as mover and seconder at 4568.4s and 4873.5s (UNCERTAIN - the chair's segment ends 0.08s earlier on 'heather.' at 1883.8s, her standard recognition, and the register matches Whitney's other turns; the diarizer placed these segments in Mary Henry's cluster)"
+  },
+  "291": {
+   "name": "Heather Whitney",
+   "role": "Claremont School Board Chair; SAU 6 Board member - the chair recognises 'Heather' at 1971.4s, 2006.4s, 2780.2s, 3401.4s and 4763.5s immediately before her turns and names her as mover and seconder at 4568.4s and 4873.5s (UNCERTAIN - the chair's segment ends 0.08s earlier on 'heather.' at 1883.8s, her standard recognition, and the register matches Whitney's other turns; the diarizer placed these segments in Mary Henry's cluster)"
+  },
+  "298": {
+   "name": "Unidentified",
+   "role": "One of several overlapping 'thank you's; the voices are not separable"
+  },
+  "314": {
+   "name": "Unidentified",
+   "role": "One of several overlapping 'thank you's; the voices are not separable"
+  },
+  "554": {
+   "name": "Heather Whitney",
+   "role": "Claremont School Board Chair; SAU 6 Board member - the chair recognises 'Heather' at 1971.4s, 2006.4s, 2780.2s, 3401.4s and 4763.5s immediately before her turns and names her as mover and seconder at 4568.4s and 4873.5s (UNCERTAIN - 'So I'd like to make / a motion', cut off by the technology director; she returns to it at 4483.5s with 'I'll make a motion. I was yes' and moves it at 4560.8s)"
+  },
+  "664": {
+   "name": "Arlene Hawkins",
+   "role": "SAU 6 Board Chair (elected 7/13/23 over Marjorie Erickson on a show of hands; no tally was announced); Claremont School Board member - presides throughout, and Frank Sprague answers her by name at 2038.7s ('I'll do it, Arlene.') (her own explanation of the meeting calendar, split across five clusters: 'I think it was done to kind of mirror... so that there was two meetings in one week... it was just to stack meetings so we wouldn't have - we'd have a week maybe we wouldn't have a meeting')"
+  },
+  "666": {
+   "name": "Arlene Hawkins",
+   "role": "SAU 6 Board Chair (elected 7/13/23 over Marjorie Erickson on a show of hands; no tally was announced); Claremont School Board member - presides throughout, and Frank Sprague answers her by name at 2038.7s ('I'll do it, Arlene.') (her own explanation of the meeting calendar, split across five clusters: 'I think it was done to kind of mirror... so that there was two meetings in one week... it was just to stack meetings so we wouldn't have - we'd have a week maybe we wouldn't have a meeting')"
+  },
+  "668": {
+   "name": "Arlene Hawkins",
+   "role": "SAU 6 Board Chair (elected 7/13/23 over Marjorie Erickson on a show of hands; no tally was announced); Claremont School Board member - presides throughout, and Frank Sprague answers her by name at 2038.7s ('I'll do it, Arlene.') (her own explanation of the meeting calendar, split across five clusters: 'I think it was done to kind of mirror... so that there was two meetings in one week... it was just to stack meetings so we wouldn't have - we'd have a week maybe we wouldn't have a meeting')"
+  },
+  "673": {
+   "name": "Arlene Hawkins",
+   "role": "SAU 6 Board Chair (elected 7/13/23 over Marjorie Erickson on a show of hands; no tally was announced); Claremont School Board member - presides throughout, and Frank Sprague answers her by name at 2038.7s ('I'll do it, Arlene.') (her own explanation of the meeting calendar, split across five clusters: 'I think it was done to kind of mirror... so that there was two meetings in one week... it was just to stack meetings so we wouldn't have - we'd have a week maybe we wouldn't have a meeting')"
+  },
+  "675": {
+   "name": "Arlene Hawkins",
+   "role": "SAU 6 Board Chair (elected 7/13/23 over Marjorie Erickson on a show of hands; no tally was announced); Claremont School Board member - presides throughout, and Frank Sprague answers her by name at 2038.7s ('I'll do it, Arlene.') (her own explanation of the meeting calendar, split across five clusters: 'I think it was done to kind of mirror... so that there was two meetings in one week... it was just to stack meetings so we wouldn't have - we'd have a week maybe we wouldn't have a meeting')"
+  },
+  "677": {
+   "name": "Arlene Hawkins",
+   "role": "SAU 6 Board Chair (elected 7/13/23 over Marjorie Erickson on a show of hands; no tally was announced); Claremont School Board member - presides throughout, and Frank Sprague answers her by name at 2038.7s ('I'll do it, Arlene.') (her own explanation of the meeting calendar, split across five clusters: 'I think it was done to kind of mirror... so that there was two meetings in one week... it was just to stack meetings so we wouldn't have - we'd have a week maybe we wouldn't have a meeting')"
+  },
+  "216": {
+   "name": "Mike Koski",
+   "role": "Assistant Superintendent, SAU 6 - the chair announces at 698.8s 'Mr. Tempesta is not here. Mr. Kosugi [Koski] will be giving the report' and this voice delivers the entire superintendent's report, invites 'Angela, feel free to jump in', and hands the paraprofessional question to Ben (onset of his own 'If you remember these new hires')"
+  },
+  "218": {
+   "name": "Arlene Hawkins",
+   "role": "SAU 6 Board Chair (elected 7/13/23 over Marjorie Erickson on a show of hands; no tally was announced); Claremont School Board member - presides throughout, and Frank Sprague answers her by name at 2038.7s ('I'll do it, Arlene.') (UNCERTAIN - confirming to Koski that the board met in July; she is the member in dialogue with him across this stretch)"
+  },
+  "220": {
+   "name": "Arlene Hawkins",
+   "role": "SAU 6 Board Chair (elected 7/13/23 over Marjorie Erickson on a show of hands; no tally was announced); Claremont School Board member - presides throughout, and Frank Sprague answers her by name at 2038.7s ('I'll do it, Arlene.') (UNCERTAIN - confirming to Koski that the board met in July; she is the member in dialogue with him across this stretch)"
+  },
+  "223": {
+   "name": "Mike Koski",
+   "role": "Assistant Superintendent, SAU 6 - the chair announces at 698.8s 'Mr. Tempesta is not here. Mr. Kosugi [Koski] will be giving the report' and this voice delivers the entire superintendent's report, invites 'Angela, feel free to jump in', and hands the paraprofessional question to Ben (onset of his own 'No, we moved away from a content specialist model')"
+  },
+  "242": {
+   "name": "Ben Nester",
+   "role": "Director of Special Education, SAU 6 - Koski hands him the question at 1214.9s ('Good. Ask Ben to answer that'), Frank Sprague credits him at 3277.1s ('Ben was kind enough. He has different access to the DOE site'), and he says 'this is the first year in my eight years here' (his assent to the chair's 'So this is the budgetary piece for her?', immediately before he says 'That one is paying for that')"
+  },
+  "262": {
+   "name": "Arlene Hawkins",
+   "role": "SAU 6 Board Chair (elected 7/13/23 over Marjorie Erickson on a show of hands; no tally was announced); Claremont School Board member - presides throughout, and Frank Sprague answers her by name at 2038.7s ('I'll do it, Arlene.') (continuation of her own 'Any comment or question[?] Should be a good looking group')"
+  },
+  "264": {
+   "name": "Arlene Hawkins",
+   "role": "SAU 6 Board Chair (elected 7/13/23 over Marjorie Erickson on a show of hands; no tally was announced); Claremont School Board member - presides throughout, and Frank Sprague answers her by name at 2038.7s ('I'll do it, Arlene.') (completes her own 'And a smart / group')"
+  },
+  "288": {
+   "name": "Heather Whitney",
+   "role": "Claremont School Board Chair; SAU 6 Board member - the chair recognises 'Heather' at 1971.4s, 2006.4s, 2780.2s, 3401.4s and 4763.5s immediately before her turns and names her as mover and seconder at 4568.4s and 4873.5s (UNCERTAIN - completes 'No. I thought this was / beautiful', continued in the next segment)"
+  },
+  "300": {
+   "name": "Atonya Hart",
+   "role": "SAU 6 Board member (Unity) - the chair names her immediately after this second: 'Second. Tanya. Seconds.'"
+  },
+  "306": {
+   "name": "Arlene Hawkins",
+   "role": "SAU 6 Board Chair (elected 7/13/23 over Marjorie Erickson on a show of hands; no tally was announced); Claremont School Board member - presides throughout, and Frank Sprague answers her by name at 2038.7s ('I'll do it, Arlene.') (completes her own 'Can we do that? Nominate someone / who's not present'; Whitney's onset 'Oh, I think' shares the segment)"
+  },
+  "308": {
+   "name": "Heather Whitney",
+   "role": "Claremont School Board Chair; SAU 6 Board member - the chair recognises 'Heather' at 1971.4s, 2006.4s, 2780.2s, 3401.4s and 4763.5s immediately before her turns and names her as mover and seconder at 4568.4s and 4873.5s - 'And I wasn't here', completing 'I [was] nominated for something and I wasn't here'"
+  },
+  "317": {
+   "name": "Arlene Hawkins",
+   "role": "SAU 6 Board Chair (elected 7/13/23 over Marjorie Erickson on a show of hands; no tally was announced); Claremont School Board member - presides throughout, and Frank Sprague answers her by name at 2038.7s ('I'll do it, Arlene.') (fragment of her own 'You want to / make / a motion?')"
+  },
+  "336": {
+   "name": "Angela Vivian",
+   "role": "Director of Human Resources, SAU 6 - Koski invites 'Angela, feel free to jump in' at 771.0s, the chair calls the item 'Human resources update. Angela' at 2118.9s, and this voice delivers the HR response to the Luchini/Wilson organizational study (fragment inside her own sentence)"
+  },
+  "355": {
+   "name": "Unidentified",
+   "role": "Two-word answer to Heather Whitney's question about Stephanie Hurst's program; either administrator at the table, not separable"
+  },
+  "370": {
+   "name": "Arlene Hawkins",
+   "role": "SAU 6 Board Chair (elected 7/13/23 over Marjorie Erickson on a show of hands; no tally was announced); Claremont School Board member - presides throughout, and Frank Sprague answers her by name at 2038.7s ('I'll do it, Arlene.') - her recognition 'Heather,' immediately before Whitney's turn"
+  },
+  "373": {
+   "name": "Arlene Hawkins",
+   "role": "SAU 6 Board Chair (elected 7/13/23 over Marjorie Erickson on a show of hands; no tally was announced); Claremont School Board member - presides throughout, and Frank Sprague answers her by name at 2038.7s ('I'll do it, Arlene.') (completes her own 'wait until you've gone / through')"
+  },
+  "378": {
+   "name": "Mary Henry",
+   "role": "Business Administrator, SAU 6 (started 7/1/23) - Heather Whitney addresses her at 2910.3s ('This is actually for Mary. Mary. Are you going to be in contact with Angela during the budget building process?') and again at 3919.8s, 4334.8s and 4483.5s; she presents the Tyler/iVisions purchase and the SAU fund-balance update, says she 'wasn't here for that change', and dates herself to 'the meeting that I was hired at', where David Jack recommended the software (her answer to the chair's 'do you need any action from the board', split across five clusters: 'Motion? I think it has to be done within the districts, in Claremont and Unity, because honestly, the SAU board has a different - unless the SAU wants to cover it... I think it should go back to the district'; she gives the same answer again in her own cluster at 2981.5s)"
+  },
+  "381": {
+   "name": "Mary Henry",
+   "role": "Business Administrator, SAU 6 (started 7/1/23) - Heather Whitney addresses her at 2910.3s ('This is actually for Mary. Mary. Are you going to be in contact with Angela during the budget building process?') and again at 3919.8s, 4334.8s and 4483.5s; she presents the Tyler/iVisions purchase and the SAU fund-balance update, says she 'wasn't here for that change', and dates herself to 'the meeting that I was hired at', where David Jack recommended the software (her answer to the chair's 'do you need any action from the board', split across five clusters: 'Motion? I think it has to be done within the districts, in Claremont and Unity, because honestly, the SAU board has a different - unless the SAU wants to cover it... I think it should go back to the district'; she gives the same answer again in her own cluster at 2981.5s)"
+  },
+  "384": {
+   "name": "Mary Henry",
+   "role": "Business Administrator, SAU 6 (started 7/1/23) - Heather Whitney addresses her at 2910.3s ('This is actually for Mary. Mary. Are you going to be in contact with Angela during the budget building process?') and again at 3919.8s, 4334.8s and 4483.5s; she presents the Tyler/iVisions purchase and the SAU fund-balance update, says she 'wasn't here for that change', and dates herself to 'the meeting that I was hired at', where David Jack recommended the software (her answer to the chair's 'do you need any action from the board', split across five clusters: 'Motion? I think it has to be done within the districts, in Claremont and Unity, because honestly, the SAU board has a different - unless the SAU wants to cover it... I think it should go back to the district'; she gives the same answer again in her own cluster at 2981.5s)"
+  },
+  "386": {
+   "name": "Mary Henry",
+   "role": "Business Administrator, SAU 6 (started 7/1/23) - Heather Whitney addresses her at 2910.3s ('This is actually for Mary. Mary. Are you going to be in contact with Angela during the budget building process?') and again at 3919.8s, 4334.8s and 4483.5s; she presents the Tyler/iVisions purchase and the SAU fund-balance update, says she 'wasn't here for that change', and dates herself to 'the meeting that I was hired at', where David Jack recommended the software (her answer to the chair's 'do you need any action from the board', split across five clusters: 'Motion? I think it has to be done within the districts, in Claremont and Unity, because honestly, the SAU board has a different - unless the SAU wants to cover it... I think it should go back to the district'; she gives the same answer again in her own cluster at 2981.5s)"
+  },
+  "388": {
+   "name": "Mary Henry",
+   "role": "Business Administrator, SAU 6 (started 7/1/23) - Heather Whitney addresses her at 2910.3s ('This is actually for Mary. Mary. Are you going to be in contact with Angela during the budget building process?') and again at 3919.8s, 4334.8s and 4483.5s; she presents the Tyler/iVisions purchase and the SAU fund-balance update, says she 'wasn't here for that change', and dates herself to 'the meeting that I was hired at', where David Jack recommended the software (her answer to the chair's 'do you need any action from the board', split across five clusters: 'Motion? I think it has to be done within the districts, in Claremont and Unity, because honestly, the SAU board has a different - unless the SAU wants to cover it... I think it should go back to the district'; she gives the same answer again in her own cluster at 2981.5s)"
+  },
+  "396": {
+   "name": "Mary Henry",
+   "role": "Business Administrator, SAU 6 (started 7/1/23) - Heather Whitney addresses her at 2910.3s ('This is actually for Mary. Mary. Are you going to be in contact with Angela during the budget building process?') and again at 3919.8s, 4334.8s and 4483.5s; she presents the Tyler/iVisions purchase and the SAU fund-balance update, says she 'wasn't here for that change', and dates herself to 'the meeting that I was hired at', where David Jack recommended the software (onset of her own answer)"
+  },
+  "365": {
+   "name": "Angela Vivian",
+   "role": "Director of Human Resources, SAU 6 - Koski invites 'Angela, feel free to jump in' at 771.0s, the chair calls the item 'Human resources update. Angela' at 2118.9s, and this voice delivers the HR response to the Luchini/Wilson organizational study (fragment of her own 'this wasn't / part of the Luchini before')"
+  },
+  "690": {
+   "name": "Jennifer Gallagher",
+   "role": "Claremont School Board member; SAU 6 Board member - the chair recognises 'Oh, Frank. Oh, Jen.' at 905.7s before her turn, Sprague refers back to 'the excerpt you read, Jen' at 1012.7s and Crawford to 'Jen's comments' at 1503.0s; the chair names her the mover to adjourn at 4932.9s - moves to adjourn; the chair answers 'Gallagher, have a second'"
+  },
+  "692": {
+   "name": "Unidentified",
+   "role": "Closing 'thank you' as the meeting adjourns; voice not identifiable"
+  },
+  "459": {
+   "name": "Angela Vivian",
+   "role": "Director of Human Resources, SAU 6 - Koski invites 'Angela, feel free to jump in' at 771.0s, the chair calls the item 'Human resources update. Angela' at 2118.9s, and this voice delivers the HR response to the Luchini/Wilson organizational study (UNCERTAIN - her reply to the chair's 'So thank you for everything'; the segment sits inside the chair's own fragment cluster)"
+  },
+  "625": {
+   "name": "Mike Koski",
+   "role": "Assistant Superintendent, SAU 6 - the chair announces at 698.8s 'Mr. Tempesta is not here. Mr. Kosugi [Koski] will be giving the report' and this voice delivers the entire superintendent's report, invites 'Angela, feel free to jump in', and hands the paraprofessional question to Ben (completes 'I don't / think that's it')"
+  },
+  "635": {
+   "name": "Candace Crawford",
+   "role": "Claremont School Board member, appointed 7/19/23 - the chair recognises 'Candy' at 1414.4s, 1501.4s, 2961.7s, 4743.9s and 4761.3s immediately before her turns and names her the mover of the pre-populated agenda; she abstains on the 7/13/23 minutes 'because I wasn't a board member then' (fragment of her own 'Does / this / copy that we have reflect the changes')"
+  },
+  "380": {
+   "name": "Mary Henry",
+   "role": "Business Administrator, SAU 6 (started 7/1/23) - Heather Whitney addresses her at 2910.3s ('This is actually for Mary. Mary. Are you going to be in contact with Angela during the budget building process?') and again at 3919.8s, 4334.8s and 4483.5s; she presents the Tyler/iVisions purchase and the SAU fund-balance update, says she 'wasn't here for that change', and dates herself to 'the meeting that I was hired at', where David Jack recommended the software (fragment of her answer on which board must act on the background-check fee)"
+  },
+  "383": {
+   "name": "Mary Henry",
+   "role": "Business Administrator, SAU 6 (started 7/1/23) - Heather Whitney addresses her at 2910.3s ('This is actually for Mary. Mary. Are you going to be in contact with Angela during the budget building process?') and again at 3919.8s, 4334.8s and 4483.5s; she presents the Tyler/iVisions purchase and the SAU fund-balance update, says she 'wasn't here for that change', and dates herself to 'the meeting that I was hired at', where David Jack recommended the software (fragment of her answer on which board must act on the background-check fee)"
+  },
+  "528": {
+   "name": "Mary Henry",
+   "role": "Business Administrator, SAU 6 (started 7/1/23) - Heather Whitney addresses her at 2910.3s ('This is actually for Mary. Mary. Are you going to be in contact with Angela during the budget building process?') and again at 3919.8s, 4334.8s and 4483.5s; she presents the Tyler/iVisions purchase and the SAU fund-balance update, says she 'wasn't here for that change', and dates herself to 'the meeting that I was hired at', where David Jack recommended the software (fragment inside her own 'The thing is / though / you got to remember')"
+  },
+  "655": {
+   "name": "Arlene Hawkins",
+   "role": "SAU 6 Board Chair (elected 7/13/23 over Marjorie Erickson on a show of hands; no tally was announced); Claremont School Board member - presides throughout, and Frank Sprague answers her by name at 2038.7s ('I'll do it, Arlene.') (fragment of her own 'Do you want that change made on that document, like the Thursday after the second... after the unity?')"
+  },
+  "672": {
+   "name": "Arlene Hawkins",
+   "role": "SAU 6 Board Chair (elected 7/13/23 over Marjorie Erickson on a show of hands; no tally was announced); Claremont School Board member - presides throughout, and Frank Sprague answers her by name at 2038.7s ('I'll do it, Arlene.') (onset of her own next sentence)"
+  },
+  "682": {
+   "name": "Arlene Hawkins",
+   "role": "SAU 6 Board Chair (elected 7/13/23 over Marjorie Erickson on a show of hands; no tally was announced); Claremont School Board member - presides throughout, and Frank Sprague answers her by name at 2038.7s ('I'll do it, Arlene.') (onset of her own next sentence)"
+  },
+  "379": {
+   "name": "Mary Henry",
+   "role": "Business Administrator, SAU 6 (started 7/1/23) - Heather Whitney addresses her at 2910.3s ('This is actually for Mary. Mary. Are you going to be in contact with Angela during the budget building process?') and again at 3919.8s, 4334.8s and 4483.5s; she presents the Tyler/iVisions purchase and the SAU fund-balance update, says she 'wasn't here for that change', and dates herself to 'the meeting that I was hired at', where David Jack recommended the software (fragment of her answer on which board must act on the background-check fee)"
+  },
+  "665": {
+   "name": "Arlene Hawkins",
+   "role": "SAU 6 Board Chair (elected 7/13/23 over Marjorie Erickson on a show of hands; no tally was announced); Claremont School Board member - presides throughout, and Frank Sprague answers her by name at 2038.7s ('I'll do it, Arlene.') (fragment of her own explanation of the meeting calendar)"
+  },
+  "662": {
+   "name": "Arlene Hawkins",
+   "role": "SAU 6 Board Chair (elected 7/13/23 over Marjorie Erickson on a show of hands; no tally was announced); Claremont School Board member - presides throughout, and Frank Sprague answers her by name at 2038.7s ('I'll do it, Arlene.') (fragment of her own 'I think / it was / done / to kind of mirror')"
+  },
+  "538": {
+   "name": "Mary Henry",
+   "role": "Business Administrator, SAU 6 (started 7/1/23) - Heather Whitney addresses her at 2910.3s ('This is actually for Mary. Mary. Are you going to be in contact with Angela during the budget building process?') and again at 3919.8s, 4334.8s and 4483.5s; she presents the Tyler/iVisions purchase and the SAU fund-balance update, says she 'wasn't here for that change', and dates herself to 'the meeting that I was hired at', where David Jack recommended the software (fragment inside her own sentence)"
+  },
+  "581": {
+   "name": "Jeff Small",
+   "role": "Director of Technology, SAU 6 - the chair hands the item to 'Jeff' at 3481.2s and this voice begins the Tyler software briefing, says 'I pay the bills on the copiers', and hands off to Mary Henry (completes his own 'there is more to their, including therapies for migrating / and training')"
+  },
+  "318": {
+   "name": "Arlene Hawkins",
+   "role": "SAU 6 Board Chair (elected 7/13/23 over Marjorie Erickson on a show of hands; no tally was announced); Claremont School Board member - presides throughout, and Frank Sprague answers her by name at 2038.7s ('I'll do it, Arlene.') (completes her own 'You want to make / a motion?')"
+  },
+  "686": {
+   "name": "Mary Henry",
+   "role": "Business Administrator, SAU 6 (started 7/1/23) - Heather Whitney addresses her at 2910.3s ('This is actually for Mary. Mary. Are you going to be in contact with Angela during the budget building process?') and again at 3919.8s, 4334.8s and 4483.5s; she presents the Tyler/iVisions purchase and the SAU fund-balance update, says she 'wasn't here for that change', and dates herself to 'the meeting that I was hired at', where David Jack recommended the software (completes her own 'I want to[morrow] email it to / you all')"
+  },
+  "110": {
+   "name": "Frank Sprague",
+   "role": "Claremont School Board Vice Chair; SAU 6 Board member - the chair recognises 'Any discussion, Frank?' at 573.8s and 'Oh, Frank. Oh, Jen.' at 905.7s immediately before this voice; he answers her by name at 2038.7s ('I'll do it, Arlene.') and she names him the delegate mover, 'Thank you. Frank.' (completes his own question, 'So of the 47, were they all offered / the exit interview?'; Koski's one-word 'Yes' is absorbed into the same segment)"
+  },
+  "261": {
+   "name": "Arlene Hawkins",
+   "role": "SAU 6 Board Chair (elected 7/13/23 over Marjorie Erickson on a show of hands; no tally was announced); Claremont School Board member - presides throughout, and Frank Sprague answers her by name at 2038.7s ('I'll do it, Arlene.') (continuation of her own 'Any comment or question[?] Should be a good looking group')"
+  }
+ }
+}

@@ -1,0 +1,303 @@
+{
+ "Speaker 1": {
+  "name": "Jason Benware",
+  "role": "Public commenter, Ward 1 (ASR 'Jason Ben where'); cluster also absorbs the opening chair lines, see overrides"
+ },
+ "Speaker 2": {
+  "name": "Michelle Pierce",
+  "role": "Claremont School Board member"
+ },
+ "Speaker 3": {
+  "name": "Frank Sprague",
+  "role": "Claremont School Board member"
+ },
+ "Speaker 4": {
+  "name": "Chris Irish",
+  "role": "Claremont School Board Vice Chair, presiding in the Chair's absence (uncertain - opening chair lines split from his main cluster; floor-control continuity with Speaker 7)"
+ },
+ "Speaker 5": {
+  "name": "Lexi",
+  "role": "Student representative to the board, Stevens High School (surname not clear on the recording; ASR 'Lexi Granny Air')"
+ },
+ "Speaker 6": {
+  "name": "Middleton McGoodwin",
+  "role": "Superintendent, SAU 6"
+ },
+ "Speaker 7": {
+  "name": "Chris Irish",
+  "role": "Claremont School Board Vice Chair, presiding in the Chair's absence"
+ },
+ "Speaker 8": {
+  "name": "Rebecca Zullo",
+  "role": "Claremont School Board member"
+ },
+ "Speaker 9": {
+  "name": "Unidentified",
+  "role": "Unidentified - short fragments from several voices (student, technology staff during the projector setup)"
+ },
+ "Speaker 10": {
+  "name": "Christine Downing",
+  "role": "Curriculum specialist, Stevens High School (ELO program coordinator)"
+ },
+ "Speaker 11": {
+  "name": "Clara Avery",
+  "role": "Student, Stevens High School sophomore (ELO presenter)"
+ },
+ "Speaker 12": {
+  "name": "Karen Doucet",
+  "role": "Owner, Old Courthouse restaurant, Newport; ELO mentor (identified by Downing's introduction, seg 115; spelling from ASR)"
+ },
+ "Speaker 13": {
+  "name": "Shelly Avery",
+  "role": "Art teacher, Stevens High School, and parent of an ELO student (identified by Downing's introduction, seg 115)"
+ },
+ "Speaker 14": {
+  "name": "Jesse Burrill",
+  "role": "Student, Stevens High School junior (ELO presenter; ASR also 'Jesse Beryl')"
+ },
+ "Speaker 15": {
+  "name": "Alyssa Ellison",
+  "role": "Student, Stevens High School (ELO presenter; identified by Downing's introduction, seg 136)"
+ },
+ "Speaker 16": {
+  "name": "Chandler Zullo",
+  "role": "Student, Stevens High School senior (ELO presenter)"
+ },
+ "Speaker 17": {
+  "name": "Unidentified",
+  "role": "Unidentified - single fragment"
+ },
+ "Speaker 18": {
+  "name": "Mary",
+  "role": "Parent of ELO students Samantha and Evan, Ward 3 (first name from Downing, seg 239; surname not on the recording)"
+ },
+ "Speaker 19": {
+  "name": "Josh Malloy",
+  "role": "Director of Technology, Claremont School District"
+ },
+ "Speaker 20": {
+  "name": "Michael Petrin",
+  "role": "Claremont School Board member (uncertain - rests on answering 'Mike. So you're good on the 29th?' at seg 884-885)"
+ },
+ "Speaker 21": {
+  "name": "Unidentified",
+  "role": "Unidentified - single fragment during projector sign-in"
+ },
+ "Speaker 22": {
+  "name": "Unidentified",
+  "role": "Unidentified - humming during projector setup"
+ },
+ "Speaker 23": {
+  "name": "Unidentified",
+  "role": "Unidentified - board member at the table plus cross-talk fragments; by elimination possibly Alex Herzog (present per seg 861), not confirmed"
+ },
+ "Speaker 24": {
+  "name": "Unidentified",
+  "role": "Unidentified - short fragments; seg 514 reassigned to Joel Snyder"
+ },
+ "Speaker 25": {
+  "name": "Michael O'Neill",
+  "role": "Business Administrator, SAU 6"
+ },
+ "Speaker 26": {
+  "name": "Rebecca Zullo",
+  "role": "Claremont School Board member (uncertain - second cluster; 'Becky' at the onsets of seg 774 and 935 and the vice chair's 'Becky and I both said this' right after her at seg 951)"
+ },
+ "Speaker 27": {
+  "name": "Unidentified",
+  "role": "Unidentified - SAU 6 administrator distributing special education materials and collecting board questions"
+ },
+ "Speaker 28": {
+  "name": "Unidentified",
+  "role": "Unidentified - single fragment"
+ },
+ "__overrides__": {
+  "0": {
+   "name": "Unidentified",
+   "role": "Unidentified - opening procedural line, presiding officer or superintendent, not separable"
+  },
+  "1": {
+   "name": "Unidentified",
+   "role": "Unidentified - opening procedural line, presiding officer or superintendent, not separable"
+  },
+  "3": {
+   "name": "Unidentified",
+   "role": "Unidentified - opening procedural line, presiding officer or superintendent, not separable"
+  },
+  "4": {
+   "name": "Unidentified",
+   "role": "Unidentified - opening procedural line, presiding officer or superintendent, not separable"
+  },
+  "7": {
+   "name": "Chris Irish"
+  },
+  "10": {
+   "name": "Chris Irish"
+  },
+  "11": {
+   "name": "Chris Irish"
+  },
+  "14": {
+   "name": "Chris Irish"
+  },
+  "21": {
+   "name": "Chris Irish"
+  },
+  "23": {
+   "name": "Chris Irish"
+  },
+  "25": {
+   "name": "Chris Irish"
+  },
+  "27": {
+   "name": "Chris Irish"
+  },
+  "18": {
+   "name": "Frank Sprague"
+  },
+  "137": {
+   "name": "Unidentified",
+   "role": "Unidentified - short interjection absorbed into the public commenter's cluster after he left"
+  },
+  "215": {
+   "name": "Unidentified",
+   "role": "Unidentified - short interjection absorbed into the public commenter's cluster after he left"
+  },
+  "278": {
+   "name": "Unidentified",
+   "role": "Unidentified - short interjection absorbed into the public commenter's cluster after he left"
+  },
+  "586": {
+   "name": "Unidentified",
+   "role": "Unidentified - short interjection absorbed into the public commenter's cluster after he left"
+  },
+  "142": {
+   "name": "Alyssa Ellison"
+  },
+  "242": {
+   "name": "Mary"
+  },
+  "370": {
+   "name": "Unidentified",
+   "role": "Unidentified - fragment absorbed into a presenter's cluster"
+  },
+  "740": {
+   "name": "Unidentified",
+   "role": "Unidentified - fragment absorbed into a presenter's cluster"
+  },
+  "717": {
+   "name": "Cory LeClair",
+   "role": "Assistant Superintendent, SAU 6"
+  },
+  "718": {
+   "name": "Cory LeClair",
+   "role": "Assistant Superintendent, SAU 6"
+  },
+  "720": {
+   "name": "Cory LeClair",
+   "role": "Assistant Superintendent, SAU 6"
+  },
+  "722": {
+   "name": "Cory LeClair",
+   "role": "Assistant Superintendent, SAU 6"
+  },
+  "724": {
+   "name": "Cory LeClair",
+   "role": "Assistant Superintendent, SAU 6"
+  },
+  "726": {
+   "name": "Cory LeClair",
+   "role": "Assistant Superintendent, SAU 6"
+  },
+  "727": {
+   "name": "Cory LeClair",
+   "role": "Assistant Superintendent, SAU 6"
+  },
+  "729": {
+   "name": "Cory LeClair",
+   "role": "Assistant Superintendent, SAU 6"
+  },
+  "730": {
+   "name": "Cory LeClair",
+   "role": "Assistant Superintendent, SAU 6"
+  },
+  "731": {
+   "name": "Cory LeClair",
+   "role": "Assistant Superintendent, SAU 6"
+  },
+  "732": {
+   "name": "Cory LeClair",
+   "role": "Assistant Superintendent, SAU 6"
+  },
+  "734": {
+   "name": "Cory LeClair",
+   "role": "Assistant Superintendent, SAU 6"
+  },
+  "738": {
+   "name": "Cory LeClair",
+   "role": "Assistant Superintendent, SAU 6"
+  },
+  "744": {
+   "name": "Cory LeClair",
+   "role": "Assistant Superintendent, SAU 6"
+  },
+  "759": {
+   "name": "Cory LeClair",
+   "role": "Assistant Superintendent, SAU 6"
+  },
+  "760": {
+   "name": "Cory LeClair",
+   "role": "Assistant Superintendent, SAU 6"
+  },
+  "761": {
+   "name": "Cory LeClair",
+   "role": "Assistant Superintendent, SAU 6"
+  },
+  "762": {
+   "name": "Cory LeClair",
+   "role": "Assistant Superintendent, SAU 6"
+  },
+  "763": {
+   "name": "Cory LeClair",
+   "role": "Assistant Superintendent, SAU 6"
+  },
+  "764": {
+   "name": "Cory LeClair",
+   "role": "Assistant Superintendent, SAU 6"
+  },
+  "768": {
+   "name": "Cory LeClair",
+   "role": "Assistant Superintendent, SAU 6"
+  },
+  "769": {
+   "name": "Cory LeClair",
+   "role": "Assistant Superintendent, SAU 6"
+  },
+  "721": {
+   "name": "Cory LeClair",
+   "role": "Assistant Superintendent, SAU 6"
+  },
+  "723": {
+   "name": "Cory LeClair",
+   "role": "Assistant Superintendent, SAU 6"
+  },
+  "725": {
+   "name": "Cory LeClair",
+   "role": "Assistant Superintendent, SAU 6"
+  },
+  "739": {
+   "name": "Rebecca Zullo"
+  },
+  "741": {
+   "name": "Rebecca Zullo"
+  },
+  "514": {
+   "name": "Joel Snyder",
+   "role": "Director, Sugar River Valley Regional Technical Center (named by the superintendent, seg 497; ASR spelling)"
+  },
+  "975": {
+   "name": "Unidentified",
+   "role": "Group voice vote"
+  }
+ }
+}

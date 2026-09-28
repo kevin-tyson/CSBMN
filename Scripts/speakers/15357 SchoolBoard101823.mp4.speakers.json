@@ -1,0 +1,248 @@
+{
+  "Speaker 1": {
+    "name": "Michael Tempesta",
+    "role": "Superintendent, SAU 6 - delivers the superintendent's report and his two goals (segments 14-35); the chair introduces the athletic-fields agreement as a 'Presentation by Mr. Dempster' (a known ASR rendering of Tempesta) at segment 450 and he begins at 452; Frank Romeo says 'I've talked about with Mr. Tempesta and Mr. Kosky' at segment 151"
+  },
+  "Speaker 2": {
+    "name": "Unidentified",
+    "role": "Overlap and crosstalk cluster - the diarizer's catch-all for clipped sentence onsets and tails and for the board's spoken 'aye' votes. It demonstrably carries Courtney Steele, Frank Romeo, Arlene Hawkins and the chair (several of its fragments complete an adjacent speaker's sentence across a zero-length gap); the fragments that can be tied to a speaker are reassigned by override, the rest are not separable"
+  },
+  "Speaker 3": {
+    "name": "Heather Whitney",
+    "role": "Chair, Claremont School Board - calls the meeting to order (segments 3-5) and chairs throughout; Michael Tempesta thanks 'Chair Whitney' at segment 14 and refers to 'Chair Whitney, who's in the biz' at 24 and 'the chair Whitney' at 69; Frank Sprague says 'the pushback on what you just said, Heather' at segment 561"
+  },
+  "Speaker 4": {
+    "name": "Unidentified",
+    "role": "A second voice at the board and staff table, silent for the first 88 minutes and then heard from segment 522 to the adjournment. It gives the curriculum update at 530 and 532 after the chair says there is nothing from Jennifer Gallagher (absent), supplies the policy code 'BG' at 525, corrects the chair on the meeting date at 623-625 and banters through the adjournment. There is no roll call in this recording and nobody names this speaker, so it cannot be tied to a person: the live candidates are board member Bonnie Miles (the only seated member never heard), Assistant Superintendent Mike Koski (present, referred to repeatedly, never separately identified), curriculum director Kat McLaughlin, and Candace Crawford (segments 571 and 573 sit either side of Frank Sprague thanking 'Candy'). The cluster may well be more than one voice"
+  },
+  "Speaker 5": {
+    "name": "Frank Sprague",
+    "role": "Vice Chair, Claremont School Board - the chair asks for a motion 'Mr. Sprague' at segment 11 and he moves at 12; 'Go ahead Frank' (175), 'we're going to open the floor to discussion now Frank' (374), Mary Henry says 'I honestly, Frank, I can't give you an answer to that' (377); reads the CTE support letter he was tasked with at the retreat (541-542)"
+  },
+  "Speaker 6": {
+    "name": "Arlene Hawkins",
+    "role": "Claremont School Board member (elected 3/14/2023) and SAU 6 Board chair - the chair recognizes 'Arlene' at segment 245 immediately before she speaks at 246, and 'Miss Hocking' (ASR for Hawkins) at 319 immediately before her question at 320; Frank Sprague says he was 'sending them to Arlene' at 588 about a delegate-assembly presentation she missed"
+  },
+  "Speaker 7": {
+    "name": "Whitney Skillen",
+    "role": "Claremont School Board member; policy subcommittee - the chair queues 'Now Candace, Miss Gillen, and then down the line' at segment 307 and then recognizes 'Miss Gilman' at 315 immediately before she speaks at 316 (both are ASR renderings of Skillen, a name this ASR never gets right). NOT the chair, who is Heather Whitney"
+  },
+  "Speaker 8": {
+    "name": "Frank Romeo",
+    "role": "Principal, Claremont Middle School - the chair thanks 'Principal Romeo for coming out and the team coming out' at segment 73, immediately before he begins the CMS update at 74"
+  },
+  "Speaker 9": {
+    "name": "Courtney Steele",
+    "role": "Claremont Middle School staff member handling the VLACS registrations - Frank Romeo names 'Courtney Steele, who I promise didn't have to say anything tonight' at segment 82, then says 'you want to promise you she wasn't going to talk to you, I'm going to pay for this' at 87 as she takes over the answer at 90; what she describes (registering every seventh grader with VLACS, pulling students into her office) is exactly the work Romeo credits Steele with"
+  },
+  "Speaker 10": {
+    "name": "Ben Nester",
+    "role": "Director of Special Education, SAU 6 - presents the alternative-program location update (segments 299-303, 310-337); the chair says 'unless there's any updates from Mr. Nestor' at segment 576 immediately before his 'Not at this time' at 577"
+  },
+  "Speaker 11": {
+    "name": "Candace Crawford",
+    "role": "Claremont School Board member (appointed 7/19/2023) - the chair says 'Crawford.' at segment 228 and 'Is there anyone interested in entertaining a motion, Miss Crawford?' at 367, each immediately before she speaks; queued as 'Candace' at 307; Frank Sprague thanks 'Candy, for your help on that one' at 572 for the CTE letter"
+  },
+  "Speaker 12": {
+    "name": "Frank Romeo",
+    "role": "Principal, Claremont Middle School - the same voice the diarizer also calls Speaker 8; every fragment in this cluster completes one of his own sentences across a zero-length gap (e.g. 'One of the things that I'd love to do is see' running into 'if we can have monthly meetings for parents')"
+  },
+  "Speaker 13": {
+    "name": "Frank Romeo",
+    "role": "Principal, Claremont Middle School - the same voice the diarizer also calls Speaker 8; both fragments sit inside his own sentences ('When you' / 'have those meetings' / 'on a month[ly basis]')"
+  },
+  "Speaker 14": {
+    "name": "Michael Tempesta",
+    "role": "Superintendent, SAU 6 - the same voice the diarizer also calls Speaker 1; the athletic-fields fragments run into his own sentences with no gap ('And historically, two there' / 'were' / 'half time and at one time, a full time person'). Three fragments in the late-bus crosstalk are reassigned by override"
+  },
+  "Speaker 15": {
+    "name": "Unidentified",
+    "role": "Backchannel and overlap cluster - sub-second assents and clipped sentence fragments from the board table during the middle-school, alternative-program and budget items. It demonstrably carries Frank Romeo, Mary Henry, the chair and Frank Sprague; those fragments are reassigned by override, the remaining one- and two-word assents are not separable"
+  },
+  "Speaker 16": {
+    "name": "Mary Henry",
+    "role": "Business Administrator, Claremont School District (started July 2023) - the chair introduces item three, 'the Claremont District budget update and surplus discussion. Henry.' at segment 281, and says 'Just quickly. Mary.' at 419; presents the fund-balance retention recommendation and the audit backlog"
+  },
+  "Speaker 17": {
+    "name": "Whitney Skillen",
+    "role": "Claremont School Board member - the same voice the diarizer also calls Speaker 7; this single fragment sits inside her own sentence reading the licence agreement ('...would be an annual adjustment of a minimum of 2%' / 'and a' / 'maximum' / 'of 6%'), 0.08 s from her own segments on either side"
+  },
+  "__overrides__": {
+    "89": {
+      "name": "Frank Romeo",
+      "role": "Principal, Claremont Middle School - fielding Arlene Hawkins's question and handing it to Courtney Steele, who answers in the next segment"
+    },
+    "98": {
+      "name": "Courtney Steele",
+      "role": "Claremont Middle School staff - the onset of her own sentence, 'I'll be ready to go', clipped into the neighbouring cluster (zero gap to her next segment)"
+    },
+    "102": {
+      "name": "Arlene Hawkins",
+      "role": "Claremont School Board member - acknowledging Courtney Steele's answer inside her own run of questions about the teacher of record"
+    },
+    "104": {
+      "name": "Arlene Hawkins",
+      "role": "Claremont School Board member - acknowledging Courtney Steele's answer inside her own run of questions about the teacher of record"
+    },
+    "107": {
+      "name": "Courtney Steele",
+      "role": "Claremont Middle School staff - completes her own sentence, 'Oftentimes that's a no'"
+    },
+    "113": {
+      "name": "Courtney Steele",
+      "role": "Claremont Middle School staff - reassuring Arlene Hawkins mid-question ('bear with me for another 20s'); Steele answers the question two segments later"
+    },
+    "115": {
+      "name": "Courtney Steele",
+      "role": "Claremont Middle School staff - the onset of her own answer about the DBA assessments (zero gap to her next segment)"
+    },
+    "120": {
+      "name": "Arlene Hawkins",
+      "role": "Claremont School Board member - completes her own question, 'They know where they are in their system'"
+    },
+    "122": {
+      "name": "Courtney Steele",
+      "role": "Claremont Middle School staff - completes her own sentence, 'the parents have access to see the grades through as well'"
+    },
+    "124": {
+      "name": "Courtney Steele",
+      "role": "Claremont Middle School staff - the onset of her own answer, 'It is not a live lesson' (zero gap to her next segment)"
+    },
+    "127": {
+      "name": "Frank Romeo",
+      "role": "Principal, Claremont Middle School - completes his own sentence, 'We take the attendance. Correct.'"
+    },
+    "129": {
+      "name": "Courtney Steele",
+      "role": "Claremont Middle School staff - the onset of her own sentence, 'their student computers' (zero gap to her next segment)"
+    },
+    "183": {
+      "name": "Heather Whitney",
+      "role": "Chair, Claremont School Board - recognizing the next questioner immediately after 'No one else from the board.'; Candace Crawford begins her question in the following segment, so the ASR's 'Is proffered' is most likely 'Miss Crawford'"
+    },
+    "211": {
+      "name": "Frank Romeo",
+      "role": "Principal, Claremont Middle School - continues his own sentence about the book-vending-machine grant, 'I think we first talked about her last year' (zero gap)"
+    },
+    "214": {
+      "name": "Courtney Steele",
+      "role": "Claremont Middle School staff - a substantive turn in the book-vending-machine exchange from the same voice the diarizer clips into this cluster elsewhere; the speaker describes students seeking her out and books kept 'in my office', matching the student-facing role Frank Romeo credits Courtney Steele with. Romeo also has 'Miss Lydia' and 'Andrew' at the table, so this identification rests on the voice clustering rather than on anything spoken"
+    },
+    "216": {
+      "name": "Courtney Steele",
+      "role": "Claremont Middle School staff - a substantive turn in the book-vending-machine exchange from the same voice the diarizer clips into this cluster elsewhere; the speaker describes students seeking her out and books kept 'in my office', matching the student-facing role Frank Romeo credits Courtney Steele with. Romeo also has 'Miss Lydia' and 'Andrew' at the table, so this identification rests on the voice clustering rather than on anything spoken"
+    },
+    "221": {
+      "name": "Courtney Steele",
+      "role": "Claremont Middle School staff - a substantive turn in the book-vending-machine exchange from the same voice the diarizer clips into this cluster elsewhere; the speaker describes students seeking her out and books kept 'in my office', matching the student-facing role Frank Romeo credits Courtney Steele with. Romeo also has 'Miss Lydia' and 'Andrew' at the table, so this identification rests on the voice clustering rather than on anything spoken"
+    },
+    "223": {
+      "name": "Courtney Steele",
+      "role": "Claremont Middle School staff - a substantive turn in the book-vending-machine exchange from the same voice the diarizer clips into this cluster elsewhere; the speaker describes students seeking her out and books kept 'in my office', matching the student-facing role Frank Romeo credits Courtney Steele with. Romeo also has 'Miss Lydia' and 'Andrew' at the table, so this identification rests on the voice clustering rather than on anything spoken"
+    },
+    "234": {
+      "name": "Courtney Steele",
+      "role": "Claremont Middle School staff - a substantive turn in the book-vending-machine exchange from the same voice the diarizer clips into this cluster elsewhere; the speaker describes students seeking her out and books kept 'in my office', matching the student-facing role Frank Romeo credits Courtney Steele with. Romeo also has 'Miss Lydia' and 'Andrew' at the table, so this identification rests on the voice clustering rather than on anything spoken"
+    },
+    "235": {
+      "name": "Courtney Steele",
+      "role": "Claremont Middle School staff - a substantive turn in the book-vending-machine exchange from the same voice the diarizer clips into this cluster elsewhere; the speaker describes students seeking her out and books kept 'in my office', matching the student-facing role Frank Romeo credits Courtney Steele with. Romeo also has 'Miss Lydia' and 'Andrew' at the table, so this identification rests on the voice clustering rather than on anything spoken"
+    },
+    "247": {
+      "name": "Arlene Hawkins",
+      "role": "Claremont School Board member - completes her own sentence, 'you'll get a late bus' (ASR 'last', confidence 0.35)"
+    },
+    "277": {
+      "name": "Heather Whitney",
+      "role": "Chair, Claremont School Board - completes her own sentence, 'thank you all again for coming in and all the good work that you're doing'"
+    },
+    "418": {
+      "name": "Unidentified",
+      "role": "The board's spoken 'aye' - several members answering the chair's 'All in favor' at once; the individual voices are not separable"
+    },
+    "517": {
+      "name": "Unidentified",
+      "role": "The board's spoken 'aye' - several members answering the chair's 'All in favor' at once; the individual voices are not separable"
+    },
+    "569": {
+      "name": "Unidentified",
+      "role": "The board's spoken 'aye' - several members answering the chair's 'All in favor' at once; the individual voices are not separable"
+    },
+    "648": {
+      "name": "Unidentified",
+      "role": "Closing thanks from the board table after the chair declares the meeting adjourned"
+    },
+    "262": {
+      "name": "Heather Whitney",
+      "role": "Chair, Claremont School Board - completes her own sentence, 'the key indicator towards that end game is improved social emotional'; Frank Romeo's 'sure' is absorbed at the tail"
+    },
+    "264": {
+      "name": "Frank Romeo",
+      "role": "Principal, Claremont Middle School - assenting while the chair puts her student-centre question; he opens his answer 'you're absolutely correct' three segments later"
+    },
+    "266": {
+      "name": "Frank Romeo",
+      "role": "Principal, Claremont Middle School - assenting while the chair puts her student-centre question; he opens his answer 'you're absolutely correct' two segments later"
+    },
+    "279": {
+      "name": "Frank Romeo",
+      "role": "Principal, Claremont Middle School - completes his own sign-off, 'Thank you for having us' (zero gap)"
+    },
+    "384": {
+      "name": "Mary Henry",
+      "role": "Business Administrator - completes her own sentence, 'I feel bad I can't give you a better, more definitive answer' (zero gap on both sides)"
+    },
+    "387": {
+      "name": "Frank Sprague",
+      "role": "Vice Chair, Claremont School Board - completes his own sentence, 'so I have an answer for people, and if they ask me the question' (zero gap); Mary Henry's 'yeah, no, no' is absorbed at the tail"
+    },
+    "398": {
+      "name": "Mary Henry",
+      "role": "Business Administrator - repeating her own 'I don't know' from the end of the preceding segment, running into her next"
+    },
+    "404": {
+      "name": "Mary Henry",
+      "role": "Business Administrator - a garbled fragment inside her own answer on the FY22 audit, between two of her own segments with 0.08 s gaps on both sides"
+    },
+    "408": {
+      "name": "Heather Whitney",
+      "role": "Chair, Claremont School Board - continues her own remark, 'We've come a long way with the audits'; her question 'Are you almost there?' is absorbed at the head of Mary Henry's next segment"
+    },
+    "248": {
+      "name": "Unidentified",
+      "role": "A two-word fragment in the crosstalk after the late-bus answer; the words are low-confidence (0.55/0.58) and the voice is not separable"
+    },
+    "250": {
+      "name": "Arlene Hawkins",
+      "role": "Claremont School Board member - completes her own sentence, 'I heard at this point'"
+    },
+    "253": {
+      "name": "Frank Romeo",
+      "role": "Principal, Claremont Middle School - answering Arlene Hawkins's 'You got a room full of people?' about the late bus he had just raised"
+    },
+    "6": {
+      "name": "Unidentified",
+      "role": "A voice reciting the Pledge of Allegiance with the room while the chair leads it"
+    },
+    "286": {
+      "name": "Heather Whitney",
+      "role": "Chair, Claremont School Board - completes her own question, 'Oh, did I mess up?', on realising she had skipped agenda item two"
+    },
+    "290": {
+      "name": "Heather Whitney",
+      "role": "Chair, Claremont School Board - apologising to Ben Nester for skipping his item ('I'm [sorry], Ben'); the two words are 0.68 s apart and the first is low-confidence (0.39)"
+    },
+    "319": {
+      "name": "Heather Whitney",
+      "role": "Chair, Claremont School Board - recognizing Arlene Hawkins ('Miss Hocking'), the recognition clipped into the neighbouring cluster; Hawkins speaks in the next segment"
+    },
+    "490": {
+      "name": "Whitney Skillen",
+      "role": "Claremont School Board member - a single word inside her own reading of the licence agreement, 'and a maximum of 6%', with zero gaps on both sides"
+    },
+    "587": {
+      "name": "Frank Sprague",
+      "role": "Vice Chair, Claremont School Board - continues his own sentence, 'the Oyster River - they were the school board of the year' (zero gaps on both sides)"
+    }
+  }
+}

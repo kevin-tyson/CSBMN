@@ -1,0 +1,90 @@
+{
+ "Speaker 2": {
+  "name": "Michael Petrin",
+  "role": "Claremont School Board Chair (calls the 7/20/22 meeting to order [1], runs agenda, recognitions and votes; roll call [2] reads 'Michael. Patron here')"
+ },
+ "Speaker 1": {
+  "name": "Michael Petrin",
+  "role": "Claremont School Board Chair (single clipped onset 'All' of the chair's opening 'All right' [0])"
+ },
+ "Speaker 4": {
+  "name": "Heather Whitney",
+  "role": "Claremont School Board Vice Chair (chair recognizes 'Go ahead. Heather.' [246] and 'Heather.' [270] immediately before this voice)"
+ },
+ "Speaker 3": {
+  "name": "Bonnie Miles",
+  "role": "Claremont School Board member (uncertain - by content: says the visioning committee recap could be given by 'you, me, or Frank' [310], and Miles and Sprague are the two board reps named at [227], [243])"
+ },
+ "Speaker 5": {
+  "name": "Unidentified",
+  "role": "Unidentified - Claremont School Board member (motions and seconds [9], [303], [452]; by elimination either Whitney Skillen or Steven Horsky, not separable on this recording)"
+ },
+ "Speaker 11": {
+  "name": "Joshua Lambert",
+  "role": "Claremont School Board member (Whitney says 'So Josh has one more' [211] and this voice continues with the NHSBA policy update [212]; reports the superintendent evaluation committee [199-206])"
+ },
+ "Speaker 8": {
+  "name": "Michael Tempesta",
+  "role": "Superintendent, SAU 6 (gives the superintendent's report after the chair's handoff [45]; thanked as 'Superintendent Tempesta' by the presenter [225])"
+ },
+ "Speaker 16": {
+  "name": "Richard Seaman",
+  "role": "Assistant Superintendent for Finance, SAU 6 (answers 'a question for Richard' on the 2019 audit [398-399] and district store accounts [368], [383])"
+ },
+ "Speaker 12": {
+  "name": "Michael Koski",
+  "role": "Assistant Superintendent, SAU 6 (self-ID [148], ASR 'Michael Kosky'; introduced by the superintendent as the new assistant superintendent [109])"
+ },
+ "Speaker 9": {
+  "name": "Mimi",
+  "role": "Stevens High School summer school coordinator (chair introduces 'Mimi is here' for the Byrne Foundation donation [4] and thanks 'Mimi' [347]; surname not stated on the recording)"
+ },
+ "Speaker 6": {
+  "name": "Candace Crawford",
+  "role": "Public commenter, Ward 2; presenter for the Sugar River Valley RTC visioning committee (self-ID 'Candace Crawford, Ward two' [25]; chair calls her 'Candy' [23], 'Candy Crawford' [223])"
+ },
+ "Speaker 10": {
+  "name": "Candace Crawford",
+  "role": "Public commenter, Ward 2; presenter for the Sugar River Valley RTC visioning committee (uncertain - second cluster; [224] and [290] are sentence onsets that Crawford's main cluster completes; see overrides for board-question segments)"
+ },
+ "Speaker 7": {
+  "name": "David Putnam",
+  "role": "Public commenter, Ward 2; member of the RTC visioning committee and former school board member (self-ID 'David Putnam, Ward two' [36]; '17 years of the school board' [261]; chair's recognition heard as 'Mr. Damron' [35])"
+ },
+ "Speaker 13": {
+  "name": "Unidentified",
+  "role": "Unidentified - short audience or committee-member interjections ([154], [263], [283], [292])"
+ },
+ "Speaker 14": {
+  "name": "Unidentified",
+  "role": "Unidentified - speaker on the 2017 RTC strategic plan [285-289] (committee member or board member; possibly Frank Sprague, a committee rep, uncertain - no name cue)"
+ },
+ "Speaker 15": {
+  "name": "Unidentified",
+  "role": "Unidentified - cluster of short acknowledgements, thanks and vote responses from several voices"
+ },
+ "__overrides__": {
+  "88": {
+   "name": "Unidentified",
+   "role": "Unidentified - board member asking about elementary summer enrollment (possibly Frank Sprague, whose enrollment-versus-attendance request is cited at [162], uncertain)"
+  },
+  "90": {
+   "name": "Unidentified",
+   "role": "Unidentified - board member asking about elementary summer enrollment (possibly Frank Sprague, whose enrollment-versus-attendance request is cited at [162], uncertain)"
+  },
+  "92": {
+   "name": "Unidentified",
+   "role": "Unidentified - board member asking about elementary summer enrollment (possibly Frank Sprague, whose enrollment-versus-attendance request is cited at [162], uncertain)"
+  },
+  "305": {
+   "name": "Unidentified",
+   "role": "Unidentified - vote response ('Aye') absorbed into Putnam's cluster"
+  },
+  "366": {
+   "name": "Richard Seaman"
+  },
+  "367": {
+   "name": "Richard Seaman"
+  }
+ }
+}

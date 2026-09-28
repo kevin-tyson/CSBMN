@@ -1,0 +1,258 @@
+{
+ "Speaker 1": {
+  "name": "Middleton McGoodwin",
+  "role": "Superintendent, SAU 6 (gives the superintendent's report [0]-[15]; addressed 'Mr. Goodwin' [121], 'Doctor Goodwin' [203])"
+ },
+ "Speaker 2": {
+  "name": "Steven Horsky",
+  "role": "Claremont School Board member (author of the proposed no-nit head lice policy, read aloud as 'proposed by Stephen Horsey' [52]; addressed 'Steven' by the superintendent [125],[141])"
+ },
+ "Speaker 3": {
+  "name": "Rebecca Zullo",
+  "role": "Claremont School Board Vice Chair, presiding in the absence of Chair Frank Sprague (superintendent defers 'If I may, Rebecca' [20],[137]; refers to 'the chair Frank Sprague' [356]; this voice thanks the board 'for shuffling me through this meeting' [366]) (cluster also absorbs other members and commenters; see overrides)"
+ },
+ "Speaker 4": {
+  "name": "Rebecca Zullo"
+ },
+ "Speaker 5": {
+  "name": "Jason Benware",
+  "role": "Claremont School Board member (recognized 'Go forward. Jason.' [51] and reads the proposed policy; 'I agree with Jason' [271]) (cluster also absorbs Michael Petrin and Rebecca Zullo; see overrides)"
+ },
+ "Speaker 6": {
+  "name": "Carolyn Towle",
+  "role": "Claremont School Board member (recognized 'Carolyn' [73],[148],[198]; superintendent answers 'Caroline' [21]; 'Carolyn tol second' [304]; asks to bring students to speak, answered 'Carolyn' [356])"
+ },
+ "Speaker 7": {
+  "name": "Michelle Pierce",
+  "role": "Claremont School Board member (recognized 'Michelle had her hand' [101], 'Michel had your hand up' [190]) (uncertain - short clusters; identified by recognition sequence only)"
+ },
+ "Speaker 8": {
+  "name": "Rebecca Zullo"
+ },
+ "Speaker 9": {
+  "name": "Rebecca Zullo",
+  "role": "Claremont School Board Vice Chair, presiding in the absence of Chair Frank Sprague (superintendent defers 'If I may, Rebecca' [20],[137]; refers to 'the chair Frank Sprague' [356]; this voice thanks the board 'for shuffling me through this meeting' [366]) (cluster also absorbs other members and commenters; see overrides) (uncertain for this short cluster - parent remarks consistent with her voice in [175]-[180])"
+ },
+ "Speaker 10": {
+  "name": "Michael O'Neill",
+  "role": "Business Administrator, SAU 6 (introduced 'And that is Michael O'Neill' [317]; presents FY18 expenditure and revenue report) (cluster also absorbs Michael Petrin; see overrides)"
+ },
+ "Speaker 11": {
+  "name": "Emily",
+  "role": "Public commenter, Ward 2, Stevens student ('Emily Ward two' [202]; asks 'a question for my dad', answered by Steven Horsky [207]-[208]); surname not stated"
+ },
+ "Speaker 12": {
+  "name": "Unidentified",
+  "role": "Unidentified - cluster holds two public commenters; see overrides"
+ },
+ "Speaker 13": {
+  "name": "Unidentified",
+  "role": "Unidentified - public commenter, Ward 2, parent of a high school daughter (name garbled: ASR 'Sure Eileen. Love it. Board to' [242]; refers to discussing lice 'at the joint level' [249]; possibly Mayor Charlene Lovett - unverified)"
+ },
+ "Speaker 14": {
+  "name": "Carolyn Towle",
+  "role": "Claremont School Board member (recognized 'Carolyn' [73],[148],[198]; superintendent answers 'Caroline' [21]; 'Carolyn tol second' [304]; asks to bring students to speak, answered 'Carolyn' [356])"
+ },
+ "__overrides__": {
+  "18": {
+   "name": "Carolyn Towle"
+  },
+  "19": {
+   "name": "Carolyn Towle"
+  },
+  "22": {
+   "name": "Carolyn Towle"
+  },
+  "74": {
+   "name": "Carolyn Towle"
+  },
+  "76": {
+   "name": "Carolyn Towle"
+  },
+  "78": {
+   "name": "Carolyn Towle"
+  },
+  "80": {
+   "name": "Carolyn Towle"
+  },
+  "114": {
+   "name": "Carolyn Towle"
+  },
+  "115": {
+   "name": "Carolyn Towle"
+  },
+  "148": {
+   "name": "Carolyn Towle"
+  },
+  "150": {
+   "name": "Carolyn Towle"
+  },
+  "152": {
+   "name": "Carolyn Towle"
+  },
+  "103": {
+   "name": "Michelle Pierce"
+  },
+  "104": {
+   "name": "Michelle Pierce"
+  },
+  "105": {
+   "name": "Michelle Pierce"
+  },
+  "191": {
+   "name": "Michelle Pierce"
+  },
+  "192": {
+   "name": "Michelle Pierce"
+  },
+  "193": {
+   "name": "Michelle Pierce"
+  },
+  "194": {
+   "name": "Michelle Pierce"
+  },
+  "195": {
+   "name": "Michelle Pierce"
+  },
+  "145": {
+   "name": "Unidentified",
+   "role": "Unidentified - student speaking 'as a student' about her elementary years (possibly the student representative; not named on this recording)"
+  },
+  "146": {
+   "name": "Unidentified",
+   "role": "Unidentified - student speaking 'as a student' about her elementary years (possibly the student representative; not named on this recording)"
+  },
+  "147": {
+   "name": "Unidentified",
+   "role": "Unidentified - student speaking 'as a student' about her elementary years (possibly the student representative; not named on this recording)"
+  },
+  "97": {
+   "name": "Michael Petrin",
+   "role": "Claremont School Board member (recognized 'Mike' [96]; 'Michael patron made the ... motion' [302]; 'I tend to agree with what Mike said' [289])"
+  },
+  "98": {
+   "name": "Michael Petrin"
+  },
+  "99": {
+   "name": "Michael Petrin"
+  },
+  "100": {
+   "name": "Michael Petrin"
+  },
+  "185": {
+   "name": "Michael Petrin"
+  },
+  "187": {
+   "name": "Michael Petrin"
+  },
+  "287": {
+   "name": "Michael Petrin"
+  },
+  "288": {
+   "name": "Michael Petrin"
+  },
+  "299": {
+   "name": "Michael Petrin"
+  },
+  "292": {
+   "name": "Jason Benware"
+  },
+  "359": {
+   "name": "Rebecca Zullo"
+  },
+  "361": {
+   "name": "Rebecca Zullo"
+  },
+  "364": {
+   "name": "Rebecca Zullo"
+  },
+  "215": {
+   "name": "Don Churchill",
+   "role": "Public commenter, Ward 2, district parent ('Hi Don Churchill, Ward two' [215]; ASR form, first name could be Dawn)"
+  },
+  "216": {
+   "name": "Don Churchill"
+  },
+  "217": {
+   "name": "Don Churchill"
+  },
+  "218": {
+   "name": "Don Churchill"
+  },
+  "219": {
+   "name": "Don Churchill"
+  },
+  "220": {
+   "name": "Don Churchill"
+  },
+  "221": {
+   "name": "Don Churchill"
+  },
+  "222": {
+   "name": "Don Churchill"
+  },
+  "223": {
+   "name": "Don Churchill"
+  },
+  "224": {
+   "name": "Don Churchill"
+  },
+  "225": {
+   "name": "Don Churchill"
+  },
+  "226": {
+   "name": "Don Churchill"
+  },
+  "227": {
+   "name": "Don Churchill"
+  },
+  "231": {
+   "name": "Mimi Ryan",
+   "role": "Public commenter, not a parent ('Mimi Ryan' [231]; ASR form, spelling unverified; ward unclear, heard as 'For two' / 'One, one')"
+  },
+  "232": {
+   "name": "Mimi Ryan"
+  },
+  "233": {
+   "name": "Mimi Ryan"
+  },
+  "234": {
+   "name": "Mimi Ryan"
+  },
+  "235": {
+   "name": "Mimi Ryan"
+  },
+  "237": {
+   "name": "Mimi Ryan"
+  },
+  "239": {
+   "name": "Mimi Ryan"
+  },
+  "240": {
+   "name": "Mimi Ryan"
+  },
+  "241": {
+   "name": "Mimi Ryan"
+  },
+  "242": {
+   "name": "Unidentified",
+   "role": "Unidentified - mixed: end of prior commenter, chair's thanks, and the next commenter's garbled self-introduction"
+  },
+  "277": {
+   "name": "Unidentified",
+   "role": "Unidentified - SAU administrator reporting an inquiry to the state homeless-education director (possibly Cory LeClair; not named on this recording)"
+  },
+  "279": {
+   "name": "Unidentified",
+   "role": "Unidentified - SAU administrator reporting an inquiry to the state homeless-education director (possibly Cory LeClair; not named on this recording)"
+  },
+  "281": {
+   "name": "Unidentified",
+   "role": "Unidentified - SAU administrator reporting an inquiry to the state homeless-education director (possibly Cory LeClair; not named on this recording)"
+  },
+  "284": {
+   "name": "Unidentified",
+   "role": "Unidentified - SAU administrator reporting an inquiry to the state homeless-education director (possibly Cory LeClair; not named on this recording)"
+  }
+ }
+}

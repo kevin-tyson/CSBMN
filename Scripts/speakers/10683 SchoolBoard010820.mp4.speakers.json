@@ -1,0 +1,220 @@
+{
+ "Speaker 1": {
+  "name": "Unidentified",
+  "role": "Unidentified - short remarks at the start of the recording"
+ },
+ "Speaker 2": {
+  "name": "Rebecca Zullo",
+  "role": "Claremont School Board Vice Chair (presiding in the chair's absence)"
+ },
+ "Speaker 3": {
+  "name": "Michael Tempesta",
+  "role": "Superintendent, SAU 6"
+ },
+ "Speaker 4": {
+  "name": "Unidentified",
+  "role": "Unidentified - cluster mixes Donna Magoon, Heather Whitney, the chair's recognitions and short responses; see overrides"
+ },
+ "Speaker 5": {
+  "name": "Melissa Lewis",
+  "role": "Principal, Disnard Elementary School (first name on record; surname per roster)"
+ },
+ "Speaker 6": {
+  "name": "Richard Seaman",
+  "role": "Business Administrator, SAU 6"
+ },
+ "Speaker 7": {
+  "name": "Unidentified",
+  "role": "Unidentified - Claremont School Board member; moves agenda amendment; never named (possibly Rob Lovett Jr.; uncertain)"
+ },
+ "Speaker 8": {
+  "name": "Jason Benware",
+  "role": "Claremont School Board member"
+ },
+ "Speaker 9": {
+  "name": "Mary Woodman",
+  "role": "School District Clerk and recording secretary"
+ },
+ "Speaker 10": {
+  "name": "Beth Bonneville",
+  "role": "Kindergarten teacher, Disnard Elementary School"
+ },
+ "Speaker 11": {
+  "name": "Unidentified",
+  "role": "Unidentified - Disnard kindergarten teacher (Shelby Klink or Allie Howard; not determinable)"
+ },
+ "Speaker 12": {
+  "name": "Unidentified",
+  "role": "Unidentified - Disnard kindergarten teacher (Shelby Klink or Allie Howard; not determinable)"
+ },
+ "Speaker 13": {
+  "name": "Carolyn Towle",
+  "role": "Claremont School Board member"
+ },
+ "Speaker 14": {
+  "name": "Melissa Lewis",
+  "role": "Principal, Disnard Elementary School (first name on record; surname per roster)"
+ },
+ "Speaker 15": {
+  "name": "Tyler Sullivan",
+  "role": "Student representative to the Claremont School Board (chair: 'Tyler'; surname from his 1/21/2020 public comment, uncertain)"
+ },
+ "Speaker 16": {
+  "name": "Unidentified",
+  "role": "Unidentified - single short remark"
+ },
+ "Speaker 17": {
+  "name": "Michael Tempesta",
+  "role": "Superintendent, SAU 6"
+ },
+ "Speaker 18": {
+  "name": "Michael Tempesta",
+  "role": "Superintendent, SAU 6"
+ },
+ "Speaker 19": {
+  "name": "Unidentified",
+  "role": "Unidentified - Claremont School Board member; moves policy DAF to second reading and questions lunch pricing; never named"
+ },
+ "Speaker 20": {
+  "name": "Unidentified",
+  "role": "Unidentified - cluster of short interjections and votes from many voices"
+ },
+ "Speaker 21": {
+  "name": "Danielle Skinner",
+  "role": "Food Program Coordinator, SAU 6"
+ },
+ "Speaker 22": {
+  "name": "Danielle Skinner",
+  "role": "Food Program Coordinator, SAU 6"
+ },
+ "Speaker 23": {
+  "name": "Unidentified",
+  "role": "Unidentified - Claremont School Board member; questions food service contract and bag lunches; never named"
+ },
+ "__overrides__": {
+  "10": {
+   "name": "Donna Magoon",
+   "role": "Assistant Superintendent, SAU 6"
+  },
+  "291": {
+   "name": "Donna Magoon",
+   "role": "Assistant Superintendent, SAU 6"
+  },
+  "293": {
+   "name": "Donna Magoon",
+   "role": "Assistant Superintendent, SAU 6"
+  },
+  "306": {
+   "name": "Donna Magoon",
+   "role": "Assistant Superintendent, SAU 6"
+  },
+  "310": {
+   "name": "Donna Magoon",
+   "role": "Assistant Superintendent, SAU 6"
+  },
+  "312": {
+   "name": "Donna Magoon",
+   "role": "Assistant Superintendent, SAU 6"
+  },
+  "313": {
+   "name": "Donna Magoon",
+   "role": "Assistant Superintendent, SAU 6"
+  },
+  "408": {
+   "name": "Donna Magoon",
+   "role": "Assistant Superintendent, SAU 6"
+  },
+  "409": {
+   "name": "Donna Magoon",
+   "role": "Assistant Superintendent, SAU 6"
+  },
+  "410": {
+   "name": "Donna Magoon",
+   "role": "Assistant Superintendent, SAU 6"
+  },
+  "413": {
+   "name": "Donna Magoon",
+   "role": "Assistant Superintendent, SAU 6"
+  },
+  "160": {
+   "name": "Heather Whitney",
+   "role": "Claremont School Board member"
+  },
+  "727": {
+   "name": "Heather Whitney",
+   "role": "Claremont School Board member"
+  },
+  "70": {
+   "name": "Rebecca Zullo",
+   "role": "Claremont School Board Vice Chair (presiding in the chair's absence)"
+  },
+  "153": {
+   "name": "Rebecca Zullo",
+   "role": "Claremont School Board Vice Chair (presiding in the chair's absence)"
+  },
+  "288": {
+   "name": "Rebecca Zullo",
+   "role": "Claremont School Board Vice Chair (presiding in the chair's absence)"
+  },
+  "233": {
+   "name": "Mary Woodman",
+   "role": "School District Clerk and recording secretary"
+  },
+  "237": {
+   "name": "Unidentified",
+   "role": "Unidentified - short fragment misassigned by diarizer; speaker not determinable"
+  },
+  "453": {
+   "name": "Unidentified",
+   "role": "Unidentified - short fragment misassigned by diarizer; speaker not determinable"
+  },
+  "700": {
+   "name": "Unidentified",
+   "role": "Unidentified - female board member discussing agenda items and seat terms (voice cluster shared with Mary Woodman; possibly Heather Whitney)"
+  },
+  "703": {
+   "name": "Unidentified",
+   "role": "Unidentified - female board member discussing agenda items and seat terms (voice cluster shared with Mary Woodman; possibly Heather Whitney)"
+  },
+  "706": {
+   "name": "Unidentified",
+   "role": "Unidentified - female board member discussing agenda items and seat terms (voice cluster shared with Mary Woodman; possibly Heather Whitney)"
+  },
+  "731": {
+   "name": "Unidentified",
+   "role": "Unidentified - female board member discussing agenda items and seat terms (voice cluster shared with Mary Woodman; possibly Heather Whitney)"
+  },
+  "737": {
+   "name": "Unidentified",
+   "role": "Unidentified - female board member discussing agenda items and seat terms (voice cluster shared with Mary Woodman; possibly Heather Whitney)"
+  },
+  "739": {
+   "name": "Unidentified",
+   "role": "Unidentified - female board member discussing agenda items and seat terms (voice cluster shared with Mary Woodman; possibly Heather Whitney)"
+  },
+  "754": {
+   "name": "Unidentified",
+   "role": "Unidentified - female board member discussing agenda items and seat terms (voice cluster shared with Mary Woodman; possibly Heather Whitney)"
+  },
+  "758": {
+   "name": "Unidentified",
+   "role": "Unidentified - female board member discussing agenda items and seat terms (voice cluster shared with Mary Woodman; possibly Heather Whitney)"
+  },
+  "760": {
+   "name": "Unidentified",
+   "role": "Unidentified - female board member discussing agenda items and seat terms (voice cluster shared with Mary Woodman; possibly Heather Whitney)"
+  },
+  "767": {
+   "name": "Unidentified",
+   "role": "Unidentified - female board member discussing agenda items and seat terms (voice cluster shared with Mary Woodman; possibly Heather Whitney)"
+  },
+  "773": {
+   "name": "Unidentified",
+   "role": "Unidentified - female board member discussing agenda items and seat terms (voice cluster shared with Mary Woodman; possibly Heather Whitney)"
+  },
+  "777": {
+   "name": "Unidentified",
+   "role": "Unidentified - female board member discussing agenda items and seat terms (voice cluster shared with Mary Woodman; possibly Heather Whitney)"
+  }
+ }
+}

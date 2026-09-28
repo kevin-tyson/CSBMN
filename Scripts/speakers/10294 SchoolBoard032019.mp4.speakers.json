@@ -1,0 +1,440 @@
+{
+ "Speaker 1": {
+  "name": "Unidentified",
+  "role": "Unidentified - catch-all cluster: oath recitations, roll-call answers, short board remarks and the SHS bowling coach; identifiable segments reassigned in overrides"
+ },
+ "Speaker 2": {
+  "name": "Frank Sprague",
+  "role": "Claremont School Board Chair; re-elected chair this meeting"
+ },
+ "Speaker 3": {
+  "name": "Mary Woodman",
+  "role": "School district clerk and board recording secretary"
+ },
+ "Speaker 4": {
+  "name": "Cory LeClair",
+  "role": "Acting Superintendent, SAU 6 (Assistant Superintendent)"
+ },
+ "Speaker 5": {
+  "name": "Jason Benware",
+  "role": "Claremont School Board member"
+ },
+ "Speaker 6": {
+  "name": "Prescott Herzog",
+  "role": "Student representative to the board, Stevens High School (self-identified)"
+ },
+ "Speaker 7": {
+  "name": "Carolyn Towle",
+  "role": "Claremont School Board member"
+ },
+ "Speaker 8": {
+  "name": "Rebecca Zullo",
+  "role": "Claremont School Board Vice Chair; re-elected vice chair this meeting"
+ },
+ "Speaker 9": {
+  "name": "Unidentified",
+  "role": "Unidentified - two short fragments"
+ },
+ "Speaker 10": {
+  "name": "Michael O'Neill",
+  "role": "Business Administrator, SAU 6 (director of business and finance)"
+ },
+ "Speaker 11": {
+  "name": "Bryn",
+  "role": "Curriculum specialist PreK-5, Claremont School District; i-Ready presenter (first name only, from ASR 'Britain's presentation' and 'Bryn'; spelling uncertain)"
+ },
+ "Speaker 12": {
+  "name": "Rob Lovett Jr.",
+  "role": "Claremont School Board member"
+ },
+ "Speaker 13": {
+  "name": "Deb Belanger",
+  "role": "Food service director for Claremont, Abbey Group (named by acting superintendent)"
+ },
+ "Speaker 14": {
+  "name": "Unidentified",
+  "role": "Abbey Group regional manager (name heard as 'Jasa'/'Jace'/'Jason'; not resolvable)"
+ },
+ "Speaker 15": {
+  "name": "Unidentified",
+  "role": "Unidentified - single fragment"
+ },
+ "Speaker 16": {
+  "name": "Rebecca Zullo",
+  "role": "Claremont School Board Vice Chair; re-elected vice chair this meeting"
+ },
+ "Speaker 17": {
+  "name": "Unidentified",
+  "role": "Unidentified - single fragment"
+ },
+ "__overrides__": {
+  "15": {
+   "name": "Heather Whitney",
+   "role": "Claremont School Board member (sworn in this meeting)"
+  },
+  "17": {
+   "name": "Heather Whitney",
+   "role": "Claremont School Board member (sworn in this meeting)"
+  },
+  "19": {
+   "name": "Heather Whitney",
+   "role": "Claremont School Board member (sworn in this meeting)"
+  },
+  "21": {
+   "name": "Heather Whitney",
+   "role": "Claremont School Board member (sworn in this meeting)"
+  },
+  "23": {
+   "name": "Heather Whitney",
+   "role": "Claremont School Board member (sworn in this meeting)"
+  },
+  "25": {
+   "name": "Heather Whitney",
+   "role": "Claremont School Board member (sworn in this meeting)"
+  },
+  "231": {
+   "name": "Heather Whitney",
+   "role": "Claremont School Board member (sworn in this meeting)"
+  },
+  "329": {
+   "name": "Heather Whitney",
+   "role": "Claremont School Board member (sworn in this meeting)"
+  },
+  "373": {
+   "name": "Heather Whitney",
+   "role": "Claremont School Board member (sworn in this meeting)"
+  },
+  "377": {
+   "name": "Heather Whitney",
+   "role": "Claremont School Board member (sworn in this meeting)"
+  },
+  "520": {
+   "name": "Heather Whitney",
+   "role": "Claremont School Board member (sworn in this meeting)"
+  },
+  "811": {
+   "name": "Heather Whitney",
+   "role": "Claremont School Board member (sworn in this meeting)"
+  },
+  "813": {
+   "name": "Heather Whitney",
+   "role": "Claremont School Board member (sworn in this meeting)"
+  },
+  "815": {
+   "name": "Heather Whitney",
+   "role": "Claremont School Board member (sworn in this meeting)"
+  },
+  "819": {
+   "name": "Heather Whitney",
+   "role": "Claremont School Board member (sworn in this meeting)"
+  },
+  "821": {
+   "name": "Heather Whitney",
+   "role": "Claremont School Board member (sworn in this meeting)"
+  },
+  "823": {
+   "name": "Heather Whitney",
+   "role": "Claremont School Board member (sworn in this meeting)"
+  },
+  "830": {
+   "name": "Heather Whitney",
+   "role": "Claremont School Board member (sworn in this meeting)"
+  },
+  "832": {
+   "name": "Heather Whitney",
+   "role": "Claremont School Board member (sworn in this meeting)"
+  },
+  "836": {
+   "name": "Heather Whitney",
+   "role": "Claremont School Board member (sworn in this meeting)"
+  },
+  "838": {
+   "name": "Heather Whitney",
+   "role": "Claremont School Board member (sworn in this meeting)"
+  },
+  "840": {
+   "name": "Heather Whitney",
+   "role": "Claremont School Board member (sworn in this meeting)"
+  },
+  "842": {
+   "name": "Heather Whitney",
+   "role": "Claremont School Board member (sworn in this meeting)"
+  },
+  "845": {
+   "name": "Heather Whitney",
+   "role": "Claremont School Board member (sworn in this meeting)"
+  },
+  "848": {
+   "name": "Heather Whitney",
+   "role": "Claremont School Board member (sworn in this meeting)"
+  },
+  "850": {
+   "name": "Heather Whitney",
+   "role": "Claremont School Board member (sworn in this meeting)"
+  },
+  "853": {
+   "name": "Heather Whitney",
+   "role": "Claremont School Board member (sworn in this meeting)"
+  },
+  "855": {
+   "name": "Heather Whitney",
+   "role": "Claremont School Board member (sworn in this meeting)"
+  },
+  "857": {
+   "name": "Heather Whitney",
+   "role": "Claremont School Board member (sworn in this meeting)"
+  },
+  "860": {
+   "name": "Heather Whitney",
+   "role": "Claremont School Board member (sworn in this meeting)"
+  },
+  "874": {
+   "name": "Heather Whitney",
+   "role": "Claremont School Board member (sworn in this meeting)"
+  },
+  "888": {
+   "name": "Heather Whitney",
+   "role": "Claremont School Board member (sworn in this meeting)"
+  },
+  "890": {
+   "name": "Heather Whitney",
+   "role": "Claremont School Board member (sworn in this meeting)"
+  },
+  "894": {
+   "name": "Heather Whitney",
+   "role": "Claremont School Board member (sworn in this meeting)"
+  },
+  "1074": {
+   "name": "Heather Whitney",
+   "role": "Claremont School Board member (sworn in this meeting)"
+  },
+  "1139": {
+   "name": "Heather Whitney",
+   "role": "Claremont School Board member (sworn in this meeting)"
+  },
+  "1140": {
+   "name": "Heather Whitney",
+   "role": "Claremont School Board member (sworn in this meeting)"
+  },
+  "1143": {
+   "name": "Heather Whitney",
+   "role": "Claremont School Board member (sworn in this meeting)"
+  },
+  "1145": {
+   "name": "Heather Whitney",
+   "role": "Claremont School Board member (sworn in this meeting)"
+  },
+  "330": {
+   "name": "Heather Whitney",
+   "role": "Claremont School Board member (sworn in this meeting)"
+  },
+  "374": {
+   "name": "Heather Whitney",
+   "role": "Claremont School Board member (sworn in this meeting)"
+  },
+  "376": {
+   "name": "Heather Whitney",
+   "role": "Claremont School Board member (sworn in this meeting)"
+  },
+  "814": {
+   "name": "Heather Whitney",
+   "role": "Claremont School Board member (sworn in this meeting)"
+  },
+  "822": {
+   "name": "Heather Whitney",
+   "role": "Claremont School Board member (sworn in this meeting)"
+  },
+  "843": {
+   "name": "Heather Whitney",
+   "role": "Claremont School Board member (sworn in this meeting)"
+  },
+  "849": {
+   "name": "Heather Whitney",
+   "role": "Claremont School Board member (sworn in this meeting)"
+  },
+  "375": {
+   "name": "Heather Whitney",
+   "role": "Claremont School Board member (sworn in this meeting)"
+  },
+  "422": {
+   "name": "Heather Whitney",
+   "role": "Claremont School Board member (sworn in this meeting)"
+  },
+  "425": {
+   "name": "Heather Whitney",
+   "role": "Claremont School Board member (sworn in this meeting)"
+  },
+  "1022": {
+   "name": "Cory LeClair",
+   "role": "Acting Superintendent, SAU 6 (Assistant Superintendent)"
+  },
+  "653": {
+   "name": "Cory LeClair",
+   "role": "Acting Superintendent, SAU 6 (Assistant Superintendent)"
+  },
+  "1119": {
+   "name": "Cory LeClair",
+   "role": "Acting Superintendent, SAU 6 (Assistant Superintendent)"
+  },
+  "1127": {
+   "name": "Carolyn Towle",
+   "role": "Claremont School Board member"
+  },
+  "53": {
+   "name": "Carolyn Towle",
+   "role": "Claremont School Board member"
+  },
+  "49": {
+   "name": "Rebecca Zullo",
+   "role": "Claremont School Board Vice Chair; re-elected vice chair this meeting"
+  },
+  "51": {
+   "name": "Rob Lovett Jr.",
+   "role": "Claremont School Board member"
+  },
+  "142": {
+   "name": "Michael Petrin",
+   "role": "Claremont School Board member; SAU 6 Vice Chair (uncertain - not named on record; cluster carries the superintendent search update and board-officer vote handling, attribution by elimination)"
+  },
+  "347": {
+   "name": "Bryn",
+   "role": "Curriculum specialist PreK-5, Claremont School District; i-Ready presenter (first name only, from ASR 'Britain's presentation' and 'Bryn'; spelling uncertain)"
+  },
+  "350": {
+   "name": "Bryn",
+   "role": "Curriculum specialist PreK-5, Claremont School District; i-Ready presenter (first name only, from ASR 'Britain's presentation' and 'Bryn'; spelling uncertain)"
+  },
+  "351": {
+   "name": "Bryn",
+   "role": "Curriculum specialist PreK-5, Claremont School District; i-Ready presenter (first name only, from ASR 'Britain's presentation' and 'Bryn'; spelling uncertain)"
+  },
+  "628": {
+   "name": "Unidentified",
+   "role": "Abbey Group representative (Deb Belanger or regional manager; not separable)"
+  },
+  "665": {
+   "name": "Unidentified",
+   "role": "Abbey Group representative (Deb Belanger or regional manager; not separable)"
+  },
+  "679": {
+   "name": "Unidentified",
+   "role": "Abbey Group representative (Deb Belanger or regional manager; not separable)"
+  },
+  "681": {
+   "name": "Unidentified",
+   "role": "Abbey Group representative (Deb Belanger or regional manager; not separable)"
+  },
+  "171": {
+   "name": "Sean Wadsworth",
+   "role": "Bowling coach, Stevens High School (self-identified 'I'm Sean Wadsworth')"
+  },
+  "173": {
+   "name": "Sean Wadsworth",
+   "role": "Bowling coach, Stevens High School (self-identified 'I'm Sean Wadsworth')"
+  },
+  "175": {
+   "name": "Sean Wadsworth",
+   "role": "Bowling coach, Stevens High School (self-identified 'I'm Sean Wadsworth')"
+  },
+  "177": {
+   "name": "Sean Wadsworth",
+   "role": "Bowling coach, Stevens High School (self-identified 'I'm Sean Wadsworth')"
+  },
+  "179": {
+   "name": "Sean Wadsworth",
+   "role": "Bowling coach, Stevens High School (self-identified 'I'm Sean Wadsworth')"
+  },
+  "180": {
+   "name": "Sean Wadsworth",
+   "role": "Bowling coach, Stevens High School (self-identified 'I'm Sean Wadsworth')"
+  },
+  "182": {
+   "name": "Sean Wadsworth",
+   "role": "Bowling coach, Stevens High School (self-identified 'I'm Sean Wadsworth')"
+  },
+  "184": {
+   "name": "Sean Wadsworth",
+   "role": "Bowling coach, Stevens High School (self-identified 'I'm Sean Wadsworth')"
+  },
+  "186": {
+   "name": "Sean Wadsworth",
+   "role": "Bowling coach, Stevens High School (self-identified 'I'm Sean Wadsworth')"
+  },
+  "187": {
+   "name": "Sean Wadsworth",
+   "role": "Bowling coach, Stevens High School (self-identified 'I'm Sean Wadsworth')"
+  },
+  "190": {
+   "name": "Sean Wadsworth",
+   "role": "Bowling coach, Stevens High School (self-identified 'I'm Sean Wadsworth')"
+  },
+  "191": {
+   "name": "Sean Wadsworth",
+   "role": "Bowling coach, Stevens High School (self-identified 'I'm Sean Wadsworth')"
+  },
+  "193": {
+   "name": "Sean Wadsworth",
+   "role": "Bowling coach, Stevens High School (self-identified 'I'm Sean Wadsworth')"
+  },
+  "195": {
+   "name": "Sean Wadsworth",
+   "role": "Bowling coach, Stevens High School (self-identified 'I'm Sean Wadsworth')"
+  },
+  "198": {
+   "name": "Sean Wadsworth",
+   "role": "Bowling coach, Stevens High School (self-identified 'I'm Sean Wadsworth')"
+  },
+  "199": {
+   "name": "Sean Wadsworth",
+   "role": "Bowling coach, Stevens High School (self-identified 'I'm Sean Wadsworth')"
+  },
+  "201": {
+   "name": "Sean Wadsworth",
+   "role": "Bowling coach, Stevens High School (self-identified 'I'm Sean Wadsworth')"
+  },
+  "203": {
+   "name": "Sean Wadsworth",
+   "role": "Bowling coach, Stevens High School (self-identified 'I'm Sean Wadsworth')"
+  },
+  "204": {
+   "name": "Sean Wadsworth",
+   "role": "Bowling coach, Stevens High School (self-identified 'I'm Sean Wadsworth')"
+  },
+  "206": {
+   "name": "Sean Wadsworth",
+   "role": "Bowling coach, Stevens High School (self-identified 'I'm Sean Wadsworth')"
+  },
+  "208": {
+   "name": "Sean Wadsworth",
+   "role": "Bowling coach, Stevens High School (self-identified 'I'm Sean Wadsworth')"
+  },
+  "211": {
+   "name": "Sean Wadsworth",
+   "role": "Bowling coach, Stevens High School (self-identified 'I'm Sean Wadsworth')"
+  },
+  "213": {
+   "name": "Sean Wadsworth",
+   "role": "Bowling coach, Stevens High School (self-identified 'I'm Sean Wadsworth')"
+  },
+  "214": {
+   "name": "Sean Wadsworth",
+   "role": "Bowling coach, Stevens High School (self-identified 'I'm Sean Wadsworth')"
+  },
+  "216": {
+   "name": "Sean Wadsworth",
+   "role": "Bowling coach, Stevens High School (self-identified 'I'm Sean Wadsworth')"
+  },
+  "218": {
+   "name": "Sean Wadsworth",
+   "role": "Bowling coach, Stevens High School (self-identified 'I'm Sean Wadsworth')"
+  },
+  "221": {
+   "name": "Sean Wadsworth",
+   "role": "Bowling coach, Stevens High School (self-identified 'I'm Sean Wadsworth')"
+  },
+  "223": {
+   "name": "Sean Wadsworth",
+   "role": "Bowling coach, Stevens High School (self-identified 'I'm Sean Wadsworth')"
+  }
+ }
+}

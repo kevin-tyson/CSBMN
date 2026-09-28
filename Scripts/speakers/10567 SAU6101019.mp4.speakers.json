@@ -1,0 +1,126 @@
+{
+ "Speaker 1": {
+  "name": "Michael Petrin",
+  "role": "SAU 6 Board Chair; Claremont School Board member"
+ },
+ "Speaker 2": {
+  "name": "Unidentified",
+  "role": "Unidentified - cluster mixes clerk Mary Woodman's roll call and a Unity board member who gives the Unity update and speaks on SAU policies (name not stated); separable segments reassigned"
+ },
+ "Speaker 3": {
+  "name": "Heather Whitney",
+  "role": "SAU 6 Board member (Claremont)"
+ },
+ "Speaker 4": {
+  "name": "Frank Sprague",
+  "role": "Claremont School Board Chair; SAU 6 Board member"
+ },
+ "Speaker 5": {
+  "name": "Unidentified",
+  "role": "Unidentified SAU 6 board member (asks for budget status; cannot attend 11/14)"
+ },
+ "Speaker 6": {
+  "name": "Michael Tempesta",
+  "role": "Superintendent, SAU 6"
+ },
+ "Speaker 7": {
+  "name": "Richard Seaman",
+  "role": "Business Administrator, SAU 6 (introduced as business director)"
+ },
+ "Speaker 8": {
+  "name": "Unidentified",
+  "role": "Unidentified SAU 6 board member, apparently Unity (interjects during Unity update)"
+ },
+ "Speaker 9": {
+  "name": "Richard Seaman",
+  "role": "Business Administrator, SAU 6 (introduced as business director)"
+ },
+ "Speaker 10": {
+  "name": "Unidentified",
+  "role": "Unidentified SAU 6 board member, Claremont side (female; asks Unity members when their board meets)"
+ },
+ "Speaker 11": {
+  "name": "Unidentified",
+  "role": "Unidentified - short remark on scheduling"
+ },
+ "Speaker 12": {
+  "name": "Prudence McCormick",
+  "role": "SAU 6 Board member (Unity)"
+ },
+ "__overrides__": {
+  "3": {
+   "name": "Mary Woodman",
+   "role": "School district clerk and board recording secretary"
+  },
+  "4": {
+   "name": "Mary Woodman"
+  },
+  "9": {
+   "name": "Unidentified",
+   "role": "Unidentified - clerk Mary Woodman noting 'Heather Whitney' for the record, then Heather Whitney's reply, in one segment"
+  },
+  "116": {
+   "name": "Richard Seaman"
+  },
+  "118": {
+   "name": "Richard Seaman"
+  },
+  "120": {
+   "name": "Richard Seaman"
+  },
+  "122": {
+   "name": "Richard Seaman"
+  },
+  "124": {
+   "name": "Richard Seaman"
+  },
+  "126": {
+   "name": "Richard Seaman"
+  },
+  "127": {
+   "name": "Richard Seaman"
+  },
+  "128": {
+   "name": "Richard Seaman"
+  },
+  "129": {
+   "name": "Richard Seaman"
+  },
+  "130": {
+   "name": "Richard Seaman"
+  },
+  "131": {
+   "name": "Richard Seaman"
+  },
+  "138": {
+   "name": "Richard Seaman"
+  },
+  "140": {
+   "name": "Richard Seaman"
+  },
+  "141": {
+   "name": "Richard Seaman"
+  },
+  "143": {
+   "name": "Richard Seaman"
+  },
+  "145": {
+   "name": "Richard Seaman"
+  },
+  "146": {
+   "name": "Richard Seaman"
+  },
+  "147": {
+   "name": "Richard Seaman"
+  },
+  "157": {
+   "name": "Richard Seaman"
+  },
+  "188": {
+   "name": "Richard Seaman"
+  },
+  "207": {
+   "name": "Richard Seaman"
+  }
+ }
+}

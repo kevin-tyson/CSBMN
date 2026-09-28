@@ -1,0 +1,496 @@
+{
+ "Speaker 1": {
+  "name": "Rocco Ruggeri",
+  "role": "SAU 6 Joint Board VICE CHAIR (elected tonight); Unity School Board member - MERGED CLUSTER. This diarized label carries several male voices; the overrides carry the exceptions. Ruggeri is its dominant voice: Frank Sprague opens the superintendent-evaluation report with 'One of my first task was to delegate Rocco' (3180.96s, 'Rocco' conf 0.89) and this voice immediately gives that report; Sprague addresses 'Rocco' again at 3440.0s and 3512.9s (conf 1.00) while it answers. It speaks for Unity throughout - 'Ours is next week' about the Unity retreat (3922.3s) and the entire Unity-withdrawal report ('our annual town vote', 'asking our town for approval', 4082.7-4158.6s). Chair Hawkins moves his nomination as vice chair at 157.6s"
+ },
+ "Speaker 2": {
+  "name": "Chris Pratt",
+  "role": "Interim Superintendent of Schools, SAU 6 - presides over the reorganization until a chair is elected (9.8-140.6s), the shape Addendum 3 documents for this board's officer elections, and hands off at 139.7s. Citizen Susan Mason asks for time with 'Mr. Pratt' (538.6s) and this voice answers 'I would rather if you just give my office a call and I'll set up a appointment' (547.7s). Chair Hawkins credits 'Superintendent Pratt' at 2088.8s and 'Mr. Pratt' at 2376.5s"
+ },
+ "Speaker 3": {
+  "name": "Arlene Hawkins",
+  "role": "SAU 6 Joint Board CHAIR - re-elected tonight, presiding from 140.7s on. The presiding superintendent puts the question 'All in favor of nominating Arlene Hopkins [Hawkins] as [chair of the] Six board chair' at 109.0s; this voice answers 'I feel very, very honored to take this role again' and moves Rocco Ruggeri as vice chair. At 3885.7s: 'these are the reasons I'm very honored to be the chair of this board'. She names herself to the policy subcommittee at 841.7s ('and myself... I've agreed to continue chairing that committee')"
+ },
+ "Speaker 4": {
+  "name": "Ben Nester",
+  "role": "Director of Special Education, SAU 6 - reads all four roll calls at the chair's request. Hawkins: 'Our secretary Noel is not present tonight, so I'm going to ask Ben. Would you take attendance tonight?' (213.1-220.7s); 'Okay, I have a roll call vote, Mr. Nestor' (603.4s); 'Go call Mr. Nestor' (691.3s). Two sub-second fragments split out of his own roll reading: 'Meeting I attend to?' completes 'Can I take attendance at the last board...', and 'Whitney.' is the first half of 'Whitney Skillen', 0.00s before the rest of the name"
+ },
+ "Speaker 5": {
+  "name": "Mary Henry",
+  "role": "Business Administrator, SAU 6 - the chair introduces 'budget update from Mary Henry, our business administrator' at 987.6s immediately before this voice's budget-to-date report, and thanks 'Mary' at 1039.8s. The voice says 'you're not having a meeting next month, but I will email you these the report again like I did the previous month' (1024-1030s). MERGED CLUSTER - the overrides carry what is not hers"
+ },
+ "Speaker 6": {
+  "name": "Susan Mason",
+  "role": "Citizen at the podium during citizens' comments - self-identifies 'My name is Susan Mason' at 456.6s and says 'my granddaughter is a special ed student' at 530.5s"
+ },
+ "Speaker 7": {
+  "name": "Unidentified",
+  "role": "Floor talk during the return from nonpublic session - 'Do you want to make the motion of just making that motion?'. A single 3.5s segment in a two-segment cluster with no name anchor"
+ },
+ "Speaker 8": {
+  "name": "Heather Whitney",
+  "role": "Claremont School Board CHAIR; SAU 6 Board member - Chair Hawkins recognises 'Heather.' at 3993.0s and this voice answers 0.16s later ('Yes. My understanding is that there are two different topics...'). The same voice fixes the Claremont retreat date at 3933.8s. The diarizer gives Heather Whitney two clusters with no time overlap - Speaker 12 runs 1532-2311s, Speaker 8 runs 756s then 3150-4177s - and each is anchored to a separate chair's 'Heather' recognition. CAUTION: this board seats both a Heather Whitney and a Whitney Skillen; Skillen is not in the room tonight (Sprague: 'next time you see Whitney she built this', 3854.2s)"
+ },
+ "Speaker 9": {
+  "name": "Unidentified",
+  "role": "The member moving the appointment of Michael McCosker as Director of Student Services ('[I'll make] that motion', 933.3s). The chair immediately seconds it herself and names 'Heather' (937.8s) as the other second, but the mover is never named. Its own one-segment cluster"
+ },
+ "Speaker 10": {
+  "name": "Unidentified",
+  "role": "Short assent, echo or crosstalk fragment during the policy discussion. The diarizer routed 48 sub-second fragments to this cluster and no single voice holds it; the fragments that continue a named neighbour's own sentence across a 0.00-0.08s gap are reassigned by override"
+ },
+ "Speaker 11": {
+  "name": "Kelly Simpson",
+  "role": "Unity School Board member; SAU 6 Board member; SAU 6 policy subcommittee (renamed to it tonight, 840.9s) - after this voice moves the revision to policy EHB at 2991.7s the chair records it as 'Kelly motion, [Shannon] seconds' (3005.6s, 'Kelly' conf 1.00); after its motion to withdraw GBAA at 3105.6s the chair thanks 'Shannon, Kelly and Shannon' (3114.0s). It answers for Unity when the chair asks the Unity retreat date ('16th I think', 3926.3s). MEDIUM-HIGH confidence"
+ },
+ "Speaker 12": {
+  "name": "Heather Whitney",
+  "role": "Claremont School Board CHAIR; SAU 6 Board member - Chair Hawkins says 'Anything. Heather.' at 2290.6s ('Heather' conf 1.00) and this voice answers 0.04s later ('Can I make a motion already to adopt this?'), then moves policy DBJ as amended. Second of the two clusters the diarizer gives Heather Whitney; see the Speaker 8 note. CAUTION: this board seats both a Heather Whitney and a Whitney Skillen"
+ },
+ "Speaker 13": {
+  "name": "Candace Crawford",
+  "role": "Claremont School Board member; SAU 6 Board member; SAU 6 policy subcommittee - speaks for the subcommittee in the first person at 1565.0s: 'that our intent was to review the minutes that have been sealed... and bring that to the board for approval to reseal'. The subcommittee seated tonight is Candace Crawford, Kelly Simpson and Chair Hawkins; Hawkins holds her own cluster and Simpson is Speaker 11, which leaves Crawford. MEDIUM confidence - no chair recognition or self-identification attaches to this voice"
+ },
+ "Speaker 14": {
+  "name": "Frank Sprague",
+  "role": "Claremont School Board Vice Chair; SAU 6 Board member; CHAIR of the SAU 6 superintendent-evaluation subcommittee (seated tonight, 837.0s) - Chair Hawkins recognises 'Any other comments, Frank.' at 2269.8s immediately before this voice, and asks 'when you look into that for us, frankly [Frank]' at 2821.3s, to which it answers 'I will'. It opens the evaluation report 'One of my first task was to delegate Rocco' (3178.8s) and addresses 'Rocco' at 3440.0s and 3512.9s. It states its own background at 2632.9s: 'in my other life, I was no stranger to 504'"
+ },
+ "Speaker 15": {
+  "name": "Unidentified",
+  "role": "Two sub-second fragments; both are reassigned by override to the voice whose sentence they continue"
+ },
+ "Speaker 16": {
+  "name": "Jeff Small",
+  "role": "Director of Technology, SAU 6 - Chair Hawkins says 'Jeff, correct me if I'm wrong' (2896.7s) and 'Is that okay, Jeff? Am I?' (2915.3s) immediately before this voice's drive-sanitisation answer; it says 'this is what I was telling Arlene' (2440.5s) and 'that is what's taking up a lot of my time' (2458.2s). MERGED CLUSTER - the overrides carry the other voices in it"
+ },
+ "Speaker 17": {
+  "name": "Shannon Popescu",
+  "role": "Unity School Board member; SAU 6 Board member - the quiet seconder at this table. After this voice's 'Second.' at 3112.3s the chair thanks 'Shannon, Kelly and Shannon' (3114.0s, both 'Shannon' tokens at ASR confidence 1.00), and after Kelly Simpson's earlier motion the chair recorded 'Kelly motion, [Shannon] seconds' (3005.6s). Popescu answers the roll ('Shannon. Perpetuo. Yep.', 697.4s). MEDIUM confidence: the identification rests on the chair's two garbled vote attributions plus elimination"
+ },
+ "__overrides__": {
+  "0": {
+   "name": "Unidentified",
+   "role": "Pre-meeting floor chatter, nine seconds before the gavel; not attributable to a single voice"
+  },
+  "4": {
+   "name": "Unidentified",
+   "role": "The room reciting the Pledge of Allegiance after the presiding superintendent's 'Please stand'; a collective recitation cannot be attributed to one speaker"
+  },
+  "7": {
+   "name": "Unidentified",
+   "role": "A board member offering the nomination for chair of the SAU 6 board. The ASR salvages only 'Nominated?' and 'Rocky times and I believe she nominations'. The segment sits in Chair Hawkins's diarized cluster, but she cannot nominate herself, so the nominator is not identifiable"
+  },
+  "8": {
+   "name": "Unidentified",
+   "role": "A board member offering the nomination for chair of the SAU 6 board. The ASR salvages only 'Nominated?' and 'Rocky times and I believe she nominations'. The segment sits in Chair Hawkins's diarized cluster, but she cannot nominate herself, so the nominator is not identifiable"
+  },
+  "23": {
+   "name": "Unidentified",
+   "role": "A board member seconding Chair Hawkins's nomination of Rocco Ruggeri as vice chair. Diarized into the cluster whose dominant voice is Ruggeri's own, and he cannot second his own nomination, so the seconder is not identifiable"
+  },
+  "25": {
+   "name": "Arlene Hawkins",
+   "role": "SAU 6 Joint Board CHAIR - re-elected tonight, presiding from 140.7s on. The presiding superintendent puts the question 'All in favor of nominating Arlene Hopkins [Hawkins] as [chair of the] Six board chair' at 109.0s; this voice answers 'I feel very, very honored to take this role again' and moves Rocco Ruggeri as vice chair. At 3885.7s: 'these are the reasons I'm very honored to be the chair of this board'. She names herself to the policy subcommittee at 841.7s ('and myself... I've agreed to continue chairing that committee'). MERGED SEGMENT: a seconder's 'I'll second that' is absorbed before the chair's 'Thank you. All in favor? Opposed? Abstentions'. No tally was announced for the vice-chair vote"
+  },
+  "28": {
+   "name": "Ben Nester",
+   "role": "Director of Special Education, SAU 6 - reads all four roll calls at the chair's request. Hawkins: 'Our secretary Noel is not present tonight, so I'm going to ask Ben. Would you take attendance tonight?' (213.1-220.7s); 'Okay, I have a roll call vote, Mr. Nestor' (603.4s); 'Go call Mr. Nestor' (691.3s)"
+  },
+  "30": {
+   "name": "Ben Nester",
+   "role": "Director of Special Education, SAU 6 - reads all four roll calls at the chair's request. Hawkins: 'Our secretary Noel is not present tonight, so I'm going to ask Ben. Would you take attendance tonight?' (213.1-220.7s); 'Okay, I have a roll call vote, Mr. Nestor' (603.4s); 'Go call Mr. Nestor' (691.3s)"
+  },
+  "32": {
+   "name": "Ben Nester",
+   "role": "Director of Special Education, SAU 6 - reads all four roll calls at the chair's request. Hawkins: 'Our secretary Noel is not present tonight, so I'm going to ask Ben. Would you take attendance tonight?' (213.1-220.7s); 'Okay, I have a roll call vote, Mr. Nestor' (603.4s); 'Go call Mr. Nestor' (691.3s)"
+  },
+  "85": {
+   "name": "Ben Nester",
+   "role": "Director of Special Education, SAU 6 - reads all four roll calls at the chair's request. Hawkins: 'Our secretary Noel is not present tonight, so I'm going to ask Ben. Would you take attendance tonight?' (213.1-220.7s); 'Okay, I have a roll call vote, Mr. Nestor' (603.4s); 'Go call Mr. Nestor' (691.3s)"
+  },
+  "34": {
+   "name": "Ben Nester",
+   "role": "Director of Special Education, SAU 6 - reads all four roll calls at the chair's request. Hawkins: 'Our secretary Noel is not present tonight, so I'm going to ask Ben. Would you take attendance tonight?' (213.1-220.7s); 'Okay, I have a roll call vote, Mr. Nestor' (603.4s); 'Go call Mr. Nestor' (691.3s). MERGED SEGMENT: members' roll answers are absorbed into the reader's segment and cannot be separated from it"
+  },
+  "36": {
+   "name": "Ben Nester",
+   "role": "Director of Special Education, SAU 6 - reads all four roll calls at the chair's request. Hawkins: 'Our secretary Noel is not present tonight, so I'm going to ask Ben. Would you take attendance tonight?' (213.1-220.7s); 'Okay, I have a roll call vote, Mr. Nestor' (603.4s); 'Go call Mr. Nestor' (691.3s). MERGED SEGMENT: members' roll answers are absorbed into the reader's segment and cannot be separated from it"
+  },
+  "86": {
+   "name": "Ben Nester",
+   "role": "Director of Special Education, SAU 6 - reads all four roll calls at the chair's request. Hawkins: 'Our secretary Noel is not present tonight, so I'm going to ask Ben. Would you take attendance tonight?' (213.1-220.7s); 'Okay, I have a roll call vote, Mr. Nestor' (603.4s); 'Go call Mr. Nestor' (691.3s). MERGED SEGMENT: members' roll answers are absorbed into the reader's segment and cannot be separated from it"
+  },
+  "99": {
+   "name": "Ben Nester",
+   "role": "Director of Special Education, SAU 6 - reads all four roll calls at the chair's request. Hawkins: 'Our secretary Noel is not present tonight, so I'm going to ask Ben. Would you take attendance tonight?' (213.1-220.7s); 'Okay, I have a roll call vote, Mr. Nestor' (603.4s); 'Go call Mr. Nestor' (691.3s). MERGED SEGMENT: members' roll answers are absorbed into the reader's segment and cannot be separated from it"
+  },
+  "110": {
+   "name": "Ben Nester",
+   "role": "Director of Special Education, SAU 6 - reads all four roll calls at the chair's request. Hawkins: 'Our secretary Noel is not present tonight, so I'm going to ask Ben. Would you take attendance tonight?' (213.1-220.7s); 'Okay, I have a roll call vote, Mr. Nestor' (603.4s); 'Go call Mr. Nestor' (691.3s). MERGED SEGMENT: members' roll answers are absorbed into the reader's segment and cannot be separated from it"
+  },
+  "108": {
+   "name": "Unidentified",
+   "role": "A one-word prompt to the roll reader ('Ben.'), the second of two such prompts 0.48s apart; not attributable"
+  },
+  "111": {
+   "name": "Unidentified",
+   "role": "'Don't try.' - a reply to the roll reader's 'I'm trying to make sense of all these papers'; a second voice, not identifiable"
+  },
+  "68": {
+   "name": "Susan Mason",
+   "role": "Citizen at the podium during citizens' comments - self-identifies 'My name is Susan Mason' at 456.6s and says 'my granddaughter is a special ed student' at 530.5s. Short reply to the chair's apology and answers during her turn at the podium; MEDIUM confidence, the fragment sits in a neighbouring cluster"
+  },
+  "72": {
+   "name": "Susan Mason",
+   "role": "Citizen at the podium during citizens' comments - self-identifies 'My name is Susan Mason' at 456.6s and says 'my granddaughter is a special ed student' at 530.5s. Short reply to the chair's apology and answers during her turn at the podium; MEDIUM confidence, the fragment sits in a neighbouring cluster"
+  },
+  "80": {
+   "name": "Susan Mason",
+   "role": "Citizen at the podium during citizens' comments - self-identifies 'My name is Susan Mason' at 456.6s and says 'my granddaughter is a special ed student' at 530.5s. Short reply to the chair's apology and answers during her turn at the podium; MEDIUM confidence, the fragment sits in a neighbouring cluster"
+  },
+  "89": {
+   "name": "Arlene Hawkins",
+   "role": "SAU 6 Joint Board CHAIR - re-elected tonight, presiding from 140.7s on. The presiding superintendent puts the question 'All in favor of nominating Arlene Hopkins [Hawkins] as [chair of the] Six board chair' at 109.0s; this voice answers 'I feel very, very honored to take this role again' and moves Rocco Ruggeri as vice chair. At 3885.7s: 'these are the reasons I'm very honored to be the chair of this board'. She names herself to the policy subcommittee at 841.7s ('and myself... I've agreed to continue chairing that committee'). Completes her own 'Yeah, we'll go' / 'with that' across a 0.00s gap"
+  },
+  "121": {
+   "name": "Unidentified",
+   "role": "SAU 6 administrator presenting the superintendent's personnel nominations - Michael McCosker for Director of Student Services and Patrick O'Hearn for Director of Human Resources. The chair frames the item as 'our superintendent report' (867.4s), which points to Interim Superintendent Chris Pratt, but the voice sits in the diarized cluster that also carries Assistant Superintendent Mike Koski, who is documented reading nomination lists to this board (8/16/23). Two candidates, no anchor - left unnamed"
+  },
+  "123": {
+   "name": "Unidentified",
+   "role": "SAU 6 administrator presenting the superintendent's personnel nominations - Michael McCosker for Director of Student Services and Patrick O'Hearn for Director of Human Resources. The chair frames the item as 'our superintendent report' (867.4s), which points to Interim Superintendent Chris Pratt, but the voice sits in the diarized cluster that also carries Assistant Superintendent Mike Koski, who is documented reading nomination lists to this board (8/16/23). Two candidates, no anchor - left unnamed"
+  },
+  "125": {
+   "name": "Unidentified",
+   "role": "SAU 6 administrator presenting the superintendent's personnel nominations - Michael McCosker for Director of Student Services and Patrick O'Hearn for Director of Human Resources. The chair frames the item as 'our superintendent report' (867.4s), which points to Interim Superintendent Chris Pratt, but the voice sits in the diarized cluster that also carries Assistant Superintendent Mike Koski, who is documented reading nomination lists to this board (8/16/23). Two candidates, no anchor - left unnamed"
+  },
+  "127": {
+   "name": "Unidentified",
+   "role": "SAU 6 administrator presenting the superintendent's personnel nominations - Michael McCosker for Director of Student Services and Patrick O'Hearn for Director of Human Resources. The chair frames the item as 'our superintendent report' (867.4s), which points to Interim Superintendent Chris Pratt, but the voice sits in the diarized cluster that also carries Assistant Superintendent Mike Koski, who is documented reading nomination lists to this board (8/16/23). Two candidates, no anchor - left unnamed"
+  },
+  "119": {
+   "name": "Unidentified",
+   "role": "A voice-vote 'Aye'; a collective assent cannot be attributed to one member"
+  },
+  "133": {
+   "name": "Unidentified",
+   "role": "A voice-vote 'Aye'; a collective assent cannot be attributed to one member"
+  },
+  "131": {
+   "name": "Unidentified",
+   "role": "A one-word 'Thank you.' between the chair's second and her call for the vote; not attributable"
+  },
+  "139": {
+   "name": "Unidentified",
+   "role": "A voice answering the chair's call for abstentions on the appointment of Patrick O'Hearn as Director of Human Resources (966.4-977.4s). Two abstentions are voiced and no tally is announced. Both sit in diarized clusters belonging to non-voting staff - Interim Superintendent Pratt and Business Administrator Mary Henry - so this may be a staff aside rather than board abstentions. Neither abstainer is identifiable"
+  },
+  "140": {
+   "name": "Unidentified",
+   "role": "A voice answering the chair's call for abstentions on the appointment of Patrick O'Hearn as Director of Human Resources (966.4-977.4s). Two abstentions are voiced and no tally is announced. Both sit in diarized clusters belonging to non-voting staff - Interim Superintendent Pratt and Business Administrator Mary Henry - so this may be a staff aside rather than board abstentions. Neither abstainer is identifiable"
+  },
+  "142": {
+   "name": "Unidentified",
+   "role": "A voice answering the chair's call for abstentions on the appointment of Patrick O'Hearn as Director of Human Resources (966.4-977.4s). Two abstentions are voiced and no tally is announced. Both sit in diarized clusters belonging to non-voting staff - Interim Superintendent Pratt and Business Administrator Mary Henry - so this may be a staff aside rather than board abstentions. Neither abstainer is identifiable"
+  },
+  "144": {
+   "name": "Unidentified",
+   "role": "A voice answering the chair's call for abstentions on the appointment of Patrick O'Hearn as Director of Human Resources (966.4-977.4s). Two abstentions are voiced and no tally is announced. Both sit in diarized clusters belonging to non-voting staff - Interim Superintendent Pratt and Business Administrator Mary Henry - so this may be a staff aside rather than board abstentions. Neither abstainer is identifiable"
+  },
+  "146": {
+   "name": "Arlene Hawkins",
+   "role": "SAU 6 Joint Board CHAIR - re-elected tonight, presiding from 140.7s on. The presiding superintendent puts the question 'All in favor of nominating Arlene Hopkins [Hawkins] as [chair of the] Six board chair' at 109.0s; this voice answers 'I feel very, very honored to take this role again' and moves Rocco Ruggeri as vice chair. At 3885.7s: 'these are the reasons I'm very honored to be the chair of this board'. She names herself to the policy subcommittee at 841.7s ('and myself... I've agreed to continue chairing that committee')"
+  },
+  "162": {
+   "name": "Kelly Simpson",
+   "role": "Unity School Board member; SAU 6 Board member; SAU 6 policy subcommittee (renamed to it tonight, 840.9s) - after this voice moves the revision to policy EHB at 2991.7s the chair records it as 'Kelly motion, [Shannon] seconds' (3005.6s, 'Kelly' conf 1.00); after its motion to withdraw GBAA at 3105.6s the chair thanks 'Shannon, Kelly and Shannon' (3114.0s). It answers for Unity when the chair asks the Unity retreat date ('16th I think', 3926.3s). MEDIUM-HIGH confidence. A 0.08s fragment 0.00s before her own motion - this diarizer's documented habit of clipping a sentence onset into the neighbouring cluster"
+  },
+  "164": {
+   "name": "Candace Crawford",
+   "role": "Claremont School Board member; SAU 6 Board member; SAU 6 policy subcommittee - speaks for the subcommittee in the first person at 1565.0s: 'that our intent was to review the minutes that have been sealed... and bring that to the board for approval to reseal'. The subcommittee seated tonight is Candace Crawford, Kelly Simpson and Chair Hawkins; Hawkins holds her own cluster and Simpson is Speaker 11, which leaves Crawford. MEDIUM confidence - no chair recognition or self-identification attaches to this voice. Her 'Second.' on policy AC: the chair asks 'Which one is the second? Candace.' 1.3s later (2 seconds were offered, this one and a male voice's)"
+  },
+  "170": {
+   "name": "Mike Koski",
+   "role": "Assistant Superintendent, SAU 6 - Chair Hawkins asks 'Mr. Kosky, you think that this is what we should do with this policy?' (1191.1s, 'Kosky' conf 0.92) and this voice answers 'Yes. Whether we have a policy or not, regulations we have to follow the...'. Frank Sprague later attributes the section-504 explanation to 'Mike' ('But I hear what Mike is saying about a temporary...', 2756.6s, conf 1.00). MEDIUM confidence on the 504 block: 'Mike' could in principle be board member Michael Petrin, but the content - IDEA due process and mediation, 504 as a temporary disability, state-level OCR - is the assistant superintendent's file, and Koski's voice is demonstrably in the room"
+  },
+  "171": {
+   "name": "Mike Koski",
+   "role": "Assistant Superintendent, SAU 6 - Chair Hawkins asks 'Mr. Kosky, you think that this is what we should do with this policy?' (1191.1s, 'Kosky' conf 0.92) and this voice answers 'Yes. Whether we have a policy or not, regulations we have to follow the...'. Frank Sprague later attributes the section-504 explanation to 'Mike' ('But I hear what Mike is saying about a temporary...', 2756.6s, conf 1.00). MEDIUM confidence on the 504 block: 'Mike' could in principle be board member Michael Petrin, but the content - IDEA due process and mediation, 504 as a temporary disability, state-level OCR - is the assistant superintendent's file, and Koski's voice is demonstrably in the room"
+  },
+  "172": {
+   "name": "Mike Koski",
+   "role": "Assistant Superintendent, SAU 6 - Chair Hawkins asks 'Mr. Kosky, you think that this is what we should do with this policy?' (1191.1s, 'Kosky' conf 0.92) and this voice answers 'Yes. Whether we have a policy or not, regulations we have to follow the...'. Frank Sprague later attributes the section-504 explanation to 'Mike' ('But I hear what Mike is saying about a temporary...', 2756.6s, conf 1.00). MEDIUM confidence on the 504 block: 'Mike' could in principle be board member Michael Petrin, but the content - IDEA due process and mediation, 504 as a temporary disability, state-level OCR - is the assistant superintendent's file, and Koski's voice is demonstrably in the room. A fragment of his own sentence - 'Whether we have a policy or not, regulations / we / have to follow the' runs across three clusters with 0.00-0.04s gaps"
+  },
+  "173": {
+   "name": "Mike Koski",
+   "role": "Assistant Superintendent, SAU 6 - Chair Hawkins asks 'Mr. Kosky, you think that this is what we should do with this policy?' (1191.1s, 'Kosky' conf 0.92) and this voice answers 'Yes. Whether we have a policy or not, regulations we have to follow the...'. Frank Sprague later attributes the section-504 explanation to 'Mike' ('But I hear what Mike is saying about a temporary...', 2756.6s, conf 1.00). MEDIUM confidence on the 504 block: 'Mike' could in principle be board member Michael Petrin, but the content - IDEA due process and mediation, 504 as a temporary disability, state-level OCR - is the assistant superintendent's file, and Koski's voice is demonstrably in the room. A fragment of his own sentence - 'Whether we have a policy or not, regulations / we / have to follow the' runs across three clusters with 0.00-0.04s gaps"
+  },
+  "174": {
+   "name": "Rocco Ruggeri",
+   "role": "SAU 6 Joint Board VICE CHAIR (elected tonight); Unity School Board member - MERGED CLUSTER. This diarized label carries several male voices; the overrides carry the exceptions. Ruggeri is its dominant voice: Frank Sprague opens the superintendent-evaluation report with 'One of my first task was to delegate Rocco' (3180.96s, 'Rocco' conf 0.89) and this voice immediately gives that report; Sprague addresses 'Rocco' again at 3440.0s and 3512.9s (conf 1.00) while it answers. It speaks for Unity throughout - 'Ours is next week' about the Unity retreat (3922.3s) and the entire Unity-withdrawal report ('our annual town vote', 'asking our town for approval', 4082.7-4158.6s). Chair Hawkins moves his nomination as vice chair at 157.6s. MERGED SEGMENT: it opens with the tail of Mike Koski's answer ('So timestamps and everything. Yeah.') before Ruggeri's own 'I have a question'"
+  },
+  "184": {
+   "name": "Rocco Ruggeri",
+   "role": "SAU 6 Joint Board VICE CHAIR (elected tonight); Unity School Board member - MERGED CLUSTER. This diarized label carries several male voices; the overrides carry the exceptions. Ruggeri is its dominant voice: Frank Sprague opens the superintendent-evaluation report with 'One of my first task was to delegate Rocco' (3180.96s, 'Rocco' conf 0.89) and this voice immediately gives that report; Sprague addresses 'Rocco' again at 3440.0s and 3512.9s (conf 1.00) while it answers. It speaks for Unity throughout - 'Ours is next week' about the Unity retreat (3922.3s) and the entire Unity-withdrawal report ('our annual town vote', 'asking our town for approval', 4082.7-4158.6s). Chair Hawkins moves his nomination as vice chair at 157.6s. 'That's all.' completes his own preceding turn across a 0.07s gap; the trailing 'Okay.' may be the chair's"
+  },
+  "185": {
+   "name": "Unidentified",
+   "role": "The member moving adoption of policy AC, the Title IX sexual-harassment and grievance policy ('I'd like to make a motion... to adopt policy AC, Title nine sexual harassment policy and process as provided to the board', 1293.1-1308.2s). Diarized into the cluster that carries Business Administrator Mary Henry's budget report, who does not move board motions; the mover is never named and Kelly Simpson's second at 1308.3s is the only voice the record attaches to this motion"
+  },
+  "187": {
+   "name": "Unidentified",
+   "role": "The member moving adoption of policy AC, the Title IX sexual-harassment and grievance policy ('I'd like to make a motion... to adopt policy AC, Title nine sexual harassment policy and process as provided to the board', 1293.1-1308.2s). Diarized into the cluster that carries Business Administrator Mary Henry's budget report, who does not move board motions; the mover is never named and Kelly Simpson's second at 1308.3s is the only voice the record attaches to this motion"
+  },
+  "189": {
+   "name": "Unidentified",
+   "role": "The member moving adoption of policy AC, the Title IX sexual-harassment and grievance policy ('I'd like to make a motion... to adopt policy AC, Title nine sexual harassment policy and process as provided to the board', 1293.1-1308.2s). Diarized into the cluster that carries Business Administrator Mary Henry's budget report, who does not move board motions; the mover is never named and Kelly Simpson's second at 1308.3s is the only voice the record attaches to this motion"
+  },
+  "192": {
+   "name": "Arlene Hawkins",
+   "role": "SAU 6 Joint Board CHAIR - re-elected tonight, presiding from 140.7s on. The presiding superintendent puts the question 'All in favor of nominating Arlene Hopkins [Hawkins] as [chair of the] Six board chair' at 109.0s; this voice answers 'I feel very, very honored to take this role again' and moves Rocco Ruggeri as vice chair. At 3885.7s: 'these are the reasons I'm very honored to be the chair of this board'. She names herself to the policy subcommittee at 841.7s ('and myself... I've agreed to continue chairing that committee'). Her own 'Opposed?' prompt ('I posed'), clipped into a neighbouring cluster 0.12s after her 'All in favor?'"
+  },
+  "197": {
+   "name": "Unidentified",
+   "role": "A one-word echo of the policy code 'BEDG' while the board hunts for the page; not attributable"
+  },
+  "199": {
+   "name": "Unidentified",
+   "role": "'Yeah. I'll just highlight that.' during the search for the BEDG page; not attributable to a named voice"
+  },
+  "215": {
+   "name": "Arlene Hawkins",
+   "role": "SAU 6 Joint Board CHAIR - re-elected tonight, presiding from 140.7s on. The presiding superintendent puts the question 'All in favor of nominating Arlene Hopkins [Hawkins] as [chair of the] Six board chair' at 109.0s; this voice answers 'I feel very, very honored to take this role again' and moves Rocco Ruggeri as vice chair. At 3885.7s: 'these are the reasons I'm very honored to be the chair of this board'. She names herself to the policy subcommittee at 841.7s ('and myself... I've agreed to continue chairing that committee'). A fragment of one continuous sentence of hers - 'That's, that's / the procedure. / Doesn't have / to be part of the policy' runs 1535.0-1539.3s across four clusters with 0.00-0.08s gaps"
+  },
+  "217": {
+   "name": "Arlene Hawkins",
+   "role": "SAU 6 Joint Board CHAIR - re-elected tonight, presiding from 140.7s on. The presiding superintendent puts the question 'All in favor of nominating Arlene Hopkins [Hawkins] as [chair of the] Six board chair' at 109.0s; this voice answers 'I feel very, very honored to take this role again' and moves Rocco Ruggeri as vice chair. At 3885.7s: 'these are the reasons I'm very honored to be the chair of this board'. She names herself to the policy subcommittee at 841.7s ('and myself... I've agreed to continue chairing that committee'). A fragment of one continuous sentence of hers - 'That's, that's / the procedure. / Doesn't have / to be part of the policy' runs 1535.0-1539.3s across four clusters with 0.00-0.08s gaps"
+  },
+  "218": {
+   "name": "Arlene Hawkins",
+   "role": "SAU 6 Joint Board CHAIR - re-elected tonight, presiding from 140.7s on. The presiding superintendent puts the question 'All in favor of nominating Arlene Hopkins [Hawkins] as [chair of the] Six board chair' at 109.0s; this voice answers 'I feel very, very honored to take this role again' and moves Rocco Ruggeri as vice chair. At 3885.7s: 'these are the reasons I'm very honored to be the chair of this board'. She names herself to the policy subcommittee at 841.7s ('and myself... I've agreed to continue chairing that committee'). A fragment of one continuous sentence of hers - 'That's, that's / the procedure. / Doesn't have / to be part of the policy' runs 1535.0-1539.3s across four clusters with 0.00-0.08s gaps"
+  },
+  "223": {
+   "name": "Arlene Hawkins",
+   "role": "SAU 6 Joint Board CHAIR - re-elected tonight, presiding from 140.7s on. The presiding superintendent puts the question 'All in favor of nominating Arlene Hopkins [Hawkins] as [chair of the] Six board chair' at 109.0s; this voice answers 'I feel very, very honored to take this role again' and moves Rocco Ruggeri as vice chair. At 3885.7s: 'these are the reasons I'm very honored to be the chair of this board'. She names herself to the policy subcommittee at 841.7s ('and myself... I've agreed to continue chairing that committee'). Completes her own 'I take that / back, but' across a 0.00s gap"
+  },
+  "230": {
+   "name": "Heather Whitney",
+   "role": "Claremont School Board CHAIR; SAU 6 Board member - Chair Hawkins says 'Anything. Heather.' at 2290.6s ('Heather' conf 1.00) and this voice answers 0.04s later ('Can I make a motion already to adopt this?'), then moves policy DBJ as amended. Second of the two clusters the diarizer gives Heather Whitney; see the Speaker 8 note. CAUTION: this board seats both a Heather Whitney and a Whitney Skillen. Completes her own 'I understood what I mean, was / saying' across a 0.00s gap"
+  },
+  "233": {
+   "name": "Arlene Hawkins",
+   "role": "SAU 6 Joint Board CHAIR - re-elected tonight, presiding from 140.7s on. The presiding superintendent puts the question 'All in favor of nominating Arlene Hopkins [Hawkins] as [chair of the] Six board chair' at 109.0s; this voice answers 'I feel very, very honored to take this role again' and moves Rocco Ruggeri as vice chair. At 3885.7s: 'these are the reasons I'm very honored to be the chair of this board'. She names herself to the policy subcommittee at 841.7s ('and myself... I've agreed to continue chairing that committee'). Inside her own run, 0.04s after and 0.08s before her own segments"
+  },
+  "235": {
+   "name": "Arlene Hawkins",
+   "role": "SAU 6 Joint Board CHAIR - re-elected tonight, presiding from 140.7s on. The presiding superintendent puts the question 'All in favor of nominating Arlene Hopkins [Hawkins] as [chair of the] Six board chair' at 109.0s; this voice answers 'I feel very, very honored to take this role again' and moves Rocco Ruggeri as vice chair. At 3885.7s: 'these are the reasons I'm very honored to be the chair of this board'. She names herself to the policy subcommittee at 841.7s ('and myself... I've agreed to continue chairing that committee'). A fragment of her own 'And then / policy / committee, the policy committee' across 0.00s gaps"
+  },
+  "256": {
+   "name": "Arlene Hawkins",
+   "role": "SAU 6 Joint Board CHAIR - re-elected tonight, presiding from 140.7s on. The presiding superintendent puts the question 'All in favor of nominating Arlene Hopkins [Hawkins] as [chair of the] Six board chair' at 109.0s; this voice answers 'I feel very, very honored to take this role again' and moves Rocco Ruggeri as vice chair. At 3885.7s: 'these are the reasons I'm very honored to be the chair of this board'. She names herself to the policy subcommittee at 841.7s ('and myself... I've agreed to continue chairing that committee'). A fragment inside her own reading of paragraph 5b, between her own segments at 0.00-0.08s gaps"
+  },
+  "258": {
+   "name": "Arlene Hawkins",
+   "role": "SAU 6 Joint Board CHAIR - re-elected tonight, presiding from 140.7s on. The presiding superintendent puts the question 'All in favor of nominating Arlene Hopkins [Hawkins] as [chair of the] Six board chair' at 109.0s; this voice answers 'I feel very, very honored to take this role again' and moves Rocco Ruggeri as vice chair. At 3885.7s: 'these are the reasons I'm very honored to be the chair of this board'. She names herself to the policy subcommittee at 841.7s ('and myself... I've agreed to continue chairing that committee'). A fragment inside her own reading of paragraph 5b, between her own segments at 0.00-0.08s gaps"
+  },
+  "263": {
+   "name": "Arlene Hawkins",
+   "role": "SAU 6 Joint Board CHAIR - re-elected tonight, presiding from 140.7s on. The presiding superintendent puts the question 'All in favor of nominating Arlene Hopkins [Hawkins] as [chair of the] Six board chair' at 109.0s; this voice answers 'I feel very, very honored to take this role again' and moves Rocco Ruggeri as vice chair. At 3885.7s: 'these are the reasons I'm very honored to be the chair of this board'. She names herself to the policy subcommittee at 841.7s ('and myself... I've agreed to continue chairing that committee'). 'Correct.' answering Ruggeri's summary of the sealed-minutes audit; she answers every other question in this exchange. MEDIUM confidence - another policy-subcommittee member could have said it"
+  },
+  "268": {
+   "name": "Rocco Ruggeri",
+   "role": "SAU 6 Joint Board VICE CHAIR (elected tonight); Unity School Board member - MERGED CLUSTER. This diarized label carries several male voices; the overrides carry the exceptions. Ruggeri is its dominant voice: Frank Sprague opens the superintendent-evaluation report with 'One of my first task was to delegate Rocco' (3180.96s, 'Rocco' conf 0.89) and this voice immediately gives that report; Sprague addresses 'Rocco' again at 3440.0s and 3512.9s (conf 1.00) while it answers. It speaks for Unity throughout - 'Ours is next week' about the Unity retreat (3922.3s) and the entire Unity-withdrawal report ('our annual town vote', 'asking our town for approval', 4082.7-4158.6s). Chair Hawkins moves his nomination as vice chair at 157.6s. A fragment of one sentence of his - 'because as / we did it with / nine years in ten / months' - split across three clusters with 0.00-0.08s gaps inside his own run"
+  },
+  "269": {
+   "name": "Rocco Ruggeri",
+   "role": "SAU 6 Joint Board VICE CHAIR (elected tonight); Unity School Board member - MERGED CLUSTER. This diarized label carries several male voices; the overrides carry the exceptions. Ruggeri is its dominant voice: Frank Sprague opens the superintendent-evaluation report with 'One of my first task was to delegate Rocco' (3180.96s, 'Rocco' conf 0.89) and this voice immediately gives that report; Sprague addresses 'Rocco' again at 3440.0s and 3512.9s (conf 1.00) while it answers. It speaks for Unity throughout - 'Ours is next week' about the Unity retreat (3922.3s) and the entire Unity-withdrawal report ('our annual town vote', 'asking our town for approval', 4082.7-4158.6s). Chair Hawkins moves his nomination as vice chair at 157.6s. A fragment of one sentence of his - 'because as / we did it with / nine years in ten / months' - split across three clusters with 0.00-0.08s gaps inside his own run"
+  },
+  "270": {
+   "name": "Rocco Ruggeri",
+   "role": "SAU 6 Joint Board VICE CHAIR (elected tonight); Unity School Board member - MERGED CLUSTER. This diarized label carries several male voices; the overrides carry the exceptions. Ruggeri is its dominant voice: Frank Sprague opens the superintendent-evaluation report with 'One of my first task was to delegate Rocco' (3180.96s, 'Rocco' conf 0.89) and this voice immediately gives that report; Sprague addresses 'Rocco' again at 3440.0s and 3512.9s (conf 1.00) while it answers. It speaks for Unity throughout - 'Ours is next week' about the Unity retreat (3922.3s) and the entire Unity-withdrawal report ('our annual town vote', 'asking our town for approval', 4082.7-4158.6s). Chair Hawkins moves his nomination as vice chair at 157.6s. A fragment of one sentence of his - 'because as / we did it with / nine years in ten / months' - split across three clusters with 0.00-0.08s gaps inside his own run"
+  },
+  "272": {
+   "name": "Rocco Ruggeri",
+   "role": "SAU 6 Joint Board VICE CHAIR (elected tonight); Unity School Board member - MERGED CLUSTER. This diarized label carries several male voices; the overrides carry the exceptions. Ruggeri is its dominant voice: Frank Sprague opens the superintendent-evaluation report with 'One of my first task was to delegate Rocco' (3180.96s, 'Rocco' conf 0.89) and this voice immediately gives that report; Sprague addresses 'Rocco' again at 3440.0s and 3512.9s (conf 1.00) while it answers. It speaks for Unity throughout - 'Ours is next week' about the Unity retreat (3922.3s) and the entire Unity-withdrawal report ('our annual town vote', 'asking our town for approval', 4082.7-4158.6s). Chair Hawkins moves his nomination as vice chair at 157.6s. A one-word aside inside his own run, 0.00s after and 0.08s before his own segments"
+  },
+  "280": {
+   "name": "Arlene Hawkins",
+   "role": "SAU 6 Joint Board CHAIR - re-elected tonight, presiding from 140.7s on. The presiding superintendent puts the question 'All in favor of nominating Arlene Hopkins [Hawkins] as [chair of the] Six board chair' at 109.0s; this voice answers 'I feel very, very honored to take this role again' and moves Rocco Ruggeri as vice chair. At 3885.7s: 'these are the reasons I'm very honored to be the chair of this board'. She names herself to the policy subcommittee at 841.7s ('and myself... I've agreed to continue chairing that committee'). A fragment of her own 'I'm wondering... I know, I know' inside her own run"
+  },
+  "282": {
+   "name": "Arlene Hawkins",
+   "role": "SAU 6 Joint Board CHAIR - re-elected tonight, presiding from 140.7s on. The presiding superintendent puts the question 'All in favor of nominating Arlene Hopkins [Hawkins] as [chair of the] Six board chair' at 109.0s; this voice answers 'I feel very, very honored to take this role again' and moves Rocco Ruggeri as vice chair. At 3885.7s: 'these are the reasons I'm very honored to be the chair of this board'. She names herself to the policy subcommittee at 841.7s ('and myself... I've agreed to continue chairing that committee'). A fragment of her own 'I'm wondering... I know, I know' inside her own run"
+  },
+  "290": {
+   "name": "Arlene Hawkins",
+   "role": "SAU 6 Joint Board CHAIR - re-elected tonight, presiding from 140.7s on. The presiding superintendent puts the question 'All in favor of nominating Arlene Hopkins [Hawkins] as [chair of the] Six board chair' at 109.0s; this voice answers 'I feel very, very honored to take this role again' and moves Rocco Ruggeri as vice chair. At 3885.7s: 'these are the reasons I'm very honored to be the chair of this board'. She names herself to the policy subcommittee at 841.7s ('and myself... I've agreed to continue chairing that committee'). 'So we' 0.00s before her own 'have to keep that in the forefront'"
+  },
+  "295": {
+   "name": "Heather Whitney",
+   "role": "Claremont School Board CHAIR; SAU 6 Board member - Chair Hawkins says 'Anything. Heather.' at 2290.6s ('Heather' conf 1.00) and this voice answers 0.04s later ('Can I make a motion already to adopt this?'), then moves policy DBJ as amended. Second of the two clusters the diarizer gives Heather Whitney; see the Speaker 8 note. CAUTION: this board seats both a Heather Whitney and a Whitney Skillen. Completes her own 'I don't know what / would be' across a 0.08s gap"
+  },
+  "314": {
+   "name": "Candace Crawford",
+   "role": "Claremont School Board member; SAU 6 Board member; SAU 6 policy subcommittee - speaks for the subcommittee in the first person at 1565.0s: 'that our intent was to review the minutes that have been sealed... and bring that to the board for approval to reseal'. The subcommittee seated tonight is Candace Crawford, Kelly Simpson and Chair Hawkins; Hawkins holds her own cluster and Simpson is Speaker 11, which leaves Crawford. MEDIUM confidence - no chair recognition or self-identification attaches to this voice. Completes her own 'To limit the / the seal to limit the number' across a 0.08s gap"
+  },
+  "318": {
+   "name": "Heather Whitney",
+   "role": "Claremont School Board CHAIR; SAU 6 Board member - Chair Hawkins says 'Anything. Heather.' at 2290.6s ('Heather' conf 1.00) and this voice answers 0.04s later ('Can I make a motion already to adopt this?'), then moves policy DBJ as amended. Second of the two clusters the diarizer gives Heather Whitney; see the Speaker 8 note. CAUTION: this board seats both a Heather Whitney and a Whitney Skillen. A fragment inside her own run ('...just came to / me'), 0.00-0.08s from her own segments"
+  },
+  "320": {
+   "name": "Heather Whitney",
+   "role": "Claremont School Board CHAIR; SAU 6 Board member - Chair Hawkins says 'Anything. Heather.' at 2290.6s ('Heather' conf 1.00) and this voice answers 0.04s later ('Can I make a motion already to adopt this?'), then moves policy DBJ as amended. Second of the two clusters the diarizer gives Heather Whitney; see the Speaker 8 note. CAUTION: this board seats both a Heather Whitney and a Whitney Skillen. A fragment inside her own run ('...just came to / me'), 0.00-0.08s from her own segments"
+  },
+  "326": {
+   "name": "Kelly Simpson",
+   "role": "Unity School Board member; SAU 6 Board member; SAU 6 policy subcommittee (renamed to it tonight, 840.9s) - after this voice moves the revision to policy EHB at 2991.7s the chair records it as 'Kelly motion, [Shannon] seconds' (3005.6s, 'Kelly' conf 1.00); after its motion to withdraw GBAA at 3105.6s the chair thanks 'Shannon, Kelly and Shannon' (3114.0s). It answers for Unity when the chair asks the Unity retreat date ('16th I think', 3926.3s). MEDIUM-HIGH confidence. 'Never mind. I'm sorry.' between two of her own segments at 0.04s gaps"
+  },
+  "329": {
+   "name": "Kelly Simpson",
+   "role": "Unity School Board member; SAU 6 Board member; SAU 6 policy subcommittee (renamed to it tonight, 840.9s) - after this voice moves the revision to policy EHB at 2991.7s the chair records it as 'Kelly motion, [Shannon] seconds' (3005.6s, 'Kelly' conf 1.00); after its motion to withdraw GBAA at 3105.6s the chair thanks 'Shannon, Kelly and Shannon' (3114.0s). It answers for Unity when the chair asks the Unity retreat date ('16th I think', 3926.3s). MEDIUM-HIGH confidence. 'I swear.' restating her own 'I swore that somewhere in here it said something about the ten years'. MEDIUM confidence"
+  },
+  "337": {
+   "name": "Arlene Hawkins",
+   "role": "SAU 6 Joint Board CHAIR - re-elected tonight, presiding from 140.7s on. The presiding superintendent puts the question 'All in favor of nominating Arlene Hopkins [Hawkins] as [chair of the] Six board chair' at 109.0s; this voice answers 'I feel very, very honored to take this role again' and moves Rocco Ruggeri as vice chair. At 3885.7s: 'these are the reasons I'm very honored to be the chair of this board'. She names herself to the policy subcommittee at 841.7s ('and myself... I've agreed to continue chairing that committee'). Her own 'Opposed' prompt, clipped between her 'All in favor?' and 'Abstentions'"
+  },
+  "343": {
+   "name": "Arlene Hawkins",
+   "role": "SAU 6 Joint Board CHAIR - re-elected tonight, presiding from 140.7s on. The presiding superintendent puts the question 'All in favor of nominating Arlene Hopkins [Hawkins] as [chair of the] Six board chair' at 109.0s; this voice answers 'I feel very, very honored to take this role again' and moves Rocco Ruggeri as vice chair. At 3885.7s: 'these are the reasons I'm very honored to be the chair of this board'. She names herself to the policy subcommittee at 841.7s ('and myself... I've agreed to continue chairing that committee'). 'To adopt' 0.00s after her own 'You want'"
+  },
+  "358": {
+   "name": "Arlene Hawkins",
+   "role": "SAU 6 Joint Board CHAIR - re-elected tonight, presiding from 140.7s on. The presiding superintendent puts the question 'All in favor of nominating Arlene Hopkins [Hawkins] as [chair of the] Six board chair' at 109.0s; this voice answers 'I feel very, very honored to take this role again' and moves Rocco Ruggeri as vice chair. At 3885.7s: 'these are the reasons I'm very honored to be the chair of this board'. She names herself to the policy subcommittee at 841.7s ('and myself... I've agreed to continue chairing that committee'). The chair's 'Yes.' granting Ruggeri's 'I have a question'"
+  },
+  "362": {
+   "name": "Arlene Hawkins",
+   "role": "SAU 6 Joint Board CHAIR - re-elected tonight, presiding from 140.7s on. The presiding superintendent puts the question 'All in favor of nominating Arlene Hopkins [Hawkins] as [chair of the] Six board chair' at 109.0s; this voice answers 'I feel very, very honored to take this role again' and moves Rocco Ruggeri as vice chair. At 3885.7s: 'these are the reasons I'm very honored to be the chair of this board'. She names herself to the policy subcommittee at 841.7s ('and myself... I've agreed to continue chairing that committee'). 'With' 0.08s before her own 'permission and authorizing'"
+  },
+  "367": {
+   "name": "Rocco Ruggeri",
+   "role": "SAU 6 Joint Board VICE CHAIR (elected tonight); Unity School Board member - MERGED CLUSTER. This diarized label carries several male voices; the overrides carry the exceptions. Ruggeri is its dominant voice: Frank Sprague opens the superintendent-evaluation report with 'One of my first task was to delegate Rocco' (3180.96s, 'Rocco' conf 0.89) and this voice immediately gives that report; Sprague addresses 'Rocco' again at 3440.0s and 3512.9s (conf 1.00) while it answers. It speaks for Unity throughout - 'Ours is next week' about the Unity retreat (3922.3s) and the entire Unity-withdrawal report ('our annual town vote', 'asking our town for approval', 4082.7-4158.6s). Chair Hawkins moves his nomination as vice chair at 157.6s. 'Been' 0.00s after his own 'so it's already'"
+  },
+  "406": {
+   "name": "Jeff Small",
+   "role": "Director of Technology, SAU 6 - Chair Hawkins says 'Jeff, correct me if I'm wrong' (2896.7s) and 'Is that okay, Jeff? Am I?' (2915.3s) immediately before this voice's drive-sanitisation answer; it says 'this is what I was telling Arlene' (2440.5s) and 'that is what's taking up a lot of my time' (2458.2s). MERGED CLUSTER - the overrides carry the other voices in it. His answer 'So a lot of this is what we / are already doing', split across two clusters at a 0.00s gap"
+  },
+  "407": {
+   "name": "Jeff Small",
+   "role": "Director of Technology, SAU 6 - Chair Hawkins says 'Jeff, correct me if I'm wrong' (2896.7s) and 'Is that okay, Jeff? Am I?' (2915.3s) immediately before this voice's drive-sanitisation answer; it says 'this is what I was telling Arlene' (2440.5s) and 'that is what's taking up a lot of my time' (2458.2s). MERGED CLUSTER - the overrides carry the other voices in it. His answer 'So a lot of this is what we / are already doing', split across two clusters at a 0.00s gap"
+  },
+  "409": {
+   "name": "Rocco Ruggeri",
+   "role": "SAU 6 Joint Board VICE CHAIR (elected tonight); Unity School Board member - MERGED CLUSTER. This diarized label carries several male voices; the overrides carry the exceptions. Ruggeri is its dominant voice: Frank Sprague opens the superintendent-evaluation report with 'One of my first task was to delegate Rocco' (3180.96s, 'Rocco' conf 0.89) and this voice immediately gives that report; Sprague addresses 'Rocco' again at 3440.0s and 3512.9s (conf 1.00) while it answers. It speaks for Unity throughout - 'Ours is next week' about the Unity retreat (3922.3s) and the entire Unity-withdrawal report ('our annual town vote', 'asking our town for approval', 4082.7-4158.6s). Chair Hawkins moves his nomination as vice chair at 157.6s. A fragment of his own 'Okay. So, if / none of this is / really new, and it's always ongoing' across 0.00-0.16s gaps"
+  },
+  "412": {
+   "name": "Rocco Ruggeri",
+   "role": "SAU 6 Joint Board VICE CHAIR (elected tonight); Unity School Board member - MERGED CLUSTER. This diarized label carries several male voices; the overrides carry the exceptions. Ruggeri is its dominant voice: Frank Sprague opens the superintendent-evaluation report with 'One of my first task was to delegate Rocco' (3180.96s, 'Rocco' conf 0.89) and this voice immediately gives that report; Sprague addresses 'Rocco' again at 3440.0s and 3512.9s (conf 1.00) while it answers. It speaks for Unity throughout - 'Ours is next week' about the Unity retreat (3922.3s) and the entire Unity-withdrawal report ('our annual town vote', 'asking our town for approval', 4082.7-4158.6s). Chair Hawkins moves his nomination as vice chair at 157.6s. MERGED SEGMENT: his question 'You're doing all that already?' with Jeff Small's 'Yeah.' absorbed"
+  },
+  "433": {
+   "name": "Unidentified",
+   "role": "'The single page.' while the board hunts for the policy IED/KED handout; not attributable"
+  },
+  "443": {
+   "name": "Mike Koski",
+   "role": "Assistant Superintendent, SAU 6 - Chair Hawkins asks 'Mr. Kosky, you think that this is what we should do with this policy?' (1191.1s, 'Kosky' conf 0.92) and this voice answers 'Yes. Whether we have a policy or not, regulations we have to follow the...'. Frank Sprague later attributes the section-504 explanation to 'Mike' ('But I hear what Mike is saying about a temporary...', 2756.6s, conf 1.00). MEDIUM confidence on the 504 block: 'Mike' could in principle be board member Michael Petrin, but the content - IDEA due process and mediation, 504 as a temporary disability, state-level OCR - is the assistant superintendent's file, and Koski's voice is demonstrably in the room"
+  },
+  "444": {
+   "name": "Mike Koski",
+   "role": "Assistant Superintendent, SAU 6 - Chair Hawkins asks 'Mr. Kosky, you think that this is what we should do with this policy?' (1191.1s, 'Kosky' conf 0.92) and this voice answers 'Yes. Whether we have a policy or not, regulations we have to follow the...'. Frank Sprague later attributes the section-504 explanation to 'Mike' ('But I hear what Mike is saying about a temporary...', 2756.6s, conf 1.00). MEDIUM confidence on the 504 block: 'Mike' could in principle be board member Michael Petrin, but the content - IDEA due process and mediation, 504 as a temporary disability, state-level OCR - is the assistant superintendent's file, and Koski's voice is demonstrably in the room"
+  },
+  "447": {
+   "name": "Mike Koski",
+   "role": "Assistant Superintendent, SAU 6 - Chair Hawkins asks 'Mr. Kosky, you think that this is what we should do with this policy?' (1191.1s, 'Kosky' conf 0.92) and this voice answers 'Yes. Whether we have a policy or not, regulations we have to follow the...'. Frank Sprague later attributes the section-504 explanation to 'Mike' ('But I hear what Mike is saying about a temporary...', 2756.6s, conf 1.00). MEDIUM confidence on the 504 block: 'Mike' could in principle be board member Michael Petrin, but the content - IDEA due process and mediation, 504 as a temporary disability, state-level OCR - is the assistant superintendent's file, and Koski's voice is demonstrably in the room"
+  },
+  "448": {
+   "name": "Mike Koski",
+   "role": "Assistant Superintendent, SAU 6 - Chair Hawkins asks 'Mr. Kosky, you think that this is what we should do with this policy?' (1191.1s, 'Kosky' conf 0.92) and this voice answers 'Yes. Whether we have a policy or not, regulations we have to follow the...'. Frank Sprague later attributes the section-504 explanation to 'Mike' ('But I hear what Mike is saying about a temporary...', 2756.6s, conf 1.00). MEDIUM confidence on the 504 block: 'Mike' could in principle be board member Michael Petrin, but the content - IDEA due process and mediation, 504 as a temporary disability, state-level OCR - is the assistant superintendent's file, and Koski's voice is demonstrably in the room"
+  },
+  "449": {
+   "name": "Mike Koski",
+   "role": "Assistant Superintendent, SAU 6 - Chair Hawkins asks 'Mr. Kosky, you think that this is what we should do with this policy?' (1191.1s, 'Kosky' conf 0.92) and this voice answers 'Yes. Whether we have a policy or not, regulations we have to follow the...'. Frank Sprague later attributes the section-504 explanation to 'Mike' ('But I hear what Mike is saying about a temporary...', 2756.6s, conf 1.00). MEDIUM confidence on the 504 block: 'Mike' could in principle be board member Michael Petrin, but the content - IDEA due process and mediation, 504 as a temporary disability, state-level OCR - is the assistant superintendent's file, and Koski's voice is demonstrably in the room"
+  },
+  "450": {
+   "name": "Mike Koski",
+   "role": "Assistant Superintendent, SAU 6 - Chair Hawkins asks 'Mr. Kosky, you think that this is what we should do with this policy?' (1191.1s, 'Kosky' conf 0.92) and this voice answers 'Yes. Whether we have a policy or not, regulations we have to follow the...'. Frank Sprague later attributes the section-504 explanation to 'Mike' ('But I hear what Mike is saying about a temporary...', 2756.6s, conf 1.00). MEDIUM confidence on the 504 block: 'Mike' could in principle be board member Michael Petrin, but the content - IDEA due process and mediation, 504 as a temporary disability, state-level OCR - is the assistant superintendent's file, and Koski's voice is demonstrably in the room"
+  },
+  "454": {
+   "name": "Mike Koski",
+   "role": "Assistant Superintendent, SAU 6 - Chair Hawkins asks 'Mr. Kosky, you think that this is what we should do with this policy?' (1191.1s, 'Kosky' conf 0.92) and this voice answers 'Yes. Whether we have a policy or not, regulations we have to follow the...'. Frank Sprague later attributes the section-504 explanation to 'Mike' ('But I hear what Mike is saying about a temporary...', 2756.6s, conf 1.00). MEDIUM confidence on the 504 block: 'Mike' could in principle be board member Michael Petrin, but the content - IDEA due process and mediation, 504 as a temporary disability, state-level OCR - is the assistant superintendent's file, and Koski's voice is demonstrably in the room"
+  },
+  "468": {
+   "name": "Unidentified",
+   "role": "A one-word 'Great.' after the motion to table policy IED/KED; not attributable"
+  },
+  "506": {
+   "name": "Unidentified",
+   "role": "A voice-vote 'Aye'; a collective assent cannot be attributed to one member"
+  },
+  "587": {
+   "name": "Frank Sprague",
+   "role": "Claremont School Board Vice Chair; SAU 6 Board member; CHAIR of the SAU 6 superintendent-evaluation subcommittee (seated tonight, 837.0s) - Chair Hawkins recognises 'Any other comments, Frank.' at 2269.8s immediately before this voice, and asks 'when you look into that for us, frankly [Frank]' at 2821.3s, to which it answers 'I will'. It opens the evaluation report 'One of my first task was to delegate Rocco' (3178.8s) and addresses 'Rocco' at 3440.0s and 3512.9s. It states its own background at 2632.9s: 'in my other life, I was no stranger to 504'. A fragment completing his own sentence ('Whitney did / took the lead'; 'getting back / up to speed') across a 0.00-0.16s gap"
+  },
+  "589": {
+   "name": "Frank Sprague",
+   "role": "Claremont School Board Vice Chair; SAU 6 Board member; CHAIR of the SAU 6 superintendent-evaluation subcommittee (seated tonight, 837.0s) - Chair Hawkins recognises 'Any other comments, Frank.' at 2269.8s immediately before this voice, and asks 'when you look into that for us, frankly [Frank]' at 2821.3s, to which it answers 'I will'. It opens the evaluation report 'One of my first task was to delegate Rocco' (3178.8s) and addresses 'Rocco' at 3440.0s and 3512.9s. It states its own background at 2632.9s: 'in my other life, I was no stranger to 504'. A fragment completing his own sentence ('Whitney did / took the lead'; 'getting back / up to speed') across a 0.00-0.16s gap"
+  },
+  "590": {
+   "name": "Unidentified",
+   "role": "A board member proposing that the superintendent's evaluation include 'review by his subordinates' (3709.8-3723.3s). One sentence split across two diarized clusters. Not Frank Sprague or Rocco Ruggeri, who both speak in the surrounding turns; Michael Petrin is the only male board member present with no anchored voice tonight, but no name is spoken, so this is left unnamed"
+  },
+  "591": {
+   "name": "Unidentified",
+   "role": "A board member proposing that the superintendent's evaluation include 'review by his subordinates' (3709.8-3723.3s). One sentence split across two diarized clusters. Not Frank Sprague or Rocco Ruggeri, who both speak in the surrounding turns; Michael Petrin is the only male board member present with no anchored voice tonight, but no name is spoken, so this is left unnamed"
+  },
+  "592": {
+   "name": "Unidentified",
+   "role": "A board member proposing that the superintendent's evaluation include 'review by his subordinates' (3709.8-3723.3s). One sentence split across two diarized clusters. Not Frank Sprague or Rocco Ruggeri, who both speak in the surrounding turns; Michael Petrin is the only male board member present with no anchored voice tonight, but no name is spoken, so this is left unnamed"
+  },
+  "593": {
+   "name": "Unidentified",
+   "role": "A board member proposing that the superintendent's evaluation include 'review by his subordinates' (3709.8-3723.3s). One sentence split across two diarized clusters. Not Frank Sprague or Rocco Ruggeri, who both speak in the surrounding turns; Michael Petrin is the only male board member present with no anchored voice tonight, but no name is spoken, so this is left unnamed"
+  },
+  "594": {
+   "name": "Unidentified",
+   "role": "A board member proposing that the superintendent's evaluation include 'review by his subordinates' (3709.8-3723.3s). One sentence split across two diarized clusters. Not Frank Sprague or Rocco Ruggeri, who both speak in the surrounding turns; Michael Petrin is the only male board member present with no anchored voice tonight, but no name is spoken, so this is left unnamed"
+  },
+  "603": {
+   "name": "Unidentified",
+   "role": "'No, it looks good.' - the same unanchored voice as the 'review by his subordinates' proposal at 3709.8-3723.3s; not named anywhere in the recording"
+  },
+  "523": {
+   "name": "Frank Sprague",
+   "role": "Claremont School Board Vice Chair; SAU 6 Board member; CHAIR of the SAU 6 superintendent-evaluation subcommittee (seated tonight, 837.0s) - Chair Hawkins recognises 'Any other comments, Frank.' at 2269.8s immediately before this voice, and asks 'when you look into that for us, frankly [Frank]' at 2821.3s, to which it answers 'I will'. It opens the evaluation report 'One of my first task was to delegate Rocco' (3178.8s) and addresses 'Rocco' at 3440.0s and 3512.9s. It states its own background at 2632.9s: 'in my other life, I was no stranger to 504'. MERGED SEGMENT: it opens with Rocco Ruggeri's 'Please do.' before Sprague resumes"
+  },
+  "634": {
+   "name": "Unidentified",
+   "role": "A voice supplying and then withdrawing a retreat date from its own calendar ('I have. Saturday, May 11th.'; 'It's to be determined.'). It sits in Jeff Small's diarized cluster but the content is a board member's; no name is spoken"
+  },
+  "641": {
+   "name": "Unidentified",
+   "role": "A voice supplying and then withdrawing a retreat date from its own calendar ('I have. Saturday, May 11th.'; 'It's to be determined.'). It sits in Jeff Small's diarized cluster but the content is a board member's; no name is spoken"
+  },
+  "105": {
+   "name": "Arlene Hawkins",
+   "role": "SAU 6 Joint Board CHAIR - re-elected tonight, presiding from 140.7s on. The presiding superintendent puts the question 'All in favor of nominating Arlene Hopkins [Hawkins] as [chair of the] Six board chair' at 109.0s; this voice answers 'I feel very, very honored to take this role again' and moves Rocco Ruggeri as vice chair. At 3885.7s: 'these are the reasons I'm very honored to be the chair of this board'. She names herself to the policy subcommittee at 841.7s ('and myself... I've agreed to continue chairing that committee'). MERGED SEGMENT: the chair moves to seal the nonpublic minutes for six months and a seconder's 'Okay. I'll second that' is absorbed at the tail"
+  },
+  "147": {
+   "name": "Arlene Hawkins",
+   "role": "SAU 6 Joint Board CHAIR - re-elected tonight, presiding from 140.7s on. The presiding superintendent puts the question 'All in favor of nominating Arlene Hopkins [Hawkins] as [chair of the] Six board chair' at 109.0s; this voice answers 'I feel very, very honored to take this role again' and moves Rocco Ruggeri as vice chair. At 3885.7s: 'these are the reasons I'm very honored to be the chair of this board'. She names herself to the policy subcommittee at 841.7s ('and myself... I've agreed to continue chairing that committee'). MERGED SEGMENT: the chair hands off to the business administrator and Mary Henry's own opening ('I honestly don't have a lot because it hasn't...') is absorbed at the tail"
+  },
+  "491": {
+   "name": "Arlene Hawkins",
+   "role": "SAU 6 Joint Board CHAIR - re-elected tonight, presiding from 140.7s on. The presiding superintendent puts the question 'All in favor of nominating Arlene Hopkins [Hawkins] as [chair of the] Six board chair' at 109.0s; this voice answers 'I feel very, very honored to take this role again' and moves Rocco Ruggeri as vice chair. At 3885.7s: 'these are the reasons I'm very honored to be the chair of this board'. She names herself to the policy subcommittee at 841.7s ('and myself... I've agreed to continue chairing that committee'). MERGED SEGMENT: it opens with a seconder's 'Second.' before the chair records 'Kelly motion, [Shannon] seconds. Thank you both'"
+  },
+  "653": {
+   "name": "Rocco Ruggeri",
+   "role": "SAU 6 Joint Board VICE CHAIR (elected tonight); Unity School Board member - MERGED CLUSTER. This diarized label carries several male voices; the overrides carry the exceptions. Ruggeri is its dominant voice: Frank Sprague opens the superintendent-evaluation report with 'One of my first task was to delegate Rocco' (3180.96s, 'Rocco' conf 0.89) and this voice immediately gives that report; Sprague addresses 'Rocco' again at 3440.0s and 3512.9s (conf 1.00) while it answers. It speaks for Unity throughout - 'Ours is next week' about the Unity retreat (3922.3s) and the entire Unity-withdrawal report ('our annual town vote', 'asking our town for approval', 4082.7-4158.6s). Chair Hawkins moves his nomination as vice chair at 157.6s. 'Hoping.' 0.00s before his own 'We're hoping that the feedback from the surveys will give us a lot of the future goals' - one sentence split across three clusters"
+  },
+  "655": {
+   "name": "Arlene Hawkins",
+   "role": "SAU 6 Joint Board CHAIR - re-elected tonight, presiding from 140.7s on. The presiding superintendent puts the question 'All in favor of nominating Arlene Hopkins [Hawkins] as [chair of the] Six board chair' at 109.0s; this voice answers 'I feel very, very honored to take this role again' and moves Rocco Ruggeri as vice chair. At 3885.7s: 'these are the reasons I'm very honored to be the chair of this board'. She names herself to the policy subcommittee at 841.7s ('and myself... I've agreed to continue chairing that committee'). 'We can still' 0.00s before her own 'work on the goals we have'; the diarizer split one sentence across two clusters"
+  },
+  "666": {
+   "name": "Arlene Hawkins",
+   "role": "SAU 6 Joint Board CHAIR - re-elected tonight, presiding from 140.7s on. The presiding superintendent puts the question 'All in favor of nominating Arlene Hopkins [Hawkins] as [chair of the] Six board chair' at 109.0s; this voice answers 'I feel very, very honored to take this role again' and moves Rocco Ruggeri as vice chair. At 3885.7s: 'these are the reasons I'm very honored to be the chair of this board'. She names herself to the policy subcommittee at 841.7s ('and myself... I've agreed to continue chairing that committee'). 'This.' inside her own 'whatever you need from us, just / this / board, just know that the board is here', 0.00-0.08s gaps"
+  }
+ }
+}

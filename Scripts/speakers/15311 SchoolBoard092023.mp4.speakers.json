@@ -1,0 +1,848 @@
+{
+ "Speaker 1": {
+  "name": "Unidentified",
+  "role": "Single-word backchannel from the board table during the roll call and the move into nonpublic session - four fragments under 1.2 s of speech each, not separable"
+ },
+ "Speaker 2": {
+  "name": "Candace Crawford",
+  "role": "Claremont School Board member (appointed 7/19/2023) - the presiding chair says 'And Candy' at segment 11 immediately before her three agenda additions, and Tempesta 'your point is a good one, Candice' at 431; gives the SRVRTC Visioning Committee update at 303"
+ },
+ "Speaker 3": {
+  "name": "Frank Sprague",
+  "role": "Vice Chair, Claremont School Board, presiding in Chair Heather Whitney's absence; former principal of Stevens High School - records his own abstention as 'So Frank[enstein's] [abstains], for [four] ice [ayes]' at segment 20, is addressed as 'Frank' by the business administrator (228) and by a board member (309), and says at 477 'I'll let Chair Whitney do that when she comes back'. The Speaker 3 cluster also carries Superintendent Michael Tempesta and roll-caller Ben Nester; the separable turns are reassigned"
+ },
+ "Speaker 4": {
+  "name": "Arlene Hawkins",
+  "role": "Claremont School Board member (elected 3/14/2023) and SAU 6 Board chair - the presiding chair says 'Mrs. Hawkins showed me an article today' at 77 and 'Arlene, I'm going to let you open this up' at 386; Jennifer Gallagher cites 'that section that Arlene just read' at 83 and Tempesta 'I agree with Arlene' at 402. Delivers the policy-subcommittee first read in Whitney Skillen's absence and moves to postpone the minimum-standards listening session. The Speaker 4 cluster also carries Mary Henry and Bonnie Miles; their separable turns are reassigned, but in mixed stretches Hawkins and Miles are not separable"
+ },
+ "Speaker 5": {
+  "name": "Jennifer Gallagher",
+  "role": "Claremont School Board member (elected 3/14/2023, one-year seat) - the presiding chair calls on 'Jen' at segment 305 before her ad-hoc disruptive-behaviour subcommittee report, and on the same voice at 294 (curriculum) and 477 (ASR 'John'); says at 503 her own children attend Maple Avenue"
+ },
+ "Speaker 6": {
+  "name": "Ben Nester",
+  "role": "Director of Special Education, SAU 6 and the board's de facto roll-caller - the presiding chair asks 'Mr. Nestor, could you do a roll call' at segments 5, 38 and 53 (the district clerk seat is vacant); answers the pre-K staffing, enrollment and service-obligation questions"
+ },
+ "Speaker 7": {
+  "name": "Mike Koski",
+  "role": "Assistant Superintendent, SAU 6 - Candace Crawford asks a 'follow up question for Mr. Kosky' at segment 150 and this voice answers at 151; Tempesta credits 'what Mr. Kosky said' at 166 and 'Mr. Kosky and Kat' at 174"
+ },
+ "Speaker 8": {
+  "name": "Frank Sprague",
+  "role": "Vice Chair, Claremont School Board, presiding - a fragment cluster the diarizer split off the presiding chair's own sentences ('I love / this stuff', 'Regarding', 'CTE programing'); two of its seven segments belong to Bonnie Miles and are reassigned"
+ },
+ "Speaker 9": {
+  "name": "Arlene Hawkins",
+  "role": "Claremont School Board member and member of the Policy Subcommittee - delivers the first read of policy GBP; the same voice the diarizer also calls Speaker 4, split off mid-sentence (segment 343 runs with no gap into segment 344, and 313 into 314). Whitney Skillen, who chairs Policy, is absent"
+ },
+ "Speaker 10": {
+  "name": "Unidentified",
+  "role": "Claremont School Board member questioning the city athletic-fields MOU - who signs it, whether it runs from this year, what the $30,000 buys, the labor of lining and lighting the fields, and the SRO as a precedent for paying the city. A voice the diarizer spawns only for this five-minute stretch (segments 336-374). The facilities content fits Bonnie Miles and Jennifer Gallagher is silent throughout the stretch, but nobody names the speaker and the cluster cannot be tied to either"
+ },
+ "Speaker 11": {
+  "name": "Michael Tempesta",
+  "role": "Superintendent of Schools, SAU 6 - recognized as 'Mr. Tempesta' at segment 86 immediately before the Superintendent's Report and named again by Arlene Hawkins at 387; says at 420 he was 'deposed for the lawsuit' and at 399 (as Speaker 11) that he 'was in another state' during the 2012 competency rollout. Diarized inside the presiding chair's cluster (Speaker 3) and again as Speaker 11"
+ },
+ "Speaker 12": {
+  "name": "Unidentified",
+  "role": "Voice at the board table on embedded credits and who may award high school credit during the Ed 306 minimum-standards discussion (segments 407 and 409). Segment 409 runs with no gap into an Arlene Hawkins segment, so this is probably Hawkins, but the boundary is equally consistent with her onset absorbing another member's close; not separable"
+ },
+ "__overrides__": {
+  "4": {
+   "name": "Unidentified",
+   "role": "The room reciting the Pledge of Allegiance in unison"
+  },
+  "40": {
+   "name": "Bonnie Miles",
+   "role": "Claremont School Board member - her roll-call answer, placed by position in the sequence (Whitney, Sprague, Miles, Skillen, Gallagher, Hawkins, Crawford, with Whitney and Skillen absent); nobody speaks her name here"
+  },
+  "41": {
+   "name": "Ben Nester",
+   "role": "Director of Special Education, SAU 6 - reading the roll at the presiding chair's request; the members' one-word answers are absorbed at the segment edges"
+  },
+  "42": {
+   "name": "Unidentified",
+   "role": "Roll call - the roll-caller's name-reading and two or three members' one-word answers merged into a single segment of under four seconds; the individual voices are not separable"
+  },
+  "43": {
+   "name": "Ben Nester",
+   "role": "Director of Special Education, SAU 6 - reading the roll at the presiding chair's request; the members' one-word answers are absorbed at the segment edges"
+  },
+  "44": {
+   "name": "Unidentified",
+   "role": "Roll call - the roll-caller's name-reading and two or three members' one-word answers merged into a single segment of under four seconds; the individual voices are not separable"
+  },
+  "50": {
+   "name": "Unidentified",
+   "role": "Voice at the recording desk marking the return to public session after the nonpublic; not identified on the recording"
+  },
+  "54": {
+   "name": "Ben Nester",
+   "role": "Director of Special Education, SAU 6 - reading the roll at the presiding chair's request; the members' one-word answers are absorbed at the segment edges"
+  },
+  "55": {
+   "name": "Ben Nester",
+   "role": "Director of Special Education, SAU 6 - reading the roll at the presiding chair's request; the members' one-word answers are absorbed at the segment edges"
+  },
+  "56": {
+   "name": "Bonnie Miles",
+   "role": "Claremont School Board member - her roll-call answer, placed by position in the sequence (Whitney, Sprague, Miles, Skillen, Gallagher, Hawkins, Crawford, with Whitney and Skillen absent); nobody speaks her name here"
+  },
+  "57": {
+   "name": "Ben Nester",
+   "role": "Director of Special Education, SAU 6 - reading the roll at the presiding chair's request; the members' one-word answers are absorbed at the segment edges"
+  },
+  "58": {
+   "name": "Jennifer Gallagher",
+   "role": "Claremont School Board member - her roll-call answer, immediately after the roll-caller reads 'Miss Gillen [Skillen]. Gallagher.'"
+  },
+  "59": {
+   "name": "Ben Nester",
+   "role": "Director of Special Education, SAU 6 - reading the roll at the presiding chair's request; the members' one-word answers are absorbed at the segment edges"
+  },
+  "61": {
+   "name": "Ben Nester",
+   "role": "Director of Special Education, SAU 6 - reading the roll at the presiding chair's request; the members' one-word answers are absorbed at the segment edges"
+  },
+  "62": {
+   "name": "Candace Crawford",
+   "role": "Claremont School Board member - her roll-call answer, immediately after the roll-caller reads 'And is Crawford?'"
+  },
+  "69": {
+   "name": "Bonnie Miles",
+   "role": "Claremont School Board member - her roll-call answer, placed by position in the sequence (Whitney, Sprague, Miles, Skillen, Gallagher, Hawkins, Crawford, with Whitney and Skillen absent); nobody speaks her name here"
+  },
+  "70": {
+   "name": "Ben Nester",
+   "role": "Director of Special Education, SAU 6 - reading the roll at the presiding chair's request; the members' one-word answers are absorbed at the segment edges"
+  },
+  "71": {
+   "name": "Unidentified",
+   "role": "Roll call - the roll-caller's name-reading and two or three members' one-word answers merged into a single segment of under four seconds; the individual voices are not separable"
+  },
+  "82": {
+   "name": "Michael Tempesta",
+   "role": "Superintendent of Schools, SAU 6 - recognized as 'Mr. Tempesta' at segment 86 immediately before the Superintendent's Report and named again by Arlene Hawkins at 387; says at 420 he was 'deposed for the lawsuit' and at 399 (as Speaker 11) that he 'was in another state' during the 2012 competency rollout. Diarized inside the presiding chair's cluster (Speaker 3) and again as Speaker 11"
+  },
+  "84": {
+   "name": "Michael Tempesta",
+   "role": "Superintendent of Schools, SAU 6 - recognized as 'Mr. Tempesta' at segment 86 immediately before the Superintendent's Report and named again by Arlene Hawkins at 387; says at 420 he was 'deposed for the lawsuit' and at 399 (as Speaker 11) that he 'was in another state' during the 2012 competency rollout. Diarized inside the presiding chair's cluster (Speaker 3) and again as Speaker 11"
+  },
+  "87": {
+   "name": "Michael Tempesta",
+   "role": "Superintendent of Schools, SAU 6 - recognized as 'Mr. Tempesta' at segment 86 immediately before the Superintendent's Report and named again by Arlene Hawkins at 387; says at 420 he was 'deposed for the lawsuit' and at 399 (as Speaker 11) that he 'was in another state' during the 2012 competency rollout. Diarized inside the presiding chair's cluster (Speaker 3) and again as Speaker 11"
+  },
+  "88": {
+   "name": "Michael Tempesta",
+   "role": "Superintendent of Schools, SAU 6 - recognized as 'Mr. Tempesta' at segment 86 immediately before the Superintendent's Report and named again by Arlene Hawkins at 387; says at 420 he was 'deposed for the lawsuit' and at 399 (as Speaker 11) that he 'was in another state' during the 2012 competency rollout. Diarized inside the presiding chair's cluster (Speaker 3) and again as Speaker 11"
+  },
+  "89": {
+   "name": "Michael Tempesta",
+   "role": "Superintendent of Schools, SAU 6 - recognized as 'Mr. Tempesta' at segment 86 immediately before the Superintendent's Report and named again by Arlene Hawkins at 387; says at 420 he was 'deposed for the lawsuit' and at 399 (as Speaker 11) that he 'was in another state' during the 2012 competency rollout. Diarized inside the presiding chair's cluster (Speaker 3) and again as Speaker 11"
+  },
+  "90": {
+   "name": "Michael Tempesta",
+   "role": "Superintendent of Schools, SAU 6 - recognized as 'Mr. Tempesta' at segment 86 immediately before the Superintendent's Report and named again by Arlene Hawkins at 387; says at 420 he was 'deposed for the lawsuit' and at 399 (as Speaker 11) that he 'was in another state' during the 2012 competency rollout. Diarized inside the presiding chair's cluster (Speaker 3) and again as Speaker 11"
+  },
+  "91": {
+   "name": "Michael Tempesta",
+   "role": "Superintendent of Schools, SAU 6 - recognized as 'Mr. Tempesta' at segment 86 immediately before the Superintendent's Report and named again by Arlene Hawkins at 387; says at 420 he was 'deposed for the lawsuit' and at 399 (as Speaker 11) that he 'was in another state' during the 2012 competency rollout. Diarized inside the presiding chair's cluster (Speaker 3) and again as Speaker 11"
+  },
+  "93": {
+   "name": "Michael Tempesta",
+   "role": "Superintendent of Schools, SAU 6 - recognized as 'Mr. Tempesta' at segment 86 immediately before the Superintendent's Report and named again by Arlene Hawkins at 387; says at 420 he was 'deposed for the lawsuit' and at 399 (as Speaker 11) that he 'was in another state' during the 2012 competency rollout. Diarized inside the presiding chair's cluster (Speaker 3) and again as Speaker 11"
+  },
+  "94": {
+   "name": "Michael Tempesta",
+   "role": "Superintendent of Schools, SAU 6 - recognized as 'Mr. Tempesta' at segment 86 immediately before the Superintendent's Report and named again by Arlene Hawkins at 387; says at 420 he was 'deposed for the lawsuit' and at 399 (as Speaker 11) that he 'was in another state' during the 2012 competency rollout. Diarized inside the presiding chair's cluster (Speaker 3) and again as Speaker 11"
+  },
+  "95": {
+   "name": "Michael Tempesta",
+   "role": "Superintendent of Schools, SAU 6 - recognized as 'Mr. Tempesta' at segment 86 immediately before the Superintendent's Report and named again by Arlene Hawkins at 387; says at 420 he was 'deposed for the lawsuit' and at 399 (as Speaker 11) that he 'was in another state' during the 2012 competency rollout. Diarized inside the presiding chair's cluster (Speaker 3) and again as Speaker 11"
+  },
+  "97": {
+   "name": "Michael Tempesta",
+   "role": "Superintendent of Schools, SAU 6 - recognized as 'Mr. Tempesta' at segment 86 immediately before the Superintendent's Report and named again by Arlene Hawkins at 387; says at 420 he was 'deposed for the lawsuit' and at 399 (as Speaker 11) that he 'was in another state' during the 2012 competency rollout. Diarized inside the presiding chair's cluster (Speaker 3) and again as Speaker 11"
+  },
+  "100": {
+   "name": "Michael Tempesta",
+   "role": "Superintendent of Schools, SAU 6 - recognized as 'Mr. Tempesta' at segment 86 immediately before the Superintendent's Report and named again by Arlene Hawkins at 387; says at 420 he was 'deposed for the lawsuit' and at 399 (as Speaker 11) that he 'was in another state' during the 2012 competency rollout. Diarized inside the presiding chair's cluster (Speaker 3) and again as Speaker 11"
+  },
+  "102": {
+   "name": "Michael Tempesta",
+   "role": "Superintendent of Schools, SAU 6 - recognized as 'Mr. Tempesta' at segment 86 immediately before the Superintendent's Report and named again by Arlene Hawkins at 387; says at 420 he was 'deposed for the lawsuit' and at 399 (as Speaker 11) that he 'was in another state' during the 2012 competency rollout. Diarized inside the presiding chair's cluster (Speaker 3) and again as Speaker 11"
+  },
+  "104": {
+   "name": "Michael Tempesta",
+   "role": "Superintendent of Schools, SAU 6 - recognized as 'Mr. Tempesta' at segment 86 immediately before the Superintendent's Report and named again by Arlene Hawkins at 387; says at 420 he was 'deposed for the lawsuit' and at 399 (as Speaker 11) that he 'was in another state' during the 2012 competency rollout. Diarized inside the presiding chair's cluster (Speaker 3) and again as Speaker 11"
+  },
+  "107": {
+   "name": "Michael Tempesta",
+   "role": "Superintendent of Schools, SAU 6 - recognized as 'Mr. Tempesta' at segment 86 immediately before the Superintendent's Report and named again by Arlene Hawkins at 387; says at 420 he was 'deposed for the lawsuit' and at 399 (as Speaker 11) that he 'was in another state' during the 2012 competency rollout. Diarized inside the presiding chair's cluster (Speaker 3) and again as Speaker 11"
+  },
+  "109": {
+   "name": "Michael Tempesta",
+   "role": "Superintendent of Schools, SAU 6 - recognized as 'Mr. Tempesta' at segment 86 immediately before the Superintendent's Report and named again by Arlene Hawkins at 387; says at 420 he was 'deposed for the lawsuit' and at 399 (as Speaker 11) that he 'was in another state' during the 2012 competency rollout. Diarized inside the presiding chair's cluster (Speaker 3) and again as Speaker 11"
+  },
+  "112": {
+   "name": "Michael Tempesta",
+   "role": "Superintendent of Schools, SAU 6 - recognized as 'Mr. Tempesta' at segment 86 immediately before the Superintendent's Report and named again by Arlene Hawkins at 387; says at 420 he was 'deposed for the lawsuit' and at 399 (as Speaker 11) that he 'was in another state' during the 2012 competency rollout. Diarized inside the presiding chair's cluster (Speaker 3) and again as Speaker 11"
+  },
+  "118": {
+   "name": "Michael Tempesta",
+   "role": "Superintendent of Schools, SAU 6 - recognized as 'Mr. Tempesta' at segment 86 immediately before the Superintendent's Report and named again by Arlene Hawkins at 387; says at 420 he was 'deposed for the lawsuit' and at 399 (as Speaker 11) that he 'was in another state' during the 2012 competency rollout. Diarized inside the presiding chair's cluster (Speaker 3) and again as Speaker 11"
+  },
+  "121": {
+   "name": "Michael Tempesta",
+   "role": "Superintendent of Schools, SAU 6 - recognized as 'Mr. Tempesta' at segment 86 immediately before the Superintendent's Report and named again by Arlene Hawkins at 387; says at 420 he was 'deposed for the lawsuit' and at 399 (as Speaker 11) that he 'was in another state' during the 2012 competency rollout. Diarized inside the presiding chair's cluster (Speaker 3) and again as Speaker 11"
+  },
+  "127": {
+   "name": "Michael Tempesta",
+   "role": "Superintendent of Schools, SAU 6 - recognized as 'Mr. Tempesta' at segment 86 immediately before the Superintendent's Report and named again by Arlene Hawkins at 387; says at 420 he was 'deposed for the lawsuit' and at 399 (as Speaker 11) that he 'was in another state' during the 2012 competency rollout. Diarized inside the presiding chair's cluster (Speaker 3) and again as Speaker 11"
+  },
+  "128": {
+   "name": "Michael Tempesta",
+   "role": "Superintendent of Schools, SAU 6 - recognized as 'Mr. Tempesta' at segment 86 immediately before the Superintendent's Report and named again by Arlene Hawkins at 387; says at 420 he was 'deposed for the lawsuit' and at 399 (as Speaker 11) that he 'was in another state' during the 2012 competency rollout. Diarized inside the presiding chair's cluster (Speaker 3) and again as Speaker 11"
+  },
+  "129": {
+   "name": "Michael Tempesta",
+   "role": "Superintendent of Schools, SAU 6 - recognized as 'Mr. Tempesta' at segment 86 immediately before the Superintendent's Report and named again by Arlene Hawkins at 387; says at 420 he was 'deposed for the lawsuit' and at 399 (as Speaker 11) that he 'was in another state' during the 2012 competency rollout. Diarized inside the presiding chair's cluster (Speaker 3) and again as Speaker 11"
+  },
+  "130": {
+   "name": "Michael Tempesta",
+   "role": "Superintendent of Schools, SAU 6 - recognized as 'Mr. Tempesta' at segment 86 immediately before the Superintendent's Report and named again by Arlene Hawkins at 387; says at 420 he was 'deposed for the lawsuit' and at 399 (as Speaker 11) that he 'was in another state' during the 2012 competency rollout. Diarized inside the presiding chair's cluster (Speaker 3) and again as Speaker 11"
+  },
+  "132": {
+   "name": "Michael Tempesta",
+   "role": "Superintendent of Schools, SAU 6 - recognized as 'Mr. Tempesta' at segment 86 immediately before the Superintendent's Report and named again by Arlene Hawkins at 387; says at 420 he was 'deposed for the lawsuit' and at 399 (as Speaker 11) that he 'was in another state' during the 2012 competency rollout. Diarized inside the presiding chair's cluster (Speaker 3) and again as Speaker 11"
+  },
+  "135": {
+   "name": "Michael Tempesta",
+   "role": "Superintendent of Schools, SAU 6 - recognized as 'Mr. Tempesta' at segment 86 immediately before the Superintendent's Report and named again by Arlene Hawkins at 387; says at 420 he was 'deposed for the lawsuit' and at 399 (as Speaker 11) that he 'was in another state' during the 2012 competency rollout. Diarized inside the presiding chair's cluster (Speaker 3) and again as Speaker 11"
+  },
+  "137": {
+   "name": "Michael Tempesta",
+   "role": "Superintendent of Schools, SAU 6 - recognized as 'Mr. Tempesta' at segment 86 immediately before the Superintendent's Report and named again by Arlene Hawkins at 387; says at 420 he was 'deposed for the lawsuit' and at 399 (as Speaker 11) that he 'was in another state' during the 2012 competency rollout. Diarized inside the presiding chair's cluster (Speaker 3) and again as Speaker 11"
+  },
+  "139": {
+   "name": "Michael Tempesta",
+   "role": "Superintendent of Schools, SAU 6 - recognized as 'Mr. Tempesta' at segment 86 immediately before the Superintendent's Report and named again by Arlene Hawkins at 387; says at 420 he was 'deposed for the lawsuit' and at 399 (as Speaker 11) that he 'was in another state' during the 2012 competency rollout. Diarized inside the presiding chair's cluster (Speaker 3) and again as Speaker 11"
+  },
+  "141": {
+   "name": "Michael Tempesta",
+   "role": "Superintendent of Schools, SAU 6 - recognized as 'Mr. Tempesta' at segment 86 immediately before the Superintendent's Report and named again by Arlene Hawkins at 387; says at 420 he was 'deposed for the lawsuit' and at 399 (as Speaker 11) that he 'was in another state' during the 2012 competency rollout. Diarized inside the presiding chair's cluster (Speaker 3) and again as Speaker 11"
+  },
+  "155": {
+   "name": "Michael Tempesta",
+   "role": "Superintendent of Schools, SAU 6 - recognized as 'Mr. Tempesta' at segment 86 immediately before the Superintendent's Report and named again by Arlene Hawkins at 387; says at 420 he was 'deposed for the lawsuit' and at 399 (as Speaker 11) that he 'was in another state' during the 2012 competency rollout. Diarized inside the presiding chair's cluster (Speaker 3) and again as Speaker 11"
+  },
+  "157": {
+   "name": "Michael Tempesta",
+   "role": "Superintendent of Schools, SAU 6 - recognized as 'Mr. Tempesta' at segment 86 immediately before the Superintendent's Report and named again by Arlene Hawkins at 387; says at 420 he was 'deposed for the lawsuit' and at 399 (as Speaker 11) that he 'was in another state' during the 2012 competency rollout. Diarized inside the presiding chair's cluster (Speaker 3) and again as Speaker 11"
+  },
+  "166": {
+   "name": "Michael Tempesta",
+   "role": "Superintendent of Schools, SAU 6 - recognized as 'Mr. Tempesta' at segment 86 immediately before the Superintendent's Report and named again by Arlene Hawkins at 387; says at 420 he was 'deposed for the lawsuit' and at 399 (as Speaker 11) that he 'was in another state' during the 2012 competency rollout. Diarized inside the presiding chair's cluster (Speaker 3) and again as Speaker 11"
+  },
+  "167": {
+   "name": "Michael Tempesta",
+   "role": "Superintendent of Schools, SAU 6 - recognized as 'Mr. Tempesta' at segment 86 immediately before the Superintendent's Report and named again by Arlene Hawkins at 387; says at 420 he was 'deposed for the lawsuit' and at 399 (as Speaker 11) that he 'was in another state' during the 2012 competency rollout. Diarized inside the presiding chair's cluster (Speaker 3) and again as Speaker 11"
+  },
+  "169": {
+   "name": "Michael Tempesta",
+   "role": "Superintendent of Schools, SAU 6 - recognized as 'Mr. Tempesta' at segment 86 immediately before the Superintendent's Report and named again by Arlene Hawkins at 387; says at 420 he was 'deposed for the lawsuit' and at 399 (as Speaker 11) that he 'was in another state' during the 2012 competency rollout. Diarized inside the presiding chair's cluster (Speaker 3) and again as Speaker 11"
+  },
+  "171": {
+   "name": "Michael Tempesta",
+   "role": "Superintendent of Schools, SAU 6 - recognized as 'Mr. Tempesta' at segment 86 immediately before the Superintendent's Report and named again by Arlene Hawkins at 387; says at 420 he was 'deposed for the lawsuit' and at 399 (as Speaker 11) that he 'was in another state' during the 2012 competency rollout. Diarized inside the presiding chair's cluster (Speaker 3) and again as Speaker 11"
+  },
+  "174": {
+   "name": "Michael Tempesta",
+   "role": "Superintendent of Schools, SAU 6 - recognized as 'Mr. Tempesta' at segment 86 immediately before the Superintendent's Report and named again by Arlene Hawkins at 387; says at 420 he was 'deposed for the lawsuit' and at 399 (as Speaker 11) that he 'was in another state' during the 2012 competency rollout. Diarized inside the presiding chair's cluster (Speaker 3) and again as Speaker 11"
+  },
+  "175": {
+   "name": "Michael Tempesta",
+   "role": "Superintendent of Schools, SAU 6 - recognized as 'Mr. Tempesta' at segment 86 immediately before the Superintendent's Report and named again by Arlene Hawkins at 387; says at 420 he was 'deposed for the lawsuit' and at 399 (as Speaker 11) that he 'was in another state' during the 2012 competency rollout. Diarized inside the presiding chair's cluster (Speaker 3) and again as Speaker 11"
+  },
+  "176": {
+   "name": "Michael Tempesta",
+   "role": "Superintendent of Schools, SAU 6 - recognized as 'Mr. Tempesta' at segment 86 immediately before the Superintendent's Report and named again by Arlene Hawkins at 387; says at 420 he was 'deposed for the lawsuit' and at 399 (as Speaker 11) that he 'was in another state' during the 2012 competency rollout. Diarized inside the presiding chair's cluster (Speaker 3) and again as Speaker 11"
+  },
+  "177": {
+   "name": "Michael Tempesta",
+   "role": "Superintendent of Schools, SAU 6 - recognized as 'Mr. Tempesta' at segment 86 immediately before the Superintendent's Report and named again by Arlene Hawkins at 387; says at 420 he was 'deposed for the lawsuit' and at 399 (as Speaker 11) that he 'was in another state' during the 2012 competency rollout. Diarized inside the presiding chair's cluster (Speaker 3) and again as Speaker 11"
+  },
+  "178": {
+   "name": "Michael Tempesta",
+   "role": "Superintendent of Schools, SAU 6 - recognized as 'Mr. Tempesta' at segment 86 immediately before the Superintendent's Report and named again by Arlene Hawkins at 387; says at 420 he was 'deposed for the lawsuit' and at 399 (as Speaker 11) that he 'was in another state' during the 2012 competency rollout. Diarized inside the presiding chair's cluster (Speaker 3) and again as Speaker 11"
+  },
+  "179": {
+   "name": "Michael Tempesta",
+   "role": "Superintendent of Schools, SAU 6 - recognized as 'Mr. Tempesta' at segment 86 immediately before the Superintendent's Report and named again by Arlene Hawkins at 387; says at 420 he was 'deposed for the lawsuit' and at 399 (as Speaker 11) that he 'was in another state' during the 2012 competency rollout. Diarized inside the presiding chair's cluster (Speaker 3) and again as Speaker 11"
+  },
+  "180": {
+   "name": "Michael Tempesta",
+   "role": "Superintendent of Schools, SAU 6 - recognized as 'Mr. Tempesta' at segment 86 immediately before the Superintendent's Report and named again by Arlene Hawkins at 387; says at 420 he was 'deposed for the lawsuit' and at 399 (as Speaker 11) that he 'was in another state' during the 2012 competency rollout. Diarized inside the presiding chair's cluster (Speaker 3) and again as Speaker 11"
+  },
+  "181": {
+   "name": "Michael Tempesta",
+   "role": "Superintendent of Schools, SAU 6 - recognized as 'Mr. Tempesta' at segment 86 immediately before the Superintendent's Report and named again by Arlene Hawkins at 387; says at 420 he was 'deposed for the lawsuit' and at 399 (as Speaker 11) that he 'was in another state' during the 2012 competency rollout. Diarized inside the presiding chair's cluster (Speaker 3) and again as Speaker 11"
+  },
+  "184": {
+   "name": "Michael Tempesta",
+   "role": "Superintendent of Schools, SAU 6 - recognized as 'Mr. Tempesta' at segment 86 immediately before the Superintendent's Report and named again by Arlene Hawkins at 387; says at 420 he was 'deposed for the lawsuit' and at 399 (as Speaker 11) that he 'was in another state' during the 2012 competency rollout. Diarized inside the presiding chair's cluster (Speaker 3) and again as Speaker 11"
+  },
+  "185": {
+   "name": "Michael Tempesta",
+   "role": "Superintendent of Schools, SAU 6 - recognized as 'Mr. Tempesta' at segment 86 immediately before the Superintendent's Report and named again by Arlene Hawkins at 387; says at 420 he was 'deposed for the lawsuit' and at 399 (as Speaker 11) that he 'was in another state' during the 2012 competency rollout. Diarized inside the presiding chair's cluster (Speaker 3) and again as Speaker 11"
+  },
+  "186": {
+   "name": "Michael Tempesta",
+   "role": "Superintendent of Schools, SAU 6 - recognized as 'Mr. Tempesta' at segment 86 immediately before the Superintendent's Report and named again by Arlene Hawkins at 387; says at 420 he was 'deposed for the lawsuit' and at 399 (as Speaker 11) that he 'was in another state' during the 2012 competency rollout. Diarized inside the presiding chair's cluster (Speaker 3) and again as Speaker 11"
+  },
+  "189": {
+   "name": "Mary Henry",
+   "role": "Business Administrator, Claremont School District / SAU 6 - presents the FY23 fund-balance update and the school tax-rate walkthrough (MS-22R, MS-24R, adequacy aid, SWEPT), says 'I'm sorry Frank' at 228, and answers on the missed payroll and vendor accounts; the presiding chair notes at segment 22 that 'Mrs. Henry can't stay with us for the whole evening'"
+  },
+  "190": {
+   "name": "Mary Henry",
+   "role": "Business Administrator, Claremont School District / SAU 6 - presents the FY23 fund-balance update and the school tax-rate walkthrough (MS-22R, MS-24R, adequacy aid, SWEPT), says 'I'm sorry Frank' at 228, and answers on the missed payroll and vendor accounts; the presiding chair notes at segment 22 that 'Mrs. Henry can't stay with us for the whole evening'"
+  },
+  "191": {
+   "name": "Mary Henry",
+   "role": "Business Administrator, Claremont School District / SAU 6 - presents the FY23 fund-balance update and the school tax-rate walkthrough (MS-22R, MS-24R, adequacy aid, SWEPT), says 'I'm sorry Frank' at 228, and answers on the missed payroll and vendor accounts; the presiding chair notes at segment 22 that 'Mrs. Henry can't stay with us for the whole evening'"
+  },
+  "192": {
+   "name": "Mary Henry",
+   "role": "Business Administrator, Claremont School District / SAU 6 - presents the FY23 fund-balance update and the school tax-rate walkthrough (MS-22R, MS-24R, adequacy aid, SWEPT), says 'I'm sorry Frank' at 228, and answers on the missed payroll and vendor accounts; the presiding chair notes at segment 22 that 'Mrs. Henry can't stay with us for the whole evening'"
+  },
+  "194": {
+   "name": "Mary Henry",
+   "role": "Business Administrator, Claremont School District / SAU 6 - presents the FY23 fund-balance update and the school tax-rate walkthrough (MS-22R, MS-24R, adequacy aid, SWEPT), says 'I'm sorry Frank' at 228, and answers on the missed payroll and vendor accounts; the presiding chair notes at segment 22 that 'Mrs. Henry can't stay with us for the whole evening'"
+  },
+  "197": {
+   "name": "Frank Sprague",
+   "role": "Vice Chair, Claremont School Board, presiding in Chair Heather Whitney's absence; former principal of Stevens High School - records his own abstention as 'So Frank[enstein's] [abstains], for [four] ice [ayes]' at segment 20, is addressed as 'Frank' by the business administrator (228) and by a board member (309), and says at 477 'I'll let Chair Whitney do that when she comes back'. The Speaker 3 cluster also carries Superintendent Michael Tempesta and roll-caller Ben Nester; the separable turns are reassigned"
+  },
+  "198": {
+   "name": "Mary Henry",
+   "role": "Business Administrator, Claremont School District / SAU 6 - presents the FY23 fund-balance update and the school tax-rate walkthrough (MS-22R, MS-24R, adequacy aid, SWEPT), says 'I'm sorry Frank' at 228, and answers on the missed payroll and vendor accounts; the presiding chair notes at segment 22 that 'Mrs. Henry can't stay with us for the whole evening'"
+  },
+  "200": {
+   "name": "Mary Henry",
+   "role": "Business Administrator, Claremont School District / SAU 6 - presents the FY23 fund-balance update and the school tax-rate walkthrough (MS-22R, MS-24R, adequacy aid, SWEPT), says 'I'm sorry Frank' at 228, and answers on the missed payroll and vendor accounts; the presiding chair notes at segment 22 that 'Mrs. Henry can't stay with us for the whole evening'"
+  },
+  "201": {
+   "name": "Mary Henry",
+   "role": "Business Administrator, Claremont School District / SAU 6 - presents the FY23 fund-balance update and the school tax-rate walkthrough (MS-22R, MS-24R, adequacy aid, SWEPT), says 'I'm sorry Frank' at 228, and answers on the missed payroll and vendor accounts; the presiding chair notes at segment 22 that 'Mrs. Henry can't stay with us for the whole evening'"
+  },
+  "202": {
+   "name": "Mary Henry",
+   "role": "Business Administrator, Claremont School District / SAU 6 - presents the FY23 fund-balance update and the school tax-rate walkthrough (MS-22R, MS-24R, adequacy aid, SWEPT), says 'I'm sorry Frank' at 228, and answers on the missed payroll and vendor accounts; the presiding chair notes at segment 22 that 'Mrs. Henry can't stay with us for the whole evening'"
+  },
+  "203": {
+   "name": "Mary Henry",
+   "role": "Business Administrator, Claremont School District / SAU 6 - presents the FY23 fund-balance update and the school tax-rate walkthrough (MS-22R, MS-24R, adequacy aid, SWEPT), says 'I'm sorry Frank' at 228, and answers on the missed payroll and vendor accounts; the presiding chair notes at segment 22 that 'Mrs. Henry can't stay with us for the whole evening'"
+  },
+  "204": {
+   "name": "Mary Henry",
+   "role": "Business Administrator, Claremont School District / SAU 6 - presents the FY23 fund-balance update and the school tax-rate walkthrough (MS-22R, MS-24R, adequacy aid, SWEPT), says 'I'm sorry Frank' at 228, and answers on the missed payroll and vendor accounts; the presiding chair notes at segment 22 that 'Mrs. Henry can't stay with us for the whole evening'"
+  },
+  "205": {
+   "name": "Mary Henry",
+   "role": "Business Administrator, Claremont School District / SAU 6 - presents the FY23 fund-balance update and the school tax-rate walkthrough (MS-22R, MS-24R, adequacy aid, SWEPT), says 'I'm sorry Frank' at 228, and answers on the missed payroll and vendor accounts; the presiding chair notes at segment 22 that 'Mrs. Henry can't stay with us for the whole evening'"
+  },
+  "206": {
+   "name": "Mary Henry",
+   "role": "Business Administrator, Claremont School District / SAU 6 - presents the FY23 fund-balance update and the school tax-rate walkthrough (MS-22R, MS-24R, adequacy aid, SWEPT), says 'I'm sorry Frank' at 228, and answers on the missed payroll and vendor accounts; the presiding chair notes at segment 22 that 'Mrs. Henry can't stay with us for the whole evening'"
+  },
+  "207": {
+   "name": "Mary Henry",
+   "role": "Business Administrator, Claremont School District / SAU 6 - presents the FY23 fund-balance update and the school tax-rate walkthrough (MS-22R, MS-24R, adequacy aid, SWEPT), says 'I'm sorry Frank' at 228, and answers on the missed payroll and vendor accounts; the presiding chair notes at segment 22 that 'Mrs. Henry can't stay with us for the whole evening'"
+  },
+  "208": {
+   "name": "Mary Henry",
+   "role": "Business Administrator, Claremont School District / SAU 6 - presents the FY23 fund-balance update and the school tax-rate walkthrough (MS-22R, MS-24R, adequacy aid, SWEPT), says 'I'm sorry Frank' at 228, and answers on the missed payroll and vendor accounts; the presiding chair notes at segment 22 that 'Mrs. Henry can't stay with us for the whole evening'"
+  },
+  "209": {
+   "name": "Mary Henry",
+   "role": "Business Administrator, Claremont School District / SAU 6 - presents the FY23 fund-balance update and the school tax-rate walkthrough (MS-22R, MS-24R, adequacy aid, SWEPT), says 'I'm sorry Frank' at 228, and answers on the missed payroll and vendor accounts; the presiding chair notes at segment 22 that 'Mrs. Henry can't stay with us for the whole evening'"
+  },
+  "210": {
+   "name": "Mary Henry",
+   "role": "Business Administrator, Claremont School District / SAU 6 - presents the FY23 fund-balance update and the school tax-rate walkthrough (MS-22R, MS-24R, adequacy aid, SWEPT), says 'I'm sorry Frank' at 228, and answers on the missed payroll and vendor accounts; the presiding chair notes at segment 22 that 'Mrs. Henry can't stay with us for the whole evening'"
+  },
+  "211": {
+   "name": "Mary Henry",
+   "role": "Business Administrator, Claremont School District / SAU 6 - presents the FY23 fund-balance update and the school tax-rate walkthrough (MS-22R, MS-24R, adequacy aid, SWEPT), says 'I'm sorry Frank' at 228, and answers on the missed payroll and vendor accounts; the presiding chair notes at segment 22 that 'Mrs. Henry can't stay with us for the whole evening'"
+  },
+  "212": {
+   "name": "Mary Henry",
+   "role": "Business Administrator, Claremont School District / SAU 6 - presents the FY23 fund-balance update and the school tax-rate walkthrough (MS-22R, MS-24R, adequacy aid, SWEPT), says 'I'm sorry Frank' at 228, and answers on the missed payroll and vendor accounts; the presiding chair notes at segment 22 that 'Mrs. Henry can't stay with us for the whole evening'"
+  },
+  "213": {
+   "name": "Mary Henry",
+   "role": "Business Administrator, Claremont School District / SAU 6 - presents the FY23 fund-balance update and the school tax-rate walkthrough (MS-22R, MS-24R, adequacy aid, SWEPT), says 'I'm sorry Frank' at 228, and answers on the missed payroll and vendor accounts; the presiding chair notes at segment 22 that 'Mrs. Henry can't stay with us for the whole evening'"
+  },
+  "215": {
+   "name": "Mary Henry",
+   "role": "Business Administrator, Claremont School District / SAU 6 - presents the FY23 fund-balance update and the school tax-rate walkthrough (MS-22R, MS-24R, adequacy aid, SWEPT), says 'I'm sorry Frank' at 228, and answers on the missed payroll and vendor accounts; the presiding chair notes at segment 22 that 'Mrs. Henry can't stay with us for the whole evening'"
+  },
+  "216": {
+   "name": "Mary Henry",
+   "role": "Business Administrator, Claremont School District / SAU 6 - presents the FY23 fund-balance update and the school tax-rate walkthrough (MS-22R, MS-24R, adequacy aid, SWEPT), says 'I'm sorry Frank' at 228, and answers on the missed payroll and vendor accounts; the presiding chair notes at segment 22 that 'Mrs. Henry can't stay with us for the whole evening'"
+  },
+  "217": {
+   "name": "Mary Henry",
+   "role": "Business Administrator, Claremont School District / SAU 6 - presents the FY23 fund-balance update and the school tax-rate walkthrough (MS-22R, MS-24R, adequacy aid, SWEPT), says 'I'm sorry Frank' at 228, and answers on the missed payroll and vendor accounts; the presiding chair notes at segment 22 that 'Mrs. Henry can't stay with us for the whole evening'"
+  },
+  "218": {
+   "name": "Mary Henry",
+   "role": "Business Administrator, Claremont School District / SAU 6 - presents the FY23 fund-balance update and the school tax-rate walkthrough (MS-22R, MS-24R, adequacy aid, SWEPT), says 'I'm sorry Frank' at 228, and answers on the missed payroll and vendor accounts; the presiding chair notes at segment 22 that 'Mrs. Henry can't stay with us for the whole evening'"
+  },
+  "219": {
+   "name": "Mary Henry",
+   "role": "Business Administrator, Claremont School District / SAU 6 - presents the FY23 fund-balance update and the school tax-rate walkthrough (MS-22R, MS-24R, adequacy aid, SWEPT), says 'I'm sorry Frank' at 228, and answers on the missed payroll and vendor accounts; the presiding chair notes at segment 22 that 'Mrs. Henry can't stay with us for the whole evening'"
+  },
+  "220": {
+   "name": "Mary Henry",
+   "role": "Business Administrator, Claremont School District / SAU 6 - presents the FY23 fund-balance update and the school tax-rate walkthrough (MS-22R, MS-24R, adequacy aid, SWEPT), says 'I'm sorry Frank' at 228, and answers on the missed payroll and vendor accounts; the presiding chair notes at segment 22 that 'Mrs. Henry can't stay with us for the whole evening'"
+  },
+  "221": {
+   "name": "Mary Henry",
+   "role": "Business Administrator, Claremont School District / SAU 6 - presents the FY23 fund-balance update and the school tax-rate walkthrough (MS-22R, MS-24R, adequacy aid, SWEPT), says 'I'm sorry Frank' at 228, and answers on the missed payroll and vendor accounts; the presiding chair notes at segment 22 that 'Mrs. Henry can't stay with us for the whole evening'"
+  },
+  "222": {
+   "name": "Mary Henry",
+   "role": "Business Administrator, Claremont School District / SAU 6 - presents the FY23 fund-balance update and the school tax-rate walkthrough (MS-22R, MS-24R, adequacy aid, SWEPT), says 'I'm sorry Frank' at 228, and answers on the missed payroll and vendor accounts; the presiding chair notes at segment 22 that 'Mrs. Henry can't stay with us for the whole evening'"
+  },
+  "223": {
+   "name": "Mary Henry",
+   "role": "Business Administrator, Claremont School District / SAU 6 - presents the FY23 fund-balance update and the school tax-rate walkthrough (MS-22R, MS-24R, adequacy aid, SWEPT), says 'I'm sorry Frank' at 228, and answers on the missed payroll and vendor accounts; the presiding chair notes at segment 22 that 'Mrs. Henry can't stay with us for the whole evening'"
+  },
+  "224": {
+   "name": "Mary Henry",
+   "role": "Business Administrator, Claremont School District / SAU 6 - presents the FY23 fund-balance update and the school tax-rate walkthrough (MS-22R, MS-24R, adequacy aid, SWEPT), says 'I'm sorry Frank' at 228, and answers on the missed payroll and vendor accounts; the presiding chair notes at segment 22 that 'Mrs. Henry can't stay with us for the whole evening'"
+  },
+  "225": {
+   "name": "Mary Henry",
+   "role": "Business Administrator, Claremont School District / SAU 6 - presents the FY23 fund-balance update and the school tax-rate walkthrough (MS-22R, MS-24R, adequacy aid, SWEPT), says 'I'm sorry Frank' at 228, and answers on the missed payroll and vendor accounts; the presiding chair notes at segment 22 that 'Mrs. Henry can't stay with us for the whole evening'"
+  },
+  "226": {
+   "name": "Mary Henry",
+   "role": "Business Administrator, Claremont School District / SAU 6 - presents the FY23 fund-balance update and the school tax-rate walkthrough (MS-22R, MS-24R, adequacy aid, SWEPT), says 'I'm sorry Frank' at 228, and answers on the missed payroll and vendor accounts; the presiding chair notes at segment 22 that 'Mrs. Henry can't stay with us for the whole evening'"
+  },
+  "227": {
+   "name": "Mary Henry",
+   "role": "Business Administrator, Claremont School District / SAU 6 - presents the FY23 fund-balance update and the school tax-rate walkthrough (MS-22R, MS-24R, adequacy aid, SWEPT), says 'I'm sorry Frank' at 228, and answers on the missed payroll and vendor accounts; the presiding chair notes at segment 22 that 'Mrs. Henry can't stay with us for the whole evening'"
+  },
+  "228": {
+   "name": "Mary Henry",
+   "role": "Business Administrator, Claremont School District / SAU 6 - presents the FY23 fund-balance update and the school tax-rate walkthrough (MS-22R, MS-24R, adequacy aid, SWEPT), says 'I'm sorry Frank' at 228, and answers on the missed payroll and vendor accounts; the presiding chair notes at segment 22 that 'Mrs. Henry can't stay with us for the whole evening'"
+  },
+  "230": {
+   "name": "Mary Henry",
+   "role": "Business Administrator, Claremont School District / SAU 6 - presents the FY23 fund-balance update and the school tax-rate walkthrough (MS-22R, MS-24R, adequacy aid, SWEPT), says 'I'm sorry Frank' at 228, and answers on the missed payroll and vendor accounts; the presiding chair notes at segment 22 that 'Mrs. Henry can't stay with us for the whole evening'"
+  },
+  "231": {
+   "name": "Mary Henry",
+   "role": "Business Administrator, Claremont School District / SAU 6 - presents the FY23 fund-balance update and the school tax-rate walkthrough (MS-22R, MS-24R, adequacy aid, SWEPT), says 'I'm sorry Frank' at 228, and answers on the missed payroll and vendor accounts; the presiding chair notes at segment 22 that 'Mrs. Henry can't stay with us for the whole evening'"
+  },
+  "232": {
+   "name": "Mary Henry",
+   "role": "Business Administrator, Claremont School District / SAU 6 - presents the FY23 fund-balance update and the school tax-rate walkthrough (MS-22R, MS-24R, adequacy aid, SWEPT), says 'I'm sorry Frank' at 228, and answers on the missed payroll and vendor accounts; the presiding chair notes at segment 22 that 'Mrs. Henry can't stay with us for the whole evening'"
+  },
+  "234": {
+   "name": "Mary Henry",
+   "role": "Business Administrator, Claremont School District / SAU 6 - presents the FY23 fund-balance update and the school tax-rate walkthrough (MS-22R, MS-24R, adequacy aid, SWEPT), says 'I'm sorry Frank' at 228, and answers on the missed payroll and vendor accounts; the presiding chair notes at segment 22 that 'Mrs. Henry can't stay with us for the whole evening'"
+  },
+  "235": {
+   "name": "Mary Henry",
+   "role": "Business Administrator, Claremont School District / SAU 6 - presents the FY23 fund-balance update and the school tax-rate walkthrough (MS-22R, MS-24R, adequacy aid, SWEPT), says 'I'm sorry Frank' at 228, and answers on the missed payroll and vendor accounts; the presiding chair notes at segment 22 that 'Mrs. Henry can't stay with us for the whole evening'"
+  },
+  "237": {
+   "name": "Mary Henry",
+   "role": "Business Administrator, Claremont School District / SAU 6 - presents the FY23 fund-balance update and the school tax-rate walkthrough (MS-22R, MS-24R, adequacy aid, SWEPT), says 'I'm sorry Frank' at 228, and answers on the missed payroll and vendor accounts; the presiding chair notes at segment 22 that 'Mrs. Henry can't stay with us for the whole evening'"
+  },
+  "239": {
+   "name": "Mary Henry",
+   "role": "Business Administrator, Claremont School District / SAU 6 - presents the FY23 fund-balance update and the school tax-rate walkthrough (MS-22R, MS-24R, adequacy aid, SWEPT), says 'I'm sorry Frank' at 228, and answers on the missed payroll and vendor accounts; the presiding chair notes at segment 22 that 'Mrs. Henry can't stay with us for the whole evening'"
+  },
+  "240": {
+   "name": "Mary Henry",
+   "role": "Business Administrator, Claremont School District / SAU 6 - presents the FY23 fund-balance update and the school tax-rate walkthrough (MS-22R, MS-24R, adequacy aid, SWEPT), says 'I'm sorry Frank' at 228, and answers on the missed payroll and vendor accounts; the presiding chair notes at segment 22 that 'Mrs. Henry can't stay with us for the whole evening'"
+  },
+  "241": {
+   "name": "Mary Henry",
+   "role": "Business Administrator, Claremont School District / SAU 6 - presents the FY23 fund-balance update and the school tax-rate walkthrough (MS-22R, MS-24R, adequacy aid, SWEPT), says 'I'm sorry Frank' at 228, and answers on the missed payroll and vendor accounts; the presiding chair notes at segment 22 that 'Mrs. Henry can't stay with us for the whole evening'"
+  },
+  "247": {
+   "name": "Frank Sprague",
+   "role": "Vice Chair, Claremont School Board, presiding in Chair Heather Whitney's absence; former principal of Stevens High School - records his own abstention as 'So Frank[enstein's] [abstains], for [four] ice [ayes]' at segment 20, is addressed as 'Frank' by the business administrator (228) and by a board member (309), and says at 477 'I'll let Chair Whitney do that when she comes back'. The Speaker 3 cluster also carries Superintendent Michael Tempesta and roll-caller Ben Nester; the separable turns are reassigned"
+  },
+  "251": {
+   "name": "Mary Henry",
+   "role": "Business Administrator, Claremont School District / SAU 6 - presents the FY23 fund-balance update and the school tax-rate walkthrough (MS-22R, MS-24R, adequacy aid, SWEPT), says 'I'm sorry Frank' at 228, and answers on the missed payroll and vendor accounts; the presiding chair notes at segment 22 that 'Mrs. Henry can't stay with us for the whole evening'"
+  },
+  "252": {
+   "name": "Mary Henry",
+   "role": "Business Administrator, Claremont School District / SAU 6 - presents the FY23 fund-balance update and the school tax-rate walkthrough (MS-22R, MS-24R, adequacy aid, SWEPT), says 'I'm sorry Frank' at 228, and answers on the missed payroll and vendor accounts; the presiding chair notes at segment 22 that 'Mrs. Henry can't stay with us for the whole evening'"
+  },
+  "253": {
+   "name": "Mary Henry",
+   "role": "Business Administrator, Claremont School District / SAU 6 - presents the FY23 fund-balance update and the school tax-rate walkthrough (MS-22R, MS-24R, adequacy aid, SWEPT), says 'I'm sorry Frank' at 228, and answers on the missed payroll and vendor accounts; the presiding chair notes at segment 22 that 'Mrs. Henry can't stay with us for the whole evening'"
+  },
+  "255": {
+   "name": "Mary Henry",
+   "role": "Business Administrator, Claremont School District / SAU 6 - presents the FY23 fund-balance update and the school tax-rate walkthrough (MS-22R, MS-24R, adequacy aid, SWEPT), says 'I'm sorry Frank' at 228, and answers on the missed payroll and vendor accounts; the presiding chair notes at segment 22 that 'Mrs. Henry can't stay with us for the whole evening'"
+  },
+  "257": {
+   "name": "Mary Henry",
+   "role": "Business Administrator, Claremont School District / SAU 6 - presents the FY23 fund-balance update and the school tax-rate walkthrough (MS-22R, MS-24R, adequacy aid, SWEPT), says 'I'm sorry Frank' at 228, and answers on the missed payroll and vendor accounts; the presiding chair notes at segment 22 that 'Mrs. Henry can't stay with us for the whole evening'"
+  },
+  "258": {
+   "name": "Mary Henry",
+   "role": "Business Administrator, Claremont School District / SAU 6 - presents the FY23 fund-balance update and the school tax-rate walkthrough (MS-22R, MS-24R, adequacy aid, SWEPT), says 'I'm sorry Frank' at 228, and answers on the missed payroll and vendor accounts; the presiding chair notes at segment 22 that 'Mrs. Henry can't stay with us for the whole evening'"
+  },
+  "263": {
+   "name": "Bonnie Miles",
+   "role": "Claremont School Board member; Capital Improvement Committee - the presiding chair says 'We'll start with Bonnie' at segment 262 immediately before her committee report on the Stevens High School walkthrough; also reports the SRVRTC Visioning Committee membership at 311. Elsewhere in this recording her voice is inside the Speaker 4 cluster and cannot be separated from Arlene Hawkins"
+  },
+  "264": {
+   "name": "Bonnie Miles",
+   "role": "Claremont School Board member; Capital Improvement Committee - the presiding chair says 'We'll start with Bonnie' at segment 262 immediately before her committee report on the Stevens High School walkthrough; also reports the SRVRTC Visioning Committee membership at 311. Elsewhere in this recording her voice is inside the Speaker 4 cluster and cannot be separated from Arlene Hawkins"
+  },
+  "265": {
+   "name": "Bonnie Miles",
+   "role": "Claremont School Board member; Capital Improvement Committee - the presiding chair says 'We'll start with Bonnie' at segment 262 immediately before her committee report on the Stevens High School walkthrough; also reports the SRVRTC Visioning Committee membership at 311. Elsewhere in this recording her voice is inside the Speaker 4 cluster and cannot be separated from Arlene Hawkins"
+  },
+  "266": {
+   "name": "Bonnie Miles",
+   "role": "Claremont School Board member; Capital Improvement Committee - the presiding chair says 'We'll start with Bonnie' at segment 262 immediately before her committee report on the Stevens High School walkthrough; also reports the SRVRTC Visioning Committee membership at 311. Elsewhere in this recording her voice is inside the Speaker 4 cluster and cannot be separated from Arlene Hawkins"
+  },
+  "267": {
+   "name": "Bonnie Miles",
+   "role": "Claremont School Board member; Capital Improvement Committee - the presiding chair says 'We'll start with Bonnie' at segment 262 immediately before her committee report on the Stevens High School walkthrough; also reports the SRVRTC Visioning Committee membership at 311. Elsewhere in this recording her voice is inside the Speaker 4 cluster and cannot be separated from Arlene Hawkins"
+  },
+  "269": {
+   "name": "Bonnie Miles",
+   "role": "Claremont School Board member; Capital Improvement Committee - the presiding chair says 'We'll start with Bonnie' at segment 262 immediately before her committee report on the Stevens High School walkthrough; also reports the SRVRTC Visioning Committee membership at 311. Elsewhere in this recording her voice is inside the Speaker 4 cluster and cannot be separated from Arlene Hawkins"
+  },
+  "271": {
+   "name": "Bonnie Miles",
+   "role": "Claremont School Board member; Capital Improvement Committee - the presiding chair says 'We'll start with Bonnie' at segment 262 immediately before her committee report on the Stevens High School walkthrough; also reports the SRVRTC Visioning Committee membership at 311. Elsewhere in this recording her voice is inside the Speaker 4 cluster and cannot be separated from Arlene Hawkins"
+  },
+  "272": {
+   "name": "Bonnie Miles",
+   "role": "Claremont School Board member; Capital Improvement Committee - the presiding chair says 'We'll start with Bonnie' at segment 262 immediately before her committee report on the Stevens High School walkthrough; also reports the SRVRTC Visioning Committee membership at 311. Elsewhere in this recording her voice is inside the Speaker 4 cluster and cannot be separated from Arlene Hawkins"
+  },
+  "302": {
+   "name": "Bonnie Miles",
+   "role": "Claremont School Board member; Capital Improvement Committee - the presiding chair says 'We'll start with Bonnie' at segment 262 immediately before her committee report on the Stevens High School walkthrough; also reports the SRVRTC Visioning Committee membership at 311. Elsewhere in this recording her voice is inside the Speaker 4 cluster and cannot be separated from Arlene Hawkins"
+  },
+  "309": {
+   "name": "Bonnie Miles",
+   "role": "Claremont School Board member; Capital Improvement Committee - the presiding chair says 'We'll start with Bonnie' at segment 262 immediately before her committee report on the Stevens High School walkthrough; also reports the SRVRTC Visioning Committee membership at 311. Elsewhere in this recording her voice is inside the Speaker 4 cluster and cannot be separated from Arlene Hawkins"
+  },
+  "311": {
+   "name": "Bonnie Miles",
+   "role": "Claremont School Board member; Capital Improvement Committee - the presiding chair says 'We'll start with Bonnie' at segment 262 immediately before her committee report on the Stevens High School walkthrough; also reports the SRVRTC Visioning Committee membership at 311. Elsewhere in this recording her voice is inside the Speaker 4 cluster and cannot be separated from Arlene Hawkins"
+  },
+  "316": {
+   "name": "Unidentified",
+   "role": "Claremont School Board members voting aye in unison"
+  },
+  "319": {
+   "name": "Michael Tempesta",
+   "role": "Superintendent of Schools, SAU 6 - recognized as 'Mr. Tempesta' at segment 86 immediately before the Superintendent's Report and named again by Arlene Hawkins at 387; says at 420 he was 'deposed for the lawsuit' and at 399 (as Speaker 11) that he 'was in another state' during the 2012 competency rollout. Diarized inside the presiding chair's cluster (Speaker 3) and again as Speaker 11"
+  },
+  "320": {
+   "name": "Michael Tempesta",
+   "role": "Superintendent of Schools, SAU 6 - recognized as 'Mr. Tempesta' at segment 86 immediately before the Superintendent's Report and named again by Arlene Hawkins at 387; says at 420 he was 'deposed for the lawsuit' and at 399 (as Speaker 11) that he 'was in another state' during the 2012 competency rollout. Diarized inside the presiding chair's cluster (Speaker 3) and again as Speaker 11"
+  },
+  "321": {
+   "name": "Michael Tempesta",
+   "role": "Superintendent of Schools, SAU 6 - recognized as 'Mr. Tempesta' at segment 86 immediately before the Superintendent's Report and named again by Arlene Hawkins at 387; says at 420 he was 'deposed for the lawsuit' and at 399 (as Speaker 11) that he 'was in another state' during the 2012 competency rollout. Diarized inside the presiding chair's cluster (Speaker 3) and again as Speaker 11"
+  },
+  "322": {
+   "name": "Michael Tempesta",
+   "role": "Superintendent of Schools, SAU 6 - recognized as 'Mr. Tempesta' at segment 86 immediately before the Superintendent's Report and named again by Arlene Hawkins at 387; says at 420 he was 'deposed for the lawsuit' and at 399 (as Speaker 11) that he 'was in another state' during the 2012 competency rollout. Diarized inside the presiding chair's cluster (Speaker 3) and again as Speaker 11"
+  },
+  "323": {
+   "name": "Michael Tempesta",
+   "role": "Superintendent of Schools, SAU 6 - recognized as 'Mr. Tempesta' at segment 86 immediately before the Superintendent's Report and named again by Arlene Hawkins at 387; says at 420 he was 'deposed for the lawsuit' and at 399 (as Speaker 11) that he 'was in another state' during the 2012 competency rollout. Diarized inside the presiding chair's cluster (Speaker 3) and again as Speaker 11"
+  },
+  "324": {
+   "name": "Michael Tempesta",
+   "role": "Superintendent of Schools, SAU 6 - recognized as 'Mr. Tempesta' at segment 86 immediately before the Superintendent's Report and named again by Arlene Hawkins at 387; says at 420 he was 'deposed for the lawsuit' and at 399 (as Speaker 11) that he 'was in another state' during the 2012 competency rollout. Diarized inside the presiding chair's cluster (Speaker 3) and again as Speaker 11"
+  },
+  "325": {
+   "name": "Michael Tempesta",
+   "role": "Superintendent of Schools, SAU 6 - recognized as 'Mr. Tempesta' at segment 86 immediately before the Superintendent's Report and named again by Arlene Hawkins at 387; says at 420 he was 'deposed for the lawsuit' and at 399 (as Speaker 11) that he 'was in another state' during the 2012 competency rollout. Diarized inside the presiding chair's cluster (Speaker 3) and again as Speaker 11"
+  },
+  "327": {
+   "name": "Michael Tempesta",
+   "role": "Superintendent of Schools, SAU 6 - recognized as 'Mr. Tempesta' at segment 86 immediately before the Superintendent's Report and named again by Arlene Hawkins at 387; says at 420 he was 'deposed for the lawsuit' and at 399 (as Speaker 11) that he 'was in another state' during the 2012 competency rollout. Diarized inside the presiding chair's cluster (Speaker 3) and again as Speaker 11"
+  },
+  "329": {
+   "name": "Michael Tempesta",
+   "role": "Superintendent of Schools, SAU 6 - recognized as 'Mr. Tempesta' at segment 86 immediately before the Superintendent's Report and named again by Arlene Hawkins at 387; says at 420 he was 'deposed for the lawsuit' and at 399 (as Speaker 11) that he 'was in another state' during the 2012 competency rollout. Diarized inside the presiding chair's cluster (Speaker 3) and again as Speaker 11"
+  },
+  "331": {
+   "name": "Michael Tempesta",
+   "role": "Superintendent of Schools, SAU 6 - recognized as 'Mr. Tempesta' at segment 86 immediately before the Superintendent's Report and named again by Arlene Hawkins at 387; says at 420 he was 'deposed for the lawsuit' and at 399 (as Speaker 11) that he 'was in another state' during the 2012 competency rollout. Diarized inside the presiding chair's cluster (Speaker 3) and again as Speaker 11"
+  },
+  "332": {
+   "name": "Michael Tempesta",
+   "role": "Superintendent of Schools, SAU 6 - recognized as 'Mr. Tempesta' at segment 86 immediately before the Superintendent's Report and named again by Arlene Hawkins at 387; says at 420 he was 'deposed for the lawsuit' and at 399 (as Speaker 11) that he 'was in another state' during the 2012 competency rollout. Diarized inside the presiding chair's cluster (Speaker 3) and again as Speaker 11"
+  },
+  "334": {
+   "name": "Michael Tempesta",
+   "role": "Superintendent of Schools, SAU 6 - recognized as 'Mr. Tempesta' at segment 86 immediately before the Superintendent's Report and named again by Arlene Hawkins at 387; says at 420 he was 'deposed for the lawsuit' and at 399 (as Speaker 11) that he 'was in another state' during the 2012 competency rollout. Diarized inside the presiding chair's cluster (Speaker 3) and again as Speaker 11"
+  },
+  "335": {
+   "name": "Michael Tempesta",
+   "role": "Superintendent of Schools, SAU 6 - recognized as 'Mr. Tempesta' at segment 86 immediately before the Superintendent's Report and named again by Arlene Hawkins at 387; says at 420 he was 'deposed for the lawsuit' and at 399 (as Speaker 11) that he 'was in another state' during the 2012 competency rollout. Diarized inside the presiding chair's cluster (Speaker 3) and again as Speaker 11"
+  },
+  "337": {
+   "name": "Michael Tempesta",
+   "role": "Superintendent of Schools, SAU 6 - recognized as 'Mr. Tempesta' at segment 86 immediately before the Superintendent's Report and named again by Arlene Hawkins at 387; says at 420 he was 'deposed for the lawsuit' and at 399 (as Speaker 11) that he 'was in another state' during the 2012 competency rollout. Diarized inside the presiding chair's cluster (Speaker 3) and again as Speaker 11"
+  },
+  "339": {
+   "name": "Michael Tempesta",
+   "role": "Superintendent of Schools, SAU 6 - recognized as 'Mr. Tempesta' at segment 86 immediately before the Superintendent's Report and named again by Arlene Hawkins at 387; says at 420 he was 'deposed for the lawsuit' and at 399 (as Speaker 11) that he 'was in another state' during the 2012 competency rollout. Diarized inside the presiding chair's cluster (Speaker 3) and again as Speaker 11"
+  },
+  "341": {
+   "name": "Michael Tempesta",
+   "role": "Superintendent of Schools, SAU 6 - recognized as 'Mr. Tempesta' at segment 86 immediately before the Superintendent's Report and named again by Arlene Hawkins at 387; says at 420 he was 'deposed for the lawsuit' and at 399 (as Speaker 11) that he 'was in another state' during the 2012 competency rollout. Diarized inside the presiding chair's cluster (Speaker 3) and again as Speaker 11"
+  },
+  "345": {
+   "name": "Michael Tempesta",
+   "role": "Superintendent of Schools, SAU 6 - recognized as 'Mr. Tempesta' at segment 86 immediately before the Superintendent's Report and named again by Arlene Hawkins at 387; says at 420 he was 'deposed for the lawsuit' and at 399 (as Speaker 11) that he 'was in another state' during the 2012 competency rollout. Diarized inside the presiding chair's cluster (Speaker 3) and again as Speaker 11"
+  },
+  "347": {
+   "name": "Michael Tempesta",
+   "role": "Superintendent of Schools, SAU 6 - recognized as 'Mr. Tempesta' at segment 86 immediately before the Superintendent's Report and named again by Arlene Hawkins at 387; says at 420 he was 'deposed for the lawsuit' and at 399 (as Speaker 11) that he 'was in another state' during the 2012 competency rollout. Diarized inside the presiding chair's cluster (Speaker 3) and again as Speaker 11"
+  },
+  "348": {
+   "name": "Michael Tempesta",
+   "role": "Superintendent of Schools, SAU 6 - recognized as 'Mr. Tempesta' at segment 86 immediately before the Superintendent's Report and named again by Arlene Hawkins at 387; says at 420 he was 'deposed for the lawsuit' and at 399 (as Speaker 11) that he 'was in another state' during the 2012 competency rollout. Diarized inside the presiding chair's cluster (Speaker 3) and again as Speaker 11"
+  },
+  "349": {
+   "name": "Michael Tempesta",
+   "role": "Superintendent of Schools, SAU 6 - recognized as 'Mr. Tempesta' at segment 86 immediately before the Superintendent's Report and named again by Arlene Hawkins at 387; says at 420 he was 'deposed for the lawsuit' and at 399 (as Speaker 11) that he 'was in another state' during the 2012 competency rollout. Diarized inside the presiding chair's cluster (Speaker 3) and again as Speaker 11"
+  },
+  "351": {
+   "name": "Candace Crawford",
+   "role": "Claremont School Board member (appointed 7/19/2023) - the presiding chair says 'And Candy' at segment 11 immediately before her three agenda additions, and Tempesta 'your point is a good one, Candice' at 431; gives the SRVRTC Visioning Committee update at 303"
+  },
+  "352": {
+   "name": "Michael Tempesta",
+   "role": "Superintendent of Schools, SAU 6 - recognized as 'Mr. Tempesta' at segment 86 immediately before the Superintendent's Report and named again by Arlene Hawkins at 387; says at 420 he was 'deposed for the lawsuit' and at 399 (as Speaker 11) that he 'was in another state' during the 2012 competency rollout. Diarized inside the presiding chair's cluster (Speaker 3) and again as Speaker 11"
+  },
+  "353": {
+   "name": "Michael Tempesta",
+   "role": "Superintendent of Schools, SAU 6 - recognized as 'Mr. Tempesta' at segment 86 immediately before the Superintendent's Report and named again by Arlene Hawkins at 387; says at 420 he was 'deposed for the lawsuit' and at 399 (as Speaker 11) that he 'was in another state' during the 2012 competency rollout. Diarized inside the presiding chair's cluster (Speaker 3) and again as Speaker 11"
+  },
+  "357": {
+   "name": "Michael Tempesta",
+   "role": "Superintendent of Schools, SAU 6 - recognized as 'Mr. Tempesta' at segment 86 immediately before the Superintendent's Report and named again by Arlene Hawkins at 387; says at 420 he was 'deposed for the lawsuit' and at 399 (as Speaker 11) that he 'was in another state' during the 2012 competency rollout. Diarized inside the presiding chair's cluster (Speaker 3) and again as Speaker 11"
+  },
+  "360": {
+   "name": "Michael Tempesta",
+   "role": "Superintendent of Schools, SAU 6 - recognized as 'Mr. Tempesta' at segment 86 immediately before the Superintendent's Report and named again by Arlene Hawkins at 387; says at 420 he was 'deposed for the lawsuit' and at 399 (as Speaker 11) that he 'was in another state' during the 2012 competency rollout. Diarized inside the presiding chair's cluster (Speaker 3) and again as Speaker 11"
+  },
+  "361": {
+   "name": "Michael Tempesta",
+   "role": "Superintendent of Schools, SAU 6 - recognized as 'Mr. Tempesta' at segment 86 immediately before the Superintendent's Report and named again by Arlene Hawkins at 387; says at 420 he was 'deposed for the lawsuit' and at 399 (as Speaker 11) that he 'was in another state' during the 2012 competency rollout. Diarized inside the presiding chair's cluster (Speaker 3) and again as Speaker 11"
+  },
+  "365": {
+   "name": "Michael Tempesta",
+   "role": "Superintendent of Schools, SAU 6 - recognized as 'Mr. Tempesta' at segment 86 immediately before the Superintendent's Report and named again by Arlene Hawkins at 387; says at 420 he was 'deposed for the lawsuit' and at 399 (as Speaker 11) that he 'was in another state' during the 2012 competency rollout. Diarized inside the presiding chair's cluster (Speaker 3) and again as Speaker 11"
+  },
+  "366": {
+   "name": "Michael Tempesta",
+   "role": "Superintendent of Schools, SAU 6 - recognized as 'Mr. Tempesta' at segment 86 immediately before the Superintendent's Report and named again by Arlene Hawkins at 387; says at 420 he was 'deposed for the lawsuit' and at 399 (as Speaker 11) that he 'was in another state' during the 2012 competency rollout. Diarized inside the presiding chair's cluster (Speaker 3) and again as Speaker 11"
+  },
+  "367": {
+   "name": "Michael Tempesta",
+   "role": "Superintendent of Schools, SAU 6 - recognized as 'Mr. Tempesta' at segment 86 immediately before the Superintendent's Report and named again by Arlene Hawkins at 387; says at 420 he was 'deposed for the lawsuit' and at 399 (as Speaker 11) that he 'was in another state' during the 2012 competency rollout. Diarized inside the presiding chair's cluster (Speaker 3) and again as Speaker 11"
+  },
+  "368": {
+   "name": "Michael Tempesta",
+   "role": "Superintendent of Schools, SAU 6 - recognized as 'Mr. Tempesta' at segment 86 immediately before the Superintendent's Report and named again by Arlene Hawkins at 387; says at 420 he was 'deposed for the lawsuit' and at 399 (as Speaker 11) that he 'was in another state' during the 2012 competency rollout. Diarized inside the presiding chair's cluster (Speaker 3) and again as Speaker 11"
+  },
+  "372": {
+   "name": "Michael Tempesta",
+   "role": "Superintendent of Schools, SAU 6 - recognized as 'Mr. Tempesta' at segment 86 immediately before the Superintendent's Report and named again by Arlene Hawkins at 387; says at 420 he was 'deposed for the lawsuit' and at 399 (as Speaker 11) that he 'was in another state' during the 2012 competency rollout. Diarized inside the presiding chair's cluster (Speaker 3) and again as Speaker 11"
+  },
+  "373": {
+   "name": "Michael Tempesta",
+   "role": "Superintendent of Schools, SAU 6 - recognized as 'Mr. Tempesta' at segment 86 immediately before the Superintendent's Report and named again by Arlene Hawkins at 387; says at 420 he was 'deposed for the lawsuit' and at 399 (as Speaker 11) that he 'was in another state' during the 2012 competency rollout. Diarized inside the presiding chair's cluster (Speaker 3) and again as Speaker 11"
+  },
+  "375": {
+   "name": "Michael Tempesta",
+   "role": "Superintendent of Schools, SAU 6 - recognized as 'Mr. Tempesta' at segment 86 immediately before the Superintendent's Report and named again by Arlene Hawkins at 387; says at 420 he was 'deposed for the lawsuit' and at 399 (as Speaker 11) that he 'was in another state' during the 2012 competency rollout. Diarized inside the presiding chair's cluster (Speaker 3) and again as Speaker 11"
+  },
+  "376": {
+   "name": "Michael Tempesta",
+   "role": "Superintendent of Schools, SAU 6 - recognized as 'Mr. Tempesta' at segment 86 immediately before the Superintendent's Report and named again by Arlene Hawkins at 387; says at 420 he was 'deposed for the lawsuit' and at 399 (as Speaker 11) that he 'was in another state' during the 2012 competency rollout. Diarized inside the presiding chair's cluster (Speaker 3) and again as Speaker 11"
+  },
+  "377": {
+   "name": "Michael Tempesta",
+   "role": "Superintendent of Schools, SAU 6 - recognized as 'Mr. Tempesta' at segment 86 immediately before the Superintendent's Report and named again by Arlene Hawkins at 387; says at 420 he was 'deposed for the lawsuit' and at 399 (as Speaker 11) that he 'was in another state' during the 2012 competency rollout. Diarized inside the presiding chair's cluster (Speaker 3) and again as Speaker 11"
+  },
+  "378": {
+   "name": "Michael Tempesta",
+   "role": "Superintendent of Schools, SAU 6 - recognized as 'Mr. Tempesta' at segment 86 immediately before the Superintendent's Report and named again by Arlene Hawkins at 387; says at 420 he was 'deposed for the lawsuit' and at 399 (as Speaker 11) that he 'was in another state' during the 2012 competency rollout. Diarized inside the presiding chair's cluster (Speaker 3) and again as Speaker 11"
+  },
+  "379": {
+   "name": "Michael Tempesta",
+   "role": "Superintendent of Schools, SAU 6 - recognized as 'Mr. Tempesta' at segment 86 immediately before the Superintendent's Report and named again by Arlene Hawkins at 387; says at 420 he was 'deposed for the lawsuit' and at 399 (as Speaker 11) that he 'was in another state' during the 2012 competency rollout. Diarized inside the presiding chair's cluster (Speaker 3) and again as Speaker 11"
+  },
+  "383": {
+   "name": "Candace Crawford",
+   "role": "Claremont School Board member (appointed 7/19/2023) - the presiding chair says 'And Candy' at segment 11 immediately before her three agenda additions, and Tempesta 'your point is a good one, Candice' at 431; gives the SRVRTC Visioning Committee update at 303"
+  },
+  "385": {
+   "name": "Frank Sprague",
+   "role": "Vice Chair, Claremont School Board, presiding in Chair Heather Whitney's absence; former principal of Stevens High School - records his own abstention as 'So Frank[enstein's] [abstains], for [four] ice [ayes]' at segment 20, is addressed as 'Frank' by the business administrator (228) and by a board member (309), and says at 477 'I'll let Chair Whitney do that when she comes back'. The Speaker 3 cluster also carries Superintendent Michael Tempesta and roll-caller Ben Nester; the separable turns are reassigned"
+  },
+  "388": {
+   "name": "Michael Tempesta",
+   "role": "Superintendent of Schools, SAU 6 - recognized as 'Mr. Tempesta' at segment 86 immediately before the Superintendent's Report and named again by Arlene Hawkins at 387; says at 420 he was 'deposed for the lawsuit' and at 399 (as Speaker 11) that he 'was in another state' during the 2012 competency rollout. Diarized inside the presiding chair's cluster (Speaker 3) and again as Speaker 11"
+  },
+  "389": {
+   "name": "Michael Tempesta",
+   "role": "Superintendent of Schools, SAU 6 - recognized as 'Mr. Tempesta' at segment 86 immediately before the Superintendent's Report and named again by Arlene Hawkins at 387; says at 420 he was 'deposed for the lawsuit' and at 399 (as Speaker 11) that he 'was in another state' during the 2012 competency rollout. Diarized inside the presiding chair's cluster (Speaker 3) and again as Speaker 11"
+  },
+  "402": {
+   "name": "Michael Tempesta",
+   "role": "Superintendent of Schools, SAU 6 - recognized as 'Mr. Tempesta' at segment 86 immediately before the Superintendent's Report and named again by Arlene Hawkins at 387; says at 420 he was 'deposed for the lawsuit' and at 399 (as Speaker 11) that he 'was in another state' during the 2012 competency rollout. Diarized inside the presiding chair's cluster (Speaker 3) and again as Speaker 11"
+  },
+  "403": {
+   "name": "Michael Tempesta",
+   "role": "Superintendent of Schools, SAU 6 - recognized as 'Mr. Tempesta' at segment 86 immediately before the Superintendent's Report and named again by Arlene Hawkins at 387; says at 420 he was 'deposed for the lawsuit' and at 399 (as Speaker 11) that he 'was in another state' during the 2012 competency rollout. Diarized inside the presiding chair's cluster (Speaker 3) and again as Speaker 11"
+  },
+  "404": {
+   "name": "Michael Tempesta",
+   "role": "Superintendent of Schools, SAU 6 - recognized as 'Mr. Tempesta' at segment 86 immediately before the Superintendent's Report and named again by Arlene Hawkins at 387; says at 420 he was 'deposed for the lawsuit' and at 399 (as Speaker 11) that he 'was in another state' during the 2012 competency rollout. Diarized inside the presiding chair's cluster (Speaker 3) and again as Speaker 11"
+  },
+  "405": {
+   "name": "Michael Tempesta",
+   "role": "Superintendent of Schools, SAU 6 - recognized as 'Mr. Tempesta' at segment 86 immediately before the Superintendent's Report and named again by Arlene Hawkins at 387; says at 420 he was 'deposed for the lawsuit' and at 399 (as Speaker 11) that he 'was in another state' during the 2012 competency rollout. Diarized inside the presiding chair's cluster (Speaker 3) and again as Speaker 11"
+  },
+  "406": {
+   "name": "Michael Tempesta",
+   "role": "Superintendent of Schools, SAU 6 - recognized as 'Mr. Tempesta' at segment 86 immediately before the Superintendent's Report and named again by Arlene Hawkins at 387; says at 420 he was 'deposed for the lawsuit' and at 399 (as Speaker 11) that he 'was in another state' during the 2012 competency rollout. Diarized inside the presiding chair's cluster (Speaker 3) and again as Speaker 11"
+  },
+  "408": {
+   "name": "Unidentified",
+   "role": "Sub-second backchannel clipped into a neighbouring cluster; not separable"
+  },
+  "417": {
+   "name": "Candace Crawford",
+   "role": "Claremont School Board member (appointed 7/19/2023) - the presiding chair says 'And Candy' at segment 11 immediately before her three agenda additions, and Tempesta 'your point is a good one, Candice' at 431; gives the SRVRTC Visioning Committee update at 303"
+  },
+  "418": {
+   "name": "Michael Tempesta",
+   "role": "Superintendent of Schools, SAU 6 - recognized as 'Mr. Tempesta' at segment 86 immediately before the Superintendent's Report and named again by Arlene Hawkins at 387; says at 420 he was 'deposed for the lawsuit' and at 399 (as Speaker 11) that he 'was in another state' during the 2012 competency rollout. Diarized inside the presiding chair's cluster (Speaker 3) and again as Speaker 11"
+  },
+  "419": {
+   "name": "Michael Tempesta",
+   "role": "Superintendent of Schools, SAU 6 - recognized as 'Mr. Tempesta' at segment 86 immediately before the Superintendent's Report and named again by Arlene Hawkins at 387; says at 420 he was 'deposed for the lawsuit' and at 399 (as Speaker 11) that he 'was in another state' during the 2012 competency rollout. Diarized inside the presiding chair's cluster (Speaker 3) and again as Speaker 11"
+  },
+  "420": {
+   "name": "Michael Tempesta",
+   "role": "Superintendent of Schools, SAU 6 - recognized as 'Mr. Tempesta' at segment 86 immediately before the Superintendent's Report and named again by Arlene Hawkins at 387; says at 420 he was 'deposed for the lawsuit' and at 399 (as Speaker 11) that he 'was in another state' during the 2012 competency rollout. Diarized inside the presiding chair's cluster (Speaker 3) and again as Speaker 11"
+  },
+  "421": {
+   "name": "Michael Tempesta",
+   "role": "Superintendent of Schools, SAU 6 - recognized as 'Mr. Tempesta' at segment 86 immediately before the Superintendent's Report and named again by Arlene Hawkins at 387; says at 420 he was 'deposed for the lawsuit' and at 399 (as Speaker 11) that he 'was in another state' during the 2012 competency rollout. Diarized inside the presiding chair's cluster (Speaker 3) and again as Speaker 11"
+  },
+  "422": {
+   "name": "Michael Tempesta",
+   "role": "Superintendent of Schools, SAU 6 - recognized as 'Mr. Tempesta' at segment 86 immediately before the Superintendent's Report and named again by Arlene Hawkins at 387; says at 420 he was 'deposed for the lawsuit' and at 399 (as Speaker 11) that he 'was in another state' during the 2012 competency rollout. Diarized inside the presiding chair's cluster (Speaker 3) and again as Speaker 11"
+  },
+  "423": {
+   "name": "Michael Tempesta",
+   "role": "Superintendent of Schools, SAU 6 - recognized as 'Mr. Tempesta' at segment 86 immediately before the Superintendent's Report and named again by Arlene Hawkins at 387; says at 420 he was 'deposed for the lawsuit' and at 399 (as Speaker 11) that he 'was in another state' during the 2012 competency rollout. Diarized inside the presiding chair's cluster (Speaker 3) and again as Speaker 11"
+  },
+  "428": {
+   "name": "Unidentified",
+   "role": "Sub-second backchannel clipped into a neighbouring cluster; not separable"
+  },
+  "430": {
+   "name": "Unidentified",
+   "role": "Sub-second backchannel clipped into a neighbouring cluster; not separable"
+  },
+  "431": {
+   "name": "Michael Tempesta",
+   "role": "Superintendent of Schools, SAU 6 - recognized as 'Mr. Tempesta' at segment 86 immediately before the Superintendent's Report and named again by Arlene Hawkins at 387; says at 420 he was 'deposed for the lawsuit' and at 399 (as Speaker 11) that he 'was in another state' during the 2012 competency rollout. Diarized inside the presiding chair's cluster (Speaker 3) and again as Speaker 11"
+  },
+  "453": {
+   "name": "Unidentified",
+   "role": "Claremont School Board member seconding the motion to postpone the listening session - the second is not named on the recording"
+  },
+  "456": {
+   "name": "Frank Sprague",
+   "role": "Vice Chair, Claremont School Board, presiding in Chair Heather Whitney's absence; former principal of Stevens High School - records his own abstention as 'So Frank[enstein's] [abstains], for [four] ice [ayes]' at segment 20, is addressed as 'Frank' by the business administrator (228) and by a board member (309), and says at 477 'I'll let Chair Whitney do that when she comes back'. The Speaker 3 cluster also carries Superintendent Michael Tempesta and roll-caller Ben Nester; the separable turns are reassigned"
+  },
+  "458": {
+   "name": "Michael Tempesta",
+   "role": "Superintendent of Schools, SAU 6 - recognized as 'Mr. Tempesta' at segment 86 immediately before the Superintendent's Report and named again by Arlene Hawkins at 387; says at 420 he was 'deposed for the lawsuit' and at 399 (as Speaker 11) that he 'was in another state' during the 2012 competency rollout. Diarized inside the presiding chair's cluster (Speaker 3) and again as Speaker 11"
+  },
+  "460": {
+   "name": "Michael Tempesta",
+   "role": "Superintendent of Schools, SAU 6 - recognized as 'Mr. Tempesta' at segment 86 immediately before the Superintendent's Report and named again by Arlene Hawkins at 387; says at 420 he was 'deposed for the lawsuit' and at 399 (as Speaker 11) that he 'was in another state' during the 2012 competency rollout. Diarized inside the presiding chair's cluster (Speaker 3) and again as Speaker 11"
+  },
+  "461": {
+   "name": "Michael Tempesta",
+   "role": "Superintendent of Schools, SAU 6 - recognized as 'Mr. Tempesta' at segment 86 immediately before the Superintendent's Report and named again by Arlene Hawkins at 387; says at 420 he was 'deposed for the lawsuit' and at 399 (as Speaker 11) that he 'was in another state' during the 2012 competency rollout. Diarized inside the presiding chair's cluster (Speaker 3) and again as Speaker 11"
+  },
+  "463": {
+   "name": "Arlene Hawkins",
+   "role": "Claremont School Board member (elected 3/14/2023) and SAU 6 Board chair - the presiding chair says 'Mrs. Hawkins showed me an article today' at 77 and 'Arlene, I'm going to let you open this up' at 386; Jennifer Gallagher cites 'that section that Arlene just read' at 83 and Tempesta 'I agree with Arlene' at 402. Delivers the policy-subcommittee first read in Whitney Skillen's absence and moves to postpone the minimum-standards listening session. The Speaker 4 cluster also carries Mary Henry and Bonnie Miles; their separable turns are reassigned, but in mixed stretches Hawkins and Miles are not separable"
+  },
+  "465": {
+   "name": "Michael Tempesta",
+   "role": "Superintendent of Schools, SAU 6 - recognized as 'Mr. Tempesta' at segment 86 immediately before the Superintendent's Report and named again by Arlene Hawkins at 387; says at 420 he was 'deposed for the lawsuit' and at 399 (as Speaker 11) that he 'was in another state' during the 2012 competency rollout. Diarized inside the presiding chair's cluster (Speaker 3) and again as Speaker 11"
+  },
+  "469": {
+   "name": "Jennifer Gallagher",
+   "role": "Claremont School Board member - completes her own sentence 'Yes, I agree...', split off the head of her own turn (zero gap after segment 468)"
+  },
+  "472": {
+   "name": "Unidentified",
+   "role": "Claremont School Board members voting aye in unison"
+  },
+  "487": {
+   "name": "Michael Tempesta",
+   "role": "Superintendent of Schools, SAU 6 - recognized as 'Mr. Tempesta' at segment 86 immediately before the Superintendent's Report and named again by Arlene Hawkins at 387; says at 420 he was 'deposed for the lawsuit' and at 399 (as Speaker 11) that he 'was in another state' during the 2012 competency rollout. Diarized inside the presiding chair's cluster (Speaker 3) and again as Speaker 11"
+  },
+  "489": {
+   "name": "Michael Tempesta",
+   "role": "Superintendent of Schools, SAU 6 - recognized as 'Mr. Tempesta' at segment 86 immediately before the Superintendent's Report and named again by Arlene Hawkins at 387; says at 420 he was 'deposed for the lawsuit' and at 399 (as Speaker 11) that he 'was in another state' during the 2012 competency rollout. Diarized inside the presiding chair's cluster (Speaker 3) and again as Speaker 11"
+  },
+  "490": {
+   "name": "Michael Tempesta",
+   "role": "Superintendent of Schools, SAU 6 - recognized as 'Mr. Tempesta' at segment 86 immediately before the Superintendent's Report and named again by Arlene Hawkins at 387; says at 420 he was 'deposed for the lawsuit' and at 399 (as Speaker 11) that he 'was in another state' during the 2012 competency rollout. Diarized inside the presiding chair's cluster (Speaker 3) and again as Speaker 11"
+  },
+  "492": {
+   "name": "Michael Tempesta",
+   "role": "Superintendent of Schools, SAU 6 - recognized as 'Mr. Tempesta' at segment 86 immediately before the Superintendent's Report and named again by Arlene Hawkins at 387; says at 420 he was 'deposed for the lawsuit' and at 399 (as Speaker 11) that he 'was in another state' during the 2012 competency rollout. Diarized inside the presiding chair's cluster (Speaker 3) and again as Speaker 11"
+  },
+  "494": {
+   "name": "Michael Tempesta",
+   "role": "Superintendent of Schools, SAU 6 - recognized as 'Mr. Tempesta' at segment 86 immediately before the Superintendent's Report and named again by Arlene Hawkins at 387; says at 420 he was 'deposed for the lawsuit' and at 399 (as Speaker 11) that he 'was in another state' during the 2012 competency rollout. Diarized inside the presiding chair's cluster (Speaker 3) and again as Speaker 11"
+  },
+  "496": {
+   "name": "Michael Tempesta",
+   "role": "Superintendent of Schools, SAU 6 - recognized as 'Mr. Tempesta' at segment 86 immediately before the Superintendent's Report and named again by Arlene Hawkins at 387; says at 420 he was 'deposed for the lawsuit' and at 399 (as Speaker 11) that he 'was in another state' during the 2012 competency rollout. Diarized inside the presiding chair's cluster (Speaker 3) and again as Speaker 11"
+  },
+  "498": {
+   "name": "Michael Tempesta",
+   "role": "Superintendent of Schools, SAU 6 - recognized as 'Mr. Tempesta' at segment 86 immediately before the Superintendent's Report and named again by Arlene Hawkins at 387; says at 420 he was 'deposed for the lawsuit' and at 399 (as Speaker 11) that he 'was in another state' during the 2012 competency rollout. Diarized inside the presiding chair's cluster (Speaker 3) and again as Speaker 11"
+  }
+ }
+}

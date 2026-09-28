@@ -1,0 +1,592 @@
+{
+ "Speaker 1": {
+  "name": "Joyce Heinsberg",
+  "role": "Public commenter, Ward 2, former district substitute coordinator of 23 years (self-introduced, ASR 'Joyce. Heinsberg. Ward two' [131]; spelling unverified); cluster also carries other voices, see overrides"
+ },
+ "Speaker 2": {
+  "name": "Middleton McGoodwin",
+  "role": "Superintendent, SAU 6 ('If I may, Brian' [280, 505, 517, 776]; refers to the data 'I presented to you' [403]; addressed as 'Doctor Goodwin' [442, 957])"
+ },
+ "Speaker 3": {
+  "name": "Michelle Pierce",
+  "role": "Claremont School Board member (recognized 'Michelle' [471, 879]; 'Anytime you want. Michelle' [537]; answers 'Yes' after 'Michelle Pearce' in the roll call [1119-1120])"
+ },
+ "Speaker 4": {
+  "name": "Brian Rapp",
+  "role": "Claremont School Board Chair (runs the agenda, calls votes and breaks [3-29, 1105-1112]; 'Could I ask clarifying question, Brian?' [413]; roll call 'And, Brian. No' [1126-1127]; 'Brian's suggestion is level funding' [912] after his [788])"
+ },
+ "Speaker 5": {
+  "name": "Cory LeClair",
+  "role": "Assistant Superintendent, SAU 6 ('So Corey just intimated' [833] after her clarifier [830-831]; presents grants [244-248]; property search and grants [580-615]; childcare for hearings [1185-1208])"
+ },
+ "Speaker 6": {
+  "name": "Frank Sprague",
+  "role": "Claremont School Board member ('your suggestion, Frank' [637] after [632]; 'Is that correct Frank' [705] after [695-703]; makes the $328,980.05 reduction motion [998], called 'Frank's motion' [1105])"
+ },
+ "Speaker 7": {
+  "name": "Jesse Burrill",
+  "role": "Student, junior at Stevens High School, student voice and communications team (self-introduced, ASR 'Jesse Burrell' [33]; spelling per file 9548)"
+ },
+ "Speaker 8": {
+  "name": "Prescott Herzog",
+  "role": "Student, Stevens High School student voice team (introduced 'I would like to hand the floor over to Prescott Herzog' [38])"
+ },
+ "Speaker 9": {
+  "name": "Lexi Grenier",
+  "role": "Student, senior at Stevens High School, student voice team (self-introduced, ASR 'Lexi Grenier' [44]; spelling unverified)"
+ },
+ "Speaker 10": {
+  "name": "Michelle Pierce",
+  "role": "Claremont School Board member (recognized 'Michelle' [471, 879]; 'Anytime you want. Michelle' [537]; answers 'Yes' after 'Michelle Pearce' in the roll call [1119-1120])"
+ },
+ "Speaker 11": {
+  "name": "Chelsea",
+  "role": "Student, senior at Stevens High School (self-introduced by first name 'I'm Chelsea' [80])"
+ },
+ "Speaker 12": {
+  "name": "Matt Bean",
+  "role": "Public commenter, Ward 2, district special education para and football coach (self-introduced 'My name is Matt Bean' [102], 'I'm in Ward two' [103]; spelling unverified)"
+ },
+ "Speaker 13": {
+  "name": "Gary Collison",
+  "role": "Stevens High School World Languages team leader, speaking in citizens' comments as an employee, not a Claremont resident (self-introduced 'My name is Gary Collison' [117]; Sprague: 'Mr. Collison' [695])"
+ },
+ "Speaker 14": {
+  "name": "Unidentified",
+  "role": "Unidentified - mixed cluster of short acknowledgments and roll-call answers from several board members"
+ },
+ "Speaker 15": {
+  "name": "Michael O'Neill",
+  "role": "Business Administrator, SAU 6 (addressed as 'Mike' on budget questions [279, 288, 338, 761]; surname per roster; spelling unverified)"
+ },
+ "Speaker 16": {
+  "name": "Chris",
+  "role": "SAU 6 special education administrator (first name only: Sprague 'So, Chris, I found that answer kind of disturbing' [356]; O'Neill 'requested from Chris for $100,000' [487]; covers Medicaid billing and out-of-district placements; title and surname not stated)"
+ },
+ "Speaker 17": {
+  "name": "Tom Rock",
+  "role": "Public commenter, Ward 2 (self-introduced 'Tom Ward two' [169]; superintendent: 'Tom Rock held up several years of a bar graph' [851]; name as used in file 9496, spelling unverified)"
+ },
+ "Speaker 18": {
+  "name": "Chris Irish",
+  "role": "Claremont School Board Vice Chair (chair: 'We have Chris' [196], 'Chris. Mike, if we were to level fund' [790]; Herzog: 'you've been doing this since 2000, Chris' [740]; roll call 'Bucyrus' = Chris Irish [1114], 'Chris Irish' [1163])"
+ },
+ "Speaker 19": {
+  "name": "Unidentified",
+  "role": "Unidentified - short remarks ('All right')"
+ },
+ "Speaker 20": {
+  "name": "Andy",
+  "role": "Public commenter, Ward 3, economic development ('Andy. Ward three' [226]; Rod Beaton: 'Like Andy said' [239]; first name only on this recording)"
+ },
+ "Speaker 21": {
+  "name": "Rod Beaton",
+  "role": "Public commenter, Ward 2 (self-introduced, ASR 'Rod Beaton, Ward two' [238]; spelling unverified)"
+ },
+ "Speaker 22": {
+  "name": "Melissa Lewis",
+  "role": "Principal, Disnard Elementary School (asked 'At Disney. Melissa, do you want to speak' [252]; describes Disnard's ExxonMobil grant [254-256]; surname per roster)"
+ },
+ "Speaker 23": {
+  "name": "Rebecca Zullo",
+  "role": "Claremont School Board member (recognized 'Rebecca' [284, 885]; O'Neill: 'What's the account number? Rebecca' [316]; addressed 'Becky' [591, 722]; roll call 'Rebecca. Zula' [1124])"
+ },
+ "Speaker 24": {
+  "name": "Unidentified",
+  "role": "Unidentified - board member aside"
+ },
+ "Speaker 25": {
+  "name": "Michael Petrin",
+  "role": "Claremont School Board member (recognized 'Mike, what do you got?' [769-770] and 'Mike, do you have' [1050] before this voice speaks; roll call 'Mike ... No' [1117-1118]; board-member Mike per roster = Michael Petrin; uncertain on some short segments of this mixed cluster)"
+ },
+ "Speaker 26": {
+  "name": "Alex Herzog",
+  "role": "Claremont School Board member (recognized 'Alex' [201, 492, 736, 1087]; 'Alex. Herzog' in the roll call [1165]; 'I'm new' [211])"
+ },
+ "Speaker 27": {
+  "name": "Mary Woodman",
+  "role": "School district clerk and board recording secretary (calls the roll votes [1114-1171]; 'Sorry, Mary. Sorry, Miss Mary' [1162]; surname per roster, not stated on this recording)"
+ },
+ "Speaker 28": {
+  "name": "Unidentified",
+  "role": "Unidentified - short remarks during the motion procedure"
+ },
+ "Speaker 29": {
+  "name": "Unidentified",
+  "role": "Unidentified - short remarks during the nonpublic-session vote"
+ },
+ "__overrides__": {
+  "0": {
+   "name": "Unidentified",
+   "role": "Unidentified - pre-meeting remark"
+  },
+  "70": {
+   "name": "Michelle Pierce",
+   "role": "Claremont School Board member (recognized 'Michelle' [471, 879]; 'Anytime you want. Michelle' [537]; answers 'Yes' after 'Michelle Pearce' in the roll call [1119-1120]) - uncertain: board member questioning the students right after 'Did you have a question, Michelle?' [61]"
+  },
+  "89": {
+   "name": "Michelle Pierce",
+   "role": "Claremont School Board member (recognized 'Michelle' [471, 879]; 'Anytime you want. Michelle' [537]; answers 'Yes' after 'Michelle Pearce' in the roll call [1119-1120]) - uncertain: board member questioning the students right after 'Did you have a question, Michelle?' [61]"
+  },
+  "91": {
+   "name": "Michelle Pierce",
+   "role": "Claremont School Board member (recognized 'Michelle' [471, 879]; 'Anytime you want. Michelle' [537]; answers 'Yes' after 'Michelle Pearce' in the roll call [1119-1120]) - uncertain: board member questioning the students right after 'Did you have a question, Michelle?' [61]"
+  },
+  "93": {
+   "name": "Michelle Pierce",
+   "role": "Claremont School Board member (recognized 'Michelle' [471, 879]; 'Anytime you want. Michelle' [537]; answers 'Yes' after 'Michelle Pearce' in the roll call [1119-1120]) - uncertain: board member questioning the students right after 'Did you have a question, Michelle?' [61]"
+  },
+  "254": {
+   "name": "Melissa Lewis"
+  },
+  "1": {
+   "name": "Unidentified",
+   "role": "Unidentified - short remark in the superintendent's cluster, speaker not determinable"
+  },
+  "5": {
+   "name": "Unidentified",
+   "role": "Unidentified - short remark in the superintendent's cluster, speaker not determinable"
+  },
+  "10": {
+   "name": "Unidentified",
+   "role": "Unidentified - short remark in the superintendent's cluster, speaker not determinable"
+  },
+  "22": {
+   "name": "Unidentified",
+   "role": "Unidentified - short remark in the superintendent's cluster, speaker not determinable"
+  },
+  "23": {
+   "name": "Unidentified",
+   "role": "Unidentified - short remark in the superintendent's cluster, speaker not determinable"
+  },
+  "31": {
+   "name": "Unidentified",
+   "role": "Unidentified - short remark in the superintendent's cluster, speaker not determinable"
+  },
+  "57": {
+   "name": "Unidentified",
+   "role": "Unidentified - short remark in the superintendent's cluster, speaker not determinable"
+  },
+  "113": {
+   "name": "Unidentified",
+   "role": "Unidentified - short remark in the superintendent's cluster, speaker not determinable"
+  },
+  "129": {
+   "name": "Unidentified",
+   "role": "Unidentified - short remark in the superintendent's cluster, speaker not determinable"
+  },
+  "181": {
+   "name": "Unidentified",
+   "role": "Unidentified - short remark in the superintendent's cluster, speaker not determinable"
+  },
+  "225": {
+   "name": "Unidentified",
+   "role": "Unidentified - short remark in the superintendent's cluster, speaker not determinable"
+  },
+  "245": {
+   "name": "Unidentified",
+   "role": "Unidentified - short remark in the superintendent's cluster, speaker not determinable"
+  },
+  "247": {
+   "name": "Unidentified",
+   "role": "Unidentified - short remark in the superintendent's cluster, speaker not determinable"
+  },
+  "250": {
+   "name": "Unidentified",
+   "role": "Unidentified - short remark in the superintendent's cluster, speaker not determinable"
+  },
+  "261": {
+   "name": "Unidentified",
+   "role": "Unidentified - short remark in the superintendent's cluster, speaker not determinable"
+  },
+  "265": {
+   "name": "Unidentified",
+   "role": "Unidentified - short remark in the superintendent's cluster, speaker not determinable"
+  },
+  "267": {
+   "name": "Unidentified",
+   "role": "Unidentified - short remark in the superintendent's cluster, speaker not determinable"
+  },
+  "345": {
+   "name": "Unidentified",
+   "role": "Unidentified - short remark in the superintendent's cluster, speaker not determinable"
+  },
+  "362": {
+   "name": "Unidentified",
+   "role": "Unidentified - short remark in the superintendent's cluster, speaker not determinable"
+  },
+  "368": {
+   "name": "Unidentified",
+   "role": "Unidentified - short remark in the superintendent's cluster, speaker not determinable"
+  },
+  "17": {
+   "name": "Unidentified",
+   "role": "Unidentified - board member seconding"
+  },
+  "273": {
+   "name": "Unidentified",
+   "role": "Unidentified - group 'aye' vote"
+  },
+  "102": {
+   "name": "Matt Bean"
+  },
+  "116": {
+   "name": "Gary Collison"
+  },
+  "123": {
+   "name": "Gary Collison"
+  },
+  "169": {
+   "name": "Tom Rock"
+  },
+  "170": {
+   "name": "Tom Rock"
+  },
+  "171": {
+   "name": "Tom Rock"
+  },
+  "172": {
+   "name": "Tom Rock"
+  },
+  "173": {
+   "name": "Tom Rock"
+  },
+  "174": {
+   "name": "Tom Rock"
+  },
+  "176": {
+   "name": "Tom Rock"
+  },
+  "177": {
+   "name": "Tom Rock"
+  },
+  "187": {
+   "name": "Chris Irish"
+  },
+  "202": {
+   "name": "Alex Herzog",
+   "role": "Claremont School Board member (recognized 'Alex' [201, 492, 736, 1087]; 'Alex. Herzog' in the roll call [1165]; 'I'm new' [211]) - point of clarification after the chair's 'Yes. Alex.' [201], split across several clusters"
+  },
+  "203": {
+   "name": "Alex Herzog",
+   "role": "Claremont School Board member (recognized 'Alex' [201, 492, 736, 1087]; 'Alex. Herzog' in the roll call [1165]; 'I'm new' [211]) - point of clarification after the chair's 'Yes. Alex.' [201], split across several clusters"
+  },
+  "204": {
+   "name": "Alex Herzog",
+   "role": "Claremont School Board member (recognized 'Alex' [201, 492, 736, 1087]; 'Alex. Herzog' in the roll call [1165]; 'I'm new' [211]) - point of clarification after the chair's 'Yes. Alex.' [201], split across several clusters"
+  },
+  "205": {
+   "name": "Alex Herzog",
+   "role": "Claremont School Board member (recognized 'Alex' [201, 492, 736, 1087]; 'Alex. Herzog' in the roll call [1165]; 'I'm new' [211]) - point of clarification after the chair's 'Yes. Alex.' [201], split across several clusters"
+  },
+  "206": {
+   "name": "Alex Herzog",
+   "role": "Claremont School Board member (recognized 'Alex' [201, 492, 736, 1087]; 'Alex. Herzog' in the roll call [1165]; 'I'm new' [211]) - point of clarification after the chair's 'Yes. Alex.' [201], split across several clusters"
+  },
+  "207": {
+   "name": "Alex Herzog",
+   "role": "Claremont School Board member (recognized 'Alex' [201, 492, 736, 1087]; 'Alex. Herzog' in the roll call [1165]; 'I'm new' [211]) - point of clarification after the chair's 'Yes. Alex.' [201], split across several clusters"
+  },
+  "208": {
+   "name": "Alex Herzog",
+   "role": "Claremont School Board member (recognized 'Alex' [201, 492, 736, 1087]; 'Alex. Herzog' in the roll call [1165]; 'I'm new' [211]) - point of clarification after the chair's 'Yes. Alex.' [201], split across several clusters"
+  },
+  "209": {
+   "name": "Alex Herzog",
+   "role": "Claremont School Board member (recognized 'Alex' [201, 492, 736, 1087]; 'Alex. Herzog' in the roll call [1165]; 'I'm new' [211]) - point of clarification after the chair's 'Yes. Alex.' [201], split across several clusters"
+  },
+  "210": {
+   "name": "Alex Herzog",
+   "role": "Claremont School Board member (recognized 'Alex' [201, 492, 736, 1087]; 'Alex. Herzog' in the roll call [1165]; 'I'm new' [211]) - point of clarification after the chair's 'Yes. Alex.' [201], split across several clusters"
+  },
+  "211": {
+   "name": "Alex Herzog",
+   "role": "Claremont School Board member (recognized 'Alex' [201, 492, 736, 1087]; 'Alex. Herzog' in the roll call [1165]; 'I'm new' [211]) - point of clarification after the chair's 'Yes. Alex.' [201], split across several clusters"
+  },
+  "212": {
+   "name": "Alex Herzog",
+   "role": "Claremont School Board member (recognized 'Alex' [201, 492, 736, 1087]; 'Alex. Herzog' in the roll call [1165]; 'I'm new' [211]) - point of clarification after the chair's 'Yes. Alex.' [201], split across several clusters"
+  },
+  "213": {
+   "name": "Alex Herzog",
+   "role": "Claremont School Board member (recognized 'Alex' [201, 492, 736, 1087]; 'Alex. Herzog' in the roll call [1165]; 'I'm new' [211]) - point of clarification after the chair's 'Yes. Alex.' [201], split across several clusters"
+  },
+  "214": {
+   "name": "Alex Herzog",
+   "role": "Claremont School Board member (recognized 'Alex' [201, 492, 736, 1087]; 'Alex. Herzog' in the roll call [1165]; 'I'm new' [211]) - point of clarification after the chair's 'Yes. Alex.' [201], split across several clusters"
+  },
+  "217": {
+   "name": "Jonathan Young",
+   "role": "Public commenter, Ward 1 (self-introduced 'I'm Jonathan Young, Ward one' [217-219]; spelling unverified)"
+  },
+  "218": {
+   "name": "Jonathan Young",
+   "role": "Public commenter, Ward 1 (self-introduced 'I'm Jonathan Young, Ward one' [217-219]; spelling unverified)"
+  },
+  "219": {
+   "name": "Jonathan Young"
+  },
+  "220": {
+   "name": "Jonathan Young"
+  },
+  "221": {
+   "name": "Jonathan Young"
+  },
+  "222": {
+   "name": "Jonathan Young"
+  },
+  "258": {
+   "name": "Brian Rapp"
+  },
+  "259": {
+   "name": "Alex Herzog"
+  },
+  "260": {
+   "name": "Alex Herzog"
+  },
+  "346": {
+   "name": "Alex Herzog"
+  },
+  "573": {
+   "name": "Alex Herzog"
+  },
+  "824": {
+   "name": "Alex Herzog"
+  },
+  "1065": {
+   "name": "Alex Herzog"
+  },
+  "1109": {
+   "name": "Alex Herzog"
+  },
+  "33": {
+   "name": "Jesse Burrill"
+  },
+  "82": {
+   "name": "Unidentified",
+   "role": "Unidentified - student aside"
+  },
+  "103": {
+   "name": "Matt Bean"
+  },
+  "224": {
+   "name": "Unidentified",
+   "role": "Unidentified - audience aside"
+  },
+  "8": {
+   "name": "Unidentified",
+   "role": "Unidentified - roll call: clerk's calls and members' 'here' answers merged ('Chris Irish here', 'Shall Pierce here. Frank Sprague here' [8, 12])"
+  },
+  "12": {
+   "name": "Unidentified",
+   "role": "Unidentified - roll call: clerk's calls and members' 'here' answers merged ('Chris Irish here', 'Shall Pierce here. Frank Sprague here' [8, 12])"
+  },
+  "25": {
+   "name": "Unidentified",
+   "role": "Unidentified - board member moving to accept the minutes"
+  },
+  "52": {
+   "name": "Unidentified",
+   "role": "Unidentified - short acknowledgments during the student presentations and citizens' comments; cluster shared with Asst. Supt. LeClair; speaker not determinable"
+  },
+  "54": {
+   "name": "Unidentified",
+   "role": "Unidentified - short acknowledgments during the student presentations and citizens' comments; cluster shared with Asst. Supt. LeClair; speaker not determinable"
+  },
+  "56": {
+   "name": "Unidentified",
+   "role": "Unidentified - short acknowledgments during the student presentations and citizens' comments; cluster shared with Asst. Supt. LeClair; speaker not determinable"
+  },
+  "58": {
+   "name": "Unidentified",
+   "role": "Unidentified - short acknowledgments during the student presentations and citizens' comments; cluster shared with Asst. Supt. LeClair; speaker not determinable"
+  },
+  "60": {
+   "name": "Unidentified",
+   "role": "Unidentified - short acknowledgments during the student presentations and citizens' comments; cluster shared with Asst. Supt. LeClair; speaker not determinable"
+  },
+  "65": {
+   "name": "Unidentified",
+   "role": "Unidentified - short acknowledgments during the student presentations and citizens' comments; cluster shared with Asst. Supt. LeClair; speaker not determinable"
+  },
+  "67": {
+   "name": "Unidentified",
+   "role": "Unidentified - short acknowledgments during the student presentations and citizens' comments; cluster shared with Asst. Supt. LeClair; speaker not determinable"
+  },
+  "69": {
+   "name": "Unidentified",
+   "role": "Unidentified - short acknowledgments during the student presentations and citizens' comments; cluster shared with Asst. Supt. LeClair; speaker not determinable"
+  },
+  "71": {
+   "name": "Unidentified",
+   "role": "Unidentified - short acknowledgments during the student presentations and citizens' comments; cluster shared with Asst. Supt. LeClair; speaker not determinable"
+  },
+  "73": {
+   "name": "Unidentified",
+   "role": "Unidentified - short acknowledgments during the student presentations and citizens' comments; cluster shared with Asst. Supt. LeClair; speaker not determinable"
+  },
+  "76": {
+   "name": "Unidentified",
+   "role": "Unidentified - short acknowledgments during the student presentations and citizens' comments; cluster shared with Asst. Supt. LeClair; speaker not determinable"
+  },
+  "79": {
+   "name": "Unidentified",
+   "role": "Unidentified - short acknowledgments during the student presentations and citizens' comments; cluster shared with Asst. Supt. LeClair; speaker not determinable"
+  },
+  "83": {
+   "name": "Unidentified",
+   "role": "Unidentified - short acknowledgments during the student presentations and citizens' comments; cluster shared with Asst. Supt. LeClair; speaker not determinable"
+  },
+  "85": {
+   "name": "Unidentified",
+   "role": "Unidentified - short acknowledgments during the student presentations and citizens' comments; cluster shared with Asst. Supt. LeClair; speaker not determinable"
+  },
+  "88": {
+   "name": "Unidentified",
+   "role": "Unidentified - short acknowledgments during the student presentations and citizens' comments; cluster shared with Asst. Supt. LeClair; speaker not determinable"
+  },
+  "90": {
+   "name": "Unidentified",
+   "role": "Unidentified - short acknowledgments during the student presentations and citizens' comments; cluster shared with Asst. Supt. LeClair; speaker not determinable"
+  },
+  "92": {
+   "name": "Unidentified",
+   "role": "Unidentified - short acknowledgments during the student presentations and citizens' comments; cluster shared with Asst. Supt. LeClair; speaker not determinable"
+  },
+  "94": {
+   "name": "Unidentified",
+   "role": "Unidentified - short acknowledgments during the student presentations and citizens' comments; cluster shared with Asst. Supt. LeClair; speaker not determinable"
+  },
+  "99": {
+   "name": "Unidentified",
+   "role": "Unidentified - short acknowledgments during the student presentations and citizens' comments; cluster shared with Asst. Supt. LeClair; speaker not determinable"
+  },
+  "111": {
+   "name": "Unidentified",
+   "role": "Unidentified - short acknowledgments during the student presentations and citizens' comments; cluster shared with Asst. Supt. LeClair; speaker not determinable"
+  },
+  "135": {
+   "name": "Unidentified",
+   "role": "Unidentified - short acknowledgments during the student presentations and citizens' comments; cluster shared with Asst. Supt. LeClair; speaker not determinable"
+  },
+  "144": {
+   "name": "Unidentified",
+   "role": "Unidentified - short acknowledgments during the student presentations and citizens' comments; cluster shared with Asst. Supt. LeClair; speaker not determinable"
+  },
+  "146": {
+   "name": "Unidentified",
+   "role": "Unidentified - short acknowledgments during the student presentations and citizens' comments; cluster shared with Asst. Supt. LeClair; speaker not determinable"
+  },
+  "149": {
+   "name": "Unidentified",
+   "role": "Unidentified - short acknowledgments during the student presentations and citizens' comments; cluster shared with Asst. Supt. LeClair; speaker not determinable"
+  },
+  "152": {
+   "name": "Unidentified",
+   "role": "Unidentified - short acknowledgments during the student presentations and citizens' comments; cluster shared with Asst. Supt. LeClair; speaker not determinable"
+  },
+  "157": {
+   "name": "Unidentified",
+   "role": "Unidentified - short acknowledgments during the student presentations and citizens' comments; cluster shared with Asst. Supt. LeClair; speaker not determinable"
+  },
+  "168": {
+   "name": "Unidentified",
+   "role": "Unidentified - short acknowledgments during the student presentations and citizens' comments; cluster shared with Asst. Supt. LeClair; speaker not determinable"
+  },
+  "62": {
+   "name": "Michelle Pierce"
+  },
+  "1187": {
+   "name": "Cory LeClair"
+  },
+  "389": {
+   "name": "Unidentified",
+   "role": "Unidentified - administrator answering substitute-coverage data ('About 52 substitutes total' [391]; 'I'm pulling it up right now' [441]); shares a cluster with Petrin; possibly Asst. Supt. LeClair or O'Neill"
+  },
+  "391": {
+   "name": "Unidentified",
+   "role": "Unidentified - administrator answering substitute-coverage data ('About 52 substitutes total' [391]; 'I'm pulling it up right now' [441]); shares a cluster with Petrin; possibly Asst. Supt. LeClair or O'Neill"
+  },
+  "393": {
+   "name": "Unidentified",
+   "role": "Unidentified - administrator answering substitute-coverage data ('About 52 substitutes total' [391]; 'I'm pulling it up right now' [441]); shares a cluster with Petrin; possibly Asst. Supt. LeClair or O'Neill"
+  },
+  "410": {
+   "name": "Unidentified",
+   "role": "Unidentified - administrator answering substitute-coverage data ('About 52 substitutes total' [391]; 'I'm pulling it up right now' [441]); shares a cluster with Petrin; possibly Asst. Supt. LeClair or O'Neill"
+  },
+  "425": {
+   "name": "Unidentified",
+   "role": "Unidentified - administrator answering substitute-coverage data ('About 52 substitutes total' [391]; 'I'm pulling it up right now' [441]); shares a cluster with Petrin; possibly Asst. Supt. LeClair or O'Neill"
+  },
+  "428": {
+   "name": "Unidentified",
+   "role": "Unidentified - administrator answering substitute-coverage data ('About 52 substitutes total' [391]; 'I'm pulling it up right now' [441]); shares a cluster with Petrin; possibly Asst. Supt. LeClair or O'Neill"
+  },
+  "431": {
+   "name": "Unidentified",
+   "role": "Unidentified - administrator answering substitute-coverage data ('About 52 substitutes total' [391]; 'I'm pulling it up right now' [441]); shares a cluster with Petrin; possibly Asst. Supt. LeClair or O'Neill"
+  },
+  "433": {
+   "name": "Unidentified",
+   "role": "Unidentified - administrator answering substitute-coverage data ('About 52 substitutes total' [391]; 'I'm pulling it up right now' [441]); shares a cluster with Petrin; possibly Asst. Supt. LeClair or O'Neill"
+  },
+  "439": {
+   "name": "Unidentified",
+   "role": "Unidentified - administrator answering substitute-coverage data ('About 52 substitutes total' [391]; 'I'm pulling it up right now' [441]); shares a cluster with Petrin; possibly Asst. Supt. LeClair or O'Neill"
+  },
+  "441": {
+   "name": "Unidentified",
+   "role": "Unidentified - administrator answering substitute-coverage data ('About 52 substitutes total' [391]; 'I'm pulling it up right now' [441]); shares a cluster with Petrin; possibly Asst. Supt. LeClair or O'Neill"
+  },
+  "555": {
+   "name": "Michael Petrin",
+   "role": "Claremont School Board member (recognized 'Mike, what do you got?' [769-770] and 'Mike, do you have' [1050] before this voice speaks; roll call 'Mike ... No' [1117-1118]; board-member Mike per roster = Michael Petrin; uncertain on some short segments of this mixed cluster) - uncertain: speech after the chair's recognition 'Mike. And then Alex.' [554], split across four clusters"
+  },
+  "556": {
+   "name": "Michael Petrin",
+   "role": "Claremont School Board member (recognized 'Mike, what do you got?' [769-770] and 'Mike, do you have' [1050] before this voice speaks; roll call 'Mike ... No' [1117-1118]; board-member Mike per roster = Michael Petrin; uncertain on some short segments of this mixed cluster) - uncertain: speech after the chair's recognition 'Mike. And then Alex.' [554], split across four clusters"
+  },
+  "558": {
+   "name": "Michael Petrin",
+   "role": "Claremont School Board member (recognized 'Mike, what do you got?' [769-770] and 'Mike, do you have' [1050] before this voice speaks; roll call 'Mike ... No' [1117-1118]; board-member Mike per roster = Michael Petrin; uncertain on some short segments of this mixed cluster) - uncertain: speech after the chair's recognition 'Mike. And then Alex.' [554], split across four clusters"
+  },
+  "559": {
+   "name": "Michael Petrin",
+   "role": "Claremont School Board member (recognized 'Mike, what do you got?' [769-770] and 'Mike, do you have' [1050] before this voice speaks; roll call 'Mike ... No' [1117-1118]; board-member Mike per roster = Michael Petrin; uncertain on some short segments of this mixed cluster) - uncertain: speech after the chair's recognition 'Mike. And then Alex.' [554], split across four clusters"
+  },
+  "561": {
+   "name": "Michael Petrin",
+   "role": "Claremont School Board member (recognized 'Mike, what do you got?' [769-770] and 'Mike, do you have' [1050] before this voice speaks; roll call 'Mike ... No' [1117-1118]; board-member Mike per roster = Michael Petrin; uncertain on some short segments of this mixed cluster) - uncertain: speech after the chair's recognition 'Mike. And then Alex.' [554], split across four clusters"
+  },
+  "563": {
+   "name": "Michael Petrin",
+   "role": "Claremont School Board member (recognized 'Mike, what do you got?' [769-770] and 'Mike, do you have' [1050] before this voice speaks; roll call 'Mike ... No' [1117-1118]; board-member Mike per roster = Michael Petrin; uncertain on some short segments of this mixed cluster) - uncertain: speech after the chair's recognition 'Mike. And then Alex.' [554], split across four clusters"
+  },
+  "569": {
+   "name": "Michael Petrin",
+   "role": "Claremont School Board member (recognized 'Mike, what do you got?' [769-770] and 'Mike, do you have' [1050] before this voice speaks; roll call 'Mike ... No' [1117-1118]; board-member Mike per roster = Michael Petrin; uncertain on some short segments of this mixed cluster) - uncertain: speech after the chair's recognition 'Mike. And then Alex.' [554], split across four clusters"
+  },
+  "715": {
+   "name": "Chris Irish"
+  },
+  "995": {
+   "name": "Frank Sprague"
+  },
+  "1042": {
+   "name": "Frank Sprague"
+  },
+  "1034": {
+   "name": "Unidentified",
+   "role": "Unidentified - procedural remark on the amendment"
+  },
+  "1062": {
+   "name": "Unidentified",
+   "role": "Unidentified - recognition 'Alex.'"
+  },
+  "1216": {
+   "name": "Unidentified",
+   "role": "Unidentified - short remark"
+  }
+ }
+}

@@ -1,0 +1,92 @@
+{
+ "Speaker 1": {
+  "name": "Unidentified",
+  "role": "Unidentified - closing remark [393]"
+ },
+ "Speaker 2": {
+  "name": "Unidentified",
+  "role": "Unidentified - short interjections"
+ },
+ "Speaker 3": {
+  "name": "Frank Sprague",
+  "role": "Claremont School Board Chair (runs the meeting: calls for roll-call vote [4], agenda, citizens' comments [26], votes; recognizes 'Michelle' [161], 'Rebecca' [184], 'Carolyn' [251]; speaks from 'having worked in schools for many years' [236])"
+ },
+ "Speaker 4": {
+  "name": "Jason Benware",
+  "role": "Claremont School Board member (chair's recognition 'Jason.' absorbed at the onset of [152]; Zullo: 'Jason just mentioned it' [185] referring to [152-154]; first in the roll-call vote [5])"
+ },
+ "Speaker 5": {
+  "name": "Rebecca Zullo",
+  "role": "Claremont School Board Vice Chair (chair: 'So, Rebecca.' [184] -> [185]; reports search-survey data with 'Carol and I' [353-354])"
+ },
+ "Speaker 6": {
+  "name": "Unidentified",
+  "role": "Unidentified - 'Excuse me' [15]"
+ },
+ "Speaker 7": {
+  "name": "Michael Petrin",
+  "role": "Claremont School Board member (Zullo: 'Does that help at all Mike' [83] -> [84]; chair: 'Further comments Mike.' [175] -> [176]; 'Thank you, Mike, for putting that in' [251] after [248-250])"
+ },
+ "Speaker 8": {
+  "name": "Deborah Chase",
+  "role": "Public commenter, Ward 1 (name given as 'Debbie chase. Deborah chase.' [28]; 'Ward one' [30]; spelling not verified)"
+ },
+ "Speaker 9": {
+  "name": "Carolyn Towle",
+  "role": "Claremont School Board member (chair: 'Carolyn.' [251] -> [252] 'Mike grab some of mine'; co-leads search-survey communication with Rebecca [349], matching Zullo's 'Carol and I' [354])"
+ },
+ "Speaker 10": {
+  "name": "Michael O'Neill",
+  "role": "Business Administrator, SAU 6 (uncertain - not named at his turns; Zullo: 'Mike had a sheet ... that listed all the revenues' [72]; state revenue spreadsheet [95]; 2017-18 lunch-deficit figures [133-148]; surname from roster)"
+ },
+ "Speaker 11": {
+  "name": "Cory LeClair",
+  "role": "Assistant Superintendent, SAU 6 (Benware: 'what Corey just outlined is the right approach' [182] after her plan [171-174]; donation deadline and policy subcommittee [269-342])"
+ },
+ "Speaker 12": {
+  "name": "Unidentified",
+  "role": "Unidentified - short interjections from several voices"
+ },
+ "Speaker 13": {
+  "name": "Unidentified",
+  "role": "Unidentified - 'Thank you' [125]"
+ },
+ "Speaker 14": {
+  "name": "Michelle Pierce",
+  "role": "Claremont School Board member (chair: 'Michelle.' [161] -> [162]; LeClair or superintendent answers 'Michelle, we will meet with the Abbey group' [308] after her question [301-306])"
+ },
+ "Speaker 15": {
+  "name": "Keith Pfeifer",
+  "role": "Interim Superintendent, SAU 6 (uncertain - not named on this recording; administrator voice distinct from LeClair and the business administrator; speaks for the district on in-district special education programs with the city [258] and meeting the Abbey Group [308])"
+ },
+ "Speaker 16": {
+  "name": "Unidentified",
+  "role": "Unidentified - cluster of short responses from several board members and staff"
+ },
+ "__overrides__": {
+  "6": {
+   "name": "Unidentified",
+   "role": "Unidentified - roll-call calls and responses mixed (clerk Mary Woodman calling, members answering)"
+  },
+  "8": {
+   "name": "Unidentified",
+   "role": "Unidentified - roll-call calls and responses mixed (clerk Mary Woodman calling, members answering)"
+  },
+  "14": {
+   "name": "Unidentified",
+   "role": "Unidentified - roll-call calls and responses mixed (clerk Mary Woodman calling, members answering)"
+  },
+  "17": {
+   "name": "Unidentified",
+   "role": "Unidentified - roll-call calls and responses mixed (clerk Mary Woodman calling, members answering)"
+  },
+  "28": {
+   "name": "Unidentified",
+   "role": "Unidentified - mixed: request for the commenter's name and her answer 'Debbie chase. Deborah chase.'"
+  },
+  "7": {
+   "name": "Frank Sprague",
+   "role": "Claremont School Board Chair (runs the meeting: calls for roll-call vote [4], agenda, citizens' comments [26], votes; recognizes 'Michelle' [161], 'Rebecca' [184], 'Carolyn' [251]; speaks from 'having worked in schools for many years' [236])"
+  }
+ }
+}

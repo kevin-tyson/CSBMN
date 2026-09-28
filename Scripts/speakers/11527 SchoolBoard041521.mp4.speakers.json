@@ -1,0 +1,352 @@
+{
+ "Speaker 1": {
+  "name": "Michael Tempesta",
+  "role": "Superintendent, SAU 6"
+ },
+ "Speaker 6": {
+  "name": "Frank Sprague",
+  "role": "Claremont School Board Chair"
+ },
+ "Speaker 16": {
+  "name": "Frank Sprague",
+  "role": "Claremont School Board Chair"
+ },
+ "Speaker 10": {
+  "name": "Richard Seaman",
+  "role": "Business Administrator (Director of Finance), SAU 6"
+ },
+ "Speaker 2": {
+  "name": "Heather Whitney",
+  "role": "Claremont School Board member"
+ },
+ "Speaker 11": {
+  "name": "Michael Petrin",
+  "role": "Claremont School Board member"
+ },
+ "Speaker 13": {
+  "name": "Steven Horsky",
+  "role": "Claremont School Board member"
+ },
+ "Speaker 7": {
+  "name": "Rob Lovett Jr.",
+  "role": "Claremont School Board member (uncertain - identified from the chair recognizing \"Rob.\" [270] and the twin recording 11444)"
+ },
+ "Speaker 12": {
+  "name": "Donna Magoon",
+  "role": "Assistant Superintendent, SAU 6"
+ },
+ "Speaker 5": {
+  "name": "Mary Woodman",
+  "role": "School district clerk and board recording secretary"
+ },
+ "Speaker 9": {
+  "name": "Prescott Herzog",
+  "role": "Student representative to the Claremont School Board (uncertain - not named as speaker on this recording; named student representative on 5/5/2021, file 11510)"
+ },
+ "Speaker 3": {
+  "name": "Unidentified",
+  "role": "Unidentified - short fragments and clipped onsets from several voices; see overrides"
+ },
+ "Speaker 4": {
+  "name": "Unidentified",
+  "role": "Unidentified - cluster mixes short interjections, votes and acknowledgements from several board members and staff"
+ },
+ "Speaker 8": {
+  "name": "Unidentified",
+  "role": "Unidentified - technical remark about the microphone being muted for online viewers"
+ },
+ "Speaker 14": {
+  "name": "Unidentified",
+  "role": "Unidentified - board member remark about the retreat date"
+ },
+ "Speaker 15": {
+  "name": "Unidentified",
+  "role": "Unidentified - board member remark about the retreat date"
+ },
+ "__overrides__": {
+  "4": {
+   "name": "Unidentified",
+   "role": "Unidentified - segment merges the chair opening the public hearing and the superintendent's start on the Russ grant"
+  },
+  "22": {
+   "name": "Unidentified",
+   "role": "Unidentified - segment merges chair and superintendent remarks on the public hearing items"
+  },
+  "24": {
+   "name": "Frank Sprague",
+   "role": "Claremont School Board Chair"
+  },
+  "25": {
+   "name": "Frank Sprague",
+   "role": "Claremont School Board Chair"
+  },
+  "26": {
+   "name": "Frank Sprague",
+   "role": "Claremont School Board Chair"
+  },
+  "27": {
+   "name": "Frank Sprague",
+   "role": "Claremont School Board Chair"
+  },
+  "28": {
+   "name": "Frank Sprague",
+   "role": "Claremont School Board Chair"
+  },
+  "29": {
+   "name": "Unidentified",
+   "role": "Unidentified - pledge of allegiance, group recitation"
+  },
+  "30": {
+   "name": "Unidentified",
+   "role": "Unidentified - pledge of allegiance, group recitation"
+  },
+  "31": {
+   "name": "Unidentified",
+   "role": "Unidentified - pledge of allegiance, group recitation"
+  },
+  "32": {
+   "name": "Unidentified",
+   "role": "Unidentified - pledge of allegiance, group recitation"
+  },
+  "33": {
+   "name": "Unidentified",
+   "role": "Unidentified - pledge of allegiance, group recitation"
+  },
+  "34": {
+   "name": "Frank Sprague",
+   "role": "Claremont School Board Chair"
+  },
+  "35": {
+   "name": "Frank Sprague",
+   "role": "Claremont School Board Chair"
+  },
+  "36": {
+   "name": "Frank Sprague",
+   "role": "Claremont School Board Chair"
+  },
+  "37": {
+   "name": "Unidentified",
+   "role": "Unidentified - clerk's call of 'Steven' and his answer"
+  },
+  "39": {
+   "name": "Unidentified",
+   "role": "Unidentified - remark that Carolyn Towle is absent"
+  },
+  "40": {
+   "name": "Unidentified",
+   "role": "Unidentified - remark that Carolyn Towle is absent"
+  },
+  "41": {
+   "name": "Unidentified",
+   "role": "Unidentified - remark that Carolyn Towle is absent"
+  },
+  "42": {
+   "name": "Unidentified",
+   "role": "Unidentified - remark that Carolyn Towle is absent"
+  },
+  "44": {
+   "name": "Frank Sprague",
+   "role": "Claremont School Board Chair"
+  },
+  "45": {
+   "name": "Frank Sprague",
+   "role": "Claremont School Board Chair"
+  },
+  "47": {
+   "name": "Frank Sprague",
+   "role": "Claremont School Board Chair"
+  },
+  "49": {
+   "name": "Frank Sprague",
+   "role": "Claremont School Board Chair"
+  },
+  "50": {
+   "name": "Michael Petrin",
+   "role": "Claremont School Board member"
+  },
+  "51": {
+   "name": "Unidentified",
+   "role": "Unidentified - board member seconding"
+  },
+  "52": {
+   "name": "Frank Sprague",
+   "role": "Claremont School Board Chair"
+  },
+  "53": {
+   "name": "Frank Sprague",
+   "role": "Claremont School Board Chair"
+  },
+  "56": {
+   "name": "Unidentified",
+   "role": "Unidentified - roll-call vote answer (Lambert or Petrin)"
+  },
+  "58": {
+   "name": "Rob Lovett Jr.",
+   "role": "Claremont School Board member (uncertain - identified from the chair recognizing \"Rob.\" [270] and the twin recording 11444)"
+  },
+  "62": {
+   "name": "Frank Sprague",
+   "role": "Claremont School Board Chair"
+  },
+  "63": {
+   "name": "Frank Sprague",
+   "role": "Claremont School Board Chair"
+  },
+  "64": {
+   "name": "Unidentified",
+   "role": "Unidentified - explains why roll-call votes were used while online"
+  },
+  "66": {
+   "name": "Unidentified",
+   "role": "Unidentified - short remark"
+  },
+  "68": {
+   "name": "Frank Sprague",
+   "role": "Claremont School Board Chair"
+  },
+  "72": {
+   "name": "Frank Sprague",
+   "role": "Claremont School Board Chair"
+  },
+  "73": {
+   "name": "Michael Petrin",
+   "role": "Claremont School Board member"
+  },
+  "74": {
+   "name": "Frank Sprague",
+   "role": "Claremont School Board Chair"
+  },
+  "76": {
+   "name": "Frank Sprague",
+   "role": "Claremont School Board Chair"
+  },
+  "77": {
+   "name": "Frank Sprague",
+   "role": "Claremont School Board Chair"
+  },
+  "84": {
+   "name": "Frank Sprague",
+   "role": "Claremont School Board Chair"
+  },
+  "85": {
+   "name": "Frank Sprague",
+   "role": "Claremont School Board Chair"
+  },
+  "86": {
+   "name": "Frank Sprague",
+   "role": "Claremont School Board Chair"
+  },
+  "87": {
+   "name": "Unidentified",
+   "role": "Unidentified - segment merges chair calling the superintendent's report and the superintendent's reply"
+  },
+  "88": {
+   "name": "Michael Tempesta",
+   "role": "Superintendent, SAU 6"
+  },
+  "92": {
+   "name": "Frank Sprague",
+   "role": "Claremont School Board Chair"
+  },
+  "94": {
+   "name": "Frank Sprague",
+   "role": "Claremont School Board Chair"
+  },
+  "120": {
+   "name": "Richard Seaman",
+   "role": "Business Administrator (Director of Finance), SAU 6"
+  },
+  "146": {
+   "name": "Unidentified",
+   "role": "Unidentified - short answer to Whitney's question"
+  },
+  "149": {
+   "name": "Michael Tempesta",
+   "role": "Superintendent, SAU 6"
+  },
+  "159": {
+   "name": "Michael Tempesta",
+   "role": "Superintendent, SAU 6"
+  },
+  "178": {
+   "name": "Michael Tempesta",
+   "role": "Superintendent, SAU 6"
+  },
+  "187": {
+   "name": "Donna Magoon",
+   "role": "Assistant Superintendent, SAU 6"
+  },
+  "216": {
+   "name": "Unidentified",
+   "role": "Unidentified - fragment (voice clustered with Seaman)"
+  },
+  "223": {
+   "name": "Michael Tempesta",
+   "role": "Superintendent, SAU 6"
+  },
+  "225": {
+   "name": "Michael Tempesta",
+   "role": "Superintendent, SAU 6"
+  },
+  "233": {
+   "name": "Frank Sprague",
+   "role": "Claremont School Board Chair"
+  },
+  "257": {
+   "name": "Unidentified",
+   "role": "Unidentified - board member seconding"
+  },
+  "259": {
+   "name": "Unidentified",
+   "role": "Unidentified - aye vote"
+  },
+  "270": {
+   "name": "Frank Sprague",
+   "role": "Claremont School Board Chair"
+  },
+  "271": {
+   "name": "Rob Lovett Jr.",
+   "role": "Claremont School Board member (uncertain - identified from the chair recognizing \"Rob.\" [270] and the twin recording 11444)"
+  },
+  "285": {
+   "name": "Steven Horsky",
+   "role": "Claremont School Board member"
+  },
+  "286": {
+   "name": "Steven Horsky",
+   "role": "Claremont School Board member"
+  },
+  "315": {
+   "name": "Steven Horsky",
+   "role": "Claremont School Board member"
+  },
+  "330": {
+   "name": "Unidentified",
+   "role": "Unidentified - short board-member query (voice clustered with Seaman)"
+  },
+  "333": {
+   "name": "Michael Tempesta",
+   "role": "Superintendent, SAU 6"
+  },
+  "373": {
+   "name": "Donna Magoon",
+   "role": "Assistant Superintendent, SAU 6"
+  },
+  "375": {
+   "name": "Donna Magoon",
+   "role": "Assistant Superintendent, SAU 6"
+  },
+  "378": {
+   "name": "Donna Magoon",
+   "role": "Assistant Superintendent, SAU 6"
+  },
+  "398": {
+   "name": "Unidentified",
+   "role": "Unidentified - fragment (voice clustered with Seaman)"
+  },
+  "23": {
+   "name": "Frank Sprague",
+   "role": "Claremont School Board Chair"
+  }
+ }
+}

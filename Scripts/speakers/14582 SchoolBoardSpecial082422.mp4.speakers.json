@@ -1,0 +1,97 @@
+{
+ "Speaker 1": {
+  "name": "Heather Whitney",
+  "role": "Claremont School Board Vice Chair, presiding in the chair's absence"
+ },
+ "Speaker 2": {
+  "name": "Unidentified",
+  "role": "Mixed cluster - one or more board members' questions and motions plus short responses; see overrides"
+ },
+ "Speaker 3": {
+  "name": "Unidentified",
+  "role": "Board member motions and interjections (not named)"
+ },
+ "Speaker 4": {
+  "name": "Frank Sprague",
+  "role": "Claremont School Board member"
+ },
+ "Speaker 5": {
+  "name": "Joshua Lambert",
+  "role": "Claremont School Board member"
+ },
+ "Speaker 6": {
+  "name": "Unidentified",
+  "role": "Stevens High School administrator presenting the SHS handbook and restorative practices (not named)"
+ },
+ "Speaker 7": {
+  "name": "Whitney Skillen",
+  "role": "Claremont School Board member"
+ },
+ "Speaker 8": {
+  "name": "Michael Tempesta",
+  "role": "Superintendent, SAU 6 (uncertain - never named in his own turns; identified by role content and the chair's references to 'Mike')"
+ },
+ "Speaker 9": {
+  "name": "Unidentified",
+  "role": "Mixed short responses, seconds and ayes from several board members"
+ },
+ "Speaker 10": {
+  "name": "Unidentified",
+  "role": "Tech center staff member clarifying program listings (not named)"
+ },
+ "Speaker 11": {
+  "name": "Unidentified",
+  "role": "Administrator responding 'We'll get on that' (not named)"
+ },
+ "Speaker 12": {
+  "name": "Michael Koski",
+  "role": "SAU 6 administrator leading the curriculum team (uncertain - not named on this recording; answers the superintendent's question about his prior district, and on 8/17/22 'Mr. Costa' = Koski cites 'my prior district'; Assistant Superintendent in 2023 records)"
+ },
+ "Speaker 13": {
+  "name": "Unidentified",
+  "role": "Board member (not named)"
+ },
+ "__overrides__": {
+  "3": {
+   "name": "Melissa Small",
+   "role": "SAU 6 administrative assistant, calling the roll"
+  },
+  "6": {
+   "name": "Unidentified",
+   "role": "Board member motions and interjections (not named)"
+  },
+  "293": {
+   "name": "Richard Seaman",
+   "role": "Assistant Superintendent for Finance, Operations and Human Resources, SAU 6"
+  },
+  "296": {
+   "name": "Richard Seaman",
+   "role": "Assistant Superintendent for Finance, Operations and Human Resources, SAU 6"
+  },
+  "298": {
+   "name": "Richard Seaman",
+   "role": "Assistant Superintendent for Finance, Operations and Human Resources, SAU 6"
+  },
+  "300": {
+   "name": "Richard Seaman",
+   "role": "Assistant Superintendent for Finance, Operations and Human Resources, SAU 6"
+  },
+  "302": {
+   "name": "Richard Seaman",
+   "role": "Assistant Superintendent for Finance, Operations and Human Resources, SAU 6"
+  },
+  "227": {
+   "name": "Michael Koski"
+  },
+  "229": {
+   "name": "Michael Koski"
+  },
+  "230": {
+   "name": "Michael Koski"
+  },
+  "1": {
+   "name": "Unidentified",
+   "role": "Group recitation of the Pledge of Allegiance led by the presiding officer"
+  }
+ }
+}

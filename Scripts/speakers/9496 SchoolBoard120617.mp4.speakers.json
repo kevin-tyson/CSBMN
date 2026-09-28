@@ -1,0 +1,372 @@
+{
+ "Speaker 1": {
+  "name": "Unidentified",
+  "role": "Unidentified - mixed cluster: board members' short responses (pledge, motions, 'here'), plus overrides for Alex Herzog and public commenter Steve"
+ },
+ "Speaker 2": {
+  "name": "Unidentified",
+  "role": "Music Director, Stevens High School (name not stated on this recording; also carries a few short staff interjections)"
+ },
+ "Speaker 3": {
+  "name": "Brian Rapp",
+  "role": "Claremont School Board Chair"
+ },
+ "Speaker 4": {
+  "name": "Lexi",
+  "role": "Student Representative, Stevens High School (addressed as 'Lexi'; surname not on this recording)"
+ },
+ "Speaker 5": {
+  "name": "Frank Sprague",
+  "role": "Claremont School Board member"
+ },
+ "Speaker 6": {
+  "name": "Middleton McGoodwin",
+  "role": "Superintendent, SAU 6"
+ },
+ "Speaker 7": {
+  "name": "Unidentified",
+  "role": "Unidentified - short interjections from several voices"
+ },
+ "Speaker 8": {
+  "name": "Unidentified",
+  "role": "Unidentified - short interjections (seg 81 is Michelle Pierce's request merged with the chair's recognition)"
+ },
+ "Speaker 9": {
+  "name": "Michelle Pierce",
+  "role": "Claremont School Board member"
+ },
+ "Speaker 10": {
+  "name": "Nathan",
+  "role": "Associate Business Administrator and HR Director, SAU 6 (addressed as 'Nate'/'Nathan'; surname not on this recording)"
+ },
+ "Speaker 11": {
+  "name": "Rebecca Zullo",
+  "role": "Claremont School Board member"
+ },
+ "Speaker 12": {
+  "name": "Unidentified",
+  "role": "Unidentified staff member explaining the ASAP substitute-coordinator history (possibly Business Administrator Michael O'Neill; uncertain - separate cluster)"
+ },
+ "Speaker 13": {
+  "name": "Michael O'Neill",
+  "role": "Business Administrator, SAU 6 (addressed as 'Mike'; surname per roster)"
+ },
+ "Speaker 14": {
+  "name": "Amanda Plummer Harrell",
+  "role": "Public commenter, Bluff School parent (name as stated, ASR 'Amanda Plummer Harrell')"
+ },
+ "Speaker 15": {
+  "name": "Sabrina Harrell",
+  "role": "Public commenter, Bluff School parent (introduced by Amanda Plummer Harrell)"
+ },
+ "Speaker 16": {
+  "name": "Unidentified",
+  "role": "Unidentified - mixed cluster of short responses ('thank you', 'aye', fragments) from board, staff and audience"
+ },
+ "Speaker 17": {
+  "name": "Tom Rock",
+  "role": "Public commenter, Ward 2 (McNutt later says 'Tom Roth', ASR variant)"
+ },
+ "Speaker 18": {
+  "name": "Unidentified",
+  "role": "Unidentified - short interjections from several voices"
+ },
+ "Speaker 19": {
+  "name": "Andy",
+  "role": "Public commenter, Ward 3, Vice President of the Claremont Development Authority (first name from chair's recognition only)"
+ },
+ "Speaker 20": {
+  "name": "Larissa Cahill",
+  "role": "Public commenter, Ward 2, Stevens High School staff member and parent"
+ },
+ "Speaker 21": {
+  "name": "Ron Perry",
+  "role": "Public commenter, Ward 3"
+ },
+ "Speaker 22": {
+  "name": "David",
+  "role": "Public commenter, Ward 2 (first name as stated; McNutt later refers to 'Mr. Piketty' going through the school budget, ASR surname uncertain)"
+ },
+ "Speaker 23": {
+  "name": "Ryan McNutt",
+  "role": "City Manager, City of Claremont"
+ },
+ "Speaker 24": {
+  "name": "Chris Irish",
+  "role": "Claremont School Board Vice Chair"
+ },
+ "Speaker 25": {
+  "name": "Cory LeClair",
+  "role": "Assistant Superintendent, SAU 6"
+ },
+ "Speaker 26": {
+  "name": "Josh Malloy",
+  "role": "Director of Instructional Technology, SAU 6 (addressed as 'Josh'; surname per superintendent's introduction, ASR 'Malloy')"
+ },
+ "Speaker 27": {
+  "name": "Unidentified",
+  "role": "Claremont School Board member, male (uncertain - Michael Petrin or Alex Herzog; no name cue on this cluster)"
+ },
+ "Speaker 28": {
+  "name": "Unidentified",
+  "role": "Unidentified - short fragments"
+ },
+ "Speaker 29": {
+  "name": "Unidentified",
+  "role": "Claremont School Board member (uncertain - Michael Petrin or Alex Herzog; no name cue; may be the same person as Speaker 27)"
+ },
+ "Speaker 30": {
+  "name": "Unidentified",
+  "role": "Unidentified - single short remark"
+ },
+ "Speaker 31": {
+  "name": "Patricia Barry",
+  "role": "Principal, Stevens High School (addressed as 'Pat', 'Pat Barry', 'Doctor Barry')"
+ },
+ "Speaker 32": {
+  "name": "Paulette Fitzgerald",
+  "role": "Administrator, Claremont Middle School (introduced by the superintendent; title inferred from content, uncertain)"
+ },
+ "Speaker 33": {
+  "name": "Unidentified",
+  "role": "Unidentified - short fragments; seg 1042 reassigned to Michael O'Neill"
+ },
+ "Speaker 34": {
+  "name": "Chris",
+  "role": "Staff member called on by Principal Barry about crisis counselors and the Alt program (first name only; not board Vice Chair Chris Irish)"
+ },
+ "Speaker 35": {
+  "name": "Ms. Rhines",
+  "role": "School Counselor, Stevens High School (surname as heard, ASR 'Rhines'/'Rimes'; first name not on this recording)"
+ },
+ "Speaker 36": {
+  "name": "Unidentified",
+  "role": "Elementary school administrator (name not stated; spoke on the School Resource Officer)"
+ },
+ "Speaker 37": {
+  "name": "Unidentified",
+  "role": "Unidentified staff member who spoke on the SRO and CopSync (name not stated)"
+ },
+ "__overrides__": {
+  "7": {
+   "name": "Unidentified",
+   "role": "Roll call responses, members stating their own names (merged into one cluster)"
+  },
+  "9": {
+   "name": "Unidentified",
+   "role": "Roll call responses, members stating their own names (merged into one cluster)"
+  },
+  "10": {
+   "name": "Unidentified",
+   "role": "Roll call responses, members stating their own names (merged into one cluster)"
+  },
+  "14": {
+   "name": "Unidentified",
+   "role": "Board member seconding the agenda motion"
+  },
+  "173": {
+   "name": "Alex Herzog",
+   "role": "Claremont School Board member"
+  },
+  "175": {
+   "name": "Alex Herzog",
+   "role": "Claremont School Board member"
+  },
+  "177": {
+   "name": "Alex Herzog",
+   "role": "Claremont School Board member"
+  },
+  "180": {
+   "name": "Alex Herzog",
+   "role": "Claremont School Board member"
+  },
+  "275": {
+   "name": "Tom Rock",
+   "role": "Public commenter, Ward 2 (McNutt later says 'Tom Roth', ASR variant)"
+  },
+  "295": {
+   "name": "Steve",
+   "role": "Public commenter, Francis Street (first name as stated; Zullo thanks 'Mr. Mirsky', ASR surname)"
+  },
+  "296": {
+   "name": "Steve",
+   "role": "Public commenter, Francis Street (first name as stated; Zullo thanks 'Mr. Mirsky', ASR surname)"
+  },
+  "297": {
+   "name": "Steve",
+   "role": "Public commenter, Francis Street (first name as stated; Zullo thanks 'Mr. Mirsky', ASR surname)"
+  },
+  "298": {
+   "name": "Steve",
+   "role": "Public commenter, Francis Street (first name as stated; Zullo thanks 'Mr. Mirsky', ASR surname)"
+  },
+  "299": {
+   "name": "Steve",
+   "role": "Public commenter, Francis Street (first name as stated; Zullo thanks 'Mr. Mirsky', ASR surname)"
+  },
+  "300": {
+   "name": "Steve",
+   "role": "Public commenter, Francis Street (first name as stated; Zullo thanks 'Mr. Mirsky', ASR surname)"
+  },
+  "301": {
+   "name": "Steve",
+   "role": "Public commenter, Francis Street (first name as stated; Zullo thanks 'Mr. Mirsky', ASR surname)"
+  },
+  "302": {
+   "name": "Steve",
+   "role": "Public commenter, Francis Street (first name as stated; Zullo thanks 'Mr. Mirsky', ASR surname)"
+  },
+  "348": {
+   "name": "David",
+   "role": "Public commenter, Ward 2 (first name as stated; McNutt later refers to 'Mr. Piketty' going through the school budget, ASR surname uncertain)"
+  },
+  "349": {
+   "name": "David",
+   "role": "Public commenter, Ward 2 (first name as stated; McNutt later refers to 'Mr. Piketty' going through the school budget, ASR surname uncertain)"
+  },
+  "350": {
+   "name": "David",
+   "role": "Public commenter, Ward 2 (first name as stated; McNutt later refers to 'Mr. Piketty' going through the school budget, ASR surname uncertain)"
+  },
+  "478": {
+   "name": "Ryan McNutt",
+   "role": "City Manager, City of Claremont"
+  },
+  "492": {
+   "name": "Cory LeClair",
+   "role": "Assistant Superintendent, SAU 6"
+  },
+  "494": {
+   "name": "Cory LeClair",
+   "role": "Assistant Superintendent, SAU 6"
+  },
+  "496": {
+   "name": "Cory LeClair",
+   "role": "Assistant Superintendent, SAU 6"
+  },
+  "746": {
+   "name": "Paulette Fitzgerald",
+   "role": "Administrator, Claremont Middle School (introduced by the superintendent; title inferred from content, uncertain)"
+  },
+  "925": {
+   "name": "Ms. Rhines",
+   "role": "School Counselor, Stevens High School (surname as heard, ASR 'Rhines'/'Rimes'; first name not on this recording)"
+  },
+  "927": {
+   "name": "Ms. Rhines",
+   "role": "School Counselor, Stevens High School (surname as heard, ASR 'Rhines'/'Rimes'; first name not on this recording)"
+  },
+  "1031": {
+   "name": "Amy",
+   "role": "Adult Education Director, Claremont (addressed as 'Amy'; surname not on this recording)"
+  },
+  "1032": {
+   "name": "Amy",
+   "role": "Adult Education Director, Claremont (addressed as 'Amy'; surname not on this recording)"
+  },
+  "1033": {
+   "name": "Amy",
+   "role": "Adult Education Director, Claremont (addressed as 'Amy'; surname not on this recording)"
+  },
+  "1035": {
+   "name": "Amy",
+   "role": "Adult Education Director, Claremont (addressed as 'Amy'; surname not on this recording)"
+  },
+  "1036": {
+   "name": "Amy",
+   "role": "Adult Education Director, Claremont (addressed as 'Amy'; surname not on this recording)"
+  },
+  "1038": {
+   "name": "Amy",
+   "role": "Adult Education Director, Claremont (addressed as 'Amy'; surname not on this recording)"
+  },
+  "1040": {
+   "name": "Amy",
+   "role": "Adult Education Director, Claremont (addressed as 'Amy'; surname not on this recording)"
+  },
+  "1041": {
+   "name": "Amy",
+   "role": "Adult Education Director, Claremont (addressed as 'Amy'; surname not on this recording)"
+  },
+  "1042": {
+   "name": "Michael O'Neill",
+   "role": "Business Administrator, SAU 6 (addressed as 'Mike'; surname per roster)"
+  },
+  "1043": {
+   "name": "Amy",
+   "role": "Adult Education Director, Claremont (addressed as 'Amy'; surname not on this recording)"
+  },
+  "1044": {
+   "name": "Amy",
+   "role": "Adult Education Director, Claremont (addressed as 'Amy'; surname not on this recording)"
+  },
+  "1045": {
+   "name": "Amy",
+   "role": "Adult Education Director, Claremont (addressed as 'Amy'; surname not on this recording)"
+  },
+  "1047": {
+   "name": "Amy",
+   "role": "Adult Education Director, Claremont (addressed as 'Amy'; surname not on this recording)"
+  },
+  "1050": {
+   "name": "Amy",
+   "role": "Adult Education Director, Claremont (addressed as 'Amy'; surname not on this recording)"
+  },
+  "1051": {
+   "name": "Amy",
+   "role": "Adult Education Director, Claremont (addressed as 'Amy'; surname not on this recording)"
+  },
+  "1053": {
+   "name": "Amy",
+   "role": "Adult Education Director, Claremont (addressed as 'Amy'; surname not on this recording)"
+  },
+  "1054": {
+   "name": "Amy",
+   "role": "Adult Education Director, Claremont (addressed as 'Amy'; surname not on this recording)"
+  },
+  "1056": {
+   "name": "Amy",
+   "role": "Adult Education Director, Claremont (addressed as 'Amy'; surname not on this recording)"
+  },
+  "1057": {
+   "name": "Amy",
+   "role": "Adult Education Director, Claremont (addressed as 'Amy'; surname not on this recording)"
+  },
+  "1058": {
+   "name": "Amy",
+   "role": "Adult Education Director, Claremont (addressed as 'Amy'; surname not on this recording)"
+  },
+  "1062": {
+   "name": "Amy",
+   "role": "Adult Education Director, Claremont (addressed as 'Amy'; surname not on this recording)"
+  },
+  "1063": {
+   "name": "Amy",
+   "role": "Adult Education Director, Claremont (addressed as 'Amy'; surname not on this recording)"
+  },
+  "1065": {
+   "name": "Amy",
+   "role": "Adult Education Director, Claremont (addressed as 'Amy'; surname not on this recording)"
+  },
+  "1067": {
+   "name": "Amy",
+   "role": "Adult Education Director, Claremont (addressed as 'Amy'; surname not on this recording)"
+  },
+  "1071": {
+   "name": "Amy",
+   "role": "Adult Education Director, Claremont (addressed as 'Amy'; surname not on this recording)"
+  },
+  "1072": {
+   "name": "Amy",
+   "role": "Adult Education Director, Claremont (addressed as 'Amy'; surname not on this recording)"
+  },
+  "1099": {
+   "name": "Cory LeClair",
+   "role": "Assistant Superintendent, SAU 6"
+  },
+  "1175": {
+   "name": "Unidentified",
+   "role": "Elementary school administrator (name not stated; spoke on the School Resource Officer)"
+  }
+ }
+}

@@ -1,0 +1,223 @@
+{
+ "Speaker 1": {
+  "name": "Frank Sprague",
+  "role": "Claremont School Board Chair"
+ },
+ "Speaker 2": {
+  "name": "Mary Woodman",
+  "role": "School district clerk and board recording secretary (takes roll)"
+ },
+ "Speaker 3": {
+  "name": "Michael Tempesta",
+  "role": "Superintendent, SAU 6"
+ },
+ "Speaker 4": {
+  "name": "Heather Whitney",
+  "role": "Claremont School Board Vice Chair"
+ },
+ "Speaker 5": {
+  "name": "Michael",
+  "role": "Public commenter, parent seeking tackle football for Wethersfield VT middle schoolers (first name only as stated)"
+ },
+ "Speaker 6": {
+  "name": "Steven Horsky",
+  "role": "Claremont School Board member"
+ },
+ "Speaker 7": {
+  "name": "Nicholas Stone",
+  "role": "Claremont School Board member"
+ },
+ "Speaker 8": {
+  "name": "Michael Petrin",
+  "role": "Claremont School Board member; SAU 6 Board Chair"
+ },
+ "Speaker 9": {
+  "name": "Rob Lovett Jr.",
+  "role": "Claremont School Board member (participating remotely) (uncertain - two short replies to prompts aimed at Rob)"
+ },
+ "Speaker 10": {
+  "name": "Unidentified",
+  "role": "Unidentified - presenter-side backchannel during the Fish Tank Q and A"
+ },
+ "Speaker 11": {
+  "name": "Brendan",
+  "role": "Curriculum coordinator, Claremont School District (surname not stated on the record)"
+ },
+ "Speaker 12": {
+  "name": "Cassandra Lockwood",
+  "role": "Second grade teacher, Maple Avenue School; Fish Tank pilot teacher"
+ },
+ "Speaker 13": {
+  "name": "Cassandra Lockwood",
+  "role": "Second grade teacher, Maple Avenue School; Fish Tank pilot teacher"
+ },
+ "Speaker 14": {
+  "name": "Unidentified",
+  "role": "Unidentified - presenter-side interjections during the Fish Tank item (possibly Joan Fontaine, second pilot teacher); board member fragments reassigned per segment"
+ },
+ "Speaker 15": {
+  "name": "Cassandra Lockwood",
+  "role": "Second grade teacher, Maple Avenue School; Fish Tank pilot teacher"
+ },
+ "Speaker 16": {
+  "name": "Brendan",
+  "role": "Curriculum coordinator, Claremont School District (surname not stated on the record)"
+ },
+ "Speaker 17": {
+  "name": "Joshua Lambert",
+  "role": "Claremont School Board member"
+ },
+ "Speaker 18": {
+  "name": "Unidentified",
+  "role": "Unidentified - short interjections ('Well', 'No, no')"
+ },
+ "Speaker 19": {
+  "name": "Rob Lovett Jr.",
+  "role": "Claremont School Board member (participating remotely)"
+ },
+ "Speaker 20": {
+  "name": "Cassandra Lockwood",
+  "role": "Second grade teacher, Maple Avenue School; Fish Tank pilot teacher"
+ },
+ "Speaker 21": {
+  "name": "Melissa Lewis",
+  "role": "Elementary school principal (Disnard per Dec 2020 roster; school not stated on this recording)"
+ },
+ "Speaker 22": {
+  "name": "Unidentified",
+  "role": "Unidentified board member (seconds Horsky's Fish Tank motion)"
+ },
+ "Speaker 23": {
+  "name": "Donna Magoon",
+  "role": "Assistant Superintendent, SAU 6 (departing for another district)"
+ },
+ "Speaker 24": {
+  "name": "Melissa Lewis",
+  "role": "Elementary school principal (Disnard per Dec 2020 roster; school not stated on this recording)"
+ },
+ "Speaker 25": {
+  "name": "Unidentified",
+  "role": "Unidentified - short interjections from more than one voice"
+ },
+ "Speaker 26": {
+  "name": "Unidentified",
+  "role": "Unidentified - cluster of backchannel remarks ('Yeah', 'Thank you') from several voices"
+ },
+ "Speaker 27": {
+  "name": "Richard Seaman",
+  "role": "Assistant Superintendent for Finance, SAU 6"
+ },
+ "__overrides__": {
+  "8": {
+   "name": "Michael Petrin"
+  },
+  "17": {
+   "name": "Unidentified",
+   "role": "Unidentified board member (motion or second; voice not separable)"
+  },
+  "18": {
+   "name": "Unidentified",
+   "role": "Unidentified board member (motion or second; voice not separable)"
+  },
+  "22": {
+   "name": "Unidentified",
+   "role": "Unidentified - remark about Rob Lovett's remote connection"
+  },
+  "141": {
+   "name": "Donna Magoon"
+  },
+  "143": {
+   "name": "Donna Magoon"
+  },
+  "145": {
+   "name": "Donna Magoon"
+  },
+  "147": {
+   "name": "Donna Magoon"
+  },
+  "148": {
+   "name": "Donna Magoon"
+  },
+  "149": {
+   "name": "Donna Magoon"
+  },
+  "142": {
+   "name": "Donna Magoon"
+  },
+  "144": {
+   "name": "Donna Magoon"
+  },
+  "146": {
+   "name": "Donna Magoon"
+  },
+  "182": {
+   "name": "Cassandra Lockwood"
+  },
+  "196": {
+   "name": "Cassandra Lockwood"
+  },
+  "198": {
+   "name": "Cassandra Lockwood"
+  },
+  "205": {
+   "name": "Cassandra Lockwood"
+  },
+  "207": {
+   "name": "Cassandra Lockwood"
+  },
+  "215": {
+   "name": "Cassandra Lockwood"
+  },
+  "217": {
+   "name": "Cassandra Lockwood"
+  },
+  "219": {
+   "name": "Cassandra Lockwood"
+  },
+  "221": {
+   "name": "Cassandra Lockwood"
+  },
+  "223": {
+   "name": "Cassandra Lockwood"
+  },
+  "177": {
+   "name": "Unidentified",
+   "role": "Unidentified - short presenter-side interjection during the Fish Tank presentation"
+  },
+  "189": {
+   "name": "Unidentified",
+   "role": "Unidentified - short presenter-side interjection during the Fish Tank presentation"
+  },
+  "279": {
+   "name": "Heather Whitney"
+  },
+  "280": {
+   "name": "Heather Whitney"
+  },
+  "282": {
+   "name": "Heather Whitney"
+  },
+  "284": {
+   "name": "Heather Whitney"
+  },
+  "393": {
+   "name": "Michael Tempesta"
+  },
+  "395": {
+   "name": "Michael Tempesta"
+  },
+  "531": {
+   "name": "Michael Tempesta"
+  },
+  "529": {
+   "name": "Michael Tempesta"
+  },
+  "582": {
+   "name": "Frank Sprague"
+  },
+  "722": {
+   "name": "Unidentified",
+   "role": "Unidentified board member (seconds the motion to continue the meeting)"
+  }
+ }
+}

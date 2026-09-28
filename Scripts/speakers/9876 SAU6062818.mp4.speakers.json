@@ -1,0 +1,252 @@
+{
+ "Speaker 1": {
+  "name": "Marjorie Erickson",
+  "role": "SAU 6 Board Chair (Unity member) (calls to order [0], asks 'Mary' to call roll [2], opening statement on 'my tenure as chairman ... before you elected me' [10]; later: 'myself as the SA six chair' [582] listed apart from 'Sarah Lowe from unity'; 'The board six chair ... she's actually from unity' [569]; roll call has Marjorie Erickson present [5]; cluster also carries Cory LeClair, see overrides)"
+ },
+ "Speaker 2": {
+  "name": "Mary Woodman",
+  "role": "Recording secretary (asked 'Mary, do you want to call the roll?' [2], calls roll [3-7])"
+ },
+ "Speaker 3": {
+  "name": "Cory LeClair",
+  "role": "Assistant Superintendent, SAU 6 (acting superintendent designate) (grant work and office capacity [244-262]; presents the interim criteria draft 'to use Marge's term, a straw man' [275-284]; defers 'to Josh' [290]; chair: 'questions for either Corey or Mike?' [264])"
+ },
+ "Speaker 4": {
+  "name": "Unidentified",
+  "role": "Unidentified - cluster mixes short remarks, seconds, 'aye' and recognitions from several voices"
+ },
+ "Speaker 5": {
+  "name": "Sara Lowe",
+  "role": "SAU 6 Board member, Unity School Board Chair (chair: 'I believe Sarah, correct me if I'm wrong' about the NHSBA visit [70], answered by this cluster [71-80])"
+ },
+ "Speaker 6": {
+  "name": "Unidentified",
+  "role": "Unidentified - board member(s): minutes motion [27], a second [121], consultant question [252]; also onsets of Sara Lowe's sentences [73-79]"
+ },
+ "Speaker 7": {
+  "name": "Unidentified",
+  "role": "Unidentified - short acknowledgements and a second"
+ },
+ "Speaker 8": {
+  "name": "Steven Horsky",
+  "role": "SAU 6 Board member (Claremont) ('is Steve.' [53] -> [55]; 'Steve.' [299,360,420,647,681] each followed by this cluster; chair 'Steve, if you would make [the motion]' [620] -> [621])"
+ },
+ "Speaker 9": {
+  "name": "Frank Sprague",
+  "role": "SAU 6 Board member (Claremont), Claremont School Board Chair ('Frank.' [287] -> [288]; 'did you have something, Frank?' [318] -> [320]; 'Frank.' [347] -> [348]; Pierce: 'What are you saying, Frank?' [552] after [542-546])"
+ },
+ "Speaker 10": {
+  "name": "Unidentified",
+  "role": "Unidentified - two short remarks"
+ },
+ "Speaker 11": {
+  "name": "Michael O'Neill",
+  "role": "Business Administrator, SAU 6 ('Now that Mike's here' [126] before his fund-balance presentation [129-243]; surname per roster and chair's list 'Mike O'Neil from the SA' [582])"
+ },
+ "Speaker 12": {
+  "name": "Michael Petrin",
+  "role": "SAU 6 Board Vice Chair (Claremont) (proposes 'preference given to those with current New Hampshire certification' [466]; Sprague: 'The way Mike suggested that preference given' [479]) (uncertain - few segments)"
+ },
+ "Speaker 13": {
+  "name": "Carolyn Towle",
+  "role": "SAU 6 Board member (Claremont) (chair 'Carolyn.' [519] -> 'I just wanted to put my name out.' [520]; chair then lists 'Michelle and Carolyn' as volunteers [521]) (uncertain - short remarks)"
+ },
+ "Speaker 14": {
+  "name": "Josh Malloy",
+  "role": "Director of Instructional Technology, SAU 6 (LeClair: 'I defer to Josh on that one' [290] -> 'That one I put in there' [291] continued by this cluster [294-296]; chair lists 'Josh Malloy' [582])"
+ },
+ "Speaker 15": {
+  "name": "Nate",
+  "role": "SAU 6 staff, human resources (chair: 'Yes. Nate.' [355] -> [357-359]; 'Nate.' [387] -> [390]; Department of Labor rules remarks [311]; surname not on this recording)"
+ },
+ "Speaker 16": {
+  "name": "Marjorie Erickson",
+  "role": "SAU 6 Board Chair (Unity member) (runs the criteria vote 'I'd like a motion on it ... All those in favor say aye' [502-510] and opens the search-committee item [512]; recognizes 'Michelle.' [448]); Carolyn Towle segments overridden"
+ },
+ "Speaker 17": {
+  "name": "Michelle Pierce",
+  "role": "SAU 6 Board member (Claremont) (chair 'Michelle.' [342] -> [343-345]; 'Michelle.' [448] -> [449-454]; volunteers for the search committee [541]); Carolyn Towle segments overridden"
+ },
+ "Speaker 18": {
+  "name": "Unidentified",
+  "role": "Unidentified - short remarks and a recognition"
+ },
+ "Speaker 19": {
+  "name": "Cory LeClair",
+  "role": "Assistant Superintendent, SAU 6 (reads Horsky's handwritten draft he 'hand[ed] over to Corey' [421] aloud [423-432]; certification processing times at the Department of Education [408-413])"
+ },
+ "Speaker 20": {
+  "name": "Unidentified",
+  "role": "Unidentified - one short remark"
+ },
+ "Speaker 21": {
+  "name": "Unidentified",
+  "role": "Unidentified - point of order and a motion fragment"
+ },
+ "Speaker 22": {
+  "name": "Unidentified",
+  "role": "Unidentified - cluster mixes several board members' short remarks"
+ },
+ "Speaker 23": {
+  "name": "Unidentified",
+  "role": "Unidentified - board member editing the press release [673-698]"
+ },
+ "Speaker 24": {
+  "name": "Cory LeClair",
+  "role": "Assistant Superintendent, SAU 6 (offers to distribute the press release to newspapers and school messenger [715-721]; after chair says 'let Corey or I know' of absences [748], asks members to tell her which dates they will miss [749]) (uncertain - could be an SAU assistant)"
+ },
+ "Speaker 25": {
+  "name": "Unidentified",
+  "role": "Unidentified - remark on warning agenda items"
+ },
+ "__overrides__": {
+  "303": {
+   "name": "Cory LeClair",
+   "role": "Assistant Superintendent, SAU 6 (acting superintendent designate) (in chair's cluster: holds NH superintendent certification [467-471], will contact the credentialing office Monday [475], 'Marj. Either you or I' [561], 'you decided on Mike, Josh and myself' [600])"
+  },
+  "305": {
+   "name": "Cory LeClair",
+   "role": "Assistant Superintendent, SAU 6 (acting superintendent designate) (in chair's cluster: holds NH superintendent certification [467-471], will contact the credentialing office Monday [475], 'Marj. Either you or I' [561], 'you decided on Mike, Josh and myself' [600])"
+  },
+  "306": {
+   "name": "Cory LeClair",
+   "role": "Assistant Superintendent, SAU 6 (acting superintendent designate) (in chair's cluster: holds NH superintendent certification [467-471], will contact the credentialing office Monday [475], 'Marj. Either you or I' [561], 'you decided on Mike, Josh and myself' [600])"
+  },
+  "307": {
+   "name": "Cory LeClair",
+   "role": "Assistant Superintendent, SAU 6 (acting superintendent designate) (in chair's cluster: holds NH superintendent certification [467-471], will contact the credentialing office Monday [475], 'Marj. Either you or I' [561], 'you decided on Mike, Josh and myself' [600])"
+  },
+  "439": {
+   "name": "Cory LeClair",
+   "role": "Assistant Superintendent, SAU 6 (acting superintendent designate) (in chair's cluster: holds NH superintendent certification [467-471], will contact the credentialing office Monday [475], 'Marj. Either you or I' [561], 'you decided on Mike, Josh and myself' [600])"
+  },
+  "440": {
+   "name": "Cory LeClair",
+   "role": "Assistant Superintendent, SAU 6 (acting superintendent designate) (in chair's cluster: holds NH superintendent certification [467-471], will contact the credentialing office Monday [475], 'Marj. Either you or I' [561], 'you decided on Mike, Josh and myself' [600])"
+  },
+  "441": {
+   "name": "Cory LeClair",
+   "role": "Assistant Superintendent, SAU 6 (acting superintendent designate) (in chair's cluster: holds NH superintendent certification [467-471], will contact the credentialing office Monday [475], 'Marj. Either you or I' [561], 'you decided on Mike, Josh and myself' [600])"
+  },
+  "455": {
+   "name": "Cory LeClair",
+   "role": "Assistant Superintendent, SAU 6 (acting superintendent designate) (in chair's cluster: holds NH superintendent certification [467-471], will contact the credentialing office Monday [475], 'Marj. Either you or I' [561], 'you decided on Mike, Josh and myself' [600])"
+  },
+  "463": {
+   "name": "Cory LeClair",
+   "role": "Assistant Superintendent, SAU 6 (acting superintendent designate) (in chair's cluster: holds NH superintendent certification [467-471], will contact the credentialing office Monday [475], 'Marj. Either you or I' [561], 'you decided on Mike, Josh and myself' [600])"
+  },
+  "467": {
+   "name": "Cory LeClair",
+   "role": "Assistant Superintendent, SAU 6 (acting superintendent designate) (in chair's cluster: holds NH superintendent certification [467-471], will contact the credentialing office Monday [475], 'Marj. Either you or I' [561], 'you decided on Mike, Josh and myself' [600])"
+  },
+  "469": {
+   "name": "Cory LeClair",
+   "role": "Assistant Superintendent, SAU 6 (acting superintendent designate) (in chair's cluster: holds NH superintendent certification [467-471], will contact the credentialing office Monday [475], 'Marj. Either you or I' [561], 'you decided on Mike, Josh and myself' [600])"
+  },
+  "471": {
+   "name": "Cory LeClair",
+   "role": "Assistant Superintendent, SAU 6 (acting superintendent designate) (in chair's cluster: holds NH superintendent certification [467-471], will contact the credentialing office Monday [475], 'Marj. Either you or I' [561], 'you decided on Mike, Josh and myself' [600])"
+  },
+  "475": {
+   "name": "Cory LeClair",
+   "role": "Assistant Superintendent, SAU 6 (acting superintendent designate) (in chair's cluster: holds NH superintendent certification [467-471], will contact the credentialing office Monday [475], 'Marj. Either you or I' [561], 'you decided on Mike, Josh and myself' [600])"
+  },
+  "561": {
+   "name": "Cory LeClair",
+   "role": "Assistant Superintendent, SAU 6 (acting superintendent designate) (in chair's cluster: holds NH superintendent certification [467-471], will contact the credentialing office Monday [475], 'Marj. Either you or I' [561], 'you decided on Mike, Josh and myself' [600])"
+  },
+  "600": {
+   "name": "Cory LeClair",
+   "role": "Assistant Superintendent, SAU 6 (acting superintendent designate) (in chair's cluster: holds NH superintendent certification [467-471], will contact the credentialing office Monday [475], 'Marj. Either you or I' [561], 'you decided on Mike, Josh and myself' [600])"
+  },
+  "601": {
+   "name": "Cory LeClair",
+   "role": "Assistant Superintendent, SAU 6 (acting superintendent designate) (in chair's cluster: holds NH superintendent certification [467-471], will contact the credentialing office Monday [475], 'Marj. Either you or I' [561], 'you decided on Mike, Josh and myself' [600])"
+  },
+  "65": {
+   "name": "Marjorie Erickson",
+   "role": "SAU 6 Board Chair (Unity member) (chair's recognition or procedure absorbed into another cluster)"
+  },
+  "119": {
+   "name": "Marjorie Erickson",
+   "role": "SAU 6 Board Chair (Unity member) (chair's recognition or procedure absorbed into another cluster)"
+  },
+  "768": {
+   "name": "Marjorie Erickson",
+   "role": "SAU 6 Board Chair (Unity member) (chair's recognition or procedure absorbed into another cluster)"
+  },
+  "770": {
+   "name": "Marjorie Erickson",
+   "role": "SAU 6 Board Chair (Unity member) (chair's recognition or procedure absorbed into another cluster)"
+  },
+  "776": {
+   "name": "Marjorie Erickson",
+   "role": "SAU 6 Board Chair (Unity member) (chair's recognition or procedure absorbed into another cluster)"
+  },
+  "779": {
+   "name": "Marjorie Erickson",
+   "role": "SAU 6 Board Chair (Unity member) (chair's recognition or procedure absorbed into another cluster)"
+  },
+  "338": {
+   "name": "Carolyn Towle",
+   "role": "SAU 6 Board member (Claremont) (chair 'Carolyn.' [337,414,726,751] followed by these segments; Sprague answers 'Miss Carolyn' [479] after [474])"
+  },
+  "415": {
+   "name": "Carolyn Towle",
+   "role": "SAU 6 Board member (Claremont) (chair 'Carolyn.' [337,414,726,751] followed by these segments; Sprague answers 'Miss Carolyn' [479] after [474])"
+  },
+  "416": {
+   "name": "Carolyn Towle",
+   "role": "SAU 6 Board member (Claremont) (chair 'Carolyn.' [337,414,726,751] followed by these segments; Sprague answers 'Miss Carolyn' [479] after [474])"
+  },
+  "417": {
+   "name": "Carolyn Towle",
+   "role": "SAU 6 Board member (Claremont) (chair 'Carolyn.' [337,414,726,751] followed by these segments; Sprague answers 'Miss Carolyn' [479] after [474])"
+  },
+  "419": {
+   "name": "Carolyn Towle",
+   "role": "SAU 6 Board member (Claremont) (chair 'Carolyn.' [337,414,726,751] followed by these segments; Sprague answers 'Miss Carolyn' [479] after [474])"
+  },
+  "474": {
+   "name": "Carolyn Towle",
+   "role": "SAU 6 Board member (Claremont) (chair 'Carolyn.' [337,414,726,751] followed by these segments; Sprague answers 'Miss Carolyn' [479] after [474])"
+  },
+  "729": {
+   "name": "Carolyn Towle",
+   "role": "SAU 6 Board member (Claremont) (chair 'Carolyn.' [337,414,726,751] followed by these segments; Sprague answers 'Miss Carolyn' [479] after [474])"
+  },
+  "733": {
+   "name": "Carolyn Towle",
+   "role": "SAU 6 Board member (Claremont) (chair 'Carolyn.' [337,414,726,751] followed by these segments; Sprague answers 'Miss Carolyn' [479] after [474])"
+  },
+  "735": {
+   "name": "Carolyn Towle",
+   "role": "SAU 6 Board member (Claremont) (chair 'Carolyn.' [337,414,726,751] followed by these segments; Sprague answers 'Miss Carolyn' [479] after [474])"
+  },
+  "737": {
+   "name": "Carolyn Towle",
+   "role": "SAU 6 Board member (Claremont) (chair 'Carolyn.' [337,414,726,751] followed by these segments; Sprague answers 'Miss Carolyn' [479] after [474])"
+  },
+  "752": {
+   "name": "Carolyn Towle",
+   "role": "SAU 6 Board member (Claremont) (chair 'Carolyn.' [337,414,726,751] followed by these segments; Sprague answers 'Miss Carolyn' [479] after [474])"
+  },
+  "754": {
+   "name": "Carolyn Towle",
+   "role": "SAU 6 Board member (Claremont) (chair 'Carolyn.' [337,414,726,751] followed by these segments; Sprague answers 'Miss Carolyn' [479] after [474])"
+  },
+  "756": {
+   "name": "Carolyn Towle",
+   "role": "SAU 6 Board member (Claremont) (chair 'Carolyn.' [337,414,726,751] followed by these segments; Sprague answers 'Miss Carolyn' [479] after [474])"
+  },
+  "291": {
+   "name": "Josh Malloy",
+   "role": "Director of Instructional Technology, SAU 6 (LeClair: 'I defer to Josh on that one' [290] -> 'That one I put in there' [291] continued by this cluster [294-296]; chair lists 'Josh Malloy' [582])"
+  },
+  "292": {
+   "name": "Unidentified",
+   "role": "Unidentified - short fragment"
+  }
+ }
+}

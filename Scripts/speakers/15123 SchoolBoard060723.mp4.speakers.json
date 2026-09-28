@@ -1,0 +1,544 @@
+{
+ "Speaker 1": {
+  "name": "Unidentified",
+  "role": "Voice at the board table - brief interjections the diarizer clustered on their own"
+ },
+ "Speaker 2": {
+  "name": "Heather Whitney",
+  "role": "Claremont School Board Chair"
+ },
+ "Speaker 3": {
+  "name": "Jennifer Gallagher",
+  "role": "Claremont School Board member, elected 3/14/23 to the one-year seat"
+ },
+ "Speaker 4": {
+  "name": "Michael Tempesta",
+  "role": "Superintendent, SAU 6 - attending by Zoom (ASR 'Mister Timbuktu')"
+ },
+ "Speaker 5": {
+  "name": "Unidentified",
+  "role": "Brief interjection at the table - cluster mixes clipped sentence onsets from several speakers with the technology director's AV cues"
+ },
+ "Speaker 6": {
+  "name": "Sean LaPlante",
+  "role": "Athletic Director, Claremont Middle School (ASR 'Sean the plant', 'Mr. La Plante')"
+ },
+ "Speaker 7": {
+  "name": "Bonnie Miles",
+  "role": "Claremont School Board member; chair, Capital Improvement subcommittee"
+ },
+ "Speaker 8": {
+  "name": "David Jack",
+  "role": "Interim Business Administrator, Municipal Resources Inc."
+ },
+ "Speaker 9": {
+  "name": "Frank Sprague",
+  "role": "Claremont School Board Vice Chair"
+ },
+ "Speaker 10": {
+  "name": "Mary Henry",
+  "role": "Incoming Business Administrator, SAU 6 - attends before her early-July 2023 start"
+ },
+ "Speaker 11": {
+  "name": "Unidentified",
+  "role": "Clipped sentence fragment - cluster carries sub-second pieces of several different speakers"
+ },
+ "Speaker 12": {
+  "name": "Stephanie",
+  "role": "Curriculum Director, SAU 6 - surname never stated on the recording (elsewhere 'Stephanie Hurst')"
+ },
+ "Speaker 13": {
+  "name": "Stephanie",
+  "role": "Curriculum Director, SAU 6 - surname never stated on the recording (elsewhere 'Stephanie Hurst')"
+ },
+ "Speaker 14": {
+  "name": "Mike Koski",
+  "role": "Assistant Superintendent, SAU 6 (ASR 'Mr. Kosky')"
+ },
+ "Speaker 15": {
+  "name": "Whitney Skillen",
+  "role": "Claremont School Board member; Policy Subcommittee chair"
+ },
+ "Speaker 16": {
+  "name": "Arlene Hawkins",
+  "role": "Claremont School Board member, elected 3/14/23; retired elementary principal"
+ },
+ "Speaker 17": {
+  "name": "Michael Tempesta",
+  "role": "Superintendent, SAU 6 - attending by Zoom (ASR 'Mister Timbuktu')"
+ },
+ "Speaker 18": {
+  "name": "Michael Tempesta",
+  "role": "Superintendent, SAU 6 - attending by Zoom (ASR 'Mister Timbuktu')"
+ },
+ "__overrides__": {
+  "6": {
+   "name": "Heather Whitney",
+   "role": "Claremont School Board Chair"
+  },
+  "46": {
+   "name": "Heather Whitney",
+   "role": "Claremont School Board Chair"
+  },
+  "134": {
+   "name": "Heather Whitney",
+   "role": "Claremont School Board Chair"
+  },
+  "135": {
+   "name": "Heather Whitney",
+   "role": "Claremont School Board Chair"
+  },
+  "178": {
+   "name": "Heather Whitney",
+   "role": "Claremont School Board Chair"
+  },
+  "199": {
+   "name": "Heather Whitney",
+   "role": "Claremont School Board Chair"
+  },
+  "201": {
+   "name": "Heather Whitney",
+   "role": "Claremont School Board Chair"
+  },
+  "205": {
+   "name": "Heather Whitney",
+   "role": "Claremont School Board Chair"
+  },
+  "208": {
+   "name": "Heather Whitney",
+   "role": "Claremont School Board Chair"
+  },
+  "210": {
+   "name": "Heather Whitney",
+   "role": "Claremont School Board Chair"
+  },
+  "241": {
+   "name": "Heather Whitney",
+   "role": "Claremont School Board Chair"
+  },
+  "244": {
+   "name": "Heather Whitney",
+   "role": "Claremont School Board Chair"
+  },
+  "245": {
+   "name": "Heather Whitney",
+   "role": "Claremont School Board Chair"
+  },
+  "261": {
+   "name": "Heather Whitney",
+   "role": "Claremont School Board Chair"
+  },
+  "263": {
+   "name": "Heather Whitney",
+   "role": "Claremont School Board Chair"
+  },
+  "275": {
+   "name": "Heather Whitney",
+   "role": "Claremont School Board Chair"
+  },
+  "276": {
+   "name": "Heather Whitney",
+   "role": "Claremont School Board Chair"
+  },
+  "277": {
+   "name": "Heather Whitney",
+   "role": "Claremont School Board Chair"
+  },
+  "279": {
+   "name": "Heather Whitney",
+   "role": "Claremont School Board Chair"
+  },
+  "281": {
+   "name": "Heather Whitney",
+   "role": "Claremont School Board Chair"
+  },
+  "303": {
+   "name": "Heather Whitney",
+   "role": "Claremont School Board Chair"
+  },
+  "317": {
+   "name": "Heather Whitney",
+   "role": "Claremont School Board Chair"
+  },
+  "321": {
+   "name": "Heather Whitney",
+   "role": "Claremont School Board Chair"
+  },
+  "323": {
+   "name": "Heather Whitney",
+   "role": "Claremont School Board Chair"
+  },
+  "325": {
+   "name": "Heather Whitney",
+   "role": "Claremont School Board Chair"
+  },
+  "327": {
+   "name": "Heather Whitney",
+   "role": "Claremont School Board Chair"
+  },
+  "329": {
+   "name": "Heather Whitney",
+   "role": "Claremont School Board Chair"
+  },
+  "334": {
+   "name": "Heather Whitney",
+   "role": "Claremont School Board Chair"
+  },
+  "336": {
+   "name": "Heather Whitney",
+   "role": "Claremont School Board Chair"
+  },
+  "380": {
+   "name": "Heather Whitney",
+   "role": "Claremont School Board Chair"
+  },
+  "387": {
+   "name": "Heather Whitney",
+   "role": "Claremont School Board Chair"
+  },
+  "403": {
+   "name": "Heather Whitney",
+   "role": "Claremont School Board Chair"
+  },
+  "407": {
+   "name": "Heather Whitney",
+   "role": "Claremont School Board Chair"
+  },
+  "477": {
+   "name": "Heather Whitney",
+   "role": "Claremont School Board Chair"
+  },
+  "480": {
+   "name": "Heather Whitney",
+   "role": "Claremont School Board Chair"
+  },
+  "484": {
+   "name": "Heather Whitney",
+   "role": "Claremont School Board Chair"
+  },
+  "596": {
+   "name": "Heather Whitney",
+   "role": "Claremont School Board Chair"
+  },
+  "600": {
+   "name": "Heather Whitney",
+   "role": "Claremont School Board Chair"
+  },
+  "624": {
+   "name": "Heather Whitney",
+   "role": "Claremont School Board Chair"
+  },
+  "628": {
+   "name": "Heather Whitney",
+   "role": "Claremont School Board Chair"
+  },
+  "266": {
+   "name": "Frank Sprague",
+   "role": "Claremont School Board Vice Chair"
+  },
+  "313": {
+   "name": "Frank Sprague",
+   "role": "Claremont School Board Vice Chair"
+  },
+  "450": {
+   "name": "Frank Sprague",
+   "role": "Claremont School Board Vice Chair"
+  },
+  "487": {
+   "name": "Frank Sprague",
+   "role": "Claremont School Board Vice Chair"
+  },
+  "545": {
+   "name": "Frank Sprague",
+   "role": "Claremont School Board Vice Chair"
+  },
+  "553": {
+   "name": "Frank Sprague",
+   "role": "Claremont School Board Vice Chair"
+  },
+  "558": {
+   "name": "Frank Sprague",
+   "role": "Claremont School Board Vice Chair"
+  },
+  "560": {
+   "name": "Frank Sprague",
+   "role": "Claremont School Board Vice Chair"
+  },
+  "563": {
+   "name": "Frank Sprague",
+   "role": "Claremont School Board Vice Chair"
+  },
+  "573": {
+   "name": "Frank Sprague",
+   "role": "Claremont School Board Vice Chair"
+  },
+  "580": {
+   "name": "Frank Sprague",
+   "role": "Claremont School Board Vice Chair"
+  },
+  "582": {
+   "name": "Frank Sprague",
+   "role": "Claremont School Board Vice Chair"
+  },
+  "585": {
+   "name": "Frank Sprague",
+   "role": "Claremont School Board Vice Chair"
+  },
+  "592": {
+   "name": "Frank Sprague",
+   "role": "Claremont School Board Vice Chair"
+  },
+  "594": {
+   "name": "Frank Sprague",
+   "role": "Claremont School Board Vice Chair"
+  },
+  "603": {
+   "name": "Frank Sprague",
+   "role": "Claremont School Board Vice Chair"
+  },
+  "42": {
+   "name": "Bonnie Miles",
+   "role": "Claremont School Board member; chair, Capital Improvement subcommittee"
+  },
+  "188": {
+   "name": "Bonnie Miles",
+   "role": "Claremont School Board member; chair, Capital Improvement subcommittee"
+  },
+  "283": {
+   "name": "Bonnie Miles",
+   "role": "Claremont School Board member; chair, Capital Improvement subcommittee"
+  },
+  "284": {
+   "name": "Bonnie Miles",
+   "role": "Claremont School Board member; chair, Capital Improvement subcommittee"
+  },
+  "286": {
+   "name": "Bonnie Miles",
+   "role": "Claremont School Board member; chair, Capital Improvement subcommittee"
+  },
+  "288": {
+   "name": "Bonnie Miles",
+   "role": "Claremont School Board member; chair, Capital Improvement subcommittee"
+  },
+  "290": {
+   "name": "Bonnie Miles",
+   "role": "Claremont School Board member; chair, Capital Improvement subcommittee"
+  },
+  "296": {
+   "name": "Bonnie Miles",
+   "role": "Claremont School Board member; chair, Capital Improvement subcommittee"
+  },
+  "310": {
+   "name": "Bonnie Miles",
+   "role": "Claremont School Board member; chair, Capital Improvement subcommittee"
+  },
+  "331": {
+   "name": "Bonnie Miles",
+   "role": "Claremont School Board member; chair, Capital Improvement subcommittee"
+  },
+  "395": {
+   "name": "Bonnie Miles",
+   "role": "Claremont School Board member; chair, Capital Improvement subcommittee"
+  },
+  "401": {
+   "name": "Bonnie Miles",
+   "role": "Claremont School Board member; chair, Capital Improvement subcommittee"
+  },
+  "636": {
+   "name": "Bonnie Miles",
+   "role": "Claremont School Board member; chair, Capital Improvement subcommittee"
+  },
+  "99": {
+   "name": "Mary Henry",
+   "role": "Incoming Business Administrator, SAU 6 - attends before her early-July 2023 start"
+  },
+  "106": {
+   "name": "Mary Henry",
+   "role": "Incoming Business Administrator, SAU 6 - attends before her early-July 2023 start"
+  },
+  "113": {
+   "name": "Mary Henry",
+   "role": "Incoming Business Administrator, SAU 6 - attends before her early-July 2023 start"
+  },
+  "126": {
+   "name": "Mary Henry",
+   "role": "Incoming Business Administrator, SAU 6 - attends before her early-July 2023 start"
+  },
+  "246": {
+   "name": "Stephanie",
+   "role": "Curriculum Director, SAU 6 - surname never stated on the recording (elsewhere 'Stephanie Hurst')"
+  },
+  "248": {
+   "name": "Stephanie",
+   "role": "Curriculum Director, SAU 6 - surname never stated on the recording (elsewhere 'Stephanie Hurst')"
+  },
+  "260": {
+   "name": "Stephanie",
+   "role": "Curriculum Director, SAU 6 - surname never stated on the recording (elsewhere 'Stephanie Hurst')"
+  },
+  "415": {
+   "name": "Whitney Skillen",
+   "role": "Claremont School Board member; Policy Subcommittee chair"
+  },
+  "542": {
+   "name": "Whitney Skillen",
+   "role": "Claremont School Board member; Policy Subcommittee chair"
+  },
+  "556": {
+   "name": "Whitney Skillen",
+   "role": "Claremont School Board member; Policy Subcommittee chair"
+  },
+  "389": {
+   "name": "Arlene Hawkins",
+   "role": "Claremont School Board member, elected 3/14/23; retired elementary principal"
+  },
+  "445": {
+   "name": "Arlene Hawkins",
+   "role": "Claremont School Board member, elected 3/14/23; retired elementary principal"
+  },
+  "569": {
+   "name": "Arlene Hawkins",
+   "role": "Claremont School Board member, elected 3/14/23; retired elementary principal"
+  },
+  "618": {
+   "name": "Arlene Hawkins",
+   "role": "Claremont School Board member, elected 3/14/23; retired elementary principal"
+  },
+  "630": {
+   "name": "Arlene Hawkins",
+   "role": "Claremont School Board member, elected 3/14/23; retired elementary principal"
+  },
+  "550": {
+   "name": "Jennifer Gallagher",
+   "role": "Claremont School Board member, elected 3/14/23 to the one-year seat"
+  },
+  "609": {
+   "name": "Jennifer Gallagher",
+   "role": "Claremont School Board member, elected 3/14/23 to the one-year seat"
+  },
+  "638": {
+   "name": "Jennifer Gallagher",
+   "role": "Claremont School Board member, elected 3/14/23 to the one-year seat"
+  },
+  "640": {
+   "name": "Jennifer Gallagher",
+   "role": "Claremont School Board member, elected 3/14/23 to the one-year seat"
+  },
+  "642": {
+   "name": "Jennifer Gallagher",
+   "role": "Claremont School Board member, elected 3/14/23 to the one-year seat"
+  },
+  "356": {
+   "name": "Mike Koski",
+   "role": "Assistant Superintendent, SAU 6 (ASR 'Mr. Kosky')"
+  },
+  "409": {
+   "name": "Mike Koski",
+   "role": "Assistant Superintendent, SAU 6 (ASR 'Mr. Kosky')"
+  },
+  "427": {
+   "name": "Michael Tempesta",
+   "role": "Superintendent, SAU 6 - attending by Zoom (ASR 'Mister Timbuktu')"
+  },
+  "429": {
+   "name": "Michael Tempesta",
+   "role": "Superintendent, SAU 6 - attending by Zoom (ASR 'Mister Timbuktu')"
+  },
+  "9": {
+   "name": "Jeff Small",
+   "role": "Director of Technology, SAU 6"
+  },
+  "211": {
+   "name": "Jeff Small",
+   "role": "Director of Technology, SAU 6"
+  },
+  "299": {
+   "name": "Jeff Small",
+   "role": "Director of Technology, SAU 6"
+  },
+  "300": {
+   "name": "Jeff Small",
+   "role": "Director of Technology, SAU 6"
+  },
+  "425": {
+   "name": "Jeff Small",
+   "role": "Director of Technology, SAU 6"
+  },
+  "184": {
+   "name": "Ben Nester",
+   "role": "Director of Special Education, SAU 6 (ASR 'Nestor')"
+  },
+  "3": {
+   "name": "Unidentified",
+   "role": "Automated recording announcement"
+  },
+  "10": {
+   "name": "Unidentified",
+   "role": "School Board members answering the roll call - the caller's names were not transcribed"
+  },
+  "11": {
+   "name": "Unidentified",
+   "role": "School Board members answering the roll call - the caller's names were not transcribed"
+  },
+  "12": {
+   "name": "Unidentified",
+   "role": "School Board members answering the roll call - the caller's names were not transcribed"
+  },
+  "26": {
+   "name": "Unidentified",
+   "role": "School Board members answering the roll call - the caller's names were not transcribed"
+  },
+  "29": {
+   "name": "Unidentified",
+   "role": "School Board members answering the roll call - the caller's names were not transcribed"
+  },
+  "31": {
+   "name": "Unidentified",
+   "role": "School Board members answering the roll call - the caller's names were not transcribed"
+  },
+  "25": {
+   "name": "Unidentified",
+   "role": "School Board members - motion and second, merged into one segment by the diarizer"
+  },
+  "28": {
+   "name": "Unidentified",
+   "role": "Roll-call vote on entering the public hearing - the caller's names are largely dropped by the ASR"
+  },
+  "30": {
+   "name": "Unidentified",
+   "role": "School Board members voting in the roll call"
+  },
+  "38": {
+   "name": "Unidentified",
+   "role": "Voice at the table supplying the grant amount"
+  },
+  "40": {
+   "name": "Unidentified",
+   "role": "Voice at the board table prompting the maker of the motion"
+  },
+  "144": {
+   "name": "Unidentified",
+   "role": "School Board member reacting to the curriculum presentation slides"
+  },
+  "149": {
+   "name": "Unidentified",
+   "role": "Voice at the board table"
+  },
+  "167": {
+   "name": "Unidentified",
+   "role": "Voice at the board table"
+  },
+  "345": {
+   "name": "Jennifer Gallagher",
+   "role": "Claremont School Board member, elected 3/14/23 to the one-year seat; Curriculum Subcommittee chair"
+  },
+  "378": {
+   "name": "Unidentified",
+   "role": "Voice at the table"
+  },
+  "44": {
+   "name": "Unidentified",
+   "role": "Point of order from the table during the public hearing - the diarizer's cluster here carries room voices as well as the Zoom feed"
+  }
+ }
+}

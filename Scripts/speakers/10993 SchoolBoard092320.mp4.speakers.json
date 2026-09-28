@@ -1,0 +1,179 @@
+{
+ "Speaker 2": {
+  "name": "Heather Whitney",
+  "role": "Claremont School Board Vice Chair, presiding as acting chair in Frank Sprague's absence (announces she is chairing [2],[27]; answers to 'Heather' [562]-[563],[671]-[672]; thanks 'Frank' for putting her in the position [725]; vice chair title per SAU 6 meeting of 9/22/2020 [29]); participating remotely"
+ },
+ "Speaker 1": {
+  "name": "Michael Tempesta",
+  "role": "Superintendent, SAU 6"
+ },
+ "Speaker 19": {
+  "name": "Michael Tempesta",
+  "role": "Superintendent, SAU 6"
+ },
+ "Speaker 3": {
+  "name": "Matt Upton",
+  "role": "District attorney, Drummond Woodsum"
+ },
+ "Speaker 4": {
+  "name": "Jeff Small",
+  "role": "Director of Technology, SAU 6 (uncertain - runs the remote-meeting connections and is addressed as 'Jeff' [8],[12]; not self-identified)"
+ },
+ "Speaker 5": {
+  "name": "Michael Petrin",
+  "role": "Claremont School Board member (cluster also carries a few in-room procedural voices)"
+ },
+ "Speaker 6": {
+  "name": "Ben Nester",
+  "role": "Director of Special Education, SAU 6 (medium - speaks 'from the special ed perspective' [441]-[448] and is cited as 'Ben' by the principal [463] and Zullo [471]; early pre-meeting tech remarks in this cluster uncertain)"
+ },
+ "Speaker 7": {
+  "name": "Mary Woodman",
+  "role": "School district clerk and board recording secretary (takes roll)"
+ },
+ "Speaker 8": {
+  "name": "Jason Benware",
+  "role": "Claremont School Board member"
+ },
+ "Speaker 24": {
+  "name": "Jason Benware",
+  "role": "Claremont School Board member"
+ },
+ "Speaker 9": {
+  "name": "Donna Magoon",
+  "role": "Assistant Superintendent, SAU 6"
+ },
+ "Speaker 15": {
+  "name": "Donna Magoon",
+  "role": "Assistant Superintendent, SAU 6"
+ },
+ "Speaker 10": {
+  "name": "Frank Sprague",
+  "role": "Claremont School Board Chair (participating remotely; not presiding)"
+ },
+ "Speaker 30": {
+  "name": "Frank Sprague",
+  "role": "Claremont School Board Chair (participating remotely; not presiding) (uncertain - single roll-call reply right after the clerk calls 'Spread' [642]-[643])"
+ },
+ "Speaker 11": {
+  "name": "Rebecca Zullo",
+  "role": "Claremont School Board member"
+ },
+ "Speaker 27": {
+  "name": "Rebecca Zullo",
+  "role": "Claremont School Board member"
+ },
+ "Speaker 20": {
+  "name": "Rebecca Zullo",
+  "role": "Claremont School Board member (uncertain - short cluster; gives the three-minute warnings after the chair names her timekeeper [530],[545],[549])"
+ },
+ "Speaker 12": {
+  "name": "Carolyn Towle",
+  "role": "Claremont School Board member (participating remotely)"
+ },
+ "Speaker 31": {
+  "name": "Carolyn Towle",
+  "role": "Claremont School Board member (participating remotely) (uncertain - single goodbye right after 'Carolyn's waving' [721]-[724])"
+ },
+ "Speaker 13": {
+  "name": "Rob Lovett Jr.",
+  "role": "Claremont School Board member"
+ },
+ "Speaker 16": {
+  "name": "Prescott Herzog",
+  "role": "Student representative to the Claremont School Board, Stevens High School senior"
+ },
+ "Speaker 23": {
+  "name": "Patricia Barry",
+  "role": "Principal, Stevens High School (not self-named; identified as the high school building principal on the call, cf. 'Pat ... she's on this call' [447]-[448])"
+ },
+ "Speaker 25": {
+  "name": "James Ward",
+  "role": "Public commenter by phone, Claremont (parent of a Stevens student)"
+ },
+ "Speaker 17": {
+  "name": "Unidentified",
+  "role": "Unidentified - diarization cluster mixing several board voices (roll-call replies, fragments of the chair and members)"
+ },
+ "Speaker 14": {
+  "name": "Unidentified",
+  "role": "Unidentified - single short remark"
+ },
+ "Speaker 18": {
+  "name": "Unidentified",
+  "role": "Unidentified - board member voice, possibly Rebecca Zullo (not established)"
+ },
+ "Speaker 21": {
+  "name": "Unidentified",
+  "role": "Unidentified - short fragments"
+ },
+ "Speaker 22": {
+  "name": "Unidentified",
+  "role": "Unidentified - short fragments"
+ },
+ "Speaker 26": {
+  "name": "Unidentified",
+  "role": "Unidentified - short fragments during the phone public comment"
+ },
+ "Speaker 28": {
+  "name": "Unidentified",
+  "role": "Unidentified - short fragments"
+ },
+ "Speaker 29": {
+  "name": "Unidentified",
+  "role": "Unidentified - short fragment"
+ },
+ "__overrides__": {
+  "31": {
+   "name": "Unidentified",
+   "role": "Pledge of Allegiance, group recitation"
+  },
+  "32": {
+   "name": "Unidentified",
+   "role": "Pledge of Allegiance, group recitation"
+  },
+  "33": {
+   "name": "Unidentified",
+   "role": "Pledge of Allegiance, group recitation"
+  },
+  "34": {
+   "name": "Unidentified",
+   "role": "Pledge of Allegiance, group recitation"
+  },
+  "35": {
+   "name": "Unidentified",
+   "role": "Pledge of Allegiance, group recitation"
+  },
+  "36": {
+   "name": "Unidentified",
+   "role": "Pledge of Allegiance, group recitation"
+  },
+  "37": {
+   "name": "Unidentified",
+   "role": "Pledge of Allegiance, group recitation"
+  },
+  "38": {
+   "name": "Unidentified",
+   "role": "Pledge of Allegiance, group recitation"
+  },
+  "39": {
+   "name": "Unidentified",
+   "role": "Pledge of Allegiance, group recitation"
+  },
+  "41": {
+   "name": "Mary Woodman"
+  },
+  "44": {
+   "name": "Unidentified",
+   "role": "Roll-call reply (member not separable)"
+  },
+  "66": {
+   "name": "Unidentified",
+   "role": "Roll-call reply (member not separable)"
+  },
+  "68": {
+   "name": "Unidentified",
+   "role": "Roll-call reply (member not separable)"
+  }
+ }
+}

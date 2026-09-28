@@ -1,0 +1,138 @@
+{
+ "Speaker 1": {
+  "name": "Unidentified",
+  "role": "Unidentified - short interjections from several members"
+ },
+ "Speaker 2": {
+  "name": "Unidentified",
+  "role": "Unidentified - camera operator or staff before the meeting"
+ },
+ "Speaker 3": {
+  "name": "Unidentified",
+  "role": "Unidentified - cluster mixes short interjections from several board members"
+ },
+ "Speaker 4": {
+  "name": "Michael Petrin",
+  "role": "SAU 6 Board Chair; Claremont School Board member"
+ },
+ "Speaker 5": {
+  "name": "Unidentified",
+  "role": "Unidentified - roll-call answers and brief interjections from several members"
+ },
+ "Speaker 6": {
+  "name": "Mary Woodman",
+  "role": "School district clerk and SAU board recording secretary"
+ },
+ "Speaker 7": {
+  "name": "Carolyn Towle",
+  "role": "Claremont School Board member; SAU 6 Board member (chair recognizes 'Carolyn' [44], Sprague [66])"
+ },
+ "Speaker 8": {
+  "name": "Jason Benware",
+  "role": "Claremont School Board member; SAU 6 Board member (chair recognizes 'Jason' [187]; cluster also carries some Rob Lovett Jr. lines, see overrides)"
+ },
+ "Speaker 9": {
+  "name": "Frank Sprague",
+  "role": "Claremont School Board Chair; SAU 6 Board member"
+ },
+ "Speaker 10": {
+  "name": "Rebecca Zullo",
+  "role": "Claremont School Board Vice Chair; SAU 6 Board member (Seaman answers 'Rebecca' [269]; Sprague 'piggyback on what Rebecca said' [331])"
+ },
+ "Speaker 11": {
+  "name": "Unidentified",
+  "role": "SAU 6 Board member (Unity), male; gives Unity update and votes nay on the budget (name not established; chair says 'Prudence or Raj' [116]; possibly Robert McDevitt, uncertain)"
+ },
+ "Speaker 12": {
+  "name": "Prudence McCormick",
+  "role": "SAU 6 Board member (Unity) (chair: 'Can you think of anything else, Prudence?' [121]; Towle 'Happy New year, Prudence' [717])"
+ },
+ "Speaker 13": {
+  "name": "Richard Seaman",
+  "role": "Business Administrator, SAU 6 (addressed 'Richard' [243], [395]; started October 2019 [200])"
+ },
+ "Speaker 14": {
+  "name": "Michael Tempesta",
+  "role": "Superintendent, SAU 6"
+ },
+ "Speaker 15": {
+  "name": "Unidentified",
+  "role": "Unidentified - brief interjection"
+ },
+ "Speaker 16": {
+  "name": "Unidentified",
+  "role": "Unidentified - motion to adjourn from the floor"
+ },
+ "__overrides__": {
+  "5": {
+   "name": "Unidentified",
+   "role": "Unidentified - group response (pledge, roll-call answers, or aye vote)"
+  },
+  "39": {
+   "name": "Unidentified",
+   "role": "Unidentified - group response (pledge, roll-call answers, or aye vote)"
+  },
+  "48": {
+   "name": "Unidentified",
+   "role": "Unidentified - group response (pledge, roll-call answers, or aye vote)"
+  },
+  "20": {
+   "name": "Michael Tempesta",
+   "role": "Superintendent, SAU 6"
+  },
+  "42": {
+   "name": "Rob Lovett Jr.",
+   "role": "Claremont School Board member; SAU 6 Board member (medium - answers Towle's 'Rob or Heather' [70]; chair credits Rob with the minutes motion [51]; diarized with Benware)"
+  },
+  "71": {
+   "name": "Rob Lovett Jr.",
+   "role": "Claremont School Board member; SAU 6 Board member (medium - answers Towle's 'Rob or Heather' [70]; chair credits Rob with the minutes motion [51]; diarized with Benware)"
+  },
+  "72": {
+   "name": "Rob Lovett Jr.",
+   "role": "Claremont School Board member; SAU 6 Board member (medium - answers Towle's 'Rob or Heather' [70]; chair credits Rob with the minutes motion [51]; diarized with Benware)"
+  },
+  "73": {
+   "name": "Rob Lovett Jr.",
+   "role": "Claremont School Board member; SAU 6 Board member (medium - answers Towle's 'Rob or Heather' [70]; chair credits Rob with the minutes motion [51]; diarized with Benware)"
+  },
+  "43": {
+   "name": "Rebecca Zullo"
+  },
+  "588": {
+   "name": "Heather Whitney",
+   "role": "Claremont School Board member; SAU 6 Board member (uncertain - Towle remarks 'That was Heather Whitney' [591])"
+  },
+  "314": {
+   "name": "Frank Sprague"
+  },
+  "525": {
+   "name": "Unidentified",
+   "role": "Board member remarks diarized with Seaman (uncertain - not identified)"
+  },
+  "527": {
+   "name": "Unidentified",
+   "role": "Board member remarks diarized with Seaman (uncertain - not identified)"
+  },
+  "528": {
+   "name": "Unidentified",
+   "role": "Board member remarks diarized with Seaman (uncertain - not identified)"
+  },
+  "606": {
+   "name": "Unidentified",
+   "role": "Board member remarks diarized with Seaman (uncertain - not identified)"
+  },
+  "608": {
+   "name": "Unidentified",
+   "role": "Board member remarks diarized with Seaman (uncertain - not identified)"
+  },
+  "623": {
+   "name": "Unidentified",
+   "role": "Board member remarks diarized with Seaman (uncertain - not identified)"
+  },
+  "760": {
+   "name": "Unidentified",
+   "role": "Board member remarks diarized with Seaman (uncertain - not identified)"
+  }
+ }
+}

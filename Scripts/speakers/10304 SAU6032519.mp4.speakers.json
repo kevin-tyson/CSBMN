@@ -1,0 +1,392 @@
+{
+ "Speaker 1": {
+  "name": "Jason Benware",
+  "role": "SAU 6 Board member (Claremont) (chair: 'comments on the minutes ... Jason?' [26] then [27-48]; 'Jason, you had your hand up' [226] then [228]; chair 'Jason. What motion would you like to make?' [611] then [612]); cluster also absorbs other roll-call answers, reassigned by override"
+ },
+ "Speaker 2": {
+  "name": "Marjorie Erickson",
+  "role": "SAU 6 Board Chair presiding (Unity) (calls meeting to order [4], runs agenda; minutes: 'I did not run the meeting. Mike Patron, vice chair, ran the meeting' [69-71]; Jason: 'Would you be interested in the vice chair, Marjorie?' [263-264]; elected SAU 6 Vice Chair [274] but keeps presiding); Acting Superintendent's reports in this cluster reassigned to Cory LeClair"
+ },
+ "Speaker 3": {
+  "name": "Unidentified",
+  "role": "Unidentified - group reciting Pledge of Allegiance (ends with the chair's cell-phone reminder)"
+ },
+ "Speaker 4": {
+  "name": "Marjorie Erickson",
+  "role": "SAU 6 Board Chair presiding (Unity) (apologizes for not calling on the search committee summary [738-740], continuing her own turn)"
+ },
+ "Speaker 5": {
+  "name": "Unidentified",
+  "role": "Unidentified - crosstalk and fragment cluster (acknowledgements, ayes, clipped onsets of several voices)"
+ },
+ "Speaker 6": {
+  "name": "Frank Sprague",
+  "role": "SAU 6 Board member (Claremont; Claremont School Board Chair) (chair: 'So, Frank.' [91] then minutes motion [92]; 'Who originally started it? Frank.' [125-127]; 'Frank first' [404] then 'when I started working in Claremont in 2006' [405-406])"
+ },
+ "Speaker 7": {
+  "name": "Marjorie Erickson",
+  "role": "SAU 6 Board Chair presiding (Unity) (after the officer election this cluster runs the meeting; Zullo answers 'what you said. Mark.' [533] to [530]; addresses Carolyn in third person [593]; refers to 'Mike' in third person [632]); pre-election segments of Carolyn Towle reassigned by override"
+ },
+ "Speaker 8": {
+  "name": "Rob Lovett Jr.",
+  "role": "SAU 6 Board member (Claremont) (chair: 'Rob. You had more' [508-510], 'Rob, you had' [528-529]; 'Yes' after clerk calls 'Rob. Lovett.' [792-793]; new member: 'First time I got called to come to the meeting' [120])"
+ },
+ "Speaker 9": {
+  "name": "Marjorie Erickson",
+  "role": "SAU 6 Board Chair presiding (Unity) (fragments that interleave with the chair's own sentences [392-398]; 'Who originally started it?' [125]) (uncertain - short fragments)"
+ },
+ "Speaker 10": {
+  "name": "Robert McDevitt",
+  "role": "SAU 6 Board member (Unity) (Towle: 'I wanted him as vice chair. Robert' [270] answered 'It's nice to be wanted' [273]; Petrin: 'I agree with Bob' [467] after [463-465]; makes efficiency-study motion [470-474])"
+ },
+ "Speaker 11": {
+  "name": "Mimi",
+  "role": "Public commenter, Stevens High School employee (ASR 'Mimi, rise for one', possibly 'Mimi Rice, Ward One' - surname and ward uncertain; next commenter says 'just like Mimi' [160])"
+ },
+ "Speaker 12": {
+  "name": "Charlie Gessner",
+  "role": "Public commenter, Ward 1, district employee (self-identified 'Charlie Gessner, Ward one' [160]; spelling as heard - ASR)"
+ },
+ "Speaker 13": {
+  "name": "Unidentified",
+  "role": "Unidentified - fragment cluster mixing the clerk's roll call and the business administrator's short replies; identifiable segments reassigned by override"
+ },
+ "Speaker 14": {
+  "name": "Rebecca Zullo",
+  "role": "SAU 6 Board member (Claremont; Claremont School Board Vice Chair) (chair: 'go ahead Rebecca' [183] then search-committee press release [184-186]; 'Rebecca, then Jason' [532] then [533])"
+ },
+ "Speaker 15": {
+  "name": "Unidentified",
+  "role": "Unidentified - single fragment 'No no no'"
+ },
+ "Speaker 16": {
+  "name": "Michael O'Neill",
+  "role": "Business Administrator, SAU 6 (LeClair: 'kick it over to Mike' [286] then lost-revenue figures [289-300]; chair: 'The handouts that Mike prepared' [636] then budget report [637-716]; surname spelling unverified)"
+ },
+ "Speaker 17": {
+  "name": "Cory LeClair",
+  "role": "Acting Superintendent, SAU 6 (answers Zullo's contact question [355-357] and continues in Speaker 2 [358])"
+ },
+ "Speaker 18": {
+  "name": "Heather Whitney",
+  "role": "SAU 6 Board member (Claremont) (chair: 'Heather sounds like she has' [368] then question [369])"
+ },
+ "Speaker 19": {
+  "name": "Marjorie Erickson",
+  "role": "SAU 6 Board Chair presiding (Unity) (chair recognitions: 'Any more questions' [376], 'Carolyn, Jason' [523])"
+ },
+ "Speaker 20": {
+  "name": "Heather Whitney",
+  "role": "SAU 6 Board member (Claremont) (chair: 'So Heather.' [496] then [497]; Zullo: 'In agreement with Heather' [517])"
+ },
+ "Speaker 21": {
+  "name": "Michael Petrin",
+  "role": "SAU 6 Board member (Claremont), elected SAU 6 Chair at this meeting [221-239] (chair: 'Mike's going to read the roll call vote' [749] then reads it, including 'And myself, I was a yes' [753-756]; 'I agree with Bob' [467])"
+ },
+ "Speaker 22": {
+  "name": "Unidentified",
+  "role": "Unidentified - fragments during the budget report"
+ },
+ "Speaker 23": {
+  "name": "Shannon Popescu",
+  "role": "SAU 6 Board member (Unity) (uncertain - Petrin's 'Nathan has a.' [476] probably 'Shannon has a'; she then asks about going out to bid [479])"
+ },
+ "Speaker 24": {
+  "name": "Unidentified",
+  "role": "Unidentified - single fragment"
+ },
+ "Speaker 25": {
+  "name": "Carolyn Towle",
+  "role": "SAU 6 Board member (Claremont) (chair: 'Carolyn, Jason. Rob' [523] then [525]; withdraws her second [541-550] after 'Carolyn second' [488]; 'Carolyn.' [630] then [631])"
+ },
+ "__overrides__": {
+  "286": {
+   "name": "Cory LeClair"
+  },
+  "288": {
+   "name": "Cory LeClair"
+  },
+  "301": {
+   "name": "Cory LeClair"
+  },
+  "302": {
+   "name": "Cory LeClair"
+  },
+  "311": {
+   "name": "Cory LeClair"
+  },
+  "312": {
+   "name": "Cory LeClair"
+  },
+  "314": {
+   "name": "Cory LeClair"
+  },
+  "315": {
+   "name": "Cory LeClair"
+  },
+  "317": {
+   "name": "Cory LeClair"
+  },
+  "318": {
+   "name": "Cory LeClair"
+  },
+  "319": {
+   "name": "Cory LeClair"
+  },
+  "320": {
+   "name": "Cory LeClair"
+  },
+  "321": {
+   "name": "Cory LeClair"
+  },
+  "322": {
+   "name": "Cory LeClair"
+  },
+  "323": {
+   "name": "Cory LeClair"
+  },
+  "332": {
+   "name": "Cory LeClair"
+  },
+  "334": {
+   "name": "Cory LeClair"
+  },
+  "339": {
+   "name": "Cory LeClair"
+  },
+  "356": {
+   "name": "Cory LeClair"
+  },
+  "358": {
+   "name": "Cory LeClair"
+  },
+  "359": {
+   "name": "Cory LeClair"
+  },
+  "360": {
+   "name": "Cory LeClair"
+  },
+  "365": {
+   "name": "Cory LeClair"
+  },
+  "367": {
+   "name": "Cory LeClair"
+  },
+  "370": {
+   "name": "Cory LeClair"
+  },
+  "371": {
+   "name": "Cory LeClair"
+  },
+  "372": {
+   "name": "Cory LeClair"
+  },
+  "374": {
+   "name": "Cory LeClair"
+  },
+  "381": {
+   "name": "Cory LeClair"
+  },
+  "382": {
+   "name": "Cory LeClair"
+  },
+  "383": {
+   "name": "Cory LeClair"
+  },
+  "384": {
+   "name": "Cory LeClair"
+  },
+  "385": {
+   "name": "Cory LeClair"
+  },
+  "386": {
+   "name": "Cory LeClair"
+  },
+  "387": {
+   "name": "Cory LeClair"
+  },
+  "388": {
+   "name": "Cory LeClair"
+  },
+  "389": {
+   "name": "Cory LeClair"
+  },
+  "390": {
+   "name": "Cory LeClair"
+  },
+  "391": {
+   "name": "Cory LeClair"
+  },
+  "490": {
+   "name": "Cory LeClair"
+  },
+  "492": {
+   "name": "Cory LeClair"
+  },
+  "494": {
+   "name": "Cory LeClair"
+  },
+  "506": {
+   "name": "Cory LeClair"
+  },
+  "520": {
+   "name": "Cory LeClair"
+  },
+  "563": {
+   "name": "Cory LeClair"
+  },
+  "565": {
+   "name": "Cory LeClair"
+  },
+  "568": {
+   "name": "Cory LeClair"
+  },
+  "570": {
+   "name": "Cory LeClair"
+  },
+  "663": {
+   "name": "Cory LeClair"
+  },
+  "10": {
+   "name": "Mary Woodman",
+   "role": "School district clerk and recording secretary (chair: 'It's time for roll call. Mary' [8]; 'We need a roll call vote on this one, Mary' [787])"
+  },
+  "11": {
+   "name": "Mary Woodman"
+  },
+  "13": {
+   "name": "Mary Woodman"
+  },
+  "790": {
+   "name": "Mary Woodman"
+  },
+  "792": {
+   "name": "Mary Woodman"
+  },
+  "794": {
+   "name": "Mary Woodman"
+  },
+  "795": {
+   "name": "Mary Woodman"
+  },
+  "53": {
+   "name": "Carolyn Towle"
+  },
+  "62": {
+   "name": "Carolyn Towle"
+  },
+  "74": {
+   "name": "Carolyn Towle"
+  },
+  "111": {
+   "name": "Carolyn Towle"
+  },
+  "118": {
+   "name": "Carolyn Towle"
+  },
+  "126": {
+   "name": "Carolyn Towle"
+  },
+  "200": {
+   "name": "Carolyn Towle"
+  },
+  "204": {
+   "name": "Carolyn Towle"
+  },
+  "210": {
+   "name": "Carolyn Towle"
+  },
+  "221": {
+   "name": "Carolyn Towle"
+  },
+  "223": {
+   "name": "Carolyn Towle"
+  },
+  "236": {
+   "name": "Carolyn Towle"
+  },
+  "239": {
+   "name": "Carolyn Towle"
+  },
+  "270": {
+   "name": "Carolyn Towle"
+  },
+  "272": {
+   "name": "Carolyn Towle"
+  },
+  "276": {
+   "name": "Carolyn Towle"
+  },
+  "279": {
+   "name": "Carolyn Towle"
+  },
+  "281": {
+   "name": "Carolyn Towle"
+  },
+  "448": {
+   "name": "Carolyn Towle"
+  },
+  "449": {
+   "name": "Carolyn Towle"
+  },
+  "451": {
+   "name": "Carolyn Towle"
+  },
+  "453": {
+   "name": "Carolyn Towle"
+  },
+  "9": {
+   "name": "Robert McDevitt"
+  },
+  "14": {
+   "name": "Michael Petrin"
+  },
+  "160": {
+   "name": "Charlie Gessner"
+  },
+  "145": {
+   "name": "Mimi"
+  },
+  "216": {
+   "name": "Marjorie Erickson"
+  },
+  "222": {
+   "name": "Rebecca Zullo"
+  },
+  "29": {
+   "name": "Unidentified",
+   "role": "Unidentified - single remark during minutes review"
+  },
+  "736": {
+   "name": "Unidentified",
+   "role": "Unidentified - one-word fragment"
+  },
+  "397": {
+   "name": "Marjorie Erickson"
+  },
+  "83": {
+   "name": "Michael Petrin"
+  },
+  "84": {
+   "name": "Michael Petrin"
+  },
+  "85": {
+   "name": "Michael Petrin"
+  },
+  "686": {
+   "name": "Michael O'Neill"
+  },
+  "696": {
+   "name": "Michael O'Neill"
+  },
+  "700": {
+   "name": "Michael O'Neill"
+  },
+  "724": {
+   "name": "Michael O'Neill"
+  },
+  "726": {
+   "name": "Michael O'Neill"
+  }
+ }
+}

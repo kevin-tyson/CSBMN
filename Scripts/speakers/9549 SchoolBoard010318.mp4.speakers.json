@@ -1,0 +1,589 @@
+{
+ "Speaker 1": {
+  "name": "Chris Irish",
+  "role": "Claremont School Board Vice Chair (answers 'Chris. Irish.' in both roll calls [457-458, 476-477]; 'That was Chris that made the call' [74] -> 'I didn't speak up again, Mary' [75]; moves 31,148,256.95 to the deliberative session [489-491])"
+ },
+ "Speaker 2": {
+  "name": "Brian Rapp",
+  "role": "Claremont School Board Chair (presides: comes out of nonpublic [1], runs agenda and votes, recognizes 'Mike first and then Chris' [184], 'Rebecca' [214], 'Alex' [225], 'Frank' [249]; this cluster also carries the business administrator [289-343] - see overrides)"
+ },
+ "Speaker 3": {
+  "name": "Unidentified",
+  "role": "Unidentified - short procedural responses and 'yes' chorus from board members"
+ },
+ "Speaker 4": {
+  "name": "Unidentified",
+  "role": "Unidentified - cluster mixes Rebecca Zullo, an administrator (probably Assistant Superintendent Cory LeClair) and clerk Mary Woodman; identifiable segments reassigned per segment"
+ },
+ "Speaker 5": {
+  "name": "Frank Sprague",
+  "role": "Claremont School Board member (moves to reconsider the budget [128]; Irish: 'the reason I think Frank did this' [181] then this voice explains [182-183]; chair 'Frank.' [249] then [250-259]); cluster also carries the superintendent and business administrator - see overrides"
+ },
+ "Speaker 6": {
+  "name": "Unidentified",
+  "role": "Unidentified - single remark 'It was my grant.' [41]"
+ },
+ "Speaker 7": {
+  "name": "Alex Herzog",
+  "role": "Claremont School Board member (chair 'Alex.' [83, 225] then this voice; 'Alex' in roll call answered by this voice [459-460, 478-479]; moves to amend the budget to 31,455,410 [228])"
+ },
+ "Speaker 8": {
+  "name": "Mary Woodman",
+  "role": "School District Clerk and board recording secretary ('you guys don't speak up' [67]; addressed 'Mary' [55, 75, 454])"
+ },
+ "Speaker 9": {
+  "name": "Prescott Herzog",
+  "role": "Stevens High School student presenting the New England Dairy and Food Council grant ('defer to, Prescott Herzog' [94]; 'Prescott Herzog, how much have you raised' [109])"
+ },
+ "Speaker 10": {
+  "name": "Brian Rapp",
+  "role": "Claremont School Board Chair (runs the roll-call votes: 'roll call for calling the question. Are you ready, Mary?' [453-454], 'Carries' [470]; recognizes 'Alex' [387]); cluster also carries Superintendent McGoodwin [361-385] - see overrides"
+ },
+ "Speaker 11": {
+  "name": "Brian Rapp",
+  "role": "Claremont School Board Chair (continues the chair's statement begun in Speaker 2 [262-267]: 'three of us thought it was too low')"
+ },
+ "Speaker 12": {
+  "name": "Michelle Pierce",
+  "role": "Claremont School Board member (says 'Chris felt this way ... Frank felt this way ... Becca felt this way' and is not one of them [273]; chair 'Rochelle' [346] then this voice [347]); cluster also carries clerk Woodman's roll calls - see overrides"
+ },
+ "Speaker 13": {
+  "name": "Brian Rapp",
+  "role": "Claremont School Board Chair (uncertain - shares one sentence with Speaker 10 [410-413]; argues from the three-member minority)"
+ },
+ "Speaker 14": {
+  "name": "Rebecca Zullo",
+  "role": "Claremont School Board member (uncertain - the member questioning line items, addressed 'Becky' [332]; 'let me just find somewhere else I can ask you' [331])"
+ },
+ "Speaker 15": {
+  "name": "Rebecca Zullo",
+  "role": "Claremont School Board member (questions whether line items reflect actual spending [375] and restates 'I didn't think anybody was doing anything' [382], matching her earlier 'I don't think anybody is skimming anybody' [286])"
+ },
+ "Speaker 16": {
+  "name": "Michael Petrin",
+  "role": "Claremont School Board member (answers 'Michael. Patrick.' in the roll call [461-462]; moves to call the question [440])"
+ },
+ "__overrides__": {
+  "33": {
+   "name": "Mary Woodman",
+   "role": "School District Clerk and board recording secretary (clerk's remarks about hearing motions and seconds, diarized in the mixed Speaker 4 cluster)"
+  },
+  "37": {
+   "name": "Mary Woodman",
+   "role": "School District Clerk and board recording secretary (clerk's remarks about hearing motions and seconds, diarized in the mixed Speaker 4 cluster)"
+  },
+  "54": {
+   "name": "Mary Woodman",
+   "role": "School District Clerk and board recording secretary (clerk's remarks about hearing motions and seconds, diarized in the mixed Speaker 4 cluster)"
+  },
+  "71": {
+   "name": "Mary Woodman",
+   "role": "School District Clerk and board recording secretary (clerk's remarks about hearing motions and seconds, diarized in the mixed Speaker 4 cluster)"
+  },
+  "73": {
+   "name": "Mary Woodman",
+   "role": "School District Clerk and board recording secretary (clerk's remarks about hearing motions and seconds, diarized in the mixed Speaker 4 cluster)"
+  },
+  "449": {
+   "name": "Mary Woodman",
+   "role": "School District Clerk and board recording secretary (clerk's remarks about hearing motions and seconds, diarized in the mixed Speaker 4 cluster)"
+  },
+  "456": {
+   "name": "Mary Woodman",
+   "role": "School District Clerk and board recording secretary (clerk's remarks about hearing motions and seconds, diarized in the mixed Speaker 4 cluster)"
+  },
+  "468": {
+   "name": "Mary Woodman",
+   "role": "School District Clerk and board recording secretary (clerk's remarks about hearing motions and seconds, diarized in the mixed Speaker 4 cluster)"
+  },
+  "448": {
+   "name": "Mary Woodman",
+   "role": "School District Clerk and board recording secretary ('I can't write and listen' [448])"
+  },
+  "450": {
+   "name": "Mary Woodman",
+   "role": "School District Clerk and board recording secretary ('I can't write and listen' [448])"
+  },
+  "457": {
+   "name": "Mary Woodman",
+   "role": "School District Clerk and board recording secretary (calls the roll; diarized with Pierce's cluster)"
+  },
+  "459": {
+   "name": "Mary Woodman",
+   "role": "School District Clerk and board recording secretary (calls the roll; diarized with Pierce's cluster)"
+  },
+  "461": {
+   "name": "Mary Woodman",
+   "role": "School District Clerk and board recording secretary (calls the roll; diarized with Pierce's cluster)"
+  },
+  "463": {
+   "name": "Mary Woodman",
+   "role": "School District Clerk and board recording secretary (calls the roll; diarized with Pierce's cluster)"
+  },
+  "465": {
+   "name": "Mary Woodman",
+   "role": "School District Clerk and board recording secretary (calls the roll; diarized with Pierce's cluster)"
+  },
+  "467": {
+   "name": "Mary Woodman",
+   "role": "School District Clerk and board recording secretary (calls the roll; diarized with Pierce's cluster)"
+  },
+  "476": {
+   "name": "Mary Woodman",
+   "role": "School District Clerk and board recording secretary (calls the roll; diarized with Pierce's cluster)"
+  },
+  "478": {
+   "name": "Mary Woodman",
+   "role": "School District Clerk and board recording secretary (calls the roll; diarized with Pierce's cluster)"
+  },
+  "480": {
+   "name": "Mary Woodman",
+   "role": "School District Clerk and board recording secretary (calls the roll; diarized with Pierce's cluster)"
+  },
+  "482": {
+   "name": "Mary Woodman",
+   "role": "School District Clerk and board recording secretary (calls the roll; diarized with Pierce's cluster)"
+  },
+  "484": {
+   "name": "Mary Woodman",
+   "role": "School District Clerk and board recording secretary (calls the roll; diarized with Pierce's cluster)"
+  },
+  "486": {
+   "name": "Mary Woodman",
+   "role": "School District Clerk and board recording secretary (calls the roll; diarized with Pierce's cluster)"
+  },
+  "455": {
+   "name": "Mary Woodman",
+   "role": "School District Clerk and board recording secretary"
+  },
+  "7": {
+   "name": "Michelle Pierce",
+   "role": "Claremont School Board member (uncertain - member proposing the agenda amendment who was locked out of her computer; Irish: 'she couldn't get her thing opened up' [34]; clerk: 'You made it Michelle' [33])"
+  },
+  "12": {
+   "name": "Michelle Pierce",
+   "role": "Claremont School Board member (uncertain - member proposing the agenda amendment who was locked out of her computer; Irish: 'she couldn't get her thing opened up' [34]; clerk: 'You made it Michelle' [33])"
+  },
+  "15": {
+   "name": "Michelle Pierce",
+   "role": "Claremont School Board member (uncertain - member proposing the agenda amendment who was locked out of her computer; Irish: 'she couldn't get her thing opened up' [34]; clerk: 'You made it Michelle' [33])"
+  },
+  "215": {
+   "name": "Rebecca Zullo",
+   "role": "Claremont School Board member (chair 'Rebecca.' [214] immediately before)"
+  },
+  "216": {
+   "name": "Rebecca Zullo",
+   "role": "Claremont School Board member (chair 'Rebecca.' [214] immediately before)"
+  },
+  "218": {
+   "name": "Rebecca Zullo",
+   "role": "Claremont School Board member (chair 'Rebecca.' [214] immediately before)"
+  },
+  "221": {
+   "name": "Rebecca Zullo",
+   "role": "Claremont School Board member (chair 'Rebecca.' [214] immediately before)"
+  },
+  "223": {
+   "name": "Rebecca Zullo",
+   "role": "Claremont School Board member (chair 'Rebecca.' [214] immediately before)"
+  },
+  "286": {
+   "name": "Rebecca Zullo",
+   "role": "Claremont School Board member (uncertain - member questioning line-item actuals; Pierce: 'Rebecca tried multiple times' [271]; later restated by Speaker 15 [382])"
+  },
+  "287": {
+   "name": "Rebecca Zullo",
+   "role": "Claremont School Board member (uncertain - member questioning line-item actuals; Pierce: 'Rebecca tried multiple times' [271]; later restated by Speaker 15 [382])"
+  },
+  "288": {
+   "name": "Rebecca Zullo",
+   "role": "Claremont School Board member (uncertain - member questioning line-item actuals; Pierce: 'Rebecca tried multiple times' [271]; later restated by Speaker 15 [382])"
+  },
+  "290": {
+   "name": "Rebecca Zullo",
+   "role": "Claremont School Board member (uncertain - member questioning line-item actuals; Pierce: 'Rebecca tried multiple times' [271]; later restated by Speaker 15 [382])"
+  },
+  "292": {
+   "name": "Rebecca Zullo",
+   "role": "Claremont School Board member (uncertain - member questioning line-item actuals; Pierce: 'Rebecca tried multiple times' [271]; later restated by Speaker 15 [382])"
+  },
+  "295": {
+   "name": "Rebecca Zullo",
+   "role": "Claremont School Board member (uncertain - member questioning line-item actuals; Pierce: 'Rebecca tried multiple times' [271]; later restated by Speaker 15 [382])"
+  },
+  "297": {
+   "name": "Rebecca Zullo",
+   "role": "Claremont School Board member (uncertain - member questioning line-item actuals; Pierce: 'Rebecca tried multiple times' [271]; later restated by Speaker 15 [382])"
+  },
+  "298": {
+   "name": "Rebecca Zullo",
+   "role": "Claremont School Board member (uncertain - member questioning line-item actuals; Pierce: 'Rebecca tried multiple times' [271]; later restated by Speaker 15 [382])"
+  },
+  "299": {
+   "name": "Rebecca Zullo",
+   "role": "Claremont School Board member (uncertain - member questioning line-item actuals; Pierce: 'Rebecca tried multiple times' [271]; later restated by Speaker 15 [382])"
+  },
+  "301": {
+   "name": "Rebecca Zullo",
+   "role": "Claremont School Board member (uncertain - member questioning line-item actuals; Pierce: 'Rebecca tried multiple times' [271]; later restated by Speaker 15 [382])"
+  },
+  "303": {
+   "name": "Rebecca Zullo",
+   "role": "Claremont School Board member (uncertain - member questioning line-item actuals; Pierce: 'Rebecca tried multiple times' [271]; later restated by Speaker 15 [382])"
+  },
+  "307": {
+   "name": "Rebecca Zullo",
+   "role": "Claremont School Board member (uncertain - member questioning line-item actuals; Pierce: 'Rebecca tried multiple times' [271]; later restated by Speaker 15 [382])"
+  },
+  "374": {
+   "name": "Rebecca Zullo",
+   "role": "Claremont School Board member (uncertain - member questioning line-item actuals; Pierce: 'Rebecca tried multiple times' [271]; later restated by Speaker 15 [382])"
+  },
+  "147": {
+   "name": "Cory LeClair",
+   "role": "Assistant Superintendent, SAU 6 (uncertain - administrator explaining the staff-development line and contract history inside a female cluster that also carries Zullo and Woodman; LeClair is thanked by name at the end of this meeting in file 9550 [57])"
+  },
+  "150": {
+   "name": "Cory LeClair",
+   "role": "Assistant Superintendent, SAU 6 (uncertain - administrator explaining the staff-development line and contract history inside a female cluster that also carries Zullo and Woodman; LeClair is thanked by name at the end of this meeting in file 9550 [57])"
+  },
+  "154": {
+   "name": "Cory LeClair",
+   "role": "Assistant Superintendent, SAU 6 (uncertain - administrator explaining the staff-development line and contract history inside a female cluster that also carries Zullo and Woodman; LeClair is thanked by name at the end of this meeting in file 9550 [57])"
+  },
+  "203": {
+   "name": "Cory LeClair",
+   "role": "Assistant Superintendent, SAU 6 (uncertain - administrator explaining the staff-development line and contract history inside a female cluster that also carries Zullo and Woodman; LeClair is thanked by name at the end of this meeting in file 9550 [57])"
+  },
+  "204": {
+   "name": "Cory LeClair",
+   "role": "Assistant Superintendent, SAU 6 (uncertain - administrator explaining the staff-development line and contract history inside a female cluster that also carries Zullo and Woodman; LeClair is thanked by name at the end of this meeting in file 9550 [57])"
+  },
+  "206": {
+   "name": "Cory LeClair",
+   "role": "Assistant Superintendent, SAU 6 (uncertain - administrator explaining the staff-development line and contract history inside a female cluster that also carries Zullo and Woodman; LeClair is thanked by name at the end of this meeting in file 9550 [57])"
+  },
+  "207": {
+   "name": "Cory LeClair",
+   "role": "Assistant Superintendent, SAU 6 (uncertain - administrator explaining the staff-development line and contract history inside a female cluster that also carries Zullo and Woodman; LeClair is thanked by name at the end of this meeting in file 9550 [57])"
+  },
+  "208": {
+   "name": "Cory LeClair",
+   "role": "Assistant Superintendent, SAU 6 (uncertain - administrator explaining the staff-development line and contract history inside a female cluster that also carries Zullo and Woodman; LeClair is thanked by name at the end of this meeting in file 9550 [57])"
+  },
+  "312": {
+   "name": "Cory LeClair",
+   "role": "Assistant Superintendent, SAU 6 (uncertain - administrator explaining the staff-development line and contract history inside a female cluster that also carries Zullo and Woodman; LeClair is thanked by name at the end of this meeting in file 9550 [57])"
+  },
+  "314": {
+   "name": "Cory LeClair",
+   "role": "Assistant Superintendent, SAU 6 (uncertain - administrator explaining the staff-development line and contract history inside a female cluster that also carries Zullo and Woodman; LeClair is thanked by name at the end of this meeting in file 9550 [57])"
+  },
+  "316": {
+   "name": "Cory LeClair",
+   "role": "Assistant Superintendent, SAU 6 (uncertain - administrator explaining the staff-development line and contract history inside a female cluster that also carries Zullo and Woodman; LeClair is thanked by name at the end of this meeting in file 9550 [57])"
+  },
+  "318": {
+   "name": "Cory LeClair",
+   "role": "Assistant Superintendent, SAU 6 (uncertain - administrator explaining the staff-development line and contract history inside a female cluster that also carries Zullo and Woodman; LeClair is thanked by name at the end of this meeting in file 9550 [57])"
+  },
+  "319": {
+   "name": "Cory LeClair",
+   "role": "Assistant Superintendent, SAU 6 (uncertain - administrator explaining the staff-development line and contract history inside a female cluster that also carries Zullo and Woodman; LeClair is thanked by name at the end of this meeting in file 9550 [57])"
+  },
+  "321": {
+   "name": "Cory LeClair",
+   "role": "Assistant Superintendent, SAU 6 (uncertain - administrator explaining the staff-development line and contract history inside a female cluster that also carries Zullo and Woodman; LeClair is thanked by name at the end of this meeting in file 9550 [57])"
+  },
+  "322": {
+   "name": "Cory LeClair",
+   "role": "Assistant Superintendent, SAU 6 (uncertain - administrator explaining the staff-development line and contract history inside a female cluster that also carries Zullo and Woodman; LeClair is thanked by name at the end of this meeting in file 9550 [57])"
+  },
+  "324": {
+   "name": "Cory LeClair",
+   "role": "Assistant Superintendent, SAU 6 (uncertain - administrator explaining the staff-development line and contract history inside a female cluster that also carries Zullo and Woodman; LeClair is thanked by name at the end of this meeting in file 9550 [57])"
+  },
+  "326": {
+   "name": "Cory LeClair",
+   "role": "Assistant Superintendent, SAU 6 (uncertain - administrator explaining the staff-development line and contract history inside a female cluster that also carries Zullo and Woodman; LeClair is thanked by name at the end of this meeting in file 9550 [57])"
+  },
+  "327": {
+   "name": "Cory LeClair",
+   "role": "Assistant Superintendent, SAU 6 (uncertain - administrator explaining the staff-development line and contract history inside a female cluster that also carries Zullo and Woodman; LeClair is thanked by name at the end of this meeting in file 9550 [57])"
+  },
+  "332": {
+   "name": "Cory LeClair",
+   "role": "Assistant Superintendent, SAU 6 (uncertain - administrator explaining the staff-development line and contract history inside a female cluster that also carries Zullo and Woodman; LeClair is thanked by name at the end of this meeting in file 9550 [57])"
+  },
+  "333": {
+   "name": "Cory LeClair",
+   "role": "Assistant Superintendent, SAU 6 (uncertain - administrator explaining the staff-development line and contract history inside a female cluster that also carries Zullo and Woodman; LeClair is thanked by name at the end of this meeting in file 9550 [57])"
+  },
+  "335": {
+   "name": "Cory LeClair",
+   "role": "Assistant Superintendent, SAU 6 (uncertain - administrator explaining the staff-development line and contract history inside a female cluster that also carries Zullo and Woodman; LeClair is thanked by name at the end of this meeting in file 9550 [57])"
+  },
+  "338": {
+   "name": "Cory LeClair",
+   "role": "Assistant Superintendent, SAU 6 (uncertain - administrator explaining the staff-development line and contract history inside a female cluster that also carries Zullo and Woodman; LeClair is thanked by name at the end of this meeting in file 9550 [57])"
+  },
+  "340": {
+   "name": "Cory LeClair",
+   "role": "Assistant Superintendent, SAU 6 (uncertain - administrator explaining the staff-development line and contract history inside a female cluster that also carries Zullo and Woodman; LeClair is thanked by name at the end of this meeting in file 9550 [57])"
+  },
+  "342": {
+   "name": "Cory LeClair",
+   "role": "Assistant Superintendent, SAU 6 (uncertain - administrator explaining the staff-development line and contract history inside a female cluster that also carries Zullo and Woodman; LeClair is thanked by name at the end of this meeting in file 9550 [57])"
+  },
+  "344": {
+   "name": "Cory LeClair",
+   "role": "Assistant Superintendent, SAU 6 (uncertain - administrator explaining the staff-development line and contract history inside a female cluster that also carries Zullo and Woodman; LeClair is thanked by name at the end of this meeting in file 9550 [57])"
+  },
+  "345": {
+   "name": "Cory LeClair",
+   "role": "Assistant Superintendent, SAU 6 (uncertain - administrator explaining the staff-development line and contract history inside a female cluster that also carries Zullo and Woodman; LeClair is thanked by name at the end of this meeting in file 9550 [57])"
+  },
+  "348": {
+   "name": "Cory LeClair",
+   "role": "Assistant Superintendent, SAU 6 (uncertain - administrator explaining the staff-development line and contract history inside a female cluster that also carries Zullo and Woodman; LeClair is thanked by name at the end of this meeting in file 9550 [57])"
+  },
+  "350": {
+   "name": "Cory LeClair",
+   "role": "Assistant Superintendent, SAU 6 (uncertain - administrator explaining the staff-development line and contract history inside a female cluster that also carries Zullo and Woodman; LeClair is thanked by name at the end of this meeting in file 9550 [57])"
+  },
+  "352": {
+   "name": "Cory LeClair",
+   "role": "Assistant Superintendent, SAU 6 (uncertain - administrator explaining the staff-development line and contract history inside a female cluster that also carries Zullo and Woodman; LeClair is thanked by name at the end of this meeting in file 9550 [57])"
+  },
+  "354": {
+   "name": "Cory LeClair",
+   "role": "Assistant Superintendent, SAU 6 (uncertain - administrator explaining the staff-development line and contract history inside a female cluster that also carries Zullo and Woodman; LeClair is thanked by name at the end of this meeting in file 9550 [57])"
+  },
+  "356": {
+   "name": "Cory LeClair",
+   "role": "Assistant Superintendent, SAU 6 (uncertain - administrator explaining the staff-development line and contract history inside a female cluster that also carries Zullo and Woodman; LeClair is thanked by name at the end of this meeting in file 9550 [57])"
+  },
+  "358": {
+   "name": "Cory LeClair",
+   "role": "Assistant Superintendent, SAU 6 (uncertain - administrator explaining the staff-development line and contract history inside a female cluster that also carries Zullo and Woodman; LeClair is thanked by name at the end of this meeting in file 9550 [57])"
+  },
+  "362": {
+   "name": "Cory LeClair",
+   "role": "Assistant Superintendent, SAU 6 (uncertain - administrator explaining the staff-development line and contract history inside a female cluster that also carries Zullo and Woodman; LeClair is thanked by name at the end of this meeting in file 9550 [57])"
+  },
+  "364": {
+   "name": "Cory LeClair",
+   "role": "Assistant Superintendent, SAU 6 (uncertain - administrator explaining the staff-development line and contract history inside a female cluster that also carries Zullo and Woodman; LeClair is thanked by name at the end of this meeting in file 9550 [57])"
+  },
+  "366": {
+   "name": "Cory LeClair",
+   "role": "Assistant Superintendent, SAU 6 (uncertain - administrator explaining the staff-development line and contract history inside a female cluster that also carries Zullo and Woodman; LeClair is thanked by name at the end of this meeting in file 9550 [57])"
+  },
+  "368": {
+   "name": "Cory LeClair",
+   "role": "Assistant Superintendent, SAU 6 (uncertain - administrator explaining the staff-development line and contract history inside a female cluster that also carries Zullo and Woodman; LeClair is thanked by name at the end of this meeting in file 9550 [57])"
+  },
+  "304": {
+   "name": "Cory LeClair",
+   "role": "Assistant Superintendent, SAU 6 (uncertain - administrator explaining the staff-development line and contract history inside a female cluster that also carries Zullo and Woodman; LeClair is thanked by name at the end of this meeting in file 9550 [57])"
+  },
+  "306": {
+   "name": "Cory LeClair",
+   "role": "Assistant Superintendent, SAU 6 (uncertain - administrator explaining the staff-development line and contract history inside a female cluster that also carries Zullo and Woodman; LeClair is thanked by name at the end of this meeting in file 9550 [57])"
+  },
+  "311": {
+   "name": "Cory LeClair",
+   "role": "Assistant Superintendent, SAU 6 (uncertain - administrator explaining the staff-development line and contract history inside a female cluster that also carries Zullo and Woodman; LeClair is thanked by name at the end of this meeting in file 9550 [57])"
+  },
+  "313": {
+   "name": "Cory LeClair",
+   "role": "Assistant Superintendent, SAU 6 (uncertain - administrator explaining the staff-development line and contract history inside a female cluster that also carries Zullo and Woodman; LeClair is thanked by name at the end of this meeting in file 9550 [57])"
+  },
+  "315": {
+   "name": "Cory LeClair",
+   "role": "Assistant Superintendent, SAU 6 (uncertain - administrator explaining the staff-development line and contract history inside a female cluster that also carries Zullo and Woodman; LeClair is thanked by name at the end of this meeting in file 9550 [57])"
+  },
+  "317": {
+   "name": "Cory LeClair",
+   "role": "Assistant Superintendent, SAU 6 (uncertain - administrator explaining the staff-development line and contract history inside a female cluster that also carries Zullo and Woodman; LeClair is thanked by name at the end of this meeting in file 9550 [57])"
+  },
+  "323": {
+   "name": "Cory LeClair",
+   "role": "Assistant Superintendent, SAU 6 (uncertain - administrator explaining the staff-development line and contract history inside a female cluster that also carries Zullo and Woodman; LeClair is thanked by name at the end of this meeting in file 9550 [57])"
+  },
+  "334": {
+   "name": "Cory LeClair",
+   "role": "Assistant Superintendent, SAU 6 (uncertain - administrator explaining the staff-development line and contract history inside a female cluster that also carries Zullo and Woodman; LeClair is thanked by name at the end of this meeting in file 9550 [57])"
+  },
+  "289": {
+   "name": "Michael O'Neill",
+   "role": "Business Administrator, SAU 6 (answers budget-line questions addressed to 'Mike' [288-296, 339-343]; surname spelling unverified)"
+  },
+  "291": {
+   "name": "Michael O'Neill",
+   "role": "Business Administrator, SAU 6 (answers budget-line questions addressed to 'Mike' [288-296, 339-343]; surname spelling unverified)"
+  },
+  "294": {
+   "name": "Michael O'Neill",
+   "role": "Business Administrator, SAU 6 (answers budget-line questions addressed to 'Mike' [288-296, 339-343]; surname spelling unverified)"
+  },
+  "296": {
+   "name": "Michael O'Neill",
+   "role": "Business Administrator, SAU 6 (answers budget-line questions addressed to 'Mike' [288-296, 339-343]; surname spelling unverified)"
+  },
+  "309": {
+   "name": "Michael O'Neill",
+   "role": "Business Administrator, SAU 6 (answers budget-line questions addressed to 'Mike' [288-296, 339-343]; surname spelling unverified)"
+  },
+  "325": {
+   "name": "Michael O'Neill",
+   "role": "Business Administrator, SAU 6 (answers budget-line questions addressed to 'Mike' [288-296, 339-343]; surname spelling unverified)"
+  },
+  "339": {
+   "name": "Michael O'Neill",
+   "role": "Business Administrator, SAU 6 (answers budget-line questions addressed to 'Mike' [288-296, 339-343]; surname spelling unverified)"
+  },
+  "341": {
+   "name": "Michael O'Neill",
+   "role": "Business Administrator, SAU 6 (answers budget-line questions addressed to 'Mike' [288-296, 339-343]; surname spelling unverified)"
+  },
+  "343": {
+   "name": "Michael O'Neill",
+   "role": "Business Administrator, SAU 6 (answers budget-line questions addressed to 'Mike' [288-296, 339-343]; surname spelling unverified)"
+  },
+  "156": {
+   "name": "Michael O'Neill",
+   "role": "Business Administrator, SAU 6 (uncertain - budget figure or procedural answer; diarized with a board member's cluster)"
+  },
+  "157": {
+   "name": "Michael O'Neill",
+   "role": "Business Administrator, SAU 6 (uncertain - budget figure or procedural answer; diarized with a board member's cluster)"
+  },
+  "162": {
+   "name": "Michael O'Neill",
+   "role": "Business Administrator, SAU 6 (uncertain - budget figure or procedural answer; diarized with a board member's cluster)"
+  },
+  "198": {
+   "name": "Michael O'Neill",
+   "role": "Business Administrator, SAU 6 (uncertain - budget figure or procedural answer; diarized with a board member's cluster)"
+  },
+  "220": {
+   "name": "Michael O'Neill",
+   "role": "Business Administrator, SAU 6 (uncertain - budget figure or procedural answer; diarized with a board member's cluster)"
+  },
+  "222": {
+   "name": "Michael O'Neill",
+   "role": "Business Administrator, SAU 6 (uncertain - budget figure or procedural answer; diarized with a board member's cluster)"
+  },
+  "224": {
+   "name": "Michael O'Neill",
+   "role": "Business Administrator, SAU 6 (uncertain - budget figure or procedural answer; diarized with a board member's cluster)"
+  },
+  "238": {
+   "name": "Michael O'Neill",
+   "role": "Business Administrator, SAU 6 (uncertain - budget figure or procedural answer; diarized with a board member's cluster)"
+  },
+  "236": {
+   "name": "Michael O'Neill",
+   "role": "Business Administrator, SAU 6 (uncertain - budget figure or procedural answer; diarized with a board member's cluster)"
+  },
+  "179": {
+   "name": "Unidentified",
+   "role": "Unidentified - correction that the state shortfall is revenue, not spending; Rapp or business administrator O'Neill"
+  },
+  "180": {
+   "name": "Unidentified",
+   "role": "Unidentified - correction that the state shortfall is revenue, not spending; Rapp or business administrator O'Neill"
+  },
+  "253": {
+   "name": "Frank Sprague"
+  },
+  "255": {
+   "name": "Frank Sprague"
+  },
+  "258": {
+   "name": "Frank Sprague"
+  },
+  "260": {
+   "name": "Frank Sprague"
+  },
+  "256": {
+   "name": "Frank Sprague"
+  },
+  "61": {
+   "name": "Alex Herzog"
+  },
+  "94": {
+   "name": "Middleton McGoodwin",
+   "role": "Superintendent, SAU 6 (introduces the student grant and the anonymous donation; diarized with Sprague's cluster)"
+  },
+  "116": {
+   "name": "Middleton McGoodwin",
+   "role": "Superintendent, SAU 6 (introduces the student grant and the anonymous donation; diarized with Sprague's cluster)"
+  },
+  "118": {
+   "name": "Middleton McGoodwin",
+   "role": "Superintendent, SAU 6 (introduces the student grant and the anonymous donation; diarized with Sprague's cluster)"
+  },
+  "360": {
+   "name": "Middleton McGoodwin",
+   "role": "Superintendent, SAU 6 ('I was publicly accused of putting up scare tactics ... I went through my budget. I came up with chump change' [372-373]; Zullo addresses him 'middle[ton]' [386])"
+  },
+  "361": {
+   "name": "Middleton McGoodwin",
+   "role": "Superintendent, SAU 6 ('I was publicly accused of putting up scare tactics ... I went through my budget. I came up with chump change' [372-373]; Zullo addresses him 'middle[ton]' [386])"
+  },
+  "372": {
+   "name": "Middleton McGoodwin",
+   "role": "Superintendent, SAU 6 ('I was publicly accused of putting up scare tactics ... I went through my budget. I came up with chump change' [372-373]; Zullo addresses him 'middle[ton]' [386])"
+  },
+  "373": {
+   "name": "Middleton McGoodwin",
+   "role": "Superintendent, SAU 6 ('I was publicly accused of putting up scare tactics ... I went through my budget. I came up with chump change' [372-373]; Zullo addresses him 'middle[ton]' [386])"
+  },
+  "376": {
+   "name": "Middleton McGoodwin",
+   "role": "Superintendent, SAU 6 ('I was publicly accused of putting up scare tactics ... I went through my budget. I came up with chump change' [372-373]; Zullo addresses him 'middle[ton]' [386])"
+  },
+  "380": {
+   "name": "Middleton McGoodwin",
+   "role": "Superintendent, SAU 6 ('I was publicly accused of putting up scare tactics ... I went through my budget. I came up with chump change' [372-373]; Zullo addresses him 'middle[ton]' [386])"
+  },
+  "383": {
+   "name": "Middleton McGoodwin",
+   "role": "Superintendent, SAU 6 ('I was publicly accused of putting up scare tactics ... I went through my budget. I came up with chump change' [372-373]; Zullo addresses him 'middle[ton]' [386])"
+  },
+  "385": {
+   "name": "Middleton McGoodwin",
+   "role": "Superintendent, SAU 6 ('I was publicly accused of putting up scare tactics ... I went through my budget. I came up with chump change' [372-373]; Zullo addresses him 'middle[ton]' [386])"
+  },
+  "185": {
+   "name": "Michael Petrin",
+   "role": "Claremont School Board member (chair: 'Mike first and then Chris' [184]; Irish follows at [189])"
+  },
+  "187": {
+   "name": "Michael Petrin",
+   "role": "Claremont School Board member (chair: 'Mike first and then Chris' [184]; Irish follows at [189])"
+  },
+  "464": {
+   "name": "Michelle Pierce"
+  },
+  "466": {
+   "name": "Frank Sprague"
+  },
+  "483": {
+   "name": "Frank Sprague"
+  },
+  "481": {
+   "name": "Michael Petrin"
+  },
+  "485": {
+   "name": "Rebecca Zullo"
+  },
+  "284": {
+   "name": "Unidentified",
+   "role": "Unidentified - one-word fragment"
+  }
+ }
+}

@@ -1,0 +1,356 @@
+{
+ "Speaker 1": {
+  "name": "Brent Ferland",
+  "role": "Claremont School Board member (superintendent refers to 'that sequence that Brennan was referring to' [73] after [66]; chair: 'Brian [Brent], did you have something' [200] -> [202]; Sprague's 'what French said' [586] follows his team-count question [574-583]; ASR 'Brant' in roll call [638]) (medium - ASR renders the name as Brian, Brennan, French); cluster also carries Maple principal Dan Sherry [53-65], see overrides"
+ },
+ "Speaker 2": {
+  "name": "Patrick Adrian",
+  "role": "Claremont School Board member (superintendent: 'Patrick, please' [41] -> [43] and 'I can tell you, Patrick' [73] after [71]; Irish: 'Patrick, the rule of thumb' [74])"
+ },
+ "Speaker 3": {
+  "name": "Unidentified",
+  "role": "Unidentified - cluster mixes short acknowledgements, roll-call answers and remarks by several board members and staff; identifiable segments reassigned in overrides"
+ },
+ "Speaker 4": {
+  "name": "Middleton McGoodwin",
+  "role": "Superintendent, SAU 6 (budget hearing presentation [4-40]; Sprague addresses 'Middleton' [644]; 'the prior BA' and 'Michael Neal ... made such a difference' [667-671])"
+ },
+ "Speaker 5": {
+  "name": "Cory LeClair",
+  "role": "Assistant Superintendent, SAU 6 (Barry: 'as Corey was saying' [215] about [185]; explains school approval standards [546-548])"
+ },
+ "Speaker 6": {
+  "name": "Brian Rapp",
+  "role": "Claremont School Board Chair (presides: superintendent hands back with 'Thank you Brian' [348] -> [349] opens citizens' comments with the rules; recognizes commenters 'Sure, Liza' [366], 'John' [502,539]; calls the board meeting to order [605] and closes the hearing [597]; ASR 'Brant' in his own roll call [638] is Ferland, not the chair)"
+ },
+ "Speaker 7": {
+  "name": "Chris Irish",
+  "role": "Claremont School Board Vice Chair (Sprague: 'I'm going to piggyback on what Chris just said ... $1,000 for a laptop' [77] after [61]; chair recognizes 'Chris' [283] -> [285]; keeps the board's budget spreadsheet [655,660]); cluster also carries Herzog, see overrides"
+ },
+ "Speaker 8": {
+  "name": "Frank Sprague",
+  "role": "Claremont School Board member (superintendent: 'very good point, Frank' [79] after [77-78]; 'I actually created that position' of discipline monitor [143] and 'I wrote the grant for ombudsman' [149], consistent with the former Stevens principal; Adrian: 'the same concerns that Frank mentioned' [155])"
+ },
+ "Speaker 9": {
+  "name": "Patricia Barry",
+  "role": "Principal, Stevens High School (superintendent: 'Pat. Barry ... Pat, if you could be good enough to come up' [105-106] -> [112]; 'what Patty just discussed' [131]; commenter addresses 'Miss Barry' [384]) (short second cluster of her interjections, medium)"
+ },
+ "Speaker 10": {
+  "name": "Paulette",
+  "role": "Principal, Claremont Middle School (first name only; superintendent 'Thank you. Paula.' [104] after her answers on the CMS library media specialist [97,101]; 'Paulette' per the CMS principal attribution in other 2017 files, uncertain)"
+ },
+ "Speaker 11": {
+  "name": "Patricia Barry",
+  "role": "Principal, Stevens High School (superintendent: 'Pat. Barry ... Pat, if you could be good enough to come up' [105-106] -> [112]; 'what Patty just discussed' [131]; commenter addresses 'Miss Barry' [384])"
+ },
+ "Speaker 12": {
+  "name": "Brian Dillon",
+  "role": "Owls program teacher, Stevens High School (Barry: 'Brian, is it about ten and 11' [173] -> [175]; chair: 'Thank you. Brian.' [199]; superintendent: 'I sat down with Brian Dillon' [293]; surname spelling unverified)"
+ },
+ "Speaker 13": {
+  "name": "Michelle Pierce",
+  "role": "Claremont School Board member (superintendent: 'I think, Michelle' [514] answering [511]; Irish: 'Michel kind of touched on it' [288] after [242-264]; 'Pierce' in the nonpublic roll call [623])"
+ },
+ "Speaker 14": {
+  "name": "Mike",
+  "role": "Public commenter, Ward 1, recently retired Stevens High School teacher (first name only: 'Mike, Ward one, recent retiree' [351])"
+ },
+ "Speaker 15": {
+  "name": "Lisa Draper",
+  "role": "Public commenter, Ward 3; works for a community social service agency doing Owls outreach (self-identified [361]; chair 'Liza' [366])"
+ },
+ "Speaker 16": {
+  "name": "Michelle Springer",
+  "role": "Public commenter, Ward 2; graduate of the earlier alternative program (self-identified [372])"
+ },
+ "Speaker 17": {
+  "name": "Brianne Lawrence",
+  "role": "Public commenter, Ward 2; former Owls student (self-identified [383])"
+ },
+ "Speaker 18": {
+  "name": "Unidentified",
+  "role": "Unidentified - roll caller for the board meeting and nonpublic votes [608-623] (likely the recording secretary; not named on this recording); cluster also holds short fragments, see overrides"
+ },
+ "Speaker 19": {
+  "name": "Amanda Mass",
+  "role": "Public commenter, former Owls student, lives out of town (self-identified [398]; ASR 'Amanda mass', spelling unverified)"
+ },
+ "Speaker 20": {
+  "name": "John",
+  "role": "Public commenter, Ward 1 (first name only: 'John Ward one' [415,540]; chair 'John' [502,539])"
+ },
+ "Speaker 21": {
+  "name": "Unidentified",
+  "role": "Unidentified - public commenter, former Owls student (name not captured; introduction absorbed into [455])"
+ },
+ "Speaker 22": {
+  "name": "Judy Couture",
+  "role": "Public commenter, lifelong Claremont resident, retired Stevens physical education teacher of 39 years (first name 'Judy' [470]; surname from the 1/18/2017 recording where Sprague names 'Judy Couture', uncertain)"
+ },
+ "Speaker 23": {
+  "name": "Veronica Bellair",
+  "role": "Public commenter, Ward 2 (self-identified [475]; ASR spelling unverified)"
+ },
+ "Speaker 24": {
+  "name": "Bruce Wilkins",
+  "role": "Public commenter, parent of an Owls graduate (self-identified [503])"
+ },
+ "Speaker 25": {
+  "name": "Unidentified",
+  "role": "Unidentified - two short remarks during the closing budget discussion [697,699]"
+ },
+ "__overrides__": {
+  "0": {
+   "name": "Unidentified",
+   "role": "Unidentified - group recitation of the Pledge of Allegiance"
+  },
+  "1": {
+   "name": "Brian Rapp"
+  },
+  "2": {
+   "name": "Brian Rapp"
+  },
+  "42": {
+   "name": "Patrick Adrian"
+  },
+  "369": {
+   "name": "Patrick Adrian"
+  },
+  "53": {
+   "name": "Dan Sherry",
+   "role": "Principal, Maple Avenue Elementary School (superintendent: 'Dan Sherry put that in the budget' [38]; answers LeClair's 'You got that one?' [52-53]; 'everybody who works in my building' [57]; Sprague: 'what Dan just had said' [93]; LeClair: 'Principal cherry' [554]; spelling unverified)"
+  },
+  "56": {
+   "name": "Dan Sherry",
+   "role": "Principal, Maple Avenue Elementary School (superintendent: 'Dan Sherry put that in the budget' [38]; answers LeClair's 'You got that one?' [52-53]; 'everybody who works in my building' [57]; Sprague: 'what Dan just had said' [93]; LeClair: 'Principal cherry' [554]; spelling unverified)"
+  },
+  "57": {
+   "name": "Dan Sherry",
+   "role": "Principal, Maple Avenue Elementary School (superintendent: 'Dan Sherry put that in the budget' [38]; answers LeClair's 'You got that one?' [52-53]; 'everybody who works in my building' [57]; Sprague: 'what Dan just had said' [93]; LeClair: 'Principal cherry' [554]; spelling unverified)"
+  },
+  "59": {
+   "name": "Dan Sherry",
+   "role": "Principal, Maple Avenue Elementary School (superintendent: 'Dan Sherry put that in the budget' [38]; answers LeClair's 'You got that one?' [52-53]; 'everybody who works in my building' [57]; Sprague: 'what Dan just had said' [93]; LeClair: 'Principal cherry' [554]; spelling unverified)"
+  },
+  "60": {
+   "name": "Dan Sherry",
+   "role": "Principal, Maple Avenue Elementary School (superintendent: 'Dan Sherry put that in the budget' [38]; answers LeClair's 'You got that one?' [52-53]; 'everybody who works in my building' [57]; Sprague: 'what Dan just had said' [93]; LeClair: 'Principal cherry' [554]; spelling unverified)"
+  },
+  "65": {
+   "name": "Dan Sherry",
+   "role": "Principal, Maple Avenue Elementary School (superintendent: 'Dan Sherry put that in the budget' [38]; answers LeClair's 'You got that one?' [52-53]; 'everybody who works in my building' [57]; Sprague: 'what Dan just had said' [93]; LeClair: 'Principal cherry' [554]; spelling unverified)"
+  },
+  "76": {
+   "name": "Frank Sprague"
+  },
+  "150": {
+   "name": "Frank Sprague"
+  },
+  "657": {
+   "name": "Frank Sprague"
+  },
+  "513": {
+   "name": "Middleton McGoodwin"
+  },
+  "686": {
+   "name": "Alex Herzog"
+  },
+  "685": {
+   "name": "Alex Herzog"
+  },
+  "266": {
+   "name": "Alex Herzog"
+  },
+  "267": {
+   "name": "Alex Herzog"
+  },
+  "268": {
+   "name": "Alex Herzog"
+  },
+  "270": {
+   "name": "Alex Herzog"
+  },
+  "584": {
+   "name": "Alex Herzog"
+  },
+  "585": {
+   "name": "Alex Herzog"
+  },
+  "590": {
+   "name": "Alex Herzog"
+  },
+  "687": {
+   "name": "Alex Herzog"
+  },
+  "265": {
+   "name": "Brian Rapp"
+  },
+  "283": {
+   "name": "Brian Rapp"
+  },
+  "419": {
+   "name": "Michael O'Neill",
+   "role": "Business Administrator, SAU 6 (superintendent: 'Mike, am I correct?' [422] -> [423]; 'I inadvertently didn't move it' [425])"
+  },
+  "423": {
+   "name": "Michael O'Neill",
+   "role": "Business Administrator, SAU 6 (superintendent: 'Mike, am I correct?' [422] -> [423]; 'I inadvertently didn't move it' [425])"
+  },
+  "425": {
+   "name": "Michael O'Neill",
+   "role": "Business Administrator, SAU 6 (superintendent: 'Mike, am I correct?' [422] -> [423]; 'I inadvertently didn't move it' [425])"
+  },
+  "427": {
+   "name": "Michael O'Neill",
+   "role": "Business Administrator, SAU 6 (superintendent: 'Mike, am I correct?' [422] -> [423]; 'I inadvertently didn't move it' [425])"
+  },
+  "429": {
+   "name": "Michael O'Neill",
+   "role": "Business Administrator, SAU 6 (superintendent: 'Mike, am I correct?' [422] -> [423]; 'I inadvertently didn't move it' [425])"
+  },
+  "96": {
+   "name": "Paulette"
+  },
+  "100": {
+   "name": "Paulette"
+  },
+  "102": {
+   "name": "Paulette"
+  },
+  "103": {
+   "name": "Paulette"
+  },
+  "111": {
+   "name": "Patricia Barry"
+  },
+  "203": {
+   "name": "Patricia Barry"
+  },
+  "207": {
+   "name": "Patricia Barry"
+  },
+  "221": {
+   "name": "Patricia Barry"
+  },
+  "272": {
+   "name": "Patricia Barry"
+  },
+  "281": {
+   "name": "Patricia Barry"
+  },
+  "305": {
+   "name": "Patricia Barry"
+  },
+  "404": {
+   "name": "Patricia Barry"
+  },
+  "406": {
+   "name": "Patricia Barry"
+  },
+  "408": {
+   "name": "Patricia Barry"
+  },
+  "91": {
+   "name": "Unidentified",
+   "role": "Unidentified - short fragment or backchannel, speaker not determinable"
+  },
+  "184": {
+   "name": "Cory LeClair"
+  },
+  "455": {
+   "name": "Unidentified",
+   "role": "Unidentified - public commenter, former Owls student (name not captured; introduction absorbed into [455])"
+  },
+  "545": {
+   "name": "Cory LeClair"
+  },
+  "555": {
+   "name": "Cory LeClair"
+  },
+  "560": {
+   "name": "Cory LeClair"
+  },
+  "531": {
+   "name": "Michelle Pierce"
+  },
+  "533": {
+   "name": "Michelle Pierce"
+  },
+  "535": {
+   "name": "Michelle Pierce"
+  },
+  "375": {
+   "name": "Brianne Lawrence"
+  },
+  "385": {
+   "name": "Brianne Lawrence"
+  },
+  "387": {
+   "name": "Brianne Lawrence"
+  },
+  "394": {
+   "name": "Brianne Lawrence"
+  },
+  "397": {
+   "name": "Amanda Mass"
+  },
+  "382": {
+   "name": "Unidentified",
+   "role": "Unidentified - short fragment or backchannel, speaker not determinable"
+  },
+  "504": {
+   "name": "Unidentified",
+   "role": "Unidentified - short fragment or backchannel, speaker not determinable"
+  },
+  "503": {
+   "name": "Bruce Wilkins"
+  },
+  "506": {
+   "name": "Bruce Wilkins"
+  },
+  "487": {
+   "name": "Shauna Baird",
+   "role": "Owls program teacher (self-identified 'I teach the alternative program, the Owls program ... I'm Shauna Baird. Tawny.' [483]; does not live in Claremont; ASR name, spelling unverified)"
+  },
+  "488": {
+   "name": "Shauna Baird",
+   "role": "Owls program teacher (self-identified 'I teach the alternative program, the Owls program ... I'm Shauna Baird. Tawny.' [483]; does not live in Claremont; ASR name, spelling unverified)"
+  },
+  "491": {
+   "name": "Shauna Baird",
+   "role": "Owls program teacher (self-identified 'I teach the alternative program, the Owls program ... I'm Shauna Baird. Tawny.' [483]; does not live in Claremont; ASR name, spelling unverified)"
+  },
+  "492": {
+   "name": "Shauna Baird",
+   "role": "Owls program teacher (self-identified 'I teach the alternative program, the Owls program ... I'm Shauna Baird. Tawny.' [483]; does not live in Claremont; ASR name, spelling unverified)"
+  },
+  "493": {
+   "name": "Shauna Baird",
+   "role": "Owls program teacher (self-identified 'I teach the alternative program, the Owls program ... I'm Shauna Baird. Tawny.' [483]; does not live in Claremont; ASR name, spelling unverified)"
+  },
+  "496": {
+   "name": "Shauna Baird",
+   "role": "Owls program teacher (self-identified 'I teach the alternative program, the Owls program ... I'm Shauna Baird. Tawny.' [483]; does not live in Claremont; ASR name, spelling unverified)"
+  },
+  "500": {
+   "name": "Shauna Baird",
+   "role": "Owls program teacher (self-identified 'I teach the alternative program, the Owls program ... I'm Shauna Baird. Tawny.' [483]; does not live in Claremont; ASR name, spelling unverified)"
+  },
+  "483": {
+   "name": "Shauna Baird",
+   "role": "Owls program teacher (self-identified 'I teach the alternative program, the Owls program ... I'm Shauna Baird. Tawny.' [483]; does not live in Claremont; ASR name, spelling unverified)"
+  },
+  "485": {
+   "name": "Shauna Baird",
+   "role": "Owls program teacher (self-identified 'I teach the alternative program, the Owls program ... I'm Shauna Baird. Tawny.' [483]; does not live in Claremont; ASR name, spelling unverified)"
+  },
+  "486": {
+   "name": "Shauna Baird",
+   "role": "Owls program teacher (self-identified 'I teach the alternative program, the Owls program ... I'm Shauna Baird. Tawny.' [483]; does not live in Claremont; ASR name, spelling unverified)"
+  },
+  "612": {
+   "name": "Unidentified",
+   "role": "Unidentified - roll-call fragment"
+  }
+ }
+}

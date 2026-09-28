@@ -1,0 +1,380 @@
+{
+  "Speaker 2": {
+    "name": "Steven Horsky",
+    "role": "SAU 6 Board Chair (elected 3/30/23), presiding; Claremont School Board member - answers 'Yes' when the roll reader calls 'Steven Gorski' at [067]-[068]; runs every roll call, recognition and vote; describes himself as the outgoing SAU treasurer at [123] and pairs himself with the vice chair, 'bring it to Rocco's and my attention' [523]"
+  },
+  "Speaker 4": {
+    "name": "Steven Horsky",
+    "role": "SAU 6 Board Chair - second cluster of the chair's voice: he calls the meeting to order at [009] and his sentences split across this label and Speaker 2 ('I would like' [171] / 'To see a budget update' [172]; 'Now I'm' [207] / 'Looking at it' [208])"
+  },
+  "Speaker 14": {
+    "name": "Steven Horsky",
+    "role": "SAU 6 Board Chair - two-segment split of the chair's voice ([520] continues his own 'applaud Jeff Small' remark 0.08s later)"
+  },
+  "Speaker 5": {
+    "name": "Frank Sprague",
+    "role": "SAU 6 Board member; Claremont School Board Vice Chair - the chair restates his motions as 'motion by Frank' [088] and 'Motion to adjourn by Frank' [558], recognises him as 'Frank.' [196], and says 'Frank is on to something there' [113]; Skillen credits 'that Frank's words' [461]"
+  },
+  "Speaker 6": {
+    "name": "Mike Koski",
+    "role": "Assistant Superintendent, SAU 6 - reads the two nonpublic roll calls and delivers the instructional-coaching, math-training and student-data report ('myself and Stephanie basically to do that coaching' [092]); this cluster also carries Director of Technology Jeff Small, whose segments are reassigned"
+  },
+  "Speaker 7": {
+    "name": "Arlene Hawkins",
+    "role": "SAU 6 Board member; Claremont School Board member elected 3/14/23; elected SAU 6 Treasurer at this meeting - the chair recognises 'Arlene' at [083], [531] and [537] and restates her motion as 'Motion by Arlene' [062]; 'I'm brand new to the board' [130]"
+  },
+  "Speaker 8": {
+    "name": "Whitney Skillen",
+    "role": "SAU 6 Board member (Claremont) - the chair recognises her as 'Whitney.' at [307] and [497]; a board member says 'So I like your amendment. Whitney.' at [464]; she addresses Heather Whitney by name at [393], and speaks 'from the perspective of Claremont. Our policy subcommittee' [498]"
+  },
+  "Speaker 10": {
+    "name": "Michael Tempesta",
+    "role": "Superintendent of Schools, SAU 6 - presents the FY22 budget update in the business administrator's absence ('I did have a chance to go over this with Richard' [182]), is addressed as 'Mike' by Sprague at [185], reports his conversation with transition consultant David Jack [121], and offers 'I could robocall the survey out to everyone' [546]"
+  },
+  "Speaker 11": {
+    "name": "Heather Whitney",
+    "role": "SAU 6 Board member; Claremont School Board Chair (elected 4/5/23) - the chair notes 'Heather Whitney has arrived at 730' [150] and recognises 'Heather.' at [238]; greeted 'Hi, Heather' at [347]; Skillen addresses her as 'So Heather, you're looking for text in the policy' [393]"
+  },
+  "Speaker 12": {
+    "name": "Rocco Ruggeri",
+    "role": "SAU 6 Board Vice Chair (elected 3/30/23); Unity School Board member - the chair recognises 'Rocco.' immediately before his turn [362] and credits 'Rocco's adjustment' [365]; Sprague refers policies 'to you and Rocco' [499]"
+  },
+  "Speaker 13": {
+    "name": "Jennifer Gallagher",
+    "role": "SAU 6 Board member; Claremont School Board member elected 3/14/23 to the one-year seat - the chair recognises 'Jennifer.' at [441] immediately before her turn, and 'Seconded by Jennifer' at [491] follows her cluster's turn"
+  },
+  "Speaker 1": {
+    "name": "Kelly Simpson",
+    "role": "SAU 6 Board member (Unity School Board) - answers 'Yes' immediately after the roll reader calls 'Kelly. Simpson.' in both nonpublic roll calls ([049]-[050] and [070]-[071])"
+  },
+  "Speaker 16": {
+    "name": "Kelly Simpson",
+    "role": "SAU 6 Board member (Unity) - single-segment split from the middle of her own sentence: 'I hate them robocalls' [549] / 'But I seem to get, like' [550] / 'Three of them' [551]"
+  },
+  "Speaker 3": {
+    "name": "Unidentified",
+    "role": "Fragment cluster - one-to-three-word interjections, backchannels and clipped sentence onsets belonging to several different speakers (the chair, Heather Whitney, Whitney Skillen, Arlene Hawkins and the superintendent are all identifiable inside it); every segment with a defensible textual anchor is reassigned, the rest are left unnamed"
+  },
+  "Speaker 9": {
+    "name": "Unidentified",
+    "role": "Three-segment fragment cluster; the two segments that continue the chair's own sentences are reassigned, the remaining interjection is not attributable"
+  },
+  "Speaker 15": {
+    "name": "Unidentified",
+    "role": "SAU 6 Board member agreeing that policies be reviewed individually rather than by subcommittee; single-segment cluster, voice not matched to a named member"
+  },
+  "__overrides__": {
+    "15": {
+      "name": "Unidentified",
+      "role": "Pledge of Allegiance - group recitation by everyone present; the diarizer split the room between two clusters"
+    },
+    "16": {
+      "name": "Unidentified",
+      "role": "Pledge of Allegiance - group recitation by everyone present; the diarizer split the room between two clusters"
+    },
+    "17": {
+      "name": "Unidentified",
+      "role": "Pledge of Allegiance - group recitation by everyone present; the diarizer split the room between two clusters"
+    },
+    "18": {
+      "name": "Unidentified",
+      "role": "Pledge of Allegiance - group recitation by everyone present; the diarizer split the room between two clusters"
+    },
+    "19": {
+      "name": "Unidentified",
+      "role": "Pledge of Allegiance - group recitation by everyone present; the diarizer split the room between two clusters"
+    },
+    "20": {
+      "name": "Unidentified",
+      "role": "Pledge of Allegiance - group recitation by everyone present; the diarizer split the room between two clusters"
+    },
+    "21": {
+      "name": "Unidentified",
+      "role": "Pledge of Allegiance - group recitation by everyone present; the diarizer split the room between two clusters"
+    },
+    "22": {
+      "name": "Unidentified",
+      "role": "Pledge of Allegiance - group recitation by everyone present; the diarizer split the room between two clusters"
+    },
+    "23": {
+      "name": "Unidentified",
+      "role": "Pledge of Allegiance - group recitation by everyone present; the diarizer split the room between two clusters"
+    },
+    "33": {
+      "name": "Unidentified",
+      "role": "Roll-call vote on the motion to enter nonpublic session - the chair read the names off-mic and the ASR captured only the answers, so this 'Yes' cannot be tied to a member (the chair's own 'Yes' is the following segment)"
+    },
+    "41": {
+      "name": "Unidentified",
+      "role": "Single word captured over 84 seconds while the board was out of the room in nonpublic session; speaker not identifiable"
+    },
+    "54": {
+      "name": "Whitney Skillen",
+      "role": "SAU 6 Board member (Claremont) - roll-call answer to 'With skilling.' read at [053]"
+    },
+    "73": {
+      "name": "Whitney Skillen",
+      "role": "SAU 6 Board member (Claremont) - roll-call answer to 'Whitney. Skilling.' read at [072]"
+    },
+    "82": {
+      "name": "Unidentified",
+      "role": "Voice vote adopting the agenda - one 'Aye' captured from the board table; the voice landed in an administrator's cluster and cannot be tied to a member"
+    },
+    "84": {
+      "name": "Arlene Hawkins",
+      "role": "SAU 6 Board member; SAU 6 Treasurer-elect - sub-second onset clipped from her own minutes correction at [085]"
+    },
+    "128": {
+      "name": "Whitney Skillen",
+      "role": "SAU 6 Board member (Claremont) - onset of her own sentence, 'I would' + 'like to nominate Arlene Hawkins to be the treasurer' [129]"
+    },
+    "136": {
+      "name": "Arlene Hawkins",
+      "role": "SAU 6 Board member; SAU 6 Treasurer-elect - completes her own sentence, 'So math has never' [135] + 'been' (she repeats it in full at [139])"
+    },
+    "141": {
+      "name": "Steven Horsky",
+      "role": "SAU 6 Board Chair - fragment of his own run of speech, bracketed by his Speaker 4 and Speaker 2 segments at [140] and [142]"
+    },
+    "143": {
+      "name": "Steven Horsky",
+      "role": "SAU 6 Board Chair - completes his own sentence, 'And if you don't want to' [142] + 'you can step down'"
+    },
+    "151": {
+      "name": "Steven Horsky",
+      "role": "SAU 6 Board Chair - his greeting to the arriving member, between his own announcement at [150] and 'So, Heather, we are discussing nominations' at [152]"
+    },
+    "205": {
+      "name": "Steven Horsky",
+      "role": "SAU 6 Board Chair - reading a budget line, 'About' + '91' [206], both his own voice"
+    },
+    "219": {
+      "name": "Steven Horsky",
+      "role": "SAU 6 Board Chair - his running acknowledgements through the fiscal-year exchange ('Okay ... Oh, okay ... So this is current ... Okay, I thought it was'), clipped into an administrator's cluster"
+    },
+    "221": {
+      "name": "Steven Horsky",
+      "role": "SAU 6 Board Chair - his running acknowledgements through the fiscal-year exchange ('Okay ... Oh, okay ... So this is current ... Okay, I thought it was'), clipped into an administrator's cluster"
+    },
+    "227": {
+      "name": "Steven Horsky",
+      "role": "SAU 6 Board Chair - onset of his own sentence, 'Okay' + 'So in review and obviously seeing that ... for the merit pool' [228]"
+    },
+    "231": {
+      "name": "Arlene Hawkins",
+      "role": "SAU 6 Board member; SAU 6 Treasurer-elect - onset of her own sentence, '36' + 'thousand and return it to the taxpayers' [232]"
+    },
+    "236": {
+      "name": "Arlene Hawkins",
+      "role": "SAU 6 Board member; SAU 6 Treasurer-elect - onset of her own sentence, 'And I just want to' + 'just clarification' [237]"
+    },
+    "239": {
+      "name": "Heather Whitney",
+      "role": "SAU 6 Board member; Claremont School Board Chair - onset of her own sentence, 'Do we have' + 'an opportunity to create another capital reserve fund' [240]"
+    },
+    "252": {
+      "name": "Michael Tempesta",
+      "role": "Superintendent of Schools, SAU 6 - completes his own sentence, 'Let's get an answer' [251] + 'on that'"
+    },
+    "264": {
+      "name": "Whitney Skillen",
+      "role": "SAU 6 Board member (Claremont) - onset of her own sentence, 'Another issue. Yeah, I was' + 'just curious' [265]"
+    },
+    "267": {
+      "name": "Steven Horsky",
+      "role": "SAU 6 Board Chair - middle of his own sentence, 'funded for two years with [ESSER] funds' [266] + 'This year and' + 'next year. Yeah.' [268]"
+    },
+    "281": {
+      "name": "Jeff Small",
+      "role": "Director of Technology, SAU 6 - the chair hands off by name, 'Mr. Small Tyler Software was one of the the question. As far as cost.' [280]"
+    },
+    "284": {
+      "name": "Jeff Small",
+      "role": "Director of Technology, SAU 6 - presents the ERP Pro / Tyler accounting-software upgrade"
+    },
+    "285": {
+      "name": "Jeff Small",
+      "role": "Director of Technology, SAU 6 - presents the ERP Pro / Tyler accounting-software upgrade"
+    },
+    "287": {
+      "name": "Jeff Small",
+      "role": "Director of Technology, SAU 6 - presents the ERP Pro / Tyler accounting-software upgrade"
+    },
+    "289": {
+      "name": "Jeff Small",
+      "role": "Director of Technology, SAU 6 - presents the ERP Pro / Tyler accounting-software upgrade"
+    },
+    "291": {
+      "name": "Jeff Small",
+      "role": "Director of Technology, SAU 6 - presents the ERP Pro / Tyler accounting-software upgrade"
+    },
+    "293": {
+      "name": "Jeff Small",
+      "role": "Director of Technology, SAU 6 - presents the ERP Pro / Tyler accounting-software upgrade"
+    },
+    "295": {
+      "name": "Jeff Small",
+      "role": "Director of Technology, SAU 6 - presents the ERP Pro / Tyler accounting-software upgrade"
+    },
+    "297": {
+      "name": "Jeff Small",
+      "role": "Director of Technology, SAU 6 - presents the ERP Pro / Tyler accounting-software upgrade"
+    },
+    "299": {
+      "name": "Jeff Small",
+      "role": "Director of Technology, SAU 6 - presents the ERP Pro / Tyler accounting-software upgrade"
+    },
+    "301": {
+      "name": "Jeff Small",
+      "role": "Director of Technology, SAU 6 - presents the ERP Pro / Tyler accounting-software upgrade"
+    },
+    "303": {
+      "name": "Jeff Small",
+      "role": "Director of Technology, SAU 6 - presents the ERP Pro / Tyler accounting-software upgrade"
+    },
+    "309": {
+      "name": "Jeff Small",
+      "role": "Director of Technology, SAU 6 - presents the ERP Pro / Tyler accounting-software upgrade"
+    },
+    "311": {
+      "name": "Jeff Small",
+      "role": "Director of Technology, SAU 6 - presents the ERP Pro / Tyler accounting-software upgrade"
+    },
+    "312": {
+      "name": "Whitney Skillen",
+      "role": "SAU 6 Board member (Claremont) - onset clipped from her follow-up question at [313]"
+    },
+    "314": {
+      "name": "Jeff Small",
+      "role": "Director of Technology, SAU 6 - presents the ERP Pro / Tyler accounting-software upgrade"
+    },
+    "315": {
+      "name": "Jeff Small",
+      "role": "Director of Technology, SAU 6 - presents the ERP Pro / Tyler accounting-software upgrade"
+    },
+    "316": {
+      "name": "Whitney Skillen",
+      "role": "SAU 6 Board member (Claremont) - her reply in the shop-around exchange with Jeff Small, who answers 'Thank you' at [317]"
+    },
+    "317": {
+      "name": "Jeff Small",
+      "role": "Director of Technology, SAU 6 - presents the ERP Pro / Tyler accounting-software upgrade"
+    },
+    "319": {
+      "name": "Jeff Small",
+      "role": "Director of Technology, SAU 6 - presents the ERP Pro / Tyler accounting-software upgrade"
+    },
+    "321": {
+      "name": "Jeff Small",
+      "role": "Director of Technology, SAU 6 - presents the ERP Pro / Tyler accounting-software upgrade"
+    },
+    "323": {
+      "name": "Jeff Small",
+      "role": "Director of Technology, SAU 6 - presents the ERP Pro / Tyler accounting-software upgrade"
+    },
+    "325": {
+      "name": "Jeff Small",
+      "role": "Director of Technology, SAU 6 - presents the ERP Pro / Tyler accounting-software upgrade"
+    },
+    "326": {
+      "name": "Jeff Small",
+      "role": "Director of Technology, SAU 6 - presents the ERP Pro / Tyler accounting-software upgrade"
+    },
+    "328": {
+      "name": "Jeff Small",
+      "role": "Director of Technology, SAU 6 - presents the ERP Pro / Tyler accounting-software upgrade"
+    },
+    "330": {
+      "name": "Jeff Small",
+      "role": "Director of Technology, SAU 6 - presents the ERP Pro / Tyler accounting-software upgrade"
+    },
+    "331": {
+      "name": "Jeff Small",
+      "role": "Director of Technology, SAU 6 - presents the ERP Pro / Tyler accounting-software upgrade"
+    },
+    "333": {
+      "name": "Jeff Small",
+      "role": "Director of Technology, SAU 6 - presents the ERP Pro / Tyler accounting-software upgrade"
+    },
+    "337": {
+      "name": "Steven Horsky",
+      "role": "SAU 6 Board Chair - onset of his own sentence, 'Seeing that' + 'we are going to move on to the school board calendar' [338]"
+    },
+    "353": {
+      "name": "Whitney Skillen",
+      "role": "SAU 6 Board member (Claremont) - onset clipped from her question at [354]"
+    },
+    "360": {
+      "name": "Steven Horsky",
+      "role": "SAU 6 Board Chair - completes his own sentence, 'actively involved with what' [359] + 'we're doing'"
+    },
+    "362": {
+      "name": "Steven Horsky",
+      "role": "SAU 6 Board Chair - his recognition of the vice chair; he credits 'Rocco's adjustment' at [365]"
+    },
+    "371": {
+      "name": "Steven Horsky",
+      "role": "SAU 6 Board Chair - completes his own sentence, 'Hey what am I supposed' [370] + 'to be doing this'"
+    },
+    "378": {
+      "name": "Heather Whitney",
+      "role": "SAU 6 Board member; Claremont School Board Chair - false start of her own turn at [379]"
+    },
+    "383": {
+      "name": "Heather Whitney",
+      "role": "SAU 6 Board member; Claremont School Board Chair - completes her own sentence, 'But when we get the summary of' [382] + 'the extra [exit] reviews'"
+    },
+    "386": {
+      "name": "Heather Whitney",
+      "role": "SAU 6 Board member; Claremont School Board Chair - her own sentence continued at [387], 'And then there was a separate sheet'"
+    },
+    "388": {
+      "name": "Heather Whitney",
+      "role": "SAU 6 Board member; Claremont School Board Chair - continues her own policy-versus-procedure argument, interleaved with her Speaker 11 segments"
+    },
+    "390": {
+      "name": "Heather Whitney",
+      "role": "SAU 6 Board member; Claremont School Board Chair - continues her own policy-versus-procedure argument, interleaved with her Speaker 11 segments"
+    },
+    "397": {
+      "name": "Heather Whitney",
+      "role": "SAU 6 Board member; Claremont School Board Chair - onset of her own sentence, 'We' + 'could do a nonpublic' [398]"
+    },
+    "399": {
+      "name": "Steven Horsky",
+      "role": "SAU 6 Board Chair - onset of his own sentence, 'But' + 'a very small chunk of it' [400]"
+    },
+    "469": {
+      "name": "Steven Horsky",
+      "role": "SAU 6 Board Chair - he corrects his own question mid-sentence, 'would you like to make an amendment to the' [468] + 'No. A new' + 'motion with your amendment?' [470]"
+    },
+    "522": {
+      "name": "Jeff Small",
+      "role": "Director of Technology, SAU 6 - explains the SAU website structure right after the chair says 'I'd like to take a half a second and applaud Jeff Small' [519]"
+    },
+    "535": {
+      "name": "Steven Horsky",
+      "role": "SAU 6 Board Chair - onset clipped from his own next sentence at [536]"
+    },
+    "545": {
+      "name": "Michael Tempesta",
+      "role": "Superintendent of Schools, SAU 6 - false start of his own 'I could robocall the survey out to everyone' [546]"
+    },
+    "548": {
+      "name": "Kelly Simpson",
+      "role": "SAU 6 Board member (Unity) - onset of her own sentence, 'What can' + 'we do? I hate them robocalls' [549]"
+    },
+    "553": {
+      "name": "Steven Horsky",
+      "role": "SAU 6 Board Chair - onset of his own sentence, 'The one thing' + 'I will say about our robocall system' [554]"
+    },
+    "557": {
+      "name": "Arlene Hawkins",
+      "role": "SAU 6 Board member; SAU 6 Treasurer-elect - the chair records the second as 'seconded by Arlene' in the very next segment [558]"
+    },
+    "559": {
+      "name": "Steven Horsky",
+      "role": "SAU 6 Board Chair - the recording's last words, continuing his own 'Could I get' at [558]"
+    }
+  }
+}

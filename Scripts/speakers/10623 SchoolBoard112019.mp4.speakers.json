@@ -1,0 +1,256 @@
+{
+ "Speaker 1": {
+  "name": "Frank Sprague",
+  "role": "Claremont School Board Chair"
+ },
+ "Speaker 2": {
+  "name": "Jason Benware",
+  "role": "Claremont School Board member (chair recognizes 'Jason' [22], [302], [335])"
+ },
+ "Speaker 3": {
+  "name": "Rebecca Zullo",
+  "role": "Claremont School Board Vice Chair (Benware: 'piggybacking on what Rebecca said' [215] after [206-208]; 'three years on this board' [77])"
+ },
+ "Speaker 4": {
+  "name": "Mary Woodman",
+  "role": "School district clerk and board recording secretary"
+ },
+ "Speaker 5": {
+  "name": "Jason Benware",
+  "role": "Claremont School Board member (chair recognizes 'Jason' [22], [302], [335])"
+ },
+ "Speaker 6": {
+  "name": "Tyler Sullivan",
+  "role": "Student representative, Stevens High School senior (chair: 'Mr. Sullivan' [28]; first name from the 12/4/2019 meeting, spelling unverified)"
+ },
+ "Speaker 7": {
+  "name": "Carolyn Towle",
+  "role": "Claremont School Board member (chair: 'Can I let Carolyn jump in?' [189]; 'Carolyn' [470])"
+ },
+ "Speaker 8": {
+  "name": "Michael Campbell",
+  "role": "Auditor, Plodzik & Sanderson (self-identified [53], ASR 'Michael Campbell Plaza and Sanderson'; chair 'Michael Campo from Plods and Sanderson' [52]; spellings uncertain)"
+ },
+ "Speaker 9": {
+  "name": "Unidentified",
+  "role": "Unidentified - cluster of roll-call votes, seconds and short interjections from several members"
+ },
+ "Speaker 10": {
+  "name": "Michael Tempesta",
+  "role": "Superintendent, SAU 6"
+ },
+ "Speaker 11": {
+  "name": "Unidentified",
+  "role": "Board member, male (not identified; possibly Michael Petrin or Rob Lovett Jr.)"
+ },
+ "Speaker 12": {
+  "name": "Heather Whitney",
+  "role": "Claremont School Board member (attribution by elimination - the remaining female member on the roll call after Zullo and Towle are identified; medium)"
+ },
+ "Speaker 13": {
+  "name": "Ben Nester",
+  "role": "Director of Special Education, SAU 6 (Zullo asks 'So Ben, are you guys still billing?' [422]; Tempesta credits him with the pride program [225])"
+ },
+ "Speaker 14": {
+  "name": "Unidentified",
+  "role": "Unidentified - cluster mixes short interjections from several members and staff"
+ },
+ "Speaker 15": {
+  "name": "Donna Magoon",
+  "role": "Assistant Superintendent, SAU 6 (Benware: 'Thank you. Donna, Jeff and Tammy' [261])"
+ },
+ "Speaker 16": {
+  "name": "Matt Upton",
+  "role": "School district attorney, Drummond Woodsum (chair: 'our legal counsel is here' [271], 'Thank you, Mr. Upton' [280])"
+ },
+ "Speaker 17": {
+  "name": "Rob Lovett Jr.",
+  "role": "Claremont School Board member (uncertain - follows Benware's 'Rob, I wanted to ... piggyback' [292]; not otherwise identified)"
+ },
+ "Speaker 18": {
+  "name": "Unidentified",
+  "role": "Unidentified - short scheduling and closing remarks"
+ },
+ "Speaker 19": {
+  "name": "Unidentified",
+  "role": "Staff member who shares meeting recordings on the school board Facebook page (not named)"
+ },
+ "__overrides__": {
+  "4": {
+   "name": "Unidentified",
+   "role": "Unidentified - group response (pledge, roll-call answers, or aye votes)"
+  },
+  "6": {
+   "name": "Heather Whitney"
+  },
+  "134": {
+   "name": "Heather Whitney"
+  },
+  "135": {
+   "name": "Heather Whitney"
+  },
+  "136": {
+   "name": "Heather Whitney"
+  },
+  "137": {
+   "name": "Heather Whitney"
+  },
+  "138": {
+   "name": "Heather Whitney"
+  },
+  "139": {
+   "name": "Heather Whitney"
+  },
+  "143": {
+   "name": "Heather Whitney"
+  },
+  "177": {
+   "name": "Heather Whitney"
+  },
+  "194": {
+   "name": "Heather Whitney"
+  },
+  "200": {
+   "name": "Heather Whitney"
+  },
+  "202": {
+   "name": "Heather Whitney"
+  },
+  "316": {
+   "name": "Heather Whitney"
+  },
+  "8": {
+   "name": "Carolyn Towle"
+  },
+  "94": {
+   "name": "Unidentified",
+   "role": "Unidentified - group response (pledge, roll-call answers, or aye votes)"
+  },
+  "100": {
+   "name": "Unidentified",
+   "role": "Unidentified - group response (pledge, roll-call answers, or aye votes)"
+  },
+  "18": {
+   "name": "Unidentified",
+   "role": "Unidentified - group response (pledge, roll-call answers, or aye votes)"
+  },
+  "397": {
+   "name": "Unidentified",
+   "role": "Unidentified - group response (pledge, roll-call answers, or aye votes)"
+  },
+  "2": {
+   "name": "Unidentified",
+   "role": "Unidentified - group response (pledge, roll-call answers, or aye votes)"
+  },
+  "401": {
+   "name": "Unidentified",
+   "role": "Unidentified - brief interjection"
+  },
+  "210": {
+   "name": "Frank Sprague"
+  },
+  "409": {
+   "name": "Rebecca Zullo"
+  },
+  "319": {
+   "name": "Richard Seaman",
+   "role": "Business Administrator, SAU 6 (uncertain - not named on this recording; presents the food service report as administrator, as he does at the 12/5/2019 SAU meeting; diarized with Sprague)"
+  },
+  "321": {
+   "name": "Richard Seaman",
+   "role": "Business Administrator, SAU 6 (uncertain - not named on this recording; presents the food service report as administrator, as he does at the 12/5/2019 SAU meeting; diarized with Sprague)"
+  },
+  "322": {
+   "name": "Richard Seaman",
+   "role": "Business Administrator, SAU 6 (uncertain - not named on this recording; presents the food service report as administrator, as he does at the 12/5/2019 SAU meeting; diarized with Sprague)"
+  },
+  "323": {
+   "name": "Richard Seaman",
+   "role": "Business Administrator, SAU 6 (uncertain - not named on this recording; presents the food service report as administrator, as he does at the 12/5/2019 SAU meeting; diarized with Sprague)"
+  },
+  "324": {
+   "name": "Richard Seaman",
+   "role": "Business Administrator, SAU 6 (uncertain - not named on this recording; presents the food service report as administrator, as he does at the 12/5/2019 SAU meeting; diarized with Sprague)"
+  },
+  "325": {
+   "name": "Richard Seaman",
+   "role": "Business Administrator, SAU 6 (uncertain - not named on this recording; presents the food service report as administrator, as he does at the 12/5/2019 SAU meeting; diarized with Sprague)"
+  },
+  "326": {
+   "name": "Richard Seaman",
+   "role": "Business Administrator, SAU 6 (uncertain - not named on this recording; presents the food service report as administrator, as he does at the 12/5/2019 SAU meeting; diarized with Sprague)"
+  },
+  "327": {
+   "name": "Richard Seaman",
+   "role": "Business Administrator, SAU 6 (uncertain - not named on this recording; presents the food service report as administrator, as he does at the 12/5/2019 SAU meeting; diarized with Sprague)"
+  },
+  "328": {
+   "name": "Richard Seaman",
+   "role": "Business Administrator, SAU 6 (uncertain - not named on this recording; presents the food service report as administrator, as he does at the 12/5/2019 SAU meeting; diarized with Sprague)"
+  },
+  "329": {
+   "name": "Richard Seaman",
+   "role": "Business Administrator, SAU 6 (uncertain - not named on this recording; presents the food service report as administrator, as he does at the 12/5/2019 SAU meeting; diarized with Sprague)"
+  },
+  "330": {
+   "name": "Richard Seaman",
+   "role": "Business Administrator, SAU 6 (uncertain - not named on this recording; presents the food service report as administrator, as he does at the 12/5/2019 SAU meeting; diarized with Sprague)"
+  },
+  "331": {
+   "name": "Richard Seaman",
+   "role": "Business Administrator, SAU 6 (uncertain - not named on this recording; presents the food service report as administrator, as he does at the 12/5/2019 SAU meeting; diarized with Sprague)"
+  },
+  "332": {
+   "name": "Richard Seaman",
+   "role": "Business Administrator, SAU 6 (uncertain - not named on this recording; presents the food service report as administrator, as he does at the 12/5/2019 SAU meeting; diarized with Sprague)"
+  },
+  "333": {
+   "name": "Richard Seaman",
+   "role": "Business Administrator, SAU 6 (uncertain - not named on this recording; presents the food service report as administrator, as he does at the 12/5/2019 SAU meeting; diarized with Sprague)"
+  },
+  "334": {
+   "name": "Richard Seaman",
+   "role": "Business Administrator, SAU 6 (uncertain - not named on this recording; presents the food service report as administrator, as he does at the 12/5/2019 SAU meeting; diarized with Sprague)"
+  },
+  "337": {
+   "name": "Richard Seaman",
+   "role": "Business Administrator, SAU 6 (uncertain - not named on this recording; presents the food service report as administrator, as he does at the 12/5/2019 SAU meeting; diarized with Sprague)"
+  },
+  "346": {
+   "name": "Richard Seaman",
+   "role": "Business Administrator, SAU 6 (uncertain - not named on this recording; presents the food service report as administrator, as he does at the 12/5/2019 SAU meeting; diarized with Sprague)"
+  },
+  "347": {
+   "name": "Richard Seaman",
+   "role": "Business Administrator, SAU 6 (uncertain - not named on this recording; presents the food service report as administrator, as he does at the 12/5/2019 SAU meeting; diarized with Sprague)"
+  },
+  "349": {
+   "name": "Richard Seaman",
+   "role": "Business Administrator, SAU 6 (uncertain - not named on this recording; presents the food service report as administrator, as he does at the 12/5/2019 SAU meeting; diarized with Sprague)"
+  },
+  "351": {
+   "name": "Richard Seaman",
+   "role": "Business Administrator, SAU 6 (uncertain - not named on this recording; presents the food service report as administrator, as he does at the 12/5/2019 SAU meeting; diarized with Sprague)"
+  },
+  "353": {
+   "name": "Richard Seaman",
+   "role": "Business Administrator, SAU 6 (uncertain - not named on this recording; presents the food service report as administrator, as he does at the 12/5/2019 SAU meeting; diarized with Sprague)"
+  },
+  "355": {
+   "name": "Richard Seaman",
+   "role": "Business Administrator, SAU 6 (uncertain - not named on this recording; presents the food service report as administrator, as he does at the 12/5/2019 SAU meeting; diarized with Sprague)"
+  },
+  "360": {
+   "name": "Richard Seaman",
+   "role": "Business Administrator, SAU 6 (uncertain - not named on this recording; presents the food service report as administrator, as he does at the 12/5/2019 SAU meeting; diarized with Sprague)"
+  },
+  "362": {
+   "name": "Richard Seaman",
+   "role": "Business Administrator, SAU 6 (uncertain - not named on this recording; presents the food service report as administrator, as he does at the 12/5/2019 SAU meeting; diarized with Sprague)"
+  },
+  "367": {
+   "name": "Richard Seaman",
+   "role": "Business Administrator, SAU 6 (uncertain - not named on this recording; presents the food service report as administrator, as he does at the 12/5/2019 SAU meeting; diarized with Sprague)"
+  }
+ }
+}

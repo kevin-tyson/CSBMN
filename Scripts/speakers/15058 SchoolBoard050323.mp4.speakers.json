@@ -1,0 +1,373 @@
+{
+  "Speaker 1": {
+    "name": "Heather Whitney",
+    "role": "Claremont School Board Chair — presides; addressed as 'Madam Chair' and as 'Heather'"
+  },
+  "Speaker 2": {
+    "name": "Alex Herzog",
+    "role": "Director, Sugar River Valley Regional Technical Center; chair of the Claremont CCTV board; Ward 2 (self-identified)"
+  },
+  "Speaker 3": {
+    "name": "Hope Damon",
+    "role": "NH State Representative, Sullivan District 8; House Education Committee (self-identified)"
+  },
+  "Speaker 4": {
+    "name": "Michael Tempesta",
+    "role": "Superintendent, SAU 6"
+  },
+  "Speaker 5": {
+    "name": "Jennifer Gallagher",
+    "role": "Claremont School Board member, elected 3/14/23 to the one-year seat; Curriculum Subcommittee chair"
+  },
+  "Speaker 6": {
+    "name": "Unidentified",
+    "role": "Single-segment voice at the table supplying the phrase 'open till filled' during the business-administrator search discussion"
+  },
+  "Speaker 7": {
+    "name": "Chris Pratt",
+    "role": "Principal, Stevens High School — presents the American Sign Language proposal"
+  },
+  "Speaker 8": {
+    "name": "Frank Sprague",
+    "role": "Claremont School Board Vice Chair; retired school administrator"
+  },
+  "Speaker 9": {
+    "name": "Arlene Hawkins",
+    "role": "Claremont School Board member, elected 3/14/23; retired elementary principal"
+  },
+  "Speaker 10": {
+    "name": "Whitney Skillen",
+    "role": "Claremont School Board member; Policy Subcommittee chair"
+  },
+  "Speaker 11": {
+    "name": "Ben Nester",
+    "role": "Director of Special Education, SAU 6 — also calls the roll (district clerk seat vacant)"
+  },
+  "Speaker 12": {
+    "name": "Ben Nester",
+    "role": "Director of Special Education, SAU 6 — also calls the roll (district clerk seat vacant)"
+  },
+  "Speaker 13": {
+    "name": "Mike Koski",
+    "role": "Assistant Superintendent, SAU 6"
+  },
+  "Speaker 14": {
+    "name": "Hope Damon",
+    "role": "NH State Representative, Sullivan District 8; House Education Committee (self-identified)"
+  },
+  "Speaker 15": {
+    "name": "Heather Whitney",
+    "role": "Claremont School Board Chair — presides; addressed as 'Madam Chair' and as 'Heather'"
+  },
+  "Speaker 16": {
+    "name": "Jennifer Gallagher",
+    "role": "Claremont School Board member, elected 3/14/23 to the one-year seat; Curriculum Subcommittee chair"
+  },
+  "__overrides__": {
+    "3": {
+      "name": "Heather Whitney"
+    },
+    "5": {
+      "name": "Ben Nester"
+    },
+    "6": {
+      "name": "Ben Nester"
+    },
+    "46": {
+      "name": "Heather Whitney"
+    },
+    "49": {
+      "name": "Chris Pratt"
+    },
+    "73": {
+      "name": "Frank Sprague"
+    },
+    "104": {
+      "name": "Ben Nester"
+    },
+    "106": {
+      "name": "Ben Nester"
+    },
+    "111": {
+      "name": "Michael Tempesta"
+    },
+    "133": {
+      "name": "Unidentified",
+      "role": "Board member at the table asking the special education director to spell out the disability acronyms — most likely Bonnie Miles by elimination, but not established"
+    },
+    "135": {
+      "name": "Unidentified",
+      "role": "Board member at the table asking the special education director to spell out the disability acronyms — most likely Bonnie Miles by elimination, but not established"
+    },
+    "139": {
+      "name": "Ben Nester"
+    },
+    "147": {
+      "name": "Ben Nester"
+    },
+    "148": {
+      "name": "Arlene Hawkins"
+    },
+    "176": {
+      "name": "Heather Whitney"
+    },
+    "184": {
+      "name": "Ben Nester"
+    },
+    "189": {
+      "name": "Ben Nester"
+    },
+    "227": {
+      "name": "Arlene Hawkins"
+    },
+    "239": {
+      "name": "Arlene Hawkins"
+    },
+    "251": {
+      "name": "Arlene Hawkins"
+    },
+    "262": {
+      "name": "Frank Sprague"
+    },
+    "309": {
+      "name": "Ben Nester"
+    },
+    "327": {
+      "name": "Ben Nester"
+    },
+    "335": {
+      "name": "Hope Damon"
+    },
+    "340": {
+      "name": "Frank Sprague"
+    },
+    "354": {
+      "name": "Ben Nester"
+    },
+    "369": {
+      "name": "Frank Sprague"
+    },
+    "397": {
+      "name": "Jennifer Gallagher"
+    },
+    "405": {
+      "name": "Whitney Skillen"
+    },
+    "408": {
+      "name": "Jennifer Gallagher"
+    },
+    "410": {
+      "name": "Ben Nester"
+    },
+    "414": {
+      "name": "Jennifer Gallagher"
+    },
+    "419": {
+      "name": "Jennifer Gallagher"
+    },
+    "430": {
+      "name": "Ben Nester"
+    },
+    "439": {
+      "name": "Ben Nester"
+    },
+    "442": {
+      "name": "Jennifer Gallagher"
+    },
+    "444": {
+      "name": "Ben Nester"
+    },
+    "465": {
+      "name": "Andy",
+      "role": "Ward 3 resident presenting the NH School Funding Fairness Project; SRVRTC Visioning Committee — surname not stated in this record (rendered 'Andy Bernier' 2/8/23 and 'Andy LaFrance' 12/1/23 elsewhere; unreconciled)"
+    },
+    "467": {
+      "name": "Andy",
+      "role": "Ward 3 resident presenting the NH School Funding Fairness Project; SRVRTC Visioning Committee — surname not stated in this record (rendered 'Andy Bernier' 2/8/23 and 'Andy LaFrance' 12/1/23 elsewhere; unreconciled)"
+    },
+    "468": {
+      "name": "Andy",
+      "role": "Ward 3 resident presenting the NH School Funding Fairness Project; SRVRTC Visioning Committee — surname not stated in this record (rendered 'Andy Bernier' 2/8/23 and 'Andy LaFrance' 12/1/23 elsewhere; unreconciled)"
+    },
+    "469": {
+      "name": "Andy",
+      "role": "Ward 3 resident presenting the NH School Funding Fairness Project; SRVRTC Visioning Committee — surname not stated in this record (rendered 'Andy Bernier' 2/8/23 and 'Andy LaFrance' 12/1/23 elsewhere; unreconciled)"
+    },
+    "470": {
+      "name": "Andy",
+      "role": "Ward 3 resident presenting the NH School Funding Fairness Project; SRVRTC Visioning Committee — surname not stated in this record (rendered 'Andy Bernier' 2/8/23 and 'Andy LaFrance' 12/1/23 elsewhere; unreconciled)"
+    },
+    "471": {
+      "name": "Andy",
+      "role": "Ward 3 resident presenting the NH School Funding Fairness Project; SRVRTC Visioning Committee — surname not stated in this record (rendered 'Andy Bernier' 2/8/23 and 'Andy LaFrance' 12/1/23 elsewhere; unreconciled)"
+    },
+    "472": {
+      "name": "Andy",
+      "role": "Ward 3 resident presenting the NH School Funding Fairness Project; SRVRTC Visioning Committee — surname not stated in this record (rendered 'Andy Bernier' 2/8/23 and 'Andy LaFrance' 12/1/23 elsewhere; unreconciled)"
+    },
+    "473": {
+      "name": "Andy",
+      "role": "Ward 3 resident presenting the NH School Funding Fairness Project; SRVRTC Visioning Committee — surname not stated in this record (rendered 'Andy Bernier' 2/8/23 and 'Andy LaFrance' 12/1/23 elsewhere; unreconciled)"
+    },
+    "474": {
+      "name": "Andy",
+      "role": "Ward 3 resident presenting the NH School Funding Fairness Project; SRVRTC Visioning Committee — surname not stated in this record (rendered 'Andy Bernier' 2/8/23 and 'Andy LaFrance' 12/1/23 elsewhere; unreconciled)"
+    },
+    "475": {
+      "name": "Andy",
+      "role": "Ward 3 resident presenting the NH School Funding Fairness Project; SRVRTC Visioning Committee — surname not stated in this record (rendered 'Andy Bernier' 2/8/23 and 'Andy LaFrance' 12/1/23 elsewhere; unreconciled)"
+    },
+    "476": {
+      "name": "Andy",
+      "role": "Ward 3 resident presenting the NH School Funding Fairness Project; SRVRTC Visioning Committee — surname not stated in this record (rendered 'Andy Bernier' 2/8/23 and 'Andy LaFrance' 12/1/23 elsewhere; unreconciled)"
+    },
+    "477": {
+      "name": "Andy",
+      "role": "Ward 3 resident presenting the NH School Funding Fairness Project; SRVRTC Visioning Committee — surname not stated in this record (rendered 'Andy Bernier' 2/8/23 and 'Andy LaFrance' 12/1/23 elsewhere; unreconciled)"
+    },
+    "478": {
+      "name": "Andy",
+      "role": "Ward 3 resident presenting the NH School Funding Fairness Project; SRVRTC Visioning Committee — surname not stated in this record (rendered 'Andy Bernier' 2/8/23 and 'Andy LaFrance' 12/1/23 elsewhere; unreconciled)"
+    },
+    "479": {
+      "name": "Andy",
+      "role": "Ward 3 resident presenting the NH School Funding Fairness Project; SRVRTC Visioning Committee — surname not stated in this record (rendered 'Andy Bernier' 2/8/23 and 'Andy LaFrance' 12/1/23 elsewhere; unreconciled)"
+    },
+    "485": {
+      "name": "Andy",
+      "role": "Ward 3 resident presenting the NH School Funding Fairness Project; SRVRTC Visioning Committee — surname not stated in this record (rendered 'Andy Bernier' 2/8/23 and 'Andy LaFrance' 12/1/23 elsewhere; unreconciled)"
+    },
+    "488": {
+      "name": "Andy",
+      "role": "Ward 3 resident presenting the NH School Funding Fairness Project; SRVRTC Visioning Committee — surname not stated in this record (rendered 'Andy Bernier' 2/8/23 and 'Andy LaFrance' 12/1/23 elsewhere; unreconciled)"
+    },
+    "491": {
+      "name": "Frank Sprague"
+    },
+    "493": {
+      "name": "Andy",
+      "role": "Ward 3 resident presenting the NH School Funding Fairness Project; SRVRTC Visioning Committee — surname not stated in this record (rendered 'Andy Bernier' 2/8/23 and 'Andy LaFrance' 12/1/23 elsewhere; unreconciled)"
+    },
+    "495": {
+      "name": "Arlene Hawkins"
+    },
+    "498": {
+      "name": "Andy",
+      "role": "Ward 3 resident presenting the NH School Funding Fairness Project; SRVRTC Visioning Committee — surname not stated in this record (rendered 'Andy Bernier' 2/8/23 and 'Andy LaFrance' 12/1/23 elsewhere; unreconciled)"
+    },
+    "500": {
+      "name": "Andy",
+      "role": "Ward 3 resident presenting the NH School Funding Fairness Project; SRVRTC Visioning Committee — surname not stated in this record (rendered 'Andy Bernier' 2/8/23 and 'Andy LaFrance' 12/1/23 elsewhere; unreconciled)"
+    },
+    "501": {
+      "name": "Andy",
+      "role": "Ward 3 resident presenting the NH School Funding Fairness Project; SRVRTC Visioning Committee — surname not stated in this record (rendered 'Andy Bernier' 2/8/23 and 'Andy LaFrance' 12/1/23 elsewhere; unreconciled)"
+    },
+    "502": {
+      "name": "Andy",
+      "role": "Ward 3 resident presenting the NH School Funding Fairness Project; SRVRTC Visioning Committee — surname not stated in this record (rendered 'Andy Bernier' 2/8/23 and 'Andy LaFrance' 12/1/23 elsewhere; unreconciled)"
+    },
+    "503": {
+      "name": "Jennifer Gallagher"
+    },
+    "505": {
+      "name": "Andy",
+      "role": "Ward 3 resident presenting the NH School Funding Fairness Project; SRVRTC Visioning Committee — surname not stated in this record (rendered 'Andy Bernier' 2/8/23 and 'Andy LaFrance' 12/1/23 elsewhere; unreconciled)"
+    },
+    "509": {
+      "name": "Andy",
+      "role": "Ward 3 resident presenting the NH School Funding Fairness Project; SRVRTC Visioning Committee — surname not stated in this record (rendered 'Andy Bernier' 2/8/23 and 'Andy LaFrance' 12/1/23 elsewhere; unreconciled)"
+    },
+    "513": {
+      "name": "Bonnie Miles",
+      "role": "Claremont School Board member; the board's representative on the Capital Improvement Committee"
+    },
+    "514": {
+      "name": "Bonnie Miles",
+      "role": "Claremont School Board member; the board's representative on the Capital Improvement Committee"
+    },
+    "525": {
+      "name": "Jennifer Gallagher"
+    },
+    "527": {
+      "name": "Jennifer Gallagher"
+    },
+    "537": {
+      "name": "Michael Tempesta"
+    },
+    "542": {
+      "name": "Arlene Hawkins"
+    },
+    "545": {
+      "name": "Frank Sprague"
+    },
+    "549": {
+      "name": "Whitney Skillen"
+    },
+    "559": {
+      "name": "Andy",
+      "role": "Ward 3 resident; SRVRTC Visioning Committee — ATTRIBUTION UNCERTAIN: this praise of the room setup clusters with Andy's self-identification, but the cluster is a fragment catch-all; could instead be a board member or another member of the public still in the room"
+    },
+    "561": {
+      "name": "Andy",
+      "role": "Ward 3 resident; SRVRTC Visioning Committee — ATTRIBUTION UNCERTAIN: this praise of the room setup clusters with Andy's self-identification, but the cluster is a fragment catch-all; could instead be a board member or another member of the public still in the room"
+    },
+    "563": {
+      "name": "Heather Whitney"
+    },
+    "568": {
+      "name": "Arlene Hawkins"
+    },
+    "573": {
+      "name": "Michael Tempesta"
+    },
+    "575": {
+      "name": "Michael Tempesta"
+    },
+    "578": {
+      "name": "Arlene Hawkins"
+    },
+    "585": {
+      "name": "Arlene Hawkins"
+    },
+    "587": {
+      "name": "Heather Whitney"
+    },
+    "589": {
+      "name": "Whitney Skillen"
+    },
+    "596": {
+      "name": "Jennifer Gallagher"
+    },
+    "598": {
+      "name": "Arlene Hawkins"
+    },
+    "603": {
+      "name": "Whitney Skillen"
+    },
+    "605": {
+      "name": "Whitney Skillen"
+    },
+    "609": {
+      "name": "Arlene Hawkins"
+    },
+    "612": {
+      "name": "Arlene Hawkins"
+    },
+    "617": {
+      "name": "Michael Tempesta"
+    },
+    "619": {
+      "name": "Michael Tempesta"
+    },
+    "625": {
+      "name": "Jennifer Gallagher"
+    },
+    "626": {
+      "name": "Jennifer Gallagher"
+    },
+    "628": {
+      "name": "Jennifer Gallagher"
+    }
+  }
+}

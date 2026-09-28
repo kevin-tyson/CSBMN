@@ -1,0 +1,524 @@
+{
+ "Speaker 1": {
+  "name": "Unidentified",
+  "role": "School District Moderator (presides; not named on the recording)"
+ },
+ "Speaker 2": {
+  "name": "Michael Tempesta",
+  "role": "Superintendent, SAU 6"
+ },
+ "Speaker 3": {
+  "name": "Unidentified",
+  "role": "School District Moderator (presides; not named on the recording)"
+ },
+ "Speaker 4": {
+  "name": "Unidentified",
+  "role": "Public commenter, Ward 1, speaks against; contacted state representatives (name not audible)"
+ },
+ "Speaker 5": {
+  "name": "Unidentified",
+  "role": "Unidentified - cluster mixes several public commenters; see overrides"
+ },
+ "Speaker 6": {
+  "name": "Deb",
+  "role": "Public commenter, Ward 1, former Claremont School Board member (ASR 'Deb Metal'; surname unverified)"
+ },
+ "Speaker 7": {
+  "name": "Unidentified",
+  "role": "Unidentified - cluster mixes public commenters; see overrides"
+ },
+ "__overrides__": {
+  "2": {
+   "name": "Frank Sprague",
+   "role": "Claremont School Board Chair"
+  },
+  "32": {
+   "name": "Frank Sprague",
+   "role": "Claremont School Board Chair"
+  },
+  "33": {
+   "name": "Frank Sprague",
+   "role": "Claremont School Board Chair"
+  },
+  "34": {
+   "name": "Frank Sprague",
+   "role": "Claremont School Board Chair"
+  },
+  "35": {
+   "name": "Frank Sprague",
+   "role": "Claremont School Board Chair"
+  },
+  "36": {
+   "name": "Frank Sprague",
+   "role": "Claremont School Board Chair"
+  },
+  "37": {
+   "name": "Frank Sprague",
+   "role": "Claremont School Board Chair"
+  },
+  "38": {
+   "name": "Frank Sprague",
+   "role": "Claremont School Board Chair"
+  },
+  "39": {
+   "name": "Frank Sprague",
+   "role": "Claremont School Board Chair"
+  },
+  "40": {
+   "name": "Frank Sprague",
+   "role": "Claremont School Board Chair"
+  },
+  "41": {
+   "name": "Frank Sprague",
+   "role": "Claremont School Board Chair"
+  },
+  "42": {
+   "name": "Frank Sprague",
+   "role": "Claremont School Board Chair"
+  },
+  "43": {
+   "name": "Frank Sprague",
+   "role": "Claremont School Board Chair"
+  },
+  "27": {
+   "name": "Jason Benware",
+   "role": "Claremont School Board member"
+  },
+  "31": {
+   "name": "Jason Benware",
+   "role": "Claremont School Board member"
+  },
+  "56": {
+   "name": "Jason Benware",
+   "role": "Claremont School Board member"
+  },
+  "57": {
+   "name": "Jason Benware",
+   "role": "Claremont School Board member"
+  },
+  "58": {
+   "name": "Jason Benware",
+   "role": "Claremont School Board member"
+  },
+  "59": {
+   "name": "Jason Benware",
+   "role": "Claremont School Board member"
+  },
+  "60": {
+   "name": "Jason Benware",
+   "role": "Claremont School Board member"
+  },
+  "61": {
+   "name": "Jason Benware",
+   "role": "Claremont School Board member"
+  },
+  "78": {
+   "name": "Matt Upton",
+   "role": "School district attorney, Drummond Woodsum (uncertain - moderator refers the question to 'the city attorney' [74], unnamed here; Upton is named as school board attorney at the 12/12/2019 follow-up meeting)"
+  },
+  "79": {
+   "name": "Matt Upton",
+   "role": "School district attorney, Drummond Woodsum (uncertain - moderator refers the question to 'the city attorney' [74], unnamed here; Upton is named as school board attorney at the 12/12/2019 follow-up meeting)"
+  },
+  "80": {
+   "name": "Unidentified",
+   "role": "Public commenter asking about the SB 2 process (name not audible)"
+  },
+  "81": {
+   "name": "Matt Upton",
+   "role": "School district attorney, Drummond Woodsum (uncertain - moderator refers the question to 'the city attorney' [74], unnamed here; Upton is named as school board attorney at the 12/12/2019 follow-up meeting)"
+  },
+  "82": {
+   "name": "Unidentified",
+   "role": "Public commenter asking about the SB 2 process (name not audible)"
+  },
+  "83": {
+   "name": "Matt Upton",
+   "role": "School district attorney, Drummond Woodsum (uncertain - moderator refers the question to 'the city attorney' [74], unnamed here; Upton is named as school board attorney at the 12/12/2019 follow-up meeting)"
+  },
+  "29": {
+   "name": "Rebecca Zullo",
+   "role": "Claremont School Board Vice Chair (seconder per moderator [30], ASR 'Mrs. Lula')"
+  },
+  "90": {
+   "name": "Unidentified",
+   "role": "Public commenter, Ward 3, former educator, neutral (ASR 'Doctor voice'; name not recoverable)"
+  },
+  "92": {
+   "name": "Unidentified",
+   "role": "Public commenter, Ward 3, former educator, neutral (ASR 'Doctor voice'; name not recoverable)"
+  },
+  "93": {
+   "name": "Unidentified",
+   "role": "Public commenter, Ward 3, former educator, neutral (ASR 'Doctor voice'; name not recoverable)"
+  },
+  "94": {
+   "name": "Unidentified",
+   "role": "Public commenter, Ward 3, former educator, neutral (ASR 'Doctor voice'; name not recoverable)"
+  },
+  "89": {
+   "name": "Unidentified",
+   "role": "Public commenter, Ward 3, former educator, neutral (ASR 'Doctor voice'; name not recoverable)"
+  },
+  "91": {
+   "name": "Unidentified",
+   "role": "Public commenter, Ward 3, former educator, neutral (ASR 'Doctor voice'; name not recoverable)"
+  },
+  "95": {
+   "name": "Unidentified",
+   "role": "Board member or administrator explaining how the returned $650,000 lowers the tax rate (uncertain - not identified)"
+  },
+  "96": {
+   "name": "Unidentified",
+   "role": "Board member or administrator explaining how the returned $650,000 lowers the tax rate (uncertain - not identified)"
+  },
+  "99": {
+   "name": "Unidentified",
+   "role": "Unidentified - brief interjection"
+  },
+  "108": {
+   "name": "Unidentified",
+   "role": "Public commenter, speaks against; argues money should lower taxes (name not audible)"
+  },
+  "109": {
+   "name": "Unidentified",
+   "role": "Public commenter, speaks against; argues money should lower taxes (name not audible)"
+  },
+  "110": {
+   "name": "Unidentified",
+   "role": "Public commenter, speaks against; argues money should lower taxes (name not audible)"
+  },
+  "111": {
+   "name": "Unidentified",
+   "role": "Public commenter, speaks against; argues money should lower taxes (name not audible)"
+  },
+  "112": {
+   "name": "Unidentified",
+   "role": "Public commenter, speaks against; argues money should lower taxes (name not audible)"
+  },
+  "113": {
+   "name": "Unidentified",
+   "role": "Public commenter, speaks against; argues money should lower taxes (name not audible)"
+  },
+  "115": {
+   "name": "Unidentified",
+   "role": "Public commenter, speaks against; argues money should lower taxes (name not audible)"
+  },
+  "140": {
+   "name": "Unidentified",
+   "role": "Public commenter, Ward 2, special educator, speaks in favor (name not audible)"
+  },
+  "152": {
+   "name": "Jeremy Harold",
+   "role": "Public commenter, Ward 1, parent (ASR 'Jeremy Harold', moderator 'Mr. Harold'; spelling unverified)"
+  },
+  "167": {
+   "name": "Unidentified",
+   "role": "Public commenter asking the superintendent to respond to Mr. Harold (name not audible)"
+  },
+  "48": {
+   "name": "Unidentified",
+   "role": "Public commenter, Ward 1, speaks against; contacted state representatives (name not audible)"
+  },
+  "49": {
+   "name": "Unidentified",
+   "role": "Public commenter, Ward 1, speaks against; contacted state representatives (name not audible)"
+  },
+  "50": {
+   "name": "Unidentified",
+   "role": "Public commenter, Ward 1, speaks against; contacted state representatives (name not audible)"
+  },
+  "51": {
+   "name": "Unidentified",
+   "role": "Public commenter, Ward 1, speaks against; contacted state representatives (name not audible)"
+  },
+  "52": {
+   "name": "Unidentified",
+   "role": "Public commenter, Ward 1, speaks against; contacted state representatives (name not audible)"
+  },
+  "53": {
+   "name": "Unidentified",
+   "role": "Public commenter, Ward 1, speaks against; contacted state representatives (name not audible)"
+  },
+  "135": {
+   "name": "Unidentified",
+   "role": "Public commenter, Ward 1, speaks against; contacted state representatives (name not audible)"
+  },
+  "136": {
+   "name": "Unidentified",
+   "role": "Public commenter, Ward 1, speaks against; contacted state representatives (name not audible)"
+  },
+  "63": {
+   "name": "Cynthia Howard",
+   "role": "Public commenter, Ward 2 (self-identified [63], [189])"
+  },
+  "64": {
+   "name": "Cynthia Howard",
+   "role": "Public commenter, Ward 2 (self-identified [63], [189])"
+  },
+  "65": {
+   "name": "Cynthia Howard",
+   "role": "Public commenter, Ward 2 (self-identified [63], [189])"
+  },
+  "66": {
+   "name": "Cynthia Howard",
+   "role": "Public commenter, Ward 2 (self-identified [63], [189])"
+  },
+  "189": {
+   "name": "Cynthia Howard",
+   "role": "Public commenter, Ward 2 (self-identified [63], [189])"
+  },
+  "190": {
+   "name": "Cynthia Howard",
+   "role": "Public commenter, Ward 2 (self-identified [63], [189])"
+  },
+  "131": {
+   "name": "Ali Filene",
+   "role": "Public commenter, Ward 2, Maple Avenue School teacher (name as heard, ASR 'Ali Filene'; spelling unverified)"
+  },
+  "132": {
+   "name": "Ali Filene",
+   "role": "Public commenter, Ward 2, Maple Avenue School teacher (name as heard, ASR 'Ali Filene'; spelling unverified)"
+  },
+  "133": {
+   "name": "Ali Filene",
+   "role": "Public commenter, Ward 2, Maple Avenue School teacher (name as heard, ASR 'Ali Filene'; spelling unverified)"
+  },
+  "139": {
+   "name": "Unidentified",
+   "role": "Public commenter, Ward 2, special educator, speaks in favor (name not audible)"
+  },
+  "141": {
+   "name": "Unidentified",
+   "role": "Public commenter, Ward 2, special educator, speaks in favor (name not audible)"
+  },
+  "117": {
+   "name": "Ali Filene",
+   "role": "Public commenter, Ward 2, Maple Avenue School teacher (name as heard, ASR 'Ali Filene'; spelling unverified)"
+  },
+  "119": {
+   "name": "Ali Filene",
+   "role": "Public commenter, Ward 2, Maple Avenue School teacher (name as heard, ASR 'Ali Filene'; spelling unverified)"
+  },
+  "121": {
+   "name": "Ali Filene",
+   "role": "Public commenter, Ward 2, Maple Avenue School teacher (name as heard, ASR 'Ali Filene'; spelling unverified)"
+  },
+  "123": {
+   "name": "Ali Filene",
+   "role": "Public commenter, Ward 2, Maple Avenue School teacher (name as heard, ASR 'Ali Filene'; spelling unverified)"
+  },
+  "124": {
+   "name": "Ali Filene",
+   "role": "Public commenter, Ward 2, Maple Avenue School teacher (name as heard, ASR 'Ali Filene'; spelling unverified)"
+  },
+  "126": {
+   "name": "Ali Filene",
+   "role": "Public commenter, Ward 2, Maple Avenue School teacher (name as heard, ASR 'Ali Filene'; spelling unverified)"
+  },
+  "128": {
+   "name": "Ali Filene",
+   "role": "Public commenter, Ward 2, Maple Avenue School teacher (name as heard, ASR 'Ali Filene'; spelling unverified)"
+  },
+  "130": {
+   "name": "Ali Filene",
+   "role": "Public commenter, Ward 2, Maple Avenue School teacher (name as heard, ASR 'Ali Filene'; spelling unverified)"
+  },
+  "118": {
+   "name": "Ali Filene",
+   "role": "Public commenter, Ward 2, Maple Avenue School teacher (name as heard, ASR 'Ali Filene'; spelling unverified)"
+  },
+  "120": {
+   "name": "Ali Filene",
+   "role": "Public commenter, Ward 2, Maple Avenue School teacher (name as heard, ASR 'Ali Filene'; spelling unverified)"
+  },
+  "122": {
+   "name": "Ali Filene",
+   "role": "Public commenter, Ward 2, Maple Avenue School teacher (name as heard, ASR 'Ali Filene'; spelling unverified)"
+  },
+  "125": {
+   "name": "Ali Filene",
+   "role": "Public commenter, Ward 2, Maple Avenue School teacher (name as heard, ASR 'Ali Filene'; spelling unverified)"
+  },
+  "127": {
+   "name": "Ali Filene",
+   "role": "Public commenter, Ward 2, Maple Avenue School teacher (name as heard, ASR 'Ali Filene'; spelling unverified)"
+  },
+  "129": {
+   "name": "Ali Filene",
+   "role": "Public commenter, Ward 2, Maple Avenue School teacher (name as heard, ASR 'Ali Filene'; spelling unverified)"
+  },
+  "69": {
+   "name": "Unidentified",
+   "role": "Public commenter asking about the SB 2 process (name not audible)"
+  },
+  "71": {
+   "name": "Unidentified",
+   "role": "Public commenter asking about the SB 2 process (name not audible)"
+  },
+  "73": {
+   "name": "Unidentified",
+   "role": "Public commenter asking about the SB 2 process (name not audible)"
+  },
+  "75": {
+   "name": "Unidentified",
+   "role": "Public commenter asking about the SB 2 process (name not audible)"
+  },
+  "76": {
+   "name": "Unidentified",
+   "role": "Public commenter asking about the SB 2 process (name not audible)"
+  },
+  "77": {
+   "name": "Unidentified",
+   "role": "Public commenter asking about the SB 2 process (name not audible)"
+  },
+  "84": {
+   "name": "Unidentified",
+   "role": "Public commenter asking about the SB 2 process (name not audible)"
+  },
+  "86": {
+   "name": "Unidentified",
+   "role": "Public commenter asking about the SB 2 process (name not audible)"
+  },
+  "138": {
+   "name": "Unidentified",
+   "role": "Public commenter, Ward 2, special educator, speaks in favor (name not audible)"
+  },
+  "142": {
+   "name": "Unidentified",
+   "role": "Public commenter, Ward 2, special educator, speaks in favor (name not audible)"
+  },
+  "148": {
+   "name": "Jeremy Harold",
+   "role": "Public commenter, Ward 1, parent (ASR 'Jeremy Harold', moderator 'Mr. Harold'; spelling unverified)"
+  },
+  "150": {
+   "name": "Jeremy Harold",
+   "role": "Public commenter, Ward 1, parent (ASR 'Jeremy Harold', moderator 'Mr. Harold'; spelling unverified)"
+  },
+  "151": {
+   "name": "Jeremy Harold",
+   "role": "Public commenter, Ward 1, parent (ASR 'Jeremy Harold', moderator 'Mr. Harold'; spelling unverified)"
+  },
+  "154": {
+   "name": "Jeremy Harold",
+   "role": "Public commenter, Ward 1, parent (ASR 'Jeremy Harold', moderator 'Mr. Harold'; spelling unverified)"
+  },
+  "156": {
+   "name": "Jeremy Harold",
+   "role": "Public commenter, Ward 1, parent (ASR 'Jeremy Harold', moderator 'Mr. Harold'; spelling unverified)"
+  },
+  "158": {
+   "name": "Jeremy Harold",
+   "role": "Public commenter, Ward 1, parent (ASR 'Jeremy Harold', moderator 'Mr. Harold'; spelling unverified)"
+  },
+  "159": {
+   "name": "Jeremy Harold",
+   "role": "Public commenter, Ward 1, parent (ASR 'Jeremy Harold', moderator 'Mr. Harold'; spelling unverified)"
+  },
+  "160": {
+   "name": "Jeremy Harold",
+   "role": "Public commenter, Ward 1, parent (ASR 'Jeremy Harold', moderator 'Mr. Harold'; spelling unverified)"
+  },
+  "161": {
+   "name": "Jeremy Harold",
+   "role": "Public commenter, Ward 1, parent (ASR 'Jeremy Harold', moderator 'Mr. Harold'; spelling unverified)"
+  },
+  "162": {
+   "name": "Jeremy Harold",
+   "role": "Public commenter, Ward 1, parent (ASR 'Jeremy Harold', moderator 'Mr. Harold'; spelling unverified)"
+  },
+  "163": {
+   "name": "Jeremy Harold",
+   "role": "Public commenter, Ward 1, parent (ASR 'Jeremy Harold', moderator 'Mr. Harold'; spelling unverified)"
+  },
+  "166": {
+   "name": "Unidentified",
+   "role": "Public commenter asking the superintendent to respond to Mr. Harold (name not audible)"
+  },
+  "168": {
+   "name": "Unidentified",
+   "role": "Public commenter asking the superintendent to respond to Mr. Harold (name not audible)"
+  },
+  "170": {
+   "name": "Unidentified",
+   "role": "Public commenter asking the superintendent to respond to Mr. Harold (name not audible)"
+  },
+  "173": {
+   "name": "Unidentified",
+   "role": "Public commenter asking the superintendent to respond to Mr. Harold (name not audible)"
+  },
+  "179": {
+   "name": "Unidentified",
+   "role": "Public commenter asking the superintendent to respond to Mr. Harold (name not audible)"
+  },
+  "183": {
+   "name": "Unidentified",
+   "role": "Public commenter, speaks in favor; wife is a first-grade teacher (ASR 'David'; uncertain)"
+  },
+  "184": {
+   "name": "Unidentified",
+   "role": "Public commenter, speaks in favor; wife is a first-grade teacher (ASR 'David'; uncertain)"
+  },
+  "185": {
+   "name": "Unidentified",
+   "role": "Public commenter, speaks in favor; wife is a first-grade teacher (ASR 'David'; uncertain)"
+  },
+  "186": {
+   "name": "Unidentified",
+   "role": "Public commenter, speaks in favor; wife is a first-grade teacher (ASR 'David'; uncertain)"
+  },
+  "191": {
+   "name": "Unidentified",
+   "role": "Public commenter, Ward 3, speaks in favor (ASR 'Stapleton'; name uncertain)"
+  },
+  "192": {
+   "name": "Unidentified",
+   "role": "Public commenter, Ward 3, speaks in favor (ASR 'Stapleton'; name uncertain)"
+  },
+  "193": {
+   "name": "Unidentified",
+   "role": "Public commenter, Ward 3, speaks in favor (ASR 'Stapleton'; name uncertain)"
+  },
+  "194": {
+   "name": "Unidentified",
+   "role": "Public commenter, Ward 3, speaks in favor (ASR 'Stapleton'; name uncertain)"
+  },
+  "195": {
+   "name": "Unidentified",
+   "role": "Public commenter, Ward 3, speaks in favor (ASR 'Stapleton'; name uncertain)"
+  },
+  "143": {
+   "name": "Unidentified",
+   "role": "Public commenter, Ward 2, special educator, speaks in favor (name not audible)"
+  },
+  "144": {
+   "name": "Unidentified",
+   "role": "Public commenter, Ward 2, special educator, speaks in favor (name not audible)"
+  },
+  "145": {
+   "name": "Unidentified",
+   "role": "Public commenter, Ward 2, special educator, speaks in favor (name not audible)"
+  },
+  "146": {
+   "name": "Unidentified",
+   "role": "Public commenter, Ward 2, special educator, speaks in favor (name not audible)"
+  },
+  "149": {
+   "name": "Jeremy Harold",
+   "role": "Public commenter, Ward 1, parent (ASR 'Jeremy Harold', moderator 'Mr. Harold'; spelling unverified)"
+  },
+  "153": {
+   "name": "Jeremy Harold",
+   "role": "Public commenter, Ward 1, parent (ASR 'Jeremy Harold', moderator 'Mr. Harold'; spelling unverified)"
+  },
+  "155": {
+   "name": "Jeremy Harold",
+   "role": "Public commenter, Ward 1, parent (ASR 'Jeremy Harold', moderator 'Mr. Harold'; spelling unverified)"
+  },
+  "157": {
+   "name": "Jeremy Harold",
+   "role": "Public commenter, Ward 1, parent (ASR 'Jeremy Harold', moderator 'Mr. Harold'; spelling unverified)"
+  }
+ }
+}

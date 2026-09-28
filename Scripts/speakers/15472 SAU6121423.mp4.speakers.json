@@ -1,0 +1,99 @@
+{
+  "Speaker 1": {
+    "name": "Candace Crawford",
+    "role": "Claremont School Board member; SAU 6 Board member - the chair recognises 'Candace?' at 559.1s and 'Candace, please.' at 583.4s immediately before this voice, and it answers 'Yes' in the Crawford slot of the roll-call votes at 392.4s (right after the chair reads 'And. Crawford.') and 536.6s (right after 'Candace. Parker.'). She carries the whole budget question period, 584-807s"
+  },
+  "Speaker 2": {
+    "name": "Unidentified",
+    "role": "SAU 6 board member - MERGED CLUSTER, not separable. It answers the roll in the Simpson, Hart and Miles slots of the entry roll (384.8 / 386.3 / 389.2s) and the Simpson and Hart slots of the return roll (447.2 / 448.7s), so at least three members share it. It also leads the audible Pledge of Allegiance and supplies several seconds"
+  },
+  "Speaker 3": {
+    "name": "Arlene Hawkins",
+    "role": "SAU 6 Joint Board Chair; Claremont School Board member - presides throughout: calls the meeting to order, opens and closes the FY2025 budget public hearing, runs the agenda, minutes, citizens comments and the nonpublic motions, reads every roll call herself, delivers the policy-subcommittee report in the first person (as she did on 11/9/23 and 12/7/23, and as she presents both policies on 1/11/24), and gives the farewell to Ben Nester. THIS DIARIZED CLUSTER IS A MERGE: Business Administrator Mary Henry's budget presentation and her answers to Candace Crawford are inside it and are reassigned by override, and other members' roll-call answers are absorbed into the chair's own segments and cannot be split out"
+  },
+  "Speaker 4": {
+    "name": "Frank Sprague",
+    "role": "Claremont School Board Vice Chair; SAU 6 Board member - MERGED MALE CLUSTER (Sprague + Rocco Ruggeri), the same merge this diarizer produced on 12/7/23; it answers in BOTH men's slots in every roll call here. Assigned to Sprague because the chair's only recognition inside the cluster names him ('I'm looking for a motion to seal, Mr. Sprague' at 462.9s, answered at 463.4s and followed by his seal motion at 483.7s); because the same voice moves and then claims the motion to come out of nonpublic (424.9s, 474.5s), which is the one thing Frank Sprague is heard doing at the next SAU 6 meeting on 1/11/24; and because on 12/7/23 Ruggeri spoke only in roll calls. MEDIUM confidence, and explicitly not high: at that 1/11/24 meeting Ruggeri moves the policy motions and the motion to adjourn, so either man moves routine motions at this board and an individual motion here could be his"
+  },
+  "Speaker 5": {
+    "name": "Michael Tempesta",
+    "role": "Superintendent of Schools, SAU 6 - the chair gives him the floor at 1080.5s ('Additional business, Mr. Tempesta') and he announces Ben Nester's departure; he asks at 229.3s to add a personnel announcement to the agenda; the superintendent-evaluation report at 1059.7s names 'Mr. Tempesta' in the third person. Fired by this board on 1/11/2024, four weeks later"
+  },
+  "Speaker 6": {
+    "name": "Unidentified",
+    "role": "Board-table crosstalk - a catch-all cluster of short reactions, assents and half-sentences from several people during the seal-the-minutes joke, the policy vote, the Nester farewell and the adjournment. Ben Nester's two segments inside it are reassigned by override; nothing anchors the rest to a single voice"
+  },
+  "Speaker 7": {
+    "name": "Unidentified",
+    "role": "SAU 6 board member seconding the motion to adopt the FY2025 SAU budget - a single 'I'll second' in a cluster of its own, with no name, recognition or roll answer attached"
+  },
+  "Speaker 8": {
+    "name": "Mary Henry",
+    "role": "Business Administrator, SAU 6 - answers Candace Crawford's business-office salary questions and lists the office's positions in the first person ('the accounting grant manager is in there', 'so ... myself, it's the accounts payable person'). She is the SAU business administrator who presented this budget on 11/9/23 and 12/7/23. The diarizer splits her between this cluster and Speaker 3 mid-exchange"
+  },
+  "Speaker 9": {
+    "name": "Unidentified",
+    "role": "SAU 6 board member - moves to push the NHSBA sample policy to a second read and tells the policy presenter 'you do a really good job in policy committee for Claremont', which reads as a Unity-side member; also notes the policy printed in black and white rather than the emailed colour version. Never named or recognised by name on the recording. The 0.36s 'Yes.' at 1051.1s runs with a zero gap into the superintendent-evaluation report, so this may be the member who delivers that report"
+  },
+  "Speaker 10": {
+    "name": "Ben Nester",
+    "role": "Director of Special Education, SAU 6, leaving for Lebanon - Superintendent Tempesta announces his departure at 1081-1173s and the chair addresses 'Mr. Nestor, we wish you well' at 1192.8s immediately before this voice, which then speaks as the departing director ('I've valued my time here... the kids, the families and the staff')"
+  },
+  "Speaker 11": {
+    "name": "Unidentified",
+    "role": "Voice at the SAU 6 table explaining why a stray meeting date was left on the calendar of future dates ('we had had that in there just in case at one point'). Consistent with whoever drafts the agenda - the clerk or the business office - but never named, and not separable from the other staff voices"
+  },
+  "__overrides__": {
+    "5": {"name": "Unidentified", "role": "Brief exclamation during the shuffle after the Pledge of Allegiance, before the roll call. It falls inside Candace Crawford's cluster but nothing in the segment identifies the voice and the two words are the only speech in a 15.6s span"},
+
+    "6":  {"name": "Arlene Hawkins", "role": "SAU 6 Joint Board Chair reading the roll herself, with members' answers absorbed into her own segments. The board's clerk Noelle Kronberg (appointed SAU 6 clerk 11/9/23) read all four roll calls on 12/7/23, so the reader here was checked against her: at the next SAU 6 meeting, 1/11/24 (Output/Dialogue/15523 SAU6011124.mp4.CSV), Hawkins reads the return-to-public and seal-the-minutes rolls herself in exactly this shape - 'Arlene Hawkins. Yes.' inside her own segment, other members' answers absorbed - while the two rolls Kronberg reads that night are preceded by the chair saying 'the secretary take a roll call' and land in a cluster of Kronberg's own with the answers splitting out. Neither of those clerk markers is present here. Nothing on this recording establishes whether the clerk was in the room"},
+    "8":  {"name": "Arlene Hawkins", "role": "SAU 6 Joint Board Chair reading the attendance roll; the name here is Atonya Hart, rendered by the ASR as 'That's on your heart'"},
+    "10": {"name": "Arlene Hawkins", "role": "SAU 6 Joint Board Chair reading the attendance roll - Bonnie Miles, Whitney Skillen ('with you stealing'), Candace Crawford, Jennifer Gallagher and Heather Whitney ('Heather. Which'), with each member's answer absorbed into the chair's segment"},
+    "42": {"name": "Arlene Hawkins", "role": "SAU 6 Joint Board Chair reading the roll-call vote to enter nonpublic session; members' answers are absorbed into her segments"},
+    "44": {"name": "Arlene Hawkins", "role": "SAU 6 Joint Board Chair reading the roll-call vote to enter nonpublic session; members' answers are absorbed into her segments"},
+    "48": {"name": "Arlene Hawkins", "role": "SAU 6 Joint Board Chair reading the roll-call vote to enter nonpublic session; members' answers are absorbed into her segments"},
+    "52": {"name": "Arlene Hawkins", "role": "SAU 6 Joint Board Chair calling and reading the roll-call vote to return to public session; members' answers are absorbed into her segment"},
+    "54": {"name": "Arlene Hawkins", "role": "SAU 6 Joint Board Chair reading the roll-call vote to return to public session; 'Can you' is Shannon Popescu, the same garble the reader produced on 12/7/23"},
+    "70": {"name": "Arlene Hawkins", "role": "SAU 6 Joint Board Chair announcing and reading the roll-call vote on sealing the nonpublic minutes for 99 years; members' answers are absorbed into her segments"},
+    "72": {"name": "Arlene Hawkins", "role": "SAU 6 Joint Board Chair reading the roll-call vote on sealing the nonpublic minutes; members' answers are absorbed into her segments"},
+    "75": {"name": "Arlene Hawkins", "role": "SAU 6 Joint Board Chair reading the roll-call vote on sealing the nonpublic minutes; a member's 'No' is absorbed at the head of the segment"},
+
+    "13":  {"name": "Mary Henry", "role": "Business Administrator, SAU 6 - 0.4s onset of her budget presentation, clipped into Candace Crawford's cluster: 'Oh, yes.' runs with a 0.01s gap into 'So I did make the changes that you had requested within the budget' at 147.8s"},
+    "14":  {"name": "Mary Henry", "role": "Business Administrator, SAU 6 - presents the revised FY2025 SAU 6 budget at the public hearing: bottom line $2,489,153.03, an increase of $93,151.03 or 3.89%, about $8,000 below the figure the board had voted, after the changes the board requested on the raises and the insurance"},
+    "87":  {"name": "Mary Henry"},
+    "90":  {"name": "Mary Henry"},
+    "94":  {"name": "Mary Henry"},
+    "96":  {"name": "Mary Henry"},
+    "98":  {"name": "Mary Henry"},
+    "100": {"name": "Mary Henry"},
+    "102": {"name": "Mary Henry"},
+    "104": {"name": "Mary Henry"},
+    "106": {"name": "Mary Henry"},
+    "110": {"name": "Mary Henry"},
+    "112": {"name": "Mary Henry"},
+    "114": {"name": "Mary Henry"},
+    "116": {"name": "Mary Henry"},
+    "118": {"name": "Mary Henry"},
+
+    "43": {"name": "Rocco Ruggeri", "role": "Unity School Board member; SAU 6 Board Vice Chair per the wider record (not stated on this recording) - answers 'Yes' immediately after the chair reaches his slot in the roll ('Rocco. Carey.' at 378.3s; 'Over here.' at 441.8s, the same slot; and second in the seal roll at 522.0s). Second in the roll order at every vote here, on 12/7/23 and on 1/11/24"},
+    "53": {"name": "Rocco Ruggeri"},
+    "71": {"name": "Rocco Ruggeri"},
+
+    "45": {"name": "Unidentified", "role": "Two members answering consecutively in the roll - by the roll order confirmed on 12/7/23 and 1/11/24 (Hawkins, Ruggeri, Erickson, Popescu, Simpson, Hart, Sprague, Miles, Skillen, Crawford, Gallagher, Whitney) these are the Simpson and Hart slots, but two voices share the segment and cannot be split"},
+    "55": {"name": "Unidentified", "role": "Two members answering consecutively in the roll - the Simpson and Hart slots by roll order; two voices share the segment and cannot be split"},
+    "47": {"name": "Bonnie Miles", "role": "Claremont School Board member; SAU 6 Board Treasurer per the wider record (not stated on this recording) - attributed by ROLL POSITION ONLY, and she is not otherwise heard at this meeting. The chair's names were dropped by the ASR between 'Simpson.' (384.3s) and 'Crawford.' (391.8s), but exactly five answers fall in that gap for the five members the roll order puts there, and the third of them lands in the male cluster at the Sprague slot, which validates the chain"},
+
+    "74": {"name": "Unidentified", "role": "A single 'No' answering the roll call on sealing the nonpublic minutes for 99 years, absorbed into the chair's cluster. By roll order it falls in the Miles/Skillen span, but the names read were not transcribed and no tally was announced, so the voter cannot be named"},
+    "77": {"name": "Unidentified", "role": "A garbled interjection and a 'No' answer inside the seal-the-minutes roll call, absorbed into the chair's cluster; neither the question nor the voter is identifiable"},
+
+    "146": {"name": "Unidentified", "role": "SAU 6 board member delivering the superintendent-evaluation subcommittee update, in the first person ('we met with Mr. [Tempesta] this afternoon... he has agreed to put it on a Google Docs'). UNRESOLVED, exactly as at 12/7/23. It sits in the chair's diarized cluster and Chair Hawkins read this report herself on 11/9/23; but Whitney Skillen's roll answers also fall in that cluster, the subcommittee seated 8/17/23 is Ruggeri, Hart, Sprague and Skillen (Hawkins is not on it), and the 0.36s 'Yes.' that runs into this segment with a zero gap belongs to a different cluster. The trailing 'Thank you.' after a 1.6s pause is probably the chair's"},
+
+    "149": {"name": "Michael Tempesta", "role": "Superintendent of Schools, SAU 6 - 0.6s fragment with zero gaps on both sides inside his own sentence about Ben Nester ('...a position as the director of student services in Lebanon, and [we're happy for] him for his career')"},
+    "151": {"name": "Michael Tempesta", "role": "Superintendent of Schools, SAU 6 - continues his own sentence without a gap ('a little bit, a little bit, a [lot crushed]. I'm saying.')"},
+
+    "171": {"name": "Ben Nester", "role": "Director of Special Education, SAU 6 - his own onset, clipped into the crosstalk cluster: 'Thank you. I just I'll say that I' runs with a 0.08s gap into 'I've valued my time here' at 1221.9s"},
+    "174": {"name": "Ben Nester", "role": "Director of Special Education, SAU 6 - answers the chair's 'How long have you been here?' with 'Nine years', matching the superintendent's 'the last nine years in Claremont'. The repeated 'Nine years?' in the same segment is another voice echoing him and cannot be split off"},
+
+    "196": {"name": "Unidentified", "role": "A board member seconding the motion to adjourn, absorbed into Superintendent Tempesta's cluster - the superintendent is not a voting member and does not second motions, and no anchor names this voice"}
+  }
+}

@@ -1,0 +1,223 @@
+{
+ "Speaker 1": {
+  "name": "Marjorie Erickson",
+  "role": "SAU 6 Board Chair; Unity School Board member (self-introduced 'I'm Marjorie Erickson. I'm the chairperson of the SA six school board. I'm a Unity school board member' [46-47]; runs the meeting)"
+ },
+ "Speaker 2": {
+  "name": "Rob Lovett Jr.",
+  "role": "Claremont School Board member (self-introduced 'I am Rob Lovett. I am on the school board for Claremont' [50]) (uncertain for the three short pre-meeting lines [1, 4])"
+ },
+ "Speaker 3": {
+  "name": "Unidentified",
+  "role": "Unidentified - cluster mixes pledge, motions and interjections from several people; see overrides"
+ },
+ "Speaker 4": {
+  "name": "Unidentified",
+  "role": "Unidentified - cluster mixes several women's voices (roll caller, board members, staff and a Lempster guest during introductions); see overrides"
+ },
+ "Speaker 5": {
+  "name": "Frank Sprague",
+  "role": "Claremont School Board Chair (completes his introduction 'Chair of the Claremont School Board' [48-49]; recognized 'Frank. Go ahead.' [97] and 'Go ahead. Frank.' [111-112] before this cluster speaks)"
+ },
+ "Speaker 6": {
+  "name": "Jason Benware",
+  "role": "Claremont School Board member (self-introduced 'Jason. Ben. We're a member of the Claremont School Board' [51]; recognized 'Jason' [28, 244])"
+ },
+ "Speaker 7": {
+  "name": "Jim",
+  "role": "Lempster School Board member, guest; former NH state representative on House Education (self-description [61, 127]; the Lempster chair names 'Michelle and Jim and I' as their subcommittee [146] and he asks to meet with 'our chair, myself and Michelle' [209]; surname not given)"
+ },
+ "Speaker 8": {
+  "name": "Unidentified",
+  "role": "Lempster School Board chair (guest; not named clearly - an introduction in another cluster heard as ASR 'Kelly Karen, chairperson' [60]; 'Michelle and Jim and I are the three subcommittee members' [146])"
+ },
+ "Speaker 9": {
+  "name": "Unidentified",
+  "role": "Unidentified - four short fragments (agreement, recognition)"
+ },
+ "Speaker 10": {
+  "name": "Unidentified",
+  "role": "Unidentified - short interjections including requests to use the microphone for TV [78, 197]; mixed"
+ },
+ "Speaker 11": {
+  "name": "Rebecca Zullo",
+  "role": "Claremont School Board Vice Chair (recognized 'Rebecca.' [83] before [84]; chair notes 'Rebecca and Marjorie abstain' [38])"
+ },
+ "Speaker 12": {
+  "name": "Cory LeClair",
+  "role": "Assistant Superintendent, SAU 6 (asked to outline the behavior program 'Carol Corey, maybe you' [166] and does [175-187]; greets 'Hi, Josh' [186])"
+ },
+ "Speaker 13": {
+  "name": "Carolyn Towle",
+  "role": "Claremont School Board member (recognized 'Carolyn.' [344] before [345] and 'Carolyn.' [472] before [473])"
+ },
+ "Speaker 14": {
+  "name": "Unidentified",
+  "role": "Unidentified - one short fragment"
+ },
+ "Speaker 15": {
+  "name": "Keith Pfeifer",
+  "role": "Interim Superintendent, SAU 6 (delivers the superintendent report [294-414]; chair: 'any other questions for Doctor Piper?' [418]; recognized 'Keith.' [444])"
+ },
+ "Speaker 16": {
+  "name": "Nathan",
+  "role": "Human Resources Director, SAU 6 (chair: 'Nate is here to give us an update on the merit pay program' [233]; introduced 'Nathan ... six hr director' [68]; surname not given)"
+ },
+ "Speaker 17": {
+  "name": "Sara Lowe",
+  "role": "SAU 6 Board member (Unity), Unity School Board chair (self-introduced 'I'm Sarah Lone, the chair of the Unity' [57-58]; recognized 'Sarah.' [356]; 'my fourth year on this board' [359])"
+ },
+ "Speaker 18": {
+  "name": "Frank Sprague",
+  "role": "Claremont School Board Chair (second cluster; 'Frank, just interrupt for one second' [376] then 'This as a Claremont question' [377]; 'any other business ... Frank?' [462])"
+ },
+ "Speaker 19": {
+  "name": "Unidentified",
+  "role": "Unidentified - cluster of roll-call responses and cross-talk around the nonpublic vote"
+ },
+ "__overrides__": {
+  "9": {
+   "name": "Mary Woodman",
+   "role": "School district clerk and board recording secretary (self-introduced 'I'm Mary Woodman and secretary of the school board' [56]; calls the roll)"
+  },
+  "11": {
+   "name": "Mary Woodman",
+   "role": "School district clerk and board recording secretary (self-introduced 'I'm Mary Woodman and secretary of the school board' [56]; calls the roll)"
+  },
+  "56": {
+   "name": "Mary Woodman",
+   "role": "School district clerk and board recording secretary (self-introduced 'I'm Mary Woodman and secretary of the school board' [56]; calls the roll)"
+  },
+  "531": {
+   "name": "Mary Woodman",
+   "role": "School district clerk and board recording secretary (self-introduced 'I'm Mary Woodman and secretary of the school board' [56]; calls the roll) (uncertain - roll call diarized with Towle)"
+  },
+  "537": {
+   "name": "Mary Woodman",
+   "role": "School district clerk and board recording secretary (self-introduced 'I'm Mary Woodman and secretary of the school board' [56]; calls the roll) (uncertain - roll call diarized with Towle)"
+  },
+  "535": {
+   "name": "Mary Woodman",
+   "role": "School district clerk and board recording secretary (self-introduced 'I'm Mary Woodman and secretary of the school board' [56]; calls the roll) (uncertain - roll call diarized with the Lempster chair)"
+  },
+  "538": {
+   "name": "Mary Woodman",
+   "role": "School district clerk and board recording secretary (self-introduced 'I'm Mary Woodman and secretary of the school board' [56]; calls the roll) (uncertain - roll call diarized with the Lempster chair)"
+  },
+  "52": {
+   "name": "Rebecca Zullo",
+   "role": "Claremont School Board Vice Chair (self-introduced 'Rebecca Zullo, vice chair' [52]; the same segment also carries Carolyn Towle's introduction, ASR 'Carol and Tom')"
+  },
+  "54": {
+   "name": "Cory LeClair",
+   "role": "Assistant Superintendent, SAU 6 (self-introduced 'I'm the assistant superintendent for SB six' [54])"
+  },
+  "185": {
+   "name": "Cory LeClair"
+  },
+  "58": {
+   "name": "Sara Lowe"
+  },
+  "57": {
+   "name": "Sara Lowe"
+  },
+  "358": {
+   "name": "Sara Lowe"
+  },
+  "360": {
+   "name": "Sara Lowe"
+  },
+  "433": {
+   "name": "Sara Lowe"
+  },
+  "526": {
+   "name": "Sara Lowe"
+  },
+  "60": {
+   "name": "Unidentified",
+   "role": "Lempster School Board chair (guest; not named clearly - an introduction in another cluster heard as ASR 'Kelly Karen, chairperson' [60]; 'Michelle and Jim and I are the three subcommittee members' [146])"
+  },
+  "135": {
+   "name": "Unidentified",
+   "role": "Lempster School Board chair (guest; not named clearly - an introduction in another cluster heard as ASR 'Kelly Karen, chairperson' [60]; 'Michelle and Jim and I are the three subcommittee members' [146])"
+  },
+  "137": {
+   "name": "Michelle",
+   "role": "Lempster School Board member, guest, subcommittee member (addressed 'How much is it, Michelle?' [105] and 'So Michelle, to use power school' [191]; first name only) (uncertain - diarized with Carolyn Towle)"
+  },
+  "193": {
+   "name": "Michelle",
+   "role": "Lempster School Board member, guest, subcommittee member (addressed 'How much is it, Michelle?' [105] and 'So Michelle, to use power school' [191]; first name only)"
+  },
+  "194": {
+   "name": "Michelle",
+   "role": "Lempster School Board member, guest, subcommittee member (addressed 'How much is it, Michelle?' [105] and 'So Michelle, to use power school' [191]; first name only)"
+  },
+  "195": {
+   "name": "Michelle",
+   "role": "Lempster School Board member, guest, subcommittee member (addressed 'How much is it, Michelle?' [105] and 'So Michelle, to use power school' [191]; first name only)"
+  },
+  "228": {
+   "name": "Unidentified",
+   "role": "Unidentified - Lempster guest answering 'Good luck with your budgeting' [227]; diarized with Carolyn Towle"
+  },
+  "48": {
+   "name": "Frank Sprague",
+   "role": "Claremont School Board Chair (self-introduced 'I'm Frank Sprague' [48])"
+  },
+  "55": {
+   "name": "Michael O'Neill",
+   "role": "Director of Business and Finance (Business Administrator), SAU 6 (self-introduced 'I am Michael O'Neill, the director of business and finance' [55])"
+  },
+  "53": {
+   "name": "Keith Pfeifer",
+   "role": "Interim Superintendent, SAU 6 (self-introduced 'Keith Phifer, interim superintendent' [53]; diarized with Lempster guest Jim)"
+  },
+  "40": {
+   "name": "Unidentified",
+   "role": "Unidentified - suggestion to introduce everyone, diarized with Lempster guest Jim"
+  },
+  "42": {
+   "name": "Marjorie Erickson",
+   "role": "SAU 6 Board Chair; Unity School Board member (self-introduced 'I'm Marjorie Erickson. I'm the chairperson of the SA six school board. I'm a Unity school board member' [46-47]; runs the meeting)"
+  },
+  "383": {
+   "name": "Unidentified",
+   "role": "Unidentified - 'Yep.' after the Lempster guests had left, diarized with Jim"
+  },
+  "266": {
+   "name": "Marjorie Erickson",
+   "role": "SAU 6 Board Chair; Unity School Board member (self-introduced 'I'm Marjorie Erickson. I'm the chairperson of the SA six school board. I'm a Unity school board member' [46-47]; runs the meeting)"
+  },
+  "278": {
+   "name": "Marjorie Erickson",
+   "role": "SAU 6 Board Chair; Unity School Board member (self-introduced 'I'm Marjorie Erickson. I'm the chairperson of the SA six school board. I'm a Unity school board member' [46-47]; runs the meeting)"
+  },
+  "284": {
+   "name": "Marjorie Erickson",
+   "role": "SAU 6 Board Chair; Unity School Board member (self-introduced 'I'm Marjorie Erickson. I'm the chairperson of the SA six school board. I'm a Unity school board member' [46-47]; runs the meeting)"
+  },
+  "189": {
+   "name": "Marjorie Erickson",
+   "role": "SAU 6 Board Chair; Unity School Board member (self-introduced 'I'm Marjorie Erickson. I'm the chairperson of the SA six school board. I'm a Unity school board member' [46-47]; runs the meeting)"
+  },
+  "444": {
+   "name": "Marjorie Erickson",
+   "role": "SAU 6 Board Chair; Unity School Board member (self-introduced 'I'm Marjorie Erickson. I'm the chairperson of the SA six school board. I'm a Unity school board member' [46-47]; runs the meeting) (uncertain - recognition 'Keith.' diarized with Zullo)"
+  },
+  "356": {
+   "name": "Unidentified",
+   "role": "Unidentified - recognition 'Sarah.' diarized with LeClair"
+  },
+  "458": {
+   "name": "Rebecca Zullo"
+  },
+  "506": {
+   "name": "Rebecca Zullo"
+  },
+  "10": {
+   "name": "Unidentified",
+   "role": "Unidentified - roll-call response"
+  }
+ }
+}

@@ -1,0 +1,269 @@
+{
+ "Speaker 1": {
+  "name": "Brian Rapp",
+  "role": "Claremont School Board Chair (calls to order and runs agenda and votes; answers 'Brian. Here.' [4]; superintendent: 'if I may, Brian' [590], 'If I may proceed. Brian' [786]; ASR 'Kim Brian' [802])"
+ },
+ "Speaker 2": {
+  "name": "Brent Ferland",
+  "role": "Claremont School Board member (attribution by elimination: Rapp, Pierce, Sprague and Adrian are identified; roll call notes Chris Irish in class and Becky Ferland away [4]; requests teacher tenure data [845-850], which the 6/1/16 meeting credits to 'Brant' - medium confidence)"
+ },
+ "Speaker 3": {
+  "name": "Middleton McGoodwin",
+  "role": "Superintendent, SAU 6 (delivers the superintendent's report [35-49]; Sprague: 'Doctor MacGibbon' [767] and 'Middleton' [823]; Lewis: 'comments from Doctor Goodwin' [99]; chair addressed as 'Mr. Chairman' [826])"
+ },
+ "Speaker 4": {
+  "name": "Unidentified",
+  "role": "Unidentified - Stevens High School student representative to the board; name not stated (student representative's report [19-30])"
+ },
+ "Speaker 5": {
+  "name": "Patricia Barry",
+  "role": "Principal, Stevens High School (superintendent: 'Pat ... is going to be coming back' [501] -> [504-506] on the science NECAP at the high school; introduces the SHS Life Skills program [55-57]; ASR 'Pat Fairy', 'Pat Mary')"
+ },
+ "Speaker 6": {
+  "name": "Mike McCusker",
+  "role": "Teacher, Stevens High School Life Skills program (introduced 'their teacher Mike McCusker' [55]; 'this is my first year with Stevens' [61])"
+ },
+ "Speaker 7": {
+  "name": "Unidentified",
+  "role": "Unidentified - cluster mixes Life Skills students, middle school presenters and board members' short remarks"
+ },
+ "Speaker 8": {
+  "name": "Michael O'Neill",
+  "role": "Business Administrator, SAU 6 (superintendent: 'Mr. O'Neill. You are on.' [509] -> financial update [511-520]; Adrian: 'So, Mike' [557]; surname spelling per roster)"
+ },
+ "Speaker 9": {
+  "name": "Cory LeClair",
+  "role": "SAU 6 administrator, Assistant Superintendent per roster by Jan 2017; title not stated on this recording (superintendent: 'beside Corey LeClaire' [276] after [273-274]; curriculum teams and special education answers [553-556, 583-589]; cluster also holds counselor Susan Taylor, see overrides)"
+ },
+ "Speaker 10": {
+  "name": "Unidentified",
+  "role": "Unidentified - cluster of thanks and short remarks by several presenters and board members"
+ },
+ "Speaker 11": {
+  "name": "Unidentified",
+  "role": "Unidentified - elementary presenter's greeting [98]"
+ },
+ "Speaker 12": {
+  "name": "Melissa Lewis",
+  "role": "Elementary school principal (introduced with Dan Cherry and Mike Lansing [97]; quotes students saying 'Mrs. Lewis, we have a problem' [282]; names herself among 'Dan Cherry, Mike Lansing or Melissa Louis' [281])"
+ },
+ "Speaker 13": {
+  "name": "Dan Cherry",
+  "role": "Elementary school principal (superintendent: 'what I heard Dan say' [155] after [143-153]; Lewis: 'as Mr. Cherry said' [296, 302]; ASR 'Dan Sherry' [97]; spelling unverified)"
+ },
+ "Speaker 14": {
+  "name": "Michelle Pierce",
+  "role": "Claremont School Board member (Cherry: 'please, Michelle' [131] -> [132]; 'since I've become a member' [332]; recounts her daughter's out-of-district placement [604-605, 751-752], as Pierce does on 6/1/16)"
+ },
+ "Speaker 15": {
+  "name": "Unidentified",
+  "role": "Unidentified - short affirmations by middle school presentation team members [363-411]"
+ },
+ "Speaker 16": {
+  "name": "Frank Sprague",
+  "role": "Claremont School Board member (chair: 'Please, Frank.' [392] -> [393]; LeClair: 'Frank is correct that some of our children do have very profound disabilities' [553] after [549-551]; superintendent: 'Exactly. Frank.' [807] after [806])"
+ },
+ "Speaker 17": {
+  "name": "Michael Lansing",
+  "role": "Principal, Bluff Elementary School (superintendent: 'Mike Lansing, who is completing his first year as principal of Bluff' [97]; 'at bluff I use it' [150]; Bluff concert remarks [193-194])"
+ },
+ "Speaker 18": {
+  "name": "Unidentified",
+  "role": "Unidentified - two short remarks [161, 832]; [161] is overridden to Dan Cherry"
+ },
+ "Speaker 19": {
+  "name": "Patrick Adrian",
+  "role": "Claremont School Board member (O'Neill: 'What Patrick was just talking about' [573] after [557-562]; superintendent: 'To Patrick Adrian's point' [591])"
+ },
+ "Speaker 20": {
+  "name": "Paulette Fitzgerald",
+  "role": "Principal, Claremont Middle School (self-ID 'Paulette Fitzgerald, principal at the middle school' [341])"
+ },
+ "Speaker 21": {
+  "name": "Courtney Steele",
+  "role": "Special education teacher, Claremont Middle School (introduced by Fitzgerald [341]; attribution by elimination - this voice refers to 'Miss Taylor and Miss Harvey' [347] and 'Paulette' [381] in the third person)"
+ },
+ "Speaker 22": {
+  "name": "Felicia Harvey",
+  "role": "School counselor, Claremont Middle School (introduced [341, 415]; 'Sue and I do a majority of the scheduling' [453])"
+ },
+ "Speaker 23": {
+  "name": "Unidentified",
+  "role": "Unidentified - one remark during the counselors' presentation [438]"
+ },
+ "Speaker 24": {
+  "name": "Unidentified",
+  "role": "Unidentified - one remark during the financial update [683]"
+ },
+ "Speaker 25": {
+  "name": "Unidentified",
+  "role": "Unidentified - cluster of seconds, voice votes and roll-call answers"
+ },
+ "Speaker 26": {
+  "name": "Unidentified",
+  "role": "Unidentified - roll-call remarks on return from nonpublic [881]"
+ },
+ "__overrides__": {
+  "1": {
+   "name": "Unidentified",
+   "role": "Unidentified - group recitation of the Pledge of Allegiance"
+  },
+  "3": {
+   "name": "Unidentified",
+   "role": "Unidentified - roll-call answer"
+  },
+  "73": {
+   "name": "Cory LeClair"
+  },
+  "74": {
+   "name": "Cory LeClair"
+  },
+  "76": {
+   "name": "Cory LeClair"
+  },
+  "68": {
+   "name": "Unidentified",
+   "role": "Unidentified - short remark during the Life Skills presentation"
+  },
+  "161": {
+   "name": "Dan Cherry"
+  },
+  "489": {
+   "name": "Michelle Pierce"
+  },
+  "503": {
+   "name": "Patricia Barry"
+  },
+  "424": {
+   "name": "Paulette Fitzgerald"
+  },
+  "419": {
+   "name": "Susan Taylor",
+   "role": "School counselor, Claremont Middle School (introduced 'Felicia Harvey and Susan Taylor' [341]; Harvey: 'Sue and I' [453]; describes the 'road show' and transition meetings [449-452, 459-462])"
+  },
+  "425": {
+   "name": "Susan Taylor",
+   "role": "School counselor, Claremont Middle School (introduced 'Felicia Harvey and Susan Taylor' [341]; Harvey: 'Sue and I' [453]; describes the 'road show' and transition meetings [449-452, 459-462])"
+  },
+  "430": {
+   "name": "Susan Taylor",
+   "role": "School counselor, Claremont Middle School (introduced 'Felicia Harvey and Susan Taylor' [341]; Harvey: 'Sue and I' [453]; describes the 'road show' and transition meetings [449-452, 459-462])"
+  },
+  "432": {
+   "name": "Susan Taylor",
+   "role": "School counselor, Claremont Middle School (introduced 'Felicia Harvey and Susan Taylor' [341]; Harvey: 'Sue and I' [453]; describes the 'road show' and transition meetings [449-452, 459-462])"
+  },
+  "434": {
+   "name": "Susan Taylor",
+   "role": "School counselor, Claremont Middle School (introduced 'Felicia Harvey and Susan Taylor' [341]; Harvey: 'Sue and I' [453]; describes the 'road show' and transition meetings [449-452, 459-462])"
+  },
+  "441": {
+   "name": "Susan Taylor",
+   "role": "School counselor, Claremont Middle School (introduced 'Felicia Harvey and Susan Taylor' [341]; Harvey: 'Sue and I' [453]; describes the 'road show' and transition meetings [449-452, 459-462])"
+  },
+  "447": {
+   "name": "Susan Taylor",
+   "role": "School counselor, Claremont Middle School (introduced 'Felicia Harvey and Susan Taylor' [341]; Harvey: 'Sue and I' [453]; describes the 'road show' and transition meetings [449-452, 459-462])"
+  },
+  "449": {
+   "name": "Susan Taylor",
+   "role": "School counselor, Claremont Middle School (introduced 'Felicia Harvey and Susan Taylor' [341]; Harvey: 'Sue and I' [453]; describes the 'road show' and transition meetings [449-452, 459-462])"
+  },
+  "450": {
+   "name": "Susan Taylor",
+   "role": "School counselor, Claremont Middle School (introduced 'Felicia Harvey and Susan Taylor' [341]; Harvey: 'Sue and I' [453]; describes the 'road show' and transition meetings [449-452, 459-462])"
+  },
+  "451": {
+   "name": "Susan Taylor",
+   "role": "School counselor, Claremont Middle School (introduced 'Felicia Harvey and Susan Taylor' [341]; Harvey: 'Sue and I' [453]; describes the 'road show' and transition meetings [449-452, 459-462])"
+  },
+  "452": {
+   "name": "Susan Taylor",
+   "role": "School counselor, Claremont Middle School (introduced 'Felicia Harvey and Susan Taylor' [341]; Harvey: 'Sue and I' [453]; describes the 'road show' and transition meetings [449-452, 459-462])"
+  },
+  "459": {
+   "name": "Susan Taylor",
+   "role": "School counselor, Claremont Middle School (introduced 'Felicia Harvey and Susan Taylor' [341]; Harvey: 'Sue and I' [453]; describes the 'road show' and transition meetings [449-452, 459-462])"
+  },
+  "460": {
+   "name": "Susan Taylor",
+   "role": "School counselor, Claremont Middle School (introduced 'Felicia Harvey and Susan Taylor' [341]; Harvey: 'Sue and I' [453]; describes the 'road show' and transition meetings [449-452, 459-462])"
+  },
+  "461": {
+   "name": "Susan Taylor",
+   "role": "School counselor, Claremont Middle School (introduced 'Felicia Harvey and Susan Taylor' [341]; Harvey: 'Sue and I' [453]; describes the 'road show' and transition meetings [449-452, 459-462])"
+  },
+  "462": {
+   "name": "Susan Taylor",
+   "role": "School counselor, Claremont Middle School (introduced 'Felicia Harvey and Susan Taylor' [341]; Harvey: 'Sue and I' [453]; describes the 'road show' and transition meetings [449-452, 459-462])"
+  },
+  "466": {
+   "name": "Susan Taylor",
+   "role": "School counselor, Claremont Middle School (introduced 'Felicia Harvey and Susan Taylor' [341]; Harvey: 'Sue and I' [453]; describes the 'road show' and transition meetings [449-452, 459-462])"
+  },
+  "469": {
+   "name": "Susan Taylor",
+   "role": "School counselor, Claremont Middle School (introduced 'Felicia Harvey and Susan Taylor' [341]; Harvey: 'Sue and I' [453]; describes the 'road show' and transition meetings [449-452, 459-462])"
+  },
+  "471": {
+   "name": "Susan Taylor",
+   "role": "School counselor, Claremont Middle School (introduced 'Felicia Harvey and Susan Taylor' [341]; Harvey: 'Sue and I' [453]; describes the 'road show' and transition meetings [449-452, 459-462])"
+  },
+  "472": {
+   "name": "Susan Taylor",
+   "role": "School counselor, Claremont Middle School (introduced 'Felicia Harvey and Susan Taylor' [341]; Harvey: 'Sue and I' [453]; describes the 'road show' and transition meetings [449-452, 459-462])"
+  },
+  "474": {
+   "name": "Susan Taylor",
+   "role": "School counselor, Claremont Middle School (introduced 'Felicia Harvey and Susan Taylor' [341]; Harvey: 'Sue and I' [453]; describes the 'road show' and transition meetings [449-452, 459-462])"
+  },
+  "476": {
+   "name": "Susan Taylor",
+   "role": "School counselor, Claremont Middle School (introduced 'Felicia Harvey and Susan Taylor' [341]; Harvey: 'Sue and I' [453]; describes the 'road show' and transition meetings [449-452, 459-462])"
+  },
+  "477": {
+   "name": "Susan Taylor",
+   "role": "School counselor, Claremont Middle School (introduced 'Felicia Harvey and Susan Taylor' [341]; Harvey: 'Sue and I' [453]; describes the 'road show' and transition meetings [449-452, 459-462])"
+  },
+  "479": {
+   "name": "Susan Taylor",
+   "role": "School counselor, Claremont Middle School (introduced 'Felicia Harvey and Susan Taylor' [341]; Harvey: 'Sue and I' [453]; describes the 'road show' and transition meetings [449-452, 459-462])"
+  },
+  "484": {
+   "name": "Susan Taylor",
+   "role": "School counselor, Claremont Middle School (introduced 'Felicia Harvey and Susan Taylor' [341]; Harvey: 'Sue and I' [453]; describes the 'road show' and transition meetings [449-452, 459-462])"
+  },
+  "487": {
+   "name": "Susan Taylor",
+   "role": "School counselor, Claremont Middle School (introduced 'Felicia Harvey and Susan Taylor' [341]; Harvey: 'Sue and I' [453]; describes the 'road show' and transition meetings [449-452, 459-462])"
+  },
+  "488": {
+   "name": "Susan Taylor",
+   "role": "School counselor, Claremont Middle School (introduced 'Felicia Harvey and Susan Taylor' [341]; Harvey: 'Sue and I' [453]; describes the 'road show' and transition meetings [449-452, 459-462])"
+  },
+  "426": {
+   "name": "Susan Taylor"
+  },
+  "431": {
+   "name": "Susan Taylor"
+  },
+  "435": {
+   "name": "Susan Taylor"
+  },
+  "437": {
+   "name": "Susan Taylor"
+  },
+  "439": {
+   "name": "Susan Taylor"
+  },
+  "442": {
+   "name": "Susan Taylor"
+  },
+  "446": {
+   "name": "Susan Taylor"
+  },
+  "448": {
+   "name": "Susan Taylor"
+  }
+ }
+}

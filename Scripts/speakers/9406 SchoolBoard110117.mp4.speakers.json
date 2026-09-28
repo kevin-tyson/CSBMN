@@ -1,0 +1,354 @@
+{
+ "Speaker 1": {
+  "name": "Brian Rapp",
+  "role": "Claremont School Board Chair"
+ },
+ "Speaker 2": {
+  "name": "Unidentified",
+  "role": "Unidentified - cluster mixes board members, candidates and staff (short replies, seconds, oath repetitions); see overrides"
+ },
+ "Speaker 3": {
+  "name": "Michelle Pierce",
+  "role": "Claremont School Board member"
+ },
+ "Speaker 4": {
+  "name": "Lexi",
+  "role": "Student representative to the school board, Stevens High School (first name per superintendent and presenter, ASR 'Lexus', 'Lexie'; surname not on this recording)"
+ },
+ "Speaker 5": {
+  "name": "Middleton McGoodwin",
+  "role": "Superintendent, SAU 6"
+ },
+ "Speaker 6": {
+  "name": "Frank Sprague",
+  "role": "Claremont School Board member"
+ },
+ "Speaker 7": {
+  "name": "Unidentified",
+  "role": "Unidentified - short thank-yous and question coordination during candidate interviews (possibly the chair, uncertain)"
+ },
+ "Speaker 8": {
+  "name": "Brian Rapp",
+  "role": "Claremont School Board Chair"
+ },
+ "Speaker 9": {
+  "name": "George",
+  "role": "Candidate for appointment to the school board vacancy; former Claremont School Board member and chair (first name per board address; surname garbled, ASR 'Mr. Kookaburra')"
+ },
+ "Speaker 10": {
+  "name": "Alex Herzog",
+  "role": "Candidate for appointment, appointed and sworn in as Claremont School Board member this meeting"
+ },
+ "Speaker 11": {
+  "name": "Caitlin Kerr",
+  "role": "Candidate for appointment to the school board vacancy (self-ID)"
+ },
+ "Speaker 12": {
+  "name": "Unidentified",
+  "role": "Unidentified - backchannel fragments from several voices, mostly the bullying presenters"
+ },
+ "Speaker 13": {
+  "name": "Unidentified",
+  "role": "Unidentified - administers the oath of office to Herzog (identity not stated)"
+ },
+ "Speaker 14": {
+  "name": "Paul Gerald",
+  "role": "Principal, Claremont Middle School (name as introduced by superintendent; spelling unverified)"
+ },
+ "Speaker 15": {
+  "name": "Audra Buckland",
+  "role": "Assistant Principal, Claremont Middle School (name as introduced by superintendent; spelling unverified)"
+ },
+ "Speaker 16": {
+  "name": "Rebecca Zullo",
+  "role": "Claremont School Board member (uncertain - parent-handbook remarks later credited to 'Rebecca' by presenter)"
+ },
+ "Speaker 17": {
+  "name": "Rebecca Zullo",
+  "role": "Claremont School Board member"
+ },
+ "Speaker 18": {
+  "name": "Unidentified",
+  "role": "Unidentified - brief fragments"
+ },
+ "Speaker 19": {
+  "name": "Unidentified",
+  "role": "Unidentified - cluster of short interjections from several voices"
+ },
+ "Speaker 20": {
+  "name": "Cory LeClair",
+  "role": "Assistant Superintendent, SAU 6 (uncertain - superintendent refers to 'Corey' as having just spoken on the November 1st memo)"
+ },
+ "Speaker 21": {
+  "name": "Nathan",
+  "role": "SAU 6 administrator (first name per superintendent; surname and title not on this recording)"
+ },
+ "Speaker 22": {
+  "name": "Chris",
+  "role": "Director of Special Education, SAU 6 (inferred from superintendent's special education slides; surname garbled, ASR 'Chris Pisa', 'Krispy Zo')"
+ },
+ "Speaker 23": {
+  "name": "Chris",
+  "role": "Director of Special Education, SAU 6 (inferred from superintendent's special education slides; surname garbled, ASR 'Chris Pisa', 'Krispy Zo')"
+ },
+ "Speaker 24": {
+  "name": "Michael Petrin",
+  "role": "Claremont School Board member (uncertain - speaks after 'Mike' is recognized)"
+ },
+ "__overrides__": {
+  "95": {
+   "name": "Jason Benware",
+   "role": "Candidate for appointment to the school board vacancy (self-ID; ASR 'Jason. Ben, where' / 'Benoit')"
+  },
+  "96": {
+   "name": "Jason Benware",
+   "role": "Candidate for appointment to the school board vacancy (self-ID; ASR 'Jason. Ben, where' / 'Benoit')"
+  },
+  "97": {
+   "name": "Jason Benware",
+   "role": "Candidate for appointment to the school board vacancy (self-ID; ASR 'Jason. Ben, where' / 'Benoit')"
+  },
+  "98": {
+   "name": "Jason Benware",
+   "role": "Candidate for appointment to the school board vacancy (self-ID; ASR 'Jason. Ben, where' / 'Benoit')"
+  },
+  "99": {
+   "name": "Jason Benware",
+   "role": "Candidate for appointment to the school board vacancy (self-ID; ASR 'Jason. Ben, where' / 'Benoit')"
+  },
+  "100": {
+   "name": "Jason Benware",
+   "role": "Candidate for appointment to the school board vacancy (self-ID; ASR 'Jason. Ben, where' / 'Benoit')"
+  },
+  "105": {
+   "name": "Jason Benware",
+   "role": "Candidate for appointment to the school board vacancy (self-ID; ASR 'Jason. Ben, where' / 'Benoit')"
+  },
+  "106": {
+   "name": "Jason Benware",
+   "role": "Candidate for appointment to the school board vacancy (self-ID; ASR 'Jason. Ben, where' / 'Benoit')"
+  },
+  "107": {
+   "name": "Jason Benware",
+   "role": "Candidate for appointment to the school board vacancy (self-ID; ASR 'Jason. Ben, where' / 'Benoit')"
+  },
+  "110": {
+   "name": "Jason Benware",
+   "role": "Candidate for appointment to the school board vacancy (self-ID; ASR 'Jason. Ben, where' / 'Benoit')"
+  },
+  "111": {
+   "name": "Jason Benware",
+   "role": "Candidate for appointment to the school board vacancy (self-ID; ASR 'Jason. Ben, where' / 'Benoit')"
+  },
+  "112": {
+   "name": "Jason Benware",
+   "role": "Candidate for appointment to the school board vacancy (self-ID; ASR 'Jason. Ben, where' / 'Benoit')"
+  },
+  "118": {
+   "name": "Jason Benware",
+   "role": "Candidate for appointment to the school board vacancy (self-ID; ASR 'Jason. Ben, where' / 'Benoit')"
+  },
+  "119": {
+   "name": "Jason Benware",
+   "role": "Candidate for appointment to the school board vacancy (self-ID; ASR 'Jason. Ben, where' / 'Benoit')"
+  },
+  "120": {
+   "name": "Jason Benware",
+   "role": "Candidate for appointment to the school board vacancy (self-ID; ASR 'Jason. Ben, where' / 'Benoit')"
+  },
+  "121": {
+   "name": "Jason Benware",
+   "role": "Candidate for appointment to the school board vacancy (self-ID; ASR 'Jason. Ben, where' / 'Benoit')"
+  },
+  "124": {
+   "name": "Jason Benware",
+   "role": "Candidate for appointment to the school board vacancy (self-ID; ASR 'Jason. Ben, where' / 'Benoit')"
+  },
+  "125": {
+   "name": "Jason Benware",
+   "role": "Candidate for appointment to the school board vacancy (self-ID; ASR 'Jason. Ben, where' / 'Benoit')"
+  },
+  "126": {
+   "name": "Jason Benware",
+   "role": "Candidate for appointment to the school board vacancy (self-ID; ASR 'Jason. Ben, where' / 'Benoit')"
+  },
+  "142": {
+   "name": "Jason Benware",
+   "role": "Candidate for appointment to the school board vacancy (self-ID; ASR 'Jason. Ben, where' / 'Benoit')"
+  },
+  "143": {
+   "name": "Jason Benware",
+   "role": "Candidate for appointment to the school board vacancy (self-ID; ASR 'Jason. Ben, where' / 'Benoit')"
+  },
+  "144": {
+   "name": "Jason Benware",
+   "role": "Candidate for appointment to the school board vacancy (self-ID; ASR 'Jason. Ben, where' / 'Benoit')"
+  },
+  "145": {
+   "name": "Jason Benware",
+   "role": "Candidate for appointment to the school board vacancy (self-ID; ASR 'Jason. Ben, where' / 'Benoit')"
+  },
+  "148": {
+   "name": "Jason Benware",
+   "role": "Candidate for appointment to the school board vacancy (self-ID; ASR 'Jason. Ben, where' / 'Benoit')"
+  },
+  "149": {
+   "name": "Jason Benware",
+   "role": "Candidate for appointment to the school board vacancy (self-ID; ASR 'Jason. Ben, where' / 'Benoit')"
+  },
+  "151": {
+   "name": "Jason Benware",
+   "role": "Candidate for appointment to the school board vacancy (self-ID; ASR 'Jason. Ben, where' / 'Benoit')"
+  },
+  "86": {
+   "name": "Michael Petrin",
+   "role": "Claremont School Board member (uncertain - Q9 asker per chair's 'Mike, you want to start?'; voice merged with Sprague)"
+  },
+  "104": {
+   "name": "Michael Petrin",
+   "role": "Claremont School Board member (uncertain - Q9 asker per chair's 'Mike, you want to start?'; voice merged with Sprague)"
+  },
+  "173": {
+   "name": "Michael Petrin",
+   "role": "Claremont School Board member (uncertain - Q9 asker per chair's 'Mike, you want to start?'; voice merged with Sprague)"
+  },
+  "238": {
+   "name": "Michael Petrin",
+   "role": "Claremont School Board member (uncertain - Q9 asker per chair's 'Mike, you want to start?'; voice merged with Sprague)"
+  },
+  "285": {
+   "name": "Michael Petrin",
+   "role": "Claremont School Board member (uncertain - Q9 asker per chair's 'Mike, you want to start?'; voice merged with Sprague)"
+  },
+  "287": {
+   "name": "Michael Petrin",
+   "role": "Claremont School Board member (uncertain - Q9 asker per chair's 'Mike, you want to start?'; voice merged with Sprague)"
+  },
+  "50": {
+   "name": "Michael Petrin",
+   "role": "Claremont School Board member (uncertain - answers superintendent's call to 'Michael')"
+  },
+  "53": {
+   "name": "Michael Petrin",
+   "role": "Claremont School Board member (uncertain - answers superintendent's call to 'Michael')"
+  },
+  "58": {
+   "name": "Michael Petrin",
+   "role": "Claremont School Board member (uncertain - answers superintendent's call to 'Michael')"
+  },
+  "79": {
+   "name": "Michael Petrin",
+   "role": "Claremont School Board member (uncertain - answers superintendent's call to 'Michael')"
+  },
+  "83": {
+   "name": "Rebecca Zullo",
+   "role": "Claremont School Board member"
+  },
+  "109": {
+   "name": "Rebecca Zullo",
+   "role": "Claremont School Board member"
+  },
+  "113": {
+   "name": "Rebecca Zullo",
+   "role": "Claremont School Board member"
+  },
+  "244": {
+   "name": "Rebecca Zullo",
+   "role": "Claremont School Board member"
+  },
+  "251": {
+   "name": "Rebecca Zullo",
+   "role": "Claremont School Board member"
+  },
+  "291": {
+   "name": "Rebecca Zullo",
+   "role": "Claremont School Board member"
+  },
+  "295": {
+   "name": "Rebecca Zullo",
+   "role": "Claremont School Board member"
+  },
+  "226": {
+   "name": "Alex Herzog"
+  },
+  "341": {
+   "name": "Alex Herzog"
+  },
+  "351": {
+   "name": "Alex Herzog"
+  },
+  "353": {
+   "name": "Alex Herzog"
+  },
+  "355": {
+   "name": "Alex Herzog"
+  },
+  "357": {
+   "name": "Alex Herzog"
+  },
+  "359": {
+   "name": "Alex Herzog"
+  },
+  "361": {
+   "name": "Alex Herzog"
+  },
+  "363": {
+   "name": "Alex Herzog"
+  },
+  "365": {
+   "name": "Alex Herzog"
+  },
+  "367": {
+   "name": "Alex Herzog"
+  },
+  "369": {
+   "name": "Alex Herzog"
+  },
+  "371": {
+   "name": "Alex Herzog"
+  },
+  "373": {
+   "name": "Alex Herzog"
+  },
+  "375": {
+   "name": "Alex Herzog"
+  },
+  "377": {
+   "name": "Alex Herzog"
+  },
+  "379": {
+   "name": "Alex Herzog"
+  },
+  "381": {
+   "name": "Alex Herzog"
+  },
+  "3": {
+   "name": "Unidentified",
+   "role": "Unidentified - roll call (caller not identified; responses merged)"
+  },
+  "4": {
+   "name": "Unidentified",
+   "role": "Unidentified - roll call (caller not identified; responses merged)"
+  },
+  "350": {
+   "name": "Unidentified",
+   "role": "Unidentified - administers the oath of office to Herzog (identity not stated)"
+  },
+  "352": {
+   "name": "Unidentified",
+   "role": "Unidentified - administers the oath of office to Herzog (identity not stated)"
+  },
+  "392": {
+   "name": "Rebecca Zullo",
+   "role": "Claremont School Board member"
+  },
+  "394": {
+   "name": "Rebecca Zullo",
+   "role": "Claremont School Board member"
+  },
+  "395": {
+   "name": "Rebecca Zullo",
+   "role": "Claremont School Board member"
+  }
+ }
+}

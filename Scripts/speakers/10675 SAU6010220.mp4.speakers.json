@@ -1,0 +1,252 @@
+{
+ "Speaker 1": {
+  "name": "Unidentified",
+  "role": "Unidentified - short remarks and a second"
+ },
+ "Speaker 2": {
+  "name": "Michael Petrin",
+  "role": "SAU 6 Board Chair (Claremont member)"
+ },
+ "Speaker 3": {
+  "name": "Mary Woodman",
+  "role": "School District Clerk and recording secretary"
+ },
+ "Speaker 4": {
+  "name": "Jason Benware",
+  "role": "SAU 6 Board member (Claremont)"
+ },
+ "Speaker 5": {
+  "name": "Richard Seaman",
+  "role": "Business Administrator, SAU 6"
+ },
+ "Speaker 6": {
+  "name": "Unidentified",
+  "role": "Unidentified - SAU 6 Board member giving the Capital Improvement Committee update (Claremont CIC members include Heather Whitney and Rob Lovett Jr.; not determinable)"
+ },
+ "Speaker 7": {
+  "name": "Rebecca Zullo",
+  "role": "SAU 6 Board member (Claremont School Board Vice Chair)"
+ },
+ "Speaker 8": {
+  "name": "Michael Tempesta",
+  "role": "Superintendent, SAU 6"
+ },
+ "Speaker 9": {
+  "name": "Michael Tempesta",
+  "role": "Superintendent, SAU 6"
+ },
+ "Speaker 10": {
+  "name": "Marjorie Erickson",
+  "role": "SAU 6 Board Vice Chair (Unity)"
+ },
+ "Speaker 11": {
+  "name": "Unidentified",
+  "role": "Unidentified - SAU 6 Board member from Unity reporting on Unity budget meetings (possibly Shannon Popescu; uncertain)"
+ },
+ "Speaker 12": {
+  "name": "Unidentified",
+  "role": "Unidentified - short remarks by one or more board members"
+ },
+ "Speaker 13": {
+  "name": "Unidentified",
+  "role": "Unidentified - board member discussing meeting dates"
+ },
+ "Speaker 14": {
+  "name": "Gary Bader",
+  "role": "SAU 6 Board member (Unity) (chair calls him 'Terry' [318]; spelling per roster, unverified)"
+ },
+ "Speaker 15": {
+  "name": "Heather Whitney",
+  "role": "SAU 6 Board member (Claremont) (uncertain - cluster of short remarks; answers the chair's 'I had Heather first' at [338])"
+ },
+ "Speaker 16": {
+  "name": "Unidentified",
+  "role": "Unidentified - short remarks"
+ },
+ "Speaker 17": {
+  "name": "Carolyn Towle",
+  "role": "SAU 6 Board member (Claremont) (uncertain - Zullo answers her about the Medicaid letter with 'I found a[it,] Carolyn' [465])"
+ },
+ "__overrides__": {
+  "62": {
+   "name": "Frank Sprague",
+   "role": "SAU 6 Board member (Claremont School Board Chair)"
+  },
+  "87": {
+   "name": "Frank Sprague",
+   "role": "SAU 6 Board member (Claremont School Board Chair)"
+  },
+  "89": {
+   "name": "Frank Sprague",
+   "role": "SAU 6 Board member (Claremont School Board Chair)"
+  },
+  "91": {
+   "name": "Frank Sprague",
+   "role": "SAU 6 Board member (Claremont School Board Chair)"
+  },
+  "92": {
+   "name": "Frank Sprague",
+   "role": "SAU 6 Board member (Claremont School Board Chair)"
+  },
+  "93": {
+   "name": "Frank Sprague",
+   "role": "SAU 6 Board member (Claremont School Board Chair)"
+  },
+  "94": {
+   "name": "Frank Sprague",
+   "role": "SAU 6 Board member (Claremont School Board Chair)"
+  },
+  "96": {
+   "name": "Frank Sprague",
+   "role": "SAU 6 Board member (Claremont School Board Chair)"
+  },
+  "97": {
+   "name": "Frank Sprague",
+   "role": "SAU 6 Board member (Claremont School Board Chair)"
+  },
+  "99": {
+   "name": "Frank Sprague",
+   "role": "SAU 6 Board member (Claremont School Board Chair)"
+  },
+  "102": {
+   "name": "Frank Sprague",
+   "role": "SAU 6 Board member (Claremont School Board Chair)"
+  },
+  "103": {
+   "name": "Frank Sprague",
+   "role": "SAU 6 Board member (Claremont School Board Chair)"
+  },
+  "104": {
+   "name": "Frank Sprague",
+   "role": "SAU 6 Board member (Claremont School Board Chair)"
+  },
+  "106": {
+   "name": "Frank Sprague",
+   "role": "SAU 6 Board member (Claremont School Board Chair)"
+  },
+  "109": {
+   "name": "Frank Sprague",
+   "role": "SAU 6 Board member (Claremont School Board Chair)"
+  },
+  "110": {
+   "name": "Frank Sprague",
+   "role": "SAU 6 Board member (Claremont School Board Chair)"
+  },
+  "112": {
+   "name": "Frank Sprague",
+   "role": "SAU 6 Board member (Claremont School Board Chair)"
+  },
+  "114": {
+   "name": "Frank Sprague",
+   "role": "SAU 6 Board member (Claremont School Board Chair)"
+  },
+  "118": {
+   "name": "Frank Sprague",
+   "role": "SAU 6 Board member (Claremont School Board Chair)"
+  },
+  "120": {
+   "name": "Frank Sprague",
+   "role": "SAU 6 Board member (Claremont School Board Chair)"
+  },
+  "122": {
+   "name": "Frank Sprague",
+   "role": "SAU 6 Board member (Claremont School Board Chair)"
+  },
+  "140": {
+   "name": "Frank Sprague",
+   "role": "SAU 6 Board member (Claremont School Board Chair)"
+  },
+  "141": {
+   "name": "Frank Sprague",
+   "role": "SAU 6 Board member (Claremont School Board Chair)"
+  },
+  "142": {
+   "name": "Frank Sprague",
+   "role": "SAU 6 Board member (Claremont School Board Chair)"
+  },
+  "143": {
+   "name": "Frank Sprague",
+   "role": "SAU 6 Board member (Claremont School Board Chair)"
+  },
+  "144": {
+   "name": "Frank Sprague",
+   "role": "SAU 6 Board member (Claremont School Board Chair)"
+  },
+  "145": {
+   "name": "Frank Sprague",
+   "role": "SAU 6 Board member (Claremont School Board Chair)"
+  },
+  "149": {
+   "name": "Frank Sprague",
+   "role": "SAU 6 Board member (Claremont School Board Chair)"
+  },
+  "151": {
+   "name": "Frank Sprague",
+   "role": "SAU 6 Board member (Claremont School Board Chair)"
+  },
+  "153": {
+   "name": "Frank Sprague",
+   "role": "SAU 6 Board member (Claremont School Board Chair)"
+  },
+  "156": {
+   "name": "Frank Sprague",
+   "role": "SAU 6 Board member (Claremont School Board Chair)"
+  },
+  "160": {
+   "name": "Frank Sprague",
+   "role": "SAU 6 Board member (Claremont School Board Chair)"
+  },
+  "163": {
+   "name": "Frank Sprague",
+   "role": "SAU 6 Board member (Claremont School Board Chair)"
+  },
+  "48": {
+   "name": "Unidentified",
+   "role": "Unidentified - board member question misassigned to the superintendent's cluster"
+  },
+  "52": {
+   "name": "Unidentified",
+   "role": "Unidentified - board member question misassigned to the superintendent's cluster"
+  },
+  "55": {
+   "name": "Unidentified",
+   "role": "Unidentified - board member question misassigned to the superintendent's cluster"
+  },
+  "137": {
+   "name": "Unidentified",
+   "role": "Unidentified - board member question misassigned to the superintendent's cluster"
+  },
+  "318": {
+   "name": "Gary Bader",
+   "role": "SAU 6 Board member (Unity) (chair calls him 'Terry' [318]; spelling per roster, unverified)"
+  },
+  "319": {
+   "name": "Gary Bader",
+   "role": "SAU 6 Board member (Unity) (chair calls him 'Terry' [318]; spelling per roster, unverified)"
+  },
+  "279": {
+   "name": "Carolyn Towle",
+   "role": "SAU 6 Board member (Claremont) (uncertain - follows the chair's recognition 'Carolyn'; voice cluster otherwise Marjorie Erickson)"
+  },
+  "280": {
+   "name": "Carolyn Towle",
+   "role": "SAU 6 Board member (Claremont) (uncertain - follows the chair's recognition 'Carolyn'; voice cluster otherwise Marjorie Erickson)"
+  },
+  "340": {
+   "name": "Carolyn Towle",
+   "role": "SAU 6 Board member (Claremont) (uncertain - follows the chair's recognition 'Carolyn'; voice cluster otherwise Marjorie Erickson)"
+  },
+  "342": {
+   "name": "Carolyn Towle",
+   "role": "SAU 6 Board member (Claremont) (uncertain - follows the chair's recognition 'Carolyn'; voice cluster otherwise Marjorie Erickson)"
+  },
+  "344": {
+   "name": "Carolyn Towle",
+   "role": "SAU 6 Board member (Claremont) (uncertain - follows the chair's recognition 'Carolyn'; voice cluster otherwise Marjorie Erickson)"
+  },
+  "346": {
+   "name": "Carolyn Towle",
+   "role": "SAU 6 Board member (Claremont) (uncertain - follows the chair's recognition 'Carolyn'; voice cluster otherwise Marjorie Erickson)"
+  }
+ }
+}

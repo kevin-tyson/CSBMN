@@ -1,0 +1,1040 @@
+{
+  "Speaker 1": {
+    "name": "Unidentified speaker",
+    "role": "Pre-gavel crosstalk before the meeting is called to order; voice not distinguishable"
+  },
+  "Speaker 2": {
+    "name": "Heather Whitney",
+    "role": "School Board Chair"
+  },
+  "Speaker 3": {
+    "name": "Unidentified speaker",
+    "role": "Brief crosstalk, assent and sentence fragments; diarizer catch-all cluster - voice not distinguishable"
+  },
+  "Speaker 4": {
+    "name": "Noelle Kronberg",
+    "role": "School Board Clerk"
+  },
+  "Speaker 5": {
+    "name": "Kerry Kennedy",
+    "role": "Interim Superintendent, SAU 6"
+  },
+  "Speaker 6": {
+    "name": "William 'Bill' Madden",
+    "role": "School Board Member (the chair answers him by name in the next segment - 'Mr. Madden can call non public at any time if you'd like')"
+  },
+  "Speaker 7": {
+    "name": "Wayne Hemingway",
+    "role": "Public commenter; parent of a middle school student, Claremont resident, state representative and city councilor (self-identified)"
+  },
+  "Speaker 8": {
+    "name": "Matt Angell",
+    "role": "Interim Business Administrator, SAU 6"
+  },
+  "Speaker 9": {
+    "name": "Candace Crawford",
+    "role": "School Board Member; Finance Subcommittee Chair"
+  },
+  "Speaker 10": {
+    "name": "Kerry Kennedy",
+    "role": "Interim Superintendent, SAU 6 (sentence continuation clipped into a one-segment cluster)"
+  },
+  "Speaker 11": {
+    "name": "Mark Blount",
+    "role": "Principal, Maple Avenue School (ASR renders the surname 'Blunt')"
+  },
+  "Speaker 12": {
+    "name": "Unidentified speaker",
+    "role": "Brief crosstalk, assent and sentence fragments; diarizer catch-all cluster - voice not distinguishable"
+  },
+  "Speaker 13": {
+    "name": "Mark Blount",
+    "role": "Principal, Maple Avenue School (sentence continuation clipped into a one-segment cluster)"
+  },
+  "Speaker 14": {
+    "name": "William 'Bill' Madden",
+    "role": "School Board Member"
+  },
+  "Speaker 15": {
+    "name": "Unidentified speaker",
+    "role": "Brief crosstalk, assent and sentence fragments; diarizer catch-all cluster - voice not distinguishable"
+  },
+  "Speaker 16": {
+    "name": "Frank Sprague",
+    "role": "School Board Member"
+  },
+  "Speaker 17": {
+    "name": "Loren Howard",
+    "role": "School Board Member; delivers the Policy Subcommittee report"
+  },
+  "__overrides__": {
+    "2": {
+      "name": "Heather Whitney",
+      "role": "School Board Chair (leads the Pledge of Allegiance; group recitation captured as one voice)"
+    },
+    "4": {
+      "name": "Unidentified board member",
+      "role": "Roll-call response; voice not distinguishable"
+    },
+    "7": {
+      "name": "Unidentified board member",
+      "role": "Roll-call response; voice not distinguishable"
+    },
+    "21": {
+      "name": "Kerry Kennedy",
+      "role": "Interim Superintendent, SAU 6 (sentence continuation across a cluster flap)"
+    },
+    "22": {
+      "name": "Kerry Kennedy",
+      "role": "Interim Superintendent, SAU 6 (sentence continuation across a cluster flap)"
+    },
+    "38": {
+      "name": "Unidentified speaker",
+      "role": "Brief assent/crosstalk fragment clipped into the public commenter's cluster long after his turn ended; voice not distinguishable"
+    },
+    "64": {
+      "name": "Heather Whitney",
+      "role": "School Board Chair (sentence continuation across a cluster flap)"
+    },
+    "67": {
+      "name": "Matt Angell",
+      "role": "Interim Business Administrator, SAU 6 (answers the chair from an adjacent cluster)"
+    },
+    "69": {
+      "name": "Matt Angell",
+      "role": "Interim Business Administrator, SAU 6 (answers the chair from an adjacent cluster)"
+    },
+    "72": {
+      "name": "Matt Angell",
+      "role": "Interim Business Administrator, SAU 6 (sentence onset clipped into an adjacent cluster) - 'I generally' + 'do that'"
+    },
+    "74": {
+      "name": "Matt Angell",
+      "role": "Interim Business Administrator, SAU 6 (answers the chair from an adjacent cluster)"
+    },
+    "76": {
+      "name": "Matt Angell",
+      "role": "Interim Business Administrator, SAU 6 (answers the chair from an adjacent cluster)"
+    },
+    "89": {
+      "name": "Melissa Lewis",
+      "role": "Principal, Disnard Elementary School"
+    },
+    "90": {
+      "name": "Melissa Lewis",
+      "role": "Principal, Disnard Elementary School"
+    },
+    "91": {
+      "name": "Melissa Lewis",
+      "role": "Principal, Disnard Elementary School"
+    },
+    "92": {
+      "name": "Melissa Lewis",
+      "role": "Principal, Disnard Elementary School"
+    },
+    "93": {
+      "name": "Melissa Lewis",
+      "role": "Principal, Disnard Elementary School"
+    },
+    "94": {
+      "name": "Melissa Lewis",
+      "role": "Principal, Disnard Elementary School"
+    },
+    "95": {
+      "name": "Melissa Lewis",
+      "role": "Principal, Disnard Elementary School"
+    },
+    "96": {
+      "name": "Melissa Lewis",
+      "role": "Principal, Disnard Elementary School"
+    },
+    "97": {
+      "name": "Melissa Lewis",
+      "role": "Principal, Disnard Elementary School"
+    },
+    "98": {
+      "name": "Melissa Lewis",
+      "role": "Principal, Disnard Elementary School"
+    },
+    "99": {
+      "name": "Melissa Lewis",
+      "role": "Principal, Disnard Elementary School"
+    },
+    "100": {
+      "name": "Melissa Lewis",
+      "role": "Principal, Disnard Elementary School"
+    },
+    "101": {
+      "name": "Melissa Lewis",
+      "role": "Principal, Disnard Elementary School"
+    },
+    "102": {
+      "name": "Melissa Lewis",
+      "role": "Principal, Disnard Elementary School"
+    },
+    "103": {
+      "name": "Melissa Lewis",
+      "role": "Principal, Disnard Elementary School"
+    },
+    "104": {
+      "name": "Melissa Lewis",
+      "role": "Principal, Disnard Elementary School"
+    },
+    "105": {
+      "name": "Melissa Lewis",
+      "role": "Principal, Disnard Elementary School"
+    },
+    "106": {
+      "name": "Melissa Lewis",
+      "role": "Principal, Disnard Elementary School"
+    },
+    "107": {
+      "name": "William 'Bill' Madden",
+      "role": "School Board Member (sentence onset clipped into an adjacent cluster)"
+    },
+    "108": {
+      "name": "William 'Bill' Madden",
+      "role": "School Board Member (merged into the Maple Ave principal's cluster; the printed-handout confusion he returns to later - 'you give us this and it's all cut off')"
+    },
+    "109": {
+      "name": "Melissa Lewis",
+      "role": "Principal, Disnard Elementary School"
+    },
+    "111": {
+      "name": "Melissa Lewis",
+      "role": "Principal, Disnard Elementary School"
+    },
+    "112": {
+      "name": "William 'Bill' Madden",
+      "role": "School Board Member (sentence continuation across a cluster flap)"
+    },
+    "113": {
+      "name": "William 'Bill' Madden",
+      "role": "School Board Member (merged into the Maple Ave principal's cluster; the printed-handout confusion he returns to later - 'you give us this and it's all cut off')"
+    },
+    "114": {
+      "name": "Melissa Lewis",
+      "role": "Principal, Disnard Elementary School"
+    },
+    "117": {
+      "name": "Melissa Lewis",
+      "role": "Principal, Disnard Elementary School"
+    },
+    "118": {
+      "name": "Melissa Lewis",
+      "role": "Principal, Disnard Elementary School (sentence continuation across a cluster flap)"
+    },
+    "119": {
+      "name": "William 'Bill' Madden",
+      "role": "School Board Member (merged into the Maple Ave principal's cluster; the printed-handout confusion he returns to later - 'you give us this and it's all cut off')"
+    },
+    "120": {
+      "name": "William 'Bill' Madden",
+      "role": "School Board Member (merged into the Maple Ave principal's cluster; the printed-handout confusion he returns to later - 'you give us this and it's all cut off')"
+    },
+    "123": {
+      "name": "Melissa Lewis",
+      "role": "Principal, Disnard Elementary School"
+    },
+    "125": {
+      "name": "Melissa Lewis",
+      "role": "Principal, Disnard Elementary School"
+    },
+    "127": {
+      "name": "William 'Bill' Madden",
+      "role": "School Board Member (merged into the Maple Ave principal's cluster; the printed-handout confusion he returns to later - 'you give us this and it's all cut off')"
+    },
+    "128": {
+      "name": "Melissa Lewis",
+      "role": "Principal, Disnard Elementary School (segment opens with a board member's 'Yeah I see' and runs on into her sentence - mid-segment voice mix the schema cannot split)"
+    },
+    "129": {
+      "name": "Melissa Lewis",
+      "role": "Principal, Disnard Elementary School"
+    },
+    "131": {
+      "name": "Melissa Lewis",
+      "role": "Principal, Disnard Elementary School"
+    },
+    "133": {
+      "name": "Melissa Lewis",
+      "role": "Principal, Disnard Elementary School"
+    },
+    "135": {
+      "name": "Melissa Lewis",
+      "role": "Principal, Disnard Elementary School (sentence continuation across a cluster flap)"
+    },
+    "136": {
+      "name": "Melissa Lewis",
+      "role": "Principal, Disnard Elementary School"
+    },
+    "137": {
+      "name": "Melissa Lewis",
+      "role": "Principal, Disnard Elementary School"
+    },
+    "139": {
+      "name": "Melissa Lewis",
+      "role": "Principal, Disnard Elementary School"
+    },
+    "140": {
+      "name": "Frank Sprague",
+      "role": "School Board Member (sentence onset clipped into an adjacent cluster)"
+    },
+    "141": {
+      "name": "Frank Sprague",
+      "role": "School Board Member (merged into the Maple Ave principal's cluster; test-data questions - matches his own 'my own lived experience at the high school' idiom two turns later)"
+    },
+    "143": {
+      "name": "Frank Sprague",
+      "role": "School Board Member (merged into the Maple Ave principal's cluster; test-data questions - matches his own 'my own lived experience at the high school' idiom two turns later)"
+    },
+    "144": {
+      "name": "Melissa Lewis",
+      "role": "Principal, Disnard Elementary School"
+    },
+    "145": {
+      "name": "Frank Sprague",
+      "role": "School Board Member (merged into the Maple Ave principal's cluster; test-data questions - matches his own 'my own lived experience at the high school' idiom two turns later)"
+    },
+    "146": {
+      "name": "Melissa Lewis",
+      "role": "Principal, Disnard Elementary School"
+    },
+    "147": {
+      "name": "Frank Sprague",
+      "role": "School Board Member (merged into the Maple Ave principal's cluster; test-data questions - matches his own 'my own lived experience at the high school' idiom two turns later)"
+    },
+    "149": {
+      "name": "Melissa Lewis",
+      "role": "Principal, Disnard Elementary School"
+    },
+    "151": {
+      "name": "Melissa Lewis",
+      "role": "Principal, Disnard Elementary School"
+    },
+    "152": {
+      "name": "Frank Sprague",
+      "role": "School Board Member (merged into the Maple Ave principal's cluster; test-data questions - matches his own 'my own lived experience at the high school' idiom two turns later)"
+    },
+    "153": {
+      "name": "Melissa Lewis",
+      "role": "Principal, Disnard Elementary School"
+    },
+    "154": {
+      "name": "Frank Sprague",
+      "role": "School Board Member (merged into the Maple Ave principal's cluster; test-data questions - matches his own 'my own lived experience at the high school' idiom two turns later)"
+    },
+    "156": {
+      "name": "Melissa Lewis",
+      "role": "Principal, Disnard Elementary School"
+    },
+    "157": {
+      "name": "Melissa Lewis",
+      "role": "Principal, Disnard Elementary School"
+    },
+    "159": {
+      "name": "Melissa Lewis",
+      "role": "Principal, Disnard Elementary School"
+    },
+    "160": {
+      "name": "Melissa Lewis",
+      "role": "Principal, Disnard Elementary School"
+    },
+    "162": {
+      "name": "Melissa Lewis",
+      "role": "Principal, Disnard Elementary School"
+    },
+    "164": {
+      "name": "Melissa Lewis",
+      "role": "Principal, Disnard Elementary School"
+    },
+    "165": {
+      "name": "Melissa Lewis",
+      "role": "Principal, Disnard Elementary School"
+    },
+    "166": {
+      "name": "Melissa Lewis",
+      "role": "Principal, Disnard Elementary School"
+    },
+    "167": {
+      "name": "Melissa Lewis",
+      "role": "Principal, Disnard Elementary School"
+    },
+    "168": {
+      "name": "Melissa Lewis",
+      "role": "Principal, Disnard Elementary School"
+    },
+    "169": {
+      "name": "Melissa Lewis",
+      "role": "Principal, Disnard Elementary School"
+    },
+    "170": {
+      "name": "Melissa Lewis",
+      "role": "Principal, Disnard Elementary School"
+    },
+    "171": {
+      "name": "Melissa Lewis",
+      "role": "Principal, Disnard Elementary School"
+    },
+    "172": {
+      "name": "Melissa Lewis",
+      "role": "Principal, Disnard Elementary School"
+    },
+    "173": {
+      "name": "Melissa Lewis",
+      "role": "Principal, Disnard Elementary School"
+    },
+    "174": {
+      "name": "Melissa Lewis",
+      "role": "Principal, Disnard Elementary School"
+    },
+    "175": {
+      "name": "Melissa Lewis",
+      "role": "Principal, Disnard Elementary School"
+    },
+    "176": {
+      "name": "Melissa Lewis",
+      "role": "Principal, Disnard Elementary School"
+    },
+    "177": {
+      "name": "Melissa Lewis",
+      "role": "Principal, Disnard Elementary School"
+    },
+    "178": {
+      "name": "Melissa Lewis",
+      "role": "Principal, Disnard Elementary School"
+    },
+    "179": {
+      "name": "Melissa Lewis",
+      "role": "Principal, Disnard Elementary School"
+    },
+    "180": {
+      "name": "Melissa Lewis",
+      "role": "Principal, Disnard Elementary School"
+    },
+    "181": {
+      "name": "Melissa Lewis",
+      "role": "Principal, Disnard Elementary School"
+    },
+    "182": {
+      "name": "Melissa Lewis",
+      "role": "Principal, Disnard Elementary School"
+    },
+    "183": {
+      "name": "Melissa Lewis",
+      "role": "Principal, Disnard Elementary School"
+    },
+    "184": {
+      "name": "Melissa Lewis",
+      "role": "Principal, Disnard Elementary School"
+    },
+    "185": {
+      "name": "Melissa Lewis",
+      "role": "Principal, Disnard Elementary School"
+    },
+    "186": {
+      "name": "Melissa Lewis",
+      "role": "Principal, Disnard Elementary School"
+    },
+    "187": {
+      "name": "Melissa Lewis",
+      "role": "Principal, Disnard Elementary School"
+    },
+    "188": {
+      "name": "Melissa Lewis",
+      "role": "Principal, Disnard Elementary School"
+    },
+    "189": {
+      "name": "Melissa Lewis",
+      "role": "Principal, Disnard Elementary School"
+    },
+    "190": {
+      "name": "Melissa Lewis",
+      "role": "Principal, Disnard Elementary School"
+    },
+    "191": {
+      "name": "Melissa Lewis",
+      "role": "Principal, Disnard Elementary School"
+    },
+    "192": {
+      "name": "Melissa Lewis",
+      "role": "Principal, Disnard Elementary School"
+    },
+    "193": {
+      "name": "Melissa Lewis",
+      "role": "Principal, Disnard Elementary School"
+    },
+    "194": {
+      "name": "Melissa Lewis",
+      "role": "Principal, Disnard Elementary School"
+    },
+    "195": {
+      "name": "Melissa Lewis",
+      "role": "Principal, Disnard Elementary School"
+    },
+    "197": {
+      "name": "Melissa Lewis",
+      "role": "Principal, Disnard Elementary School"
+    },
+    "198": {
+      "name": "Melissa Lewis",
+      "role": "Principal, Disnard Elementary School"
+    },
+    "199": {
+      "name": "Melissa Lewis",
+      "role": "Principal, Disnard Elementary School"
+    },
+    "200": {
+      "name": "Melissa Lewis",
+      "role": "Principal, Disnard Elementary School"
+    },
+    "201": {
+      "name": "Melissa Lewis",
+      "role": "Principal, Disnard Elementary School"
+    },
+    "202": {
+      "name": "Melissa Lewis",
+      "role": "Principal, Disnard Elementary School"
+    },
+    "203": {
+      "name": "Melissa Lewis",
+      "role": "Principal, Disnard Elementary School"
+    },
+    "204": {
+      "name": "Melissa Lewis",
+      "role": "Principal, Disnard Elementary School"
+    },
+    "205": {
+      "name": "Melissa Lewis",
+      "role": "Principal, Disnard Elementary School"
+    },
+    "206": {
+      "name": "Melissa Lewis",
+      "role": "Principal, Disnard Elementary School"
+    },
+    "207": {
+      "name": "Melissa Lewis",
+      "role": "Principal, Disnard Elementary School (sentence continuation across a cluster flap)"
+    },
+    "208": {
+      "name": "Melissa Lewis",
+      "role": "Principal, Disnard Elementary School"
+    },
+    "209": {
+      "name": "Melissa Lewis",
+      "role": "Principal, Disnard Elementary School"
+    },
+    "210": {
+      "name": "Melissa Lewis",
+      "role": "Principal, Disnard Elementary School"
+    },
+    "211": {
+      "name": "Melissa Lewis",
+      "role": "Principal, Disnard Elementary School"
+    },
+    "212": {
+      "name": "Melissa Lewis",
+      "role": "Principal, Disnard Elementary School"
+    },
+    "213": {
+      "name": "William 'Bill' Madden",
+      "role": "School Board Member (uncertain - merged male cluster; homework question, attributed to Madden because the chair recognizes Sprague immediately afterward and he answers 'No question')"
+    },
+    "214": {
+      "name": "William 'Bill' Madden",
+      "role": "School Board Member (uncertain - continues the preceding segment at a zero gap; see [213])"
+    },
+    "215": {
+      "name": "Melissa Lewis",
+      "role": "Principal, Disnard Elementary School"
+    },
+    "216": {
+      "name": "Melissa Lewis",
+      "role": "Principal, Disnard Elementary School"
+    },
+    "217": {
+      "name": "Melissa Lewis",
+      "role": "Principal, Disnard Elementary School"
+    },
+    "219": {
+      "name": "Frank Sprague",
+      "role": "School Board Member (the chair recognizes 'Mr. Sprague' in the preceding segment)"
+    },
+    "220": {
+      "name": "Melissa Lewis",
+      "role": "Principal, Disnard Elementary School (sentence continuation across a cluster flap)"
+    },
+    "221": {
+      "name": "Frank Sprague",
+      "role": "School Board Member (the chair recognizes 'Mr. Sprague' in the preceding segment)"
+    },
+    "222": {
+      "name": "Frank Sprague",
+      "role": "School Board Member (the chair recognizes 'Mr. Sprague' in the preceding segment)"
+    },
+    "224": {
+      "name": "Frank Sprague",
+      "role": "School Board Member (the chair recognizes 'Mr. Sprague' in the preceding segment)"
+    },
+    "225": {
+      "name": "Melissa Lewis",
+      "role": "Principal, Disnard Elementary School"
+    },
+    "226": {
+      "name": "Frank Sprague",
+      "role": "School Board Member (the chair recognizes 'Mr. Sprague' in the preceding segment)"
+    },
+    "227": {
+      "name": "Melissa Lewis",
+      "role": "Principal, Disnard Elementary School"
+    },
+    "228": {
+      "name": "Frank Sprague",
+      "role": "School Board Member (the chair recognizes 'Mr. Sprague' in the preceding segment)"
+    },
+    "229": {
+      "name": "Frank Sprague",
+      "role": "School Board Member (sentence continuation across a cluster flap)"
+    },
+    "231": {
+      "name": "William 'Bill' Madden",
+      "role": "School Board Member (the chair recognizes 'Mr. Madden' in the preceding segment)"
+    },
+    "232": {
+      "name": "William 'Bill' Madden",
+      "role": "School Board Member (sentence continuation across a cluster flap)"
+    },
+    "233": {
+      "name": "William 'Bill' Madden",
+      "role": "School Board Member (the chair recognizes 'Mr. Madden' in the preceding segment)"
+    },
+    "234": {
+      "name": "Melissa Lewis",
+      "role": "Principal, Disnard Elementary School (sentence continuation across a cluster flap)"
+    },
+    "235": {
+      "name": "William 'Bill' Madden",
+      "role": "School Board Member (the chair recognizes 'Mr. Madden' in the preceding segment)"
+    },
+    "236": {
+      "name": "William 'Bill' Madden",
+      "role": "School Board Member (sentence continuation across a cluster flap)"
+    },
+    "237": {
+      "name": "William 'Bill' Madden",
+      "role": "School Board Member (the chair recognizes 'Mr. Madden' in the preceding segment)"
+    },
+    "238": {
+      "name": "William 'Bill' Madden",
+      "role": "School Board Member (sentence continuation across a cluster flap)"
+    },
+    "239": {
+      "name": "Melissa Lewis",
+      "role": "Principal, Disnard Elementary School"
+    },
+    "240": {
+      "name": "William 'Bill' Madden",
+      "role": "School Board Member (the chair recognizes 'Mr. Madden' in the preceding segment)"
+    },
+    "241": {
+      "name": "William 'Bill' Madden",
+      "role": "School Board Member (sentence continuation across a cluster flap)"
+    },
+    "242": {
+      "name": "William 'Bill' Madden",
+      "role": "School Board Member (the chair recognizes 'Mr. Madden' in the preceding segment)"
+    },
+    "243": {
+      "name": "Melissa Lewis",
+      "role": "Principal, Disnard Elementary School"
+    },
+    "245": {
+      "name": "Melissa Lewis",
+      "role": "Principal, Disnard Elementary School"
+    },
+    "247": {
+      "name": "Melissa Lewis",
+      "role": "Principal, Disnard Elementary School"
+    },
+    "248": {
+      "name": "William 'Bill' Madden",
+      "role": "School Board Member (sentence onset clipped into an adjacent cluster)"
+    },
+    "249": {
+      "name": "William 'Bill' Madden",
+      "role": "School Board Member (the chair recognizes 'Mr. Madden' in the preceding segment)"
+    },
+    "250": {
+      "name": "Melissa Lewis",
+      "role": "Principal, Disnard Elementary School"
+    },
+    "251": {
+      "name": "Melissa Lewis",
+      "role": "Principal, Disnard Elementary School"
+    },
+    "253": {
+      "name": "William 'Bill' Madden",
+      "role": "School Board Member (the chair recognizes 'Mr. Madden' in the preceding segment)"
+    },
+    "255": {
+      "name": "William 'Bill' Madden",
+      "role": "School Board Member (the chair recognizes 'Mr. Madden' in the preceding segment)"
+    },
+    "256": {
+      "name": "Melissa Lewis",
+      "role": "Principal, Disnard Elementary School"
+    },
+    "257": {
+      "name": "Melissa Lewis",
+      "role": "Principal, Disnard Elementary School (sentence continuation across a cluster flap)"
+    },
+    "258": {
+      "name": "Melissa Lewis",
+      "role": "Principal, Disnard Elementary School (sentence continuation across a cluster flap)"
+    },
+    "259": {
+      "name": "Melissa Lewis",
+      "role": "Principal, Disnard Elementary School"
+    },
+    "260": {
+      "name": "William 'Bill' Madden",
+      "role": "School Board Member (the chair recognizes 'Mr. Madden' in the preceding segment)"
+    },
+    "261": {
+      "name": "Melissa Lewis",
+      "role": "Principal, Disnard Elementary School"
+    },
+    "263": {
+      "name": "Melissa Lewis",
+      "role": "Principal, Disnard Elementary School"
+    },
+    "265": {
+      "name": "Melissa Lewis",
+      "role": "Principal, Disnard Elementary School"
+    },
+    "267": {
+      "name": "Melissa Lewis",
+      "role": "Principal, Disnard Elementary School"
+    },
+    "269": {
+      "name": "Melissa Lewis",
+      "role": "Principal, Disnard Elementary School"
+    },
+    "270": {
+      "name": "Melissa Lewis",
+      "role": "Principal, Disnard Elementary School"
+    },
+    "271": {
+      "name": "Melissa Lewis",
+      "role": "Principal, Disnard Elementary School"
+    },
+    "273": {
+      "name": "Melissa Lewis",
+      "role": "Principal, Disnard Elementary School"
+    },
+    "275": {
+      "name": "Melissa Lewis",
+      "role": "Principal, Disnard Elementary School"
+    },
+    "277": {
+      "name": "Melissa Lewis",
+      "role": "Principal, Disnard Elementary School"
+    },
+    "279": {
+      "name": "Melissa Lewis",
+      "role": "Principal, Disnard Elementary School"
+    },
+    "280": {
+      "name": "Melissa Lewis",
+      "role": "Principal, Disnard Elementary School"
+    },
+    "281": {
+      "name": "Melissa Lewis",
+      "role": "Principal, Disnard Elementary School"
+    },
+    "283": {
+      "name": "Melissa Lewis",
+      "role": "Principal, Disnard Elementary School"
+    },
+    "285": {
+      "name": "Melissa Lewis",
+      "role": "Principal, Disnard Elementary School"
+    },
+    "286": {
+      "name": "Melissa Lewis",
+      "role": "Principal, Disnard Elementary School"
+    },
+    "288": {
+      "name": "Melissa Lewis",
+      "role": "Principal, Disnard Elementary School"
+    },
+    "290": {
+      "name": "Melissa Lewis",
+      "role": "Principal, Disnard Elementary School"
+    },
+    "291": {
+      "name": "Melissa Lewis",
+      "role": "Principal, Disnard Elementary School"
+    },
+    "292": {
+      "name": "Melissa Lewis",
+      "role": "Principal, Disnard Elementary School"
+    },
+    "295": {
+      "name": "Melissa Lewis",
+      "role": "Principal, Disnard Elementary School"
+    },
+    "296": {
+      "name": "Melissa Lewis",
+      "role": "Principal, Disnard Elementary School"
+    },
+    "297": {
+      "name": "Melissa Lewis",
+      "role": "Principal, Disnard Elementary School"
+    },
+    "298": {
+      "name": "Melissa Lewis",
+      "role": "Principal, Disnard Elementary School"
+    },
+    "301": {
+      "name": "Melissa Lewis",
+      "role": "Principal, Disnard Elementary School"
+    },
+    "302": {
+      "name": "Melissa Lewis",
+      "role": "Principal, Disnard Elementary School"
+    },
+    "303": {
+      "name": "Melissa Lewis",
+      "role": "Principal, Disnard Elementary School"
+    },
+    "306": {
+      "name": "Mark Blount",
+      "role": "Principal, Maple Avenue School (ASR renders the surname 'Blunt') (sentence continuation across a cluster flap)"
+    },
+    "308": {
+      "name": "Mark Blount",
+      "role": "Principal, Maple Avenue School (ASR renders the surname 'Blunt') (sentence continuation across a cluster flap)"
+    },
+    "310": {
+      "name": "Mark Blount",
+      "role": "Principal, Maple Avenue School (ASR renders the surname 'Blunt') (sentence continuation across a cluster flap)"
+    },
+    "311": {
+      "name": "Mark Blount",
+      "role": "Principal, Maple Avenue School (ASR renders the surname 'Blunt') (sentence continuation across a cluster flap)"
+    },
+    "312": {
+      "name": "Mark Blount",
+      "role": "Principal, Maple Avenue School (ASR renders the surname 'Blunt') (sentence continuation across a cluster flap)"
+    },
+    "314": {
+      "name": "Mark Blount",
+      "role": "Principal, Maple Avenue School (ASR renders the surname 'Blunt') (sentence continuation across a cluster flap)"
+    },
+    "316": {
+      "name": "Mark Blount",
+      "role": "Principal, Maple Avenue School (ASR renders the surname 'Blunt') (sentence continuation across a cluster flap)"
+    },
+    "334": {
+      "name": "Mark Blount",
+      "role": "Principal, Maple Avenue School (ASR renders the surname 'Blunt') (opens with the chair's 'Thank you' and runs on into his 'Is there any questions?' - mid-segment voice mix)"
+    },
+    "336": {
+      "name": "Candace Crawford",
+      "role": "School Board Member; Finance Subcommittee Chair (UNCERTAIN - the principal says 'Yes, sir. Bill.' immediately before this exchange, so some or all of it may be William Madden; the diarizer keeps it in Crawford's cluster and the principal names her at the end of it)"
+    },
+    "338": {
+      "name": "Candace Crawford",
+      "role": "School Board Member; Finance Subcommittee Chair (UNCERTAIN - the principal says 'Yes, sir. Bill.' immediately before this exchange, so some or all of it may be William Madden; the diarizer keeps it in Crawford's cluster and the principal names her at the end of it)"
+    },
+    "340": {
+      "name": "Candace Crawford",
+      "role": "School Board Member; Finance Subcommittee Chair (UNCERTAIN - the principal says 'Yes, sir. Bill.' immediately before this exchange, so some or all of it may be William Madden; the diarizer keeps it in Crawford's cluster and the principal names her at the end of it)"
+    },
+    "342": {
+      "name": "Candace Crawford",
+      "role": "School Board Member; Finance Subcommittee Chair (UNCERTAIN - the principal says 'Yes, sir. Bill.' immediately before this exchange, so some or all of it may be William Madden; the diarizer keeps it in Crawford's cluster and the principal names her at the end of it)"
+    },
+    "344": {
+      "name": "Candace Crawford",
+      "role": "School Board Member; Finance Subcommittee Chair (UNCERTAIN - the principal says 'Yes, sir. Bill.' immediately before this exchange, so some or all of it may be William Madden; the diarizer keeps it in Crawford's cluster and the principal names her at the end of it)"
+    },
+    "346": {
+      "name": "Candace Crawford",
+      "role": "School Board Member; Finance Subcommittee Chair (UNCERTAIN - the principal says 'Yes, sir. Bill.' immediately before this exchange, so some or all of it may be William Madden; the diarizer keeps it in Crawford's cluster and the principal names her at the end of it)"
+    },
+    "348": {
+      "name": "Candace Crawford",
+      "role": "School Board Member; Finance Subcommittee Chair (UNCERTAIN - the principal says 'Yes, sir. Bill.' immediately before this exchange, so some or all of it may be William Madden; the diarizer keeps it in Crawford's cluster and the principal names her at the end of it)"
+    },
+    "350": {
+      "name": "Candace Crawford",
+      "role": "School Board Member; Finance Subcommittee Chair (UNCERTAIN - the principal says 'Yes, sir. Bill.' immediately before this exchange, so some or all of it may be William Madden; the diarizer keeps it in Crawford's cluster and the principal names her at the end of it)"
+    },
+    "352": {
+      "name": "Candace Crawford",
+      "role": "School Board Member; Finance Subcommittee Chair (UNCERTAIN - the principal says 'Yes, sir. Bill.' immediately before this exchange, so some or all of it may be William Madden; the diarizer keeps it in Crawford's cluster and the principal names her at the end of it)"
+    },
+    "354": {
+      "name": "Candace Crawford",
+      "role": "School Board Member; Finance Subcommittee Chair (UNCERTAIN - the principal says 'Yes, sir. Bill.' immediately before this exchange, so some or all of it may be William Madden; the diarizer keeps it in Crawford's cluster and the principal names her at the end of it)"
+    },
+    "356": {
+      "name": "Candace Crawford",
+      "role": "School Board Member; Finance Subcommittee Chair (UNCERTAIN - the principal says 'Yes, sir. Bill.' immediately before this exchange, so some or all of it may be William Madden; the diarizer keeps it in Crawford's cluster and the principal names her at the end of it)"
+    },
+    "377": {
+      "name": "William 'Bill' Madden",
+      "role": "School Board Member (sentence onset clipped into an adjacent cluster)"
+    },
+    "379": {
+      "name": "William 'Bill' Madden",
+      "role": "School Board Member (sentence continuation across a cluster flap)"
+    },
+    "413": {
+      "name": "Heather Whitney",
+      "role": "School Board Chair (chair's recognition of the next speaker, absorbed into an adjacent cluster)"
+    },
+    "414": {
+      "name": "Frank Sprague",
+      "role": "School Board Member (sentence onset clipped into an adjacent cluster) - 'I'd' + 'like to make a motion'"
+    },
+    "426": {
+      "name": "Heather Whitney",
+      "role": "School Board Chair (chair's recognition of the next speaker, absorbed into an adjacent cluster)"
+    },
+    "431": {
+      "name": "Kerry Kennedy",
+      "role": "Interim Superintendent, SAU 6 (sentence onset clipped into an adjacent cluster)"
+    },
+    "436": {
+      "name": "Loren Howard",
+      "role": "School Board Member; delivers the Policy Subcommittee report (sentence continuation across a cluster flap)"
+    },
+    "467": {
+      "name": "Matt Angell",
+      "role": "Interim Business Administrator, SAU 6 (sentence continuation across a cluster flap) - 'Okay, I'll' + 'read it'"
+    },
+    "470": {
+      "name": "Matt Angell",
+      "role": "Interim Business Administrator, SAU 6 (sentence onset clipped into an adjacent cluster)"
+    },
+    "494": {
+      "name": "Noelle Kronberg",
+      "role": "School Board Clerk (sentence continuation across a cluster flap)"
+    },
+    "572": {
+      "name": "Heather Whitney",
+      "role": "School Board Chair (sentence continuation across a cluster flap) - 'we probably' + 'should'"
+    },
+    "582": {
+      "name": "Loren Howard",
+      "role": "School Board Member; delivers the Policy Subcommittee report (sentence onset clipped into an adjacent cluster) - 'I would' + 'accept that'"
+    },
+    "628": {
+      "name": "Loren Howard",
+      "role": "School Board Member; delivers the Policy Subcommittee report (his own words 'and Melissa Lewis was there', split across three clusters)"
+    },
+    "629": {
+      "name": "Loren Howard",
+      "role": "School Board Member; delivers the Policy Subcommittee report (his own words 'and Melissa Lewis was there', split across three clusters)"
+    },
+    "645": {
+      "name": "Heather Whitney",
+      "role": "School Board Chair (sentence continuation across a cluster flap)"
+    },
+    "655": {
+      "name": "Unidentified speaker",
+      "role": "Brief assent/crosstalk fragment clipped into the public commenter's cluster long after his turn ended; voice not distinguishable"
+    },
+    "657": {
+      "name": "Unidentified speaker",
+      "role": "Brief assent/crosstalk fragment clipped into the public commenter's cluster long after his turn ended; voice not distinguishable"
+    },
+    "675": {
+      "name": "Kerry Kennedy",
+      "role": "Interim Superintendent, SAU 6 (sentence onset clipped into an adjacent cluster)"
+    },
+    "690": {
+      "name": "Frank Sprague",
+      "role": "School Board Member (sentence continuation across a cluster flap)"
+    },
+    "692": {
+      "name": "Unidentified speaker",
+      "role": "Brief assent/crosstalk fragment clipped into the public commenter's cluster long after his turn ended; voice not distinguishable"
+    },
+    "703": {
+      "name": "Frank Sprague",
+      "role": "School Board Member (sentence onset clipped into an adjacent cluster) - 'my problem is' + 'is it's misleading'"
+    },
+    "711": {
+      "name": "Frank Sprague",
+      "role": "School Board Member (sentence continuation across a cluster flap)"
+    },
+    "719": {
+      "name": "Matt Angell",
+      "role": "Interim Business Administrator, SAU 6 (sentence continuation across a cluster flap) - 'this is the most' + 'this' + 'is what' + 'I can pull out of the system'"
+    },
+    "720": {
+      "name": "Matt Angell",
+      "role": "Interim Business Administrator, SAU 6 (sentence continuation across a cluster flap) - 'this is the most' + 'this' + 'is what' + 'I can pull out of the system'"
+    },
+    "743": {
+      "name": "Heather Whitney",
+      "role": "School Board Chair (chair's recognition of the next speaker, absorbed into an adjacent cluster)"
+    },
+    "750": {
+      "name": "Kerry Kennedy",
+      "role": "Interim Superintendent, SAU 6 (sentence continuation across a cluster flap)"
+    },
+    "762": {
+      "name": "Candace Crawford",
+      "role": "School Board Member; Finance Subcommittee Chair (sentence continuation across a cluster flap)"
+    },
+    "766": {
+      "name": "Kerry Kennedy",
+      "role": "Interim Superintendent, SAU 6 (sentence onset clipped into an adjacent cluster)"
+    },
+    "776": {
+      "name": "Matt Angell",
+      "role": "Interim Business Administrator, SAU 6 (sentence onset clipped into an adjacent cluster)"
+    },
+    "803": {
+      "name": "William 'Bill' Madden",
+      "role": "School Board Member (sentence onset clipped into an adjacent cluster)"
+    },
+    "809": {
+      "name": "Frank Sprague",
+      "role": "School Board Member (UNCERTAIN - the one-month deadline offered in answer to Madden's demand for a date; the interim superintendent's 'Sure' follows, so this may be her voice)"
+    },
+    "812": {
+      "name": "Unidentified speaker",
+      "role": "Brief assent/crosstalk fragment clipped into the public commenter's cluster long after his turn ended; voice not distinguishable"
+    },
+    "815": {
+      "name": "Unidentified speaker",
+      "role": "Brief assent/crosstalk fragment clipped into the public commenter's cluster long after his turn ended; voice not distinguishable"
+    },
+    "825": {
+      "name": "Heather Whitney",
+      "role": "School Board Chair (sentence continuation across a cluster flap) - 'had them' + 'open a minute ago'"
+    },
+    "836": {
+      "name": "Noelle Kronberg",
+      "role": "School Board Clerk (continues the clerk's roll call - 'Lauren' + 'Howard?')"
+    },
+    "837": {
+      "name": "Loren Howard",
+      "role": "School Board Member; delivers the Policy Subcommittee report (roll-call response - the clerk reads 'Lauren Howard' in the preceding segment)"
+    },
+    "839": {
+      "name": "Unidentified board member",
+      "role": "Roll-call response on the nonpublic motion; the clerk's preceding name is garbled in the recording"
+    },
+    "841": {
+      "name": "William 'Bill' Madden",
+      "role": "School Board Member (roll-call response - the clerk reads 'William Madden' in the preceding segment)"
+    }
+  }
+}

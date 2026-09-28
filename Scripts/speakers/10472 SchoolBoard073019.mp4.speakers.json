@@ -1,0 +1,42 @@
+{
+ "Speaker 1": {
+  "name": "Frank Sprague",
+  "role": "Claremont School Board Chair"
+ },
+ "Speaker 2": {
+  "name": "Mary Woodman",
+  "role": "School district clerk and recording secretary"
+ },
+ "Speaker 3": {
+  "name": "Unidentified",
+  "role": "Unidentified - short board-member responses ('Glaring', 'Second'); roll-call continuation reassigned to clerk"
+ },
+ "Speaker 4": {
+  "name": "Jason Benware",
+  "role": "Claremont School Board member"
+ },
+ "Speaker 5": {
+  "name": "Michael Tempesta",
+  "role": "Superintendent, SAU 6"
+ },
+ "Speaker 6": {
+  "name": "Carolyn Towle",
+  "role": "Claremont School Board member; SAU 6 treasurer (self-described)"
+ },
+ "Speaker 7": {
+  "name": "Unidentified",
+  "role": "Unidentified - mixed cluster: short acknowledgements from several voices plus a board member who speaks for the CCTV board ('our board') at [121]-[142], possibly Heather Whitney (uncertain - no recognition cue)"
+ },
+ "Speaker 8": {
+  "name": "Donna Magoon",
+  "role": "Assistant Superintendent, SAU 6 (Tempesta: 'as Donna was talking about' [75]; surname from roster)"
+ },
+ "__overrides__": {
+  "1": {
+   "name": "Frank Sprague"
+  },
+  "4": {
+   "name": "Mary Woodman"
+  }
+ }
+}

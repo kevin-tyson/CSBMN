@@ -1,0 +1,292 @@
+{
+ "Speaker 1": {
+  "name": "Frank Sprague",
+  "role": "Claremont School Board Chair"
+ },
+ "Speaker 2": {
+  "name": "Michael Tempesta",
+  "role": "Superintendent, SAU 6 (cluster also carries Petrin's early motions and some roll-call answers, reassigned)"
+ },
+ "Speaker 3": {
+  "name": "Rebecca Zullo",
+  "role": "Claremont School Board member (Vice Chair per roster; not stated on this recording); attending remotely"
+ },
+ "Speaker 4": {
+  "name": "Heather Whitney",
+  "role": "Claremont School Board member (cluster also carries clerk roll calls, Donna Magoon's Covid remarks and a public commenter's onsets, reassigned)"
+ },
+ "Speaker 5": {
+  "name": "Unidentified",
+  "role": "Public commenter, in person (name not stated on the record); asks about the Covid decision matrix"
+ },
+ "Speaker 6": {
+  "name": "Prescott Herzog",
+  "role": "Student representative to the board (Stevens High School)"
+ },
+ "Speaker 7": {
+  "name": "Michael Tempesta",
+  "role": "Superintendent, SAU 6"
+ },
+ "Speaker 8": {
+  "name": "Jason Benware",
+  "role": "Claremont School Board member (arrived late)"
+ },
+ "Speaker 9": {
+  "name": "Jason Benware",
+  "role": "Claremont School Board member (arrived late)"
+ },
+ "Speaker 10": {
+  "name": "Michael Petrin",
+  "role": "Claremont School Board member"
+ },
+ "Speaker 11": {
+  "name": "Unidentified",
+  "role": "Unidentified - short onsets of other speakers' turns; separable ones reassigned"
+ },
+ "Speaker 12": {
+  "name": "Carolyn Towle",
+  "role": "Claremont School Board member; attending remotely"
+ },
+ "Speaker 13": {
+  "name": "Rebecca Zullo",
+  "role": "Claremont School Board member (Vice Chair per roster; not stated on this recording); attending remotely (short onsets of her own turns)"
+ },
+ "Speaker 14": {
+  "name": "Melissa Lewis",
+  "role": "Principal, Disnard Elementary School (called 'Principal Lewis' on the record; first name and school per roster, ET-2020-12-14)"
+ },
+ "Speaker 15": {
+  "name": "Dale Chenette",
+  "role": "Principal, Bluff Elementary School (ASR 'This is a daily from bluff'; surname per roster, ET-2020-12-14)"
+ },
+ "Speaker 16": {
+  "name": "Unidentified",
+  "role": "Unidentified - single 'We can hear you'"
+ },
+ "Speaker 17": {
+  "name": "Patricia Barry",
+  "role": "Principal, Stevens High School"
+ },
+ "Speaker 18": {
+  "name": "Rob Lovett Jr.",
+  "role": "Claremont School Board member; attending remotely"
+ },
+ "Speaker 19": {
+  "name": "Mary Woodman",
+  "role": "School district clerk and board recording secretary (calls roll)"
+ },
+ "Speaker 20": {
+  "name": "Donna Magoon",
+  "role": "Assistant Superintendent, SAU 6"
+ },
+ "__overrides__": {
+  "4": {
+   "name": "Unidentified",
+   "role": "Unidentified - roll-call answers or group responses"
+  },
+  "5": {
+   "name": "Unidentified",
+   "role": "Unidentified - roll-call answers or group responses"
+  },
+  "6": {
+   "name": "Unidentified",
+   "role": "Unidentified - roll-call answers or group responses"
+  },
+  "7": {
+   "name": "Unidentified",
+   "role": "Unidentified - roll-call answers or group responses"
+  },
+  "8": {
+   "name": "Unidentified",
+   "role": "Unidentified - roll-call answers or group responses"
+  },
+  "14": {
+   "name": "Unidentified",
+   "role": "Unidentified - roll-call answers or group responses"
+  },
+  "15": {
+   "name": "Unidentified",
+   "role": "Unidentified - roll-call answers or group responses"
+  },
+  "24": {
+   "name": "Unidentified",
+   "role": "Unidentified - roll-call answers or group responses"
+  },
+  "40": {
+   "name": "Unidentified",
+   "role": "Unidentified - roll-call answers or group responses"
+  },
+  "41": {
+   "name": "Unidentified",
+   "role": "Unidentified - roll-call answers or group responses"
+  },
+  "123": {
+   "name": "Unidentified",
+   "role": "Unidentified - roll-call answers or group responses"
+  },
+  "125": {
+   "name": "Unidentified",
+   "role": "Unidentified - roll-call answers or group responses"
+  },
+  "365": {
+   "name": "Unidentified",
+   "role": "Unidentified - roll-call answers or group responses"
+  },
+  "366": {
+   "name": "Unidentified",
+   "role": "Unidentified - roll-call answers or group responses"
+  },
+  "369": {
+   "name": "Unidentified",
+   "role": "Unidentified - roll-call answers or group responses"
+  },
+  "393": {
+   "name": "Unidentified",
+   "role": "Unidentified - roll-call answers or group responses"
+  },
+  "212": {
+   "name": "Unidentified",
+   "role": "Unidentified - speaker not determinable from the record (cluster default rejected)"
+  },
+  "262": {
+   "name": "Unidentified",
+   "role": "Unidentified - speaker not determinable from the record (cluster default rejected)"
+  },
+  "270": {
+   "name": "Unidentified",
+   "role": "Unidentified - speaker not determinable from the record (cluster default rejected)"
+  },
+  "386": {
+   "name": "Unidentified",
+   "role": "Unidentified - speaker not determinable from the record (cluster default rejected)"
+  },
+  "398": {
+   "name": "Unidentified",
+   "role": "Unidentified - speaker not determinable from the record (cluster default rejected)"
+  },
+  "400": {
+   "name": "Unidentified",
+   "role": "Unidentified - speaker not determinable from the record (cluster default rejected)"
+  },
+  "11": {
+   "name": "Michael Petrin",
+   "role": "Claremont School Board member"
+  },
+  "17": {
+   "name": "Michael Petrin",
+   "role": "Claremont School Board member"
+  },
+  "26": {
+   "name": "Michael Petrin",
+   "role": "Claremont School Board member"
+  },
+  "21": {
+   "name": "Mary Woodman",
+   "role": "School district clerk and board recording secretary (calls roll)"
+  },
+  "22": {
+   "name": "Mary Woodman",
+   "role": "School district clerk and board recording secretary (calls roll)"
+  },
+  "25": {
+   "name": "Mary Woodman",
+   "role": "School district clerk and board recording secretary (calls roll)"
+  },
+  "27": {
+   "name": "Mary Woodman",
+   "role": "School district clerk and board recording secretary (calls roll)"
+  },
+  "119": {
+   "name": "Mary Woodman",
+   "role": "School district clerk and board recording secretary (calls roll)"
+  },
+  "121": {
+   "name": "Mary Woodman",
+   "role": "School district clerk and board recording secretary (calls roll)"
+  },
+  "124": {
+   "name": "Mary Woodman",
+   "role": "School district clerk and board recording secretary (calls roll)"
+  },
+  "32": {
+   "name": "Unidentified",
+   "role": "Public commenter, in person (name not stated on the record); asks about the Covid decision matrix"
+  },
+  "34": {
+   "name": "Unidentified",
+   "role": "Public commenter, in person (name not stated on the record); asks about the Covid decision matrix"
+  },
+  "36": {
+   "name": "Unidentified",
+   "role": "Public commenter, in person (name not stated on the record); asks about the Covid decision matrix"
+  },
+  "52": {
+   "name": "Unidentified",
+   "role": "Public commenter, in person (name not stated on the record); asks about the Covid decision matrix"
+  },
+  "163": {
+   "name": "Donna Magoon",
+   "role": "Assistant Superintendent, SAU 6"
+  },
+  "165": {
+   "name": "Donna Magoon",
+   "role": "Assistant Superintendent, SAU 6"
+  },
+  "174": {
+   "name": "Donna Magoon",
+   "role": "Assistant Superintendent, SAU 6"
+  },
+  "175": {
+   "name": "Donna Magoon",
+   "role": "Assistant Superintendent, SAU 6"
+  },
+  "177": {
+   "name": "Donna Magoon",
+   "role": "Assistant Superintendent, SAU 6"
+  },
+  "182": {
+   "name": "Donna Magoon",
+   "role": "Assistant Superintendent, SAU 6"
+  },
+  "280": {
+   "name": "Patricia Barry",
+   "role": "Principal, Stevens High School"
+  },
+  "66": {
+   "name": "Heather Whitney",
+   "role": "Claremont School Board member"
+  },
+  "235": {
+   "name": "Heather Whitney",
+   "role": "Claremont School Board member"
+  },
+  "168": {
+   "name": "Rebecca Zullo",
+   "role": "Claremont School Board member (Vice Chair per roster; not stated on this recording); attending remotely"
+  },
+  "169": {
+   "name": "Rebecca Zullo",
+   "role": "Claremont School Board member (Vice Chair per roster; not stated on this recording); attending remotely"
+  },
+  "227": {
+   "name": "Rebecca Zullo",
+   "role": "Claremont School Board member (Vice Chair per roster; not stated on this recording); attending remotely"
+  },
+  "183": {
+   "name": "Michael Tempesta",
+   "role": "Superintendent, SAU 6"
+  },
+  "371": {
+   "name": "Carolyn Towle",
+   "role": "Claremont School Board member; attending remotely"
+  },
+  "462": {
+   "name": "Frank Sprague",
+   "role": "Claremont School Board Chair"
+  },
+  "499": {
+   "name": "Rob Lovett Jr.",
+   "role": "Claremont School Board member; attending remotely"
+  }
+ }
+}

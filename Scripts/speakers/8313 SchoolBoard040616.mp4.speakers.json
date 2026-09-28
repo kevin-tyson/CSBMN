@@ -1,0 +1,31 @@
+{
+ "Speaker 1": {"name": "Frank Sprague", "role": "Claremont School Board member"},
+ "Speaker 2": {"name": "Unidentified", "role": "Unidentified - kindergarten teacher presenter (recording begins mid-presentation; not named)"},
+ "Speaker 3": {"name": "Cory LeClair", "role": "Assistant Superintendent, SAU 6"},
+ "Speaker 4": {"name": "Brent Ferland", "role": "Claremont School Board member"},
+ "Speaker 5": {"name": "Unidentified", "role": "Unidentified - kindergarten teacher presenter (not named on this recording)"},
+ "Speaker 6": {"name": "Unidentified", "role": "Unidentified - cluster mixes group responses (votes, thanks) and short crosstalk from several voices"},
+ "Speaker 7": {"name": "Middleton McGoodwin", "role": "Superintendent, SAU 6"},
+ "Speaker 8": {"name": "Brian Rapp", "role": "Claremont School Board Chair"},
+ "Speaker 9": {"name": "Rebecca Ferland", "role": "Claremont School Board member"},
+ "Speaker 10": {"name": "Brian Rapp", "role": "Claremont School Board Chair"},
+ "Speaker 11": {"name": "Mary Woodman", "role": "School district clerk / recording secretary (uncertain - calls the nonpublic roll [640-643]; chair's 'Get that Mary' [433]; not otherwise named)"},
+ "Speaker 12": {"name": "Cory LeClair", "role": "Assistant Superintendent, SAU 6"},
+ "Speaker 13": {"name": "Patrick Adrian", "role": "Claremont School Board member"},
+ "Speaker 14": {"name": "Michelle Pierce", "role": "Claremont School Board member"},
+ "Speaker 15": {"name": "Michael O'Neill", "role": "Business Administrator, SAU 6 (spelling unverified per roster)"},
+ "Speaker 16": {"name": "Chris Irish", "role": "Claremont School Board Vice Chair"},
+ "Speaker 17": {"name": "Unidentified", "role": "Unidentified - two-word fragment"},
+ "Speaker 18": {"name": "Unidentified", "role": "Unidentified - short fragment"},
+ "__overrides__": {
+  "26": {"name": "Middleton McGoodwin"},
+  "42": {"name": "Middleton McGoodwin"},
+  "58": {"name": "Unidentified", "role": "Unidentified - staff or board voice during curriculum update"},
+  "67": {"name": "Unidentified", "role": "Unidentified - staff or board voice during curriculum update"},
+  "112": {"name": "Cory LeClair"},
+  "180": {"name": "Brent Ferland"},
+  "605": {"name": "Michelle Pierce"},
+  "639": {"name": "Unidentified", "role": "Unidentified - roll-call responses"},
+  "644": {"name": "Unidentified", "role": "Unidentified - roll-call responses"}
+ }
+}

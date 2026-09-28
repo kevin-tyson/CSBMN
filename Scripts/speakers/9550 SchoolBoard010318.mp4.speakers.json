@@ -1,0 +1,227 @@
+{
+ "Speaker 1": {
+  "name": "Chris Irish",
+  "role": "Claremont School Board Vice Chair (calls the question and asks for the roll call [5-7], first 'Yes' in the roll [8] where Irish is called first in 9549; 'Alex is going to talk to his people. I'm going to talk to my people' [21]; 'without my glasses' [154] as in 9549 [452]; medium confidence - cluster also carries the business administrator [167-208] and other members, see overrides)"
+ },
+ "Speaker 2": {
+  "name": "Michelle Pierce",
+  "role": "Claremont School Board member (chair: 'But Michelle.' [23] then this voice [24]; 'Did we answer the question, Brian' [45]); filing-period remarks at the end are reassigned to the clerk"
+ },
+ "Speaker 3": {
+  "name": "Unidentified",
+  "role": "Unidentified - cluster mixes an administrator (probably Cory LeClair) and board members; identifiable segments reassigned"
+ },
+ "Speaker 4": {
+  "name": "Mary Woodman",
+  "role": "School District Clerk and board recording secretary (calls the roll: 'Alex', 'Michael', 'Michelle. Pierce', 'Frank. Sprague', 'Rebecca. Zullo', 'Brian' [9-17])"
+ },
+ "Speaker 5": {
+  "name": "Brian Rapp",
+  "role": "Claremont School Board Chair (runs the warrant-article votes: 'Correct Mary' [151], 'Mike. Do you want to?' [164], 'All in favor?' [196, 216]; says he ran the hearing's three-minute limit [38-41])"
+ },
+ "Speaker 6": {
+  "name": "Unidentified",
+  "role": "Unidentified - cluster of short remarks from several voices"
+ },
+ "Speaker 7": {
+  "name": "Josh Malloy",
+  "role": "Director of Instructional Technology, SAU 6 (explains the security-upgrade grant match [73-140]; board: 'Josh is going to talk to that' [64], 'such as what Josh talked about' [148])"
+ },
+ "Speaker 8": {
+  "name": "Unidentified",
+  "role": "Unidentified - short remarks from several voices"
+ },
+ "Speaker 9": {
+  "name": "Unidentified",
+  "role": "Unidentified - single remark on the filing opening date [241] (probably the clerk)"
+ },
+ "__overrides__": {
+  "10": {
+   "name": "Alex Herzog",
+   "role": "Claremont School Board member (roll-call vote 'No' after the clerk calls 'Alex')"
+  },
+  "12": {
+   "name": "Michael Petrin",
+   "role": "Claremont School Board member (roll-call vote 'No' after the clerk calls 'Michael')"
+  },
+  "15": {
+   "name": "Frank Sprague",
+   "role": "Claremont School Board member (roll-call vote 'Yes' after the clerk calls 'Frank. Sprague')"
+  },
+  "18": {
+   "name": "Brian Rapp"
+  },
+  "0": {
+   "name": "Unidentified",
+   "role": "Unidentified - board member opposed to the reduced budget (tail of a statement before the vote)"
+  },
+  "49": {
+   "name": "Cory LeClair",
+   "role": "Assistant Superintendent, SAU 6 (uncertain - explains who sets deliberative time limits and how warrant articles are presented; chair then says 'Thank you. Corey.' [57])"
+  },
+  "50": {
+   "name": "Cory LeClair",
+   "role": "Assistant Superintendent, SAU 6 (uncertain - explains who sets deliberative time limits and how warrant articles are presented; chair then says 'Thank you. Corey.' [57])"
+  },
+  "107": {
+   "name": "Cory LeClair",
+   "role": "Assistant Superintendent, SAU 6 (uncertain - explains who sets deliberative time limits and how warrant articles are presented; chair then says 'Thank you. Corey.' [57])"
+  },
+  "108": {
+   "name": "Cory LeClair",
+   "role": "Assistant Superintendent, SAU 6 (uncertain - explains who sets deliberative time limits and how warrant articles are presented; chair then says 'Thank you. Corey.' [57])"
+  },
+  "127": {
+   "name": "Michelle Pierce"
+  },
+  "129": {
+   "name": "Michelle Pierce"
+  },
+  "131": {
+   "name": "Michelle Pierce"
+  },
+  "231": {
+   "name": "Mary Woodman",
+   "role": "School District Clerk and board recording secretary (uncertain - filing-period dates and 'Get the calendar out here' [240]; diarized with Pierce's cluster)"
+  },
+  "235": {
+   "name": "Mary Woodman",
+   "role": "School District Clerk and board recording secretary (uncertain - filing-period dates and 'Get the calendar out here' [240]; diarized with Pierce's cluster)"
+  },
+  "237": {
+   "name": "Mary Woodman",
+   "role": "School District Clerk and board recording secretary (uncertain - filing-period dates and 'Get the calendar out here' [240]; diarized with Pierce's cluster)"
+  },
+  "239": {
+   "name": "Mary Woodman",
+   "role": "School District Clerk and board recording secretary (uncertain - filing-period dates and 'Get the calendar out here' [240]; diarized with Pierce's cluster)"
+  },
+  "240": {
+   "name": "Mary Woodman",
+   "role": "School District Clerk and board recording secretary (uncertain - filing-period dates and 'Get the calendar out here' [240]; diarized with Pierce's cluster)"
+  },
+  "242": {
+   "name": "Mary Woodman",
+   "role": "School District Clerk and board recording secretary (uncertain - filing-period dates and 'Get the calendar out here' [240]; diarized with Pierce's cluster)"
+  },
+  "244": {
+   "name": "Mary Woodman",
+   "role": "School District Clerk and board recording secretary (uncertain - filing-period dates and 'Get the calendar out here' [240]; diarized with Pierce's cluster)"
+  },
+  "247": {
+   "name": "Mary Woodman",
+   "role": "School District Clerk and board recording secretary (uncertain - filing-period dates and 'Get the calendar out here' [240]; diarized with Pierce's cluster)"
+  },
+  "251": {
+   "name": "Mary Woodman",
+   "role": "School District Clerk and board recording secretary (uncertain - filing-period dates and 'Get the calendar out here' [240]; diarized with Pierce's cluster)"
+  },
+  "253": {
+   "name": "Mary Woodman",
+   "role": "School District Clerk and board recording secretary (uncertain - filing-period dates and 'Get the calendar out here' [240]; diarized with Pierce's cluster)"
+  },
+  "259": {
+   "name": "Mary Woodman",
+   "role": "School District Clerk and board recording secretary (uncertain - filing-period dates and 'Get the calendar out here' [240]; diarized with Pierce's cluster)"
+  },
+  "248": {
+   "name": "Chris Irish",
+   "role": "Claremont School Board Vice Chair ('I made it pretty clear I'm not running' [248]; Irish did not seek re-election in 2018 per roster)"
+  },
+  "167": {
+   "name": "Michael O'Neill",
+   "role": "Business Administrator, SAU 6 (chair: 'Mike. Do you want to?' [164] then bus-lease and roofing explanations; diarized with Irish's cluster)"
+  },
+  "170": {
+   "name": "Michael O'Neill",
+   "role": "Business Administrator, SAU 6 (chair: 'Mike. Do you want to?' [164] then bus-lease and roofing explanations; diarized with Irish's cluster)"
+  },
+  "172": {
+   "name": "Michael O'Neill",
+   "role": "Business Administrator, SAU 6 (chair: 'Mike. Do you want to?' [164] then bus-lease and roofing explanations; diarized with Irish's cluster)"
+  },
+  "175": {
+   "name": "Michael O'Neill",
+   "role": "Business Administrator, SAU 6 (chair: 'Mike. Do you want to?' [164] then bus-lease and roofing explanations; diarized with Irish's cluster)"
+  },
+  "181": {
+   "name": "Michael O'Neill",
+   "role": "Business Administrator, SAU 6 (chair: 'Mike. Do you want to?' [164] then bus-lease and roofing explanations; diarized with Irish's cluster)"
+  },
+  "182": {
+   "name": "Michael O'Neill",
+   "role": "Business Administrator, SAU 6 (chair: 'Mike. Do you want to?' [164] then bus-lease and roofing explanations; diarized with Irish's cluster)"
+  },
+  "183": {
+   "name": "Michael O'Neill",
+   "role": "Business Administrator, SAU 6 (chair: 'Mike. Do you want to?' [164] then bus-lease and roofing explanations; diarized with Irish's cluster)"
+  },
+  "191": {
+   "name": "Michael O'Neill",
+   "role": "Business Administrator, SAU 6 (chair: 'Mike. Do you want to?' [164] then bus-lease and roofing explanations; diarized with Irish's cluster)"
+  },
+  "199": {
+   "name": "Michael O'Neill",
+   "role": "Business Administrator, SAU 6 (chair: 'Mike. Do you want to?' [164] then bus-lease and roofing explanations; diarized with Irish's cluster)"
+  },
+  "200": {
+   "name": "Michael O'Neill",
+   "role": "Business Administrator, SAU 6 (chair: 'Mike. Do you want to?' [164] then bus-lease and roofing explanations; diarized with Irish's cluster)"
+  },
+  "201": {
+   "name": "Michael O'Neill",
+   "role": "Business Administrator, SAU 6 (chair: 'Mike. Do you want to?' [164] then bus-lease and roofing explanations; diarized with Irish's cluster)"
+  },
+  "203": {
+   "name": "Michael O'Neill",
+   "role": "Business Administrator, SAU 6 (chair: 'Mike. Do you want to?' [164] then bus-lease and roofing explanations; diarized with Irish's cluster)"
+  },
+  "205": {
+   "name": "Michael O'Neill",
+   "role": "Business Administrator, SAU 6 (chair: 'Mike. Do you want to?' [164] then bus-lease and roofing explanations; diarized with Irish's cluster)"
+  },
+  "207": {
+   "name": "Michael O'Neill",
+   "role": "Business Administrator, SAU 6 (chair: 'Mike. Do you want to?' [164] then bus-lease and roofing explanations; diarized with Irish's cluster)"
+  },
+  "208": {
+   "name": "Michael O'Neill",
+   "role": "Business Administrator, SAU 6 (chair: 'Mike. Do you want to?' [164] then bus-lease and roofing explanations; diarized with Irish's cluster)"
+  },
+  "177": {
+   "name": "Brian Rapp"
+  },
+  "185": {
+   "name": "Unidentified",
+   "role": "Unidentified - question and answer about propane buses in the cold run together in one segment"
+  },
+  "186": {
+   "name": "Unidentified",
+   "role": "Unidentified - board member moving Article 4 (school bus replacement) to the deliberative session"
+  },
+  "187": {
+   "name": "Unidentified",
+   "role": "Unidentified - board member moving Article 4 (school bus replacement) to the deliberative session"
+  },
+  "188": {
+   "name": "Unidentified",
+   "role": "Unidentified - board member moving Article 4 (school bus replacement) to the deliberative session"
+  },
+  "189": {
+   "name": "Unidentified",
+   "role": "Unidentified - board member moving Article 4 (school bus replacement) to the deliberative session"
+  },
+  "193": {
+   "name": "Unidentified",
+   "role": "Unidentified - board member moving Article 4 (school bus replacement) to the deliberative session"
+  },
+  "195": {
+   "name": "Unidentified",
+   "role": "Unidentified - board member moving Article 4 (school bus replacement) to the deliberative session"
+  },
+  "194": {
+   "name": "Unidentified",
+   "role": "Unidentified - seconder"
+  }
+ }
+}

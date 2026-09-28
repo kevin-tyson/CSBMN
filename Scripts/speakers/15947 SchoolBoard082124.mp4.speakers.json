@@ -1,0 +1,420 @@
+{
+ "Speaker 1": {
+  "name": "Heather Whitney",
+  "role": "CHAIR, Claremont School Board (chair since 4/5/2023, re-elected chair 3/20/2024). She opens the meeting in her own voice at 0 ('I would like to call to order the August 21st, 2024 meeting of the Claremont School Board'), notes the clerk is absent and takes the roll herself at 4-6 ('In the absence of our secretary [or] Clark'), and reads her own name LAST in both roll calls (6; 215 'And Heather Whitney', both words confidence 1.00). Whitney Skillen names her in the third person at 532 ('I think what Heather is asking is...', 'Heather' 1.00) and Bonnie Miles addresses her as 'Heather.' at 555 (1.00) - which fixes this presiding voice as Heather Whitney and NOT Whitney Skillen, the other sitting member whose first name is Whitney and who is a separate cluster (Speaker 7) in this same recording. She gives every recognition ('Miss Gillen' 84, 196, 580; 'Arlene' 72, 141, 188, 431; 'Candy' 173; 'Miss Crawford' 195, 665, 684; 'Mister patron' 309, 401, 582, 691; 'And Frank' 235; 'Frank Sprague as the chair' 668; 'Miss Hawkins' 609), runs the consent agenda, the nonpublic votes and the adjournment (701). This cluster repeatedly absorbs the onset of the member she is recognising (84 'Miss Gillen.' + Skillen's first words; 72 + Hawkins's first words; 6, 208, 211 + other members' roll answers) and swallows a handful of neighbouring voices; the ones that can be tied to another speaker are reassigned by override"
+ },
+ "Speaker 2": {
+  "name": "Michael Petrin",
+  "role": "Claremont School Board member (returned to the board as a write-in in the March 2024 election). CHAIR'S RECOGNITIONS, each straight into this voice: 'Mike, do you have a question?' (188) -> 189; 'Mister patron.' (309, 0.94) -> 310; 'Mister patron.' (401, 1.00) -> 402; 'Mike.' (551, 1.00) -> 552 ('No.'); 'Mr. patron?' (582, 1.00) -> 583 ('No.'); 'Mr. patron.' (691, 0.76) -> 692. He answers the opening roll in this voice at 5 ('Patron here', 'Patron' 1.00) and the nonpublic roll at 209, and the chair credits the second on the tech-centre motion to him at 292 ('Second for Mike patron'). At 130-132 he speaks off 'Frank and Whitney, what they were saying' and tells Sprague 'Frank retired. You can go take a walk. I can't' - so he is neither of them - and Frank Sprague places him at 483: 'Mike has a background in physical therapy.' ASR renders him 'Patron', 'patron', 'Peterson' (406, 1.00). THIS CLUSTER IS A MERGE: it also carries Assistant Superintendent Mike Koski's long turns, several of Frank Sprague's, and dozens of sub-second interjections from other people; every stretch that could be tied to another speaker is reassigned by override, and short unanchored backchannels left under this label may belong to someone else"
+ },
+ "Speaker 3": {
+  "name": "Chris Pratt",
+  "role": "SUPERINTENDENT OF SCHOOLS, SAU 6 / Claremont School District. The chair puts the staff-nomination motion as 'approving the list of nominations as presented by doctor, Doctor Pratt. Mr. Pratt' (280, both 1.00) immediately after this voice's exchange, and names him three more times as the person who will bring the revised job description (558, 561, 563, 688 - all 1.00). He delivers the superintendent's report (8-41), calls it 'the superintendents report that I sent you' (8), hands off to 'Mr. O'Hearn' (219) and to 'Michael' for the AI/PD questions (31), and apologises to the board in the first person for hiring before the board approved the position (588-589). Bonnie Miles says at 568 'Mr. Pratt was an interim superintendent before you became the superintendent' and Michael Petrin at 538 'We have superintendent Chris was the acting superintendent because someone left mid-term' - both addressed to this voice, and the word 'interim' is never applied to him in the present tense anywhere in the file. Bonnie Miles and Arlene Hawkins both address him as 'Chris' (500, 502, 616; 1.00). ASR also renders him 'Mr. Pride' (610, 1.00)"
+ },
+ "Speaker 4": {
+  "name": "Candace Crawford",
+  "role": "Claremont School Board member (appointed 7/19/2023, re-elected March 2024); reports for the Capital Improvement Committee and the SRVRTC visioning committee. CHAIR'S RECOGNITIONS straight into this voice: 'Yes. Candy.' (173, 1.00) -> 174 'Do I make [a motion]'; 'Any Crawford seconds' (200, 0.86) right after 199; 'the motion, as stated by Miss Crawford' (195, 1.00) closing the Girls on the Run vote she moved at 183; 'And Candace and then, Mr. Patron' (373) -> 374; 'we're going to start with the Capital Improvement Subcommittee. And that would be Miss Crawford' (665, 1.00) -> 666; 'And Miss Crawford, you're up again' (684, 1.00) -> 685. She addresses Bonnie Miles by name at 408 ('I think Bonnie', 0.98), which is what separates Miles from Arlene Hawkins inside Speaker 6"
+ },
+ "Speaker 5": {
+  "name": "Frank Sprague",
+  "role": "VICE CHAIR, Claremont School Board; CHAIR of the Finance Committee. The chair recognises 'And Frank.' (235, 1.00) straight into this voice (236), credits the tech-centre motion to him at 292 ('since Mr. Sprague made the motion, he gets number one') and at 514 ('if Frank will accept this'), and opens the finance report with 'Finance subcommittee. That's Frank Sprague as the chair' (668, both 1.00) straight into 669. Michael Petrin speaks 'off of Frank and Whitney, what they were saying' at 130 immediately after this voice's 504 case-management run (121-127) and tells him 'Frank retired' (132). The biography matches the corpus record for Sprague: 'when I was in that role, I had caseloads' as a school counsellor (123), 'we had a very restrictive attendance policy, Stevens High School when I first started there' (124), 'one of the things that I battled for probably 20 years' (150). He also volunteers a CTE-director licence, a master's in education administration and ten years owning a restaurant (293-297, 483). THE DIARIZER SPLIT HIM ACROSS THREE CLUSTERS - Speaker 5, Speaker 13 and part of Speaker 2 - and merged Assistant Superintendent Mike Koski into Speaker 5 with him; the Koski stretches are reassigned by override"
+ },
+ "Speaker 6": {
+  "name": "Bonnie Miles",
+  "role": "Claremont School Board member. CHAIR'S RECOGNITIONS straight into this voice: 'Sorry, Mr. Peter and then miss Miles' (303, 'Miles' 0.96) and 'Who's next, miss Miles?' (312, 'Miles' 1.00) -> 313, which opens her long run of questions on the assistant tech-centre director; Candace Crawford answers her by name at 408 ('I think Bonnie', 0.98) while this voice is speaking at 406-413. She is the member who asks whether the board may approve a position that has already been filled (322-332), who proposes the word 'acting' (335, 469) and who moves the amendment adopted that night (533). CAUTION - THIS CLUSTER MERGES TWO WOMEN: Speaker 6 carries both Bonnie Miles and Arlene Hawkins. Rows keep Miles by default; every stretch that a chair recognition or a colleague's direct address ties to Hawkins is reassigned by override. Short interjections that fall between the anchored runs cannot be separated acoustically and could belong to either member"
+ },
+ "Speaker 7": {
+  "name": "Whitney Skillen",
+  "role": "Claremont School Board member; CHAIR of the Policy subcommittee. CHAIR'S RECOGNITIONS straight into this voice: 'Miss Gillen.' (84, 0.82) -> 85; 'Yes, Miss Gillen.' (196, 0.43) -> 197, her motion to go into nonpublic; 'So the skill[en]' (298) -> 299; 'Miss Kellen.' (531, 0.62) -> 532; 'we can do a roll call, Whitney' (542, 0.94) -> 543; 'No objection, Miss Gillen' (580, 0.48) -> 581; 'Anybody like to make a motion and then miss going [Gillen]' (653) -> 654; and 'Anything from the policy subcommittee?' (677) -> 678, where she reports on her own schedule as policy chair. She refers to the chair in the third person at 532 ('I think what Heather is asking is'), so she is NOT Heather Whitney, who is a separate cluster (Speaker 1) here. The ASR garbles her surname as 'Gillen', 'going', 'Kellen', 'skill', 'Skilling' and - in the chair's 233 - 'still on'"
+ },
+ "Speaker 8": {
+  "name": "Unidentified",
+  "role": "DIARIZER MICRO-CLUSTER - one- to three-word affirmations ('Yes.', 'Correct.', 'Sure.', 'Yep.') scattered across the meeting and belonging to several different people. The fragments that can be tied to a neighbouring speaker by contiguous timing or sentence continuation are reassigned by override; the rows left under this label carry no usable anchor"
+ },
+ "Speaker 9": {
+  "name": "Tina McCusker",
+  "role": "SPECIAL EDUCATOR AND CASE MANAGER, Bluff Elementary School - presenting a request to fund a Girls on the Run programme. CHAIR'S INTRODUCTION: 'it's a presentation from Tina McCusker about girls on the run program at the Bluff Elementary School' (155; 'Tina' confidence 1.00, 'McCusker' 0.94) straight into this voice (158). She self-describes as 'my third year at bluff as a special educator [and] case manager' (158) and asks for $1,500 out of prior-year money for registration fees for 15 girls and two volunteer coaches. THE SURNAME SPELLING IS UNVERIFIED: 'McCusker' is exactly how this ASR renders the surname of Director of Student Services Michael McCosker elsewhere in the corpus, so 'McCusker' here may be a rendering of 'McCosker'. She is not named anywhere else in the recording and appears in no project roster note"
+ },
+ "Speaker 10": {
+  "name": "Unidentified",
+  "role": "A single 4.8 s question ('Do we need anything?') during the roll call to enter nonpublic session, in a voice the diarizer heard nowhere else in the meeting. No anchor names it"
+ },
+ "Speaker 11": {
+  "name": "Patrick O'Hearn",
+  "role": "DIRECTOR OF HUMAN RESOURCES, SAU 6 (started 4/15/2024). CHAIR'S RECOGNITION: 'ratification of professional staff nominations. And Mr. O'Hearn' (218, 'O'Hearn' 1.00), Pratt hands off ('Go ahead, right ahead', 219) and this voice then presents the professional-staff nomination list (223-268). Arlene Hawkins or Candace Crawford names him mid-item at 273 - 'I hear Patrick being asked additional questions' ('Patrick' 1.00) - and Pratt says at 285 'We're Patrick and I looked at it' ('Patrick' 1.00) and at 418 'since Patrick [came]' (0.81). The diarizer files his short answers separately as Speaker 8 and clips his opening sentence across Speakers 5 and 2 (221-222); those are reassigned by override"
+ },
+ "Speaker 12": {
+  "name": "Chris Pratt",
+  "role": "SUPERINTENDENT OF SCHOOLS - a diarizer clipping cluster rather than a separate person: eighteen fragments inside the assistant-tech-director item, most of them the onset or tail of one of his own Speaker 3 sentences (392+393 'I don't / think we're going to get to run the tech'; 421+422 'I would / never do that'; 435+436 '[job description] can / be we can update this any at any time'; 449+450; 366+367 'Who's / long term [view]'). The fragments that belong to Frank Sprague or the chair are reassigned by override"
+ },
+ "Speaker 13": {
+  "name": "Frank Sprague",
+  "role": "VICE CHAIR, Claremont School Board; CHAIR of the Finance Committee - the same voice the diarizer also files as Speaker 5. The chair opens the finance report with 'Finance subcommittee. That's Frank Sprague as the chair' (668, both words 1.00) with a 0.08 s gap into 669, and this cluster then carries the whole finance report (669-672): the RSA and Department of Revenue Administration deadlines, the September hiring-status and budget-timeline meeting, and the committee's next meeting on September 18th, 10 to 11"
+ },
+ "__overrides__": {
+  "1": {
+   "name": "Multiple",
+   "role": "The room reciting the Pledge of Allegiance, captured as one segment"
+  },
+  "25": {
+   "name": "Chris Pratt",
+   "role": "Superintendent of Schools - his answer to the chair's 'Are you done with the report in its entirety?' (24); the chair completes the exchange at 26 with 'One more come back after'"
+  },
+  "33": {
+   "name": "Candace Crawford",
+   "role": "Claremont School Board member - the onset of her own question, contiguous (0.00 s gap) with 34, 'You please tell me what kind of me go means?'"
+  },
+  "35": {
+   "name": "Chris Pratt",
+   "role": "Superintendent of Schools - a 0.28 s onset with a 0.04 s gap to his own 36 ('It's an A[I]'), before he hands the answer to Assistant Superintendent Koski"
+  },
+  "37": {
+   "name": "Mike Koski",
+   "role": "Assistant Superintendent, SAU 6 - the AI/'MeeGo' answer Pratt hands to him at 31 ('Michael can answer the questions in regards to, whether it's kind of ego or accountable talk')"
+  },
+  "38": {
+   "name": "Mike Koski",
+   "role": "Assistant Superintendent, SAU 6 - the AI/'MeeGo' answer Pratt hands to him at 31 ('Michael can answer the questions in regards to, whether it's kind of ego or accountable talk')"
+  },
+  "59": {
+   "name": "Unidentified",
+   "role": "THE HAND-OFF THAT NAMES THE NEXT SPEAKER: 'Help me. Go ahead Michael.' ('Go ahead' 0.93, 'Michael' 0.82). It is spoken by either Superintendent Pratt, the chair, or Frank Sprague giving way; the 1.08 s fragment carries no anchor of its own. It is the evidence for attributing 60-82 to Mike Koski"
+  },
+  "109": {
+   "name": "Mike Koski",
+   "role": "Assistant Superintendent, SAU 6 - the middle-school self-regulation training he is running this year, including the plug for local author John Wharton; Pratt confirms at 139 'the work that Michael did with the team'"
+  },
+  "110": {
+   "name": "Mike Koski",
+   "role": "Assistant Superintendent, SAU 6 - the middle-school self-regulation training he is running this year, including the plug for local author John Wharton; Pratt confirms at 139 'the work that Michael did with the team'"
+  },
+  "112": {
+   "name": "Mike Koski",
+   "role": "Assistant Superintendent, SAU 6 - the middle-school self-regulation training he is running this year, including the plug for local author John Wharton; Pratt confirms at 139 'the work that Michael did with the team'"
+  },
+  "113": {
+   "name": "Mike Koski",
+   "role": "Assistant Superintendent, SAU 6 - the middle-school self-regulation training he is running this year, including the plug for local author John Wharton; Pratt confirms at 139 'the work that Michael did with the team'"
+  },
+  "122": {
+   "name": "Frank Sprague",
+   "role": "Vice Chair, Claremont School Board - the middle of his own sentence, 121 + 122 + 123: 'The case management for [a] 504... falls to... school counselors... Correct? And I know when I was in that role, I had caseloads'"
+  },
+  "126": {
+   "name": "Frank Sprague",
+   "role": "Vice Chair, Claremont School Board - a 0.64 s fragment sitting inside his own run (125 ends 1269.64, 127 begins 1270.40)"
+  },
+  "147": {
+   "name": "Mike Koski",
+   "role": "Assistant Superintendent, SAU 6 - the continuation of his own sentence begun at 146 in Speaker 5: 'We've all figured this out / somehow without being taught... / successful managing yourself... we're just teaching kids those skills'"
+  },
+  "149": {
+   "name": "Mike Koski",
+   "role": "Assistant Superintendent, SAU 6 - the continuation of his own sentence begun at 146 in Speaker 5: 'We've all figured this out / somehow without being taught... / successful managing yourself... we're just teaching kids those skills'"
+  },
+  "222": {
+   "name": "Patrick O'Hearn",
+   "role": "Director of Human Resources - the middle of his own opening sentence, clipped across three clusters: 221 (Speaker 5) 'So you can find in your' + 222 'packet there's' + 223 (Speaker 11) 'a three sheet paper on the front'"
+  },
+  "286": {
+   "name": "Chris Pratt",
+   "role": "Superintendent of Schools - the middle of his own sentence, 285 + 286 + 287: 'we kind of put it between a principal and, what are the positions they call on the / schools, the Student Service Corps / student service coordinators'"
+  },
+  "289": {
+   "name": "Frank Sprague",
+   "role": "Vice Chair, Claremont School Board - the motion to approve the assistant tech-centre director position; the chair attributes it to him three segments later, 'since Mr. Sprague made the motion, he gets number one' (292, 'Sprague' 1.00). NOTE: at 515 he says 'I didn't make a motion' and the chair insists at 517 that he did - the record is contradictory and is left as spoken"
+  },
+  "293": {
+   "name": "Frank Sprague",
+   "role": "Vice Chair, Claremont School Board - he speaks first in the discussion because the chair gave him the floor as the mover (292). He describes holding a CTE director licence, a master's in education and administration, and ten years owning a restaurant - the same first-person biography he returns to at 483"
+  },
+  "295": {
+   "name": "Frank Sprague",
+   "role": "Vice Chair, Claremont School Board - he speaks first in the discussion because the chair gave him the floor as the mover (292). He describes holding a CTE director licence, a master's in education and administration, and ten years owning a restaurant - the same first-person biography he returns to at 483"
+  },
+  "297": {
+   "name": "Frank Sprague",
+   "role": "Vice Chair, Claremont School Board - he speaks first in the discussion because the chair gave him the floor as the mover (292). He describes holding a CTE director licence, a master's in education and administration, and ten years owning a restaurant - the same first-person biography he returns to at 483"
+  },
+  "346": {
+   "name": "Chris Pratt",
+   "role": "Superintendent of Schools - the onset of his own sentence, 346 + 347: 'And one / thing to note is it's not part of the collective bargaining unit'"
+  },
+  "479": {
+   "name": "Frank Sprague",
+   "role": "Vice Chair, Claremont School Board - his 'relevant experience under preferred qualifications' proposal, which the diarizer alternates between Speakers 2 and 12 word by word (479-483). At 483 he places two colleagues: 'you have a background in nursing' (the chair, Heather Whitney) and 'Mike has a background in physical therapy' (Michael Petrin)"
+  },
+  "481": {
+   "name": "Frank Sprague",
+   "role": "Vice Chair, Claremont School Board - his 'relevant experience under preferred qualifications' proposal, which the diarizer alternates between Speakers 2 and 12 word by word (479-483). At 483 he places two colleagues: 'you have a background in nursing' (the chair, Heather Whitney) and 'Mike has a background in physical therapy' (Michael Petrin)"
+  },
+  "483": {
+   "name": "Frank Sprague",
+   "role": "Vice Chair, Claremont School Board - his 'relevant experience under preferred qualifications' proposal, which the diarizer alternates between Speakers 2 and 12 word by word (479-483). At 483 he places two colleagues: 'you have a background in nursing' (the chair, Heather Whitney) and 'Mike has a background in physical therapy' (Michael Petrin)"
+  },
+  "515": {
+   "name": "Frank Sprague",
+   "role": "Vice Chair, Claremont School Board - his answer to the chair's 'if Frank will accept this, that to add to your motion' (514, 'Frank' 1.00). He denies making a motion; the chair disagrees at 517. Recorded as spoken"
+  },
+  "50": {
+   "name": "Mike Koski",
+   "role": "Assistant Superintendent, SAU 6 - the district's answer to the chair's question about whether 504 and IEP costs are reimbursed. The floor is handed to him mid-run at 59, 'Help me. Go ahead Michael.' ('Michael' 0.82), and Pratt uses 'Michael' for Koski three times in this recording (29, 31, 139, all 1.00). The register is institutional ('there can be some money that comes back in terms of Medicaid reimbursement', 'the burden of a 504 is totally on us'), unlike Frank Sprague's first-person practitioner recollections elsewhere in this same cluster. ALTERNATIVE READINGS DISCLOSED: 50-55 could be Sprague giving way to Koski at 59, and 'Michael' could in principle be Director of Student Services Michael McCosker, who is named nowhere in this recording"
+  },
+  "53": {
+   "name": "Mike Koski",
+   "role": "Assistant Superintendent, SAU 6 - the district's answer to the chair's question about whether 504 and IEP costs are reimbursed. The floor is handed to him mid-run at 59, 'Help me. Go ahead Michael.' ('Michael' 0.82), and Pratt uses 'Michael' for Koski three times in this recording (29, 31, 139, all 1.00). The register is institutional ('there can be some money that comes back in terms of Medicaid reimbursement', 'the burden of a 504 is totally on us'), unlike Frank Sprague's first-person practitioner recollections elsewhere in this same cluster. ALTERNATIVE READINGS DISCLOSED: 50-55 could be Sprague giving way to Koski at 59, and 'Michael' could in principle be Director of Student Services Michael McCosker, who is named nowhere in this recording"
+  },
+  "55": {
+   "name": "Mike Koski",
+   "role": "Assistant Superintendent, SAU 6 - the district's answer to the chair's question about whether 504 and IEP costs are reimbursed. The floor is handed to him mid-run at 59, 'Help me. Go ahead Michael.' ('Michael' 0.82), and Pratt uses 'Michael' for Koski three times in this recording (29, 31, 139, all 1.00). The register is institutional ('there can be some money that comes back in terms of Medicaid reimbursement', 'the burden of a 504 is totally on us'), unlike Frank Sprague's first-person practitioner recollections elsewhere in this same cluster. ALTERNATIVE READINGS DISCLOSED: 50-55 could be Sprague giving way to Koski at 59, and 'Michael' could in principle be Director of Student Services Michael McCosker, who is named nowhere in this recording"
+  },
+  "60": {
+   "name": "Mike Koski",
+   "role": "Assistant Superintendent, SAU 6 - the district's answer to the chair's question about whether 504 and IEP costs are reimbursed. The floor is handed to him mid-run at 59, 'Help me. Go ahead Michael.' ('Michael' 0.82), and Pratt uses 'Michael' for Koski three times in this recording (29, 31, 139, all 1.00). The register is institutional ('there can be some money that comes back in terms of Medicaid reimbursement', 'the burden of a 504 is totally on us'), unlike Frank Sprague's first-person practitioner recollections elsewhere in this same cluster. ALTERNATIVE READINGS DISCLOSED: 50-55 could be Sprague giving way to Koski at 59, and 'Michael' could in principle be Director of Student Services Michael McCosker, who is named nowhere in this recording"
+  },
+  "62": {
+   "name": "Mike Koski",
+   "role": "Assistant Superintendent, SAU 6 - the district's answer to the chair's question about whether 504 and IEP costs are reimbursed. The floor is handed to him mid-run at 59, 'Help me. Go ahead Michael.' ('Michael' 0.82), and Pratt uses 'Michael' for Koski three times in this recording (29, 31, 139, all 1.00). The register is institutional ('there can be some money that comes back in terms of Medicaid reimbursement', 'the burden of a 504 is totally on us'), unlike Frank Sprague's first-person practitioner recollections elsewhere in this same cluster. ALTERNATIVE READINGS DISCLOSED: 50-55 could be Sprague giving way to Koski at 59, and 'Michael' could in principle be Director of Student Services Michael McCosker, who is named nowhere in this recording"
+  },
+  "64": {
+   "name": "Mike Koski",
+   "role": "Assistant Superintendent, SAU 6 - the district's answer to the chair's question about whether 504 and IEP costs are reimbursed. The floor is handed to him mid-run at 59, 'Help me. Go ahead Michael.' ('Michael' 0.82), and Pratt uses 'Michael' for Koski three times in this recording (29, 31, 139, all 1.00). The register is institutional ('there can be some money that comes back in terms of Medicaid reimbursement', 'the burden of a 504 is totally on us'), unlike Frank Sprague's first-person practitioner recollections elsewhere in this same cluster. ALTERNATIVE READINGS DISCLOSED: 50-55 could be Sprague giving way to Koski at 59, and 'Michael' could in principle be Director of Student Services Michael McCosker, who is named nowhere in this recording"
+  },
+  "66": {
+   "name": "Mike Koski",
+   "role": "Assistant Superintendent, SAU 6 - the district's answer to the chair's question about whether 504 and IEP costs are reimbursed. The floor is handed to him mid-run at 59, 'Help me. Go ahead Michael.' ('Michael' 0.82), and Pratt uses 'Michael' for Koski three times in this recording (29, 31, 139, all 1.00). The register is institutional ('there can be some money that comes back in terms of Medicaid reimbursement', 'the burden of a 504 is totally on us'), unlike Frank Sprague's first-person practitioner recollections elsewhere in this same cluster. ALTERNATIVE READINGS DISCLOSED: 50-55 could be Sprague giving way to Koski at 59, and 'Michael' could in principle be Director of Student Services Michael McCosker, who is named nowhere in this recording"
+  },
+  "69": {
+   "name": "Mike Koski",
+   "role": "Assistant Superintendent, SAU 6 - the district's answer to the chair's question about whether 504 and IEP costs are reimbursed. The floor is handed to him mid-run at 59, 'Help me. Go ahead Michael.' ('Michael' 0.82), and Pratt uses 'Michael' for Koski three times in this recording (29, 31, 139, all 1.00). The register is institutional ('there can be some money that comes back in terms of Medicaid reimbursement', 'the burden of a 504 is totally on us'), unlike Frank Sprague's first-person practitioner recollections elsewhere in this same cluster. ALTERNATIVE READINGS DISCLOSED: 50-55 could be Sprague giving way to Koski at 59, and 'Michael' could in principle be Director of Student Services Michael McCosker, who is named nowhere in this recording"
+  },
+  "71": {
+   "name": "Mike Koski",
+   "role": "Assistant Superintendent, SAU 6 - the district's answer to the chair's question about whether 504 and IEP costs are reimbursed. The floor is handed to him mid-run at 59, 'Help me. Go ahead Michael.' ('Michael' 0.82), and Pratt uses 'Michael' for Koski three times in this recording (29, 31, 139, all 1.00). The register is institutional ('there can be some money that comes back in terms of Medicaid reimbursement', 'the burden of a 504 is totally on us'), unlike Frank Sprague's first-person practitioner recollections elsewhere in this same cluster. ALTERNATIVE READINGS DISCLOSED: 50-55 could be Sprague giving way to Koski at 59, and 'Michael' could in principle be Director of Student Services Michael McCosker, who is named nowhere in this recording"
+  },
+  "74": {
+   "name": "Mike Koski",
+   "role": "Assistant Superintendent, SAU 6 - the district's answer to the chair's question about whether 504 and IEP costs are reimbursed. The floor is handed to him mid-run at 59, 'Help me. Go ahead Michael.' ('Michael' 0.82), and Pratt uses 'Michael' for Koski three times in this recording (29, 31, 139, all 1.00). The register is institutional ('there can be some money that comes back in terms of Medicaid reimbursement', 'the burden of a 504 is totally on us'), unlike Frank Sprague's first-person practitioner recollections elsewhere in this same cluster. ALTERNATIVE READINGS DISCLOSED: 50-55 could be Sprague giving way to Koski at 59, and 'Michael' could in principle be Director of Student Services Michael McCosker, who is named nowhere in this recording"
+  },
+  "80": {
+   "name": "Mike Koski",
+   "role": "Assistant Superintendent, SAU 6 - the district's answer to the chair's question about whether 504 and IEP costs are reimbursed. The floor is handed to him mid-run at 59, 'Help me. Go ahead Michael.' ('Michael' 0.82), and Pratt uses 'Michael' for Koski three times in this recording (29, 31, 139, all 1.00). The register is institutional ('there can be some money that comes back in terms of Medicaid reimbursement', 'the burden of a 504 is totally on us'), unlike Frank Sprague's first-person practitioner recollections elsewhere in this same cluster. ALTERNATIVE READINGS DISCLOSED: 50-55 could be Sprague giving way to Koski at 59, and 'Michael' could in principle be Director of Student Services Michael McCosker, who is named nowhere in this recording"
+  },
+  "82": {
+   "name": "Mike Koski",
+   "role": "Assistant Superintendent, SAU 6 - the district's answer to the chair's question about whether 504 and IEP costs are reimbursed. The floor is handed to him mid-run at 59, 'Help me. Go ahead Michael.' ('Michael' 0.82), and Pratt uses 'Michael' for Koski three times in this recording (29, 31, 139, all 1.00). The register is institutional ('there can be some money that comes back in terms of Medicaid reimbursement', 'the burden of a 504 is totally on us'), unlike Frank Sprague's first-person practitioner recollections elsewhere in this same cluster. ALTERNATIVE READINGS DISCLOSED: 50-55 could be Sprague giving way to Koski at 59, and 'Michael' could in principle be Director of Student Services Michael McCosker, who is named nowhere in this recording"
+  },
+  "146": {
+   "name": "Mike Koski",
+   "role": "Assistant Superintendent, SAU 6 - two clipped fragments of his own sentence, which continues in Speaker 2 at 147 and 149: 'We've all figured this out / somehow without being taught... / being / successful managing yourself'"
+  },
+  "148": {
+   "name": "Mike Koski",
+   "role": "Assistant Superintendent, SAU 6 - two clipped fragments of his own sentence, which continues in Speaker 2 at 147 and 149: 'We've all figured this out / somehow without being taught... / being / successful managing yourself'"
+  },
+  "221": {
+   "name": "Patrick O'Hearn",
+   "role": "Director of Human Resources - the onset of his own presentation, contiguous with 222 and 223: 'So you can find in your / packet there's / a three sheet paper on the front'"
+  },
+  "73": {
+   "name": "Arlene Hawkins",
+   "role": "Claremont School Board member - the chair calls on her by name in the segment immediately before ('Arlene was first and then Arlene', 72, confidences 0.99 and 1.00) and this voice asks the 504-to-evaluation questions that follow"
+  },
+  "75": {
+   "name": "Arlene Hawkins",
+   "role": "Claremont School Board member - the chair calls on her by name in the segment immediately before ('Arlene was first and then Arlene', 72, confidences 0.99 and 1.00) and this voice asks the 504-to-evaluation questions that follow"
+  },
+  "79": {
+   "name": "Arlene Hawkins",
+   "role": "Claremont School Board member - the chair calls on her by name in the segment immediately before ('Arlene was first and then Arlene', 72, confidences 0.99 and 1.00) and this voice asks the 504-to-evaluation questions that follow"
+  },
+  "81": {
+   "name": "Arlene Hawkins",
+   "role": "Claremont School Board member - the chair calls on her by name in the segment immediately before ('Arlene was first and then Arlene', 72, confidences 0.99 and 1.00) and this voice asks the 504-to-evaluation questions that follow"
+  },
+  "83": {
+   "name": "Arlene Hawkins",
+   "role": "Claremont School Board member - the chair calls on her by name in the segment immediately before ('Arlene was first and then Arlene', 72, confidences 0.99 and 1.00) and this voice asks the 504-to-evaluation questions that follow"
+  },
+  "142": {
+   "name": "Arlene Hawkins",
+   "role": "Claremont School Board member - the chair recognises 'Arlene, just.' (141, 0.93) with a 0.00 s gap into this segment"
+  },
+  "176": {
+   "name": "Arlene Hawkins",
+   "role": "Claremont School Board member - she questions the Girls on the Run funding history and then seconds the motion (187), which the chair confirms one second later: 'Okay. Arlene. Seconds. Motion.' (188, 'Arlene' 0.94)"
+  },
+  "179": {
+   "name": "Arlene Hawkins",
+   "role": "Claremont School Board member - she questions the Girls on the Run funding history and then seconds the motion (187), which the chair confirms one second later: 'Okay. Arlene. Seconds. Motion.' (188, 'Arlene' 0.94)"
+  },
+  "187": {
+   "name": "Arlene Hawkins",
+   "role": "Claremont School Board member - she questions the Girls on the Run funding history and then seconds the motion (187), which the chair confirms one second later: 'Okay. Arlene. Seconds. Motion.' (188, 'Arlene' 0.94)"
+  },
+  "432": {
+   "name": "Arlene Hawkins",
+   "role": "Claremont School Board member - the chair recognises 'Arlene.' (431, 0.95) with a 0.08 s gap into 432. Her point is that the job description should refer to CTE ('We made a commitment to support the tech center'), which 448 continues ('it's more than just the qualifications... I'd like to see more reference to it performing the job in relation to CTE')"
+  },
+  "433": {
+   "name": "Arlene Hawkins",
+   "role": "Claremont School Board member - the chair recognises 'Arlene.' (431, 0.95) with a 0.08 s gap into 432. Her point is that the job description should refer to CTE ('We made a commitment to support the tech center'), which 448 continues ('it's more than just the qualifications... I'd like to see more reference to it performing the job in relation to CTE')"
+  },
+  "448": {
+   "name": "Arlene Hawkins",
+   "role": "Claremont School Board member - the chair recognises 'Arlene.' (431, 0.95) with a 0.08 s gap into 432. Her point is that the job description should refer to CTE ('We made a commitment to support the tech center'), which 448 continues ('it's more than just the qualifications... I'd like to see more reference to it performing the job in relation to CTE')"
+  },
+  "610": {
+   "name": "Arlene Hawkins",
+   "role": "Claremont School Board member and SAU 6 board chair - the chair hands her the item at 609 ('I know that Miss Hawkins has a something of', 'Hawkins' 1.00) and this voice answers 'I do.' She reports meeting that afternoon with 'Mr. Pride [Pratt] and myself and Chelsea' and wants the document ready for the SAU 6 meeting on 12 September"
+  },
+  "612": {
+   "name": "Arlene Hawkins",
+   "role": "Claremont School Board member and SAU 6 board chair - the chair hands her the item at 609 ('I know that Miss Hawkins has a something of', 'Hawkins' 1.00) and this voice answers 'I do.' She reports meeting that afternoon with 'Mr. Pride [Pratt] and myself and Chelsea' and wants the document ready for the SAU 6 meeting on 12 September"
+  },
+  "614": {
+   "name": "Arlene Hawkins",
+   "role": "Claremont School Board member and SAU 6 board chair - the chair hands her the item at 609 ('I know that Miss Hawkins has a something of', 'Hawkins' 1.00) and this voice answers 'I do.' She reports meeting that afternoon with 'Mr. Pride [Pratt] and myself and Chelsea' and wants the document ready for the SAU 6 meeting on 12 September"
+  },
+  "616": {
+   "name": "Arlene Hawkins",
+   "role": "Claremont School Board member and SAU 6 board chair - the chair hands her the item at 609 ('I know that Miss Hawkins has a something of', 'Hawkins' 1.00) and this voice answers 'I do.' She reports meeting that afternoon with 'Mr. Pride [Pratt] and myself and Chelsea' and wants the document ready for the SAU 6 meeting on 12 September"
+  },
+  "619": {
+   "name": "Arlene Hawkins",
+   "role": "Claremont School Board member and SAU 6 board chair - the chair hands her the item at 609 ('I know that Miss Hawkins has a something of', 'Hawkins' 1.00) and this voice answers 'I do.' She reports meeting that afternoon with 'Mr. Pride [Pratt] and myself and Chelsea' and wants the document ready for the SAU 6 meeting on 12 September"
+  },
+  "622": {
+   "name": "Arlene Hawkins",
+   "role": "Claremont School Board member and SAU 6 board chair - the chair hands her the item at 609 ('I know that Miss Hawkins has a something of', 'Hawkins' 1.00) and this voice answers 'I do.' She reports meeting that afternoon with 'Mr. Pride [Pratt] and myself and Chelsea' and wants the document ready for the SAU 6 meeting on 12 September"
+  },
+  "624": {
+   "name": "Arlene Hawkins",
+   "role": "Claremont School Board member and SAU 6 board chair - the chair hands her the item at 609 ('I know that Miss Hawkins has a something of', 'Hawkins' 1.00) and this voice answers 'I do.' She reports meeting that afternoon with 'Mr. Pride [Pratt] and myself and Chelsea' and wants the document ready for the SAU 6 meeting on 12 September"
+  },
+  "682": {
+   "name": "Arlene Hawkins",
+   "role": "Claremont School Board member - the curriculum-subcommittee report, which the chair opens at 681 ('Curriculum subcommittee.'). She is the board's curriculum representative under the 3/20/2024 subcommittee reading, and she says 'Mr. Kosugi [Koski] and I met' (682, 'Kosugi' 0.99)"
+  },
+  "683": {
+   "name": "Arlene Hawkins",
+   "role": "Claremont School Board member - the curriculum-subcommittee report, which the chair opens at 681 ('Curriculum subcommittee.'). She is the board's curriculum representative under the 3/20/2024 subcommittee reading, and she says 'Mr. Kosugi [Koski] and I met' (682, 'Kosugi' 0.99)"
+  },
+  "270": {
+   "name": "Candace Crawford",
+   "role": "Claremont School Board member - the continuation of her own restarted sentence: 269 (Speaker 4) 'We know that. Would it be easy[er]' + 270 'Would it be easier rather than asking you to answer that right now' + 273 'rather than have him answer right now, maybe give him the opportunity to get that information out to us'. MEDIUM CONFIDENCE: the attribution rests on the sentence restart and contiguous timing, not on a spoken name, and Speaker 6 otherwise carries Bonnie Miles and Arlene Hawkins"
+  },
+  "273": {
+   "name": "Candace Crawford",
+   "role": "Claremont School Board member - the continuation of her own restarted sentence: 269 (Speaker 4) 'We know that. Would it be easy[er]' + 270 'Would it be easier rather than asking you to answer that right now' + 273 'rather than have him answer right now, maybe give him the opportunity to get that information out to us'. MEDIUM CONFIDENCE: the attribution rests on the sentence restart and contiguous timing, not on a spoken name, and Speaker 6 otherwise carries Bonnie Miles and Arlene Hawkins"
+  },
+  "623": {
+   "name": "Arlene Hawkins",
+   "role": "Claremont School Board member - the middle of her own sentence, 622 + 623 + 624: 'And we have plenty / of people. The information about / and people can read it'"
+  },
+  "539": {
+   "name": "Michael Petrin",
+   "role": "Claremont School Board member - the middle of his own continuous argument against the word 'acting' (538 + 539 + 540, all contiguous at 0.08 s): '...the words acting are someone that are filling in the position for a temporary basis. / And that's the way I'm looking at this position. / It's a one year position'"
+  },
+  "201": {
+   "name": "Multiple",
+   "role": "Board members answering the roll call on the motion to enter nonpublic session under RSA 91-A:3, II(j) - several voices merged into one segment; the chair's own segments (202, 204) carry more of the same answers. No tally is announced"
+  },
+  "203": {
+   "name": "Multiple",
+   "role": "Board members answering the roll call on the motion to enter nonpublic session under RSA 91-A:3, II(j) - several voices merged into one segment; the chair's own segments (202, 204) carry more of the same answers. No tally is announced"
+  },
+  "207": {
+   "name": "Multiple",
+   "role": "Two voices in one segment - the motion to come out of nonpublic and the second. The chair identifies them one segment later: 'Arlene made the motion, Frank seconded' (208, 'Arlene' 0.92, 'Frank' 1.00)"
+  },
+  "210": {
+   "name": "Unidentified",
+   "role": "A seated Claremont School Board member answering the roll call to leave nonpublic session. By the roll order established at 4-6 and repeated at 208-215 (Skillen, Petrin, Miles, Hawkins, Crawford, Sprague, Whitney) this answer falls in Bonnie Miles's slot, but the chair's reading of that name was not transcribed, so the answer is not tied to a name"
+  },
+  "212": {
+   "name": "Candace Crawford",
+   "role": "Claremont School Board member - her 'Yes' on the roll call to leave nonpublic session; the chair reads 'Candace Crawford.' at the end of 211 (both words 1.00) 0.04 s earlier"
+  },
+  "214": {
+   "name": "Frank Sprague",
+   "role": "Vice Chair, Claremont School Board - his 'Yes' on the roll call to leave nonpublic session; the chair reads 'Frank Sprague.' at 213 (both words 1.00) 0.12 s earlier"
+  },
+  "216": {
+   "name": "Unidentified",
+   "role": "A board member answering the chair's 'Is there any motion to seal the minutes?' (215). NO MOTION TO SEAL WAS MADE - the nonpublic minutes of 8/21/2024 were left unsealed on this record"
+  },
+  "220": {
+   "name": "Patrick O'Hearn",
+   "role": "Director of Human Resources - his own short answers during his staff-nomination item, each contiguous with the board question it answers or with his own next segment"
+  },
+  "226": {
+   "name": "Patrick O'Hearn",
+   "role": "Director of Human Resources - his own short answers during his staff-nomination item, each contiguous with the board question it answers or with his own next segment"
+  },
+  "245": {
+   "name": "Patrick O'Hearn",
+   "role": "Director of Human Resources - his own short answers during his staff-nomination item, each contiguous with the board question it answers or with his own next segment"
+  },
+  "263": {
+   "name": "Patrick O'Hearn",
+   "role": "Director of Human Resources - his own short answers during his staff-nomination item, each contiguous with the board question it answers or with his own next segment"
+  },
+  "265": {
+   "name": "Patrick O'Hearn",
+   "role": "Director of Human Resources - his own short answers during his staff-nomination item, each contiguous with the board question it answers or with his own next segment"
+  },
+  "232": {
+   "name": "Unidentified",
+   "role": "The second on Frank Sprague's motion to accept the professional-staff nomination list, and a following fragment. The chair's next segment (233) reads as 'Second[ed]? Whitney Skillen?' ('Whitney' 0.99, 'still on' - an ASR rendering of 'Skillen'), but the seconder's own voice is not separately identifiable"
+  },
+  "234": {
+   "name": "Unidentified",
+   "role": "The second on Frank Sprague's motion to accept the professional-staff nomination list, and a following fragment. The chair's next segment (233) reads as 'Second[ed]? Whitney Skillen?' ('Whitney' 0.99, 'still on' - an ASR rendering of 'Skillen'), but the seconder's own voice is not separately identifiable"
+  },
+  "476": {
+   "name": "Heather Whitney",
+   "role": "Chair, Claremont School Board - a 2.1 s fragment between two of her own segments (475 'Without doing all that.' and 477 'It was a motion because so because'), all contiguous at 0.08 s"
+  },
+  "478": {
+   "name": "Frank Sprague",
+   "role": "Vice Chair, Claremont School Board - his 'relevant experience under preferred qualifications' proposal, which the diarizer alternates between Speakers 12 and 2 (478-483) with 0.00-0.08 s gaps"
+  },
+  "480": {
+   "name": "Frank Sprague",
+   "role": "Vice Chair, Claremont School Board - his 'relevant experience under preferred qualifications' proposal, which the diarizer alternates between Speakers 12 and 2 (478-483) with 0.00-0.08 s gaps"
+  },
+  "482": {
+   "name": "Frank Sprague",
+   "role": "Vice Chair, Claremont School Board - his 'relevant experience under preferred qualifications' proposal, which the diarizer alternates between Speakers 12 and 2 (478-483) with 0.00-0.08 s gaps"
+  },
+  "553": {
+   "name": "Multiple",
+   "role": "Four board members answering the roll call on Bonnie Miles's amendment, merged into one 3.6 s segment. The chair calls 'Whitney' (542) and 'Mike.' (551) individually; Michael Petrin votes No at 552 and the remaining four members' ayes land here. The chair declares 'No lies [the ayes] have it' at 554 with no count announced"
+  },
+  "584": {
+   "name": "Multiple",
+   "role": "Board members answering the roll call on the main motion, merged into one 2.2 s segment. The chair calls 'Miss Gillen' (580, Skillen votes Yes at 581) and 'Mr. patron?' (582, Petrin votes No at 583); the remaining ayes land here and in the chair's own next segment (585). No count is announced"
+  },
+  "656": {
+   "name": "Multiple",
+   "role": "Board members voting aye on permanently moving the first June meeting to a Tuesday - a voice vote with no count announced; the chair puts the question at 655 and declares 'Not opposed. The motion passes' at 657"
+  },
+  "306": {
+   "name": "Unidentified",
+   "role": "A seated Claremont School Board member - EITHER ARLENE HAWKINS OR BONNIE MILES. The diarizer merged the two women into one cluster (Speaker 6) and nothing in this stretch separates them: no chair recognition, no direct address, and both had already argued the same point earlier in the meeting - here the caution 'We need to go into nonpublic', spoken while Candace Crawford was starting to discuss the individual already hired (304), after which Crawford breaks off (307-308)"
+  },
+  "484": {
+   "name": "Unidentified",
+   "role": "A seated Claremont School Board member - EITHER ARLENE HAWKINS OR BONNIE MILES. The diarizer merged the two women into one cluster (Speaker 6) and nothing in this stretch separates them: no chair recognition, no direct address, and both had already argued the same point earlier in the meeting - this stretch turns Frank Sprague's 'relevant experience' proposal (479-483) into job-description language. Arlene Hawkins argued for a CTE reference in the job description at 433 and 448; Bonnie Miles said at 322-323 'I agree with what Frank said about meeting a CTE... more of a CTE focus'"
+  },
+  "486": {
+   "name": "Unidentified",
+   "role": "A seated Claremont School Board member - EITHER ARLENE HAWKINS OR BONNIE MILES. The diarizer merged the two women into one cluster (Speaker 6) and nothing in this stretch separates them: no chair recognition, no direct address, and both had already argued the same point earlier in the meeting - this stretch turns Frank Sprague's 'relevant experience' proposal (479-483) into job-description language. Arlene Hawkins argued for a CTE reference in the job description at 433 and 448; Bonnie Miles said at 322-323 'I agree with what Frank said about meeting a CTE... more of a CTE focus'"
+  },
+  "488": {
+   "name": "Unidentified",
+   "role": "A seated Claremont School Board member - EITHER ARLENE HAWKINS OR BONNIE MILES. The diarizer merged the two women into one cluster (Speaker 6) and nothing in this stretch separates them: no chair recognition, no direct address, and both had already argued the same point earlier in the meeting - this stretch turns Frank Sprague's 'relevant experience' proposal (479-483) into job-description language. Arlene Hawkins argued for a CTE reference in the job description at 433 and 448; Bonnie Miles said at 322-323 'I agree with what Frank said about meeting a CTE... more of a CTE focus'"
+  }
+ }
+}

@@ -1,0 +1,189 @@
+{
+ "Speaker 1": {
+  "name": "Frank Sprague",
+  "role": "Claremont School Board Chair (presides; answers roll call as 'Frank Sprague here' [6]; addressed 'Frank' by members [412])"
+ },
+ "Speaker 2": {
+  "name": "Unidentified",
+  "role": "Unidentified - fragment cluster (clipped onsets of several speakers); segments demonstrably from the student representative are reassigned to Lexi Grenier via overrides"
+ },
+ "Speaker 3": {
+  "name": "Karen Collison",
+  "role": "Stevens High School National Honor Society advisor (named 'Mrs. Collison' by the chair [67],[85]; first name 'Karen' [8]; ASR also 'Karen Carlson' [84], 'Mrs. Coulson' [110]; spelling unverified)"
+ },
+ "Speaker 4": {
+  "name": "Middleton McGoodwin",
+  "role": "Superintendent, SAU 6 (gives Superintendent's report [39]; addressed 'Middleton' [466],[536])"
+ },
+ "Speaker 5": {
+  "name": "Rebecca Zullo",
+  "role": "Claremont School Board Vice Chair (self-identifies 'Rebecca here' [252]; recognized 'Rebecca' [540],[578])"
+ },
+ "Speaker 6": {
+  "name": "Unidentified",
+  "role": "Unidentified - catch-all cluster of short acknowledgements, 'aye' chorus and clipped fragments from several board members and staff"
+ },
+ "Speaker 7": {
+  "name": "Lexi Grenier",
+  "role": "Student representative to the Claremont School Board, Stevens High School senior (surname per Pat Barry [131], ASR 'Grenier', spelling unverified; cluster also holds clipped onsets of other speakers, see overrides)"
+ },
+ "Speaker 8": {
+  "name": "Lexi Grenier",
+  "role": "Student representative to the Claremont School Board, Stevens High School senior (surname per Pat Barry [131], ASR 'Grenier', spelling unverified; cluster also holds clipped onsets of other speakers, see overrides)"
+ },
+ "Speaker 9": {
+  "name": "Michael O'Neill",
+  "role": "Business Administrator, SAU 6 (introduced by the superintendent as 'Michael Neil' [368]; thanked 'Mike' [383]; surname spelling per roster, unverified)"
+ },
+ "Speaker 10": {
+  "name": "Carolyn Towle",
+  "role": "Claremont School Board member (recognized 'Carolyn' [56],[265],[543]; ASR 'Carolyn tall' in roll call [6])"
+ },
+ "Speaker 11": {
+  "name": "Unidentified",
+  "role": "Unidentified - fragmentary cluster mixing several board members and staff (motions, seconds, clipped onsets); not separable on evidence"
+ },
+ "Speaker 12": {
+  "name": "Unidentified",
+  "role": "Unidentified - board member seconding a motion [124] and a fragment [402]"
+ },
+ "Speaker 13": {
+  "name": "Patricia Barry",
+  "role": "Principal, Stevens High School (addressed 'Thank you Pat' [560], 'Mrs. Berry' [561])"
+ },
+ "Speaker 14": {
+  "name": "Unidentified",
+  "role": "Unidentified - single interjection"
+ },
+ "Speaker 15": {
+  "name": "Tom Connor",
+  "role": "Claremont attorney, Claremont school funding litigation (invited as 'Mister Connor' by the chair [145]; addressed 'Tom' by John Tobin [186])"
+ },
+ "Speaker 16": {
+  "name": "John Tobin",
+  "role": "Attorney, Claremont school funding litigation, retired from New Hampshire Legal Assistance (introduced by Tom Connor [146]; addressed 'Mr. Tobin' [298])"
+ },
+ "Speaker 17": {
+  "name": "Jason Benware",
+  "role": "Claremont School Board member (raised the cell phone item; addressed 'Jason' [500],[602]; ASR 'Jason Bentley' [3], 'Jason Ben where' [479], 'Mr. Ben were' [312])"
+ },
+ "Speaker 18": {
+  "name": "Michelle Pierce",
+  "role": "Claremont School Board member (addressed 'Yes, ma'am' [780], 'Did that help Michelle' [905]; LeClair names 'what Michelle is referring to' [1026] of this voice's request; female member not Zullo or Towle)"
+ },
+ "Speaker 19": {
+  "name": "Jason Benware",
+  "role": "Claremont School Board member (raised the cell phone item; addressed 'Jason' [500],[602]; ASR 'Jason Bentley' [3], 'Jason Ben where' [479], 'Mr. Ben were' [312])"
+ },
+ "Speaker 20": {
+  "name": "Cory LeClair",
+  "role": "Assistant Superintendent, SAU 6 (addressed 'Corey' [736],[910]; presents community engagement grant)"
+ },
+ "Speaker 21": {
+  "name": "Unidentified",
+  "role": "Unidentified - board member (not Steven Horsky, whom this voice describes in the third person [1109]); possibly Michael Petrin, reported as arriving late [5], but never named on the recording"
+ },
+ "Speaker 22": {
+  "name": "Unidentified",
+  "role": "Unidentified - single fragment"
+ },
+ "__overrides__": {
+  "2": {
+   "name": "Unidentified",
+   "role": "Unidentified - roll-call response"
+  },
+  "3": {
+   "name": "Unidentified",
+   "role": "Unidentified - roll call: names called by the clerk mixed with members answering"
+  },
+  "4": {
+   "name": "Mary Woodman",
+   "role": "School District Clerk and board recording secretary (asked by the chair to take roll [1])"
+  },
+  "6": {
+   "name": "Mary Woodman"
+  },
+  "57": {
+   "name": "Steven Horsky",
+   "role": "Claremont School Board member (recognized 'Steve' by the chair [56]; answers roll call 'Steven. Here' [3])"
+  },
+  "70": {
+   "name": "Unidentified",
+   "role": "Unidentified - short remark before the NHS presentation"
+  },
+  "392": {
+   "name": "Unidentified",
+   "role": "Unidentified - single fragment"
+  },
+  "505": {
+   "name": "Unidentified",
+   "role": "Unidentified - single fragment"
+  },
+  "594": {
+   "name": "Jason Benware"
+  },
+  "596": {
+   "name": "Jason Benware"
+  },
+  "645": {
+   "name": "Cory LeClair"
+  },
+  "647": {
+   "name": "Cory LeClair"
+  },
+  "648": {
+   "name": "Cory LeClair"
+  },
+  "649": {
+   "name": "Cory LeClair"
+  },
+  "719": {
+   "name": "Cory LeClair"
+  },
+  "721": {
+   "name": "Cory LeClair"
+  },
+  "741": {
+   "name": "Cory LeClair"
+  },
+  "925": {
+   "name": "Unidentified",
+   "role": "Unidentified - board member answering the superintendent's question about printed agendas"
+  },
+  "19": {
+   "name": "Lexi Grenier",
+   "role": "Student representative to the Claremont School Board, Stevens High School senior (surname per Pat Barry [131], ASR 'Grenier', spelling unverified; cluster also holds clipped onsets of other speakers, see overrides)"
+  },
+  "21": {
+   "name": "Lexi Grenier",
+   "role": "Student representative to the Claremont School Board, Stevens High School senior (surname per Pat Barry [131], ASR 'Grenier', spelling unverified; cluster also holds clipped onsets of other speakers, see overrides)"
+  },
+  "22": {
+   "name": "Lexi Grenier",
+   "role": "Student representative to the Claremont School Board, Stevens High School senior (surname per Pat Barry [131], ASR 'Grenier', spelling unverified; cluster also holds clipped onsets of other speakers, see overrides)"
+  },
+  "106": {
+   "name": "Lexi Grenier",
+   "role": "Student representative to the Claremont School Board, Stevens High School senior (surname per Pat Barry [131], ASR 'Grenier', spelling unverified; cluster also holds clipped onsets of other speakers, see overrides)"
+  },
+  "108": {
+   "name": "Lexi Grenier",
+   "role": "Student representative to the Claremont School Board, Stevens High School senior (surname per Pat Barry [131], ASR 'Grenier', spelling unverified; cluster also holds clipped onsets of other speakers, see overrides)"
+  },
+  "116": {
+   "name": "Lexi Grenier",
+   "role": "Student representative to the Claremont School Board, Stevens High School senior (surname per Pat Barry [131], ASR 'Grenier', spelling unverified; cluster also holds clipped onsets of other speakers, see overrides)"
+  },
+  "138": {
+   "name": "Lexi Grenier",
+   "role": "Student representative to the Claremont School Board, Stevens High School senior (surname per Pat Barry [131], ASR 'Grenier', spelling unverified; cluster also holds clipped onsets of other speakers, see overrides)"
+  },
+  "143": {
+   "name": "Lexi Grenier",
+   "role": "Student representative to the Claremont School Board, Stevens High School senior (surname per Pat Barry [131], ASR 'Grenier', spelling unverified; cluster also holds clipped onsets of other speakers, see overrides)"
+  },
+  "1013": {
+   "name": "Rebecca Zullo"
+  }
+ }
+}

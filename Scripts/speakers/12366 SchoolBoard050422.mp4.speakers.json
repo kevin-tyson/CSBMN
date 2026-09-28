@@ -1,0 +1,315 @@
+{
+ "Speaker 1": {
+  "name": "Unidentified",
+  "role": "Unidentified - single opening line [0] before the chair takes the floor (possibly the chair, uncertain)"
+ },
+ "Speaker 2": {
+  "name": "Michael Petrin",
+  "role": "Claremont School Board Chair (leads pledge and runs the meeting [1-20]; answers roll 'Patron here' [7]; superintendent: 'Thank you, Chair Peter' [21]; Nester: 'Michael's right' [213] after this voice; 'I need to know if the board wants me to sign on behalf of the board' [738])"
+ },
+ "Speaker 3": {
+  "name": "Unidentified",
+  "role": "Unidentified - large mixed cluster: pledge, seconds, 'aye' votes, roll-call answers, backchannel and fragments of other speakers' sentences"
+ },
+ "Speaker 4": {
+  "name": "Whitney Skillen",
+  "role": "Claremont School Board member (Frank Sprague: 'similar to what Whitney just said' [82] after [75-77]; Nester: 'Whitney' [245] before [246] and 'let's say I'm Whitney Skilling' [255] addressing this voice; says 'I'm an epidemiologist' [253]; see overrides for roll-call readings merged into this cluster)"
+ },
+ "Speaker 5": {
+  "name": "Heather Whitney",
+  "role": "Claremont School Board Vice Chair (Frank Sprague: 'piggyback on what Heather said' [180] after this voice [145-177]; Lewis: 'to your question, Heather' [411]; chair: 'Heather made the motion' [825] after [818])"
+ },
+ "Speaker 6": {
+  "name": "Ben Nester",
+  "role": "Director of Special Education, SAU 6 (Heather Whitney: 'Ben, is a question for you' [145]; chair: 'Mr. Nester' [236] before the early childhood presentation [237-485]; 'Thank you Ben' [525])"
+ },
+ "Speaker 7": {
+  "name": "Michael Tempesta",
+  "role": "Superintendent, SAU 6 (delivers the superintendent's report and ESSER plan [21-72]; 'Just one question for Mike' [222] answered by this voice)"
+ },
+ "Speaker 8": {
+  "name": "Dr. Janeiro",
+  "role": "SAU 6 curriculum administrator (superintendent: 'Doctor Janeiro to introduce Stephanie Hurst' [21] before this voice [23-26]; surname as heard by ASR, unverified; possibly the 'Mary Ellen' named on 5/18/22 and 6/15/22, uncertain)"
+ },
+ "Speaker 9": {
+  "name": "Stephanie Hurst",
+  "role": "Incoming SAU 6 literacy specialist from 7/1/2022 (introduced by Dr. Janeiro [23-26]; 'offered the position as Literacy specialist' [28])"
+ },
+ "Speaker 10": {
+  "name": "Richard Seaman",
+  "role": "Assistant Superintendent for Finance, SAU 6 (presents the FY23 general assurances and DOE corrective action plan [645-764] and the policies [769-792]; 'Not in the time that I have been here' [727]; Herzog: 'I've already talked to Richard about that' [592]; medium - no direct name address; see overrides for Frank Sprague segments before [645])"
+ },
+ "Speaker 11": {
+  "name": "Melissa Lewis",
+  "role": "Principal, Disnard Elementary School (superintendent: 'put Principal Lewis on the spot' [101] before [110]; 'I can speak to Disney (Disnard)' [118]; Frank Sprague: 'that's not what Melissa just said' [190])"
+ },
+ "Speaker 12": {
+  "name": "Joshua Lambert",
+  "role": "Claremont School Board member (Seaman: 'Josh, you're a member of the policy (committee)' [769] before this voice moves to table [770]; chair: 'Josh made the motion' [778])"
+ },
+ "Speaker 13": {
+  "name": "Alex Herzog",
+  "role": "Director, Sugar River Valley Regional Technical Center (chair: 'Mr. Herzog. Doctor Herzog.' [527] before the CTE needs assessment report [528-642]; 'So, Alex' [596])"
+ },
+ "Speaker 14": {
+  "name": "Unidentified",
+  "role": "Unidentified - two fragments: continuation of a board member's question [576] and a roll-call name [830]"
+ },
+ "Speaker 15": {
+  "name": "Frank Sprague",
+  "role": "Claremont School Board member (Seaman answers 'Frank' [727], [732] to this voice's questions [726-736]; makes the policy motions [797], [806])"
+ },
+ "__overrides__": {
+  "82": {
+   "name": "Frank Sprague",
+   "role": "Claremont School Board member (Nester: 'Frank' [501] after [493-498]; Herzog: 'Frank, that's a really good question' [564] after [563]; Lewis answers 'the question about Mr. Sprague' [452]; 'ever since I was in education' [505]; merged into Seaman's cluster before [645])"
+  },
+  "83": {
+   "name": "Frank Sprague",
+   "role": "Claremont School Board member (Nester: 'Frank' [501] after [493-498]; Herzog: 'Frank, that's a really good question' [564] after [563]; Lewis answers 'the question about Mr. Sprague' [452]; 'ever since I was in education' [505]; merged into Seaman's cluster before [645])"
+  },
+  "84": {
+   "name": "Frank Sprague",
+   "role": "Claremont School Board member (Nester: 'Frank' [501] after [493-498]; Herzog: 'Frank, that's a really good question' [564] after [563]; Lewis answers 'the question about Mr. Sprague' [452]; 'ever since I was in education' [505]; merged into Seaman's cluster before [645])"
+  },
+  "85": {
+   "name": "Frank Sprague",
+   "role": "Claremont School Board member (Nester: 'Frank' [501] after [493-498]; Herzog: 'Frank, that's a really good question' [564] after [563]; Lewis answers 'the question about Mr. Sprague' [452]; 'ever since I was in education' [505]; merged into Seaman's cluster before [645])"
+  },
+  "98": {
+   "name": "Frank Sprague",
+   "role": "Claremont School Board member (Nester: 'Frank' [501] after [493-498]; Herzog: 'Frank, that's a really good question' [564] after [563]; Lewis answers 'the question about Mr. Sprague' [452]; 'ever since I was in education' [505]; merged into Seaman's cluster before [645])"
+  },
+  "162": {
+   "name": "Frank Sprague",
+   "role": "Claremont School Board member (Nester: 'Frank' [501] after [493-498]; Herzog: 'Frank, that's a really good question' [564] after [563]; Lewis answers 'the question about Mr. Sprague' [452]; 'ever since I was in education' [505]; merged into Seaman's cluster before [645])"
+  },
+  "180": {
+   "name": "Frank Sprague",
+   "role": "Claremont School Board member (Nester: 'Frank' [501] after [493-498]; Herzog: 'Frank, that's a really good question' [564] after [563]; Lewis answers 'the question about Mr. Sprague' [452]; 'ever since I was in education' [505]; merged into Seaman's cluster before [645])"
+  },
+  "181": {
+   "name": "Frank Sprague",
+   "role": "Claremont School Board member (Nester: 'Frank' [501] after [493-498]; Herzog: 'Frank, that's a really good question' [564] after [563]; Lewis answers 'the question about Mr. Sprague' [452]; 'ever since I was in education' [505]; merged into Seaman's cluster before [645])"
+  },
+  "182": {
+   "name": "Frank Sprague",
+   "role": "Claremont School Board member (Nester: 'Frank' [501] after [493-498]; Herzog: 'Frank, that's a really good question' [564] after [563]; Lewis answers 'the question about Mr. Sprague' [452]; 'ever since I was in education' [505]; merged into Seaman's cluster before [645])"
+  },
+  "183": {
+   "name": "Frank Sprague",
+   "role": "Claremont School Board member (Nester: 'Frank' [501] after [493-498]; Herzog: 'Frank, that's a really good question' [564] after [563]; Lewis answers 'the question about Mr. Sprague' [452]; 'ever since I was in education' [505]; merged into Seaman's cluster before [645])"
+  },
+  "185": {
+   "name": "Frank Sprague",
+   "role": "Claremont School Board member (Nester: 'Frank' [501] after [493-498]; Herzog: 'Frank, that's a really good question' [564] after [563]; Lewis answers 'the question about Mr. Sprague' [452]; 'ever since I was in education' [505]; merged into Seaman's cluster before [645])"
+  },
+  "187": {
+   "name": "Frank Sprague",
+   "role": "Claremont School Board member (Nester: 'Frank' [501] after [493-498]; Herzog: 'Frank, that's a really good question' [564] after [563]; Lewis answers 'the question about Mr. Sprague' [452]; 'ever since I was in education' [505]; merged into Seaman's cluster before [645])"
+  },
+  "190": {
+   "name": "Frank Sprague",
+   "role": "Claremont School Board member (Nester: 'Frank' [501] after [493-498]; Herzog: 'Frank, that's a really good question' [564] after [563]; Lewis answers 'the question about Mr. Sprague' [452]; 'ever since I was in education' [505]; merged into Seaman's cluster before [645])"
+  },
+  "195": {
+   "name": "Frank Sprague",
+   "role": "Claremont School Board member (Nester: 'Frank' [501] after [493-498]; Herzog: 'Frank, that's a really good question' [564] after [563]; Lewis answers 'the question about Mr. Sprague' [452]; 'ever since I was in education' [505]; merged into Seaman's cluster before [645])"
+  },
+  "197": {
+   "name": "Frank Sprague",
+   "role": "Claremont School Board member (Nester: 'Frank' [501] after [493-498]; Herzog: 'Frank, that's a really good question' [564] after [563]; Lewis answers 'the question about Mr. Sprague' [452]; 'ever since I was in education' [505]; merged into Seaman's cluster before [645])"
+  },
+  "199": {
+   "name": "Frank Sprague",
+   "role": "Claremont School Board member (Nester: 'Frank' [501] after [493-498]; Herzog: 'Frank, that's a really good question' [564] after [563]; Lewis answers 'the question about Mr. Sprague' [452]; 'ever since I was in education' [505]; merged into Seaman's cluster before [645])"
+  },
+  "201": {
+   "name": "Frank Sprague",
+   "role": "Claremont School Board member (Nester: 'Frank' [501] after [493-498]; Herzog: 'Frank, that's a really good question' [564] after [563]; Lewis answers 'the question about Mr. Sprague' [452]; 'ever since I was in education' [505]; merged into Seaman's cluster before [645])"
+  },
+  "262": {
+   "name": "Frank Sprague",
+   "role": "Claremont School Board member (Nester: 'Frank' [501] after [493-498]; Herzog: 'Frank, that's a really good question' [564] after [563]; Lewis answers 'the question about Mr. Sprague' [452]; 'ever since I was in education' [505]; merged into Seaman's cluster before [645])"
+  },
+  "280": {
+   "name": "Frank Sprague",
+   "role": "Claremont School Board member (Nester: 'Frank' [501] after [493-498]; Herzog: 'Frank, that's a really good question' [564] after [563]; Lewis answers 'the question about Mr. Sprague' [452]; 'ever since I was in education' [505]; merged into Seaman's cluster before [645])"
+  },
+  "339": {
+   "name": "Frank Sprague",
+   "role": "Claremont School Board member (Nester: 'Frank' [501] after [493-498]; Herzog: 'Frank, that's a really good question' [564] after [563]; Lewis answers 'the question about Mr. Sprague' [452]; 'ever since I was in education' [505]; merged into Seaman's cluster before [645])"
+  },
+  "341": {
+   "name": "Frank Sprague",
+   "role": "Claremont School Board member (Nester: 'Frank' [501] after [493-498]; Herzog: 'Frank, that's a really good question' [564] after [563]; Lewis answers 'the question about Mr. Sprague' [452]; 'ever since I was in education' [505]; merged into Seaman's cluster before [645])"
+  },
+  "343": {
+   "name": "Frank Sprague",
+   "role": "Claremont School Board member (Nester: 'Frank' [501] after [493-498]; Herzog: 'Frank, that's a really good question' [564] after [563]; Lewis answers 'the question about Mr. Sprague' [452]; 'ever since I was in education' [505]; merged into Seaman's cluster before [645])"
+  },
+  "379": {
+   "name": "Frank Sprague",
+   "role": "Claremont School Board member (Nester: 'Frank' [501] after [493-498]; Herzog: 'Frank, that's a really good question' [564] after [563]; Lewis answers 'the question about Mr. Sprague' [452]; 'ever since I was in education' [505]; merged into Seaman's cluster before [645])"
+  },
+  "381": {
+   "name": "Frank Sprague",
+   "role": "Claremont School Board member (Nester: 'Frank' [501] after [493-498]; Herzog: 'Frank, that's a really good question' [564] after [563]; Lewis answers 'the question about Mr. Sprague' [452]; 'ever since I was in education' [505]; merged into Seaman's cluster before [645])"
+  },
+  "412": {
+   "name": "Frank Sprague",
+   "role": "Claremont School Board member (Nester: 'Frank' [501] after [493-498]; Herzog: 'Frank, that's a really good question' [564] after [563]; Lewis answers 'the question about Mr. Sprague' [452]; 'ever since I was in education' [505]; merged into Seaman's cluster before [645])"
+  },
+  "453": {
+   "name": "Frank Sprague",
+   "role": "Claremont School Board member (Nester: 'Frank' [501] after [493-498]; Herzog: 'Frank, that's a really good question' [564] after [563]; Lewis answers 'the question about Mr. Sprague' [452]; 'ever since I was in education' [505]; merged into Seaman's cluster before [645])"
+  },
+  "457": {
+   "name": "Frank Sprague",
+   "role": "Claremont School Board member (Nester: 'Frank' [501] after [493-498]; Herzog: 'Frank, that's a really good question' [564] after [563]; Lewis answers 'the question about Mr. Sprague' [452]; 'ever since I was in education' [505]; merged into Seaman's cluster before [645])"
+  },
+  "458": {
+   "name": "Frank Sprague",
+   "role": "Claremont School Board member (Nester: 'Frank' [501] after [493-498]; Herzog: 'Frank, that's a really good question' [564] after [563]; Lewis answers 'the question about Mr. Sprague' [452]; 'ever since I was in education' [505]; merged into Seaman's cluster before [645])"
+  },
+  "462": {
+   "name": "Frank Sprague",
+   "role": "Claremont School Board member (Nester: 'Frank' [501] after [493-498]; Herzog: 'Frank, that's a really good question' [564] after [563]; Lewis answers 'the question about Mr. Sprague' [452]; 'ever since I was in education' [505]; merged into Seaman's cluster before [645])"
+  },
+  "465": {
+   "name": "Frank Sprague",
+   "role": "Claremont School Board member (Nester: 'Frank' [501] after [493-498]; Herzog: 'Frank, that's a really good question' [564] after [563]; Lewis answers 'the question about Mr. Sprague' [452]; 'ever since I was in education' [505]; merged into Seaman's cluster before [645])"
+  },
+  "467": {
+   "name": "Frank Sprague",
+   "role": "Claremont School Board member (Nester: 'Frank' [501] after [493-498]; Herzog: 'Frank, that's a really good question' [564] after [563]; Lewis answers 'the question about Mr. Sprague' [452]; 'ever since I was in education' [505]; merged into Seaman's cluster before [645])"
+  },
+  "469": {
+   "name": "Frank Sprague",
+   "role": "Claremont School Board member (Nester: 'Frank' [501] after [493-498]; Herzog: 'Frank, that's a really good question' [564] after [563]; Lewis answers 'the question about Mr. Sprague' [452]; 'ever since I was in education' [505]; merged into Seaman's cluster before [645])"
+  },
+  "472": {
+   "name": "Frank Sprague",
+   "role": "Claremont School Board member (Nester: 'Frank' [501] after [493-498]; Herzog: 'Frank, that's a really good question' [564] after [563]; Lewis answers 'the question about Mr. Sprague' [452]; 'ever since I was in education' [505]; merged into Seaman's cluster before [645])"
+  },
+  "493": {
+   "name": "Frank Sprague",
+   "role": "Claremont School Board member (Nester: 'Frank' [501] after [493-498]; Herzog: 'Frank, that's a really good question' [564] after [563]; Lewis answers 'the question about Mr. Sprague' [452]; 'ever since I was in education' [505]; merged into Seaman's cluster before [645])"
+  },
+  "495": {
+   "name": "Frank Sprague",
+   "role": "Claremont School Board member (Nester: 'Frank' [501] after [493-498]; Herzog: 'Frank, that's a really good question' [564] after [563]; Lewis answers 'the question about Mr. Sprague' [452]; 'ever since I was in education' [505]; merged into Seaman's cluster before [645])"
+  },
+  "498": {
+   "name": "Frank Sprague",
+   "role": "Claremont School Board member (Nester: 'Frank' [501] after [493-498]; Herzog: 'Frank, that's a really good question' [564] after [563]; Lewis answers 'the question about Mr. Sprague' [452]; 'ever since I was in education' [505]; merged into Seaman's cluster before [645])"
+  },
+  "505": {
+   "name": "Frank Sprague",
+   "role": "Claremont School Board member (Nester: 'Frank' [501] after [493-498]; Herzog: 'Frank, that's a really good question' [564] after [563]; Lewis answers 'the question about Mr. Sprague' [452]; 'ever since I was in education' [505]; merged into Seaman's cluster before [645])"
+  },
+  "506": {
+   "name": "Frank Sprague",
+   "role": "Claremont School Board member (Nester: 'Frank' [501] after [493-498]; Herzog: 'Frank, that's a really good question' [564] after [563]; Lewis answers 'the question about Mr. Sprague' [452]; 'ever since I was in education' [505]; merged into Seaman's cluster before [645])"
+  },
+  "508": {
+   "name": "Frank Sprague",
+   "role": "Claremont School Board member (Nester: 'Frank' [501] after [493-498]; Herzog: 'Frank, that's a really good question' [564] after [563]; Lewis answers 'the question about Mr. Sprague' [452]; 'ever since I was in education' [505]; merged into Seaman's cluster before [645])"
+  },
+  "510": {
+   "name": "Frank Sprague",
+   "role": "Claremont School Board member (Nester: 'Frank' [501] after [493-498]; Herzog: 'Frank, that's a really good question' [564] after [563]; Lewis answers 'the question about Mr. Sprague' [452]; 'ever since I was in education' [505]; merged into Seaman's cluster before [645])"
+  },
+  "514": {
+   "name": "Frank Sprague",
+   "role": "Claremont School Board member (Nester: 'Frank' [501] after [493-498]; Herzog: 'Frank, that's a really good question' [564] after [563]; Lewis answers 'the question about Mr. Sprague' [452]; 'ever since I was in education' [505]; merged into Seaman's cluster before [645])"
+  },
+  "517": {
+   "name": "Frank Sprague",
+   "role": "Claremont School Board member (Nester: 'Frank' [501] after [493-498]; Herzog: 'Frank, that's a really good question' [564] after [563]; Lewis answers 'the question about Mr. Sprague' [452]; 'ever since I was in education' [505]; merged into Seaman's cluster before [645])"
+  },
+  "521": {
+   "name": "Frank Sprague",
+   "role": "Claremont School Board member (Nester: 'Frank' [501] after [493-498]; Herzog: 'Frank, that's a really good question' [564] after [563]; Lewis answers 'the question about Mr. Sprague' [452]; 'ever since I was in education' [505]; merged into Seaman's cluster before [645])"
+  },
+  "563": {
+   "name": "Frank Sprague",
+   "role": "Claremont School Board member (Nester: 'Frank' [501] after [493-498]; Herzog: 'Frank, that's a really good question' [564] after [563]; Lewis answers 'the question about Mr. Sprague' [452]; 'ever since I was in education' [505]; merged into Seaman's cluster before [645])"
+  },
+  "694": {
+   "name": "Frank Sprague",
+   "role": "Claremont School Board member (medium - onset and fragment of Sprague's 'or else' question completed at [695-697])"
+  },
+  "698": {
+   "name": "Frank Sprague",
+   "role": "Claremont School Board member (medium - onset and fragment of Sprague's 'or else' question completed at [695-697])"
+  },
+  "630": {
+   "name": "Alex Herzog"
+  },
+  "6": {
+   "name": "Melissa Small",
+   "role": "SAU administrative assistant, taking the roll call in place of Mary Woodman (chair: 'Melissa is here filling in for Miss Woodman. So, Melissa, could you have a roll call' [4])"
+  },
+  "8": {
+   "name": "Melissa Small",
+   "role": "SAU administrative assistant, taking the roll call in place of Mary Woodman (chair: 'Melissa is here filling in for Miss Woodman. So, Melissa, could you have a roll call' [4])"
+  },
+  "827": {
+   "name": "Unidentified",
+   "role": "Unidentified - roll-call vote on entering nonpublic session: names read (by Melissa Small, per [825]) and answers merged across clusters"
+  },
+  "828": {
+   "name": "Unidentified",
+   "role": "Unidentified - roll-call vote on entering nonpublic session: names read (by Melissa Small, per [825]) and answers merged across clusters"
+  },
+  "829": {
+   "name": "Unidentified",
+   "role": "Unidentified - roll-call vote on entering nonpublic session: names read (by Melissa Small, per [825]) and answers merged across clusters"
+  },
+  "830": {
+   "name": "Unidentified",
+   "role": "Unidentified - roll-call vote on entering nonpublic session: names read (by Melissa Small, per [825]) and answers merged across clusters"
+  },
+  "831": {
+   "name": "Unidentified",
+   "role": "Unidentified - roll-call vote on entering nonpublic session: names read (by Melissa Small, per [825]) and answers merged across clusters"
+  },
+  "832": {
+   "name": "Unidentified",
+   "role": "Unidentified - roll-call vote on entering nonpublic session: names read (by Melissa Small, per [825]) and answers merged across clusters"
+  },
+  "833": {
+   "name": "Unidentified",
+   "role": "Unidentified - roll-call vote on entering nonpublic session: names read (by Melissa Small, per [825]) and answers merged across clusters"
+  },
+  "834": {
+   "name": "Unidentified",
+   "role": "Unidentified - roll-call vote on entering nonpublic session: names read (by Melissa Small, per [825]) and answers merged across clusters"
+  },
+  "835": {
+   "name": "Unidentified",
+   "role": "Unidentified - roll-call vote on entering nonpublic session: names read (by Melissa Small, per [825]) and answers merged across clusters"
+  },
+  "814": {
+   "name": "Unidentified",
+   "role": "Unidentified - roll-call vote on entering nonpublic session: names read (by Melissa Small, per [825]) and answers merged across clusters"
+  },
+  "74": {
+   "name": "Whitney Skillen",
+   "role": "Claremont School Board member (onset of her question continued at [75]; chair recognized 'Whitney' (ASR 'Litany') [73])"
+  },
+  "260": {
+   "name": "Whitney Skillen",
+   "role": "Claremont School Board member (fragment of her own question [259-261])"
+  },
+  "27": {
+   "name": "Stephanie Hurst",
+   "role": "Incoming SAU 6 literacy specialist from 7/1/2022 (onset of her remarks continued at [28])"
+  },
+  "15": {
+   "name": "Unidentified",
+   "role": "Unidentified - board member moving to approve the amended agenda (merged into Nester's cluster)"
+  }
+ }
+}

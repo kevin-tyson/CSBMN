@@ -1,0 +1,144 @@
+{
+ "Speaker 1": {
+  "name": "Frank Sprague",
+  "role": "Claremont School Board Chair"
+ },
+ "Speaker 2": {
+  "name": "Jason Benware",
+  "role": "Claremont School Board member"
+ },
+ "Speaker 3": {
+  "name": "Carolyn Towle",
+  "role": "Claremont School Board member"
+ },
+ "Speaker 4": {
+  "name": "Unidentified",
+  "role": "Unidentified board member - reports for the policy committee [191]-[199] (Heather Whitney or Rob Lovett, uncertain)"
+ },
+ "Speaker 5": {
+  "name": "Michael Tempesta",
+  "role": "Superintendent, SAU 6"
+ },
+ "Speaker 6": {
+  "name": "Gary Merchant",
+  "role": "NH State Representative, Claremont Ward 2 (introduced by the chair)"
+ },
+ "Speaker 7": {
+  "name": "Unidentified",
+  "role": "Unidentified - staff member explaining summer credit-recovery eligibility, plus fragments"
+ },
+ "Speaker 8": {
+  "name": "Unidentified",
+  "role": "Unidentified - short remark"
+ },
+ "Speaker 9": {
+  "name": "Jason Benware",
+  "role": "Claremont School Board member"
+ },
+ "Speaker 10": {
+  "name": "Unidentified",
+  "role": "Unidentified - short interjections from several speakers; separable segments reassigned"
+ },
+ "Speaker 11": {
+  "name": "Unidentified",
+  "role": "Unidentified - fragment"
+ },
+ "Speaker 12": {
+  "name": "Ben Nester",
+  "role": "Director of Special Education, SAU 6"
+ },
+ "Speaker 13": {
+  "name": "Michael Tempesta",
+  "role": "Superintendent, SAU 6"
+ },
+ "__overrides__": {
+  "5": {
+   "name": "Mary Woodman",
+   "role": "School district clerk and board recording secretary"
+  },
+  "6": {
+   "name": "Mary Woodman"
+  },
+  "62": {
+   "name": "Unidentified",
+   "role": "Unidentified board member (motion or question diarized with Rep. Merchant)"
+  },
+  "87": {
+   "name": "Unidentified",
+   "role": "Unidentified board member (motion or question diarized with Rep. Merchant)"
+  },
+  "67": {
+   "name": "Michael Tempesta"
+  },
+  "176": {
+   "name": "Donna Magoon",
+   "role": "Assistant Superintendent, SAU 6"
+  },
+  "269": {
+   "name": "Ben Nester"
+  },
+  "271": {
+   "name": "Ben Nester"
+  },
+  "346": {
+   "name": "Michael Tempesta"
+  },
+  "347": {
+   "name": "Michael Tempesta"
+  },
+  "348": {
+   "name": "Michael Tempesta"
+  },
+  "349": {
+   "name": "Michael Tempesta"
+  },
+  "350": {
+   "name": "Jeff Small",
+   "role": "Director of Technology, SAU 6 (invited 'Jeff, if you want to speak to that item' [349])"
+  },
+  "351": {
+   "name": "Jeff Small",
+   "role": "Director of Technology, SAU 6 (invited 'Jeff, if you want to speak to that item' [349])"
+  },
+  "352": {
+   "name": "Jeff Small",
+   "role": "Director of Technology, SAU 6 (invited 'Jeff, if you want to speak to that item' [349])"
+  },
+  "353": {
+   "name": "Jeff Small",
+   "role": "Director of Technology, SAU 6 (invited 'Jeff, if you want to speak to that item' [349])"
+  },
+  "354": {
+   "name": "Jeff Small",
+   "role": "Director of Technology, SAU 6 (invited 'Jeff, if you want to speak to that item' [349])"
+  },
+  "355": {
+   "name": "Jeff Small",
+   "role": "Director of Technology, SAU 6 (invited 'Jeff, if you want to speak to that item' [349])"
+  },
+  "356": {
+   "name": "Jeff Small",
+   "role": "Director of Technology, SAU 6 (invited 'Jeff, if you want to speak to that item' [349])"
+  },
+  "357": {
+   "name": "Jeff Small",
+   "role": "Director of Technology, SAU 6 (invited 'Jeff, if you want to speak to that item' [349])"
+  },
+  "3": {
+   "name": "Unidentified",
+   "role": "Unidentified - group response (pledge or 'aye' vote)"
+  },
+  "52": {
+   "name": "Unidentified",
+   "role": "Unidentified - group response (pledge or 'aye' vote)"
+  },
+  "65": {
+   "name": "Unidentified",
+   "role": "Unidentified - group response (pledge or 'aye' vote)"
+  },
+  "201": {
+   "name": "Unidentified",
+   "role": "Unidentified - group response (pledge or 'aye' vote)"
+  }
+ }
+}

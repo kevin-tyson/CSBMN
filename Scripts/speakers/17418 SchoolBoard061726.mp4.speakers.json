@@ -1,0 +1,408 @@
+{
+ "Speaker 1": {
+  "name": "Candace Crawford",
+  "role": "School Board Chair; Finance Subcommittee Chair"
+ },
+ "Speaker 2": {
+  "name": "Don Lavalette",
+  "role": "School Board member; Policy Subcommittee"
+ },
+ "Speaker 3": {
+  "name": "Unidentified",
+  "role": "Officer, Stevens High School Alumni Association - accepting the board's recognition (one of Vic, Dick or Alex, named by the chair)"
+ },
+ "Speaker 4": {
+  "name": "Unidentified",
+  "role": "Officer, Stevens High School Alumni Association - accepting the board's recognition (one of Vic, Dick or Alex, named by the chair)"
+ },
+ "Speaker 5": {
+  "name": "Carolyn (surname not stated)",
+  "role": "Officer, Stevens High School Alumni Association - administered the donated student-activity funds; addressed as 'Carolyn' and 'Carol' by the chair"
+ },
+ "Speaker 6": {
+  "name": "Noelle Kronberg",
+  "role": "School Board Clerk / minute-taker"
+ },
+ "Speaker 7": {
+  "name": "Heather Whitney",
+  "role": "School Board member; Finance Subcommittee"
+ },
+ "Speaker 8": {
+  "name": "Kerry Kennedy",
+  "role": "Interim Superintendent, SAU 6"
+ },
+ "Speaker 9": {
+  "name": "Tim Broadrick",
+  "role": "Incoming Superintendent, SAU 6 (starts 7/1/2026)"
+ },
+ "Speaker 10": {
+  "name": "Tim Broadrick",
+  "role": "Incoming Superintendent, SAU 6 (starts 7/1/2026)"
+ },
+ "Speaker 11": {
+  "name": "Unidentified",
+  "role": "Board-table crosstalk - the diarizer's catch-all cluster of short reactions; provably holds at least Rapp, Howard, Crawford, Lavalette, Whitney and Kennedy"
+ },
+ "Speaker 12": {
+  "name": "Matt Angell",
+  "role": "Interim Business Administrator, SAU 6"
+ },
+ "Speaker 13": {
+  "name": "Loren Howard",
+  "role": "School Board member; Policy Subcommittee Chair"
+ },
+ "Speaker 14": {
+  "name": "Tim Broadrick",
+  "role": "Incoming Superintendent, SAU 6 (starts 7/1/2026)"
+ },
+ "Speaker 15": {
+  "name": "Kerry Kennedy",
+  "role": "Interim Superintendent, SAU 6"
+ },
+ "__overrides__": {
+  "1": {
+   "name": "Unidentified",
+   "role": "Group recitation - Pledge of Allegiance (all present)"
+  },
+  "2": {
+   "name": "Unidentified",
+   "role": "Group recitation - Pledge of Allegiance (all present)"
+  },
+  "8": {
+   "name": "Unidentified",
+   "role": "Crosstalk during the alumni-association recognition"
+  },
+  "11": {
+   "name": "Candace Crawford",
+   "role": "School Board Chair; Finance Subcommittee Chair"
+  },
+  "14": {
+   "name": "Unidentified",
+   "role": "Crosstalk during the alumni-association recognition"
+  },
+  "17": {
+   "name": "Candace Crawford",
+   "role": "School Board Chair; Finance Subcommittee Chair"
+  },
+  "25": {
+   "name": "Candace Crawford",
+   "role": "School Board Chair (uncertain - false start inside her own sentence)"
+  },
+  "31": {
+   "name": "Unidentified",
+   "role": "Crosstalk during the alumni-association recognition"
+  },
+  "39": {
+   "name": "Noelle Kronberg",
+   "role": "School Board Clerk - reads the opening roll call; all seven members' 'here' answers are inside this segment and cannot be split out"
+  },
+  "43": {
+   "name": "Noelle Kronberg",
+   "role": "School Board Clerk (uncertain - reads like a board member's or the superintendent's request to add a nonpublic; the voice sits in the clerk's cluster)"
+  },
+  "45": {
+   "name": "Noelle Kronberg",
+   "role": "School Board Clerk (uncertain - reads like a board member's or the superintendent's request to add a nonpublic; the voice sits in the clerk's cluster)"
+  },
+  "73": {
+   "name": "Kerry Kennedy",
+   "role": "Interim Superintendent, SAU 6"
+  },
+  "74": {
+   "name": "Kerry Kennedy",
+   "role": "Interim Superintendent, SAU 6"
+  },
+  "75": {
+   "name": "Kerry Kennedy",
+   "role": "Interim Superintendent, SAU 6"
+  },
+  "76": {
+   "name": "Kerry Kennedy",
+   "role": "Interim Superintendent, SAU 6"
+  },
+  "87": {
+   "name": "Kerry Kennedy",
+   "role": "Interim Superintendent, SAU 6 (uncertain - self-correction inside her own sentence)"
+  },
+  "94": {
+   "name": "Unidentified",
+   "role": "Reaction from the board table during the superintendent's report"
+  },
+  "97": {
+   "name": "Kerry Kennedy",
+   "role": "Interim Superintendent, SAU 6"
+  },
+  "98": {
+   "name": "Don Lavalette",
+   "role": "School Board member; Policy Subcommittee (the opening 'To you' is Kennedy finishing her own sentence)"
+  },
+  "101": {
+   "name": "Kerry Kennedy",
+   "role": "Interim Superintendent, SAU 6"
+  },
+  "145": {
+   "name": "Heather Whitney",
+   "role": "School Board member; Finance Subcommittee (uncertain - onset of her own next sentence)"
+  },
+  "157": {
+   "name": "Heather Whitney",
+   "role": "School Board member; Finance Subcommittee (uncertain - tail of her own sentence)"
+  },
+  "175": {
+   "name": "Brian Rapp",
+   "role": "School Board member"
+  },
+  "176": {
+   "name": "Brian Rapp",
+   "role": "School Board member"
+  },
+  "181": {
+   "name": "Brian Rapp",
+   "role": "School Board member"
+  },
+  "182": {
+   "name": "Brian Rapp",
+   "role": "School Board member"
+  },
+  "187": {
+   "name": "Matt Angell",
+   "role": "Interim Business Administrator, SAU 6 (uncertain - tail of his own sentence)"
+  },
+  "189": {
+   "name": "Unidentified",
+   "role": "Crosstalk at the board table"
+  },
+  "193": {
+   "name": "Brian Rapp",
+   "role": "School Board member"
+  },
+  "195": {
+   "name": "Candace Crawford",
+   "role": "School Board Chair; Finance Subcommittee Chair"
+  },
+  "204": {
+   "name": "Heather Whitney",
+   "role": "School Board member; Finance Subcommittee (uncertain - onset of her own sentence, could be Angell starting the same phrase)"
+  },
+  "217": {
+   "name": "Candace Crawford",
+   "role": "School Board Chair; Finance Subcommittee Chair"
+  },
+  "220": {
+   "name": "Heather Whitney",
+   "role": "School Board member; Finance Subcommittee (uncertain - tail of her own sentence)"
+  },
+  "251": {
+   "name": "Unidentified",
+   "role": "Crosstalk at the board table"
+  },
+  "259": {
+   "name": "Tim Broadrick",
+   "role": "Incoming Superintendent, SAU 6 (starts 7/1/2026)"
+  },
+  "276": {
+   "name": "Candace Crawford",
+   "role": "School Board Chair; Finance Subcommittee Chair"
+  },
+  "278": {
+   "name": "Tim Broadrick",
+   "role": "Incoming Superintendent, SAU 6 (segment opens with the chair's question 'Doctor Broadrick?')"
+  },
+  "280": {
+   "name": "Candace Crawford",
+   "role": "School Board Chair; Finance Subcommittee Chair"
+  },
+  "281": {
+   "name": "Unidentified",
+   "role": "Several board members thanking the incoming superintendent as he leaves the table"
+  },
+  "295": {
+   "name": "Unidentified",
+   "role": "Crosstalk at the board table"
+  },
+  "298": {
+   "name": "Candace Crawford",
+   "role": "School Board Chair (uncertain - continuation of her own sentence)"
+  },
+  "301": {
+   "name": "Candace Crawford",
+   "role": "School Board Chair; Finance Subcommittee Chair"
+  },
+  "331": {
+   "name": "Don Lavalette",
+   "role": "School Board member; Policy Subcommittee"
+  },
+  "333": {
+   "name": "Don Lavalette",
+   "role": "School Board member; Policy Subcommittee"
+  },
+  "337": {
+   "name": "Candace Crawford",
+   "role": "School Board Chair (uncertain - inside her own paras-reimbursement aside)"
+  },
+  "338": {
+   "name": "Candace Crawford",
+   "role": "School Board Chair; Finance Subcommittee Chair"
+  },
+  "349": {
+   "name": "Don Lavalette",
+   "role": "School Board member; Policy Subcommittee"
+  },
+  "351": {
+   "name": "Don Lavalette",
+   "role": "School Board member; Policy Subcommittee"
+  },
+  "408": {
+   "name": "Brian Rapp",
+   "role": "School Board member"
+  },
+  "409": {
+   "name": "Brian Rapp",
+   "role": "School Board member"
+  },
+  "415": {
+   "name": "Unidentified",
+   "role": "Voice vote - more than one member saying aye"
+  },
+  "419": {
+   "name": "Loren Howard",
+   "role": "School Board member - roll-call vote to enter nonpublic; identified by position in the Howard/Lavalette/Madden/Petrin/Rapp/Whitney/Crawford order, not by voice"
+  },
+  "420": {
+   "name": "Unidentified",
+   "role": "TWO members' roll-call votes inside one segment - by position, Don Lavalette then William 'Bill' Madden"
+  },
+  "421": {
+   "name": "Michael Petrin",
+   "role": "School Board Vice Chair - roll-call vote to enter nonpublic; identified by position in the roll-call order, not by voice"
+  },
+  "422": {
+   "name": "Brian Rapp",
+   "role": "School Board member - roll-call vote to enter nonpublic; identified by position in the roll-call order, not by voice"
+  },
+  "423": {
+   "name": "Heather Whitney",
+   "role": "School Board member - roll-call vote to enter nonpublic; identified by position in the roll-call order, not by voice"
+  },
+  "424": {
+   "name": "Candace Crawford",
+   "role": "School Board Chair - roll-call vote to enter nonpublic (chair votes last)"
+  },
+  "437": {
+   "name": "Candace Crawford",
+   "role": "School Board Chair; Finance Subcommittee Chair"
+  },
+  "439": {
+   "name": "Unidentified",
+   "role": "Crosstalk around the nonpublic session"
+  },
+  "441": {
+   "name": "Unidentified",
+   "role": "Crosstalk around the nonpublic session"
+  },
+  "443": {
+   "name": "Candace Crawford",
+   "role": "School Board Chair; Finance Subcommittee Chair"
+  },
+  "446": {
+   "name": "Brian Rapp",
+   "role": "School Board member"
+  },
+  "448": {
+   "name": "Noelle Kronberg",
+   "role": "School Board Clerk - roll call; Loren Howard's 'Yes' (4343.02) is inside this segment"
+  },
+  "449": {
+   "name": "Don Lavalette",
+   "role": "School Board member - roll-call vote; identified by position between the clerk's reading of Howard and of Madden, not by voice"
+  },
+  "451": {
+   "name": "William 'Bill' Madden",
+   "role": "School Board member; Capital Improvement Chair - roll-call vote answering the clerk's reading of his name"
+  },
+  "452": {
+   "name": "Noelle Kronberg",
+   "role": "School Board Clerk - roll call; the 'Yes' answers of Petrin (4346.66), Rapp (4348.14) and Whitney (4349.32) are inside this segment"
+  },
+  "453": {
+   "name": "Heather Whitney",
+   "role": "School Board member; Finance Subcommittee (segment opens with Crawford's roll-call 'Yes' at 4350.58, then Whitney moves to seal)"
+  },
+  "454": {
+   "name": "Heather Whitney",
+   "role": "School Board member; Finance Subcommittee"
+  },
+  "456": {
+   "name": "Loren Howard",
+   "role": "School Board member; Policy Subcommittee Chair"
+  },
+  "460": {
+   "name": "Loren Howard",
+   "role": "School Board member - roll-call vote answering the clerk's reading of his name"
+  },
+  "461": {
+   "name": "Don Lavalette",
+   "role": "School Board member - roll-call vote; identified by position in the roll-call order, not by voice"
+  },
+  "462": {
+   "name": "William 'Bill' Madden",
+   "role": "School Board member; Capital Improvement Chair - roll-call vote; identified by position in the roll-call order, not by voice"
+  },
+  "463": {
+   "name": "Noelle Kronberg",
+   "role": "School Board Clerk - roll call; the 'Yes' answers of Petrin (4366.01), Rapp (4367.52) and Whitney (4368.63) are inside this segment"
+  },
+  "483": {
+   "name": "Loren Howard",
+   "role": "School Board member; Policy Subcommittee Chair"
+  },
+  "485": {
+   "name": "Don Lavalette",
+   "role": "School Board member (uncertain - he is the volunteer-painting lead being offered help)"
+  },
+  "488": {
+   "name": "Kerry Kennedy",
+   "role": "Interim Superintendent, SAU 6"
+  },
+  "491": {
+   "name": "Candace Crawford",
+   "role": "School Board Chair (uncertain - tail of her own sentence)"
+  },
+  "493": {
+   "name": "Unidentified",
+   "role": "Two voices in one segment - a member addressing the chair and her reply"
+  },
+  "501": {
+   "name": "Unidentified",
+   "role": "Voice vote - more than one member saying aye"
+  },
+  "514": {
+   "name": "Heather Whitney",
+   "role": "School Board member; Finance Subcommittee"
+  },
+  "536": {
+   "name": "Kerry Kennedy",
+   "role": "Interim Superintendent, SAU 6 (uncertain - could be the clerk)"
+  },
+  "538": {
+   "name": "Noelle Kronberg",
+   "role": "School Board Clerk / minute-taker (uncertain - could be the chair)"
+  },
+  "540": {
+   "name": "Unidentified",
+   "role": "Crosstalk at the board table"
+  },
+  "542": {
+   "name": "Kerry Kennedy",
+   "role": "Interim Superintendent, SAU 6 (uncertain - onset of her thank-you)"
+  },
+  "554": {
+   "name": "Candace Crawford",
+   "role": "School Board Chair; Finance Subcommittee Chair"
+  },
+  "555": {
+   "name": "Unidentified",
+   "role": "Crosstalk at the board table"
+  }
+ }
+}

@@ -1,0 +1,464 @@
+{
+ "Speaker 1": {
+  "name": "Candace Crawford",
+  "role": "School Board Chair (presides, sets the agenda order, controls the floor; term to 2027). This cluster also absorbs short fragments of other voices - see per-segment reassignments."
+ },
+ "Speaker 2": {
+  "name": "Don Lavalette",
+  "role": "School Board Member (term to 2029; retired Claremont teacher, former SREA president, board volunteer coordinator). MERGED CLUSTER - it also carries William 'Bill' Madden's turns; every Madden turn is reassigned per segment."
+ },
+ "Speaker 3": {
+  "name": "Kerry Kennedy",
+  "role": "Interim Superintendent / Director of Curriculum, Instruction and Assessment, SAU 6 (gives the superintendent's report). MERGED CLUSTER - it also carries Heather Whitney's questions from the board table; those are reassigned per segment."
+ },
+ "Speaker 4": {
+  "name": "Brian Rapp",
+  "role": "School Board Member (term to 2029; deputy fire chief; refers to 'my previous stint on this board' and to another board he currently sits on)"
+ },
+ "Speaker 5": {
+  "name": "Hilary Walsh",
+  "role": "Technology teacher and yearbook adviser, Stevens High School (self-identified: 'Hi, I'm Hilary, technology teacher at Stevens High School'; surname as heard in the introduction, ASR renders it 'Mr. Larry Walsh' / 'Miss Wallace')"
+ },
+ "Speaker 6": {
+  "name": "Unidentified",
+  "role": "Yearbook-recognition guest at the podium, thanking the board as the group leaves (most plausibly student editor Chloe Smith, whom Hilary Walsh introduced, but there is no self-identification on the recording)"
+ },
+ "Speaker 7": {
+  "name": "Tim Broadrick",
+  "role": "Incoming Superintendent, SAU 6 (starts 7/1/26; attending as an incoming guest and already working about one day a week - the chair notes 'He's only been here three, 3 or 4 weeks'). ASR renders him 'Doctor Broderick' and once 'to bribery'."
+ },
+ "Speaker 8": {
+  "name": "Matt Angell",
+  "role": "Interim Business Administrator, SAU 6 (finance update, school lunch prices, State Police request). ASR renders him 'Mr. Angel'."
+ },
+ "Speaker 9": {
+  "name": "Michael Petrin",
+  "role": "School Board Vice Chair (Sugar River Valley Regional Technical Center subcommittee chair; term to 2027)"
+ },
+ "Speaker 10": {
+  "name": "Michael Herrington",
+  "role": "Principal, Stevens High School (credit recovery and vape detectors; ASR renders him 'Doctor Harrington')"
+ },
+ "Speaker 11": {
+  "name": "Loren Howard",
+  "role": "School Board Member (Policy Subcommittee Chair; term to 2028). First of two clusters carrying his voice - see Speaker 15; this one also absorbs many of the chair's clipped fragments, which are reassigned per segment."
+ },
+ "Speaker 12": {
+  "name": "Mimi Rhines",
+  "role": "Stevens High School staff member who administers credit recovery / summer school (the superintendent names her and Principal Herrington as the two people present who could answer). MERGED CLUSTER - it also carries School Board Clerk Noelle Kronberg reading the roll; those segments are reassigned."
+ },
+ "Speaker 13": {
+  "name": "Michael Herrington",
+  "role": "Principal, Stevens High School (single-segment cluster - a counting aside, 'One, two, three, four, 5 or 6', inside his own answer about summer-school staffing)"
+ },
+ "Speaker 14": {
+  "name": "Heather Whitney",
+  "role": "School Board Member (Ad Hoc School Reconfiguration Exploratory Committee chair; board chair through 3/18/26; term to 2027). Second of two clusters carrying her voice - see Speaker 3."
+ },
+ "Speaker 15": {
+  "name": "Loren Howard",
+  "role": "School Board Member (Policy Subcommittee Chair; term to 2028); the chair's recognition 'Yes. Lauren.' immediately precedes two of these turns"
+ },
+ "__overrides__": {
+  "1": {
+   "name": "Multiple",
+   "role": "Pledge of Allegiance recited by everyone present (group recitation; the diarizer assigns it to a single cluster)"
+  },
+  "3": {
+   "name": "Multiple",
+   "role": "Opening roll call - clerk Noelle Kronberg calling names and board members answering 'here' (order Howard, Lavalette, Madden, Petrin, Rapp, Whitney, Crawford). The ASR swallowed the names; 'For an hour' sits where 'Loren Howard' belongs."
+  },
+  "4": {
+   "name": "Multiple",
+   "role": "Opening roll call - one member's 'here' response; which member cannot be determined because the clerk's intervening name calls are not transcribed"
+  },
+  "5": {
+   "name": "Multiple",
+   "role": "Opening roll call - five members' 'here' responses compressed into one segment; all seven members are present (later votes are recorded 7-0 and 6-1)"
+  },
+  "34": {
+   "name": "Candace Crawford",
+   "role": "School Board Chair (one-word fragment completing her own sentence, clipped into a neighbouring cluster)"
+  },
+  "60": {
+   "name": "Don Lavalette",
+   "role": "School Board Member (fragment 'If not.' opening his own next sentence, clipped into a neighbouring cluster)"
+  },
+  "85": {
+   "name": "Kerry Kennedy",
+   "role": "Interim Superintendent (fragment inside her own sentence '...grades, all parent information', clipped into another cluster)"
+  },
+  "95": {
+   "name": "Kerry Kennedy",
+   "role": "Interim Superintendent (fragment 'Direct' inside her own sentence 'There may be a direct link there')"
+  },
+  "102": {
+   "name": "Heather Whitney",
+   "role": "School Board Member - question on the exit interviews. MIXED SEGMENT: the superintendent's answer is interleaved inside it and cannot be separated under a whole-segment schema; Whitney speaks the majority of the words."
+  },
+  "103": {
+   "name": "Heather Whitney",
+   "role": "School Board Member - question on the staffing map. MIXED SEGMENT: opens with the superintendent finishing her answer; Whitney speaks the majority of the words."
+  },
+  "104": {
+   "name": "Heather Whitney",
+   "role": "School Board Member - question on school-by-school vacancy rates and Ed 306 minimum standards. MIXED SEGMENT: closes with the superintendent's answer; Whitney speaks the majority of the words."
+  },
+  "107": {
+   "name": "Candace Crawford",
+   "role": "School Board Chair (fragment inside her own sentence 'it talks about that in his report')"
+  },
+  "109": {
+   "name": "Heather Whitney",
+   "role": "School Board Member (follow-up on the superintendent's written staffing summary)"
+  },
+  "111": {
+   "name": "Heather Whitney",
+   "role": "School Board Member (follow-up on the superintendent's written staffing summary)"
+  },
+  "113": {
+   "name": "Heather Whitney",
+   "role": "School Board Member (answering the chair's 'other questions for Miss Kennedy')"
+  },
+  "115": {
+   "name": "Heather Whitney",
+   "role": "School Board Member (answering the chair's 'other questions for Miss Kennedy')"
+  },
+  "118": {
+   "name": "Tim Broadrick",
+   "role": "Incoming Superintendent (onset 'I don't' of his own sentence 'I don't know that I've seen all of the old documents')"
+  },
+  "123": {
+   "name": "Tim Broadrick",
+   "role": "Incoming Superintendent (fragment 'It's a' opening his own 'It's a great story')"
+  },
+  "144": {
+   "name": "Heather Whitney",
+   "role": "School Board Member (start of her staffing-contingency questioning)"
+  },
+  "149": {
+   "name": "Heather Whitney",
+   "role": "School Board Member ('I'm going to be a dog with a bone on this' - middle-school staffing contingency)"
+  },
+  "150": {
+   "name": "Heather Whitney",
+   "role": "School Board Member (middle-school staffing contingency)"
+  },
+  "151": {
+   "name": "Heather Whitney",
+   "role": "School Board Member ('in my business, we have a plan A, B, C, D and E' - her medical-field framing)"
+  },
+  "152": {
+   "name": "Heather Whitney",
+   "role": "School Board Member (Ed 306 minimum standards, contingency plan)"
+  },
+  "157": {
+   "name": "Heather Whitney",
+   "role": "School Board Member (learning loss at the middle school)"
+  },
+  "158": {
+   "name": "Heather Whitney",
+   "role": "School Board Member (learning loss at the middle school)"
+  },
+  "162": {
+   "name": "Heather Whitney",
+   "role": "School Board Member (pinning the answer to the July 21 meeting)"
+  },
+  "164": {
+   "name": "Heather Whitney",
+   "role": "School Board Member (assent inside her own exchange)"
+  },
+  "188": {
+   "name": "Heather Whitney",
+   "role": "School Board Member (org chart - qualifications for a director of school counseling)"
+  },
+  "189": {
+   "name": "Tim Broadrick",
+   "role": "Incoming Superintendent (fragment 'All' opening his own 'All of this is part of what I would call special ed')"
+  },
+  "191": {
+   "name": "Heather Whitney",
+   "role": "School Board Member (org chart - direct-report structure)"
+  },
+  "201": {
+   "name": "Heather Whitney",
+   "role": "School Board Member (Medicaid cost capture and the special-education budget; she says 'Medicare' for Medicaid)"
+  },
+  "205": {
+   "name": "Candace Crawford",
+   "role": "School Board Chair (fragment 'One day a' opening her own 'One day a week he is here')"
+  },
+  "218": {
+   "name": "Kerry Kennedy",
+   "role": "Interim Superintendent (fragment 'There was an' opening her own 'There was an update')"
+  },
+  "231": {
+   "name": "William 'Bill' Madden",
+   "role": "School Board Member (Capital Improvement and Curriculum subcommittee chair; term to 2028). The chair's recognition 'But, Bill.' is the last word of the immediately preceding segment."
+  },
+  "238": {
+   "name": "William 'Bill' Madden",
+   "role": "School Board Member (continuing his truant-officer questioning)"
+  },
+  "240": {
+   "name": "William 'Bill' Madden",
+   "role": "School Board Member (continuing his truant-officer questioning)"
+  },
+  "245": {
+   "name": "William 'Bill' Madden",
+   "role": "School Board Member (continuing his truant-officer questioning)"
+  },
+  "246": {
+   "name": "William 'Bill' Madden",
+   "role": "School Board Member (continuing his truant-officer questioning)"
+  },
+  "248": {
+   "name": "William 'Bill' Madden",
+   "role": "School Board Member (continuing his truant-officer questioning)"
+  },
+  "269": {
+   "name": "Heather Whitney",
+   "role": "School Board Member ('It's always me' - opening her calendar questions)"
+  },
+  "271": {
+   "name": "Heather Whitney",
+   "role": "School Board Member (how the instructional-hours shortfall happens)"
+  },
+  "273": {
+   "name": "Heather Whitney",
+   "role": "School Board Member (how the instructional-hours shortfall happens)"
+  },
+  "275": {
+   "name": "Heather Whitney",
+   "role": "School Board Member (how the shortfall gets past the state)"
+  },
+  "288": {
+   "name": "Tim Broadrick",
+   "role": "Incoming Superintendent (fragment 'So you're in' opening his own 'So you're in a unique situation')"
+  },
+  "304": {
+   "name": "Heather Whitney",
+   "role": "School Board Member (aside, 'Why don't you look at me?')"
+  },
+  "305": {
+   "name": "Candace Crawford",
+   "role": "School Board Chair (first half of her own 'I don't know', split across clusters)"
+  },
+  "311": {
+   "name": "Matt Angell",
+   "role": "Interim Business Administrator (brief acknowledgement closing his cash-balance update; attributed by position in the exchange, not by name - low certainty)"
+  },
+  "313": {
+   "name": "Matt Angell",
+   "role": "Interim Business Administrator (false start 'So I' preceding his own 'Have reached out to me to start it')"
+  },
+  "322": {
+   "name": "Heather Whitney",
+   "role": "School Board Member (clarifying what is due by July 1)"
+  },
+  "324": {
+   "name": "Candace Crawford",
+   "role": "School Board Chair (fragment inside her own answer 'Well, not really a report - a draft')"
+  },
+  "325": {
+   "name": "Candace Crawford",
+   "role": "School Board Chair (fragment inside her own answer 'Well, not really a report - a draft')"
+  },
+  "330": {
+   "name": "Loren Howard",
+   "role": "School Board Member (fragment completing his own '...done July first, right?')"
+  },
+  "345": {
+   "name": "Kerry Kennedy",
+   "role": "Interim Superintendent (one-word fragment inside her own sentence)"
+  },
+  "397": {
+   "name": "Michael Herrington",
+   "role": "Principal, Stevens High School (summer credit-recovery dates, inside his own answer)"
+  },
+  "416": {
+   "name": "Candace Crawford",
+   "role": "School Board Chair (fragment of her own question about the credit-recovery eligibility cutoff)"
+  },
+  "418": {
+   "name": "Candace Crawford",
+   "role": "School Board Chair (fragment of her own question about the credit-recovery eligibility cutoff)"
+  },
+  "420": {
+   "name": "Candace Crawford",
+   "role": "School Board Chair (fragment of her own question about the credit-recovery eligibility cutoff)"
+  },
+  "426": {
+   "name": "Candace Crawford",
+   "role": "School Board Chair (onset of her own 'Will they be participating in graduation activities?')"
+  },
+  "435": {
+   "name": "Candace Crawford",
+   "role": "School Board Chair (fragment opening her own 'But it's from Title...')"
+  },
+  "456": {
+   "name": "Mimi Rhines",
+   "role": "Stevens High School staff member (one-word fragment inside her own sentence '...we didn't have much crisis')"
+  },
+  "479": {
+   "name": "Don Lavalette",
+   "role": "School Board Member ('Quick question.' - the chair answers 'Yes' and he then asks the question in the next segment)"
+  },
+  "496": {
+   "name": "Candace Crawford",
+   "role": "School Board Chair (hesitation opening her own reply, clipped into a neighbouring cluster)"
+  },
+  "536": {
+   "name": "Multiple",
+   "role": "Board members voting aye on the State Police request to use Bluff School (the chair records the vote as seven to zero)"
+  },
+  "538": {
+   "name": "Candace Crawford",
+   "role": "School Board Chair (first half of her own 'I can't remember why this was on the agenda')"
+  },
+  "545": {
+   "name": "Heather Whitney",
+   "role": "School Board Member (fragment inside her own sentence about the vape-detector notes; 'TensorFlow' is an ASR garble)"
+  },
+  "556": {
+   "name": "Michael Herrington",
+   "role": "Principal, Stevens High School (fragment inside his own sentence)"
+  },
+  "562": {
+   "name": "Michael Herrington",
+   "role": "Principal, Stevens High School (onset of his own 'I believe they are grant funded')"
+  },
+  "565": {
+   "name": "Michael Herrington",
+   "role": "Principal, Stevens High School (fragment inside his own sentence about the technology director)"
+  },
+  "567": {
+   "name": "Michael Herrington",
+   "role": "Principal, Stevens High School (fragment inside his own sentence about the technology director)"
+  },
+  "580": {
+   "name": "Candace Crawford",
+   "role": "School Board Chair (fragment of her own reading of the RSA 91-A:3 citation)"
+  },
+  "584": {
+   "name": "Candace Crawford",
+   "role": "School Board Chair (calling for the roll, contiguous with her own preceding segment)"
+  },
+  "585": {
+   "name": "Noelle Kronberg",
+   "role": "School Board Clerk (reading the roll; she calls 'Loren Howard' first, matching the standing roll-call order)"
+  },
+  "586": {
+   "name": "Multiple",
+   "role": "Nonpublic-session roll call - one member's 'yes'; which member cannot be determined because the clerk's intervening name calls are not transcribed"
+  },
+  "587": {
+   "name": "Multiple",
+   "role": "Board members answering the nonpublic-session roll call"
+  },
+  "588": {
+   "name": "Multiple",
+   "role": "Board members answering the nonpublic-session roll call"
+  },
+  "589": {
+   "name": "Multiple",
+   "role": "Board members answering the nonpublic-session roll call"
+  },
+  "590": {
+   "name": "Multiple",
+   "role": "Nonpublic-session roll call - one member's 'yes'; which member cannot be determined because the clerk's intervening name calls are not transcribed"
+  },
+  "593": {
+   "name": "Unidentified",
+   "role": "Board member moving to come out of nonpublic session - only 'So' is captured here, the 'Moved' is clipped into the chair's next segment, and the mover is not identifiable from the recording"
+  },
+  "595": {
+   "name": "Noelle Kronberg",
+   "role": "School Board Clerk (reading the second roll call)"
+  },
+  "596": {
+   "name": "Noelle Kronberg",
+   "role": "School Board Clerk (second half of her roll call 'Loren Howard?', clipped into the chair's cluster)"
+  },
+  "597": {
+   "name": "Multiple",
+   "role": "Board members answering the roll call to come out of nonpublic session"
+  },
+  "598": {
+   "name": "Multiple",
+   "role": "Board members answering the roll call to come out of nonpublic session"
+  },
+  "603": {
+   "name": "William 'Bill' Madden",
+   "role": "School Board Member, Capital Improvement Subcommittee chair (reporting for that subcommittee, which he chairs and Lavalette does not sit on)"
+  },
+  "605": {
+   "name": "William 'Bill' Madden",
+   "role": "School Board Member, Curriculum Subcommittee chair (he states 'I'm the chair of the curriculum subcommittee' in a later meeting in this corpus)"
+  },
+  "608": {
+   "name": "William 'Bill' Madden",
+   "role": "School Board Member, Curriculum Subcommittee chair"
+  },
+  "610": {
+   "name": "William 'Bill' Madden",
+   "role": "School Board Member, Curriculum Subcommittee chair (report on the curriculum audit target date)"
+  },
+  "613": {
+   "name": "William 'Bill' Madden",
+   "role": "School Board Member, Curriculum Subcommittee chair"
+  },
+  "629": {
+   "name": "Candace Crawford",
+   "role": "School Board Chair (fragment completing her own 'If you guys will...')"
+  },
+  "631": {
+   "name": "Candace Crawford",
+   "role": "School Board Chair (fragment inside her own sentence)"
+  },
+  "654": {
+   "name": "Loren Howard",
+   "role": "School Board Member (one-word fragment inside his own sentence)"
+  },
+  "656": {
+   "name": "Loren Howard",
+   "role": "School Board Member (fragment completing his own 'I don't know if anybody else knows...')"
+  },
+  "671": {
+   "name": "Don Lavalette",
+   "role": "School Board Member (fragment inside his own 'So to that extent, it bothered me enough...')"
+  },
+  "673": {
+   "name": "Don Lavalette",
+   "role": "School Board Member (fragment inside his own 'So to that extent, it bothered me enough...')"
+  },
+  "678": {
+   "name": "Heather Whitney",
+   "role": "School Board Member (fragment opening her own 'And [I] can tell you that there were board members that did right to know')"
+  },
+  "696": {
+   "name": "Brian Rapp",
+   "role": "School Board Member (one-word fragment inside his own sentence)"
+  },
+  "703": {
+   "name": "Don Lavalette",
+   "role": "School Board Member (one-word fragment inside his own sentence)"
+  },
+  "707": {
+   "name": "Loren Howard",
+   "role": "School Board Member (fragment continuing his own 'So no, no, no')"
+  },
+  "719": {
+   "name": "William 'Bill' Madden",
+   "role": "School Board Member, Curriculum Subcommittee chair - reporting on the curriculum subcommittee's information request. UNCERTAIN: the chair's immediately preceding words are 'Heather, did you have a comment?', so this turn may instead be Heather Whitney; the subcommittee membership of record (Madden chair, Lavalette, Howard) and the continuity with his earlier report favour Madden. A human should settle it."
+  },
+  "722": {
+   "name": "William 'Bill' Madden",
+   "role": "School Board Member, Curriculum Subcommittee chair (curriculum mapping; same uncertainty as the preceding turn)"
+  },
+  "724": {
+   "name": "William 'Bill' Madden",
+   "role": "School Board Member, Curriculum Subcommittee chair (same uncertainty as the preceding turns)"
+  }
+ }
+}

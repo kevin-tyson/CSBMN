@@ -1,0 +1,342 @@
+{
+ "Speaker 1": {
+  "name": "Steven Horsky",
+  "role": "Claremont School Board member (answers 'Here' after 'Steve.' in roll call [3-4]; recognized 'Steve' [86, 140, 578] before speaking; chair: 'all those in favor of Steve's motion' [547])"
+ },
+ "Speaker 2": {
+  "name": "Frank Sprague",
+  "role": "Claremont School Board Chair (calls the meeting to order [1]; runs agenda and votes; roll: 'And chair, Frank Sprague here' [6])"
+ },
+ "Speaker 3": {
+  "name": "Unidentified",
+  "role": "Unidentified - cluster mixes the clerk's roll call (see overrides) with fragments from the Stevens High School presenters (Nicole Gordon or Patricia Barry; not separable)"
+ },
+ "Speaker 4": {
+  "name": "Michael Petrin",
+  "role": "Claremont School Board member (roll 'Michael Peacham here' [6]; chair 'Mike was next' [294] immediately before this voice [295])"
+ },
+ "Speaker 5": {
+  "name": "Michael Tempesta",
+  "role": "Superintendent, SAU 6 (delivers the superintendent's report [20-60]; chair: 'Questions to the superintendent' [61])"
+ },
+ "Speaker 6": {
+  "name": "Heather Whitney",
+  "role": "Claremont School Board member (chair: 'Heather and I've been talking' [84] in reply to this voice; 'was first and then Heather' [260]; roll 'Heather Whitman here' [3])"
+ },
+ "Speaker 7": {
+  "name": "Sean",
+  "role": "Athletic Director, Claremont Middle School (self-ID 'My name is Sean. I'm the Claremont Middle School athletic director' [424]; surname not stated)"
+ },
+ "Speaker 8": {
+  "name": "Mimi Rhimes",
+  "role": "School counselor, Stevens High School, and summer school coordinator (chair 'Mimi Rhimes is here' [7]; self-ID ASR 'I mean me, Ryan's' [183]; surname spelling unverified)"
+ },
+ "Speaker 9": {
+  "name": "Patricia Barry",
+  "role": "Principal, Stevens High School (Gordon 'I want to defer to Pat' [247-249]; Whitney 'Doctor Barry' [288]; 'By the time I came on, which was seven years ago' [262])"
+ },
+ "Speaker 10": {
+  "name": "Unidentified",
+  "role": "Unidentified - short interjections during the Stevens High School presentation"
+ },
+ "Speaker 11": {
+  "name": "Ben Nester",
+  "role": "Director of Special Education, SAU 6 (chair: 'as Ben suggests' [279] after this voice [269]; Whitney 'This is for Ben' [360] answered by this voice [365])"
+ },
+ "Speaker 12": {
+  "name": "Nicholas Stone",
+  "role": "Claremont School Board member (chair: 'Nick has not asked a question' [345] then this voice [349]; 'I got Josh in the nick' [522] then this voice [528])"
+ },
+ "Speaker 13": {
+  "name": "Doug Belgrave",
+  "role": "Athletic Director, Stevens High School (ASR self-intro 'Doug Belgrave' [425] followed by 'Athletic director at Stevens' [426]; surname spelling unverified) (uncertain - [535] may be the middle school football coach)"
+ },
+ "Speaker 14": {
+  "name": "Joshua Lambert",
+  "role": "Claremont School Board member (chair: 'I got Josh in the nick' [522] then this voice [523]) (uncertain - short cluster, one recognition cue)"
+ },
+ "__overrides__": {
+  "3": {
+   "name": "Mary Woodman",
+   "role": "School district clerk and recording secretary (chair: 'Mrs. Woodman, could you do roll call attendance' [2]; reads the roll)"
+  },
+  "5": {
+   "name": "Mary Woodman",
+   "role": "School district clerk and recording secretary (chair: 'Mrs. Woodman, could you do roll call attendance' [2]; reads the roll)"
+  },
+  "6": {
+   "name": "Mary Woodman",
+   "role": "School district clerk and recording secretary (chair: 'Mrs. Woodman, could you do roll call attendance' [2]; reads the roll)"
+  },
+  "11": {
+   "name": "Michael Petrin",
+   "role": "Claremont School Board member (chair credits the second: 'You give it to Mike patron' [12])"
+  },
+  "210": {
+   "name": "Nicole Gordon",
+   "role": "Assistant Principal, Stevens High School (self-ID 'I'm Nicole Gordon. I am the assistant principal at Stevens' [210])"
+  },
+  "211": {
+   "name": "Nicole Gordon",
+   "role": "Assistant Principal, Stevens High School (self-ID 'I'm Nicole Gordon. I am the assistant principal at Stevens' [210])"
+  },
+  "212": {
+   "name": "Nicole Gordon",
+   "role": "Assistant Principal, Stevens High School (self-ID 'I'm Nicole Gordon. I am the assistant principal at Stevens' [210])"
+  },
+  "213": {
+   "name": "Nicole Gordon",
+   "role": "Assistant Principal, Stevens High School (self-ID 'I'm Nicole Gordon. I am the assistant principal at Stevens' [210])"
+  },
+  "218": {
+   "name": "Nicole Gordon",
+   "role": "Assistant Principal, Stevens High School (self-ID 'I'm Nicole Gordon. I am the assistant principal at Stevens' [210])"
+  },
+  "219": {
+   "name": "Nicole Gordon",
+   "role": "Assistant Principal, Stevens High School (self-ID 'I'm Nicole Gordon. I am the assistant principal at Stevens' [210])"
+  },
+  "220": {
+   "name": "Nicole Gordon",
+   "role": "Assistant Principal, Stevens High School (self-ID 'I'm Nicole Gordon. I am the assistant principal at Stevens' [210])"
+  },
+  "221": {
+   "name": "Nicole Gordon",
+   "role": "Assistant Principal, Stevens High School (self-ID 'I'm Nicole Gordon. I am the assistant principal at Stevens' [210])"
+  },
+  "222": {
+   "name": "Nicole Gordon",
+   "role": "Assistant Principal, Stevens High School (self-ID 'I'm Nicole Gordon. I am the assistant principal at Stevens' [210])"
+  },
+  "223": {
+   "name": "Nicole Gordon",
+   "role": "Assistant Principal, Stevens High School (self-ID 'I'm Nicole Gordon. I am the assistant principal at Stevens' [210])"
+  },
+  "225": {
+   "name": "Nicole Gordon",
+   "role": "Assistant Principal, Stevens High School (self-ID 'I'm Nicole Gordon. I am the assistant principal at Stevens' [210])"
+  },
+  "226": {
+   "name": "Nicole Gordon",
+   "role": "Assistant Principal, Stevens High School (self-ID 'I'm Nicole Gordon. I am the assistant principal at Stevens' [210])"
+  },
+  "227": {
+   "name": "Nicole Gordon",
+   "role": "Assistant Principal, Stevens High School (self-ID 'I'm Nicole Gordon. I am the assistant principal at Stevens' [210])"
+  },
+  "228": {
+   "name": "Nicole Gordon",
+   "role": "Assistant Principal, Stevens High School (self-ID 'I'm Nicole Gordon. I am the assistant principal at Stevens' [210])"
+  },
+  "229": {
+   "name": "Nicole Gordon",
+   "role": "Assistant Principal, Stevens High School (self-ID 'I'm Nicole Gordon. I am the assistant principal at Stevens' [210])"
+  },
+  "230": {
+   "name": "Nicole Gordon",
+   "role": "Assistant Principal, Stevens High School (self-ID 'I'm Nicole Gordon. I am the assistant principal at Stevens' [210])"
+  },
+  "231": {
+   "name": "Nicole Gordon",
+   "role": "Assistant Principal, Stevens High School (self-ID 'I'm Nicole Gordon. I am the assistant principal at Stevens' [210])"
+  },
+  "232": {
+   "name": "Nicole Gordon",
+   "role": "Assistant Principal, Stevens High School (self-ID 'I'm Nicole Gordon. I am the assistant principal at Stevens' [210])"
+  },
+  "233": {
+   "name": "Nicole Gordon",
+   "role": "Assistant Principal, Stevens High School (self-ID 'I'm Nicole Gordon. I am the assistant principal at Stevens' [210])"
+  },
+  "234": {
+   "name": "Nicole Gordon",
+   "role": "Assistant Principal, Stevens High School (self-ID 'I'm Nicole Gordon. I am the assistant principal at Stevens' [210])"
+  },
+  "235": {
+   "name": "Nicole Gordon",
+   "role": "Assistant Principal, Stevens High School (self-ID 'I'm Nicole Gordon. I am the assistant principal at Stevens' [210])"
+  },
+  "236": {
+   "name": "Nicole Gordon",
+   "role": "Assistant Principal, Stevens High School (self-ID 'I'm Nicole Gordon. I am the assistant principal at Stevens' [210])"
+  },
+  "237": {
+   "name": "Nicole Gordon",
+   "role": "Assistant Principal, Stevens High School (self-ID 'I'm Nicole Gordon. I am the assistant principal at Stevens' [210])"
+  },
+  "238": {
+   "name": "Nicole Gordon",
+   "role": "Assistant Principal, Stevens High School (self-ID 'I'm Nicole Gordon. I am the assistant principal at Stevens' [210])"
+  },
+  "239": {
+   "name": "Nicole Gordon",
+   "role": "Assistant Principal, Stevens High School (self-ID 'I'm Nicole Gordon. I am the assistant principal at Stevens' [210])"
+  },
+  "240": {
+   "name": "Nicole Gordon",
+   "role": "Assistant Principal, Stevens High School (self-ID 'I'm Nicole Gordon. I am the assistant principal at Stevens' [210])"
+  },
+  "241": {
+   "name": "Nicole Gordon",
+   "role": "Assistant Principal, Stevens High School (self-ID 'I'm Nicole Gordon. I am the assistant principal at Stevens' [210])"
+  },
+  "242": {
+   "name": "Nicole Gordon",
+   "role": "Assistant Principal, Stevens High School (self-ID 'I'm Nicole Gordon. I am the assistant principal at Stevens' [210])"
+  },
+  "243": {
+   "name": "Nicole Gordon",
+   "role": "Assistant Principal, Stevens High School (self-ID 'I'm Nicole Gordon. I am the assistant principal at Stevens' [210])"
+  },
+  "244": {
+   "name": "Nicole Gordon",
+   "role": "Assistant Principal, Stevens High School (self-ID 'I'm Nicole Gordon. I am the assistant principal at Stevens' [210])"
+  },
+  "245": {
+   "name": "Nicole Gordon",
+   "role": "Assistant Principal, Stevens High School (self-ID 'I'm Nicole Gordon. I am the assistant principal at Stevens' [210])"
+  },
+  "246": {
+   "name": "Nicole Gordon",
+   "role": "Assistant Principal, Stevens High School (self-ID 'I'm Nicole Gordon. I am the assistant principal at Stevens' [210])"
+  },
+  "247": {
+   "name": "Nicole Gordon",
+   "role": "Assistant Principal, Stevens High School (self-ID 'I'm Nicole Gordon. I am the assistant principal at Stevens' [210])"
+  },
+  "248": {
+   "name": "Nicole Gordon",
+   "role": "Assistant Principal, Stevens High School (self-ID 'I'm Nicole Gordon. I am the assistant principal at Stevens' [210])"
+  },
+  "249": {
+   "name": "Nicole Gordon",
+   "role": "Assistant Principal, Stevens High School (self-ID 'I'm Nicole Gordon. I am the assistant principal at Stevens' [210])"
+  },
+  "296": {
+   "name": "Nicole Gordon",
+   "role": "Assistant Principal, Stevens High School (uncertain - answers Petrin's question on the graduation data she presented)"
+  },
+  "299": {
+   "name": "Nicole Gordon",
+   "role": "Assistant Principal, Stevens High School (uncertain - answers Petrin's question on the graduation data she presented)"
+  },
+  "301": {
+   "name": "Nicole Gordon",
+   "role": "Assistant Principal, Stevens High School (uncertain - answers Petrin's question on the graduation data she presented)"
+  },
+  "398": {
+   "name": "Heather Whitney",
+   "role": "Claremont School Board member (uncertain - onset of the trip motion Speaker 6 completes at [400])"
+  },
+  "399": {
+   "name": "Heather Whitney",
+   "role": "Claremont School Board member (uncertain - onset of the trip motion Speaker 6 completes at [400])"
+  },
+  "492": {
+   "name": "Unidentified",
+   "role": "Unidentified - brief acknowledgement during the athletics discussion"
+  },
+  "425": {
+   "name": "Doug Belgrave"
+  },
+  "426": {
+   "name": "Doug Belgrave"
+  },
+  "446": {
+   "name": "Doug Belgrave",
+   "role": "Athletic Director, Stevens High School (uncertain - onset of the sentence Speaker 13 continues at [450])"
+  },
+  "447": {
+   "name": "Doug Belgrave",
+   "role": "Athletic Director, Stevens High School (uncertain - onset of the sentence Speaker 13 continues at [450])"
+  },
+  "448": {
+   "name": "Doug Belgrave",
+   "role": "Athletic Director, Stevens High School (uncertain - onset of the sentence Speaker 13 continues at [450])"
+  },
+  "449": {
+   "name": "Doug Belgrave",
+   "role": "Athletic Director, Stevens High School (uncertain - onset of the sentence Speaker 13 continues at [450])"
+  },
+  "568": {
+   "name": "Frank Sprague",
+   "role": "Claremont School Board Chair (uncertain - recognition 'Mike.' before Petrin speaks [569])"
+  },
+  "580": {
+   "name": "Unidentified",
+   "role": "Unidentified - seconds the motion to adjourn"
+  },
+  "549": {
+   "name": "Unidentified",
+   "role": "Unidentified - procedural 'Okay. Moving ahead.' (possibly the chair)"
+  },
+  "137": {
+   "name": "Unidentified",
+   "role": "Unidentified - board member asking to revisit the plan on the 18th"
+  },
+  "139": {
+   "name": "Unidentified",
+   "role": "Unidentified - board member asking to revisit the plan on the 18th"
+  },
+  "155": {
+   "name": "Unidentified",
+   "role": "Unidentified - short interjection"
+  },
+  "290": {
+   "name": "Unidentified",
+   "role": "Unidentified - short interjection"
+  },
+  "298": {
+   "name": "Unidentified",
+   "role": "Unidentified - short interjection"
+  },
+  "356": {
+   "name": "Unidentified",
+   "role": "Unidentified - short interjection"
+  },
+  "361": {
+   "name": "Unidentified",
+   "role": "Unidentified - short interjection"
+  },
+  "364": {
+   "name": "Unidentified",
+   "role": "Unidentified - short interjection"
+  },
+  "411": {
+   "name": "Unidentified",
+   "role": "Unidentified - short interjection"
+  },
+  "413": {
+   "name": "Unidentified",
+   "role": "Unidentified - short interjection"
+  },
+  "419": {
+   "name": "Unidentified",
+   "role": "Unidentified - short interjection"
+  },
+  "421": {
+   "name": "Unidentified",
+   "role": "Unidentified - short interjection"
+  },
+  "422": {
+   "name": "Unidentified",
+   "role": "Unidentified - short interjection"
+  },
+  "319": {
+   "name": "Steven Horsky",
+   "role": "Claremont School Board member (answers the chair's 'Steve, did you have a question?' [318])"
+  },
+  "346": {
+   "name": "Frank Sprague",
+   "role": "Claremont School Board Chair (completes the chair's sentence 'I think he wants to' [345])"
+  },
+  "353": {
+   "name": "Unidentified",
+   "role": "Unidentified - Stevens High School administrator (Nicole Gordon or Patricia Barry)"
+  },
+  "216": {
+   "name": "Nicole Gordon",
+   "role": "Assistant Principal, Stevens High School (self-ID 'I'm Nicole Gordon. I am the assistant principal at Stevens' [210])"
+  }
+ }
+}

@@ -1,0 +1,283 @@
+{
+ "Speaker 7": {
+  "name": "Frank Sprague",
+  "role": "Claremont School Board Chair"
+ },
+ "Speaker 17": {
+  "name": "Frank Sprague",
+  "role": "Claremont School Board Chair (medium - short cluster; [525] and [818] run straight into the chair's next segment in Speaker 7)"
+ },
+ "Speaker 1": {
+  "name": "Richard Seaman",
+  "role": "Business Administrator, SAU 6 (chair's opening segments [0]-[54] in this cluster reassigned to Frank Sprague)"
+ },
+ "Speaker 6": {
+  "name": "Richard Seaman",
+  "role": "Business Administrator, SAU 6"
+ },
+ "Speaker 2": {
+  "name": "Jason Benware",
+  "role": "Claremont School Board member"
+ },
+ "Speaker 3": {
+  "name": "Donna Magoon",
+  "role": "Assistant Superintendent, SAU 6"
+ },
+ "Speaker 4": {
+  "name": "Rebecca Zullo",
+  "role": "Claremont School Board member (medium - same voice as Speaker 24; works in the Lebanon district, parent of a 15-year-old)"
+ },
+ "Speaker 24": {
+  "name": "Rebecca Zullo",
+  "role": "Claremont School Board member"
+ },
+ "Speaker 5": {
+  "name": "Michael Tempesta",
+  "role": "Superintendent, SAU 6"
+ },
+ "Speaker 8": {
+  "name": "Carolyn Towle",
+  "role": "Claremont School Board member (participating remotely)"
+ },
+ "Speaker 10": {
+  "name": "Carolyn Towle",
+  "role": "Claremont School Board member (participating remotely)"
+ },
+ "Speaker 12": {
+  "name": "Heather Whitney",
+  "role": "Claremont School Board member"
+ },
+ "Speaker 13": {
+  "name": "Michael Petrin",
+  "role": "Claremont School Board member"
+ },
+ "Speaker 28": {
+  "name": "Rob Lovett Jr.",
+  "role": "Claremont School Board member (participating remotely)"
+ },
+ "Speaker 14": {
+  "name": "Amanda Watson",
+  "role": "Public commenter by phone, Stevens High School senior (self-identified)"
+ },
+ "Speaker 15": {
+  "name": "Amanda Watson",
+  "role": "Public commenter by phone, Stevens High School senior (self-identified)"
+ },
+ "Speaker 18": {
+  "name": "James Ward",
+  "role": "Public commenter by phone, Claremont (single parent of a Stevens student)"
+ },
+ "Speaker 26": {
+  "name": "Mary Woodman",
+  "role": "School district clerk and board recording secretary (takes roll)"
+ },
+ "Speaker 9": {
+  "name": "Unidentified",
+  "role": "Unidentified - cluster mixes James Ward's onsets (see overrides) with short remarks by others"
+ },
+ "Speaker 11": {
+  "name": "Unidentified",
+  "role": "Unidentified - audio from a presentation video"
+ },
+ "Speaker 16": {
+  "name": "Unidentified",
+  "role": "Unidentified - single remark to Mr. Sprague during the student's call"
+ },
+ "Speaker 19": {
+  "name": "Unidentified",
+  "role": "Unidentified - short fragments"
+ },
+ "Speaker 20": {
+  "name": "Unidentified",
+  "role": "Unidentified - short fragments from several voices"
+ },
+ "Speaker 21": {
+  "name": "Unidentified",
+  "role": "Unidentified - short replies and vote chorus from several voices"
+ },
+ "Speaker 22": {
+  "name": "Unidentified",
+  "role": "Unidentified - short interjections from several voices"
+ },
+ "Speaker 23": {
+  "name": "Unidentified",
+  "role": "Unidentified - clipped onsets of several speakers"
+ },
+ "Speaker 25": {
+  "name": "Unidentified",
+  "role": "Unidentified - single short question"
+ },
+ "Speaker 27": {
+  "name": "Unidentified",
+  "role": "Unidentified - single short fragment"
+ },
+ "__overrides__": {
+  "0": {
+   "name": "Frank Sprague",
+   "role": "Claremont School Board Chair"
+  },
+  "1": {
+   "name": "Frank Sprague",
+   "role": "Claremont School Board Chair"
+  },
+  "2": {
+   "name": "Frank Sprague",
+   "role": "Claremont School Board Chair"
+  },
+  "3": {
+   "name": "Frank Sprague",
+   "role": "Claremont School Board Chair"
+  },
+  "4": {
+   "name": "Frank Sprague",
+   "role": "Claremont School Board Chair"
+  },
+  "6": {
+   "name": "Frank Sprague",
+   "role": "Claremont School Board Chair"
+  },
+  "8": {
+   "name": "Frank Sprague",
+   "role": "Claremont School Board Chair"
+  },
+  "10": {
+   "name": "Frank Sprague",
+   "role": "Claremont School Board Chair"
+  },
+  "11": {
+   "name": "Frank Sprague",
+   "role": "Claremont School Board Chair"
+  },
+  "13": {
+   "name": "Frank Sprague",
+   "role": "Claremont School Board Chair"
+  },
+  "18": {
+   "name": "Frank Sprague",
+   "role": "Claremont School Board Chair"
+  },
+  "20": {
+   "name": "Frank Sprague",
+   "role": "Claremont School Board Chair"
+  },
+  "22": {
+   "name": "Frank Sprague",
+   "role": "Claremont School Board Chair"
+  },
+  "24": {
+   "name": "Frank Sprague",
+   "role": "Claremont School Board Chair"
+  },
+  "26": {
+   "name": "Frank Sprague",
+   "role": "Claremont School Board Chair"
+  },
+  "27": {
+   "name": "Frank Sprague",
+   "role": "Claremont School Board Chair"
+  },
+  "28": {
+   "name": "Frank Sprague",
+   "role": "Claremont School Board Chair"
+  },
+  "29": {
+   "name": "Frank Sprague",
+   "role": "Claremont School Board Chair"
+  },
+  "30": {
+   "name": "Frank Sprague",
+   "role": "Claremont School Board Chair"
+  },
+  "34": {
+   "name": "Frank Sprague",
+   "role": "Claremont School Board Chair"
+  },
+  "35": {
+   "name": "Frank Sprague",
+   "role": "Claremont School Board Chair"
+  },
+  "36": {
+   "name": "Frank Sprague",
+   "role": "Claremont School Board Chair"
+  },
+  "37": {
+   "name": "Frank Sprague",
+   "role": "Claremont School Board Chair"
+  },
+  "38": {
+   "name": "Frank Sprague",
+   "role": "Claremont School Board Chair"
+  },
+  "39": {
+   "name": "Frank Sprague",
+   "role": "Claremont School Board Chair"
+  },
+  "43": {
+   "name": "Frank Sprague",
+   "role": "Claremont School Board Chair"
+  },
+  "50": {
+   "name": "Frank Sprague",
+   "role": "Claremont School Board Chair"
+  },
+  "52": {
+   "name": "Frank Sprague",
+   "role": "Claremont School Board Chair"
+  },
+  "54": {
+   "name": "Frank Sprague",
+   "role": "Claremont School Board Chair"
+  },
+  "17": {
+   "name": "Unidentified",
+   "role": "Unidentified - board member making motions on the minutes (voice not identifiable; cluster otherwise Donna Magoon)"
+  },
+  "19": {
+   "name": "Unidentified",
+   "role": "Unidentified - board member making motions on the minutes (voice not identifiable; cluster otherwise Donna Magoon)"
+  },
+  "21": {
+   "name": "Unidentified",
+   "role": "Unidentified - board member making motions on the minutes (voice not identifiable; cluster otherwise Donna Magoon)"
+  },
+  "23": {
+   "name": "Unidentified",
+   "role": "Unidentified - board member making motions on the minutes (voice not identifiable; cluster otherwise Donna Magoon)"
+  },
+  "478": {
+   "name": "James Ward",
+   "role": "Public commenter by phone, Claremont (single parent of a Stevens student)"
+  },
+  "510": {
+   "name": "James Ward",
+   "role": "Public commenter by phone, Claremont (single parent of a Stevens student)"
+  },
+  "512": {
+   "name": "James Ward",
+   "role": "Public commenter by phone, Claremont (single parent of a Stevens student)"
+  },
+  "516": {
+   "name": "James Ward",
+   "role": "Public commenter by phone, Claremont (single parent of a Stevens student)"
+  },
+  "518": {
+   "name": "James Ward",
+   "role": "Public commenter by phone, Claremont (single parent of a Stevens student)"
+  },
+  "520": {
+   "name": "James Ward",
+   "role": "Public commenter by phone, Claremont (single parent of a Stevens student)"
+  },
+  "353": {
+   "name": "Unidentified",
+   "role": "Unidentified - short remark (cluster otherwise James Ward)"
+  },
+  "372": {
+   "name": "Unidentified",
+   "role": "Unidentified - short remark (cluster otherwise James Ward)"
+  },
+  "470": {
+   "name": "Michael Tempesta"
+  }
+ }
+}

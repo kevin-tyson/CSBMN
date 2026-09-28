@@ -1,0 +1,157 @@
+{
+ "Speaker 1": {
+  "name": "Brian Rapp",
+  "role": "Claremont School Board Chair"
+ },
+ "Speaker 2": {
+  "name": "Middleton McGoodwin",
+  "role": "Superintendent, SAU 6"
+ },
+ "Speaker 3": {
+  "name": "Mary Ann Lovett",
+  "role": "Student representative to the Claremont School Board, Stevens High School (name as spoken by the superintendent; also heard as 'Marion'/'Marian'; spelling uncertain)"
+ },
+ "Speaker 4": {
+  "name": "Nancy Lewis",
+  "role": "Social studies teacher and Youth and Government advisor, Stevens High School (uncertain - small cluster interleaved with her presentation; see overrides)"
+ },
+ "Speaker 5": {
+  "name": "Unidentified",
+  "role": "Unidentified - two brief interjections during superintendent's report"
+ },
+ "Speaker 6": {
+  "name": "Chris Irish",
+  "role": "Claremont School Board Vice Chair"
+ },
+ "Speaker 7": {
+  "name": "Patrick Adrian",
+  "role": "Claremont School Board member"
+ },
+ "Speaker 8": {
+  "name": "Nancy Lewis",
+  "role": "Social studies teacher and Youth and Government advisor, Stevens High School (uncertain - short cluster, context of her presentation)"
+ },
+ "Speaker 9": {
+  "name": "Nancy Lewis",
+  "role": "Social studies teacher and Youth and Government advisor, Stevens High School"
+ },
+ "Speaker 10": {
+  "name": "Unidentified",
+  "role": "Unidentified - two brief affirmations during Youth and Government item"
+ },
+ "Speaker 11": {
+  "name": "Alex Herzog",
+  "role": "Claremont School Board member"
+ },
+ "Speaker 12": {
+  "name": "Unidentified",
+  "role": "Unidentified - cluster mixes short interjections from several board members and staff"
+ },
+ "Speaker 13": {
+  "name": "Patricia Barry",
+  "role": "Principal, Stevens High School"
+ },
+ "Speaker 14": {
+  "name": "Cory LeClair",
+  "role": "Assistant Superintendent, SAU 6"
+ },
+ "Speaker 15": {
+  "name": "Cory LeClair",
+  "role": "Assistant Superintendent, SAU 6"
+ },
+ "Speaker 16": {
+  "name": "Paulette",
+  "role": "Principal, Claremont Middle School (first name only on record, uncertain - from 'Paulette mentioned' at [390])"
+ },
+ "Speaker 17": {
+  "name": "Cory LeClair",
+  "role": "Assistant Superintendent, SAU 6"
+ },
+ "Speaker 18": {
+  "name": "Melissa Lewis",
+  "role": "Principal, Disnard Elementary School"
+ },
+ "Speaker 19": {
+  "name": "Michael Lansing",
+  "role": "Principal, Bluff Elementary School (surname as heard; resignation accepted this meeting)"
+ },
+ "Speaker 20": {
+  "name": "Dan",
+  "role": "Principal, Maple Avenue Elementary School (first name only on record, uncertain - from 'what Dan was saying' at [309])"
+ },
+ "Speaker 21": {
+  "name": "Alex Herzog",
+  "role": "Claremont School Board member"
+ },
+ "Speaker 22": {
+  "name": "Michael O'Neill",
+  "role": "Business Administrator, SAU 6"
+ },
+ "Speaker 23": {
+  "name": "Unidentified",
+  "role": "Unidentified - single remark during tax rate discussion"
+ },
+ "Speaker 24": {
+  "name": "Michelle Pierce",
+  "role": "Claremont School Board member"
+ },
+ "Speaker 25": {
+  "name": "Unidentified",
+  "role": "Unidentified - single remark during scheduling discussion"
+ },
+ "__overrides__": {
+  "3": {
+   "name": "Unidentified",
+   "role": "Unidentified - roll-call responses from members (absorbed into chair's cluster)"
+  },
+  "4": {
+   "name": "Unidentified",
+   "role": "Unidentified - roll-call responses from members (absorbed into chair's cluster)"
+  },
+  "31": {
+   "name": "Unidentified",
+   "role": "Unidentified - staff answer on college fair (uncertain - possibly Patricia Barry or Nancy Lewis)"
+  },
+  "118": {
+   "name": "Mary Ann Lovett"
+  },
+  "214": {
+   "name": "Unidentified",
+   "role": "Unidentified - board member question merged into middle school principal's cluster"
+  },
+  "260": {
+   "name": "Melissa Lewis"
+  },
+  "301": {
+   "name": "Paulette"
+  },
+  "303": {
+   "name": "Paulette"
+  },
+  "402": {
+   "name": "Patricia Barry"
+  },
+  "460": {
+   "name": "Chris Irish"
+  },
+  "462": {
+   "name": "Chris Irish"
+  },
+  "463": {
+   "name": "Chris Irish"
+  },
+  "465": {
+   "name": "Chris Irish"
+  },
+  "502": {
+   "name": "Chris Irish"
+  },
+  "504": {
+   "name": "Chris Irish"
+  },
+  "675": {
+   "name": "Unidentified",
+   "role": "Unidentified - fragment during candidates discussion"
+  }
+ }
+}

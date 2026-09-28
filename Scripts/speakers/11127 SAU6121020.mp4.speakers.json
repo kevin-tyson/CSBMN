@@ -1,0 +1,288 @@
+{
+ "Speaker 1": {
+  "name": "Michael Petrin",
+  "role": "SAU 6 Board Chair (Claremont member) (cluster also carries Jeff Small's technology budget walk-through, reassigned per overrides)"
+ },
+ "Speaker 2": {
+  "name": "Mary Woodman",
+  "role": "School district clerk and board recording secretary (calls roll)"
+ },
+ "Speaker 3": {
+  "name": "Richard Seaman",
+  "role": "Business Administrator, SAU 6"
+ },
+ "Speaker 4": {
+  "name": "Michael Tempesta",
+  "role": "Superintendent, SAU 6"
+ },
+ "Speaker 5": {
+  "name": "Frank Sprague",
+  "role": "SAU 6 Board member (Claremont); Claremont School Board Chair (cluster also picks up several in-room roll-call answers, reassigned to Unidentified)"
+ },
+ "Speaker 6": {
+  "name": "Marjorie Erickson",
+  "role": "SAU 6 Board member (Unity) (SAU 6 Vice Chair per roster from March 2019; not stated on this recording) (cluster also carries Donna Magoon's Covid update and some roll-call calls, reassigned)"
+ },
+ "Speaker 7": {
+  "name": "Michael Petrin",
+  "role": "SAU 6 Board Chair (Claremont member)"
+ },
+ "Speaker 8": {
+  "name": "Michael Petrin",
+  "role": "SAU 6 Board Chair (Claremont member)"
+ },
+ "Speaker 9": {
+  "name": "Jason Benware",
+  "role": "SAU 6 Board member (Claremont)"
+ },
+ "Speaker 10": {
+  "name": "Marjorie Erickson",
+  "role": "SAU 6 Board member (Unity) (SAU 6 Vice Chair per roster from March 2019; not stated on this recording)"
+ },
+ "Speaker 11": {
+  "name": "Heather Whitney",
+  "role": "SAU 6 Board member (Claremont)"
+ },
+ "__overrides__": {
+  "1": {
+   "name": "Unidentified",
+   "role": "Unidentified - pre-meeting technical chatter"
+  },
+  "3": {
+   "name": "Unidentified",
+   "role": "Unidentified - pre-meeting technical chatter"
+  },
+  "7": {
+   "name": "Unidentified",
+   "role": "Unidentified - group recitation of the pledge"
+  },
+  "11": {
+   "name": "Unidentified",
+   "role": "Unidentified - roll-call answers"
+  },
+  "102": {
+   "name": "Unidentified",
+   "role": "Unidentified - roll-call answer picked up by the room microphone"
+  },
+  "108": {
+   "name": "Unidentified",
+   "role": "Unidentified - roll-call answer picked up by the room microphone"
+  },
+  "110": {
+   "name": "Unidentified",
+   "role": "Unidentified - roll-call answer picked up by the room microphone"
+  },
+  "122": {
+   "name": "Unidentified",
+   "role": "Unidentified - roll-call answer picked up by the room microphone"
+  },
+  "124": {
+   "name": "Unidentified",
+   "role": "Unidentified - roll-call answer picked up by the room microphone"
+  },
+  "132": {
+   "name": "Unidentified",
+   "role": "Unidentified - roll-call answer picked up by the room microphone"
+  },
+  "136": {
+   "name": "Unidentified",
+   "role": "Unidentified - roll-call answer picked up by the room microphone"
+  },
+  "208": {
+   "name": "Unidentified",
+   "role": "Unidentified - roll-call answer picked up by the room microphone"
+  },
+  "57": {
+   "name": "Jeff Small",
+   "role": "Director of Technology, SAU 6"
+  },
+  "58": {
+   "name": "Jeff Small",
+   "role": "Director of Technology, SAU 6"
+  },
+  "59": {
+   "name": "Jeff Small",
+   "role": "Director of Technology, SAU 6"
+  },
+  "60": {
+   "name": "Jeff Small",
+   "role": "Director of Technology, SAU 6"
+  },
+  "61": {
+   "name": "Jeff Small",
+   "role": "Director of Technology, SAU 6"
+  },
+  "62": {
+   "name": "Jeff Small",
+   "role": "Director of Technology, SAU 6"
+  },
+  "63": {
+   "name": "Jeff Small",
+   "role": "Director of Technology, SAU 6"
+  },
+  "64": {
+   "name": "Jeff Small",
+   "role": "Director of Technology, SAU 6"
+  },
+  "65": {
+   "name": "Jeff Small",
+   "role": "Director of Technology, SAU 6"
+  },
+  "66": {
+   "name": "Jeff Small",
+   "role": "Director of Technology, SAU 6"
+  },
+  "67": {
+   "name": "Jeff Small",
+   "role": "Director of Technology, SAU 6"
+  },
+  "68": {
+   "name": "Jeff Small",
+   "role": "Director of Technology, SAU 6"
+  },
+  "70": {
+   "name": "Jeff Small",
+   "role": "Director of Technology, SAU 6"
+  },
+  "72": {
+   "name": "Jeff Small",
+   "role": "Director of Technology, SAU 6"
+  },
+  "73": {
+   "name": "Jeff Small",
+   "role": "Director of Technology, SAU 6"
+  },
+  "74": {
+   "name": "Jeff Small",
+   "role": "Director of Technology, SAU 6"
+  },
+  "75": {
+   "name": "Jeff Small",
+   "role": "Director of Technology, SAU 6"
+  },
+  "76": {
+   "name": "Jeff Small",
+   "role": "Director of Technology, SAU 6"
+  },
+  "78": {
+   "name": "Jeff Small",
+   "role": "Director of Technology, SAU 6"
+  },
+  "81": {
+   "name": "Jeff Small",
+   "role": "Director of Technology, SAU 6"
+  },
+  "82": {
+   "name": "Jeff Small",
+   "role": "Director of Technology, SAU 6"
+  },
+  "83": {
+   "name": "Jeff Small",
+   "role": "Director of Technology, SAU 6"
+  },
+  "91": {
+   "name": "Jeff Small",
+   "role": "Director of Technology, SAU 6"
+  },
+  "24": {
+   "name": "Frank Sprague",
+   "role": "SAU 6 Board member (Claremont); Claremont School Board Chair (uncertain - questions in the public-hearing portion sit in his cluster, but the business administrator answers one insurance point with 'Jason, to address your question' [51]; the speaker calls himself 'a former guidance counselor' [69])"
+  },
+  "151": {
+   "name": "Donna Magoon",
+   "role": "Assistant Superintendent, SAU 6"
+  },
+  "152": {
+   "name": "Donna Magoon",
+   "role": "Assistant Superintendent, SAU 6"
+  },
+  "153": {
+   "name": "Donna Magoon",
+   "role": "Assistant Superintendent, SAU 6"
+  },
+  "154": {
+   "name": "Donna Magoon",
+   "role": "Assistant Superintendent, SAU 6"
+  },
+  "155": {
+   "name": "Donna Magoon",
+   "role": "Assistant Superintendent, SAU 6"
+  },
+  "156": {
+   "name": "Donna Magoon",
+   "role": "Assistant Superintendent, SAU 6"
+  },
+  "157": {
+   "name": "Donna Magoon",
+   "role": "Assistant Superintendent, SAU 6"
+  },
+  "158": {
+   "name": "Donna Magoon",
+   "role": "Assistant Superintendent, SAU 6"
+  },
+  "100": {
+   "name": "Mary Woodman",
+   "role": "School district clerk and board recording secretary (calls roll)"
+  },
+  "207": {
+   "name": "Mary Woodman",
+   "role": "School district clerk and board recording secretary (calls roll)"
+  },
+  "209": {
+   "name": "Mary Woodman",
+   "role": "School district clerk and board recording secretary (calls roll)"
+  },
+  "210": {
+   "name": "Mary Woodman",
+   "role": "School district clerk and board recording secretary (calls roll)"
+  },
+  "211": {
+   "name": "Mary Woodman",
+   "role": "School district clerk and board recording secretary (calls roll)"
+  },
+  "119": {
+   "name": "Heather Whitney",
+   "role": "SAU 6 Board member (Claremont)"
+  },
+  "191": {
+   "name": "Heather Whitney",
+   "role": "SAU 6 Board member (Claremont)"
+  },
+  "25": {
+   "name": "Frank Sprague",
+   "role": "SAU 6 Board member (Claremont); Claremont School Board Chair (uncertain - questions in the public-hearing portion sit in his cluster, but the business administrator answers one insurance point with 'Jason, to address your question' [51]; the speaker calls himself 'a former guidance counselor' [69])"
+  },
+  "29": {
+   "name": "Frank Sprague",
+   "role": "SAU 6 Board member (Claremont); Claremont School Board Chair (uncertain - questions in the public-hearing portion sit in his cluster, but the business administrator answers one insurance point with 'Jason, to address your question' [51]; the speaker calls himself 'a former guidance counselor' [69])"
+  },
+  "30": {
+   "name": "Frank Sprague",
+   "role": "SAU 6 Board member (Claremont); Claremont School Board Chair (uncertain - questions in the public-hearing portion sit in his cluster, but the business administrator answers one insurance point with 'Jason, to address your question' [51]; the speaker calls himself 'a former guidance counselor' [69])"
+  },
+  "56": {
+   "name": "Frank Sprague",
+   "role": "SAU 6 Board member (Claremont); Claremont School Board Chair (uncertain - questions in the public-hearing portion sit in his cluster, but the business administrator answers one insurance point with 'Jason, to address your question' [51]; the speaker calls himself 'a former guidance counselor' [69])"
+  },
+  "69": {
+   "name": "Frank Sprague",
+   "role": "SAU 6 Board member (Claremont); Claremont School Board Chair (uncertain - questions in the public-hearing portion sit in his cluster, but the business administrator answers one insurance point with 'Jason, to address your question' [51]; the speaker calls himself 'a former guidance counselor' [69])"
+  },
+  "71": {
+   "name": "Frank Sprague",
+   "role": "SAU 6 Board member (Claremont); Claremont School Board Chair (uncertain - questions in the public-hearing portion sit in his cluster, but the business administrator answers one insurance point with 'Jason, to address your question' [51]; the speaker calls himself 'a former guidance counselor' [69])"
+  },
+  "79": {
+   "name": "Frank Sprague",
+   "role": "SAU 6 Board member (Claremont); Claremont School Board Chair (uncertain - questions in the public-hearing portion sit in his cluster, but the business administrator answers one insurance point with 'Jason, to address your question' [51]; the speaker calls himself 'a former guidance counselor' [69])"
+  },
+  "85": {
+   "name": "Frank Sprague",
+   "role": "SAU 6 Board member (Claremont); Claremont School Board Chair (uncertain - questions in the public-hearing portion sit in his cluster, but the business administrator answers one insurance point with 'Jason, to address your question' [51]; the speaker calls himself 'a former guidance counselor' [69])"
+  },
+  "87": {
+   "name": "Frank Sprague",
+   "role": "SAU 6 Board member (Claremont); Claremont School Board Chair (uncertain - questions in the public-hearing portion sit in his cluster, but the business administrator answers one insurance point with 'Jason, to address your question' [51]; the speaker calls himself 'a former guidance counselor' [69])"
+  }
+ }
+}

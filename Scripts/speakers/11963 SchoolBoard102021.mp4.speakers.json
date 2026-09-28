@@ -1,0 +1,108 @@
+{
+ "Speaker 1": {
+  "name": "Frank Sprague",
+  "role": "Claremont School Board Chair"
+ },
+ "Speaker 2": {
+  "name": "Michael Tempesta",
+  "role": "Superintendent, SAU 6"
+ },
+ "Speaker 3": {
+  "name": "Mary Woodman",
+  "role": "School district clerk and recording secretary"
+ },
+ "Speaker 4": {
+  "name": "Unidentified",
+  "role": "Unidentified - cluster of short interjections, backchannel and group responses from several people (pledge, 'yeah', 'right'); clear items reassigned by override"
+ },
+ "Speaker 5": {
+  "name": "Emily",
+  "role": "Student representative to the board, Stevens High School senior (first name only on the record)"
+ },
+ "Speaker 6": {
+  "name": "Steven Horsky",
+  "role": "Claremont School Board member"
+ },
+ "Speaker 7": {
+  "name": "Ronnie",
+  "role": "Lead school nurse, SAU 6 (first name only on the record; also called Veronica on 12/16/21)"
+ },
+ "Speaker 8": {
+  "name": "Heather Whitney",
+  "role": "Claremont School Board member"
+ },
+ "Speaker 9": {
+  "name": "Nicholas Stone",
+  "role": "Claremont School Board member"
+ },
+ "Speaker 10": {
+  "name": "Michael Petrin",
+  "role": "Claremont School Board member; SAU 6 Board Chair"
+ },
+ "Speaker 11": {
+  "name": "Steven Horsky",
+  "role": "Claremont School Board member - fragments of his remarks"
+ },
+ "Speaker 12": {
+  "name": "Ronnie",
+  "role": "Lead school nurse, SAU 6 - fragments of her presentation and her recognitions of questioners"
+ },
+ "Speaker 13": {
+  "name": "Tessa Akins",
+  "role": "School nurse, Claremont Middle School (introduced by Ronnie; spelling unverified)"
+ },
+ "Speaker 14": {
+  "name": "Joshua Lambert",
+  "role": "Claremont School Board member"
+ },
+ "Speaker 15": {
+  "name": "Sean LaPlante",
+  "role": "Athletic director, Claremont Middle School (ASR 'Sean. The plan on'; surname spelling unverified)"
+ },
+ "Speaker 16": {
+  "name": "Rob Lovett Jr.",
+  "role": "Claremont School Board member (attribution by elimination)"
+ },
+ "Speaker 17": {
+  "name": "Dr. Janeiro",
+  "role": "Curriculum administrator, SAU 6 (uncertain - speaks to curriculum and music programs but is not named when speaking)"
+ },
+ "__overrides__": {
+  "8": {
+   "name": "Michael Petrin",
+   "role": "Claremont School Board member; SAU 6 Board Chair"
+  },
+  "35": {
+   "name": "Michael Petrin",
+   "role": "Claremont School Board member; SAU 6 Board Chair"
+  },
+  "178": {
+   "name": "Unidentified",
+   "role": "Unidentified - remark addressed to Jeff and Ronnie during the nurse's slides"
+  },
+  "314": {
+   "name": "Heather Whitney",
+   "role": "Claremont School Board member"
+  },
+  "437": {
+   "name": "Frank Sprague",
+   "role": "Claremont School Board Chair"
+  },
+  "609": {
+   "name": "Frank Sprague",
+   "role": "Claremont School Board Chair"
+  },
+  "636": {
+   "name": "Frank Sprague",
+   "role": "Claremont School Board Chair"
+  },
+  "645": {
+   "name": "Dr. Janeiro",
+   "role": "Curriculum administrator, SAU 6 (uncertain - speaks to curriculum and music programs but is not named when speaking)"
+  },
+  "667": {
+   "name": "Frank Sprague",
+   "role": "Claremont School Board Chair"
+  }
+ }
+}

@@ -1,0 +1,135 @@
+{
+ "Speaker 1": {
+  "name": "Jason Benware",
+  "role": "Claremont School Board member (cluster may also carry other male members' short lines; see overrides)"
+ },
+ "Speaker 2": {
+  "name": "Carolyn Towle",
+  "role": "Claremont School Board member"
+ },
+ "Speaker 3": {
+  "name": "Frank Sprague",
+  "role": "Claremont School Board Chair"
+ },
+ "Speaker 4": {
+  "name": "Mary Woodman",
+  "role": "School district clerk and board recording secretary"
+ },
+ "Speaker 5": {
+  "name": "Paige Jarvis",
+  "role": "Director, Claremont Early Childhood Program"
+ },
+ "Speaker 6": {
+  "name": "Unidentified",
+  "role": "Unidentified - Claremont Early Childhood Program preschool teacher (one of Terry Zullo, Kelly Provost, Christina Sanford or Cindy Roberts, introduced at [36])"
+ },
+ "Speaker 7": {
+  "name": "Heather Whitney",
+  "role": "Claremont School Board member"
+ },
+ "Speaker 8": {
+  "name": "Ben Nester",
+  "role": "Director of Special Education, SAU 6"
+ },
+ "Speaker 9": {
+  "name": "Unidentified",
+  "role": "Unidentified - cluster of short interjections from several voices (includes the guidance counselor the chair calls 'Mimi' [114])"
+ },
+ "Speaker 10": {
+  "name": "Tyler Sullivan",
+  "role": "Student representative to the Claremont School Board"
+ },
+ "Speaker 11": {
+  "name": "Richard Seaman",
+  "role": "Business Administrator, SAU 6"
+ },
+ "Speaker 12": {
+  "name": "Mrs. Chesney",
+  "role": "Stevens High School teacher; head advisor, Youth in Government (surname as heard, spelling unverified)"
+ },
+ "Speaker 13": {
+  "name": "Michael Tempesta",
+  "role": "Superintendent, SAU 6"
+ },
+ "Speaker 14": {
+  "name": "Tyler Sullivan",
+  "role": "Student representative to the Claremont School Board"
+ },
+ "Speaker 15": {
+  "name": "Michael Petrin",
+  "role": "Claremont School Board member"
+ },
+ "Speaker 16": {
+  "name": "Ben Nester",
+  "role": "Director of Special Education, SAU 6"
+ },
+ "Speaker 17": {
+  "name": "Unidentified",
+  "role": "Unidentified - single short remark"
+ },
+ "Speaker 18": {
+  "name": "Steve Moss",
+  "role": "Curriculum specialist, grades 6-12 (name as self-identified at [424], ASR 'Steve Moss', spelling unverified)"
+ },
+ "Speaker 19": {
+  "name": "Unidentified",
+  "role": "Unidentified - Stevens High School school counselor (self-identified as 'one of the school counselors' [438]; name not recoverable, ASR 'Colonel')"
+ },
+ "Speaker 20": {
+  "name": "Unidentified",
+  "role": "Unidentified - second school counselor or staff member at the program of studies presentation"
+ },
+ "Speaker 21": {
+  "name": "Unidentified",
+  "role": "Unidentified - short interjections and aye"
+ },
+ "__overrides__": {
+  "424": {
+   "name": "Steve Moss"
+  },
+  "607": {
+   "name": "Unidentified",
+   "role": "Unidentified - board member's second to adjourn"
+  },
+  "9": {
+   "name": "Mary Woodman"
+  },
+  "0": {
+   "name": "Unidentified",
+   "role": "Unidentified - pre-meeting banter about the preschool hats"
+  },
+  "2": {
+   "name": "Unidentified",
+   "role": "Unidentified - pre-meeting banter about the preschool hats"
+  },
+  "4": {
+   "name": "Unidentified",
+   "role": "Unidentified - pre-meeting banter about the preschool hats"
+  },
+  "1": {
+   "name": "Unidentified",
+   "role": "Unidentified - pre-meeting banter about the preschool hats"
+  },
+  "17": {
+   "name": "Unidentified",
+   "role": "Unidentified - group aye vote"
+  },
+  "497": {
+   "name": "Unidentified",
+   "role": "Unidentified - group aye vote"
+  },
+  "12": {
+   "name": "Michael Petrin"
+  },
+  "19": {
+   "name": "Rob Lovett Jr.",
+   "role": "Claremont School Board member (uncertain - chair names 'Mr. Lovett' right after this motion [20]; no own diarized cluster)"
+  },
+  "285": {
+   "name": "Frank Sprague"
+  },
+  "496": {
+   "name": "Frank Sprague"
+  }
+ }
+}

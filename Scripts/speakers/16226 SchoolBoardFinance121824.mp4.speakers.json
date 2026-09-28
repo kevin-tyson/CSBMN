@@ -1,0 +1,132 @@
+{
+ "Speaker 1": {
+  "name": "Chris Pratt",
+  "role": "Superintendent, SAU 6 - MERGED CLUSTER: also carries Frank Sprague's opening (segs 0-3) and one later turn (358), reassigned by override. Pratt anchors: 'I did that at the high school, and Doctor Herron [Herrington] did it again' (616) and 'at least when I was principal of the high school' (627) - Pratt was Stevens principal before becoming superintendent; Candace Crawford refers to 'Superintendent Pratt talked about that a little bit' (270, conf 1.00) about the middle-school cuts this voice introduced at 003/005; speaks throughout as the administration ('me and my team', 'we've gone as far as we can as administration'). Stylometry separates him from Sprague: 'you know' 24.0/1000 words, 'and stuff' 3.5/1000, 'in regards to' 1.6/1000 vs Sprague's 1.6 / 0 / 0"
+ },
+ "Speaker 2": {
+  "name": "Mary Henry",
+  "role": "Business Administrator, Claremont School District / SAU 6 - named present in the chair's opening roll of administrators (000, 'Mary Henry', conf 1.00); handed the floor as 'Mary Henry, business administrator' (003) and 'Miss Henry' (006); addressed by name as 'Mary' by Crawford (057, 196) and Sprague (580) and as 'Heather... Mary's looking at that'; presents every budget line and tax-rate calculation"
+ },
+ "Speaker 3": {
+  "name": "Heather Whitney",
+  "role": "Chair, Claremont School Board; Finance Committee member - introduced by the chair of the committee as 'to my left is Heather Whitney' (000, conf 1.00/0.94); addressed by name by Mary Henry, 'with what you added in Heather to the bottom line' (735, conf 1.00) and 'I'm sorry. Heather, do you have very front of you?' (750, conf 1.00), and by Frank Sprague, 'They're not going to give out detentions, Heather' (535, conf 1.00) and 'Heather I'm guessing it's going to be closer to five or six' (915, conf 1.00). She addresses Sprague as 'Frank' four times (448, 574, 610, 792), so she is not Sprague"
+ },
+ "Speaker 4": {
+  "name": "Candace Crawford",
+  "role": "Claremont School Board member; Finance Committee member; Capital Improvements chair - introduced as 'to my right is Andy [Candy] Crawford' (000); recognised by the chair 'Yeah. Go ahead. Candy' (167, conf 1.00) immediately before this voice takes the floor at 170; addressed by Mary Henry as 'Candace' at 074, 200, 208, 225, 856 and 877 and 'Yeah Candice is right' (774); self-identifies 'since I'm on the capital improvements committee' (196), matching the 9/30/24 subcommittee reading"
+ },
+ "Speaker 5": {
+  "name": "Mike McCosker",
+  "role": "Director of Student Services, SAU 6 - named present in the chair's opening roll as 'Mike McCusker' (000); Frank Sprague invites him with 'Can I get Mike just jump in quickly' (461) and this voice answers (462), then Sprague attributes that answer back: 'But Mr. McCusker said about the fact that that other people could assume the LEA role' (533, conf 0.78); Sprague again at 928, 'which Mike is going to work on is the related services', answered here at 931. This voice refers to Sprague in the third person, 'Mr. Sprague asks an important question' (371, conf 1.00), and says 'I don't live in Claremont, but I live somewhere' (392) - McCosker started 7/1/2024. Speaks only on IEPs, out-of-district placement, LEA duty and preschool special education"
+ },
+ "Speaker 6": {
+  "name": "Mary Henry",
+  "role": "Business Administrator, Claremont School District / SAU 6 - three fragments (214, 215, 218) split off her own cluster while she hunts for an account line; 215 'Just give me one second. Candace. I'm sorry' repeats her phrasing at 200 ('I'm sorry. Candace, give me one second to pull up my numbers') and 208, and 218 'Number lines' sits between her 217 and 219 ('repairs and maintenance is a 442') with sub-100 ms gaps"
+ },
+ "Speaker 7": {
+  "name": "Frank Sprague",
+  "role": "Chair, Claremont School Board Finance Committee; Vice Chair, Claremont School Board - Heather Whitney answers this voice by name four times: 'Frank, quite frankly, I think the only thing that we can do is bring it down as low as we think we can' (574, conf 1.00), 'as Frank, mentioned' (610), 'to Frank's point here is concern' (559, via 448 'if what Frank is saying is true', conf 1.00) and 'All right. Frank. So what are you thinking?' (792, conf 0.95) - answered here at 793. Michael McCosker calls him 'Mr. Sprague' (371). He presides: manages the clock (571, 630, 878, 919), sets the 4% target (793-804) and closes the meeting, 'I think our business is done' (1001). Self-describes as a former teacher and administrator, 'principals meetings, of which I was one... at the high school' (440) and 'we were able... to get a social worker, mental health worker in Stevens' (564) - the sixth version of his background in this corpus"
+ },
+ "Speaker 8": {
+  "name": "Unidentified",
+  "role": "Clipped backchannel fragments (0.1-1.6 s of speech each) split out of the merged male clusters inside one 10-minute window (3405-3983 s). Four are reassigned by override where they complete an adjacent speaker's own sentence with a sub-100 ms gap; the remaining six are one- and two-word assents that are not separable. Candidates: Chris Pratt or Frank Sprague (Mike Koski, announced present at 000, never identifies himself and cannot be ruled in)"
+ },
+ "Speaker 9": {
+  "name": "Unidentified",
+  "role": "A single 0.5 s 'Thanks.' at 7010.06 s as the meeting breaks up, after the chair's adjournment; no acoustic or content anchor to any person in the room"
+ },
+ "__overrides__": {
+  "0": {
+   "name": "Frank Sprague",
+   "role": "Chair, Claremont School Board Finance Committee - opens the meeting and introduces the room: 'I'd like to welcome everyone to our budget finance committee... to my left is Heather Whitney. To my right is Andy [Candy] Crawford. Administrators are here. Chris Pratt, Mary Henry, Mike Kosky and Mike McCusker.' He names Pratt as one of the administrators present, so he is not Pratt; he is the third committee member and the one presiding. Diarizer merged this opening into the Pratt cluster"
+  },
+  "1": {
+   "name": "Frank Sprague",
+   "role": "Chair, Claremont School Board Finance Committee - continues his opening: 'this is just our third meeting... I'm going to ask a little bit, as Miss Crawford to detail that she's done some extensive work on that.' Zero occurrences of Pratt's markers ('you know', 'and stuff', 'in regards to', 'based on') in 72 words"
+  },
+  "2": {
+   "name": "Frank Sprague",
+   "role": "Chair, Claremont School Board Finance Committee - 'as I had indicated in my opening remarks last time we met... we will be talking about those on TV.' Zero Pratt markers in 89 words"
+  },
+  "3": {
+   "name": "Unidentified",
+   "role": "STRADDLES THE HANDOVER - one diarized segment containing two speakers. First sentence is Frank Sprague finishing his opening ('So at this time, I'd like to turn it over to the administration... as to what we saw when the last we met'); after a 0.93 s pause the rest is Chris Pratt ('Okay. Yeah, I can I'll I'll stop before handing it over to Mary Henry, business administrator... There are some significant cuts from the middle school'), which Candace Crawford later attributes to 'Superintendent Pratt' (270). The row cannot carry two names"
+  },
+  "9": {
+   "name": "Unidentified",
+   "role": "Three words inside the merged male cluster; no anchor. Candidates: Chris Pratt or Frank Sprague"
+  },
+  "26": {
+   "name": "Unidentified",
+   "role": "0.24 s 'I see.' sandwiched between Heather Whitney (025) and Candace Crawford (027) mid-exchange; no anchor. Candidates: Chris Pratt, Frank Sprague, or a clip of either woman"
+  },
+  "62": {
+   "name": "Unidentified",
+   "role": "'So it's a CBA. Are the CBA's in there?' - a question to the Business Administrator from the merged male cluster; no anchor separates Chris Pratt from Frank Sprague here"
+  },
+  "64": {
+   "name": "Unidentified",
+   "role": "'Okay, so we can double that.' - continues 062; same unresolved pair, Chris Pratt or Frank Sprague"
+  },
+  "151": {
+   "name": "Candace Crawford",
+   "role": "Claremont School Board member; Finance Committee member - 0.40 s fragment 'Per one.' between her own 150 ('You said 137') and 152 ('Hundred thousand'), gaps 0.08 s and 0.00 s; her own sentence 'per one hundred thousand' split across clusters"
+  },
+  "167": {
+   "name": "Frank Sprague",
+   "role": "Chair, Claremont School Board Finance Committee - the chair's recognition: Whitney asks 'Do you want to go candy?' (166) and this voice grants the floor, 'Yeah. Go ahead. Candy', immediately before Crawford begins her questions at 170. The superintendent does not grant the floor at a board subcommittee"
+  },
+  "169": {
+   "name": "Heather Whitney",
+   "role": "Chair, Claremont School Board; Finance Committee member - 0.12 s fragment 'Go back.' 0.08 s after her own 'And then I'll.' (168); her sentence 'And then I'll go back' clipped into the neighbouring cluster"
+  },
+  "222": {
+   "name": "Unidentified",
+   "role": "'Using this year. Money. Years. Money.' - a clarifying question during Crawford's capital-items questioning; no anchor. Candidates: Chris Pratt, Frank Sprague or a clip of Candace Crawford"
+  },
+  "306": {
+   "name": "Candace Crawford",
+   "role": "Claremont School Board member; Finance Committee member - 'All right. Or district might [wide].' ('might' conf 0.67) 0.16 s after her own 'Okay.' (305) and 0.04 s before Henry's correction 'That was district wide. No.' (307), which Crawford then answers at 308; she is the one walking the budget school by school"
+  },
+  "318": {
+   "name": "Candace Crawford",
+   "role": "Claremont School Board member; Finance Committee member - 0.24 s fragment 'But it.' between her own 317 and 319 ('Shouldn't be'), gap 0.08 s; her sentence 'But it shouldn't be' split across clusters"
+  },
+  "340": {
+   "name": "Unidentified",
+   "role": "'Control, right? Yes.' at a 0.00 s gap from Mary Henry's 'But we have.' (339); reads as the completion of her clause but is diarized to the male cluster. Candidates: Mary Henry, Chris Pratt or Frank Sprague"
+  },
+  "358": {
+   "name": "Frank Sprague",
+   "role": "Chair, Claremont School Board Finance Committee - 'my only pushback to that is, as is a former school employee, and having worked in several different districts... when I worked in the public schools ten years ago'. Chris Pratt was in this district and is a current employee; Sprague is the retired administrator, and he resumes this same argument from his own cluster at 362 ('my own experience, both as a teacher... and then, as an administrator'). Michael McCosker answers it as 'Mr. Sprague asks an important question, how did this happen?' (371). Stylometry: zero occurrences of Pratt's four markers in 71 words, whereas the immediately following 359-361 - which speak as the administration ('based on the current administration, that's just one thing we inherited', 'based on what we found out') - carry 'based on' three times and 'you know' twice"
+  },
+  "430": {
+   "name": "Heather Whitney",
+   "role": "Chair, Claremont School Board; Finance Committee member - 'So you know they.' 0.12 s before her own 431 ('use the census of the school does not justify a true assistant vice principal'); her sentence split across clusters"
+  },
+  "491": {
+   "name": "Candace Crawford",
+   "role": "Claremont School Board member; Finance Committee member - 0.12 s fragment 'We.' 0.12 s before her own 492 ('Haven't read and and we haven't ratified it yet'); her sentence onset clipped into the Business Administrator's cluster"
+  },
+  "500": {
+   "name": "Chris Pratt",
+   "role": "Superintendent, SAU 6 - 'Or not.' at a 0.00 s gap completing his own sentence in 499, 'we'll just have to see if that's ratified'"
+  },
+  "516": {
+   "name": "Frank Sprague",
+   "role": "Chair, Claremont School Board Finance Committee - 'Opportunity.' sits inside his own sentence, 0.08 s after 515 ('the administration will make every effort to, to given the number of') and 0.08 s before 517 ('To try to figure out how to keep them in the district')"
+  },
+  "519": {
+   "name": "Chris Pratt",
+   "role": "Superintendent, SAU 6 - 'Or counselors council, depending on.' 0.08 s after his own 518, completing his list '...towards social workers and counselors'"
+  },
+  "526": {
+   "name": "Chris Pratt",
+   "role": "Superintendent, SAU 6 - 'I think.' between his own 525 and 527, 0.08 s each side; 'I think. We do have a social worker that works with the middle school and high school' is one sentence"
+  },
+  "948": {
+   "name": "Heather Whitney",
+   "role": "Chair, Claremont School Board; Finance Committee member - 0.41 s fragment 'Or do.' between her own 947 ('do we have 20 slots') and 949 ('We have I guess what I'm saying is'), gap 0.09 s; her sentence 'do we have 20 slots, or do we have...' split across clusters"
+  }
+ }
+}

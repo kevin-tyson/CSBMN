@@ -1,0 +1,113 @@
+{
+ "Speaker 1": {
+  "name": "Michael Petrin",
+  "role": "Claremont School Board Chair (runs the 6/15/22 meeting, recognitions and votes throughout; roll-call vote reads 'Mike. Patron' [4])"
+ },
+ "Speaker 3": {
+  "name": "Steven Horsky",
+  "role": "Claremont School Board member (chair recognizes 'Steven.' [2], [52], [393] before this voice's motions and remarks; chair: 'Stevens motion was to move to Cafe Services' [517])"
+ },
+ "Speaker 4": {
+  "name": "Heather Whitney",
+  "role": "Claremont School Board Vice Chair (addressed as Heather by the guidance counselor [81] and the presenter [90]; 'you're right, Heather' [280]; 'Seconded by Heather' [519])"
+ },
+ "Speaker 16": {
+  "name": "Heather Whitney",
+  "role": "Claremont School Board Vice Chair (uncertain - second cluster: [600] is the onset of Whitney's active-shooter-plan question completed at [601]; [579] answers the reference to 'what Heather was asking about' [578])"
+ },
+ "Speaker 5": {
+  "name": "Joshua Lambert",
+  "role": "Claremont School Board member (the superintendent answers this voice's question on the clerk posting with 'the deadline that Josh had identified' [538], [570]; says he arrived late to the 1/5/22 meeting [28])"
+ },
+ "Speaker 10": {
+  "name": "Whitney Skillen",
+  "role": "Claremont School Board member (chair: 'I saw Whitney first' [232] before this voice; Horsky: 'I'm following with Whitney here' [154] after her AP remarks; presenter answers 'Whitney' [234])"
+ },
+ "Speaker 12": {
+  "name": "Michael Tempesta",
+  "role": "Superintendent, SAU 6 (reports on the clerk vacancy, police MOU and graduation; 'Mike had to go for unity' [674] answered 'I did, yeah, eighth grade graduation' [675])"
+ },
+ "Speaker 8": {
+  "name": "Richard Seaman",
+  "role": "Assistant Superintendent for Finance, SAU 6 (chair introduces 'Mr. Seaman' for the food service selection [311] and says 'Okay Richard' [333]; also 'When I was sitting on the board, ten years ago' [158], consistent with his board service to 2016; see overrides)"
+ },
+ "Speaker 6": {
+  "name": "Mary Ellen",
+  "role": "SAU 6 curriculum administrator, first year in the district (presents the district data and curriculum report [70-287]; referred to as 'Mary Ellen' [86]; surname not stated; roster's 'Doctor Janeiro', who introduced Stephanie Hurst, may be the same person, uncertain)"
+ },
+ "Speaker 11": {
+  "name": "Mary Ellen",
+  "role": "SAU 6 curriculum administrator, first year in the district (fragments [141], [143] of the presenter's sentence completed at [142], [144])"
+ },
+ "Speaker 7": {
+  "name": "Mimi",
+  "role": "Stevens High School guidance counselor; Ward 1 resident (presenter: 'Glad that you're here, Mimi, because that's a guidance counselor question' [78] before this voice; 'I live in Ward one, I work at the high school' [445]; surname not stated)"
+ },
+ "Speaker 9": {
+  "name": "Josh",
+  "role": "Public commenter, Ward 2 (self-ID at the mic, ASR 'Joshua Ward? Two' [126] and 'Josh. Ward two again' [474]; surname not stated; not board member Josh Lambert)"
+ },
+ "Speaker 18": {
+  "name": "Josh",
+  "role": "CCTV representative speaking from the audience (chair addresses him as 'Josh' [642]; explains the CCTV board appointment process [628-660]; possibly the same Ward 2 resident Josh [126], uncertain)"
+ },
+ "Speaker 2": {
+  "name": "Unidentified",
+  "role": "Unidentified - large mixed cluster: roll-call readings (Jeff Small or Melissa Small, uncertain; chair says 'Jeff took the initial roll call' [0]), seconds, 'aye' votes and backchannel from several voices"
+ },
+ "Speaker 13": {
+  "name": "Unidentified",
+  "role": "Unidentified - Claremont School Board member questioning the food service ratings and guarantee [334-441] (possibly Frank Sprague, uncertain - no name cue)"
+ },
+ "Speaker 14": {
+  "name": "Unidentified",
+  "role": "Unidentified - cluster of short procedural words and responses from several voices"
+ },
+ "Speaker 15": {
+  "name": "Unidentified",
+  "role": "Unidentified - Claremont School Board member asking about students leaving for lunch [502-513] (possibly Bonnie Miles, uncertain)"
+ },
+ "Speaker 17": {
+  "name": "Unidentified",
+  "role": "Unidentified - Claremont School Board member on the clerk process and pay [533], [551], [553]"
+ },
+ "Speaker 19": {
+  "name": "Unidentified",
+  "role": "Unidentified - board member moving to adjourn [698]"
+ },
+ "Speaker 20": {
+  "name": "Unidentified",
+  "role": "Unidentified - single interjection [700]"
+ },
+ "__overrides__": {
+  "70": {
+   "name": "Mary Ellen"
+  },
+  "296": {
+   "name": "Mimi"
+  },
+  "298": {
+   "name": "Mimi"
+  },
+  "300": {
+   "name": "Mimi"
+  },
+  "46": {
+   "name": "Whitney Skillen",
+   "role": "Claremont School Board member (second attributed by the chair: 'Second by the Whitney' [47])"
+  },
+  "496": {
+   "name": "Steven Horsky"
+  },
+  "500": {
+   "name": "Heather Whitney"
+  },
+  "689": {
+   "name": "Steven Horsky"
+  },
+  "667": {
+   "name": "Unidentified",
+   "role": "Unidentified - board member moving to reappoint the CCTV board members (absorbed into Seaman's cluster; a staff member cannot move)"
+  }
+ }
+}

@@ -1,0 +1,633 @@
+{
+ "Speaker 1": {
+  "name": "Unidentified",
+  "role": "Mixed short interjections from several people; see overrides"
+ },
+ "Speaker 2": {
+  "name": "Heather Whitney",
+  "role": "Claremont School Board Vice Chair"
+ },
+ "Speaker 3": {
+  "name": "Frank Sprague",
+  "role": "Claremont School Board member"
+ },
+ "Speaker 4": {
+  "name": "Matt Upton",
+  "role": "District legal counsel, Drummond Woodsum, on the line before the meeting (uncertain - identified only by 'Thank you. Matt.' and the roster)"
+ },
+ "Speaker 5": {
+  "name": "Michael Tempesta",
+  "role": "Superintendent, SAU 6"
+ },
+ "Speaker 6": {
+  "name": "Unidentified",
+  "role": "Mixed short interjections from several people; see overrides"
+ },
+ "Speaker 7": {
+  "name": "Michael Petrin",
+  "role": "Claremont School Board Chair"
+ },
+ "Speaker 8": {
+  "name": "Steven Horsky",
+  "role": "Claremont School Board member"
+ },
+ "Speaker 9": {
+  "name": "Richard Seaman",
+  "role": "Assistant Superintendent for Finance, Operations and Human Resources, SAU 6"
+ },
+ "Speaker 10": {
+  "name": "Candace Crawford",
+  "role": "Public commenter, Ward 2 (ASR 'Candy Crawford, board two')"
+ },
+ "Speaker 11": {
+  "name": "Unidentified",
+  "role": "Mixed short interjections from several people after the curriculum presentation; see overrides"
+ },
+ "Speaker 12": {
+  "name": "Unidentified",
+  "role": "Short remark, speaker not determinable"
+ },
+ "Speaker 13": {
+  "name": "Unidentified",
+  "role": "Board member, Heather Whitney or Bonnie Miles (uncertain - the diarizer merged their voices in this cluster)"
+ },
+ "Speaker 14": {
+  "name": "Joshua Lambert",
+  "role": "Claremont School Board member (uncertain - by elimination and policy/curriculum committee roles; never addressed by name in this cluster)"
+ },
+ "Speaker 15": {
+  "name": "Unidentified",
+  "role": "Short remark, speaker not determinable"
+ },
+ "__overrides__": {
+  "0": {
+   "name": "Unidentified",
+   "role": "Pre-meeting conversation about remote attendance, speaker not determinable"
+  },
+  "1": {
+   "name": "Unidentified",
+   "role": "Pre-meeting conversation about remote attendance, speaker not determinable"
+  },
+  "2": {
+   "name": "Unidentified",
+   "role": "Pre-meeting conversation about remote attendance, speaker not determinable"
+  },
+  "3": {
+   "name": "Unidentified",
+   "role": "Pre-meeting conversation about remote attendance, speaker not determinable"
+  },
+  "4": {
+   "name": "Unidentified",
+   "role": "Pre-meeting conversation about remote attendance, speaker not determinable"
+  },
+  "5": {
+   "name": "Unidentified",
+   "role": "Pre-meeting conversation about remote attendance, speaker not determinable"
+  },
+  "6": {
+   "name": "Unidentified",
+   "role": "Pre-meeting conversation about remote attendance, speaker not determinable"
+  },
+  "7": {
+   "name": "Unidentified",
+   "role": "Pre-meeting conversation about remote attendance, speaker not determinable"
+  },
+  "8": {
+   "name": "Unidentified",
+   "role": "Pre-meeting conversation about remote attendance, speaker not determinable"
+  },
+  "9": {
+   "name": "Unidentified",
+   "role": "Pre-meeting conversation about remote attendance, speaker not determinable"
+  },
+  "10": {
+   "name": "Unidentified",
+   "role": "Pre-meeting conversation about remote attendance, speaker not determinable"
+  },
+  "12": {
+   "name": "Unidentified",
+   "role": "Pre-meeting conversation about remote attendance, speaker not determinable"
+  },
+  "14": {
+   "name": "Unidentified",
+   "role": "Pre-meeting conversation about remote attendance, speaker not determinable"
+  },
+  "15": {
+   "name": "Unidentified",
+   "role": "Pre-meeting conversation about remote attendance, speaker not determinable"
+  },
+  "17": {
+   "name": "Unidentified",
+   "role": "Pre-meeting conversation about remote attendance, speaker not determinable"
+  },
+  "19": {
+   "name": "Unidentified",
+   "role": "Pre-meeting conversation about remote attendance, speaker not determinable"
+  },
+  "21": {
+   "name": "Unidentified",
+   "role": "Pre-meeting conversation about remote attendance, speaker not determinable"
+  },
+  "26": {
+   "name": "Unidentified",
+   "role": "Pre-meeting conversation about remote attendance, speaker not determinable"
+  },
+  "28": {
+   "name": "Unidentified",
+   "role": "Pre-meeting conversation about remote attendance, speaker not determinable"
+  },
+  "30": {
+   "name": "Unidentified",
+   "role": "Pre-meeting conversation about remote attendance, speaker not determinable"
+  },
+  "31": {
+   "name": "Unidentified",
+   "role": "Pre-meeting conversation about remote attendance, speaker not determinable"
+  },
+  "34": {
+   "name": "Unidentified",
+   "role": "Board member roll response or pledge"
+  },
+  "35": {
+   "name": "Unidentified",
+   "role": "Board member roll response or pledge"
+  },
+  "36": {
+   "name": "Unidentified",
+   "role": "Board member roll response or pledge"
+  },
+  "37": {
+   "name": "Unidentified",
+   "role": "Board member roll response or pledge"
+  },
+  "42": {
+   "name": "Unidentified",
+   "role": "Board member roll response or pledge"
+  },
+  "43": {
+   "name": "Unidentified",
+   "role": "Board member roll response or pledge"
+  },
+  "44": {
+   "name": "Unidentified",
+   "role": "Board member roll response or pledge"
+  },
+  "56": {
+   "name": "Michael Petrin"
+  },
+  "63": {
+   "name": "Unidentified",
+   "role": "Short interjection during citizens comments, speaker not determinable"
+  },
+  "70": {
+   "name": "Unidentified",
+   "role": "Short interjection during citizens comments, speaker not determinable"
+  },
+  "75": {
+   "name": "Unidentified",
+   "role": "Short interjection during citizens comments, speaker not determinable"
+  },
+  "81": {
+   "name": "Unidentified",
+   "role": "Short interjection during citizens comments, speaker not determinable"
+  },
+  "98": {
+   "name": "Unidentified",
+   "role": "Short interjection during citizens comments, speaker not determinable"
+  },
+  "102": {
+   "name": "Unidentified",
+   "role": "Short interjection during citizens comments, speaker not determinable"
+  },
+  "104": {
+   "name": "Unidentified",
+   "role": "Short interjection during citizens comments, speaker not determinable"
+  },
+  "107": {
+   "name": "Unidentified",
+   "role": "Short interjection during citizens comments, speaker not determinable"
+  },
+  "109": {
+   "name": "Unidentified",
+   "role": "Short interjection during citizens comments, speaker not determinable"
+  },
+  "114": {
+   "name": "Unidentified",
+   "role": "Short interjection during citizens comments, speaker not determinable"
+  },
+  "131": {
+   "name": "Unidentified",
+   "role": "Short interjection during citizens comments, speaker not determinable"
+  },
+  "133": {
+   "name": "Unidentified",
+   "role": "Short interjection during citizens comments, speaker not determinable"
+  },
+  "138": {
+   "name": "Unidentified",
+   "role": "Short interjection during citizens comments, speaker not determinable"
+  },
+  "148": {
+   "name": "Heather Pelkey",
+   "role": "Curriculum specialist, SAU 6 (new hire; 'Doctor Pelkey' introduced by the superintendent)"
+  },
+  "150": {
+   "name": "Heather Pelkey",
+   "role": "Curriculum specialist, SAU 6 (new hire; 'Doctor Pelkey' introduced by the superintendent)"
+  },
+  "168": {
+   "name": "Michael Koski",
+   "role": "SAU 6 administrator leading the curriculum team (ASR 'Mr. Costa'; Assistant Superintendent in 2023 records; title at this date not stated)"
+  },
+  "169": {
+   "name": "Michael Koski",
+   "role": "SAU 6 administrator leading the curriculum team (ASR 'Mr. Costa'; Assistant Superintendent in 2023 records; title at this date not stated)"
+  },
+  "170": {
+   "name": "Michael Koski",
+   "role": "SAU 6 administrator leading the curriculum team (ASR 'Mr. Costa'; Assistant Superintendent in 2023 records; title at this date not stated)"
+  },
+  "171": {
+   "name": "Michael Koski",
+   "role": "SAU 6 administrator leading the curriculum team (ASR 'Mr. Costa'; Assistant Superintendent in 2023 records; title at this date not stated)"
+  },
+  "172": {
+   "name": "Michael Koski",
+   "role": "SAU 6 administrator leading the curriculum team (ASR 'Mr. Costa'; Assistant Superintendent in 2023 records; title at this date not stated)"
+  },
+  "173": {
+   "name": "Michael Koski",
+   "role": "SAU 6 administrator leading the curriculum team (ASR 'Mr. Costa'; Assistant Superintendent in 2023 records; title at this date not stated)"
+  },
+  "174": {
+   "name": "Michael Koski",
+   "role": "SAU 6 administrator leading the curriculum team (ASR 'Mr. Costa'; Assistant Superintendent in 2023 records; title at this date not stated)"
+  },
+  "175": {
+   "name": "Michael Koski",
+   "role": "SAU 6 administrator leading the curriculum team (ASR 'Mr. Costa'; Assistant Superintendent in 2023 records; title at this date not stated)"
+  },
+  "176": {
+   "name": "Michael Koski",
+   "role": "SAU 6 administrator leading the curriculum team (ASR 'Mr. Costa'; Assistant Superintendent in 2023 records; title at this date not stated)"
+  },
+  "177": {
+   "name": "Michael Koski",
+   "role": "SAU 6 administrator leading the curriculum team (ASR 'Mr. Costa'; Assistant Superintendent in 2023 records; title at this date not stated)"
+  },
+  "178": {
+   "name": "Michael Koski",
+   "role": "SAU 6 administrator leading the curriculum team (ASR 'Mr. Costa'; Assistant Superintendent in 2023 records; title at this date not stated)"
+  },
+  "179": {
+   "name": "Michael Koski",
+   "role": "SAU 6 administrator leading the curriculum team (ASR 'Mr. Costa'; Assistant Superintendent in 2023 records; title at this date not stated)"
+  },
+  "180": {
+   "name": "Michael Koski",
+   "role": "SAU 6 administrator leading the curriculum team (ASR 'Mr. Costa'; Assistant Superintendent in 2023 records; title at this date not stated)"
+  },
+  "181": {
+   "name": "Michael Koski",
+   "role": "SAU 6 administrator leading the curriculum team (ASR 'Mr. Costa'; Assistant Superintendent in 2023 records; title at this date not stated)"
+  },
+  "182": {
+   "name": "Michael Koski",
+   "role": "SAU 6 administrator leading the curriculum team (ASR 'Mr. Costa'; Assistant Superintendent in 2023 records; title at this date not stated)"
+  },
+  "184": {
+   "name": "Michael Koski",
+   "role": "SAU 6 administrator leading the curriculum team (ASR 'Mr. Costa'; Assistant Superintendent in 2023 records; title at this date not stated)"
+  },
+  "186": {
+   "name": "Michael Koski",
+   "role": "SAU 6 administrator leading the curriculum team (ASR 'Mr. Costa'; Assistant Superintendent in 2023 records; title at this date not stated)"
+  },
+  "199": {
+   "name": "Michael Koski",
+   "role": "SAU 6 administrator leading the curriculum team (ASR 'Mr. Costa'; Assistant Superintendent in 2023 records; title at this date not stated)"
+  },
+  "201": {
+   "name": "Michael Koski",
+   "role": "SAU 6 administrator leading the curriculum team (ASR 'Mr. Costa'; Assistant Superintendent in 2023 records; title at this date not stated)"
+  },
+  "203": {
+   "name": "Michael Koski",
+   "role": "SAU 6 administrator leading the curriculum team (ASR 'Mr. Costa'; Assistant Superintendent in 2023 records; title at this date not stated)"
+  },
+  "205": {
+   "name": "Michael Koski",
+   "role": "SAU 6 administrator leading the curriculum team (ASR 'Mr. Costa'; Assistant Superintendent in 2023 records; title at this date not stated)"
+  },
+  "207": {
+   "name": "Michael Koski",
+   "role": "SAU 6 administrator leading the curriculum team (ASR 'Mr. Costa'; Assistant Superintendent in 2023 records; title at this date not stated)"
+  },
+  "211": {
+   "name": "Michael Koski",
+   "role": "SAU 6 administrator leading the curriculum team (ASR 'Mr. Costa'; Assistant Superintendent in 2023 records; title at this date not stated)"
+  },
+  "213": {
+   "name": "Michael Koski",
+   "role": "SAU 6 administrator leading the curriculum team (ASR 'Mr. Costa'; Assistant Superintendent in 2023 records; title at this date not stated)"
+  },
+  "216": {
+   "name": "Michael Koski",
+   "role": "SAU 6 administrator leading the curriculum team (ASR 'Mr. Costa'; Assistant Superintendent in 2023 records; title at this date not stated)"
+  },
+  "218": {
+   "name": "Michael Koski",
+   "role": "SAU 6 administrator leading the curriculum team (ASR 'Mr. Costa'; Assistant Superintendent in 2023 records; title at this date not stated)"
+  },
+  "220": {
+   "name": "Michael Koski",
+   "role": "SAU 6 administrator leading the curriculum team (ASR 'Mr. Costa'; Assistant Superintendent in 2023 records; title at this date not stated)"
+  },
+  "224": {
+   "name": "Michael Koski",
+   "role": "SAU 6 administrator leading the curriculum team (ASR 'Mr. Costa'; Assistant Superintendent in 2023 records; title at this date not stated)"
+  },
+  "226": {
+   "name": "Michael Koski",
+   "role": "SAU 6 administrator leading the curriculum team (ASR 'Mr. Costa'; Assistant Superintendent in 2023 records; title at this date not stated)"
+  },
+  "228": {
+   "name": "Michael Koski",
+   "role": "SAU 6 administrator leading the curriculum team (ASR 'Mr. Costa'; Assistant Superintendent in 2023 records; title at this date not stated)"
+  },
+  "232": {
+   "name": "Michael Koski",
+   "role": "SAU 6 administrator leading the curriculum team (ASR 'Mr. Costa'; Assistant Superintendent in 2023 records; title at this date not stated)"
+  },
+  "234": {
+   "name": "Michael Koski",
+   "role": "SAU 6 administrator leading the curriculum team (ASR 'Mr. Costa'; Assistant Superintendent in 2023 records; title at this date not stated)"
+  },
+  "236": {
+   "name": "Michael Koski",
+   "role": "SAU 6 administrator leading the curriculum team (ASR 'Mr. Costa'; Assistant Superintendent in 2023 records; title at this date not stated)"
+  },
+  "238": {
+   "name": "Michael Koski",
+   "role": "SAU 6 administrator leading the curriculum team (ASR 'Mr. Costa'; Assistant Superintendent in 2023 records; title at this date not stated)"
+  },
+  "239": {
+   "name": "Michael Koski",
+   "role": "SAU 6 administrator leading the curriculum team (ASR 'Mr. Costa'; Assistant Superintendent in 2023 records; title at this date not stated)"
+  },
+  "241": {
+   "name": "Michael Koski",
+   "role": "SAU 6 administrator leading the curriculum team (ASR 'Mr. Costa'; Assistant Superintendent in 2023 records; title at this date not stated)"
+  },
+  "363": {
+   "name": "Bonnie Miles",
+   "role": "Claremont School Board member"
+  },
+  "364": {
+   "name": "Bonnie Miles",
+   "role": "Claremont School Board member"
+  },
+  "365": {
+   "name": "Bonnie Miles",
+   "role": "Claremont School Board member"
+  },
+  "366": {
+   "name": "Bonnie Miles",
+   "role": "Claremont School Board member"
+  },
+  "367": {
+   "name": "Bonnie Miles",
+   "role": "Claremont School Board member"
+  },
+  "368": {
+   "name": "Bonnie Miles",
+   "role": "Claremont School Board member"
+  },
+  "370": {
+   "name": "Bonnie Miles",
+   "role": "Claremont School Board member"
+  },
+  "375": {
+   "name": "Bonnie Miles",
+   "role": "Claremont School Board member"
+  },
+  "377": {
+   "name": "Bonnie Miles",
+   "role": "Claremont School Board member"
+  },
+  "380": {
+   "name": "Bonnie Miles",
+   "role": "Claremont School Board member"
+  },
+  "382": {
+   "name": "Bonnie Miles",
+   "role": "Claremont School Board member"
+  },
+  "384": {
+   "name": "Unidentified",
+   "role": "Board member, Heather Whitney or Bonnie Miles (uncertain - the diarizer merged their voices in this cluster)"
+  },
+  "386": {
+   "name": "Unidentified",
+   "role": "Board member, Heather Whitney or Bonnie Miles (uncertain - the diarizer merged their voices in this cluster)"
+  },
+  "391": {
+   "name": "Unidentified",
+   "role": "Board member, Heather Whitney or Bonnie Miles (uncertain - the diarizer merged their voices in this cluster)"
+  },
+  "393": {
+   "name": "Unidentified",
+   "role": "Board member, Heather Whitney or Bonnie Miles (uncertain - the diarizer merged their voices in this cluster)"
+  },
+  "395": {
+   "name": "Unidentified",
+   "role": "Board member, Heather Whitney or Bonnie Miles (uncertain - the diarizer merged their voices in this cluster)"
+  },
+  "398": {
+   "name": "Unidentified",
+   "role": "Board member, Heather Whitney or Bonnie Miles (uncertain - the diarizer merged their voices in this cluster)"
+  },
+  "400": {
+   "name": "Unidentified",
+   "role": "Board member, Heather Whitney or Bonnie Miles (uncertain - the diarizer merged their voices in this cluster)"
+  },
+  "402": {
+   "name": "Unidentified",
+   "role": "Board member, Heather Whitney or Bonnie Miles (uncertain - the diarizer merged their voices in this cluster)"
+  },
+  "408": {
+   "name": "Unidentified",
+   "role": "Board member, Heather Whitney or Bonnie Miles (uncertain - the diarizer merged their voices in this cluster)"
+  },
+  "421": {
+   "name": "Unidentified",
+   "role": "Board member, Heather Whitney or Bonnie Miles (uncertain - the diarizer merged their voices in this cluster)"
+  },
+  "453": {
+   "name": "Unidentified",
+   "role": "Board member, Heather Whitney or Bonnie Miles (uncertain - the diarizer merged their voices in this cluster)"
+  },
+  "455": {
+   "name": "Unidentified",
+   "role": "Board member, Heather Whitney or Bonnie Miles (uncertain - the diarizer merged their voices in this cluster)"
+  },
+  "503": {
+   "name": "Unidentified",
+   "role": "Board member, Heather Whitney or Bonnie Miles (uncertain - the diarizer merged their voices in this cluster)"
+  },
+  "551": {
+   "name": "Unidentified",
+   "role": "Board member, Heather Whitney or Bonnie Miles (uncertain - the diarizer merged their voices in this cluster)"
+  },
+  "593": {
+   "name": "Unidentified",
+   "role": "Board member, Heather Whitney or Bonnie Miles (uncertain - the diarizer merged their voices in this cluster)"
+  },
+  "595": {
+   "name": "Unidentified",
+   "role": "Board member, Heather Whitney or Bonnie Miles (uncertain - the diarizer merged their voices in this cluster)"
+  },
+  "600": {
+   "name": "Unidentified",
+   "role": "Board member, Heather Whitney or Bonnie Miles (uncertain - the diarizer merged their voices in this cluster)"
+  },
+  "640": {
+   "name": "Unidentified",
+   "role": "Board member, Heather Whitney or Bonnie Miles (uncertain - the diarizer merged their voices in this cluster)"
+  },
+  "653": {
+   "name": "Unidentified",
+   "role": "Board member, Heather Whitney or Bonnie Miles (uncertain - the diarizer merged their voices in this cluster)"
+  },
+  "658": {
+   "name": "Unidentified",
+   "role": "Board member, Heather Whitney or Bonnie Miles (uncertain - the diarizer merged their voices in this cluster)"
+  },
+  "660": {
+   "name": "Unidentified",
+   "role": "Board member, Heather Whitney or Bonnie Miles (uncertain - the diarizer merged their voices in this cluster)"
+  },
+  "662": {
+   "name": "Unidentified",
+   "role": "Board member, Heather Whitney or Bonnie Miles (uncertain - the diarizer merged their voices in this cluster)"
+  },
+  "683": {
+   "name": "Unidentified",
+   "role": "Board member, Heather Whitney or Bonnie Miles (uncertain - the diarizer merged their voices in this cluster)"
+  },
+  "685": {
+   "name": "Unidentified",
+   "role": "Board member, Heather Whitney or Bonnie Miles (uncertain - the diarizer merged their voices in this cluster)"
+  },
+  "693": {
+   "name": "Unidentified",
+   "role": "Board member, Heather Whitney or Bonnie Miles (uncertain - the diarizer merged their voices in this cluster)"
+  },
+  "87": {
+   "name": "Michael Tempesta"
+  },
+  "164": {
+   "name": "Michael Tempesta"
+  },
+  "167": {
+   "name": "Michael Tempesta"
+  },
+  "190": {
+   "name": "Unidentified",
+   "role": "Recognition of Heather Whitney, probably the chair"
+  },
+  "54": {
+   "name": "Frank Sprague"
+  },
+  "191": {
+   "name": "Frank Sprague"
+  },
+  "193": {
+   "name": "Frank Sprague"
+  },
+  "195": {
+   "name": "Frank Sprague"
+  },
+  "197": {
+   "name": "Frank Sprague"
+  },
+  "66": {
+   "name": "Candace Crawford"
+  },
+  "68": {
+   "name": "Candace Crawford"
+  },
+  "39": {
+   "name": "Melissa Small",
+   "role": "SAU 6 administrative assistant and board recording secretary"
+  },
+  "634": {
+   "name": "Melissa Small",
+   "role": "SAU 6 administrative assistant and board recording secretary"
+  },
+  "635": {
+   "name": "Melissa Small",
+   "role": "SAU 6 administrative assistant and board recording secretary"
+  },
+  "250": {
+   "name": "Unidentified",
+   "role": "Board member, Heather Whitney or Bonnie Miles (uncertain - the diarizer merged their voices in this cluster)"
+  },
+  "252": {
+   "name": "Unidentified",
+   "role": "Board member, Heather Whitney or Bonnie Miles (uncertain - the diarizer merged their voices in this cluster)"
+  },
+  "276": {
+   "name": "Unidentified",
+   "role": "Board member, Heather Whitney or Bonnie Miles (uncertain - the diarizer merged their voices in this cluster)"
+  },
+  "281": {
+   "name": "Unidentified",
+   "role": "Board member, Heather Whitney or Bonnie Miles (uncertain - the diarizer merged their voices in this cluster)"
+  },
+  "283": {
+   "name": "Unidentified",
+   "role": "Board member, Heather Whitney or Bonnie Miles (uncertain - the diarizer merged their voices in this cluster)"
+  },
+  "286": {
+   "name": "Unidentified",
+   "role": "Board member, Heather Whitney or Bonnie Miles (uncertain - the diarizer merged their voices in this cluster)"
+  },
+  "288": {
+   "name": "Unidentified",
+   "role": "Board member, Heather Whitney or Bonnie Miles (uncertain - the diarizer merged their voices in this cluster)"
+  },
+  "298": {
+   "name": "Unidentified",
+   "role": "Board member, Heather Whitney or Bonnie Miles (uncertain - the diarizer merged their voices in this cluster)"
+  },
+  "301": {
+   "name": "Unidentified",
+   "role": "Board member, Heather Whitney or Bonnie Miles (uncertain - the diarizer merged their voices in this cluster)"
+  },
+  "302": {
+   "name": "Unidentified",
+   "role": "Board member, Heather Whitney or Bonnie Miles (uncertain - the diarizer merged their voices in this cluster)"
+  },
+  "322": {
+   "name": "Unidentified",
+   "role": "Board member, Heather Whitney or Bonnie Miles (uncertain - the diarizer merged their voices in this cluster)"
+  },
+  "324": {
+   "name": "Unidentified",
+   "role": "Board member, Heather Whitney or Bonnie Miles (uncertain - the diarizer merged their voices in this cluster)"
+  },
+  "340": {
+   "name": "Unidentified",
+   "role": "Board member, Heather Whitney or Bonnie Miles (uncertain - the diarizer merged their voices in this cluster)"
+  },
+  "358": {
+   "name": "Unidentified",
+   "role": "Board member, Heather Whitney or Bonnie Miles (uncertain - the diarizer merged their voices in this cluster)"
+  },
+  "360": {
+   "name": "Unidentified",
+   "role": "Board member, Heather Whitney or Bonnie Miles (uncertain - the diarizer merged their voices in this cluster)"
+  }
+ }
+}

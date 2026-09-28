@@ -1,0 +1,436 @@
+{
+ "Speaker 1": {
+  "name": "Michael Tempesta",
+  "role": "Superintendent of Schools, SAU 6 \u2014 named in the opening round-robin ('Mike Tempesta, superintendent'); self-identifies as a superintendent at [30] ('from superintendent colleagues ... and testifying myself'); addressed by Melissa Lewis at [182] ('Unless that's one coming out of Esther, Mr. Tempesta'). This cluster ALSO carries Frank Sprague; his segments are reassigned individually"
+ },
+ "Speaker 2": {
+  "name": "Frank Sprague",
+  "role": "Chair, School Board finance/budget subcommittee; Vice Chair, Claremont School Board \u2014 anchored by Mary Henry at [227] ('That I cannot answer, Frank') and by Tempesta relaying at [523] ('Frank's asking...'); runs the meeting throughout"
+ },
+ "Speaker 3": {
+  "name": "Heather Whitney",
+  "role": "Chair, Claremont School Board; finance subcommittee member \u2014 anchored by Crawford at [39] ('Heather, one of my concerns...') answering this voice, and by this voice addressing Crawford at [32] ('if I'm wrong, Candy'). This cluster ALSO carries Mary Henry from ~[480] to [665]; those segments are reassigned individually"
+ },
+ "Speaker 4": {
+  "name": "Frank Sprague",
+  "role": "Chair, finance/budget subcommittee \u2014 4 clipped fragments in the school-funding-lawsuit exchange; [46] completes his own sentence ('Yeah, that's / where I'm at'). One segment reassigned to Crawford"
+ },
+ "Speaker 5": {
+  "name": "Candace Crawford",
+  "role": "Claremont School Board member; finance subcommittee member \u2014 named present in the opening round-robin; addressed as 'Candy' by Melissa Lewis at [165] and as 'Candace' by Mary Henry at [244] answering this voice's question at [242] ('I want to hear that from Mary')"
+ },
+ "Speaker 6": {
+  "name": "Mary Henry",
+  "role": "Business Administrator, SAU 6 \u2014 named in the opening round-robin ('Mary Henry, business administrator'); answers 'That I cannot answer, Frank' [227] and 'I'm going to tell you, Candace' [244]; 'I'm looking at my spreadsheet' [444]"
+ },
+ "Speaker 7": {
+  "name": "Frank Sprague",
+  "role": "Chair, finance/budget subcommittee \u2014 short cluster of the chair's acknowledgements and clipped onsets ([320] duplicates his own 'Let's switch to Christine'); three segments reassigned"
+ },
+ "Speaker 8": {
+  "name": "Melissa Lewis",
+  "role": "Principal, Disnard Elementary School \u2014 recognised by the chair at [93] ('That'd be great, Melissa. Thank you') and [161] ('So, Melissa, could I ask one?'); presents the Disnard budget"
+ },
+ "Speaker 9": {
+  "name": "Frank Sprague",
+  "role": "Chair, finance/budget subcommittee \u2014 3 clipped fragments; [233]/[235] complete his own sentences ('I thought it was 8:00... / so we have a little more time'; 'I'm not trying to / rush'). One segment reassigned"
+ },
+ "Speaker 10": {
+  "name": "Mary Henry",
+  "role": "Business Administrator, SAU 6 \u2014 2 near-silent segments while hunting a budget line; LOW confidence, contentless filler ('Let me see'). One segment reassigned to Christine Baker"
+ },
+ "Speaker 11": {
+  "name": "Unidentified",
+  "role": "Unidentified participant \u2014 9 short, low-content interjections between 24:38 and 59:39, several of them probably the Maple Avenue speakerphone before it was fully connected; no name, self-ID or direct address anywhere ties this cluster to a person"
+ },
+ "Speaker 12": {
+  "name": "Christine Baker",
+  "role": "Principal, Bluff Elementary School (participating remotely) \u2014 named present in the opening round-robin ('Christine Baker... just joined us online') and handed the floor by the chair at [321] ('Let's switch to Christine. Christine Baker'); presents the Bluff budget"
+ },
+ "Speaker 13": {
+  "name": "Mark Blunt",
+  "role": "Principal, Maple Avenue Elementary School (participating by telephone) \u2014 named present in the opening round-robin ('And Mark is online'), addressed by the chair as 'Mr. Blunt' [411] and repeatedly as 'Mark'; answers for the Maple Avenue budget from [512]"
+ },
+ "Speaker 14": {
+  "name": "Heather Whitney",
+  "role": "Chair, Claremont School Board; finance subcommittee member \u2014 breakaway cluster of the same voice as Speaker 3; [715]-[718] is one sentence alternating between the two clusters ('Has that gone into six / through 12 / or are / we still at all')"
+ },
+ "Speaker 15": {
+  "name": "Mike Koski",
+  "role": "Assistant Superintendent, SAU 6 (MEDIUM confidence \u2014 never addressed by name on this recording; named present in the opening round-robin, and this cluster speaks only on curriculum purchasing, which the corpus routes to him: Melissa Lewis 'chatting with Mike Kosky... waiting for a final cost from Wit and Wisdom' [100], Mark Blunt 'Mr. Kosky worked with me on that' [553], and 12/6/23 finance 'I'm thinking that has to do with Mike Kosky / So a curriculum related issue'. Alternative not excluded: curriculum director Kat McLaughlin, who is not named present)"
+ },
+ "Speaker 16": {
+  "name": "Unidentified",
+  "role": "Unidentified \u2014 3 fragments during the audio-feedback trouble and the closing room noise"
+ },
+ "__overrides__": {
+  "0": {
+   "name": "Frank Sprague",
+   "role": "Chair, School Board finance/budget subcommittee; Vice Chair, Claremont School Board \u2014 his opening self-identification and round-robin of who is in the room, before he hands off to the superintendent inside [4]"
+  },
+  "1": {
+   "name": "Frank Sprague",
+   "role": "Chair, School Board finance/budget subcommittee; Vice Chair, Claremont School Board \u2014 his opening self-identification and round-robin of who is in the room, before he hands off to the superintendent inside [4]"
+  },
+  "2": {
+   "name": "Frank Sprague",
+   "role": "Chair, School Board finance/budget subcommittee; Vice Chair, Claremont School Board \u2014 his opening self-identification and round-robin of who is in the room, before he hands off to the superintendent inside [4]"
+  },
+  "3": {
+   "name": "Frank Sprague",
+   "role": "Chair, School Board finance/budget subcommittee; Vice Chair, Claremont School Board \u2014 his opening self-identification and round-robin of who is in the room, before he hands off to the superintendent inside [4]"
+  },
+  "598": {
+   "name": "Frank Sprague",
+   "role": "Chair, finance/budget subcommittee \u2014 questioning from last year's budget materials ('I've got my budget materials from last year'); Mary Henry answers him at [607] ('you don't get last year's')"
+  },
+  "603": {
+   "name": "Frank Sprague",
+   "role": "Chair, finance/budget subcommittee \u2014 questioning from last year's budget materials ('I've got my budget materials from last year'); Mary Henry answers him at [607] ('you don't get last year's')"
+  },
+  "606": {
+   "name": "Frank Sprague",
+   "role": "Chair, finance/budget subcommittee \u2014 questioning from last year's budget materials ('I've got my budget materials from last year'); Mary Henry answers him at [607] ('you don't get last year's')"
+  },
+  "608": {
+   "name": "Frank Sprague",
+   "role": "Chair, finance/budget subcommittee \u2014 questioning from last year's budget materials ('I've got my budget materials from last year'); Mary Henry answers him at [607] ('you don't get last year's')"
+  },
+  "611": {
+   "name": "Frank Sprague",
+   "role": "Chair, finance/budget subcommittee \u2014 questioning from last year's budget materials ('I've got my budget materials from last year'); Mary Henry answers him at [607] ('you don't get last year's')"
+  },
+  "613": {
+   "name": "Frank Sprague",
+   "role": "Chair, finance/budget subcommittee \u2014 questioning from last year's budget materials ('I've got my budget materials from last year'); Mary Henry answers him at [607] ('you don't get last year's')"
+  },
+  "615": {
+   "name": "Frank Sprague",
+   "role": "Chair, finance/budget subcommittee \u2014 questioning from last year's budget materials ('I've got my budget materials from last year'); Mary Henry answers him at [607] ('you don't get last year's')"
+  },
+  "617": {
+   "name": "Frank Sprague",
+   "role": "Chair, finance/budget subcommittee \u2014 questioning from last year's budget materials ('I've got my budget materials from last year'); Mary Henry answers him at [607] ('you don't get last year's')"
+  },
+  "633": {
+   "name": "Frank Sprague",
+   "role": "Chair, finance/budget subcommittee \u2014 asking for a staffing/compensation report; anchored by Mary Henry's reply at [634] ('And Frank, I have no problem with that')"
+  },
+  "635": {
+   "name": "Frank Sprague",
+   "role": "Chair, finance/budget subcommittee \u2014 asking for a staffing/compensation report; anchored by Mary Henry's reply at [634] ('And Frank, I have no problem with that')"
+  },
+  "637": {
+   "name": "Frank Sprague",
+   "role": "Chair, finance/budget subcommittee \u2014 asking for a staffing/compensation report; anchored by Mary Henry's reply at [634] ('And Frank, I have no problem with that')"
+  },
+  "639": {
+   "name": "Frank Sprague",
+   "role": "Chair, finance/budget subcommittee \u2014 asking for a staffing/compensation report; anchored by Mary Henry's reply at [634] ('And Frank, I have no problem with that')"
+  },
+  "641": {
+   "name": "Frank Sprague",
+   "role": "Chair, finance/budget subcommittee \u2014 asking for a staffing/compensation report; anchored by Mary Henry's reply at [634] ('And Frank, I have no problem with that')"
+  },
+  "643": {
+   "name": "Frank Sprague",
+   "role": "Chair, finance/budget subcommittee \u2014 asking for a staffing/compensation report; anchored by Mary Henry's reply at [634] ('And Frank, I have no problem with that')"
+  },
+  "654": {
+   "name": "Frank Sprague",
+   "role": "Chair, finance/budget subcommittee \u2014 'I lost my question / senior moment', resumed at [685] ('I just thought of my question'); [686]-[687] is one sentence ('...additional extraordinary need / grants, because I was under the impression')"
+  },
+  "655": {
+   "name": "Frank Sprague",
+   "role": "Chair, finance/budget subcommittee \u2014 'I lost my question / senior moment', resumed at [685] ('I just thought of my question'); [686]-[687] is one sentence ('...additional extraordinary need / grants, because I was under the impression')"
+  },
+  "685": {
+   "name": "Frank Sprague",
+   "role": "Chair, finance/budget subcommittee \u2014 'I lost my question / senior moment', resumed at [685] ('I just thought of my question'); [686]-[687] is one sentence ('...additional extraordinary need / grants, because I was under the impression')"
+  },
+  "686": {
+   "name": "Frank Sprague",
+   "role": "Chair, finance/budget subcommittee \u2014 'I lost my question / senior moment', resumed at [685] ('I just thought of my question'); [686]-[687] is one sentence ('...additional extraordinary need / grants, because I was under the impression')"
+  },
+  "687": {
+   "name": "Frank Sprague",
+   "role": "Chair, finance/budget subcommittee \u2014 'I lost my question / senior moment', resumed at [685] ('I just thought of my question'); [686]-[687] is one sentence ('...additional extraordinary need / grants, because I was under the impression')"
+  },
+  "668": {
+   "name": "Frank Sprague",
+   "role": "Chair, finance/budget subcommittee \u2014 anchored by Crawford at [669] ('Frank, you got to stop talking about that')"
+  },
+  "670": {
+   "name": "Frank Sprague",
+   "role": "Chair, finance/budget subcommittee \u2014 anchored by Crawford at [669] ('Frank, you got to stop talking about that')"
+  },
+  "672": {
+   "name": "Frank Sprague",
+   "role": "Chair, finance/budget subcommittee \u2014 anchored by Crawford at [669] ('Frank, you got to stop talking about that')"
+  },
+  "674": {
+   "name": "Frank Sprague",
+   "role": "Chair, finance/budget subcommittee \u2014 anchored by Crawford at [669] ('Frank, you got to stop talking about that')"
+  },
+  "677": {
+   "name": "Frank Sprague",
+   "role": "Chair, finance/budget subcommittee \u2014 thanking Mark Blunt and dismissing the two principals ('All right, ladies, thank you so much')"
+  },
+  "679": {
+   "name": "Frank Sprague",
+   "role": "Chair, finance/budget subcommittee \u2014 thanking Mark Blunt and dismissing the two principals ('All right, ladies, thank you so much')"
+  },
+  "681": {
+   "name": "Frank Sprague",
+   "role": "Chair, finance/budget subcommittee \u2014 thanking Mark Blunt and dismissing the two principals ('All right, ladies, thank you so much')"
+  },
+  "683": {
+   "name": "Frank Sprague",
+   "role": "Chair, finance/budget subcommittee \u2014 thanking Mark Blunt and dismissing the two principals ('All right, ladies, thank you so much')"
+  },
+  "812": {
+   "name": "Frank Sprague",
+   "role": "Chair, finance/budget subcommittee \u2014 closing the session and setting tomorrow's 9:00 start"
+  },
+  "814": {
+   "name": "Frank Sprague",
+   "role": "Chair, finance/budget subcommittee \u2014 closing the session and setting tomorrow's 9:00 start"
+  },
+  "816": {
+   "name": "Frank Sprague",
+   "role": "Chair, finance/budget subcommittee \u2014 closing the session and setting tomorrow's 9:00 start"
+  },
+  "818": {
+   "name": "Frank Sprague",
+   "role": "Chair, finance/budget subcommittee \u2014 closing the session and setting tomorrow's 9:00 start"
+  },
+  "379": {
+   "name": "Michael Tempesta",
+   "role": "Superintendent, SAU 6 \u2014 clipped fragments of his own sentence at [380] ('And I / looked at that. And we believe it was a budgeting error / for Bluff')"
+  },
+  "381": {
+   "name": "Michael Tempesta",
+   "role": "Superintendent, SAU 6 \u2014 clipped fragments of his own sentence at [380] ('And I / looked at that. And we believe it was a budgeting error / for Bluff')"
+  },
+  "467": {
+   "name": "Michael Tempesta",
+   "role": "Superintendent, SAU 6 \u2014 sub-second onset of his own [468] ('In / the letter of agreement')"
+  },
+  "474": {
+   "name": "Michael Tempesta",
+   "role": "Superintendent, SAU 6 \u2014 continues into [475] ('That's what we're trying because we had / a lot'), the same point he restates at [477]"
+  },
+  "42": {
+   "name": "Candace Crawford",
+   "role": "Claremont School Board member \u2014 completes her own sentence at [41] ('I'm doubtful / that anything is going to happen')"
+  },
+  "134": {
+   "name": "Candace Crawford",
+   "role": "Claremont School Board member \u2014 sub-second echo between her own [133] and [135]"
+  },
+  "509": {
+   "name": "Candace Crawford",
+   "role": "Claremont School Board member \u2014 0.24 s onset of her own [510], zero gap ('Mark. How many / how / many paras do you have')"
+  },
+  "582": {
+   "name": "Candace Crawford",
+   "role": "Claremont School Board member \u2014 completes her own sentence across [581]-[583] ('an intervention[ist] / funded through local / so is title one')"
+  },
+  "745": {
+   "name": "Candace Crawford",
+   "role": "Claremont School Board member \u2014 completes her own sentence from [744] ('it is built into the in some / ways it's built in')"
+  },
+  "480": {
+   "name": "Mary Henry",
+   "role": "Business Administrator, SAU 6 \u2014 answering for the Maple Avenue salary and health-insurance lines; [479]-[480] is one sentence spanning her two clusters ('I believe it's a change / in people'), and 'I'm going to carry it over' [488] is the budget-builder speaking"
+  },
+  "482": {
+   "name": "Mary Henry",
+   "role": "Business Administrator, SAU 6 \u2014 answering for the Maple Avenue salary and health-insurance lines; [479]-[480] is one sentence spanning her two clusters ('I believe it's a change / in people'), and 'I'm going to carry it over' [488] is the budget-builder speaking"
+  },
+  "486": {
+   "name": "Mary Henry",
+   "role": "Business Administrator, SAU 6 \u2014 answering for the Maple Avenue salary and health-insurance lines; [479]-[480] is one sentence spanning her two clusters ('I believe it's a change / in people'), and 'I'm going to carry it over' [488] is the budget-builder speaking"
+  },
+  "488": {
+   "name": "Mary Henry",
+   "role": "Business Administrator, SAU 6 \u2014 answering for the Maple Avenue salary and health-insurance lines; [479]-[480] is one sentence spanning her two clusters ('I believe it's a change / in people'), and 'I'm going to carry it over' [488] is the budget-builder speaking"
+  },
+  "490": {
+   "name": "Mary Henry",
+   "role": "Business Administrator, SAU 6 \u2014 answering for the Maple Avenue salary and health-insurance lines; [479]-[480] is one sentence spanning her two clusters ('I believe it's a change / in people'), and 'I'm going to carry it over' [488] is the budget-builder speaking"
+  },
+  "494": {
+   "name": "Mary Henry",
+   "role": "Business Administrator, SAU 6 \u2014 answering for the Maple Avenue salary and health-insurance lines; [479]-[480] is one sentence spanning her two clusters ('I believe it's a change / in people'), and 'I'm going to carry it over' [488] is the budget-builder speaking"
+  },
+  "495": {
+   "name": "Mary Henry",
+   "role": "Business Administrator, SAU 6 \u2014 answering for the Maple Avenue salary and health-insurance lines; [479]-[480] is one sentence spanning her two clusters ('I believe it's a change / in people'), and 'I'm going to carry it over' [488] is the budget-builder speaking"
+  },
+  "497": {
+   "name": "Mary Henry",
+   "role": "Business Administrator, SAU 6 \u2014 answering for the Maple Avenue salary and health-insurance lines; [479]-[480] is one sentence spanning her two clusters ('I believe it's a change / in people'), and 'I'm going to carry it over' [488] is the budget-builder speaking"
+  },
+  "499": {
+   "name": "Mary Henry",
+   "role": "Business Administrator, SAU 6 \u2014 answering for the Maple Avenue salary and health-insurance lines; [479]-[480] is one sentence spanning her two clusters ('I believe it's a change / in people'), and 'I'm going to carry it over' [488] is the budget-builder speaking"
+  },
+  "501": {
+   "name": "Mary Henry",
+   "role": "Business Administrator, SAU 6 \u2014 answering for the Maple Avenue salary and health-insurance lines; [479]-[480] is one sentence spanning her two clusters ('I believe it's a change / in people'), and 'I'm going to carry it over' [488] is the budget-builder speaking"
+  },
+  "503": {
+   "name": "Mary Henry",
+   "role": "Business Administrator, SAU 6 \u2014 answering for the Maple Avenue salary and health-insurance lines; [479]-[480] is one sentence spanning her two clusters ('I believe it's a change / in people'), and 'I'm going to carry it over' [488] is the budget-builder speaking"
+  },
+  "506": {
+   "name": "Mary Henry",
+   "role": "Business Administrator, SAU 6 \u2014 answering for the Maple Avenue salary and health-insurance lines; [479]-[480] is one sentence spanning her two clusters ('I believe it's a change / in people'), and 'I'm going to carry it over' [488] is the budget-builder speaking"
+  },
+  "518": {
+   "name": "Mary Henry",
+   "role": "Business Administrator, SAU 6 \u2014 answering for the Maple Avenue salary and health-insurance lines; [479]-[480] is one sentence spanning her two clusters ('I believe it's a change / in people'), and 'I'm going to carry it over' [488] is the budget-builder speaking"
+  },
+  "536": {
+   "name": "Mary Henry",
+   "role": "Business Administrator, SAU 6 \u2014 answering for the Maple Avenue salary and health-insurance lines; [479]-[480] is one sentence spanning her two clusters ('I believe it's a change / in people'), and 'I'm going to carry it over' [488] is the budget-builder speaking"
+  },
+  "538": {
+   "name": "Mary Henry",
+   "role": "Business Administrator, SAU 6 \u2014 answering for the Maple Avenue salary and health-insurance lines; [479]-[480] is one sentence spanning her two clusters ('I believe it's a change / in people'), and 'I'm going to carry it over' [488] is the budget-builder speaking"
+  },
+  "554": {
+   "name": "Mary Henry",
+   "role": "Business Administrator, SAU 6 \u2014 explaining that the Title I interventionist sits in the grant budget, not the general fund"
+  },
+  "556": {
+   "name": "Mary Henry",
+   "role": "Business Administrator, SAU 6 \u2014 explaining that the Title I interventionist sits in the grant budget, not the general fund"
+  },
+  "593": {
+   "name": "Mary Henry",
+   "role": "Business Administrator, SAU 6 \u2014 stating definitively what is and is not in the proposed budget lines ('There are no behavioral support specialists ... in any of these budget lines')"
+  },
+  "595": {
+   "name": "Mary Henry",
+   "role": "Business Administrator, SAU 6 \u2014 stating definitively what is and is not in the proposed budget lines ('There are no behavioral support specialists ... in any of these budget lines')"
+  },
+  "597": {
+   "name": "Mary Henry",
+   "role": "Business Administrator, SAU 6 \u2014 stating definitively what is and is not in the proposed budget lines ('There are no behavioral support specialists ... in any of these budget lines')"
+  },
+  "600": {
+   "name": "Mary Henry",
+   "role": "Business Administrator, SAU 6 \u2014 stating definitively what is and is not in the proposed budget lines ('There are no behavioral support specialists ... in any of these budget lines')"
+  },
+  "604": {
+   "name": "Mary Henry",
+   "role": "Business Administrator, SAU 6 \u2014 stating definitively what is and is not in the proposed budget lines ('There are no behavioral support specialists ... in any of these budget lines')"
+  },
+  "607": {
+   "name": "Mary Henry",
+   "role": "Business Administrator, SAU 6 \u2014 stating definitively what is and is not in the proposed budget lines ('There are no behavioral support specialists ... in any of these budget lines')"
+  },
+  "610": {
+   "name": "Mary Henry",
+   "role": "Business Administrator, SAU 6 \u2014 stating definitively what is and is not in the proposed budget lines ('There are no behavioral support specialists ... in any of these budget lines')"
+  },
+  "612": {
+   "name": "Mary Henry",
+   "role": "Business Administrator, SAU 6 \u2014 stating definitively what is and is not in the proposed budget lines ('There are no behavioral support specialists ... in any of these budget lines')"
+  },
+  "614": {
+   "name": "Mary Henry",
+   "role": "Business Administrator, SAU 6 \u2014 stating definitively what is and is not in the proposed budget lines ('There are no behavioral support specialists ... in any of these budget lines')"
+  },
+  "621": {
+   "name": "Mary Henry",
+   "role": "Business Administrator, SAU 6 \u2014 stating definitively what is and is not in the proposed budget lines ('There are no behavioral support specialists ... in any of these budget lines')"
+  },
+  "634": {
+   "name": "Mary Henry",
+   "role": "Business Administrator, SAU 6 \u2014 'And Frank, I have no problem with that'; declines to release individual benefit figures ('I can't do that legally ... that's private information')"
+  },
+  "636": {
+   "name": "Mary Henry",
+   "role": "Business Administrator, SAU 6 \u2014 'And Frank, I have no problem with that'; declines to release individual benefit figures ('I can't do that legally ... that's private information')"
+  },
+  "638": {
+   "name": "Mary Henry",
+   "role": "Business Administrator, SAU 6 \u2014 'And Frank, I have no problem with that'; declines to release individual benefit figures ('I can't do that legally ... that's private information')"
+  },
+  "640": {
+   "name": "Mary Henry",
+   "role": "Business Administrator, SAU 6 \u2014 'And Frank, I have no problem with that'; declines to release individual benefit figures ('I can't do that legally ... that's private information')"
+  },
+  "642": {
+   "name": "Mary Henry",
+   "role": "Business Administrator, SAU 6 \u2014 'And Frank, I have no problem with that'; declines to release individual benefit figures ('I can't do that legally ... that's private information')"
+  },
+  "644": {
+   "name": "Mary Henry",
+   "role": "Business Administrator, SAU 6 \u2014 'And Frank, I have no problem with that'; declines to release individual benefit figures ('I can't do that legally ... that's private information')"
+  },
+  "646": {
+   "name": "Mary Henry",
+   "role": "Business Administrator, SAU 6 \u2014 answering Whitney's questions on the elementary total, the para contract and the maintenance/secretary wages carried over"
+  },
+  "648": {
+   "name": "Mary Henry",
+   "role": "Business Administrator, SAU 6 \u2014 answering Whitney's questions on the elementary total, the para contract and the maintenance/secretary wages carried over"
+  },
+  "653": {
+   "name": "Mary Henry",
+   "role": "Business Administrator, SAU 6 \u2014 answering Whitney's questions on the elementary total, the para contract and the maintenance/secretary wages carried over"
+  },
+  "657": {
+   "name": "Mary Henry",
+   "role": "Business Administrator, SAU 6 \u2014 answering Whitney's questions on the elementary total, the para contract and the maintenance/secretary wages carried over"
+  },
+  "660": {
+   "name": "Mary Henry",
+   "role": "Business Administrator, SAU 6 \u2014 answering Whitney's questions on the elementary total, the para contract and the maintenance/secretary wages carried over"
+  },
+  "662": {
+   "name": "Mary Henry",
+   "role": "Business Administrator, SAU 6 \u2014 answering Whitney's questions on the elementary total, the para contract and the maintenance/secretary wages carried over"
+  },
+  "665": {
+   "name": "Mary Henry",
+   "role": "Business Administrator, SAU 6 \u2014 answering Whitney's questions on the elementary total, the para contract and the maintenance/secretary wages carried over"
+  },
+  "743": {
+   "name": "Mike Koski",
+   "role": "Assistant Superintendent, SAU 6 (see cluster note) \u2014 completes his own sentence from [742] ('It's not in the / schools overall')"
+  },
+  "95": {
+   "name": "Melissa Lewis",
+   "role": "Principal, Disnard Elementary School \u2014 her own opening of the Disnard presentation ('I can speak to Disnard alone'), clipped into the neighbouring cluster"
+  },
+  "97": {
+   "name": "Melissa Lewis",
+   "role": "Principal, Disnard Elementary School \u2014 her own opening of the Disnard presentation ('I can speak to Disnard alone'), clipped into the neighbouring cluster"
+  },
+  "138": {
+   "name": "Melissa Lewis",
+   "role": "Principal, Disnard Elementary School \u2014 0.16 s onset of her own [139] ('not / be \u2014 will not meet our current needs')"
+  },
+  "276": {
+   "name": "Melissa Lewis",
+   "role": "Principal, Disnard Elementary School \u2014 0.10 s onset of her own [277] ('name of / the act as well')"
+  },
+  "446": {
+   "name": "Melissa Lewis",
+   "role": "Principal, Disnard Elementary School \u2014 0.96 s onset of her own [447], zero gap ('Behavior specialists / are a position that we added several years ago')"
+  },
+  "371": {
+   "name": "Christine Baker",
+   "role": "Principal, Bluff Elementary School (remote) \u2014 sub-second onset of her own [372] ('Yeah. / No, not for me. Not for me.')"
+  },
+  "392": {
+   "name": "Christine Baker",
+   "role": "Principal, Bluff Elementary School (remote) \u2014 checking her own staffing before answering at [393]"
+  }
+ }
+}

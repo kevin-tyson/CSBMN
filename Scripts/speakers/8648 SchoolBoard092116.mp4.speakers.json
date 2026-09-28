@@ -1,0 +1,396 @@
+{
+ "Speaker 1": {
+  "name": "Patrick Adrian",
+  "role": "Claremont School Board member (superintendent: 'I appreciate Patrick's comment' [189] and 'I think you're right, Patrick' [774] answering this voice)"
+ },
+ "Speaker 2": {
+  "name": "Brian Rapp",
+  "role": "Claremont School Board Chair (presides, calls votes; 'Michelle did email me' [9]; superintendent 'if I may, Brian' [933])"
+ },
+ "Speaker 3": {
+  "name": "Unidentified",
+  "role": "Unidentified - cluster of pledge, ayes, seconds and brief acknowledgements from several voices"
+ },
+ "Speaker 4": {
+  "name": "Rebecca Ferland",
+  "role": "Claremont School Board member and SAU 6 Chair (chair asks whether the paraprofessional negotiations are 'a lot for Becky to handle by herself' and this voice and its twin Speaker 17 answer 'I did it by myself' [614-636]; asks about 'the SO6 meeting' [657]; female voice making most motions)"
+ },
+ "Speaker 5": {
+  "name": "Middleton McGoodwin",
+  "role": "Superintendent, SAU 6 (gives the superintendent's report [29-46]; ASR 'Doctor Goodwin', 'Milton', 'Middleton' [387, 434])"
+ },
+ "Speaker 6": {
+  "name": "Brent Ferland",
+  "role": "Claremont School Board member (superintendent answers him 'to your point, Brant' [344] and 'I believe, Bret' [439]; Irish: 'I agree with Brant' [867])"
+ },
+ "Speaker 7": {
+  "name": "Cory LeClair",
+  "role": "Assistant Superintendent, SAU 6 (superintendent defers to 'Corey LeClaire' [46] and 'Corey' [413]; this voice answers)"
+ },
+ "Speaker 8": {
+  "name": "Rebecca Zullo",
+  "role": "Public commenter, former Claremont School District employee (self-identified [66]; later a board member)"
+ },
+ "Speaker 9": {
+  "name": "Unidentified",
+  "role": "Unidentified - short interjections and clipped onsets from several voices"
+ },
+ "Speaker 10": {
+  "name": "Helen Costello",
+  "role": "New Hampshire Food Bank, presenting the Children's Community Lunch pilot (self-identified [133])"
+ },
+ "Speaker 11": {
+  "name": "Megan",
+  "role": "Children's Community Lunch coordinator hired by the NH Food Bank (Costello: 'Megan ... is with us tonight' [148]; surname garbled in ASR)"
+ },
+ "Speaker 12": {
+  "name": "Unidentified",
+  "role": "Unidentified - brief acknowledgements and a second from several voices"
+ },
+ "Speaker 13": {
+  "name": "Cindy Stevens",
+  "role": "Managing Director, Claremont Soup Kitchen (self-identified [161])"
+ },
+ "Speaker 14": {
+  "name": "Unidentified",
+  "role": "Unidentified - two short remarks"
+ },
+ "Speaker 15": {
+  "name": "Chris Irish",
+  "role": "Claremont School Board Vice Chair (Adrian: 'I do like what Chris said' [571] and 'I agree with Chris' [751] after this voice; superintendent: 'I understand you, Chris' [858])"
+ },
+ "Speaker 16": {
+  "name": "Frank Sprague",
+  "role": "Claremont School Board member (superintendent: 'You're right, Frank' [399] after this voice's Zillow comment; recognized 'Frank' [608-609]); cluster also carries the out-of-district presenter, reassigned per segment"
+ },
+ "Speaker 17": {
+  "name": "Rebecca Ferland",
+  "role": "Claremont School Board member and SAU 6 Chair (twin cluster of Speaker 4; 'I did it by myself' [616])"
+ },
+ "Speaker 18": {
+  "name": "Frank Sprague",
+  "role": "Claremont School Board member (uncertain - second cluster; its sentence at [809] is completed by Speaker 16 [810]; argues locker-room privacy wording as a former principal would)"
+ },
+ "__overrides__": {
+  "7": {
+   "name": "Unidentified",
+   "role": "Unidentified - roll-call reading and responses merged in one segment"
+  },
+  "8": {
+   "name": "Unidentified",
+   "role": "Unidentified - roll-call reading and responses merged in one segment"
+  },
+  "247": {
+   "name": "Unidentified",
+   "role": "Unidentified - roll-call reader and responses for the nonpublic session"
+  },
+  "249": {
+   "name": "Unidentified",
+   "role": "Unidentified - roll-call reader and responses for the nonpublic session"
+  },
+  "251": {
+   "name": "Unidentified",
+   "role": "Unidentified - roll-call reader and responses for the nonpublic session"
+  },
+  "253": {
+   "name": "Unidentified",
+   "role": "Unidentified - roll-call reader and responses for the nonpublic session"
+  },
+  "50": {
+   "name": "Cory LeClair"
+  },
+  "448": {
+   "name": "Cory LeClair"
+  },
+  "569": {
+   "name": "Cory LeClair"
+  },
+  "198": {
+   "name": "Marian"
+  },
+  "126": {
+   "name": "Rebecca Zullo"
+  },
+  "197": {
+   "name": "Marian",
+   "role": "Student representative, Stevens High School senior and field hockey player (superintendent: 'Marian, welcome' [193]; ASR 'Mary Ann Lovett' [228] may give her surname, unverified)"
+  },
+  "199": {
+   "name": "Marian",
+   "role": "Student representative, Stevens High School senior and field hockey player (superintendent: 'Marian, welcome' [193]; ASR 'Mary Ann Lovett' [228] may give her surname, unverified)"
+  },
+  "200": {
+   "name": "Marian",
+   "role": "Student representative, Stevens High School senior and field hockey player (superintendent: 'Marian, welcome' [193]; ASR 'Mary Ann Lovett' [228] may give her surname, unverified)"
+  },
+  "201": {
+   "name": "Marian",
+   "role": "Student representative, Stevens High School senior and field hockey player (superintendent: 'Marian, welcome' [193]; ASR 'Mary Ann Lovett' [228] may give her surname, unverified)"
+  },
+  "202": {
+   "name": "Marian",
+   "role": "Student representative, Stevens High School senior and field hockey player (superintendent: 'Marian, welcome' [193]; ASR 'Mary Ann Lovett' [228] may give her surname, unverified)"
+  },
+  "203": {
+   "name": "Marian",
+   "role": "Student representative, Stevens High School senior and field hockey player (superintendent: 'Marian, welcome' [193]; ASR 'Mary Ann Lovett' [228] may give her surname, unverified)"
+  },
+  "204": {
+   "name": "Marian",
+   "role": "Student representative, Stevens High School senior and field hockey player (superintendent: 'Marian, welcome' [193]; ASR 'Mary Ann Lovett' [228] may give her surname, unverified)"
+  },
+  "205": {
+   "name": "Marian",
+   "role": "Student representative, Stevens High School senior and field hockey player (superintendent: 'Marian, welcome' [193]; ASR 'Mary Ann Lovett' [228] may give her surname, unverified)"
+  },
+  "206": {
+   "name": "Marian",
+   "role": "Student representative, Stevens High School senior and field hockey player (superintendent: 'Marian, welcome' [193]; ASR 'Mary Ann Lovett' [228] may give her surname, unverified)"
+  },
+  "207": {
+   "name": "Marian",
+   "role": "Student representative, Stevens High School senior and field hockey player (superintendent: 'Marian, welcome' [193]; ASR 'Mary Ann Lovett' [228] may give her surname, unverified)"
+  },
+  "208": {
+   "name": "Marian",
+   "role": "Student representative, Stevens High School senior and field hockey player (superintendent: 'Marian, welcome' [193]; ASR 'Mary Ann Lovett' [228] may give her surname, unverified)"
+  },
+  "209": {
+   "name": "Marian",
+   "role": "Student representative, Stevens High School senior and field hockey player (superintendent: 'Marian, welcome' [193]; ASR 'Mary Ann Lovett' [228] may give her surname, unverified)"
+  },
+  "210": {
+   "name": "Marian",
+   "role": "Student representative, Stevens High School senior and field hockey player (superintendent: 'Marian, welcome' [193]; ASR 'Mary Ann Lovett' [228] may give her surname, unverified)"
+  },
+  "211": {
+   "name": "Marian",
+   "role": "Student representative, Stevens High School senior and field hockey player (superintendent: 'Marian, welcome' [193]; ASR 'Mary Ann Lovett' [228] may give her surname, unverified)"
+  },
+  "212": {
+   "name": "Marian",
+   "role": "Student representative, Stevens High School senior and field hockey player (superintendent: 'Marian, welcome' [193]; ASR 'Mary Ann Lovett' [228] may give her surname, unverified)"
+  },
+  "213": {
+   "name": "Marian",
+   "role": "Student representative, Stevens High School senior and field hockey player (superintendent: 'Marian, welcome' [193]; ASR 'Mary Ann Lovett' [228] may give her surname, unverified)"
+  },
+  "214": {
+   "name": "Marian",
+   "role": "Student representative, Stevens High School senior and field hockey player (superintendent: 'Marian, welcome' [193]; ASR 'Mary Ann Lovett' [228] may give her surname, unverified)"
+  },
+  "215": {
+   "name": "Marian",
+   "role": "Student representative, Stevens High School senior and field hockey player (superintendent: 'Marian, welcome' [193]; ASR 'Mary Ann Lovett' [228] may give her surname, unverified)"
+  },
+  "216": {
+   "name": "Marian",
+   "role": "Student representative, Stevens High School senior and field hockey player (superintendent: 'Marian, welcome' [193]; ASR 'Mary Ann Lovett' [228] may give her surname, unverified)"
+  },
+  "217": {
+   "name": "Marian",
+   "role": "Student representative, Stevens High School senior and field hockey player (superintendent: 'Marian, welcome' [193]; ASR 'Mary Ann Lovett' [228] may give her surname, unverified)"
+  },
+  "224": {
+   "name": "Marian",
+   "role": "Student representative, Stevens High School senior and field hockey player (superintendent: 'Marian, welcome' [193]; ASR 'Mary Ann Lovett' [228] may give her surname, unverified)"
+  },
+  "182": {
+   "name": "Megan"
+  },
+  "196": {
+   "name": "Unidentified",
+   "role": "Unidentified - short interjection"
+  },
+  "673": {
+   "name": "Middleton McGoodwin"
+  },
+  "712": {
+   "name": "Chris"
+  },
+  "675": {
+   "name": "Chris",
+   "role": "SAU 6 administrator reporting on out-of-district special education placements (title not stated; superintendent says 'Chris is working with that resident' [671] and the chair closes with 'Chris. Thank you.' [755]; surname not on this recording)"
+  },
+  "681": {
+   "name": "Chris",
+   "role": "SAU 6 administrator reporting on out-of-district special education placements (title not stated; superintendent says 'Chris is working with that resident' [671] and the chair closes with 'Chris. Thank you.' [755]; surname not on this recording)"
+  },
+  "683": {
+   "name": "Chris",
+   "role": "SAU 6 administrator reporting on out-of-district special education placements (title not stated; superintendent says 'Chris is working with that resident' [671] and the chair closes with 'Chris. Thank you.' [755]; surname not on this recording)"
+  },
+  "685": {
+   "name": "Chris",
+   "role": "SAU 6 administrator reporting on out-of-district special education placements (title not stated; superintendent says 'Chris is working with that resident' [671] and the chair closes with 'Chris. Thank you.' [755]; surname not on this recording)"
+  },
+  "686": {
+   "name": "Chris",
+   "role": "SAU 6 administrator reporting on out-of-district special education placements (title not stated; superintendent says 'Chris is working with that resident' [671] and the chair closes with 'Chris. Thank you.' [755]; surname not on this recording)"
+  },
+  "687": {
+   "name": "Chris",
+   "role": "SAU 6 administrator reporting on out-of-district special education placements (title not stated; superintendent says 'Chris is working with that resident' [671] and the chair closes with 'Chris. Thank you.' [755]; surname not on this recording)"
+  },
+  "688": {
+   "name": "Chris",
+   "role": "SAU 6 administrator reporting on out-of-district special education placements (title not stated; superintendent says 'Chris is working with that resident' [671] and the chair closes with 'Chris. Thank you.' [755]; surname not on this recording)"
+  },
+  "689": {
+   "name": "Chris",
+   "role": "SAU 6 administrator reporting on out-of-district special education placements (title not stated; superintendent says 'Chris is working with that resident' [671] and the chair closes with 'Chris. Thank you.' [755]; surname not on this recording)"
+  },
+  "690": {
+   "name": "Chris",
+   "role": "SAU 6 administrator reporting on out-of-district special education placements (title not stated; superintendent says 'Chris is working with that resident' [671] and the chair closes with 'Chris. Thank you.' [755]; surname not on this recording)"
+  },
+  "691": {
+   "name": "Chris",
+   "role": "SAU 6 administrator reporting on out-of-district special education placements (title not stated; superintendent says 'Chris is working with that resident' [671] and the chair closes with 'Chris. Thank you.' [755]; surname not on this recording)"
+  },
+  "692": {
+   "name": "Chris",
+   "role": "SAU 6 administrator reporting on out-of-district special education placements (title not stated; superintendent says 'Chris is working with that resident' [671] and the chair closes with 'Chris. Thank you.' [755]; surname not on this recording)"
+  },
+  "693": {
+   "name": "Chris",
+   "role": "SAU 6 administrator reporting on out-of-district special education placements (title not stated; superintendent says 'Chris is working with that resident' [671] and the chair closes with 'Chris. Thank you.' [755]; surname not on this recording)"
+  },
+  "694": {
+   "name": "Chris",
+   "role": "SAU 6 administrator reporting on out-of-district special education placements (title not stated; superintendent says 'Chris is working with that resident' [671] and the chair closes with 'Chris. Thank you.' [755]; surname not on this recording)"
+  },
+  "696": {
+   "name": "Chris",
+   "role": "SAU 6 administrator reporting on out-of-district special education placements (title not stated; superintendent says 'Chris is working with that resident' [671] and the chair closes with 'Chris. Thank you.' [755]; surname not on this recording)"
+  },
+  "697": {
+   "name": "Chris",
+   "role": "SAU 6 administrator reporting on out-of-district special education placements (title not stated; superintendent says 'Chris is working with that resident' [671] and the chair closes with 'Chris. Thank you.' [755]; surname not on this recording)"
+  },
+  "698": {
+   "name": "Chris",
+   "role": "SAU 6 administrator reporting on out-of-district special education placements (title not stated; superintendent says 'Chris is working with that resident' [671] and the chair closes with 'Chris. Thank you.' [755]; surname not on this recording)"
+  },
+  "699": {
+   "name": "Chris",
+   "role": "SAU 6 administrator reporting on out-of-district special education placements (title not stated; superintendent says 'Chris is working with that resident' [671] and the chair closes with 'Chris. Thank you.' [755]; surname not on this recording)"
+  },
+  "703": {
+   "name": "Chris",
+   "role": "SAU 6 administrator reporting on out-of-district special education placements (title not stated; superintendent says 'Chris is working with that resident' [671] and the chair closes with 'Chris. Thank you.' [755]; surname not on this recording)"
+  },
+  "705": {
+   "name": "Chris",
+   "role": "SAU 6 administrator reporting on out-of-district special education placements (title not stated; superintendent says 'Chris is working with that resident' [671] and the chair closes with 'Chris. Thank you.' [755]; surname not on this recording)"
+  },
+  "708": {
+   "name": "Chris",
+   "role": "SAU 6 administrator reporting on out-of-district special education placements (title not stated; superintendent says 'Chris is working with that resident' [671] and the chair closes with 'Chris. Thank you.' [755]; surname not on this recording)"
+  },
+  "710": {
+   "name": "Chris",
+   "role": "SAU 6 administrator reporting on out-of-district special education placements (title not stated; superintendent says 'Chris is working with that resident' [671] and the chair closes with 'Chris. Thank you.' [755]; surname not on this recording)"
+  },
+  "711": {
+   "name": "Chris",
+   "role": "SAU 6 administrator reporting on out-of-district special education placements (title not stated; superintendent says 'Chris is working with that resident' [671] and the chair closes with 'Chris. Thank you.' [755]; surname not on this recording)"
+  },
+  "713": {
+   "name": "Chris",
+   "role": "SAU 6 administrator reporting on out-of-district special education placements (title not stated; superintendent says 'Chris is working with that resident' [671] and the chair closes with 'Chris. Thank you.' [755]; surname not on this recording)"
+  },
+  "714": {
+   "name": "Chris",
+   "role": "SAU 6 administrator reporting on out-of-district special education placements (title not stated; superintendent says 'Chris is working with that resident' [671] and the chair closes with 'Chris. Thank you.' [755]; surname not on this recording)"
+  },
+  "715": {
+   "name": "Chris",
+   "role": "SAU 6 administrator reporting on out-of-district special education placements (title not stated; superintendent says 'Chris is working with that resident' [671] and the chair closes with 'Chris. Thank you.' [755]; surname not on this recording)"
+  },
+  "716": {
+   "name": "Chris",
+   "role": "SAU 6 administrator reporting on out-of-district special education placements (title not stated; superintendent says 'Chris is working with that resident' [671] and the chair closes with 'Chris. Thank you.' [755]; surname not on this recording)"
+  },
+  "717": {
+   "name": "Chris",
+   "role": "SAU 6 administrator reporting on out-of-district special education placements (title not stated; superintendent says 'Chris is working with that resident' [671] and the chair closes with 'Chris. Thank you.' [755]; surname not on this recording)"
+  },
+  "718": {
+   "name": "Chris",
+   "role": "SAU 6 administrator reporting on out-of-district special education placements (title not stated; superintendent says 'Chris is working with that resident' [671] and the chair closes with 'Chris. Thank you.' [755]; surname not on this recording)"
+  },
+  "720": {
+   "name": "Chris",
+   "role": "SAU 6 administrator reporting on out-of-district special education placements (title not stated; superintendent says 'Chris is working with that resident' [671] and the chair closes with 'Chris. Thank you.' [755]; surname not on this recording)"
+  },
+  "721": {
+   "name": "Chris",
+   "role": "SAU 6 administrator reporting on out-of-district special education placements (title not stated; superintendent says 'Chris is working with that resident' [671] and the chair closes with 'Chris. Thank you.' [755]; surname not on this recording)"
+  },
+  "722": {
+   "name": "Chris",
+   "role": "SAU 6 administrator reporting on out-of-district special education placements (title not stated; superintendent says 'Chris is working with that resident' [671] and the chair closes with 'Chris. Thank you.' [755]; surname not on this recording)"
+  },
+  "725": {
+   "name": "Chris",
+   "role": "SAU 6 administrator reporting on out-of-district special education placements (title not stated; superintendent says 'Chris is working with that resident' [671] and the chair closes with 'Chris. Thank you.' [755]; surname not on this recording)"
+  },
+  "726": {
+   "name": "Chris",
+   "role": "SAU 6 administrator reporting on out-of-district special education placements (title not stated; superintendent says 'Chris is working with that resident' [671] and the chair closes with 'Chris. Thank you.' [755]; surname not on this recording)"
+  },
+  "728": {
+   "name": "Chris",
+   "role": "SAU 6 administrator reporting on out-of-district special education placements (title not stated; superintendent says 'Chris is working with that resident' [671] and the chair closes with 'Chris. Thank you.' [755]; surname not on this recording)"
+  },
+  "731": {
+   "name": "Chris",
+   "role": "SAU 6 administrator reporting on out-of-district special education placements (title not stated; superintendent says 'Chris is working with that resident' [671] and the chair closes with 'Chris. Thank you.' [755]; surname not on this recording)"
+  },
+  "735": {
+   "name": "Chris",
+   "role": "SAU 6 administrator reporting on out-of-district special education placements (title not stated; superintendent says 'Chris is working with that resident' [671] and the chair closes with 'Chris. Thank you.' [755]; surname not on this recording)"
+  },
+  "737": {
+   "name": "Chris",
+   "role": "SAU 6 administrator reporting on out-of-district special education placements (title not stated; superintendent says 'Chris is working with that resident' [671] and the chair closes with 'Chris. Thank you.' [755]; surname not on this recording)"
+  },
+  "738": {
+   "name": "Chris",
+   "role": "SAU 6 administrator reporting on out-of-district special education placements (title not stated; superintendent says 'Chris is working with that resident' [671] and the chair closes with 'Chris. Thank you.' [755]; surname not on this recording)"
+  },
+  "740": {
+   "name": "Chris",
+   "role": "SAU 6 administrator reporting on out-of-district special education placements (title not stated; superintendent says 'Chris is working with that resident' [671] and the chair closes with 'Chris. Thank you.' [755]; surname not on this recording)"
+  },
+  "742": {
+   "name": "Chris",
+   "role": "SAU 6 administrator reporting on out-of-district special education placements (title not stated; superintendent says 'Chris is working with that resident' [671] and the chair closes with 'Chris. Thank you.' [755]; surname not on this recording)"
+  },
+  "744": {
+   "name": "Chris",
+   "role": "SAU 6 administrator reporting on out-of-district special education placements (title not stated; superintendent says 'Chris is working with that resident' [671] and the chair closes with 'Chris. Thank you.' [755]; surname not on this recording)"
+  },
+  "748": {
+   "name": "Chris",
+   "role": "SAU 6 administrator reporting on out-of-district special education placements (title not stated; superintendent says 'Chris is working with that resident' [671] and the chair closes with 'Chris. Thank you.' [755]; surname not on this recording)"
+  },
+  "757": {
+   "name": "Chris",
+   "role": "SAU 6 administrator reporting on out-of-district special education placements (title not stated; superintendent says 'Chris is working with that resident' [671] and the chair closes with 'Chris. Thank you.' [755]; surname not on this recording)"
+  },
+  "656": {
+   "name": "Unidentified",
+   "role": "Unidentified - short interjection"
+  },
+  "857": {
+   "name": "Unidentified",
+   "role": "Unidentified - short interjection"
+  },
+  "759": {
+   "name": "Unidentified",
+   "role": "Unidentified - short interjection"
+  }
+ }
+}

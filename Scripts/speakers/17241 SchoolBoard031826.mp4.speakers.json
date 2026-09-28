@@ -1,0 +1,564 @@
+{
+ "Speaker 1": {
+  "name": "Kerry Kennedy",
+  "role": "Interim Superintendent, SAU 6 (convenes the organizational meeting and presides until a chair is elected; this cluster also absorbs other female voices - see per-segment reassignments)"
+ },
+ "Speaker 2": {
+  "name": "Noelle Kronberg",
+  "role": "School Board Clerk (administers the oath of office, calls the roll, keeps the minutes)"
+ },
+ "Speaker 3": {
+  "name": "Brian Rapp",
+  "role": "School Board Member (sworn in at this meeting; term to 2029)"
+ },
+ "Speaker 4": {
+  "name": "Kerry Kennedy",
+  "role": "Interim Superintendent, SAU 6 (presiding over the election of a chair; same voice as Speaker 1 - the diarizer split it)"
+ },
+ "Speaker 5": {
+  "name": "Candace Crawford",
+  "role": "School Board Chair (elected at this meeting)"
+ },
+ "Speaker 6": {
+  "name": "Michael Petrin",
+  "role": "School Board Vice Chair"
+ },
+ "Speaker 7": {
+  "name": "Loren Howard",
+  "role": "School Board Member"
+ },
+ "Speaker 8": {
+  "name": "Matt Angell",
+  "role": "Interim Business Administrator, SAU 6"
+ },
+ "Speaker 9": {
+  "name": "Unidentified",
+  "role": "Public commenter on the superintendent/executive-director search (no self-identification on the recording; the onset is heard as 'Rod, beat me to')"
+ },
+ "Speaker 10": {
+  "name": "Mimi Rhines",
+  "role": "Public commenter, Ward 1; district staff member and SREA union building representative for Stevens High School (self-identified; ASR renders the self-ID 'Ryan's board one'; the Business Administrator addresses her as 'Mimi')"
+ },
+ "Speaker 11": {
+  "name": "Matt Angell",
+  "role": "Interim Business Administrator, SAU 6 (sentence continuation clipped into its own cluster)"
+ },
+ "Speaker 12": {
+  "name": "Rebecca Menard",
+  "role": "Public commenter, Ward 3; district employee (self-identified; surname as heard - ASR confidence 0.68)"
+ },
+ "Speaker 13": {
+  "name": "Hope Damon",
+  "role": "New Hampshire State Representative (self-identified; legislative update)"
+ },
+ "Speaker 14": {
+  "name": "Michelle Springer",
+  "role": "Public commenter, Ward 2 (self-identified; the ASR renders the self-ID 'Michelle Springer, Blake Ward two')"
+ },
+ "Speaker 15": {
+  "name": "Cassandra Edwards",
+  "role": "Public commenter, Ward 3; Disnard School teacher and SREA building representative, speaking as a parent and citizen (ASR renders the self-ID 'Sandra Edwards')"
+ },
+ "Speaker 16": {
+  "name": "Matt Bean",
+  "role": "Public commenter, Ward 1; former district teacher and former union representative (ASR renders the surname 'Beam')"
+ },
+ "Speaker 17": {
+  "name": "Leslie Peabody",
+  "role": "Public commenter, Ward 1; science teacher, Stevens High School (sentence continuation clipped into its own cluster)"
+ },
+ "Speaker 18": {
+  "name": "Amanda Barton",
+  "role": "Public commenter, Ward 2; parent (teacher in another district)"
+ },
+ "Speaker 19": {
+  "name": "Unidentified",
+  "role": "Brief crosstalk, assent and sentence-onset fragments; diarizer catch-all cluster - voice not distinguishable"
+ },
+ "Speaker 20": {
+  "name": "Van Holder",
+  "role": "Public commenter, Ward 2; teacher in another district, parent of Maple Avenue students (surname as announced - the self-ID is heard 'Just asked Van Holder, Ward two'; first name not recoverable)"
+ },
+ "Speaker 21": {
+  "name": "Kerry Kennedy",
+  "role": "Interim Superintendent, SAU 6"
+ },
+ "Speaker 22": {
+  "name": "Heather Whitney",
+  "role": "School Board Member; outgoing School Board Chair"
+ },
+ "Speaker 23": {
+  "name": "Michael Petrin",
+  "role": "School Board Vice Chair (sentence continuation clipped into its own cluster)"
+ },
+ "Speaker 24": {
+  "name": "William 'Bill' Madden",
+  "role": "School Board Member; chair of the superintendent search committee (identified by the chair's 'Mr. Maddox' at segment 790 and by his own 'Myself, Mike and Frank Sprague')"
+ },
+ "__overrides__": {
+  "40": {
+   "name": "Heather Whitney",
+   "role": "School Board Member; outgoing School Board Chair (nominating Candace Crawford for chair; onset clipped into the clerk's cluster)"
+  },
+  "42": {
+   "name": "Heather Whitney",
+   "role": "School Board Member; outgoing School Board Chair (nominating Candace Crawford for chair; onset clipped into the clerk's cluster)"
+  },
+  "41": {
+   "name": "Heather Whitney",
+   "role": "School Board Member; outgoing School Board Chair (reads the nomination statement for Candace Crawford; UNCERTAIN - the statement is third-person about Crawford but contains one first-person sentence, 'something that I'm able to consistently provide to the district', so a Crawford self-nomination cannot be ruled out)"
+  },
+  "43": {
+   "name": "Heather Whitney",
+   "role": "School Board Member; outgoing School Board Chair (reads the nomination statement for Candace Crawford; UNCERTAIN - the statement is third-person about Crawford but contains one first-person sentence, 'something that I'm able to consistently provide to the district', so a Crawford self-nomination cannot be ruled out)"
+  },
+  "44": {
+   "name": "Heather Whitney",
+   "role": "School Board Member; outgoing School Board Chair (reads the nomination statement for Candace Crawford; UNCERTAIN - the statement is third-person about Crawford but contains one first-person sentence, 'something that I'm able to consistently provide to the district', so a Crawford self-nomination cannot be ruled out)"
+  },
+  "110": {
+   "name": "Heather Whitney",
+   "role": "School Board Member; outgoing School Board Chair (roll-call response; her name-call was lost by the ASR)"
+  },
+  "76": {
+   "name": "Brian Rapp",
+   "role": "School Board Member (sworn in at this meeting; term to 2029) (sentence continuation - the diarizer split this fragment into a neighbouring cluster)"
+  },
+  "129": {
+   "name": "Michael Petrin",
+   "role": "School Board Vice Chair (sentence continuation - the diarizer split this fragment into a neighbouring cluster)"
+  },
+  "133": {
+   "name": "Michael Petrin",
+   "role": "School Board Vice Chair (sentence continuation - the diarizer split this fragment into a neighbouring cluster)"
+  },
+  "149": {
+   "name": "Noelle Kronberg",
+   "role": "School Board Clerk (sentence continuation - the diarizer split this fragment into a neighbouring cluster)"
+  },
+  "186": {
+   "name": "Rebecca Menard",
+   "role": "Public commenter, Ward 3; district employee (self-identification; the board's greeting is captured in the same segment)"
+  },
+  "264": {
+   "name": "Rebecca Menard",
+   "role": "Public commenter, Ward 3; district employee (segment onset clipped into a neighbouring cluster)"
+  },
+  "212": {
+   "name": "Leslie Peabody",
+   "role": "Public commenter, Ward 1; science teacher, Stevens High School (self-identified)"
+  },
+  "213": {
+   "name": "Leslie Peabody",
+   "role": "Public commenter, Ward 1; science teacher, Stevens High School (self-identified)"
+  },
+  "214": {
+   "name": "Leslie Peabody",
+   "role": "Public commenter, Ward 1; science teacher, Stevens High School (self-identified)"
+  },
+  "215": {
+   "name": "Leslie Peabody",
+   "role": "Public commenter, Ward 1; science teacher, Stevens High School (self-identified)"
+  },
+  "216": {
+   "name": "Leslie Peabody",
+   "role": "Public commenter, Ward 1; science teacher, Stevens High School (self-identified)"
+  },
+  "217": {
+   "name": "Leslie Peabody",
+   "role": "Public commenter, Ward 1; science teacher, Stevens High School (self-identified)"
+  },
+  "218": {
+   "name": "Leslie Peabody",
+   "role": "Public commenter, Ward 1; science teacher, Stevens High School (self-identified)"
+  },
+  "219": {
+   "name": "Leslie Peabody",
+   "role": "Public commenter, Ward 1; science teacher, Stevens High School (self-identified)"
+  },
+  "220": {
+   "name": "Leslie Peabody",
+   "role": "Public commenter, Ward 1; science teacher, Stevens High School (self-identified)"
+  },
+  "221": {
+   "name": "Leslie Peabody",
+   "role": "Public commenter, Ward 1; science teacher, Stevens High School (self-identified)"
+  },
+  "222": {
+   "name": "Leslie Peabody",
+   "role": "Public commenter, Ward 1; science teacher, Stevens High School (self-identified)"
+  },
+  "223": {
+   "name": "Leslie Peabody",
+   "role": "Public commenter, Ward 1; science teacher, Stevens High School (self-identified)"
+  },
+  "224": {
+   "name": "Leslie Peabody",
+   "role": "Public commenter, Ward 1; science teacher, Stevens High School (self-identified)"
+  },
+  "225": {
+   "name": "Leslie Peabody",
+   "role": "Public commenter, Ward 1; science teacher, Stevens High School (self-identified)"
+  },
+  "241": {
+   "name": "Amanda Barton",
+   "role": "Public commenter, Ward 2; parent (segment onset clipped into a neighbouring cluster)"
+  },
+  "122": {
+   "name": "Kerry Kennedy",
+   "role": "Interim Superintendent, SAU 6 (procedural guidance to the new chair; UNCERTAIN - Ms. Whitney is also in this cluster and is a possible speaker)"
+  },
+  "124": {
+   "name": "Kerry Kennedy",
+   "role": "Interim Superintendent, SAU 6 (procedural guidance to the new chair; UNCERTAIN - Ms. Whitney is also in this cluster and is a possible speaker)"
+  },
+  "138": {
+   "name": "Kerry Kennedy",
+   "role": "Interim Superintendent, SAU 6 (procedural guidance to the new chair; UNCERTAIN - Ms. Whitney is also in this cluster and is a possible speaker)"
+  },
+  "152": {
+   "name": "Kerry Kennedy",
+   "role": "Interim Superintendent, SAU 6 (procedural guidance to the new chair; UNCERTAIN - Ms. Whitney is also in this cluster and is a possible speaker)"
+  },
+  "167": {
+   "name": "Kerry Kennedy",
+   "role": "Interim Superintendent, SAU 6 (procedural guidance to the new chair; UNCERTAIN - Ms. Whitney is also in this cluster and is a possible speaker)"
+  },
+  "281": {
+   "name": "Candace Crawford",
+   "role": "School Board Chair (elected at this meeting) (sentence continuation - the diarizer split this fragment into a neighbouring cluster)"
+  },
+  "331": {
+   "name": "Candace Crawford",
+   "role": "School Board Chair (elected at this meeting) (sentence continuation - the diarizer split this fragment into a neighbouring cluster)"
+  },
+  "315": {
+   "name": "Kerry Kennedy",
+   "role": "Interim Superintendent, SAU 6 (sentence continuation - the diarizer split this fragment into a neighbouring cluster)"
+  },
+  "326": {
+   "name": "Kerry Kennedy",
+   "role": "Interim Superintendent, SAU 6 (sentence continuation - the diarizer split this fragment into a neighbouring cluster)"
+  },
+  "387": {
+   "name": "Heather Whitney",
+   "role": "School Board Member; outgoing School Board Chair (sentence continuation - the diarizer split this fragment into a neighbouring cluster)"
+  },
+  "492": {
+   "name": "Heather Whitney",
+   "role": "School Board Member; outgoing School Board Chair (sentence continuation - the diarizer split this fragment into a neighbouring cluster)"
+  },
+  "33": {
+   "name": "Multiple",
+   "role": "Group recitation of the Pledge of Allegiance (captured as one voice)"
+  },
+  "623": {
+   "name": "Multiple",
+   "role": "Voice vote (chorus of ayes; captured as one voice)"
+  },
+  "659": {
+   "name": "Multiple",
+   "role": "Voice vote (chorus of ayes; captured as one voice)"
+  },
+  "160": {
+   "name": "Unidentified",
+   "role": "Public commenter on the superintendent/executive-director search (segment onset clipped into a neighbouring cluster)"
+  },
+  "161": {
+   "name": "Unidentified",
+   "role": "Public commenter on the superintendent/executive-director search (segment onset clipped into a neighbouring cluster)"
+  },
+  "162": {
+   "name": "Unidentified",
+   "role": "Public commenter on the superintendent/executive-director search (segment onset clipped into a neighbouring cluster)"
+  },
+  "197": {
+   "name": "Hope Damon",
+   "role": "New Hampshire State Representative (sentence continuation - the diarizer split this fragment into a neighbouring cluster)"
+  },
+  "195": {
+   "name": "Hope Damon",
+   "role": "New Hampshire State Representative (segment onset clipped into a neighbouring cluster)"
+  },
+  "252": {
+   "name": "Van Holder",
+   "role": "Public commenter, Ward 2 (segment onset clipped into a neighbouring cluster)"
+  },
+  "299": {
+   "name": "Unidentified",
+   "role": "Brief assent from the board table - voice not distinguishable"
+  },
+  "272": {
+   "name": "Loren Howard",
+   "role": "School Board Member (segment onset clipped into a neighbouring cluster)"
+  },
+  "305": {
+   "name": "Candace Crawford",
+   "role": "School Board Chair (elected at this meeting) (sentence continuation - the diarizer split this fragment into a neighbouring cluster)"
+  },
+  "725": {
+   "name": "Loren Howard",
+   "role": "School Board Member (sentence continuation - the diarizer split this fragment into a neighbouring cluster)"
+  },
+  "730": {
+   "name": "Loren Howard",
+   "role": "School Board Member (sentence continuation - the diarizer split this fragment into a neighbouring cluster)"
+  },
+  "722": {
+   "name": "Loren Howard",
+   "role": "School Board Member (sentence continuation - the diarizer split this fragment into a neighbouring cluster)"
+  },
+  "724": {
+   "name": "Loren Howard",
+   "role": "School Board Member (sentence continuation - the diarizer split this fragment into a neighbouring cluster)"
+  },
+  "726": {
+   "name": "Loren Howard",
+   "role": "School Board Member (sentence continuation - the diarizer split this fragment into a neighbouring cluster)"
+  },
+  "728": {
+   "name": "Loren Howard",
+   "role": "School Board Member (sentence continuation - the diarizer split this fragment into a neighbouring cluster)"
+  },
+  "732": {
+   "name": "Loren Howard",
+   "role": "School Board Member (sentence continuation - the diarizer split this fragment into a neighbouring cluster)"
+  },
+  "734": {
+   "name": "Loren Howard",
+   "role": "School Board Member (sentence continuation - the diarizer split this fragment into a neighbouring cluster)"
+  },
+  "736": {
+   "name": "Loren Howard",
+   "role": "School Board Member (sentence continuation - the diarizer split this fragment into a neighbouring cluster)"
+  },
+  "784": {
+   "name": "Don Lavalette",
+   "role": "School Board Member (sworn in at this meeting; term to 2029) (the chair's recognition 'Don.' is absorbed into the onset of this exchange)"
+  },
+  "785": {
+   "name": "Don Lavalette",
+   "role": "School Board Member (sworn in at this meeting; term to 2029) (the chair's recognition 'Don.' is absorbed into the onset of this exchange)"
+  },
+  "368": {
+   "name": "Michael Petrin",
+   "role": "School Board Vice Chair (UNCERTAIN - volunteering for the bylaws ad hoc committee; the chair names Whitney, Lavalette and Crawford to it at segment 398)"
+  },
+  "245": {
+   "name": "Matt Angell",
+   "role": "Interim Business Administrator, SAU 6 (apology to the commenter; adjacent 'thank you' crosstalk shares the segment)"
+  },
+  "383": {
+   "name": "Michael Petrin",
+   "role": "School Board Vice Chair (sentence continuation - the diarizer split this fragment into a neighbouring cluster)"
+  },
+  "510": {
+   "name": "Michael Petrin",
+   "role": "School Board Vice Chair (sentence continuation - the diarizer split this fragment into a neighbouring cluster)"
+  },
+  "511": {
+   "name": "Michael Petrin",
+   "role": "School Board Vice Chair (sentence continuation - the diarizer split this fragment into a neighbouring cluster)"
+  },
+  "512": {
+   "name": "Michael Petrin",
+   "role": "School Board Vice Chair (sentence continuation - the diarizer split this fragment into a neighbouring cluster)"
+  },
+  "514": {
+   "name": "Michael Petrin",
+   "role": "School Board Vice Chair (sentence continuation - the diarizer split this fragment into a neighbouring cluster)"
+  },
+  "535": {
+   "name": "Michael Petrin",
+   "role": "School Board Vice Chair (sentence continuation - the diarizer split this fragment into a neighbouring cluster)"
+  },
+  "567": {
+   "name": "Michael Petrin",
+   "role": "School Board Vice Chair (sentence continuation - the diarizer split this fragment into a neighbouring cluster)"
+  },
+  "569": {
+   "name": "Michael Petrin",
+   "role": "School Board Vice Chair (sentence continuation - the diarizer split this fragment into a neighbouring cluster)"
+  },
+  "571": {
+   "name": "Michael Petrin",
+   "role": "School Board Vice Chair (sentence continuation - the diarizer split this fragment into a neighbouring cluster)"
+  },
+  "598": {
+   "name": "Michael Petrin",
+   "role": "School Board Vice Chair (sentence continuation - the diarizer split this fragment into a neighbouring cluster)"
+  },
+  "621": {
+   "name": "Michael Petrin",
+   "role": "School Board Vice Chair (sentence continuation - the diarizer split this fragment into a neighbouring cluster)"
+  },
+  "393": {
+   "name": "Matt Angell",
+   "role": "Interim Business Administrator, SAU 6 (sentence continuation - the diarizer split this fragment into a neighbouring cluster)"
+  },
+  "638": {
+   "name": "Matt Angell",
+   "role": "Interim Business Administrator, SAU 6 (sentence continuation - the diarizer split this fragment into a neighbouring cluster)"
+  },
+  "645": {
+   "name": "Matt Angell",
+   "role": "Interim Business Administrator, SAU 6 (sentence continuation - the diarizer split this fragment into a neighbouring cluster)"
+  },
+  "654": {
+   "name": "Matt Angell",
+   "role": "Interim Business Administrator, SAU 6 (sentence continuation - the diarizer split this fragment into a neighbouring cluster)"
+  },
+  "673": {
+   "name": "Matt Angell",
+   "role": "Interim Business Administrator, SAU 6 (sentence continuation - the diarizer split this fragment into a neighbouring cluster)"
+  },
+  "680": {
+   "name": "Matt Angell",
+   "role": "Interim Business Administrator, SAU 6 (sentence continuation - the diarizer split this fragment into a neighbouring cluster)"
+  },
+  "690": {
+   "name": "Matt Angell",
+   "role": "Interim Business Administrator, SAU 6 (sentence continuation - the diarizer split this fragment into a neighbouring cluster)"
+  },
+  "748": {
+   "name": "Matt Angell",
+   "role": "Interim Business Administrator, SAU 6 (sentence continuation - the diarizer split this fragment into a neighbouring cluster)"
+  },
+  "751": {
+   "name": "Matt Angell",
+   "role": "Interim Business Administrator, SAU 6 (sentence continuation - the diarizer split this fragment into a neighbouring cluster)"
+  },
+  "760": {
+   "name": "Matt Angell",
+   "role": "Interim Business Administrator, SAU 6 (sentence continuation - the diarizer split this fragment into a neighbouring cluster)"
+  },
+  "452": {
+   "name": "Candace Crawford",
+   "role": "School Board Chair (elected at this meeting) (sentence continuation - the diarizer split this fragment into a neighbouring cluster)"
+  },
+  "473": {
+   "name": "Candace Crawford",
+   "role": "School Board Chair (elected at this meeting) (sentence continuation - the diarizer split this fragment into a neighbouring cluster)"
+  },
+  "475": {
+   "name": "Candace Crawford",
+   "role": "School Board Chair (elected at this meeting) (sentence continuation - the diarizer split this fragment into a neighbouring cluster)"
+  },
+  "524": {
+   "name": "Candace Crawford",
+   "role": "School Board Chair (elected at this meeting) (sentence continuation - the diarizer split this fragment into a neighbouring cluster)"
+  },
+  "682": {
+   "name": "Candace Crawford",
+   "role": "School Board Chair (elected at this meeting) (sentence continuation - the diarizer split this fragment into a neighbouring cluster)"
+  },
+  "684": {
+   "name": "Candace Crawford",
+   "role": "School Board Chair (elected at this meeting) (sentence continuation - the diarizer split this fragment into a neighbouring cluster)"
+  },
+  "693": {
+   "name": "Candace Crawford",
+   "role": "School Board Chair (elected at this meeting) (sentence continuation - the diarizer split this fragment into a neighbouring cluster)"
+  },
+  "741": {
+   "name": "Candace Crawford",
+   "role": "School Board Chair (elected at this meeting) (sentence continuation - the diarizer split this fragment into a neighbouring cluster)"
+  },
+  "789": {
+   "name": "Candace Crawford",
+   "role": "School Board Chair (elected at this meeting) (sentence continuation - the diarizer split this fragment into a neighbouring cluster)"
+  },
+  "487": {
+   "name": "Brian Rapp",
+   "role": "School Board Member (sworn in at this meeting; term to 2029) (sentence continuation - the diarizer split this fragment into a neighbouring cluster)"
+  },
+  "489": {
+   "name": "Brian Rapp",
+   "role": "School Board Member (sworn in at this meeting; term to 2029) (sentence continuation - the diarizer split this fragment into a neighbouring cluster)"
+  },
+  "498": {
+   "name": "Brian Rapp",
+   "role": "School Board Member (sworn in at this meeting; term to 2029) (sentence continuation - the diarizer split this fragment into a neighbouring cluster)"
+  },
+  "504": {
+   "name": "Brian Rapp",
+   "role": "School Board Member (sworn in at this meeting; term to 2029) (sentence continuation - the diarizer split this fragment into a neighbouring cluster)"
+  },
+  "506": {
+   "name": "Brian Rapp",
+   "role": "School Board Member (sworn in at this meeting; term to 2029) (sentence continuation - the diarizer split this fragment into a neighbouring cluster)"
+  },
+  "537": {
+   "name": "Brian Rapp",
+   "role": "School Board Member (sworn in at this meeting; term to 2029) (sentence continuation - the diarizer split this fragment into a neighbouring cluster)"
+  },
+  "582": {
+   "name": "Brian Rapp",
+   "role": "School Board Member (sworn in at this meeting; term to 2029) (sentence continuation - the diarizer split this fragment into a neighbouring cluster)"
+  },
+  "608": {
+   "name": "Brian Rapp",
+   "role": "School Board Member (sworn in at this meeting; term to 2029) (sentence continuation - the diarizer split this fragment into a neighbouring cluster)"
+  },
+  "610": {
+   "name": "Brian Rapp",
+   "role": "School Board Member (sworn in at this meeting; term to 2029) (sentence continuation - the diarizer split this fragment into a neighbouring cluster)"
+  },
+  "508": {
+   "name": "Heather Whitney",
+   "role": "School Board Member; outgoing School Board Chair (sentence continuation - the diarizer split this fragment into a neighbouring cluster)"
+  },
+  "521": {
+   "name": "Heather Whitney",
+   "role": "School Board Member; outgoing School Board Chair (sentence continuation - the diarizer split this fragment into a neighbouring cluster)"
+  },
+  "678": {
+   "name": "Heather Whitney",
+   "role": "School Board Member; outgoing School Board Chair (sentence continuation - the diarizer split this fragment into a neighbouring cluster)"
+  },
+  "695": {
+   "name": "Heather Whitney",
+   "role": "School Board Member; outgoing School Board Chair (sentence continuation - the diarizer split this fragment into a neighbouring cluster)"
+  },
+  "743": {
+   "name": "Heather Whitney",
+   "role": "School Board Member; outgoing School Board Chair (sentence continuation - the diarizer split this fragment into a neighbouring cluster)"
+  },
+  "529": {
+   "name": "Loren Howard",
+   "role": "School Board Member (roll-call response; the clerk's surname call shares the segment)"
+  },
+  "799": {
+   "name": "Loren Howard",
+   "role": "School Board Member (roll-call response; the clerk's surname call shares the segment)"
+  },
+  "531": {
+   "name": "Don Lavalette",
+   "role": "School Board Member (sworn in at this meeting; term to 2029) (roll-call response; his name-call was lost by the ASR)"
+  },
+  "533": {
+   "name": "William 'Bill' Madden",
+   "role": "School Board Member (arrives during the meeting) (roll-call response)"
+  },
+  "801": {
+   "name": "William 'Bill' Madden",
+   "role": "School Board Member (arrives during the meeting) (roll-call response)"
+  },
+  "805": {
+   "name": "Candace Crawford",
+   "role": "School Board Chair (elected at this meeting) (roll-call response)"
+  },
+  "794": {
+   "name": "Candace Crawford",
+   "role": "School Board Chair (elected at this meeting) (announces the second; the ASR renders the surname 'Mr. Speaker')"
+  },
+  "714": {
+   "name": "Unidentified",
+   "role": "A board member seconds the banking resolution; the chair's naming is rendered 'Mr. Abbott' by the ASR - unresolved"
+  },
+  "803": {
+   "name": "Unidentified",
+   "role": "Roll-call response on entering nonpublic session; falls between the calls for Madden and Whitney - Petrin or Rapp, not distinguishable"
+  }
+ }
+}

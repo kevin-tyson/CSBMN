@@ -1,0 +1,864 @@
+{
+ "Speaker 2": {
+  "name": "Michael Petrin",
+  "role": "School Board Chair (presides; never named on this recording — identified by elimination: he excludes himself from 'Frank or Steve', refers to Heather, Bonnie and Whitney in the third person, and the 2/8/23 deliberative session names 'Michael Patron' as chairman of the school board)"
+ },
+ "Speaker 16": {
+  "name": "Michael Petrin",
+  "role": "School Board Chair — short cluster of the chair's acknowledgements and procedural interjections; many segments in this cluster are clipped onsets of the next speaker and are reassigned per segment"
+ },
+ "Speaker 1": {
+  "name": "Heather Whitney",
+  "role": "School Board Vice Chair (named by two public commenters: 'Heather referenced cost per students' and 'Heather Whitney's comment about the free and reduced lunch')"
+ },
+ "Speaker 3": {
+  "name": "Michael Tempesta",
+  "role": "Superintendent, SAU 6 (named on the recording: 'As Mr. Tempesta shared with you...')"
+ },
+ "Speaker 34": {
+  "name": "Michael Tempesta",
+  "role": "Superintendent, SAU 6 (second cluster for the same voice; the twin transcription of this meeting groups these same two passages together as well)"
+ },
+ "Speaker 8": {
+  "name": "Frank Sprague",
+  "role": "School Board Member (his motion to accept the agenda falls in this cluster in the twin transcription, and the chair calls it 'Motion by Frank')"
+ },
+ "Speaker 7": {
+  "name": "Bonnie Miles",
+  "role": "School Board Member (not named on this recording — the only member of the six-member board left once Petrin, Whitney, Sprague, Horsky and Skillen are anchored to other voices)"
+ },
+ "Speaker 10": {
+  "name": "Whitney Skillen",
+  "role": "School Board Member (the tech center director answers her visioning-committee remarks with 'as Whitney said here, they're very active citizens'; the chair uses 'Whitney' for Skillen and 'Heather' for Whitney throughout)"
+ },
+ "Speaker 17": {
+  "name": "Steven Horsky",
+  "role": "School Board Member (the chair recognises him as 'Steven, you've had a question'; he owns the $1M cut — 'a problem that I guess I technically created' — matching 'Steven Horsky, Ward two' at the 2/8/23 deliberative session)"
+ },
+ "Speaker 9": {
+  "name": "Mike Koski",
+  "role": "Assistant Superintendent, SAU 6 (addressed as 'a question for Mike' and 'Mike and his department'; a commenter cites 'a comment tonight, my [Mr.] Kosky')"
+ },
+ "Speaker 18": {
+  "name": "Richard Seaman",
+  "role": "Assistant Superintendent for Finance and Operations (business administrator), SAU 6 — addressed as 'a housekeeping question for Richard' and 'we run it by Richard'"
+ },
+ "Speaker 13": {
+  "name": "Ben Nester",
+  "role": "Director of Special Education, SAU 6 (the preschool administrator defers to him — 'I think Ben has my notes' — and the principal credits 'as Ben just mentioned'; the chair asked 'Ben' to call the roll)"
+ },
+ "Speaker 6": {
+  "name": "Chris Pratt",
+  "role": "Principal, Stevens High School (introduced by the chair — 'Mr. Pratt is here to talk about the varsity ice hockey' — and thanked as 'Thank you, Mr. Pratt')"
+ },
+ "Speaker 15": {
+  "name": "Frank Romeo",
+  "role": "Principal, Claremont Middle School (the chair: 'I want to ask Mr. Romeo too, since he currently has the eighth graders')"
+ },
+ "Speaker 11": {
+  "name": "Melissa Lewis",
+  "role": "Principal, Disnard Elementary School (addressed on the recording as 'a lot of things that Melissa just talked about'; surname and building from the district record — a Disnard teacher later thanks 'the lady in red over here' for her building's retention)"
+ },
+ "Speaker 14": {
+  "name": "Christine Baker",
+  "role": "Principal, Bluff Elementary School (speaks for Bluff among the presenting administrators; not named on this recording — surname from the district record, where Christine Baker is Bluff principal in 2023-24)"
+ },
+ "Speaker 12": {
+  "name": "Christina (surname not stated)",
+  "role": "Preschool / Early Childhood Center administrator — introduced as 'Christina is welcome to start' and cited later as 'I heard Christina mentioned tonight that there's 26 referrals'"
+ },
+ "Speaker 19": {
+  "name": "Alex Herzog",
+  "role": "Director, Sugar River Valley Regional Technical Center, and chair of the tech center visioning committee (named repeatedly — 'the Alex who has been the chair will be the administrative support... because Alex is the director')"
+ },
+ "Speaker 5": {
+  "name": "Hannah Petrin",
+  "role": "Student Representative to the School Board (the chair: 'Thank you. Hannah.'; rendered 'Hannah Patron' elsewhere in this corpus)"
+ },
+ "Speaker 21": {
+  "name": "Candace Crawford",
+  "role": "Public commenter, Ward 2 (self-identified; recognised by the chair as 'Candy') — not a board member until July 2023"
+ },
+ "Speaker 4": {
+  "name": "Arlene Hawkins",
+  "role": "Public commenter, Ward 3, 592 Redwater Brook Road (self-identified) — elected to the board 3/14/23, not a member at this meeting"
+ },
+ "Speaker 22": {
+  "name": "Lisa Holtz",
+  "role": "Public commenter — Claremont resident and elementary school teacher (self-identified)"
+ },
+ "Speaker 23": {
+  "name": "Jennifer Austin",
+  "role": "Public commenter — parent of three Claremont students (self-identified)"
+ },
+ "Speaker 24": {
+  "name": "Raquel (surname not stated)",
+  "role": "Public commenter, Ward 2 — PTO president at Maple Avenue School, parent of twin fifth graders (greeted from the table as 'Hi, Raquel'; the ASR confidence on the name is low, 0.48, and no surname is audible)"
+ },
+ "Speaker 25": {
+  "name": "Ann Fine",
+  "role": "Public commenter, Ward 2, 101 Ledgewood Road — retired educator, 26 years an assistant professor at Landmark College (self-identified; the ASR renders the name 'an fine' here and 'And fine' on 2/15/23, so the spelling is unverified)"
+ },
+ "Speaker 26": {
+  "name": "Mary Lovett",
+  "role": "Public commenter, Ward 2 — Stevens High School class of 2017 (self-identified; the twin transcription renders the introduction 'Mary and Lovett were two' = 'Mary Ann Lovett, Ward two')"
+ },
+ "Speaker 32": {
+  "name": "Mary Lovett",
+  "role": "Public commenter, Ward 2 — Stevens High School class of 2017 (second cluster for the same voice; self-identifies again as 'Mary Lovett, Ward two')"
+ },
+ "Speaker 27": {
+  "name": "Laura Snelling",
+  "role": "Public commenter, Ward 3 — school nurse at Maple Avenue School (self-identified)"
+ },
+ "Speaker 28": {
+  "name": "Michelle (surname not stated)",
+  "role": "Public commenter, Ward 2 — parent of a preschooler, a third grader and a fifth grader; three years on the district restructuring committees; recognised by the chair as 'Michelle' (the surname is garbled by the ASR as 'be in' / 'Shall be in')"
+ },
+ "Speaker 20": {
+  "name": "Mimi Rhines",
+  "role": "Public commenter, Ward 1 — Stevens High School staff member (self-identified; the chair calls her 'Miss Ryan' and the ASR renders the name 'Mimi Ryan's')"
+ },
+ "Speaker 31": {
+  "name": "Mimi Rhines",
+  "role": "Public commenter, Ward 1 — Stevens High School staff member, second turn relaying Officer Simons' concerns (MEDIUM confidence: the self-identification is garbled to 'Meeting your eyes, Ward one'; matched to her by ward, by high-school staff status and by the initial sound of the name)"
+ },
+ "Speaker 29": {
+  "name": "Unidentified public commenter — Ward 3 school board candidate",
+  "role": "Public commenter, Ward 3 — a former school board member who ran for the board in 2022 and is running again in March 2023; the self-identification is garbled to 'Next on Ward three' in both transcriptions of this meeting and no one names him"
+ },
+ "Speaker 30": {
+  "name": "Scott Pope",
+  "role": "Public commenter, Ward 2 — retired tech center educator and tech center visioning committee member (self-identified; recognised by the chair as 'Mr. Pope')"
+ },
+ "Speaker 33": {
+  "name": "Unidentified public commenter — second turn",
+  "role": "Public commenter taking a second turn ('two things to say and I'm done for the night'); never named in either transcription of this meeting. Register and subject matter resemble Arlene Hawkins, but the voice is in a different cluster and the identification cannot be defended"
+ },
+ "Speaker 35": {
+  "name": "Jennifer Austin",
+  "role": "Public commenter — parent of three Claremont students (fragment cluster: her request to speak a second time)"
+ },
+ "__overrides__": {
+  "0": {
+   "name": "Unidentified speaker — pre-meeting banter",
+   "role": "Voice at the table before the gavel ('It feels like good morning to me'); not the chair (a separate cluster in both transcriptions) and never identified"
+  },
+  "1": {
+   "name": "Unidentified speaker — pre-meeting banter",
+   "role": "Voice at the table before the gavel; not the chair and never identified"
+  },
+  "5": {
+   "name": "Multiple",
+   "role": "Pledge of Allegiance — group recitation from the room, captured as one segment"
+  },
+  "10": {
+   "name": "Unidentified board member",
+   "role": "Roll-call responses ('Here. Here.') — the names called are absorbed into the roll caller's segments and the voices cannot be separated"
+  },
+  "12": {
+   "name": "Frank Sprague",
+   "role": "School Board Member — roll-call response, immediately after the roll caller says 'Thanks. Greg.' (= Sprague)"
+  },
+  "14": {
+   "name": "Whitney Skillen",
+   "role": "School Board Member — roll-call response; the roll caller's reading of her surname is absorbed into the same segment ('Skilling here')"
+  },
+  "16": {
+   "name": "Frank Sprague",
+   "role": "School Board Member — onset of his motion to accept the agenda; the twin transcription carries it as one utterance, 'Okay. Make a motion to accept the agenda, as amended'"
+  },
+  "18": {
+   "name": "Unidentified board member",
+   "role": "Second on the motion to accept the agenda; the chair identifies the seconder only as 'I think it was Bonnie or Whitney'"
+  },
+  "29": {
+   "name": "Unidentified citizens'-comment speaker",
+   "role": "Citizens'-comment speaker at the opening of the meeting; the chair's 'Name and ward, please' is answered off-mic and the first words are lost. In BOTH transcriptions of this meeting this voice clusters with Arlene Hawkins, but those clusters carry several women, so the identification is not defensible"
+  },
+  "100": {
+   "name": "Bonnie Miles",
+   "role": "School Board Member — onset of her question about traffic and the police department"
+  },
+  "121": {
+   "name": "Mike Koski",
+   "role": "Assistant Superintendent, SAU 6 — continuation of his own answer (80 ms gap)"
+  },
+  "123": {
+   "name": "Whitney Skillen",
+   "role": "School Board Member — onset of her Title I question"
+  },
+  "184": {
+   "name": "Michael Petrin",
+   "role": "School Board Chair — thanks the preschool presenters"
+  },
+  "545": {
+   "name": "Raquel (surname not stated)",
+   "role": "Public commenter, Ward 2 — PTO president at Maple Avenue School; onset of her second round of questions"
+  },
+  "559": {
+   "name": "Mimi Rhines",
+   "role": "Public commenter, Ward 1 — onset of her second turn (continuous with the following segment)"
+  },
+  "619": {
+   "name": "Unidentified public commenter — second turn",
+   "role": "Onset of the second-turn commenter's remarks ('I just have two things to say and I'm done for the night'); never named"
+  },
+  "670": {
+   "name": "Alex Herzog",
+   "role": "Director, Sugar River Valley Regional Technical Center — mid-sentence continuation ('the 22nd')"
+  },
+  "739": {
+   "name": "Michael Petrin",
+   "role": "School Board Chair — continuation of his own 'we need a secretary and a clerk'"
+  },
+  "770": {
+   "name": "Unidentified board member",
+   "role": "Moves to adjourn; the chair does not name the mover and this cluster carries several voices"
+  },
+  "11": {
+   "name": "Ben Nester",
+   "role": "Director of Special Education, SAU 6 — calling the roll at the chair's request; the surname is garbled ('Thanks. Greg.' = Sprague)"
+  },
+  "13": {
+   "name": "Ben Nester",
+   "role": "Director of Special Education, SAU 6 — calling the roll at the chair's request"
+  },
+  "175": {
+   "name": "Ben Nester",
+   "role": "Director of Special Education, SAU 6 — answering the preschool administrator's 'I think Ben has my notes'"
+  },
+  "200": {
+   "name": "Frank Romeo",
+   "role": "Principal, Claremont Middle School — onset of his remarks ('Well, I think you've covered a lot of things that we talked about')"
+  },
+  "286": {
+   "name": "David Putnam",
+   "role": "Public commenter, Ward 2 — his self-identification, split across three diarized clusters"
+  },
+  "633": {
+   "name": "Michael Tempesta",
+   "role": "Superintendent, SAU 6 — onset of 'You don't answer that, let me try'"
+  },
+  "17": {
+   "name": "Frank Sprague",
+   "role": "School Board Member — the chair records these as 'Motion by Frank'"
+  },
+  "51": {
+   "name": "Frank Sprague",
+   "role": "School Board Member — the chair records these as 'Motion by Frank'"
+  },
+  "53": {
+   "name": "Frank Sprague",
+   "role": "School Board Member — the chair records these as 'Motion by Frank'"
+  },
+  "47": {
+   "name": "Chris Pratt",
+   "role": "Principal, Stevens High School — onset of his ice hockey co-op presentation, immediately after the chair hands off to him"
+  },
+  "176": {
+   "name": "Ben Nester",
+   "role": "Director of Special Education, SAU 6 — continuation of his own remarks"
+  },
+  "285": {
+   "name": "David Putnam",
+   "role": "Public commenter, Ward 2 — his self-identification"
+  },
+  "287": {
+   "name": "David Putnam",
+   "role": "Public commenter, Ward 2 — continuation of his self-identification"
+  },
+  "517": {
+   "name": "Scott Pope",
+   "role": "Public commenter, Ward 2 — his self-identification and opening, split across four diarized clusters"
+  },
+  "519": {
+   "name": "Scott Pope",
+   "role": "Public commenter, Ward 2 — his self-identification and opening, split across four diarized clusters"
+  },
+  "521": {
+   "name": "Scott Pope",
+   "role": "Public commenter, Ward 2 — his self-identification and opening, split across four diarized clusters"
+  },
+  "523": {
+   "name": "Scott Pope",
+   "role": "Public commenter, Ward 2 — his self-identification and opening, split across four diarized clusters"
+  },
+  "525": {
+   "name": "Scott Pope",
+   "role": "Public commenter, Ward 2 — his self-identification and opening, split across four diarized clusters"
+  },
+  "584": {
+   "name": "Michael Petrin",
+   "role": "School Board Chair — mid-sentence continuation ('I want to know that')"
+  },
+  "696": {
+   "name": "Scott Pope",
+   "role": "Public commenter, Ward 2 — mid-sentence continuation of his visioning-committee remarks"
+  },
+  "28": {
+   "name": "Unidentified citizens'-comment speaker",
+   "role": "Citizens'-comment speaker at the opening of the meeting; the chair's 'Name and ward, please' is answered off-mic and the first words are lost. In BOTH transcriptions of this meeting this voice clusters with Arlene Hawkins, but those clusters carry several women, so the identification is not defensible"
+  },
+  "420": {
+   "name": "Raquel (surname not stated)",
+   "role": "Public commenter, Ward 2 — her self-identification, split across four diarized clusters"
+  },
+  "423": {
+   "name": "Raquel (surname not stated)",
+   "role": "Public commenter, Ward 2 — her self-identification, split across four diarized clusters"
+  },
+  "600": {
+   "name": "Cassandra Edwards",
+   "role": "Public commenter, Ward 3 — parent, citizen and teacher at Disnard Elementary School (self-identified)"
+  },
+  "602": {
+   "name": "Cassandra Edwards",
+   "role": "Public commenter, Ward 3 — parent, citizen and teacher at Disnard Elementary School (self-identified)"
+  },
+  "603": {
+   "name": "Cassandra Edwards",
+   "role": "Public commenter, Ward 3 — parent, citizen and teacher at Disnard Elementary School (self-identified)"
+  },
+  "604": {
+   "name": "Cassandra Edwards",
+   "role": "Public commenter, Ward 3 — parent, citizen and teacher at Disnard Elementary School (self-identified)"
+  },
+  "605": {
+   "name": "Cassandra Edwards",
+   "role": "Public commenter, Ward 3 — parent, citizen and teacher at Disnard Elementary School (self-identified)"
+  },
+  "606": {
+   "name": "Cassandra Edwards",
+   "role": "Public commenter, Ward 3 — parent, citizen and teacher at Disnard Elementary School (self-identified)"
+  },
+  "607": {
+   "name": "Cassandra Edwards",
+   "role": "Public commenter, Ward 3 — parent, citizen and teacher at Disnard Elementary School (self-identified)"
+  },
+  "608": {
+   "name": "Cassandra Edwards",
+   "role": "Public commenter, Ward 3 — parent, citizen and teacher at Disnard Elementary School (self-identified)"
+  },
+  "316": {
+   "name": "Mimi Rhines",
+   "role": "Public commenter, Ward 1 — onset of her remarks ('Hi everyone')"
+  },
+  "399": {
+   "name": "Jennifer Austin",
+   "role": "Public commenter — onset of her remarks ('Good evening')"
+  },
+  "438": {
+   "name": "Mary Lovett",
+   "role": "Public commenter, Ward 2 — her self-identification, split across two diarized clusters"
+  },
+  "441": {
+   "name": "Mary Lovett",
+   "role": "Public commenter, Ward 2 — her self-identification, split across two diarized clusters"
+  },
+  "610": {
+   "name": "Mary Lovett",
+   "role": "Public commenter, Ward 2 — her self-identification on her second turn"
+  },
+  "625": {
+   "name": "Raquel (surname not stated)",
+   "role": "Public commenter, Ward 2 — onset of her final question ('Sorry, I know I'm hogging space')"
+  },
+  "627": {
+   "name": "Raquel (surname not stated)",
+   "role": "Public commenter, Ward 2 — onset of her final question ('Sorry, I know I'm hogging space')"
+  },
+  "765": {
+   "name": "Jennifer Austin",
+   "role": "Public commenter — continuation as she leaves the podium"
+  },
+  "112": {
+   "name": "Mike Koski",
+   "role": "Assistant Superintendent, SAU 6 — onset of his answer on middle school English sections"
+  },
+  "177": {
+   "name": "Ben Nester",
+   "role": "Director of Special Education, SAU 6 — mid-sentence continuation"
+  },
+  "195": {
+   "name": "Melissa Lewis",
+   "role": "Principal, Disnard Elementary School — mid-sentence continuation inviting the next principal to add"
+  },
+  "419": {
+   "name": "Raquel (surname not stated)",
+   "role": "Public commenter, Ward 2 — fragment of her self-identification"
+  },
+  "618": {
+   "name": "Unidentified public commenter — second turn",
+   "role": "Fragment of the second-turn commenter's opening; never named"
+  },
+  "277": {
+   "name": "Richard Seaman",
+   "role": "Assistant Superintendent for Finance and Operations (business administrator), SAU 6 — onset of his answer on the collective bargaining note"
+  },
+  "672": {
+   "name": "Alex Herzog",
+   "role": "Director, Sugar River Valley Regional Technical Center — mid-sentence fragment ('my')"
+  },
+  "694": {
+   "name": "Michael Tempesta",
+   "role": "Superintendent, SAU 6 — mid-sentence continuation ('Scott's going to add to it')"
+  },
+  "131": {
+   "name": "Whitney Skillen",
+   "role": "School Board Member — fragment of her own question"
+  },
+  "210": {
+   "name": "Whitney Skillen",
+   "role": "School Board Member — fragment of her own question"
+  },
+  "166": {
+   "name": "Michael Tempesta",
+   "role": "Superintendent, SAU 6 — mid-sentence continuation (80 ms gap)"
+  },
+  "201": {
+   "name": "Frank Romeo",
+   "role": "Principal, Claremont Middle School — onset fragment of his remarks"
+  },
+  "208": {
+   "name": "Michael Petrin",
+   "role": "School Board Chair — thanks the presenting administrators"
+  },
+  "218": {
+   "name": "Michael Petrin",
+   "role": "School Board Chair — thanks the presenting administrators"
+  },
+  "243": {
+   "name": "Michael Petrin",
+   "role": "School Board Chair — thanks the presenting administrators"
+  },
+  "245": {
+   "name": "Steven Horsky",
+   "role": "School Board Member — onset of his remarks, right after the chair says 'Steven, you've had a question'"
+  },
+  "293": {
+   "name": "David Putnam",
+   "role": "Public commenter, Ward 2 — mid-sentence continuation of his question"
+  },
+  "361": {
+   "name": "Candace Crawford",
+   "role": "Public commenter, Ward 2 — continuation of 'ballpark figure would be good'"
+  },
+  "518": {
+   "name": "Scott Pope",
+   "role": "Public commenter, Ward 2 — his opening remarks, split across four diarized clusters"
+  },
+  "524": {
+   "name": "Scott Pope",
+   "role": "Public commenter, Ward 2 — his opening remarks, split across four diarized clusters"
+  },
+  "526": {
+   "name": "Scott Pope",
+   "role": "Public commenter, Ward 2 — his opening remarks, split across four diarized clusters"
+  },
+  "540": {
+   "name": "Richard Seaman",
+   "role": "Assistant Superintendent for Finance and Operations (business administrator), SAU 6 — offering to go through the default budget calculation with the commenter"
+  },
+  "542": {
+   "name": "Richard Seaman",
+   "role": "Assistant Superintendent for Finance and Operations (business administrator), SAU 6 — offering to go through the default budget calculation with the commenter"
+  },
+  "685": {
+   "name": "Michael Tempesta",
+   "role": "Superintendent, SAU 6 — onset of his own remarks"
+  },
+  "692": {
+   "name": "Michael Tempesta",
+   "role": "Superintendent, SAU 6 — onset of his own remarks"
+  },
+  "695": {
+   "name": "Scott Pope",
+   "role": "Public commenter, Ward 2 — visioning committee member; the superintendent calls on him by name ('Scott, Scott going to add to it')"
+  },
+  "697": {
+   "name": "Scott Pope",
+   "role": "Public commenter, Ward 2 — visioning committee member; the superintendent calls on him by name ('Scott, Scott going to add to it')"
+  },
+  "698": {
+   "name": "Scott Pope",
+   "role": "Public commenter, Ward 2 — visioning committee member; the superintendent calls on him by name ('Scott, Scott going to add to it')"
+  },
+  "642": {
+   "name": "Mike Koski",
+   "role": "Assistant Superintendent, SAU 6 — continuation of his own answer"
+  },
+  "397": {
+   "name": "Michael Petrin",
+   "role": "School Board Chair — mid-sentence continuation about the timer"
+  },
+  "479": {
+   "name": "Michelle (surname not stated)",
+   "role": "Public commenter, Ward 2 — her self-identification"
+  },
+  "418": {
+   "name": "Raquel (surname not stated)",
+   "role": "Public commenter, Ward 2 — fragments of her self-identification and of her second round of questions"
+  },
+  "421": {
+   "name": "Raquel (surname not stated)",
+   "role": "Public commenter, Ward 2 — fragments of her self-identification and of her second round of questions"
+  },
+  "546": {
+   "name": "Raquel (surname not stated)",
+   "role": "Public commenter, Ward 2 — fragments of her self-identification and of her second round of questions"
+  },
+  "550": {
+   "name": "Michael Petrin",
+   "role": "School Board Chair — prompting the commenter for her other question"
+  },
+  "360": {
+   "name": "Candace Crawford",
+   "role": "Public commenter, Ward 2 — fragment of 'ballpark figure would be good'"
+  },
+  "263": {
+   "name": "Whitney Skillen",
+   "role": "School Board Member — onset of / thanks after her own question"
+  },
+  "267": {
+   "name": "Whitney Skillen",
+   "role": "School Board Member — onset of / thanks after her own question"
+  },
+  "255": {
+   "name": "Heather Whitney",
+   "role": "School Board Vice Chair — onset or mid-sentence fragment of her own remarks"
+  },
+  "273": {
+   "name": "Heather Whitney",
+   "role": "School Board Vice Chair — onset or mid-sentence fragment of her own remarks"
+  },
+  "274": {
+   "name": "Heather Whitney",
+   "role": "School Board Vice Chair — onset or mid-sentence fragment of her own remarks"
+  },
+  "565": {
+   "name": "Heather Whitney",
+   "role": "School Board Vice Chair — onset or mid-sentence fragment of her own remarks"
+  },
+  "567": {
+   "name": "Heather Whitney",
+   "role": "School Board Vice Chair — onset or mid-sentence fragment of her own remarks"
+  },
+  "569": {
+   "name": "Heather Whitney",
+   "role": "School Board Vice Chair — onset or mid-sentence fragment of her own remarks"
+  },
+  "578": {
+   "name": "Heather Whitney",
+   "role": "School Board Vice Chair — onset or mid-sentence fragment of her own remarks"
+  },
+  "260": {
+   "name": "Chris Pratt",
+   "role": "Principal, Stevens High School — mid-sentence continuation"
+  },
+  "276": {
+   "name": "Richard Seaman",
+   "role": "Assistant Superintendent for Finance and Operations (business administrator), SAU 6 — onset of his answer"
+  },
+  "532": {
+   "name": "Richard Seaman",
+   "role": "Assistant Superintendent for Finance and Operations (business administrator), SAU 6 — onset of his answer"
+  },
+  "348": {
+   "name": "Candace Crawford",
+   "role": "Public commenter, Ward 2 — onset of / thanks after her own remarks"
+  },
+  "363": {
+   "name": "Candace Crawford",
+   "role": "Public commenter, Ward 2 — onset of / thanks after her own remarks"
+  },
+  "355": {
+   "name": "Mike Koski",
+   "role": "Assistant Superintendent, SAU 6 — answer to the staff-reduction question ('6 to 9')"
+  },
+  "378": {
+   "name": "Michael Tempesta",
+   "role": "Superintendent, SAU 6 — onset of his answer about the emailed questions"
+  },
+  "383": {
+   "name": "Lisa Holtz",
+   "role": "Public commenter — Claremont resident and elementary school teacher; onset of her remarks"
+  },
+  "402": {
+   "name": "Jennifer Austin",
+   "role": "Public commenter — onset of her self-identification"
+  },
+  "452": {
+   "name": "Jenna Gage",
+   "role": "Public commenter — second grade teacher at Maple Avenue School; onset of her self-identification"
+  },
+  "498": {
+   "name": "Molly DeLuca",
+   "role": "Public commenter, Ward 2 — onset and mid-sentence fragments of her remarks"
+  },
+  "500": {
+   "name": "Molly DeLuca",
+   "role": "Public commenter, Ward 2 — onset and mid-sentence fragments of her remarks"
+  },
+  "502": {
+   "name": "Molly DeLuca",
+   "role": "Public commenter, Ward 2 — onset and mid-sentence fragments of her remarks"
+  },
+  "508": {
+   "name": "Molly DeLuca",
+   "role": "Public commenter, Ward 2 — onset and mid-sentence fragments of her remarks"
+  },
+  "544": {
+   "name": "Raquel (surname not stated)",
+   "role": "Public commenter, Ward 2 — onset and mid-sentence fragments of her questions"
+  },
+  "554": {
+   "name": "Raquel (surname not stated)",
+   "role": "Public commenter, Ward 2 — onset and mid-sentence fragments of her questions"
+  },
+  "574": {
+   "name": "Raquel (surname not stated)",
+   "role": "Public commenter, Ward 2 — onset and mid-sentence fragments of her questions"
+  },
+  "576": {
+   "name": "Raquel (surname not stated)",
+   "role": "Public commenter, Ward 2 — onset and mid-sentence fragments of her questions"
+  },
+  "581": {
+   "name": "Raquel (surname not stated)",
+   "role": "Public commenter, Ward 2 — onset and mid-sentence fragments of her questions"
+  },
+  "626": {
+   "name": "Raquel (surname not stated)",
+   "role": "Public commenter, Ward 2 — onset and mid-sentence fragments of her questions"
+  },
+  "628": {
+   "name": "Raquel (surname not stated)",
+   "role": "Public commenter, Ward 2 — onset and mid-sentence fragments of her questions"
+  },
+  "617": {
+   "name": "Unidentified public commenter — second turn",
+   "role": "Onset of the second-turn commenter's remarks; never named"
+  },
+  "657": {
+   "name": "Whitney Skillen",
+   "role": "School Board Member — onset or mid-sentence fragment of her own remarks"
+  },
+  "659": {
+   "name": "Whitney Skillen",
+   "role": "School Board Member — onset or mid-sentence fragment of her own remarks"
+  },
+  "748": {
+   "name": "Whitney Skillen",
+   "role": "School Board Member — onset or mid-sentence fragment of her own remarks"
+  },
+  "757": {
+   "name": "Whitney Skillen",
+   "role": "School Board Member — onset or mid-sentence fragment of her own remarks"
+  },
+  "725": {
+   "name": "Alex Herzog",
+   "role": "Director, Sugar River Valley Regional Technical Center — fragments of his exchange about booking the room"
+  },
+  "727": {
+   "name": "Alex Herzog",
+   "role": "Director, Sugar River Valley Regional Technical Center — fragments of his exchange about booking the room"
+  },
+  "730": {
+   "name": "Alex Herzog",
+   "role": "Director, Sugar River Valley Regional Technical Center — fragments of his exchange about booking the room"
+  },
+  "736": {
+   "name": "Unidentified board member",
+   "role": "Prompts the chair that the district clerk and secretary seats are also open; the voice is not separable"
+  },
+  "401": {
+   "name": "Michael Petrin",
+   "role": "School Board Chair — 'point of information, name and ward, please'"
+  },
+  "491": {
+   "name": "Unidentified public commenter — Ward 3 school board candidate",
+   "role": "His garbled self-identification ('Next on Ward three'), rendered identically in both transcriptions of this meeting"
+  },
+  "288": {
+   "name": "David Putnam",
+   "role": "Public commenter, Ward 2 — recognised by the chair as 'Mr. Putnam' and self-identified"
+  },
+  "290": {
+   "name": "David Putnam",
+   "role": "Public commenter, Ward 2 — recognised by the chair as 'Mr. Putnam' and self-identified"
+  },
+  "291": {
+   "name": "David Putnam",
+   "role": "Public commenter, Ward 2 — recognised by the chair as 'Mr. Putnam' and self-identified"
+  },
+  "292": {
+   "name": "David Putnam",
+   "role": "Public commenter, Ward 2 — recognised by the chair as 'Mr. Putnam' and self-identified"
+  },
+  "305": {
+   "name": "David Putnam",
+   "role": "Public commenter, Ward 2 — recognised by the chair as 'Mr. Putnam' and self-identified"
+  },
+  "309": {
+   "name": "David Putnam",
+   "role": "Public commenter, Ward 2 — recognised by the chair as 'Mr. Putnam' and self-identified"
+  },
+  "314": {
+   "name": "David Putnam",
+   "role": "Public commenter, Ward 2 — recognised by the chair as 'Mr. Putnam' and self-identified"
+  },
+  "520": {
+   "name": "Scott Pope",
+   "role": "Public commenter, Ward 2 — his opening remarks, split across four diarized clusters"
+  },
+  "522": {
+   "name": "Scott Pope",
+   "role": "Public commenter, Ward 2 — his opening remarks, split across four diarized clusters"
+  },
+  "527": {
+   "name": "Scott Pope",
+   "role": "Public commenter, Ward 2 — his opening remarks, split across four diarized clusters"
+  },
+  "656": {
+   "name": "Whitney Skillen",
+   "role": "School Board Member — onset of her visioning-committee remarks"
+  },
+  "665": {
+   "name": "Michael Petrin",
+   "role": "School Board Chair — introduces the region ten question to the tech center director ('So I have a question, which will involve Alex with his opinion'). LOW-MEDIUM confidence: the sentence is scattered across four clusters in both transcriptions; only the chair's cluster carries part of it in both"
+  },
+  "668": {
+   "name": "Michael Petrin",
+   "role": "School Board Chair — introduces the region ten question to the tech center director ('So I have a question, which will involve Alex with his opinion'). LOW-MEDIUM confidence: the sentence is scattered across four clusters in both transcriptions; only the chair's cluster carries part of it in both"
+  },
+  "499": {
+   "name": "Molly DeLuca",
+   "role": "Public commenter, Ward 2 — former restructuring committee member (self-identified)"
+  },
+  "501": {
+   "name": "Molly DeLuca",
+   "role": "Public commenter, Ward 2 — former restructuring committee member (self-identified)"
+  },
+  "503": {
+   "name": "Molly DeLuca",
+   "role": "Public commenter, Ward 2 — former restructuring committee member (self-identified)"
+  },
+  "504": {
+   "name": "Molly DeLuca",
+   "role": "Public commenter, Ward 2 — former restructuring committee member (self-identified)"
+  },
+  "505": {
+   "name": "Molly DeLuca",
+   "role": "Public commenter, Ward 2 — former restructuring committee member (self-identified)"
+  },
+  "506": {
+   "name": "Molly DeLuca",
+   "role": "Public commenter, Ward 2 — former restructuring committee member (self-identified)"
+  },
+  "507": {
+   "name": "Molly DeLuca",
+   "role": "Public commenter, Ward 2 — former restructuring committee member (self-identified)"
+  },
+  "509": {
+   "name": "Molly DeLuca",
+   "role": "Public commenter, Ward 2 — former restructuring committee member (self-identified)"
+  },
+  "440": {
+   "name": "Mary Lovett",
+   "role": "Public commenter, Ward 2 — fragment of her opening"
+  },
+  "453": {
+   "name": "Jenna Gage",
+   "role": "Public commenter — second grade teacher at Maple Avenue School, Claremont resident (self-identified)"
+  },
+  "455": {
+   "name": "Jenna Gage",
+   "role": "Public commenter — second grade teacher at Maple Avenue School, Claremont resident (self-identified)"
+  },
+  "457": {
+   "name": "Jenna Gage",
+   "role": "Public commenter — second grade teacher at Maple Avenue School, Claremont resident (self-identified)"
+  },
+  "459": {
+   "name": "Jenna Gage",
+   "role": "Public commenter — second grade teacher at Maple Avenue School, Claremont resident (self-identified)"
+  },
+  "460": {
+   "name": "Jenna Gage",
+   "role": "Public commenter — second grade teacher at Maple Avenue School, Claremont resident (self-identified)"
+  },
+  "461": {
+   "name": "Jenna Gage",
+   "role": "Public commenter — second grade teacher at Maple Avenue School, Claremont resident (self-identified)"
+  },
+  "462": {
+   "name": "Jenna Gage",
+   "role": "Public commenter — second grade teacher at Maple Avenue School, Claremont resident (self-identified)"
+  },
+  "463": {
+   "name": "Jenna Gage",
+   "role": "Public commenter — second grade teacher at Maple Avenue School, Claremont resident (self-identified)"
+  },
+  "464": {
+   "name": "Jenna Gage",
+   "role": "Public commenter — second grade teacher at Maple Avenue School, Claremont resident (self-identified)"
+  },
+  "598": {
+   "name": "Cassandra Edwards",
+   "role": "Public commenter, Ward 3 — her self-identification"
+  },
+  "467": {
+   "name": "Laura Snelling",
+   "role": "Public commenter, Ward 3 — school nurse at Maple Avenue School; her self-identification"
+  },
+  "454": {
+   "name": "Jenna Gage",
+   "role": "Public commenter — fragments of her self-identification"
+  },
+  "456": {
+   "name": "Jenna Gage",
+   "role": "Public commenter — fragments of her self-identification"
+  },
+  "458": {
+   "name": "Jenna Gage",
+   "role": "Public commenter — fragments of her self-identification"
+  },
+  "630": {
+   "name": "Raquel (surname not stated)",
+   "role": "Public commenter, Ward 2 — mid-sentence fragment of her question"
+  },
+  "756": {
+   "name": "Whitney Skillen",
+   "role": "School Board Member — onset of her question to the administration"
+  },
+  "634": {
+   "name": "Michael Tempesta",
+   "role": "Superintendent, SAU 6 — mid-sentence fragments"
+  },
+  "684": {
+   "name": "Michael Tempesta",
+   "role": "Superintendent, SAU 6 — mid-sentence fragments"
+  },
+  "667": {
+   "name": "Michael Petrin",
+   "role": "School Board Chair — mid-sentence fragment ('involve Alex')"
+  },
+  "599": {
+   "name": "Cassandra Edwards",
+   "role": "Public commenter, Ward 3 — fragments of her self-identification"
+  },
+  "601": {
+   "name": "Cassandra Edwards",
+   "role": "Public commenter, Ward 3 — fragments of her self-identification"
+  },
+  "648": {
+   "name": "Bonnie Miles",
+   "role": "School Board Member — mid-sentence fragment of her relayed parent call"
+  },
+  "724": {
+   "name": "Michael Petrin",
+   "role": "School Board Chair — continuation of 'So we'll confirm tomorrow'"
+  }
+ }
+}

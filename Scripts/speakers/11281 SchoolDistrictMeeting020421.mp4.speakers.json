@@ -1,0 +1,64 @@
+{
+ "Speaker 1": {
+  "name": "Mrs. Pope",
+  "role": "School district moderator (addressed 'Mrs. Pope' and 'Madam moderator' [8], [10]; first name not stated on the record, possibly Tracy Pope per roster, unverified)"
+ },
+ "Speaker 2": {
+  "name": "Frank Sprague",
+  "role": "Claremont School Board Chair"
+ },
+ "Speaker 3": {
+  "name": "Donna Magoon",
+  "role": "Assistant Superintendent, SAU 6"
+ },
+ "Speaker 4": {
+  "name": "Rebecca Zullo",
+  "role": "Claremont School Board member (leads the pledge at the moderator's request [4]; 'Thank you, Mrs. Zullo' [6])"
+ },
+ "Speaker 5": {
+  "name": "Rob Lovett Jr.",
+  "role": "Claremont School Board member"
+ },
+ "Speaker 6": {
+  "name": "Jason Benware",
+  "role": "Claremont School Board member"
+ },
+ "Speaker 7": {
+  "name": "Unidentified",
+  "role": "Unidentified - participant alerting the moderator that Petrin had his hand up"
+ },
+ "Speaker 8": {
+  "name": "Michael Petrin",
+  "role": "Claremont School Board member"
+ },
+ "__overrides__": {
+  "1": {
+   "name": "Unidentified",
+   "role": "Unidentified - pre-meeting technical check"
+  },
+  "8": {
+   "name": "Michael Tempesta",
+   "role": "Superintendent, SAU 6"
+  },
+  "3": {
+   "name": "Unidentified",
+   "role": "Unidentified - pre-meeting technical check"
+  },
+  "23": {
+   "name": "Unidentified",
+   "role": "Unidentified - short acknowledgement"
+  },
+  "7": {
+   "name": "Mrs. Pope",
+   "role": "School district moderator (addressed 'Mrs. Pope' and 'Madam moderator' [8], [10]; first name not stated on the record, possibly Tracy Pope per roster, unverified)"
+  },
+  "38": {
+   "name": "Mrs. Pope",
+   "role": "School district moderator (addressed 'Mrs. Pope' and 'Madam moderator' [8], [10]; first name not stated on the record, possibly Tracy Pope per roster, unverified)"
+  },
+  "22": {
+   "name": "Unidentified",
+   "role": "Unidentified - remark that Rob Lovett has joined"
+  }
+ }
+}

@@ -1,0 +1,304 @@
+{
+ "Speaker 1": {
+  "name": "Middleton McGoodwin",
+  "role": "Superintendent, SAU 6 (presides over the swearing-in and the chair election [0-44], then gives the superintendent's report after the chair's 'Thank you. Superintendent' [133-134]; addressed as 'Middleton' [285])"
+ },
+ "Speaker 2": {
+  "name": "Carolyn Towle",
+  "role": "Claremont School Board member, newly sworn in to a one-year term (recognized 'Carolyn' by the chair [255]; thanked 'Carolyn' by the superintendent [878]; speaks as a former city councilor [1231]; also a lone 'Thank you' after her Good Scout Award congratulations [304])"
+ },
+ "Speaker 3": {
+  "name": "Unidentified",
+  "role": "Unidentified - cluster mixes the oath responses of the newly elected members, roll-call answers and short cross-talk from several voices; see overrides"
+ },
+ "Speaker 4": {
+  "name": "Jason Benware",
+  "role": "Claremont School Board member, newly sworn in (recognized 'Jason' by the chair [459] and questioned as 'Jason' [1175]; nominates Frank Sprague for chair [42])"
+ },
+ "Speaker 5": {
+  "name": "Frank Sprague",
+  "role": "Claremont School Board Chair (re-elected chair by voice vote [44]; runs the meeting from [45])"
+ },
+ "Speaker 6": {
+  "name": "Michelle Pierce",
+  "role": "Claremont School Board member (addressed 'Michel' [151] and 'Michelle' [396]; superintendent cites 'Michelle Pierce's comment about school board ethics' [872])"
+ },
+ "Speaker 7": {
+  "name": "Unidentified",
+  "role": "Unidentified - cluster of short interjections, seconds, pledge fragments and onsets from several voices"
+ },
+ "Speaker 8": {
+  "name": "Michael Petrin",
+  "role": "Claremont School Board member (the chair recognizes 'Michelle. Then Mike and Jason' [792] and this cluster asks the next question [820])"
+ },
+ "Speaker 9": {
+  "name": "Lexi Grenier",
+  "role": "Student representative to the board, Stevens High School (first name 'Lexi' on this recording [94, 133]; surname from the 2/21/18 recording, ASR 'Lexie Grenier', spelling unverified)"
+ },
+ "Speaker 10": {
+  "name": "Lexi Grenier",
+  "role": "Student representative to the board, Stevens High School (first name 'Lexi' on this recording [94, 133]; surname from the 2/21/18 recording, ASR 'Lexie Grenier', spelling unverified)"
+ },
+ "Speaker 11": {
+  "name": "Rebecca Zullo",
+  "role": "Claremont School Board Vice Chair (re-elected vice chair [49]; LeClair answers 'Becky's question' [790] asked in this cluster [741]; recognized 'Rebecca' [1028])"
+ },
+ "Speaker 12": {
+  "name": "Cory LeClair",
+  "role": "Assistant Superintendent, SAU 6 (chair: 'Other questions for Corey' [694]; members address 'Corey' [725, 741])"
+ },
+ "Speaker 13": {
+  "name": "Steven Horsky",
+  "role": "Claremont School Board member, newly sworn in (recognized 'Steve' [774], 'Stephen' [980], 'Steve' [1047])"
+ },
+ "Speaker 14": {
+  "name": "Dan",
+  "role": "Elementary school administrator (first name only on record; LeClair: 'Dan was at the parents night' [275]; thanked 'Dan' [672])"
+ },
+ "Speaker 15": {
+  "name": "Carolyn Towle",
+  "role": "Claremont School Board member, newly sworn in to a one-year term (recognized 'Carolyn' by the chair [255]; thanked 'Carolyn' by the superintendent [878]; speaks as a former city councilor [1231]; also a lone 'Thank you' after her Good Scout Award congratulations [304])"
+ },
+ "Speaker 16": {
+  "name": "Liza Draper",
+  "role": "Public commenter, Ward 3; TLC Family Resource Center (self-identified [361])"
+ },
+ "Speaker 17": {
+  "name": "Josh Malloy",
+  "role": "Director of Instructional Technology, SAU 6 (superintendent: 'I'm going to defer to Mr. Malloy' [1226]; answers the board-laptop question [1234-1268]). This cluster also carries a public commenter named Paul; see overrides"
+ },
+ "Speaker 18": {
+  "name": "Joe Osgood",
+  "role": "Public commenter, Ward 2 (self-identified 'Joe Osgood, Ward two' [387])"
+ },
+ "Speaker 19": {
+  "name": "Patricia Barry",
+  "role": "Principal, Stevens High School (addressed 'Pat' [432, 446] and 'Mrs. Berry' [466]; presents the program of studies [421-466])"
+ },
+ "Speaker 20": {
+  "name": "Patricia Barry",
+  "role": "Principal, Stevens High School (addressed 'Pat' [432, 446] and 'Mrs. Berry' [466]; presents the program of studies [421-466])"
+ },
+ "Speaker 21": {
+  "name": "Unidentified",
+  "role": "Stevens High School music teacher (name blank in ASR at self-introduction [501]; chair invites 'Miss Clench' [469], student report thanks 'Miss Clines' [101]; surname unverified); see overrides"
+ },
+ "Speaker 22": {
+  "name": "Unidentified",
+  "role": "Unidentified - single short remark during the music trip handout [473]"
+ },
+ "Speaker 23": {
+  "name": "Unidentified",
+  "role": "Unidentified - staff voice explaining i-Ready test behavior [695-697] after LeClair says 'Paulette could speak to that' [693] (possibly a middle school administrator named Paulette; uncertain) and an off-mic remark [653]"
+ },
+ "Speaker 24": {
+  "name": "Unidentified",
+  "role": "Unidentified - short cross-talk from several voices"
+ },
+ "Speaker 25": {
+  "name": "Unidentified",
+  "role": "Unidentified - short cross-talk from several voices; see overrides"
+ },
+ "Speaker 26": {
+  "name": "Unidentified",
+  "role": "Unidentified - cluster of short interjections, ayes and cross-talk from several voices, including a recognition of 'Rebecca' [1028]"
+ },
+ "Speaker 27": {
+  "name": "Mary Woodman",
+  "role": "School district clerk and board recording secretary (administers the oath after the superintendent asks 'Mrs. Woodman' to assist [1]; calls the roll [63-73]; reads the ballot results after the chair asks her to [1205-1218], that cluster uncertain)"
+ },
+ "__overrides__": {
+  "2": {
+   "name": "Mary Woodman",
+   "role": "School district clerk and board recording secretary (administers the oath after the superintendent asks 'Mrs. Woodman' to assist [1]; calls the roll [63-73]; reads the ballot results after the chair asks her to [1205-1218], that cluster uncertain)"
+  },
+  "3": {
+   "name": "Mary Woodman",
+   "role": "School district clerk and board recording secretary (administers the oath after the superintendent asks 'Mrs. Woodman' to assist [1]; calls the roll [63-73]; reads the ballot results after the chair asks her to [1205-1218], that cluster uncertain)"
+  },
+  "5": {
+   "name": "Mary Woodman",
+   "role": "School district clerk and board recording secretary (administers the oath after the superintendent asks 'Mrs. Woodman' to assist [1]; calls the roll [63-73]; reads the ballot results after the chair asks her to [1205-1218], that cluster uncertain)"
+  },
+  "7": {
+   "name": "Mary Woodman",
+   "role": "School district clerk and board recording secretary (administers the oath after the superintendent asks 'Mrs. Woodman' to assist [1]; calls the roll [63-73]; reads the ballot results after the chair asks her to [1205-1218], that cluster uncertain)"
+  },
+  "9": {
+   "name": "Mary Woodman",
+   "role": "School district clerk and board recording secretary (administers the oath after the superintendent asks 'Mrs. Woodman' to assist [1]; calls the roll [63-73]; reads the ballot results after the chair asks her to [1205-1218], that cluster uncertain)"
+  },
+  "11": {
+   "name": "Mary Woodman",
+   "role": "School district clerk and board recording secretary (administers the oath after the superintendent asks 'Mrs. Woodman' to assist [1]; calls the roll [63-73]; reads the ballot results after the chair asks her to [1205-1218], that cluster uncertain)"
+  },
+  "13": {
+   "name": "Mary Woodman",
+   "role": "School district clerk and board recording secretary (administers the oath after the superintendent asks 'Mrs. Woodman' to assist [1]; calls the roll [63-73]; reads the ballot results after the chair asks her to [1205-1218], that cluster uncertain)"
+  },
+  "15": {
+   "name": "Mary Woodman",
+   "role": "School district clerk and board recording secretary (administers the oath after the superintendent asks 'Mrs. Woodman' to assist [1]; calls the roll [63-73]; reads the ballot results after the chair asks her to [1205-1218], that cluster uncertain)"
+  },
+  "17": {
+   "name": "Mary Woodman",
+   "role": "School district clerk and board recording secretary (administers the oath after the superintendent asks 'Mrs. Woodman' to assist [1]; calls the roll [63-73]; reads the ballot results after the chair asks her to [1205-1218], that cluster uncertain)"
+  },
+  "19": {
+   "name": "Mary Woodman",
+   "role": "School district clerk and board recording secretary (administers the oath after the superintendent asks 'Mrs. Woodman' to assist [1]; calls the roll [63-73]; reads the ballot results after the chair asks her to [1205-1218], that cluster uncertain)"
+  },
+  "21": {
+   "name": "Mary Woodman",
+   "role": "School district clerk and board recording secretary (administers the oath after the superintendent asks 'Mrs. Woodman' to assist [1]; calls the roll [63-73]; reads the ballot results after the chair asks her to [1205-1218], that cluster uncertain)"
+  },
+  "23": {
+   "name": "Mary Woodman",
+   "role": "School district clerk and board recording secretary (administers the oath after the superintendent asks 'Mrs. Woodman' to assist [1]; calls the roll [63-73]; reads the ballot results after the chair asks her to [1205-1218], that cluster uncertain)"
+  },
+  "25": {
+   "name": "Mary Woodman",
+   "role": "School district clerk and board recording secretary (administers the oath after the superintendent asks 'Mrs. Woodman' to assist [1]; calls the roll [63-73]; reads the ballot results after the chair asks her to [1205-1218], that cluster uncertain)"
+  },
+  "28": {
+   "name": "Mary Woodman",
+   "role": "School district clerk and board recording secretary (administers the oath after the superintendent asks 'Mrs. Woodman' to assist [1]; calls the roll [63-73]; reads the ballot results after the chair asks her to [1205-1218], that cluster uncertain)"
+  },
+  "30": {
+   "name": "Mary Woodman",
+   "role": "School district clerk and board recording secretary (administers the oath after the superintendent asks 'Mrs. Woodman' to assist [1]; calls the roll [63-73]; reads the ballot results after the chair asks her to [1205-1218], that cluster uncertain)"
+  },
+  "32": {
+   "name": "Mary Woodman",
+   "role": "School district clerk and board recording secretary (administers the oath after the superintendent asks 'Mrs. Woodman' to assist [1]; calls the roll [63-73]; reads the ballot results after the chair asks her to [1205-1218], that cluster uncertain)"
+  },
+  "34": {
+   "name": "Mary Woodman",
+   "role": "School district clerk and board recording secretary (administers the oath after the superintendent asks 'Mrs. Woodman' to assist [1]; calls the roll [63-73]; reads the ballot results after the chair asks her to [1205-1218], that cluster uncertain)"
+  },
+  "36": {
+   "name": "Mary Woodman",
+   "role": "School district clerk and board recording secretary (administers the oath after the superintendent asks 'Mrs. Woodman' to assist [1]; calls the roll [63-73]; reads the ballot results after the chair asks her to [1205-1218], that cluster uncertain)"
+  },
+  "38": {
+   "name": "Mary Woodman",
+   "role": "School district clerk and board recording secretary (administers the oath after the superintendent asks 'Mrs. Woodman' to assist [1]; calls the roll [63-73]; reads the ballot results after the chair asks her to [1205-1218], that cluster uncertain)"
+  },
+  "63": {
+   "name": "Mary Woodman",
+   "role": "School district clerk and board recording secretary (administers the oath after the superintendent asks 'Mrs. Woodman' to assist [1]; calls the roll [63-73]; reads the ballot results after the chair asks her to [1205-1218], that cluster uncertain)"
+  },
+  "65": {
+   "name": "Mary Woodman",
+   "role": "School district clerk and board recording secretary (administers the oath after the superintendent asks 'Mrs. Woodman' to assist [1]; calls the roll [63-73]; reads the ballot results after the chair asks her to [1205-1218], that cluster uncertain)"
+  },
+  "67": {
+   "name": "Mary Woodman",
+   "role": "School district clerk and board recording secretary (administers the oath after the superintendent asks 'Mrs. Woodman' to assist [1]; calls the roll [63-73]; reads the ballot results after the chair asks her to [1205-1218], that cluster uncertain)"
+  },
+  "69": {
+   "name": "Mary Woodman",
+   "role": "School district clerk and board recording secretary (administers the oath after the superintendent asks 'Mrs. Woodman' to assist [1]; calls the roll [63-73]; reads the ballot results after the chair asks her to [1205-1218], that cluster uncertain)"
+  },
+  "71": {
+   "name": "Mary Woodman",
+   "role": "School district clerk and board recording secretary (administers the oath after the superintendent asks 'Mrs. Woodman' to assist [1]; calls the roll [63-73]; reads the ballot results after the chair asks her to [1205-1218], that cluster uncertain)"
+  },
+  "73": {
+   "name": "Mary Woodman",
+   "role": "School district clerk and board recording secretary (administers the oath after the superintendent asks 'Mrs. Woodman' to assist [1]; calls the roll [63-73]; reads the ballot results after the chair asks her to [1205-1218], that cluster uncertain)"
+  },
+  "1207": {
+   "name": "Mary Woodman",
+   "role": "School district clerk and board recording secretary (administers the oath after the superintendent asks 'Mrs. Woodman' to assist [1]; calls the roll [63-73]; reads the ballot results after the chair asks her to [1205-1218], that cluster uncertain)"
+  },
+  "299": {
+   "name": "Middleton McGoodwin",
+   "role": "Superintendent, SAU 6 (presides over the swearing-in and the chair election [0-44], then gives the superintendent's report after the chair's 'Thank you. Superintendent' [133-134]; addressed as 'Middleton' [285])"
+  },
+  "392": {
+   "name": "Liza Draper",
+   "role": "Public commenter, Ward 3; TLC Family Resource Center (self-identified [361])"
+  },
+  "632": {
+   "name": "Cory LeClair",
+   "role": "Assistant Superintendent, SAU 6 (chair: 'Other questions for Corey' [694]; members address 'Corey' [725, 741])"
+  },
+  "636": {
+   "name": "Cory LeClair",
+   "role": "Assistant Superintendent, SAU 6 (chair: 'Other questions for Corey' [694]; members address 'Corey' [725, 741])"
+  },
+  "606": {
+   "name": "Cory LeClair",
+   "role": "Assistant Superintendent, SAU 6 (chair: 'Other questions for Corey' [694]; members address 'Corey' [725, 741])"
+  },
+  "613": {
+   "name": "Cory LeClair",
+   "role": "Assistant Superintendent, SAU 6 (chair: 'Other questions for Corey' [694]; members address 'Corey' [725, 741])"
+  },
+  "631": {
+   "name": "Cory LeClair",
+   "role": "Assistant Superintendent, SAU 6 (chair: 'Other questions for Corey' [694]; members address 'Corey' [725, 741])"
+  },
+  "807": {
+   "name": "Cory LeClair",
+   "role": "Assistant Superintendent, SAU 6 (chair: 'Other questions for Corey' [694]; members address 'Corey' [725, 741])"
+  },
+  "865": {
+   "name": "Cory LeClair",
+   "role": "Assistant Superintendent, SAU 6 (chair: 'Other questions for Corey' [694]; members address 'Corey' [725, 741])"
+  },
+  "941": {
+   "name": "Cory LeClair",
+   "role": "Assistant Superintendent, SAU 6 (chair: 'Other questions for Corey' [694]; members address 'Corey' [725, 741])"
+  },
+  "616": {
+   "name": "Cory LeClair",
+   "role": "Assistant Superintendent, SAU 6 (chair: 'Other questions for Corey' [694]; members address 'Corey' [725, 741])"
+  },
+  "659": {
+   "name": "Cory LeClair",
+   "role": "Assistant Superintendent, SAU 6 (chair: 'Other questions for Corey' [694]; members address 'Corey' [725, 741])"
+  },
+  "661": {
+   "name": "Cory LeClair",
+   "role": "Assistant Superintendent, SAU 6 (chair: 'Other questions for Corey' [694]; members address 'Corey' [725, 741])"
+  },
+  "773": {
+   "name": "Cory LeClair",
+   "role": "Assistant Superintendent, SAU 6 (chair: 'Other questions for Corey' [694]; members address 'Corey' [725, 741])"
+  },
+  "381": {
+   "name": "Paul",
+   "role": "Public commenter, Ward 2 (first name from Joe Osgood's 'what Paul just said' [387]; surname heard as 'Mr. Lucas' [453], 'Mr. Lacus' [458], 'Paula, cars' [555]; spelling unverified)"
+  },
+  "454": {
+   "name": "Paul",
+   "role": "Public commenter, Ward 2 (first name from Joe Osgood's 'what Paul just said' [387]; surname heard as 'Mr. Lucas' [453], 'Mr. Lacus' [458], 'Paula, cars' [555]; spelling unverified)"
+  },
+  "624": {
+   "name": "Paul",
+   "role": "Public commenter, Ward 2 (first name from Joe Osgood's 'what Paul just said' [387]; surname heard as 'Mr. Lucas' [453], 'Mr. Lacus' [458], 'Paula, cars' [555]; spelling unverified)"
+  },
+  "642": {
+   "name": "Paul",
+   "role": "Public commenter, Ward 2 (first name from Joe Osgood's 'what Paul just said' [387]; surname heard as 'Mr. Lucas' [453], 'Mr. Lacus' [458], 'Paula, cars' [555]; spelling unverified)"
+  },
+  "645": {
+   "name": "Paul",
+   "role": "Public commenter, Ward 2 (first name from Joe Osgood's 'what Paul just said' [387]; surname heard as 'Mr. Lucas' [453], 'Mr. Lacus' [458], 'Paula, cars' [555]; spelling unverified)"
+  },
+  "650": {
+   "name": "Paul",
+   "role": "Public commenter, Ward 2 (first name from Joe Osgood's 'what Paul just said' [387]; surname heard as 'Mr. Lucas' [453], 'Mr. Lacus' [458], 'Paula, cars' [555]; spelling unverified)"
+  },
+  "1244": {
+   "name": "Unidentified",
+   "role": "Unidentified - cross-talk echo"
+  },
+  "1251": {
+   "name": "Unidentified",
+   "role": "Unidentified - cross-talk echo"
+  }
+ }
+}

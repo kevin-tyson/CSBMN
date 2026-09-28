@@ -1,0 +1,544 @@
+{
+ "Speaker 1": {
+  "name": "Michael Petrin",
+  "role": "School Board Vice Chair, presiding at the opening — Chair Whitney was running late (identified by office and by elimination among the male members; no one names him on the recording)"
+ },
+ "Speaker 2": {
+  "name": "Kerry Kennedy",
+  "role": "Interim Superintendent, SAU 6"
+ },
+ "Speaker 3": {
+  "name": "Noelle Kronberg",
+  "role": "School Board Clerk (calls the roll; members' spoken responses are merged into the same segment)"
+ },
+ "Speaker 4": {
+  "name": "Matt Bean",
+  "role": "Citizen commenter, Ward 1 (self-identified; ASR renders the name 'Matt. Been')"
+ },
+ "Speaker 5": {
+  "name": "Hope Damon",
+  "role": "State Representative, New Hampshire House (self-identified: 'State representative Hope Damon')"
+ },
+ "Speaker 6": {
+  "name": "Frank Sprague",
+  "role": "School Board Member (merged male cluster — William 'Bill' Madden reassigned by override)"
+ },
+ "Speaker 7": {
+  "name": "Matt Angell",
+  "role": "Interim Business Administrator, SAU 6"
+ },
+ "Speaker 8": {
+  "name": "Unidentified public commenter",
+  "role": "Citizen commenter, Ward 1 — adds the 2018 winter cheer state runner-up title to the athletics list; self-identification rendered by ASR as 'Media. Ryan's ward' and not recoverable"
+ },
+ "Speaker 9": {
+  "name": "Noelle Kronberg",
+  "role": "School Board Clerk"
+ },
+ "Speaker 10": {
+  "name": "Michael Petrin",
+  "role": "School Board Vice Chair"
+ },
+ "Speaker 11": {
+  "name": "Loren Howard",
+  "role": "School Board Member"
+ },
+ "Speaker 12": {
+  "name": "Heather Whitney",
+  "role": "School Board Chair"
+ },
+ "Speaker 13": {
+  "name": "Candace Crawford",
+  "role": "School Board Member; Capital Improvement Committee Chair; Finance Subcommittee Chair"
+ },
+ "Speaker 14": {
+  "name": "Melissa Lewis",
+  "role": "Principal, Disnard Elementary School (handed the floor as 'Melissa' by the Interim Superintendent at seg 275; speaks as the building leader whose school piloted the program)"
+ },
+ "Speaker 15": {
+  "name": "Unidentified board member",
+  "role": "Board member's question during the reading-program discussion; one-segment cluster not matched to any voice"
+ },
+ "Speaker 16": {
+  "name": "Michelle Herrington",
+  "role": "Assistant Director, Sugar River Valley Regional Technical Center (addressed as 'Miss Harrington' by the Interim Superintendent at seg 362)"
+ },
+ "__overrides__": {
+  "82": {
+   "name": "Heather Whitney",
+   "role": "School Board Chair"
+  },
+  "86": {
+   "name": "Heather Whitney",
+   "role": "School Board Chair"
+  },
+  "100": {
+   "name": "Heather Whitney",
+   "role": "School Board Chair"
+  },
+  "102": {
+   "name": "Heather Whitney",
+   "role": "School Board Chair"
+  },
+  "111": {
+   "name": "Heather Whitney",
+   "role": "School Board Chair"
+  },
+  "113": {
+   "name": "Heather Whitney",
+   "role": "School Board Chair"
+  },
+  "118": {
+   "name": "Heather Whitney",
+   "role": "School Board Chair"
+  },
+  "121": {
+   "name": "Heather Whitney",
+   "role": "School Board Chair"
+  },
+  "131": {
+   "name": "Heather Whitney",
+   "role": "School Board Chair"
+  },
+  "133": {
+   "name": "Heather Whitney",
+   "role": "School Board Chair"
+  },
+  "135": {
+   "name": "Heather Whitney",
+   "role": "School Board Chair"
+  },
+  "136": {
+   "name": "Heather Whitney",
+   "role": "School Board Chair"
+  },
+  "159": {
+   "name": "Heather Whitney",
+   "role": "School Board Chair"
+  },
+  "162": {
+   "name": "Heather Whitney",
+   "role": "School Board Chair"
+  },
+  "84": {
+   "name": "Heather Whitney",
+   "role": "School Board Chair (the next commenter's self-identification is absorbed at the tail of this segment)"
+  },
+  "87": {
+   "name": "Heather Whitney",
+   "role": "School Board Chair (closes the first round of citizens' comments)"
+  },
+  "101": {
+   "name": "Heather Whitney",
+   "role": "School Board Chair (first remarks after arriving late — 'I apologize for the hat')"
+  },
+  "115": {
+   "name": "Heather Whitney",
+   "role": "School Board Chair (reads the motion into the record; the phrase 'our board chair' echoes the Business Administrator's request)"
+  },
+  "123": {
+   "name": "Heather Whitney",
+   "role": "School Board Chair (segment also carries a member's second and crosstalk)"
+  },
+  "164": {
+   "name": "Heather Whitney",
+   "role": "School Board Chair (sentence continuation clipped into a neighbouring cluster)"
+  },
+  "246": {
+   "name": "Heather Whitney",
+   "role": "School Board Chair (sentence continuation clipped into a neighbouring cluster)"
+  },
+  "310": {
+   "name": "Heather Whitney",
+   "role": "School Board Chair (sentence continuation clipped into a neighbouring cluster)"
+  },
+  "316": {
+   "name": "Heather Whitney",
+   "role": "School Board Chair (sentence continuation clipped into a neighbouring cluster)"
+  },
+  "336": {
+   "name": "Heather Whitney",
+   "role": "School Board Chair (sentence continuation clipped into a neighbouring cluster)"
+  },
+  "407": {
+   "name": "Heather Whitney",
+   "role": "School Board Chair (sentence continuation clipped into a neighbouring cluster)"
+  },
+  "416": {
+   "name": "Heather Whitney",
+   "role": "School Board Chair (recognizes the next speaker; recognition absorbed into the Clerk's cluster)"
+  },
+  "7": {
+   "name": "Kerry Kennedy",
+   "role": "Interim Superintendent, SAU 6 (sentence onset clipped into the Clerk's cluster)"
+  },
+  "363": {
+   "name": "Kerry Kennedy",
+   "role": "Interim Superintendent, SAU 6 (sentence continuation)"
+  },
+  "374": {
+   "name": "Kerry Kennedy",
+   "role": "Interim Superintendent, SAU 6 (sentence continuation)"
+  },
+  "11": {
+   "name": "Kerry Kennedy",
+   "role": "Interim Superintendent, SAU 6 (uncertain — a correction to the 1/21/26 minutes offered from the table; could be a board member sharing this diarized cluster)"
+  },
+  "138": {
+   "name": "Kerry Kennedy",
+   "role": "Interim Superintendent, SAU 6 (the Chair's transition to follow-up items is absorbed at the head of this segment)"
+  },
+  "276": {
+   "name": "Melissa Lewis",
+   "role": "Principal, Disnard Elementary School (handed the floor as 'Melissa' by the Interim Superintendent at seg 275; speaks as the building leader whose school piloted the program) — segment onset"
+  },
+  "277": {
+   "name": "Melissa Lewis",
+   "role": "Principal, Disnard Elementary School (handed the floor as 'Melissa' by the Interim Superintendent at seg 275; speaks as the building leader whose school piloted the program)"
+  },
+  "278": {
+   "name": "Melissa Lewis",
+   "role": "Principal, Disnard Elementary School (handed the floor as 'Melissa' by the Interim Superintendent at seg 275; speaks as the building leader whose school piloted the program)"
+  },
+  "279": {
+   "name": "Melissa Lewis",
+   "role": "Principal, Disnard Elementary School (handed the floor as 'Melissa' by the Interim Superintendent at seg 275; speaks as the building leader whose school piloted the program)"
+  },
+  "280": {
+   "name": "Melissa Lewis",
+   "role": "Principal, Disnard Elementary School (handed the floor as 'Melissa' by the Interim Superintendent at seg 275; speaks as the building leader whose school piloted the program)"
+  },
+  "281": {
+   "name": "Melissa Lewis",
+   "role": "Principal, Disnard Elementary School (handed the floor as 'Melissa' by the Interim Superintendent at seg 275; speaks as the building leader whose school piloted the program)"
+  },
+  "282": {
+   "name": "Melissa Lewis",
+   "role": "Principal, Disnard Elementary School (handed the floor as 'Melissa' by the Interim Superintendent at seg 275; speaks as the building leader whose school piloted the program)"
+  },
+  "283": {
+   "name": "Melissa Lewis",
+   "role": "Principal, Disnard Elementary School (handed the floor as 'Melissa' by the Interim Superintendent at seg 275; speaks as the building leader whose school piloted the program)"
+  },
+  "284": {
+   "name": "Melissa Lewis",
+   "role": "Principal, Disnard Elementary School (handed the floor as 'Melissa' by the Interim Superintendent at seg 275; speaks as the building leader whose school piloted the program)"
+  },
+  "286": {
+   "name": "Melissa Lewis",
+   "role": "Principal, Disnard Elementary School (handed the floor as 'Melissa' by the Interim Superintendent at seg 275; speaks as the building leader whose school piloted the program)"
+  },
+  "288": {
+   "name": "Melissa Lewis",
+   "role": "Principal, Disnard Elementary School (handed the floor as 'Melissa' by the Interim Superintendent at seg 275; speaks as the building leader whose school piloted the program)"
+  },
+  "290": {
+   "name": "Melissa Lewis",
+   "role": "Principal, Disnard Elementary School (handed the floor as 'Melissa' by the Interim Superintendent at seg 275; speaks as the building leader whose school piloted the program)"
+  },
+  "292": {
+   "name": "Melissa Lewis",
+   "role": "Principal, Disnard Elementary School (handed the floor as 'Melissa' by the Interim Superintendent at seg 275; speaks as the building leader whose school piloted the program)"
+  },
+  "293": {
+   "name": "Melissa Lewis",
+   "role": "Principal, Disnard Elementary School (handed the floor as 'Melissa' by the Interim Superintendent at seg 275; speaks as the building leader whose school piloted the program)"
+  },
+  "297": {
+   "name": "Melissa Lewis",
+   "role": "Principal, Disnard Elementary School (handed the floor as 'Melissa' by the Interim Superintendent at seg 275; speaks as the building leader whose school piloted the program)"
+  },
+  "299": {
+   "name": "Melissa Lewis",
+   "role": "Principal, Disnard Elementary School (handed the floor as 'Melissa' by the Interim Superintendent at seg 275; speaks as the building leader whose school piloted the program)"
+  },
+  "300": {
+   "name": "Melissa Lewis",
+   "role": "Principal, Disnard Elementary School (handed the floor as 'Melissa' by the Interim Superintendent at seg 275; speaks as the building leader whose school piloted the program)"
+  },
+  "301": {
+   "name": "Melissa Lewis",
+   "role": "Principal, Disnard Elementary School (handed the floor as 'Melissa' by the Interim Superintendent at seg 275; speaks as the building leader whose school piloted the program)"
+  },
+  "302": {
+   "name": "Melissa Lewis",
+   "role": "Principal, Disnard Elementary School (handed the floor as 'Melissa' by the Interim Superintendent at seg 275; speaks as the building leader whose school piloted the program)"
+  },
+  "304": {
+   "name": "Melissa Lewis",
+   "role": "Principal, Disnard Elementary School (handed the floor as 'Melissa' by the Interim Superintendent at seg 275; speaks as the building leader whose school piloted the program)"
+  },
+  "306": {
+   "name": "Melissa Lewis",
+   "role": "Principal, Disnard Elementary School (handed the floor as 'Melissa' by the Interim Superintendent at seg 275; speaks as the building leader whose school piloted the program)"
+  },
+  "307": {
+   "name": "Melissa Lewis",
+   "role": "Principal, Disnard Elementary School (handed the floor as 'Melissa' by the Interim Superintendent at seg 275; speaks as the building leader whose school piloted the program)"
+  },
+  "314": {
+   "name": "Melissa Lewis",
+   "role": "Principal, Disnard Elementary School (handed the floor as 'Melissa' by the Interim Superintendent at seg 275; speaks as the building leader whose school piloted the program)"
+  },
+  "14": {
+   "name": "Don Lavalette",
+   "role": "Citizen commenter, Ward 2; declared School Board candidate (self-identified as 'Don ... Ward two') (the presiding officer's 'Good evening' is absorbed at the head of this segment)"
+  },
+  "15": {
+   "name": "Don Lavalette",
+   "role": "Citizen commenter, Ward 2; declared School Board candidate (self-identified as 'Don ... Ward two')"
+  },
+  "16": {
+   "name": "Don Lavalette",
+   "role": "Citizen commenter, Ward 2; declared School Board candidate (self-identified as 'Don ... Ward two')"
+  },
+  "17": {
+   "name": "Don Lavalette",
+   "role": "Citizen commenter, Ward 2; declared School Board candidate (self-identified as 'Don ... Ward two')"
+  },
+  "18": {
+   "name": "Don Lavalette",
+   "role": "Citizen commenter, Ward 2; declared School Board candidate (self-identified as 'Don ... Ward two')"
+  },
+  "19": {
+   "name": "Don Lavalette",
+   "role": "Citizen commenter, Ward 2; declared School Board candidate (self-identified as 'Don ... Ward two')"
+  },
+  "20": {
+   "name": "Don Lavalette",
+   "role": "Citizen commenter, Ward 2; declared School Board candidate (self-identified as 'Don ... Ward two')"
+  },
+  "21": {
+   "name": "Don Lavalette",
+   "role": "Citizen commenter, Ward 2; declared School Board candidate (self-identified as 'Don ... Ward two')"
+  },
+  "88": {
+   "name": "Unidentified state representative",
+   "role": "State Representative addressing the board in citizens' comments — prime sponsor of House Resolution 40 on state funding of an adequate education; never states his name and the Chair's introduction was not captured"
+  },
+  "90": {
+   "name": "Unidentified state representative",
+   "role": "State Representative addressing the board in citizens' comments — prime sponsor of House Resolution 40 on state funding of an adequate education; never states his name and the Chair's introduction was not captured"
+  },
+  "91": {
+   "name": "Unidentified state representative",
+   "role": "State Representative addressing the board in citizens' comments — prime sponsor of House Resolution 40 on state funding of an adequate education; never states his name and the Chair's introduction was not captured"
+  },
+  "92": {
+   "name": "Unidentified state representative",
+   "role": "State Representative addressing the board in citizens' comments — prime sponsor of House Resolution 40 on state funding of an adequate education; never states his name and the Chair's introduction was not captured"
+  },
+  "93": {
+   "name": "Unidentified state representative",
+   "role": "State Representative addressing the board in citizens' comments — prime sponsor of House Resolution 40 on state funding of an adequate education; never states his name and the Chair's introduction was not captured"
+  },
+  "94": {
+   "name": "Unidentified state representative",
+   "role": "State Representative addressing the board in citizens' comments — prime sponsor of House Resolution 40 on state funding of an adequate education; never states his name and the Chair's introduction was not captured"
+  },
+  "95": {
+   "name": "Unidentified state representative",
+   "role": "State Representative addressing the board in citizens' comments — prime sponsor of House Resolution 40 on state funding of an adequate education; never states his name and the Chair's introduction was not captured"
+  },
+  "96": {
+   "name": "Unidentified state representative",
+   "role": "State Representative addressing the board in citizens' comments — prime sponsor of House Resolution 40 on state funding of an adequate education; never states his name and the Chair's introduction was not captured"
+  },
+  "97": {
+   "name": "Unidentified state representative",
+   "role": "State Representative addressing the board in citizens' comments — prime sponsor of House Resolution 40 on state funding of an adequate education; never states his name and the Chair's introduction was not captured"
+  },
+  "98": {
+   "name": "Unidentified state representative",
+   "role": "State Representative addressing the board in citizens' comments — prime sponsor of House Resolution 40 on state funding of an adequate education; never states his name and the Chair's introduction was not captured"
+  },
+  "99": {
+   "name": "Unidentified state representative",
+   "role": "State Representative addressing the board in citizens' comments — prime sponsor of House Resolution 40 on state funding of an adequate education; never states his name and the Chair's introduction was not captured"
+  },
+  "89": {
+   "name": "Unidentified state representative",
+   "role": "State Representative addressing the board in citizens' comments — prime sponsor of House Resolution 40 on state funding of an adequate education; never states his name and the Chair's introduction was not captured — sub-second onset clip"
+  },
+  "46": {
+   "name": "Frank Sprague",
+   "role": "School Board Member (sentence continuation — 'I was actually the principal at Stevens when ...')"
+  },
+  "75": {
+   "name": "Matt Angell",
+   "role": "Interim Business Administrator, SAU 6 (sentence onset/continuation clipped into a neighbouring cluster)"
+  },
+  "117": {
+   "name": "Matt Angell",
+   "role": "Interim Business Administrator, SAU 6 (sentence onset/continuation clipped into a neighbouring cluster)"
+  },
+  "120": {
+   "name": "Matt Angell",
+   "role": "Interim Business Administrator, SAU 6 (sentence onset/continuation clipped into a neighbouring cluster)"
+  },
+  "107": {
+   "name": "Matt Angell",
+   "role": "Interim Business Administrator, SAU 6 (sentence continuation)"
+  },
+  "64": {
+   "name": "Hope Damon",
+   "role": "State Representative, New Hampshire House (self-identified: 'State representative Hope Damon') (sub-second fragment inside her own remarks)"
+  },
+  "178": {
+   "name": "Candace Crawford",
+   "role": "School Board Member; Capital Improvement Committee Chair; Finance Subcommittee Chair (sentence onset clipped into a neighbouring cluster)"
+  },
+  "418": {
+   "name": "Loren Howard",
+   "role": "School Board Member (sentence continuation)"
+  },
+  "344": {
+   "name": "William 'Bill' Madden",
+   "role": "School Board Member (reports for the executive-leadership ad hoc subcommittee; 'Frank joined us' rules out Mr. Sprague)"
+  },
+  "346": {
+   "name": "William 'Bill' Madden",
+   "role": "School Board Member (reports for the executive-leadership ad hoc subcommittee; 'Frank joined us' rules out Mr. Sprague)"
+  },
+  "348": {
+   "name": "William 'Bill' Madden",
+   "role": "School Board Member (reports for the executive-leadership ad hoc subcommittee; 'Frank joined us' rules out Mr. Sprague)"
+  },
+  "349": {
+   "name": "William 'Bill' Madden",
+   "role": "School Board Member (reports for the executive-leadership ad hoc subcommittee; 'Frank joined us' rules out Mr. Sprague)"
+  },
+  "350": {
+   "name": "William 'Bill' Madden",
+   "role": "School Board Member (reports for the executive-leadership ad hoc subcommittee; 'Frank joined us' rules out Mr. Sprague)"
+  },
+  "351": {
+   "name": "William 'Bill' Madden",
+   "role": "School Board Member (reports for the executive-leadership ad hoc subcommittee; 'Frank joined us' rules out Mr. Sprague)"
+  },
+  "352": {
+   "name": "William 'Bill' Madden",
+   "role": "School Board Member (reports for the executive-leadership ad hoc subcommittee; 'Frank joined us' rules out Mr. Sprague)"
+  },
+  "353": {
+   "name": "William 'Bill' Madden",
+   "role": "School Board Member (reports for the executive-leadership ad hoc subcommittee; 'Frank joined us' rules out Mr. Sprague)"
+  },
+  "354": {
+   "name": "William 'Bill' Madden",
+   "role": "School Board Member (reports for the executive-leadership ad hoc subcommittee; 'Frank joined us' rules out Mr. Sprague)"
+  },
+  "356": {
+   "name": "William 'Bill' Madden",
+   "role": "School Board Member (reports for the executive-leadership ad hoc subcommittee; 'Frank joined us' rules out Mr. Sprague)"
+  },
+  "358": {
+   "name": "William 'Bill' Madden",
+   "role": "School Board Member (reports for the executive-leadership ad hoc subcommittee; 'Frank joined us' rules out Mr. Sprague)"
+  },
+  "345": {
+   "name": "William 'Bill' Madden",
+   "role": "School Board Member (same sentence, split into the legislator's cluster)"
+  },
+  "347": {
+   "name": "William 'Bill' Madden",
+   "role": "School Board Member (same sentence, split into the legislator's cluster)"
+  },
+  "409": {
+   "name": "William 'Bill' Madden",
+   "role": "School Board Member (recognized by the Chair as 'Mr. Madden' at seg 408)"
+  },
+  "411": {
+   "name": "William 'Bill' Madden",
+   "role": "School Board Member (recognized by the Chair as 'Mr. Madden' at seg 408)"
+  },
+  "326": {
+   "name": "Arlene Hawkins",
+   "role": "School Board Member; Policy Subcommittee Chair (the Chair's subcommittee-report transition and the 'Miss Hawkins' recognition are absorbed at the head of this segment)"
+  },
+  "327": {
+   "name": "Arlene Hawkins",
+   "role": "School Board Member; Policy Subcommittee Chair"
+  },
+  "332": {
+   "name": "Arlene Hawkins",
+   "role": "School Board Member; Policy Subcommittee Chair (continues the policy-subcommittee report after the Chair calls the vote in the previous segment)"
+  },
+  "230": {
+   "name": "Frank Sprague",
+   "role": "School Board Member (uncertain — makes the motion; the Chair does not name the mover and this cluster also carries Mr. Madden's voice)"
+  },
+  "328": {
+   "name": "Frank Sprague",
+   "role": "School Board Member (uncertain — makes the motion; the Chair does not name the mover and this cluster also carries Mr. Madden's voice)"
+  },
+  "166": {
+   "name": "Multiple",
+   "role": "Roll-call vote responses — seven 'yes' answers each time; individual voices not separable"
+  },
+  "167": {
+   "name": "Multiple",
+   "role": "Roll-call vote responses — seven 'yes' answers each time; individual voices not separable"
+  },
+  "170": {
+   "name": "Multiple",
+   "role": "Roll-call vote responses — seven 'yes' answers each time; individual voices not separable"
+  },
+  "171": {
+   "name": "Multiple",
+   "role": "Roll-call vote responses — seven 'yes' answers each time; individual voices not separable"
+  },
+  "172": {
+   "name": "Multiple",
+   "role": "Roll-call vote responses — seven 'yes' answers each time; individual voices not separable"
+  },
+  "134": {
+   "name": "Multiple",
+   "role": "Voice vote (chorus 'aye')"
+  },
+  "234": {
+   "name": "Multiple",
+   "role": "Voice vote (chorus 'aye')"
+  },
+  "22": {
+   "name": "Unidentified",
+   "role": "(uncertain — brief 'thank you' after a public comment; falls in the Interim Superintendent's cluster and the Chair had not yet taken over)"
+  },
+  "57": {
+   "name": "Unidentified",
+   "role": "(uncertain — one-word answer 'Ten-thirty' from the table during the legislator's exchange)"
+  },
+  "168": {
+   "name": "Unidentified",
+   "role": "(uncertain — brief announcement between the two nonpublic roll calls, heard as 'It is called'; voice not separable)"
+  },
+  "366": {
+   "name": "Unidentified",
+   "role": "(sub-second reaction during the tech-center announcement; voice not separable)"
+  },
+  "1": {
+   "name": "Michael Petrin",
+   "role": "School Board Vice Chair, presiding at the opening — Chair Whitney was running late (identified by office and by elimination among the male members; no one names him on the recording) — leads the Pledge of Allegiance; group recitation captured as one voice"
+  },
+  "61": {
+   "name": "Hope Damon",
+   "role": "State Representative, New Hampshire House (self-identified: 'State representative Hope Damon') (sentence continuation — chains into 'Monday and it's in ...')"
+  },
+  "218": {
+   "name": "Michael Petrin",
+   "role": "School Board Vice Chair (sentence continuation — completes 'we need to ... live within it')"
+  },
+  "305": {
+   "name": "Melissa Lewis",
+   "role": "Principal, Disnard Elementary School (handed the floor as 'Melissa' by the Interim Superintendent at seg 275; speaks as the building leader whose school piloted the program) — sentence continuation (0.01 s from her previous segment)"
+  },
+  "414": {
+   "name": "William 'Bill' Madden",
+   "role": "School Board Member (uncertain — merged male cluster; brief interjection during the Interim Superintendent's remarks)"
+  },
+  "190": {
+   "name": "Frank Sprague",
+   "role": "School Board Member (uncertain — merged male cluster shared with Mr. Madden; the 'former coach myself at Stevens' reference fits Mr. Sprague, who identifies as a former Stevens principal at seg 49)"
+  }
+ }
+}

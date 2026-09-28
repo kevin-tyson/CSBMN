@@ -1,0 +1,380 @@
+{
+ "Speaker 1": {
+  "name": "Unidentified",
+  "role": "Unidentified - single fragment before the call to order"
+ },
+ "Speaker 2": {
+  "name": "Frank Sprague",
+  "role": "Claremont School Board Chair"
+ },
+ "Speaker 3": {
+  "name": "John Lambert",
+  "role": "Public commenter, Ward 2 (ASR 'John Labor'; chair calls him 'Mr. Lamberts' at [59])"
+ },
+ "Speaker 4": {
+  "name": "Richard Seaman",
+  "role": "Assistant Superintendent for Finance, SAU 6 (presents the FY23 budget; chair then asks the superintendent or assistant superintendent for additions at [43])"
+ },
+ "Speaker 5": {
+  "name": "John Lambert",
+  "role": "Public commenter, Ward 2 (ASR 'John Labor'; chair calls him 'Mr. Lamberts' at [59])"
+ },
+ "Speaker 6": {
+  "name": "Heather Whitney",
+  "role": "Claremont School Board member (a commenter cites 'what Heather said' at [296] about her remarks at [254])"
+ },
+ "Speaker 7": {
+  "name": "Unidentified",
+  "role": "Unidentified - cluster mixes several voices (onsets, an audience member at [293]-[298]); see overrides"
+ },
+ "Speaker 8": {
+  "name": "Kip Ryan",
+  "role": "Public commenter, Ward 2 (uncertain - self-ID heard only as 'Ryan, also Ward two' at [65]; later speakers call him 'Kip' at [133] and [161])"
+ },
+ "Speaker 9": {
+  "name": "Bonnie Miles",
+  "role": "Public commenter, Ward 2 (self-identified at [78]); elected to the board March 2022"
+ },
+ "Speaker 10": {
+  "name": "Matt Bean",
+  "role": "Public commenter, Ward 1, paraprofessional (ASR 'Mr. Bean', 'Matt, been'; spelling uncertain)"
+ },
+ "Speaker 11": {
+  "name": "Matt Bean",
+  "role": "Public commenter, Ward 1, paraprofessional (ASR 'Mr. Bean', 'Matt, been'; spelling uncertain)"
+ },
+ "Speaker 12": {
+  "name": "Jason Benware",
+  "role": "Public commenter, Ward 1; former Claremont School Board member (ASR 'Jason. Ben', chair 'Mr. Bender')"
+ },
+ "Speaker 13": {
+  "name": "Mimi Ryan",
+  "role": "Public commenter, Ward 1, Stevens High School counselor (ASR 'Mimi Ryan's')"
+ },
+ "Speaker 14": {
+  "name": "Unidentified",
+  "role": "Unidentified - cluster mixes post-comment thanks, roll-call calls and answers, votes and audience remarks; see overrides"
+ },
+ "Speaker 15": {
+  "name": "Josh",
+  "role": "Public commenter, Ward 3 (first name only on the record)"
+ },
+ "Speaker 16": {
+  "name": "Jeanette Rourke",
+  "role": "Public commenter, Ward 1 (ASR 'Jeanette. Rourke'; spelling uncertain)"
+ },
+ "Speaker 17": {
+  "name": "Kelly Fontaine",
+  "role": "Public commenter, Ward 1, Stevens life skills teacher"
+ },
+ "Speaker 18": {
+  "name": "Hilary Walch",
+  "role": "Public commenter, Ward 1, Stevens High School teacher (ASR 'Hilary Walch'; spelling uncertain)"
+ },
+ "Speaker 19": {
+  "name": "Whitney Skillen",
+  "role": "Public commenter, Ward 2 (ASR 'Whitney Skilling'); elected to the board March 2022"
+ },
+ "Speaker 20": {
+  "name": "Renee",
+  "role": "Public commenter, Ward 2, salon owner (chair calls her 'Renee' at [151]; self-ID heard as 'Ian Gates, Ward two' at [152]; surname uncertain)"
+ },
+ "Speaker 21": {
+  "name": "Derek Ferland",
+  "role": "Public commenter, Ward 3"
+ },
+ "Speaker 22": {
+  "name": "Allen Damren",
+  "role": "Public commenter, Ward 1 (ASR 'Alan. Damron'); former Assistant Mayor"
+ },
+ "Speaker 23": {
+  "name": "Scott Pope",
+  "role": "Public commenter, Ward 2; tech center engineering and machine tool instructor (per his own remarks)"
+ },
+ "Speaker 24": {
+  "name": "Julie Scala",
+  "role": "Public commenter, Stevens graduate (ASR 'Julie Scala'; ward not stated; spelling uncertain)"
+ },
+ "Speaker 25": {
+  "name": "Whitney Skillen",
+  "role": "Public commenter, Ward 2 (ASR 'Whitney Skilling'); elected to the board March 2022"
+ },
+ "Speaker 26": {
+  "name": "Alex Herzog",
+  "role": "Director, Sugar River Valley Regional Technical Center (self-identified at [311])"
+ },
+ "Speaker 27": {
+  "name": "Scott Pope",
+  "role": "Public commenter, Ward 2; tech center engineering and machine tool instructor (per his own remarks)"
+ },
+ "Speaker 28": {
+  "name": "Joshua Lambert",
+  "role": "Claremont School Board member (self-reference 'Josh throwing a quick in there' at [406])"
+ },
+ "Speaker 29": {
+  "name": "Rob Lovett Jr.",
+  "role": "Claremont School Board member (chair credits 'Rob made the motion' at [358] for [356]; rest of cluster medium confidence)"
+ },
+ "Speaker 30": {
+  "name": "Steven Horsky",
+  "role": "Claremont School Board member (recognized 'Steve' at [393] and [503])"
+ },
+ "Speaker 31": {
+  "name": "Mary Woodman",
+  "role": "School district clerk and board recording secretary (uncertain - speaks of 'my position as secretary' on the ballot at [453])"
+ },
+ "Speaker 32": {
+  "name": "Unidentified",
+  "role": "Unidentified - short remarks on ballot filing (possibly an administrator); see report"
+ },
+ "__overrides__": {
+  "3": {
+   "name": "Unidentified",
+   "role": "Unidentified - group response to the Pledge of Allegiance"
+  },
+  "7": {
+   "name": "Unidentified",
+   "role": "Unidentified - brief reply to the chair before the budget overview"
+  },
+  "44": {
+   "name": "Unidentified",
+   "role": "Unidentified - asks the business administrator to return to the district assessment (possibly a board member)"
+  },
+  "46": {
+   "name": "Unidentified",
+   "role": "Unidentified - asks the business administrator to return to the district assessment (possibly a board member)"
+  },
+  "49": {
+   "name": "Unidentified",
+   "role": "Unidentified - recognition fragment before the first commenter"
+  },
+  "284": {
+   "name": "Michael Tempesta",
+   "role": "Superintendent, SAU 6 (uncertain - voice clustered with the business administrator; content matches his 2/2/22 tech center remarks)"
+  },
+  "285": {
+   "name": "Michael Tempesta",
+   "role": "Superintendent, SAU 6 (uncertain - voice clustered with the business administrator; content matches his 2/2/22 tech center remarks)"
+  },
+  "286": {
+   "name": "Michael Tempesta",
+   "role": "Superintendent, SAU 6 (uncertain - voice clustered with the business administrator; content matches his 2/2/22 tech center remarks)"
+  },
+  "287": {
+   "name": "Michael Tempesta",
+   "role": "Superintendent, SAU 6 (uncertain - voice clustered with the business administrator; content matches his 2/2/22 tech center remarks)"
+  },
+  "288": {
+   "name": "Michael Tempesta",
+   "role": "Superintendent, SAU 6 (uncertain - voice clustered with the business administrator; content matches his 2/2/22 tech center remarks)"
+  },
+  "289": {
+   "name": "Michael Tempesta",
+   "role": "Superintendent, SAU 6 (uncertain - voice clustered with the business administrator; content matches his 2/2/22 tech center remarks)"
+  },
+  "290": {
+   "name": "Michael Tempesta",
+   "role": "Superintendent, SAU 6 (uncertain - voice clustered with the business administrator; content matches his 2/2/22 tech center remarks)"
+  },
+  "291": {
+   "name": "Michael Tempesta",
+   "role": "Superintendent, SAU 6 (uncertain - voice clustered with the business administrator; content matches his 2/2/22 tech center remarks)"
+  },
+  "292": {
+   "name": "Michael Tempesta",
+   "role": "Superintendent, SAU 6 (uncertain - voice clustered with the business administrator; content matches his 2/2/22 tech center remarks)"
+  },
+  "152": {
+   "name": "Renee",
+   "role": "Public commenter, Ward 2, salon owner (chair calls her 'Renee' at [151]; self-ID heard as 'Ian Gates, Ward two' at [152]; surname uncertain)"
+  },
+  "106": {
+   "name": "Ben Nester",
+   "role": "Director of Special Education, SAU 6 (answers the chair's 'Hey, Ben' at [104])"
+  },
+  "130": {
+   "name": "Michael Demers",
+   "role": "Public commenter, Ward 3 (self-ID 'Michael Ward three' at [130]; surname from Scott Pope's 'Mr. Demers mentioned his father' at [189], spelling uncertain)"
+  },
+  "131": {
+   "name": "Michael Demers",
+   "role": "Public commenter, Ward 3 (self-ID 'Michael Ward three' at [130]; surname from Scott Pope's 'Mr. Demers mentioned his father' at [189], spelling uncertain)"
+  },
+  "132": {
+   "name": "Michael Demers",
+   "role": "Public commenter, Ward 3 (self-ID 'Michael Ward three' at [130]; surname from Scott Pope's 'Mr. Demers mentioned his father' at [189], spelling uncertain)"
+  },
+  "133": {
+   "name": "Michael Demers",
+   "role": "Public commenter, Ward 3 (self-ID 'Michael Ward three' at [130]; surname from Scott Pope's 'Mr. Demers mentioned his father' at [189], spelling uncertain)"
+  },
+  "134": {
+   "name": "Michael Demers",
+   "role": "Public commenter, Ward 3 (self-ID 'Michael Ward three' at [130]; surname from Scott Pope's 'Mr. Demers mentioned his father' at [189], spelling uncertain)"
+  },
+  "135": {
+   "name": "Michael Demers",
+   "role": "Public commenter, Ward 3 (self-ID 'Michael Ward three' at [130]; surname from Scott Pope's 'Mr. Demers mentioned his father' at [189], spelling uncertain)"
+  },
+  "136": {
+   "name": "Michael Demers",
+   "role": "Public commenter, Ward 3 (self-ID 'Michael Ward three' at [130]; surname from Scott Pope's 'Mr. Demers mentioned his father' at [189], spelling uncertain)"
+  },
+  "297": {
+   "name": "Unidentified",
+   "role": "Unidentified - audience member asking for more tech center funding (cites 'what Heather said')"
+  },
+  "293": {
+   "name": "Unidentified",
+   "role": "Unidentified - audience member asking for more tech center funding (cites 'what Heather said')"
+  },
+  "296": {
+   "name": "Unidentified",
+   "role": "Unidentified - audience member asking for more tech center funding (cites 'what Heather said')"
+  },
+  "298": {
+   "name": "Unidentified",
+   "role": "Unidentified - audience member asking for more tech center funding (cites 'what Heather said')"
+  },
+  "65": {
+   "name": "Kip Ryan",
+   "role": "Public commenter, Ward 2 (uncertain - self-ID heard only as 'Ryan, also Ward two' at [65]; later speakers call him 'Kip' at [133] and [161])"
+  },
+  "90": {
+   "name": "Matt Bean",
+   "role": "Public commenter, Ward 1, paraprofessional (ASR 'Mr. Bean', 'Matt, been'; spelling uncertain)"
+  },
+  "257": {
+   "name": "Alex Herzog",
+   "role": "Director, Sugar River Valley Regional Technical Center (self-identified at [311])"
+  },
+  "259": {
+   "name": "Alex Herzog",
+   "role": "Director, Sugar River Valley Regional Technical Center (self-identified at [311])"
+  },
+  "311": {
+   "name": "Alex Herzog",
+   "role": "Director, Sugar River Valley Regional Technical Center (self-identified at [311])"
+  },
+  "313": {
+   "name": "Alex Herzog",
+   "role": "Director, Sugar River Valley Regional Technical Center (self-identified at [311])"
+  },
+  "316": {
+   "name": "Alex Herzog",
+   "role": "Director, Sugar River Valley Regional Technical Center (self-identified at [311])"
+  },
+  "312": {
+   "name": "Alex Herzog",
+   "role": "Director, Sugar River Valley Regional Technical Center (self-identified at [311])"
+  },
+  "315": {
+   "name": "Alex Herzog",
+   "role": "Director, Sugar River Valley Regional Technical Center (self-identified at [311])"
+  },
+  "314": {
+   "name": "Alex Herzog",
+   "role": "Director, Sugar River Valley Regional Technical Center (self-identified at [311])"
+  },
+  "357": {
+   "name": "Nicholas Stone",
+   "role": "Claremont School Board member (chair credits 'Nick seconded it' at [358])"
+  },
+  "395": {
+   "name": "Steven Horsky",
+   "role": "Claremont School Board member (recognized 'Steve' at [393] and [503])"
+  },
+  "151": {
+   "name": "Frank Sprague",
+   "role": "Claremont School Board Chair"
+  },
+  "321": {
+   "name": "Frank Sprague",
+   "role": "Claremont School Board Chair"
+  },
+  "503": {
+   "name": "Frank Sprague",
+   "role": "Claremont School Board Chair"
+  },
+  "353": {
+   "name": "Unidentified",
+   "role": "Unidentified - roll call: clerk calls names and members answer in the same segment"
+  },
+  "354": {
+   "name": "Unidentified",
+   "role": "Unidentified - roll call: clerk calls names and members answer in the same segment"
+  },
+  "380": {
+   "name": "Unidentified",
+   "role": "Unidentified - roll call: clerk calls names and members answer in the same segment"
+  },
+  "137": {
+   "name": "Hilary Walch",
+   "role": "Public commenter, Ward 1, Stevens High School teacher (ASR 'Hilary Walch'; spelling uncertain)"
+  },
+  "105": {
+   "name": "Unidentified",
+   "role": "Unidentified - one-word reply during the chair's exchange with Ben Nester"
+  },
+  "202": {
+   "name": "Julie Scala",
+   "role": "Public commenter, Stevens graduate (ASR 'Julie Scala'; ward not stated; spelling uncertain)"
+  },
+  "212": {
+   "name": "John Hall",
+   "role": "Public commenter, Ward 3 (self-identified at [212])"
+  },
+  "214": {
+   "name": "John Hall",
+   "role": "Public commenter, Ward 3 (self-identified at [212])"
+  },
+  "215": {
+   "name": "John Hall",
+   "role": "Public commenter, Ward 3 (self-identified at [212])"
+  },
+  "216": {
+   "name": "John Hall",
+   "role": "Public commenter, Ward 3 (self-identified at [212])"
+  },
+  "217": {
+   "name": "John Hall",
+   "role": "Public commenter, Ward 3 (self-identified at [212])"
+  },
+  "218": {
+   "name": "John Hall",
+   "role": "Public commenter, Ward 3 (self-identified at [212])"
+  },
+  "219": {
+   "name": "John Hall",
+   "role": "Public commenter, Ward 3 (self-identified at [212])"
+  },
+  "220": {
+   "name": "John Hall",
+   "role": "Public commenter, Ward 3 (self-identified at [212])"
+  },
+  "404": {
+   "name": "Michael Petrin",
+   "role": "Claremont School Board member (uncertain - by elimination; budget subcommittee member, and Lambert's 'I agree with Mike' at [407] follows the two subcommittee speakers)"
+  },
+  "405": {
+   "name": "Michael Petrin",
+   "role": "Claremont School Board member (uncertain - by elimination; budget subcommittee member, and Lambert's 'I agree with Mike' at [407] follows the two subcommittee speakers)"
+  },
+  "441": {
+   "name": "Michael Petrin",
+   "role": "Claremont School Board member (uncertain - by elimination; budget subcommittee member, and Lambert's 'I agree with Mike' at [407] follows the two subcommittee speakers)"
+  },
+  "475": {
+   "name": "Michael Petrin",
+   "role": "Claremont School Board member (uncertain - by elimination; budget subcommittee member, and Lambert's 'I agree with Mike' at [407] follows the two subcommittee speakers)"
+  },
+  "477": {
+   "name": "Michael Petrin",
+   "role": "Claremont School Board member (uncertain - by elimination; budget subcommittee member, and Lambert's 'I agree with Mike' at [407] follows the two subcommittee speakers)"
+  },
+  "480": {
+   "name": "Michael Petrin",
+   "role": "Claremont School Board member (uncertain - by elimination; budget subcommittee member, and Lambert's 'I agree with Mike' at [407] follows the two subcommittee speakers)"
+  }
+ }
+}

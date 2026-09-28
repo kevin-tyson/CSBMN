@@ -1,0 +1,1155 @@
+{
+ "Speaker 1": {
+  "name": "Tracy Pope",
+  "role": "Claremont School District Moderator (addressed as 'Tracy' [312] and 'Madam moderator'; surname Pope per roster, uncertain)"
+ },
+ "Speaker 2": {
+  "name": "Unidentified",
+  "role": "Unidentified - cluster mixes Tempesta, Sprague, Benware, a recorded video of the Governor and floor motions; separable segments reassigned"
+ },
+ "Speaker 3": {
+  "name": "Unidentified",
+  "role": "Unidentified - public commenters from the floor (one works in the Dow building [236]); not named on the record"
+ },
+ "Speaker 4": {
+  "name": "Unidentified",
+  "role": "Unidentified - cluster mixes Towle and several women public commenters; separable segments reassigned"
+ },
+ "Speaker 5": {
+  "name": "Richard Seaman",
+  "role": "Assistant Superintendent for Finance, Operations and Human Resources, SAU 6 (self-identified [102]; cluster also carries Tempesta and several male public commenters, reassigned)"
+ },
+ "Speaker 6": {
+  "name": "Jason Benware",
+  "role": "Claremont School Board member (ASR 'Jason Bentley', 'Jason. Ben. Where')"
+ },
+ "Speaker 7": {
+  "name": "Tracy Pope",
+  "role": "Claremont School District Moderator (addressed as 'Tracy' [312] and 'Madam moderator'; surname Pope per roster, uncertain)"
+ },
+ "Speaker 8": {
+  "name": "Joshua",
+  "role": "Public commenter, Ward 1; Stevens graduate (first name only [291])"
+ },
+ "Speaker 9": {
+  "name": "Unidentified",
+  "role": "Unidentified - cluster mixes several voices (board members, public commenters, short thanks); separable segments reassigned"
+ },
+ "Speaker 10": {
+  "name": "Tracy Pope",
+  "role": "Claremont School District Moderator (addressed as 'Tracy' [312] and 'Madam moderator'; surname Pope per roster, uncertain)"
+ },
+ "Speaker 11": {
+  "name": "Rob Lovett Jr.",
+  "role": "Claremont School Board member"
+ },
+ "Speaker 12": {
+  "name": "Paul",
+  "role": "Public commenter, Ward 2 (addressed as 'Paul' by Seaman [504],[569] and Sprague [410]; surname heard as 'Lucas', 'Casa', 'Cast', 'Castro', 'Carson'; unverified)"
+ },
+ "Speaker 13": {
+  "name": "Unidentified",
+  "role": "Unidentified - short floor interjections"
+ },
+ "Speaker 14": {
+  "name": "Unidentified",
+  "role": "Unidentified - resident who is not a registered voter [373] and other floor remarks"
+ },
+ "Speaker 15": {
+  "name": "Unidentified",
+  "role": "Unidentified - special education para educator at Stevens High School [376]"
+ },
+ "Speaker 16": {
+  "name": "Unidentified",
+  "role": "Unidentified - single inaudible floor remark"
+ },
+ "Speaker 17": {
+  "name": "Paul",
+  "role": "Public commenter, Ward 2 (addressed as 'Paul' by Seaman [504],[569] and Sprague [410]; surname heard as 'Lucas', 'Casa', 'Cast', 'Castro', 'Carson'; unverified)"
+ },
+ "Speaker 18": {
+  "name": "Unidentified",
+  "role": "Unidentified - single remark"
+ },
+ "Speaker 19": {
+  "name": "Unidentified",
+  "role": "Unidentified - floor remarks"
+ },
+ "Speaker 20": {
+  "name": "Unidentified",
+  "role": "Unidentified - audience member asking about signing in [573]"
+ },
+ "Speaker 21": {
+  "name": "Adam",
+  "role": "Public commenter (first name only, moderator 'Adam, did you have another question?' [606])"
+ },
+ "__overrides__": {
+  "3": {
+   "name": "Michael Tempesta",
+   "role": "Superintendent, SAU 6"
+  },
+  "4": {
+   "name": "Michael Tempesta",
+   "role": "Superintendent, SAU 6"
+  },
+  "6": {
+   "name": "Michael Tempesta",
+   "role": "Superintendent, SAU 6"
+  },
+  "80": {
+   "name": "Michael Tempesta",
+   "role": "Superintendent, SAU 6"
+  },
+  "8": {
+   "name": "Frank Sprague",
+   "role": "Claremont School Board Chair"
+  },
+  "47": {
+   "name": "Frank Sprague",
+   "role": "Claremont School Board Chair"
+  },
+  "48": {
+   "name": "Frank Sprague",
+   "role": "Claremont School Board Chair"
+  },
+  "49": {
+   "name": "Frank Sprague",
+   "role": "Claremont School Board Chair"
+  },
+  "50": {
+   "name": "Frank Sprague",
+   "role": "Claremont School Board Chair"
+  },
+  "51": {
+   "name": "Frank Sprague",
+   "role": "Claremont School Board Chair"
+  },
+  "52": {
+   "name": "Frank Sprague",
+   "role": "Claremont School Board Chair"
+  },
+  "53": {
+   "name": "Frank Sprague",
+   "role": "Claremont School Board Chair"
+  },
+  "54": {
+   "name": "Frank Sprague",
+   "role": "Claremont School Board Chair"
+  },
+  "55": {
+   "name": "Frank Sprague",
+   "role": "Claremont School Board Chair"
+  },
+  "56": {
+   "name": "Frank Sprague",
+   "role": "Claremont School Board Chair"
+  },
+  "68": {
+   "name": "Jason Benware",
+   "role": "Claremont School Board member (ASR 'Jason Bentley', 'Jason. Ben. Where')"
+  },
+  "69": {
+   "name": "Jason Benware",
+   "role": "Claremont School Board member (ASR 'Jason Bentley', 'Jason. Ben. Where')"
+  },
+  "70": {
+   "name": "Jason Benware",
+   "role": "Claremont School Board member (ASR 'Jason Bentley', 'Jason. Ben. Where')"
+  },
+  "71": {
+   "name": "Jason Benware",
+   "role": "Claremont School Board member (ASR 'Jason Bentley', 'Jason. Ben. Where')"
+  },
+  "72": {
+   "name": "Jason Benware",
+   "role": "Claremont School Board member (ASR 'Jason Bentley', 'Jason. Ben. Where')"
+  },
+  "73": {
+   "name": "Jason Benware",
+   "role": "Claremont School Board member (ASR 'Jason Bentley', 'Jason. Ben. Where')"
+  },
+  "74": {
+   "name": "Jason Benware",
+   "role": "Claremont School Board member (ASR 'Jason Bentley', 'Jason. Ben. Where')"
+  },
+  "75": {
+   "name": "Jason Benware",
+   "role": "Claremont School Board member (ASR 'Jason Bentley', 'Jason. Ben. Where')"
+  },
+  "76": {
+   "name": "Jason Benware",
+   "role": "Claremont School Board member (ASR 'Jason Bentley', 'Jason. Ben. Where')"
+  },
+  "77": {
+   "name": "Jason Benware",
+   "role": "Claremont School Board member (ASR 'Jason Bentley', 'Jason. Ben. Where')"
+  },
+  "78": {
+   "name": "Jason Benware",
+   "role": "Claremont School Board member (ASR 'Jason Bentley', 'Jason. Ben. Where')"
+  },
+  "79": {
+   "name": "Jason Benware",
+   "role": "Claremont School Board member (ASR 'Jason Bentley', 'Jason. Ben. Where')"
+  },
+  "81": {
+   "name": "Chris Sununu",
+   "role": "Governor of New Hampshire, recorded video played in the presentation (introduced as 'the governor' [80]; name per 10768 [564])"
+  },
+  "82": {
+   "name": "Chris Sununu",
+   "role": "Governor of New Hampshire, recorded video played in the presentation (introduced as 'the governor' [80]; name per 10768 [564])"
+  },
+  "83": {
+   "name": "Chris Sununu",
+   "role": "Governor of New Hampshire, recorded video played in the presentation (introduced as 'the governor' [80]; name per 10768 [564])"
+  },
+  "84": {
+   "name": "Chris Sununu",
+   "role": "Governor of New Hampshire, recorded video played in the presentation (introduced as 'the governor' [80]; name per 10768 [564])"
+  },
+  "85": {
+   "name": "Chris Sununu",
+   "role": "Governor of New Hampshire, recorded video played in the presentation (introduced as 'the governor' [80]; name per 10768 [564])"
+  },
+  "86": {
+   "name": "Chris Sununu",
+   "role": "Governor of New Hampshire, recorded video played in the presentation (introduced as 'the governor' [80]; name per 10768 [564])"
+  },
+  "87": {
+   "name": "Chris Sununu",
+   "role": "Governor of New Hampshire, recorded video played in the presentation (introduced as 'the governor' [80]; name per 10768 [564])"
+  },
+  "88": {
+   "name": "Chris Sununu",
+   "role": "Governor of New Hampshire, recorded video played in the presentation (introduced as 'the governor' [80]; name per 10768 [564])"
+  },
+  "18": {
+   "name": "Unidentified",
+   "role": "Unidentified - floor motion, second, aye or fragment"
+  },
+  "20": {
+   "name": "Unidentified",
+   "role": "Unidentified - floor motion, second, aye or fragment"
+  },
+  "22": {
+   "name": "Unidentified",
+   "role": "Unidentified - floor motion, second, aye or fragment"
+  },
+  "28": {
+   "name": "Unidentified",
+   "role": "Unidentified - floor motion, second, aye or fragment"
+  },
+  "30": {
+   "name": "Unidentified",
+   "role": "Unidentified - floor motion, second, aye or fragment"
+  },
+  "37": {
+   "name": "Unidentified",
+   "role": "Unidentified - floor motion, second, aye or fragment"
+  },
+  "40": {
+   "name": "Unidentified",
+   "role": "Unidentified - floor motion, second, aye or fragment"
+  },
+  "44": {
+   "name": "Unidentified",
+   "role": "Unidentified - floor motion, second, aye or fragment"
+  },
+  "90": {
+   "name": "Unidentified",
+   "role": "Unidentified - floor motion, second, aye or fragment"
+  },
+  "245": {
+   "name": "Unidentified",
+   "role": "Unidentified - floor motion, second, aye or fragment"
+  },
+  "440": {
+   "name": "Unidentified",
+   "role": "Unidentified - floor motion, second, aye or fragment"
+  },
+  "456": {
+   "name": "Unidentified",
+   "role": "Unidentified - floor motion, second, aye or fragment"
+  },
+  "604": {
+   "name": "Unidentified",
+   "role": "Unidentified - floor motion, second, aye or fragment"
+  },
+  "89": {
+   "name": "Michael Tempesta",
+   "role": "Superintendent, SAU 6"
+  },
+  "91": {
+   "name": "Michael Tempesta",
+   "role": "Superintendent, SAU 6"
+  },
+  "92": {
+   "name": "Michael Tempesta",
+   "role": "Superintendent, SAU 6"
+  },
+  "93": {
+   "name": "Michael Tempesta",
+   "role": "Superintendent, SAU 6"
+  },
+  "94": {
+   "name": "Michael Tempesta",
+   "role": "Superintendent, SAU 6"
+  },
+  "95": {
+   "name": "Michael Tempesta",
+   "role": "Superintendent, SAU 6"
+  },
+  "96": {
+   "name": "Michael Tempesta",
+   "role": "Superintendent, SAU 6"
+  },
+  "97": {
+   "name": "Michael Tempesta",
+   "role": "Superintendent, SAU 6"
+  },
+  "98": {
+   "name": "Michael Tempesta",
+   "role": "Superintendent, SAU 6"
+  },
+  "99": {
+   "name": "Michael Tempesta",
+   "role": "Superintendent, SAU 6"
+  },
+  "100": {
+   "name": "Michael Tempesta",
+   "role": "Superintendent, SAU 6"
+  },
+  "101": {
+   "name": "Michael Tempesta",
+   "role": "Superintendent, SAU 6"
+  },
+  "171": {
+   "name": "Unidentified",
+   "role": "Unidentified - floor motion, second or fragment"
+  },
+  "206": {
+   "name": "Unidentified",
+   "role": "Unidentified - floor motion, second or fragment"
+  },
+  "208": {
+   "name": "Unidentified",
+   "role": "Unidentified - floor motion, second or fragment"
+  },
+  "334": {
+   "name": "Unidentified",
+   "role": "Unidentified - floor motion, second or fragment"
+  },
+  "354": {
+   "name": "Unidentified",
+   "role": "Unidentified - floor motion, second or fragment"
+  },
+  "375": {
+   "name": "Unidentified",
+   "role": "Unidentified - floor motion, second or fragment"
+  },
+  "381": {
+   "name": "Unidentified",
+   "role": "Unidentified - floor motion, second or fragment"
+  },
+  "425": {
+   "name": "Unidentified",
+   "role": "Unidentified - floor motion, second or fragment"
+  },
+  "427": {
+   "name": "Unidentified",
+   "role": "Unidentified - floor motion, second or fragment"
+  },
+  "453": {
+   "name": "Unidentified",
+   "role": "Unidentified - floor motion, second or fragment"
+  },
+  "473": {
+   "name": "Unidentified",
+   "role": "Unidentified - floor motion, second or fragment"
+  },
+  "475": {
+   "name": "Unidentified",
+   "role": "Unidentified - floor motion, second or fragment"
+  },
+  "494": {
+   "name": "Unidentified",
+   "role": "Unidentified - floor motion, second or fragment"
+  },
+  "590": {
+   "name": "Unidentified",
+   "role": "Unidentified - floor motion, second or fragment"
+  },
+  "609": {
+   "name": "Unidentified",
+   "role": "Unidentified - floor motion, second or fragment"
+  },
+  "62": {
+   "name": "Unidentified",
+   "role": "Unidentified - floor motion, second or fragment"
+  },
+  "67": {
+   "name": "Unidentified",
+   "role": "Unidentified - floor motion, second or fragment"
+  },
+  "26": {
+   "name": "Unidentified",
+   "role": "Unidentified - floor motion, second or fragment"
+  },
+  "177": {
+   "name": "Paul",
+   "role": "Public commenter, Ward 2 (addressed as 'Paul' by Seaman [504],[569] and Sprague [410]; surname heard as 'Lucas', 'Casa', 'Cast', 'Castro', 'Carson'; unverified) (uncertain - moderator calls this Ward 2 speaker 'Mr. Lucas' [176]; same surname variants and persona as the later Paul turns)"
+  },
+  "179": {
+   "name": "Paul",
+   "role": "Public commenter, Ward 2 (addressed as 'Paul' by Seaman [504],[569] and Sprague [410]; surname heard as 'Lucas', 'Casa', 'Cast', 'Castro', 'Carson'; unverified) (uncertain - moderator calls this Ward 2 speaker 'Mr. Lucas' [176]; same surname variants and persona as the later Paul turns)"
+  },
+  "181": {
+   "name": "Paul",
+   "role": "Public commenter, Ward 2 (addressed as 'Paul' by Seaman [504],[569] and Sprague [410]; surname heard as 'Lucas', 'Casa', 'Cast', 'Castro', 'Carson'; unverified) (uncertain - moderator calls this Ward 2 speaker 'Mr. Lucas' [176]; same surname variants and persona as the later Paul turns)"
+  },
+  "183": {
+   "name": "Paul",
+   "role": "Public commenter, Ward 2 (addressed as 'Paul' by Seaman [504],[569] and Sprague [410]; surname heard as 'Lucas', 'Casa', 'Cast', 'Castro', 'Carson'; unverified) (uncertain - moderator calls this Ward 2 speaker 'Mr. Lucas' [176]; same surname variants and persona as the later Paul turns)"
+  },
+  "184": {
+   "name": "Paul",
+   "role": "Public commenter, Ward 2 (addressed as 'Paul' by Seaman [504],[569] and Sprague [410]; surname heard as 'Lucas', 'Casa', 'Cast', 'Castro', 'Carson'; unverified) (uncertain - moderator calls this Ward 2 speaker 'Mr. Lucas' [176]; same surname variants and persona as the later Paul turns)"
+  },
+  "185": {
+   "name": "Paul",
+   "role": "Public commenter, Ward 2 (addressed as 'Paul' by Seaman [504],[569] and Sprague [410]; surname heard as 'Lucas', 'Casa', 'Cast', 'Castro', 'Carson'; unverified) (uncertain - moderator calls this Ward 2 speaker 'Mr. Lucas' [176]; same surname variants and persona as the later Paul turns)"
+  },
+  "187": {
+   "name": "Paul",
+   "role": "Public commenter, Ward 2 (addressed as 'Paul' by Seaman [504],[569] and Sprague [410]; surname heard as 'Lucas', 'Casa', 'Cast', 'Castro', 'Carson'; unverified) (uncertain - moderator calls this Ward 2 speaker 'Mr. Lucas' [176]; same surname variants and persona as the later Paul turns)"
+  },
+  "188": {
+   "name": "Paul",
+   "role": "Public commenter, Ward 2 (addressed as 'Paul' by Seaman [504],[569] and Sprague [410]; surname heard as 'Lucas', 'Casa', 'Cast', 'Castro', 'Carson'; unverified) (uncertain - moderator calls this Ward 2 speaker 'Mr. Lucas' [176]; same surname variants and persona as the later Paul turns)"
+  },
+  "189": {
+   "name": "Paul",
+   "role": "Public commenter, Ward 2 (addressed as 'Paul' by Seaman [504],[569] and Sprague [410]; surname heard as 'Lucas', 'Casa', 'Cast', 'Castro', 'Carson'; unverified) (uncertain - moderator calls this Ward 2 speaker 'Mr. Lucas' [176]; same surname variants and persona as the later Paul turns)"
+  },
+  "190": {
+   "name": "Paul",
+   "role": "Public commenter, Ward 2 (addressed as 'Paul' by Seaman [504],[569] and Sprague [410]; surname heard as 'Lucas', 'Casa', 'Cast', 'Castro', 'Carson'; unverified) (uncertain - moderator calls this Ward 2 speaker 'Mr. Lucas' [176]; same surname variants and persona as the later Paul turns)"
+  },
+  "210": {
+   "name": "Jason Benware",
+   "role": "Claremont School Board member (ASR 'Jason Bentley', 'Jason. Ben. Where')"
+  },
+  "211": {
+   "name": "Jason Benware",
+   "role": "Claremont School Board member (ASR 'Jason Bentley', 'Jason. Ben. Where')"
+  },
+  "207": {
+   "name": "Jason Benware",
+   "role": "Claremont School Board member (ASR 'Jason Bentley', 'Jason. Ben. Where')"
+  },
+  "209": {
+   "name": "Jason Benware",
+   "role": "Claremont School Board member (ASR 'Jason Bentley', 'Jason. Ben. Where')"
+  },
+  "214": {
+   "name": "Frank Sprague",
+   "role": "Claremont School Board Chair (uncertain - same motion Sprague makes at [333] after being recognized)"
+  },
+  "333": {
+   "name": "Frank Sprague",
+   "role": "Claremont School Board Chair"
+  },
+  "231": {
+   "name": "David Larson",
+   "role": "Public commenter, Ward 1; new resident (self-identified [231])"
+  },
+  "232": {
+   "name": "David Larson",
+   "role": "Public commenter, Ward 1; new resident (self-identified [231])"
+  },
+  "233": {
+   "name": "David Larson",
+   "role": "Public commenter, Ward 1; new resident (self-identified [231])"
+  },
+  "234": {
+   "name": "David Larson",
+   "role": "Public commenter, Ward 1; new resident (self-identified [231])"
+  },
+  "246": {
+   "name": "Rob Lovett Jr.",
+   "role": "Claremont School Board member (uncertain - same 'crystal ball' / 'predict the future' answer as [602]-[605], where he presents Article 7)"
+  },
+  "247": {
+   "name": "Rob Lovett Jr.",
+   "role": "Claremont School Board member (uncertain - same 'crystal ball' / 'predict the future' answer as [602]-[605], where he presents Article 7)"
+  },
+  "248": {
+   "name": "Rob Lovett Jr.",
+   "role": "Claremont School Board member (uncertain - same 'crystal ball' / 'predict the future' answer as [602]-[605], where he presents Article 7)"
+  },
+  "249": {
+   "name": "Rob Lovett Jr.",
+   "role": "Claremont School Board member (uncertain - same 'crystal ball' / 'predict the future' answer as [602]-[605], where he presents Article 7)"
+  },
+  "250": {
+   "name": "Rob Lovett Jr.",
+   "role": "Claremont School Board member (uncertain - same 'crystal ball' / 'predict the future' answer as [602]-[605], where he presents Article 7)"
+  },
+  "251": {
+   "name": "Rob Lovett Jr.",
+   "role": "Claremont School Board member (uncertain - same 'crystal ball' / 'predict the future' answer as [602]-[605], where he presents Article 7)"
+  },
+  "252": {
+   "name": "Rob Lovett Jr.",
+   "role": "Claremont School Board member (uncertain - same 'crystal ball' / 'predict the future' answer as [602]-[605], where he presents Article 7)"
+  },
+  "254": {
+   "name": "Rob Lovett Jr.",
+   "role": "Claremont School Board member (uncertain - same 'crystal ball' / 'predict the future' answer as [602]-[605], where he presents Article 7)"
+  },
+  "256": {
+   "name": "Rob Lovett Jr.",
+   "role": "Claremont School Board member (uncertain - same 'crystal ball' / 'predict the future' answer as [602]-[605], where he presents Article 7)"
+  },
+  "257": {
+   "name": "Rob Lovett Jr.",
+   "role": "Claremont School Board member (uncertain - same 'crystal ball' / 'predict the future' answer as [602]-[605], where he presents Article 7)"
+  },
+  "258": {
+   "name": "Rob Lovett Jr.",
+   "role": "Claremont School Board member (uncertain - same 'crystal ball' / 'predict the future' answer as [602]-[605], where he presents Article 7)"
+  },
+  "259": {
+   "name": "Rob Lovett Jr.",
+   "role": "Claremont School Board member (uncertain - same 'crystal ball' / 'predict the future' answer as [602]-[605], where he presents Article 7)"
+  },
+  "602": {
+   "name": "Rob Lovett Jr.",
+   "role": "Claremont School Board member (uncertain - same 'crystal ball' / 'predict the future' answer as [602]-[605], where he presents Article 7)"
+  },
+  "603": {
+   "name": "Rob Lovett Jr.",
+   "role": "Claremont School Board member (uncertain - same 'crystal ball' / 'predict the future' answer as [602]-[605], where he presents Article 7)"
+  },
+  "605": {
+   "name": "Rob Lovett Jr.",
+   "role": "Claremont School Board member (uncertain - same 'crystal ball' / 'predict the future' answer as [602]-[605], where he presents Article 7)"
+  },
+  "265": {
+   "name": "Unidentified",
+   "role": "Unidentified - public commenter, Ward 1; former Claremont School Board member of 12 to 16 years ago (ASR 'John MC'; name not recoverable)"
+  },
+  "267": {
+   "name": "Unidentified",
+   "role": "Unidentified - public commenter, Ward 1; former Claremont School Board member of 12 to 16 years ago (ASR 'John MC'; name not recoverable)"
+  },
+  "268": {
+   "name": "Unidentified",
+   "role": "Unidentified - public commenter, Ward 1; former Claremont School Board member of 12 to 16 years ago (ASR 'John MC'; name not recoverable)"
+  },
+  "269": {
+   "name": "Unidentified",
+   "role": "Unidentified - public commenter, Ward 1; former Claremont School Board member of 12 to 16 years ago (ASR 'John MC'; name not recoverable)"
+  },
+  "270": {
+   "name": "Unidentified",
+   "role": "Unidentified - public commenter, Ward 1; former Claremont School Board member of 12 to 16 years ago (ASR 'John MC'; name not recoverable)"
+  },
+  "271": {
+   "name": "Unidentified",
+   "role": "Unidentified - public commenter, Ward 1; former Claremont School Board member of 12 to 16 years ago (ASR 'John MC'; name not recoverable)"
+  },
+  "272": {
+   "name": "Unidentified",
+   "role": "Unidentified - public commenter, Ward 1; former Claremont School Board member of 12 to 16 years ago (ASR 'John MC'; name not recoverable)"
+  },
+  "273": {
+   "name": "Unidentified",
+   "role": "Unidentified - public commenter, Ward 1; former Claremont School Board member of 12 to 16 years ago (ASR 'John MC'; name not recoverable)"
+  },
+  "274": {
+   "name": "Unidentified",
+   "role": "Unidentified - public commenter, Ward 1; former Claremont School Board member of 12 to 16 years ago (ASR 'John MC'; name not recoverable)"
+  },
+  "281": {
+   "name": "Christiana",
+   "role": "Public commenter, Ward 2 (ASR 'Christiana southwest'; surname not recoverable)"
+  },
+  "285": {
+   "name": "Christiana",
+   "role": "Public commenter, Ward 2 (ASR 'Christiana southwest'; surname not recoverable)"
+  },
+  "286": {
+   "name": "Christiana",
+   "role": "Public commenter, Ward 2 (ASR 'Christiana southwest'; surname not recoverable)"
+  },
+  "287": {
+   "name": "Christiana",
+   "role": "Public commenter, Ward 2 (ASR 'Christiana southwest'; surname not recoverable)"
+  },
+  "288": {
+   "name": "Christiana",
+   "role": "Public commenter, Ward 2 (ASR 'Christiana southwest'; surname not recoverable)"
+  },
+  "292": {
+   "name": "Joshua"
+  },
+  "296": {
+   "name": "Joshua"
+  },
+  "415": {
+   "name": "Frank Sprague",
+   "role": "Claremont School Board Chair"
+  },
+  "418": {
+   "name": "Frank Sprague",
+   "role": "Claremont School Board Chair"
+  },
+  "419": {
+   "name": "Frank Sprague",
+   "role": "Claremont School Board Chair"
+  },
+  "420": {
+   "name": "Frank Sprague",
+   "role": "Claremont School Board Chair"
+  },
+  "421": {
+   "name": "Frank Sprague",
+   "role": "Claremont School Board Chair"
+  },
+  "422": {
+   "name": "Frank Sprague",
+   "role": "Claremont School Board Chair"
+  },
+  "433": {
+   "name": "Michael Petrin",
+   "role": "Claremont School Board member (moderator recognizes 'Michael Friedrich' [432], ASR for Petrin)"
+  },
+  "434": {
+   "name": "Michael Petrin",
+   "role": "Claremont School Board member (moderator recognizes 'Michael Friedrich' [432], ASR for Petrin)"
+  },
+  "435": {
+   "name": "Michael Petrin",
+   "role": "Claremont School Board member (moderator recognizes 'Michael Friedrich' [432], ASR for Petrin)"
+  },
+  "436": {
+   "name": "Michael Petrin",
+   "role": "Claremont School Board member (moderator recognizes 'Michael Friedrich' [432], ASR for Petrin)"
+  },
+  "437": {
+   "name": "Michael Petrin",
+   "role": "Claremont School Board member (moderator recognizes 'Michael Friedrich' [432], ASR for Petrin)"
+  },
+  "439": {
+   "name": "Paul",
+   "role": "Public commenter, Ward 2 (addressed as 'Paul' by Seaman [504],[569] and Sprague [410]; surname heard as 'Lucas', 'Casa', 'Cast', 'Castro', 'Carson'; unverified)"
+  },
+  "441": {
+   "name": "Paul",
+   "role": "Public commenter, Ward 2 (addressed as 'Paul' by Seaman [504],[569] and Sprague [410]; surname heard as 'Lucas', 'Casa', 'Cast', 'Castro', 'Carson'; unverified)"
+  },
+  "442": {
+   "name": "Paul",
+   "role": "Public commenter, Ward 2 (addressed as 'Paul' by Seaman [504],[569] and Sprague [410]; surname heard as 'Lucas', 'Casa', 'Cast', 'Castro', 'Carson'; unverified)"
+  },
+  "445": {
+   "name": "Paul",
+   "role": "Public commenter, Ward 2 (addressed as 'Paul' by Seaman [504],[569] and Sprague [410]; surname heard as 'Lucas', 'Casa', 'Cast', 'Castro', 'Carson'; unverified)"
+  },
+  "447": {
+   "name": "Paul",
+   "role": "Public commenter, Ward 2 (addressed as 'Paul' by Seaman [504],[569] and Sprague [410]; surname heard as 'Lucas', 'Casa', 'Cast', 'Castro', 'Carson'; unverified)"
+  },
+  "496": {
+   "name": "Paul",
+   "role": "Public commenter, Ward 2 (addressed as 'Paul' by Seaman [504],[569] and Sprague [410]; surname heard as 'Lucas', 'Casa', 'Cast', 'Castro', 'Carson'; unverified)"
+  },
+  "449": {
+   "name": "Paul",
+   "role": "Public commenter, Ward 2 (addressed as 'Paul' by Seaman [504],[569] and Sprague [410]; surname heard as 'Lucas', 'Casa', 'Cast', 'Castro', 'Carson'; unverified)"
+  },
+  "578": {
+   "name": "Unidentified",
+   "role": "Unidentified - public commenter, former custodian who watches the buses daily (possibly 'James' [575])"
+  },
+  "575": {
+   "name": "Unidentified",
+   "role": "Unidentified - public commenter, former custodian who watches the buses daily (possibly 'James' [575])"
+  },
+  "577": {
+   "name": "Unidentified",
+   "role": "Unidentified - public commenter, former custodian who watches the buses daily (possibly 'James' [575])"
+  },
+  "579": {
+   "name": "Unidentified",
+   "role": "Unidentified - public commenter, former custodian who watches the buses daily (possibly 'James' [575])"
+  },
+  "580": {
+   "name": "Unidentified",
+   "role": "Unidentified - public commenter, former custodian who watches the buses daily (possibly 'James' [575])"
+  },
+  "581": {
+   "name": "Unidentified",
+   "role": "Unidentified - public commenter, former custodian who watches the buses daily (possibly 'James' [575])"
+  },
+  "583": {
+   "name": "Unidentified",
+   "role": "Unidentified - public commenter, former custodian who watches the buses daily (possibly 'James' [575])"
+  },
+  "585": {
+   "name": "Unidentified",
+   "role": "Unidentified - public commenter, former custodian who watches the buses daily (possibly 'James' [575])"
+  },
+  "586": {
+   "name": "Unidentified",
+   "role": "Unidentified - public commenter, former custodian who watches the buses daily (possibly 'James' [575])"
+  },
+  "587": {
+   "name": "Unidentified",
+   "role": "Unidentified - public commenter, former custodian who watches the buses daily (possibly 'James' [575])"
+  },
+  "588": {
+   "name": "Unidentified",
+   "role": "Unidentified - public commenter, former custodian who watches the buses daily (possibly 'James' [575])"
+  },
+  "593": {
+   "name": "Rob Lovett Jr.",
+   "role": "Claremont School Board member (presents Article 7; moderator recognizes 'Robert L...' [591])"
+  },
+  "594": {
+   "name": "Rob Lovett Jr.",
+   "role": "Claremont School Board member (presents Article 7; moderator recognizes 'Robert L...' [591])"
+  },
+  "595": {
+   "name": "Rob Lovett Jr.",
+   "role": "Claremont School Board member (presents Article 7; moderator recognizes 'Robert L...' [591])"
+  },
+  "596": {
+   "name": "Rob Lovett Jr.",
+   "role": "Claremont School Board member (presents Article 7; moderator recognizes 'Robert L...' [591])"
+  },
+  "597": {
+   "name": "Rob Lovett Jr.",
+   "role": "Claremont School Board member (presents Article 7; moderator recognizes 'Robert L...' [591])"
+  },
+  "276": {
+   "name": "Amanda Barton",
+   "role": "Public commenter (self-identified [276], ASR 'But one Amanda Barton or two'; ward unclear)"
+  },
+  "277": {
+   "name": "Amanda Barton",
+   "role": "Public commenter (self-identified [276], ASR 'But one Amanda Barton or two'; ward unclear)"
+  },
+  "278": {
+   "name": "Amanda Barton",
+   "role": "Public commenter (self-identified [276], ASR 'But one Amanda Barton or two'; ward unclear)"
+  },
+  "279": {
+   "name": "Amanda Barton",
+   "role": "Public commenter (self-identified [276], ASR 'But one Amanda Barton or two'; ward unclear)"
+  },
+  "299": {
+   "name": "Samantha Bailey",
+   "role": "Public commenter, Ward 3; former para, now a teacher (ASR 'Samantha Bailey awards. Three')"
+  },
+  "300": {
+   "name": "Samantha Bailey",
+   "role": "Public commenter, Ward 3; former para, now a teacher (ASR 'Samantha Bailey awards. Three')"
+  },
+  "301": {
+   "name": "Samantha Bailey",
+   "role": "Public commenter, Ward 3; former para, now a teacher (ASR 'Samantha Bailey awards. Three')"
+  },
+  "302": {
+   "name": "Samantha Bailey",
+   "role": "Public commenter, Ward 3; former para, now a teacher (ASR 'Samantha Bailey awards. Three')"
+  },
+  "303": {
+   "name": "Samantha Bailey",
+   "role": "Public commenter, Ward 3; former para, now a teacher (ASR 'Samantha Bailey awards. Three')"
+  },
+  "339": {
+   "name": "Rebecca Zullo",
+   "role": "Claremont School Board Vice Chair (moderator recognizes 'Rebecca zero' [338] and 'Rebecca Zullo' [357])"
+  },
+  "340": {
+   "name": "Unidentified",
+   "role": "Unidentified - aside during Zullo's remarks"
+  },
+  "341": {
+   "name": "Rebecca Zullo",
+   "role": "Claremont School Board Vice Chair (moderator recognizes 'Rebecca zero' [338] and 'Rebecca Zullo' [357])"
+  },
+  "342": {
+   "name": "Unidentified",
+   "role": "Unidentified - aside during Zullo's remarks"
+  },
+  "343": {
+   "name": "Rebecca Zullo",
+   "role": "Claremont School Board Vice Chair (moderator recognizes 'Rebecca zero' [338] and 'Rebecca Zullo' [357])"
+  },
+  "344": {
+   "name": "Rebecca Zullo",
+   "role": "Claremont School Board Vice Chair (moderator recognizes 'Rebecca zero' [338] and 'Rebecca Zullo' [357])"
+  },
+  "345": {
+   "name": "Rebecca Zullo",
+   "role": "Claremont School Board Vice Chair (moderator recognizes 'Rebecca zero' [338] and 'Rebecca Zullo' [357])"
+  },
+  "346": {
+   "name": "Rebecca Zullo",
+   "role": "Claremont School Board Vice Chair (moderator recognizes 'Rebecca zero' [338] and 'Rebecca Zullo' [357])"
+  },
+  "347": {
+   "name": "Rebecca Zullo",
+   "role": "Claremont School Board Vice Chair (moderator recognizes 'Rebecca zero' [338] and 'Rebecca Zullo' [357])"
+  },
+  "349": {
+   "name": "Rebecca Zullo",
+   "role": "Claremont School Board Vice Chair (moderator recognizes 'Rebecca zero' [338] and 'Rebecca Zullo' [357])"
+  },
+  "350": {
+   "name": "Rebecca Zullo",
+   "role": "Claremont School Board Vice Chair (moderator recognizes 'Rebecca zero' [338] and 'Rebecca Zullo' [357])"
+  },
+  "351": {
+   "name": "Rebecca Zullo",
+   "role": "Claremont School Board Vice Chair (moderator recognizes 'Rebecca zero' [338] and 'Rebecca Zullo' [357])"
+  },
+  "358": {
+   "name": "Rebecca Zullo",
+   "role": "Claremont School Board Vice Chair (moderator recognizes 'Rebecca zero' [338] and 'Rebecca Zullo' [357])"
+  },
+  "359": {
+   "name": "Rebecca Zullo",
+   "role": "Claremont School Board Vice Chair (moderator recognizes 'Rebecca zero' [338] and 'Rebecca Zullo' [357])"
+  },
+  "360": {
+   "name": "Rebecca Zullo",
+   "role": "Claremont School Board Vice Chair (moderator recognizes 'Rebecca zero' [338] and 'Rebecca Zullo' [357])"
+  },
+  "361": {
+   "name": "Rebecca Zullo",
+   "role": "Claremont School Board Vice Chair (moderator recognizes 'Rebecca zero' [338] and 'Rebecca Zullo' [357])"
+  },
+  "363": {
+   "name": "Rebecca Zullo",
+   "role": "Claremont School Board Vice Chair (moderator recognizes 'Rebecca zero' [338] and 'Rebecca Zullo' [357])"
+  },
+  "364": {
+   "name": "Rebecca Zullo",
+   "role": "Claremont School Board Vice Chair (moderator recognizes 'Rebecca zero' [338] and 'Rebecca Zullo' [357])"
+  },
+  "365": {
+   "name": "Rebecca Zullo",
+   "role": "Claremont School Board Vice Chair (moderator recognizes 'Rebecca zero' [338] and 'Rebecca Zullo' [357])"
+  },
+  "383": {
+   "name": "Rebecca Zullo",
+   "role": "Claremont School Board Vice Chair (moderator recognizes 'Rebecca zero' [338] and 'Rebecca Zullo' [357])"
+  },
+  "384": {
+   "name": "Rebecca Zullo",
+   "role": "Claremont School Board Vice Chair (moderator recognizes 'Rebecca zero' [338] and 'Rebecca Zullo' [357])"
+  },
+  "387": {
+   "name": "Unidentified",
+   "role": "Unidentified - woman public commenter on para raises (not named)"
+  },
+  "388": {
+   "name": "Unidentified",
+   "role": "Unidentified - woman public commenter on para raises (not named)"
+  },
+  "389": {
+   "name": "Unidentified",
+   "role": "Unidentified - woman public commenter on para raises (not named)"
+  },
+  "464": {
+   "name": "Cynthia Howard",
+   "role": "Public commenter, Ward 2 (self-identified [307],[464])"
+  },
+  "465": {
+   "name": "Cynthia Howard",
+   "role": "Public commenter, Ward 2 (self-identified [307],[464])"
+  },
+  "467": {
+   "name": "Cynthia Howard",
+   "role": "Public commenter, Ward 2 (self-identified [307],[464])"
+  },
+  "166": {
+   "name": "Cynthia Howard",
+   "role": "Public commenter, Ward 2 (self-identified [307],[464])"
+  },
+  "167": {
+   "name": "Cynthia Howard",
+   "role": "Public commenter, Ward 2 (self-identified [307],[464])"
+  },
+  "168": {
+   "name": "Cynthia Howard",
+   "role": "Public commenter, Ward 2 (self-identified [307],[464])"
+  },
+  "169": {
+   "name": "Cynthia Howard",
+   "role": "Public commenter, Ward 2 (self-identified [307],[464])"
+  },
+  "307": {
+   "name": "Cynthia Howard",
+   "role": "Public commenter, Ward 2 (self-identified [307],[464])"
+  },
+  "308": {
+   "name": "Cynthia Howard",
+   "role": "Public commenter, Ward 2 (self-identified [307],[464])"
+  },
+  "310": {
+   "name": "Cynthia Howard",
+   "role": "Public commenter, Ward 2 (self-identified [307],[464])"
+  },
+  "516": {
+   "name": "Unidentified",
+   "role": "Unidentified - public commenter, Ward 1, on bus cost math (name garbled 'Disintegrate')"
+  },
+  "519": {
+   "name": "Unidentified",
+   "role": "Unidentified - public commenter, Ward 1, on bus cost math (name garbled 'Disintegrate')"
+  },
+  "521": {
+   "name": "Unidentified",
+   "role": "Unidentified - public commenter, Ward 1, on bus cost math (name garbled 'Disintegrate')"
+  },
+  "523": {
+   "name": "Unidentified",
+   "role": "Unidentified - public commenter, Ward 1, on bus cost math (name garbled 'Disintegrate')"
+  },
+  "538": {
+   "name": "Unidentified",
+   "role": "Unidentified - floor fragment"
+  },
+  "546": {
+   "name": "Unidentified",
+   "role": "Unidentified - floor fragment"
+  },
+  "549": {
+   "name": "Unidentified",
+   "role": "Unidentified - floor fragment"
+  },
+  "563": {
+   "name": "Unidentified",
+   "role": "Unidentified - floor fragment"
+  },
+  "565": {
+   "name": "Unidentified",
+   "role": "Unidentified - floor fragment"
+  },
+  "59": {
+   "name": "Carolyn Towle",
+   "role": "Claremont School Board member (ASR 'Carolyn Tall', 'Mrs. Tom')"
+  },
+  "42": {
+   "name": "Unidentified",
+   "role": "Unidentified - floor fragment"
+  },
+  "224": {
+   "name": "Unidentified",
+   "role": "Unidentified - floor fragment"
+  },
+  "226": {
+   "name": "Unidentified",
+   "role": "Unidentified - floor fragment"
+  },
+  "284": {
+   "name": "Unidentified",
+   "role": "Unidentified - floor fragment"
+  },
+  "241": {
+   "name": "Gloria",
+   "role": "Public commenter, Ward 3 (moderator 'Gloria' [240]; surname not audible)"
+  },
+  "242": {
+   "name": "Gloria",
+   "role": "Public commenter, Ward 3 (moderator 'Gloria' [240]; surname not audible)"
+  },
+  "243": {
+   "name": "Gloria",
+   "role": "Public commenter, Ward 3 (moderator 'Gloria' [240]; surname not audible)"
+  },
+  "253": {
+   "name": "Gloria",
+   "role": "Public commenter, Ward 3 (moderator 'Gloria' [240]; surname not audible)"
+  },
+  "255": {
+   "name": "Gloria",
+   "role": "Public commenter, Ward 3 (moderator 'Gloria' [240]; surname not audible)"
+  },
+  "260": {
+   "name": "Gloria",
+   "role": "Public commenter, Ward 3 (moderator 'Gloria' [240]; surname not audible)"
+  },
+  "261": {
+   "name": "Gloria",
+   "role": "Public commenter, Ward 3 (moderator 'Gloria' [240]; surname not audible)"
+  },
+  "262": {
+   "name": "Gloria",
+   "role": "Public commenter, Ward 3 (moderator 'Gloria' [240]; surname not audible)"
+  },
+  "172": {
+   "name": "Unidentified",
+   "role": "Unidentified - current Stevens High School student speaking in favor of Article 2 (not named)"
+  },
+  "173": {
+   "name": "Unidentified",
+   "role": "Unidentified - current Stevens High School student speaking in favor of Article 2 (not named)"
+  },
+  "174": {
+   "name": "Unidentified",
+   "role": "Unidentified - current Stevens High School student speaking in favor of Article 2 (not named)"
+  },
+  "455": {
+   "name": "Jason Benware",
+   "role": "Claremont School Board member (ASR 'Jason Bentley', 'Jason. Ben. Where')"
+  },
+  "457": {
+   "name": "Jason Benware",
+   "role": "Claremont School Board member (ASR 'Jason Bentley', 'Jason. Ben. Where')"
+  },
+  "459": {
+   "name": "Jason Benware",
+   "role": "Claremont School Board member (ASR 'Jason Bentley', 'Jason. Ben. Where')"
+  },
+  "460": {
+   "name": "Jason Benware",
+   "role": "Claremont School Board member (ASR 'Jason Bentley', 'Jason. Ben. Where')"
+  },
+  "461": {
+   "name": "Jason Benware",
+   "role": "Claremont School Board member (ASR 'Jason Bentley', 'Jason. Ben. Where')"
+  },
+  "533": {
+   "name": "Jason Benware",
+   "role": "Claremont School Board member (ASR 'Jason Bentley', 'Jason. Ben. Where')"
+  },
+  "534": {
+   "name": "Jason Benware",
+   "role": "Claremont School Board member (ASR 'Jason Bentley', 'Jason. Ben. Where')"
+  },
+  "535": {
+   "name": "Jason Benware",
+   "role": "Claremont School Board member (ASR 'Jason Bentley', 'Jason. Ben. Where')"
+  },
+  "537": {
+   "name": "Jason Benware",
+   "role": "Claremont School Board member (ASR 'Jason Bentley', 'Jason. Ben. Where')"
+  },
+  "540": {
+   "name": "Jason Benware",
+   "role": "Claremont School Board member (ASR 'Jason Bentley', 'Jason. Ben. Where')"
+  },
+  "541": {
+   "name": "Jason Benware",
+   "role": "Claremont School Board member (ASR 'Jason Bentley', 'Jason. Ben. Where')"
+  },
+  "543": {
+   "name": "Jason Benware",
+   "role": "Claremont School Board member (ASR 'Jason Bentley', 'Jason. Ben. Where')"
+  },
+  "476": {
+   "name": "Unidentified",
+   "role": "Unidentified - young registered voter who works at the bus garage [476]"
+  },
+  "477": {
+   "name": "Unidentified",
+   "role": "Unidentified - young registered voter who works at the bus garage [476]"
+  },
+  "478": {
+   "name": "Unidentified",
+   "role": "Unidentified - young registered voter who works at the bus garage [476]"
+  },
+  "552": {
+   "name": "Unidentified",
+   "role": "Unidentified - public commenter, Ward 2, on capital reserve funding (ASR 'Bob led a board to')"
+  },
+  "554": {
+   "name": "Unidentified",
+   "role": "Unidentified - public commenter, Ward 2, on capital reserve funding (ASR 'Bob led a board to')"
+  },
+  "556": {
+   "name": "Unidentified",
+   "role": "Unidentified - public commenter, Ward 2, on capital reserve funding (ASR 'Bob led a board to')"
+  },
+  "557": {
+   "name": "Unidentified",
+   "role": "Unidentified - public commenter, Ward 2, on capital reserve funding (ASR 'Bob led a board to')"
+  },
+  "558": {
+   "name": "Unidentified",
+   "role": "Unidentified - public commenter, Ward 2, on capital reserve funding (ASR 'Bob led a board to')"
+  },
+  "559": {
+   "name": "Unidentified",
+   "role": "Unidentified - public commenter, Ward 2, on capital reserve funding (ASR 'Bob led a board to')"
+  },
+  "551": {
+   "name": "Unidentified",
+   "role": "Unidentified - public commenter, Ward 2, on capital reserve funding (ASR 'Bob led a board to')"
+  },
+  "553": {
+   "name": "Unidentified",
+   "role": "Unidentified - public commenter, Ward 2, on capital reserve funding (ASR 'Bob led a board to')"
+  },
+  "555": {
+   "name": "Unidentified",
+   "role": "Unidentified - public commenter, Ward 2, on capital reserve funding (ASR 'Bob led a board to')"
+  },
+  "548": {
+   "name": "Unidentified",
+   "role": "Unidentified - public commenter, Ward 2, on capital reserve funding (ASR 'Bob led a board to')"
+  },
+  "599": {
+   "name": "Adam"
+  },
+  "410": {
+   "name": "Frank Sprague",
+   "role": "Claremont School Board Chair"
+  },
+  "412": {
+   "name": "Frank Sprague",
+   "role": "Claremont School Board Chair"
+  },
+  "414": {
+   "name": "Frank Sprague",
+   "role": "Claremont School Board Chair"
+  },
+  "416": {
+   "name": "Frank Sprague",
+   "role": "Claremont School Board Chair"
+  },
+  "417": {
+   "name": "Frank Sprague",
+   "role": "Claremont School Board Chair"
+  },
+  "337": {
+   "name": "Unidentified",
+   "role": "Unidentified - nay votes from the floor"
+  },
+  "530": {
+   "name": "Jason Benware",
+   "role": "Claremont School Board member (ASR 'Jason Bentley', 'Jason. Ben. Where')"
+  },
+  "219": {
+   "name": "Unidentified",
+   "role": "Unidentified - floor fragment"
+  },
+  "525": {
+   "name": "Unidentified",
+   "role": "Unidentified - floor fragment"
+  },
+  "396": {
+   "name": "Paul"
+  },
+  "399": {
+   "name": "Paul"
+  }
+ }
+}

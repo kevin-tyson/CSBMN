@@ -1,0 +1,475 @@
+{
+ "Speaker 1": {
+  "name": "Sara Lowe",
+  "role": "SAU 6 Board Chair and Unity School Board chair (addressed 'Sarah' [223], [559]; 'It's Sarah' [859]; 'I'm still the chair of unity' [392]); steps down as SAU 6 chair at this meeting [1076]; the diarizer merges several women's voices into this cluster (LeClair and, after the chair change, possibly Erickson), see overrides"
+ },
+ "Speaker 2": {
+  "name": "Mary Woodman",
+  "role": "School district clerk / SAU 6 recording secretary (calls roll [4], [141-159], [192-206]; records motions [13-31]); cluster also carries short interjections of others"
+ },
+ "Speaker 3": {
+  "name": "Marjorie Erickson",
+  "role": "SAU 6 Board member (Unity); elected SAU 6 Board Chair at this meeting [1144] (chair: 'Marge has that' [6] then reads nonpublic minutes [8-31]; recognized 'Marge' [235], [363]); cluster also carries fragments of the chair's sentences, see overrides"
+ },
+ "Speaker 4": {
+  "name": "Nathan",
+  "role": "SAU 6 staff member, human resources (first name only: 'This is Nathan' [848]; 'Nate' [509], [668], [796]; presents SAU staff performance evaluation and merit system [948-1031], 'with us in HR' [1029]); cluster also absorbs board members' onsets, see overrides"
+ },
+ "Speaker 5": {
+  "name": "Frank Sprague",
+  "role": "Claremont School Board Chair; SAU 6 Board member ('Let's get Frank' [348] -> [350]; 'You're talking about me?' when the Claremont chair is meant [380])"
+ },
+ "Speaker 6": {
+  "name": "Unidentified",
+  "role": "Unidentified - cluster of roll-call 'yes' responses, ayes and short interjections from several members; see overrides"
+ },
+ "Speaker 7": {
+  "name": "Michael Petrin",
+  "role": "SAU 6 Board Vice Chair; Claremont School Board member (attribution by elimination: the only member present on roll [4], [143] with no other cluster; Pierce calls him the vice chair [1109]; uncertain)"
+ },
+ "Speaker 8": {
+  "name": "Carolyn Towle",
+  "role": "Claremont School Board member; SAU 6 Board member ('Carol had her hand up' [259] -> [260]; 'Carolyn.' [845] -> [847]; 'Carol, to answer your question' [850])"
+ },
+ "Speaker 9": {
+  "name": "Rebecca Zullo",
+  "role": "Claremont School Board Vice Chair; SAU 6 Board member ('Rebecca and Frank' [344] -> [346]; Sprague 'I agree with what Rebecca just said' [350]; declines SAU chair nomination citing her role as Claremont vice chair [1131])"
+ },
+ "Speaker 10": {
+  "name": "Steven Horsky",
+  "role": "Claremont School Board member (recognized 'Steve' [303], [450], [899]; 'Agreed Steve' [285]); SAU 6 Board member"
+ },
+ "Speaker 11": {
+  "name": "Middleton McGoodwin",
+  "role": "Superintendent, SAU 6 (reads his letter of resignation as superintendent [212-220]; addressed 'Doctor Goodwin' [492]; conducts the SAU chair election [1095-1144])"
+ },
+ "Speaker 12": {
+  "name": "Prudence McCormick",
+  "role": "SAU 6 Board member (Unity) ('Prudence.' [357] -> [359]; 'Prudence to nominate Marjorie' [1105])"
+ },
+ "Speaker 13": {
+  "name": "John",
+  "role": "Public commenter, Claremont ('Good evening, John from Claremont' [117], [831]); says he served on this board for almost a decade [837]; surname not stated"
+ },
+ "Speaker 14": {
+  "name": "Unidentified",
+  "role": "Unidentified - short fragments"
+ },
+ "Speaker 15": {
+  "name": "Michelle Pierce",
+  "role": "Claremont School Board member; SAU 6 Board member ('Michelle, you had your' [270] -> [272]; 'Michelle was next' [338] -> [340]; 'Michelle' [883] -> [885]; nominates Michael Petrin [1108-1109])"
+ },
+ "Speaker 16": {
+  "name": "Cory LeClair",
+  "role": "Assistant Superintendent, SAU 6; appointed Acting Superintendent at this meeting (addressed 'Corey' [340], [919]; 'I hold superintendent certification' [306])"
+ },
+ "Speaker 17": {
+  "name": "Sara Lowe",
+  "role": "SAU 6 Board Chair and Unity School Board chair (addressed 'Sarah' [223], [559]; 'It's Sarah' [859]; 'I'm still the chair of unity' [392]); steps down as SAU 6 chair at this meeting [1076] (second cluster: McGoodwin answers 'If I may, Sarah' [559] directly after this voice's question [556]; [462] completes the chair's sentence from [458])"
+ },
+ "Speaker 18": {
+  "name": "Unidentified",
+  "role": "Unidentified - short fragments"
+ },
+ "Speaker 19": {
+  "name": "Jason Benware",
+  "role": "Claremont School Board member; SAU 6 Board member ('Jason.' [974] -> [976]; nominates Rebecca Zullo [1100], acknowledged 'I don't want you disappointed Jason' [1130]; 'Jason won't be here the 12th' [1175] matches [1166])"
+ },
+ "Speaker 20": {
+  "name": "Michael O'Neill",
+  "role": "Business Administrator, SAU 6, by telephone ('Hey, Mike ... This is Nathan' [848]; 'Can you hear me, Mike? It's Sarah' [859]; surname per roster)"
+ },
+ "Speaker 21": {
+  "name": "Unidentified",
+  "role": "Unidentified - single segment"
+ },
+ "Speaker 22": {
+  "name": "Steven Horsky",
+  "role": "Claremont School Board member (recognized 'Steve' [303], [450], [899]; 'Agreed Steve' [285]); SAU 6 Board member"
+ },
+ "Speaker 23": {
+  "name": "Cory LeClair",
+  "role": "Assistant Superintendent, SAU 6; appointed Acting Superintendent at this meeting (addressed 'Corey' [340], [919]; 'I hold superintendent certification' [306])"
+ },
+ "Speaker 24": {
+  "name": "Unidentified",
+  "role": "Unidentified - short fragments, ayes and recognitions from several voices"
+ },
+ "Speaker 25": {
+  "name": "Unidentified",
+  "role": "Unidentified - short fragments"
+ },
+ "Speaker 26": {
+  "name": "Unidentified",
+  "role": "Unidentified - mixed short fragments (includes clipped onsets of McGoodwin [1196], [1221-1225])"
+ },
+ "Speaker 27": {
+  "name": "Unidentified",
+  "role": "Unidentified - hand count during SAU chair vote"
+ },
+ "Speaker 28": {
+  "name": "Unidentified",
+  "role": "Unidentified - short fragments"
+ },
+ "Speaker 29": {
+  "name": "Unidentified",
+  "role": "Unidentified - short fragments at adjournment"
+ },
+ "Speaker 30": {
+  "name": "Unidentified",
+  "role": "Unidentified - single segment"
+ },
+ "__overrides__": {
+  "292": {
+   "name": "Cory LeClair"
+  },
+  "294": {
+   "name": "Cory LeClair"
+  },
+  "296": {
+   "name": "Cory LeClair"
+  },
+  "297": {
+   "name": "Cory LeClair"
+  },
+  "298": {
+   "name": "Cory LeClair"
+  },
+  "299": {
+   "name": "Cory LeClair"
+  },
+  "300": {
+   "name": "Cory LeClair"
+  },
+  "301": {
+   "name": "Cory LeClair"
+  },
+  "302": {
+   "name": "Cory LeClair"
+  },
+  "306": {
+   "name": "Cory LeClair"
+  },
+  "309": {
+   "name": "Cory LeClair"
+  },
+  "310": {
+   "name": "Cory LeClair"
+  },
+  "314": {
+   "name": "Cory LeClair"
+  },
+  "341": {
+   "name": "Cory LeClair"
+  },
+  "342": {
+   "name": "Cory LeClair"
+  },
+  "343": {
+   "name": "Cory LeClair"
+  },
+  "361": {
+   "name": "Cory LeClair"
+  },
+  "324": {
+   "name": "Sara Lowe"
+  },
+  "328": {
+   "name": "Sara Lowe"
+  },
+  "331": {
+   "name": "Sara Lowe"
+  },
+  "333": {
+   "name": "Sara Lowe"
+  },
+  "335": {
+   "name": "Sara Lowe"
+  },
+  "337": {
+   "name": "Sara Lowe"
+  },
+  "371": {
+   "name": "Sara Lowe"
+  },
+  "376": {
+   "name": "Sara Lowe"
+  },
+  "378": {
+   "name": "Sara Lowe"
+  },
+  "382": {
+   "name": "Sara Lowe"
+  },
+  "384": {
+   "name": "Sara Lowe"
+  },
+  "386": {
+   "name": "Sara Lowe"
+  },
+  "172": {
+   "name": "Unidentified",
+   "role": "Unidentified - short fragment"
+  },
+  "240": {
+   "name": "Marjorie Erickson"
+  },
+  "364": {
+   "name": "Sara Lowe"
+  },
+  "459": {
+   "name": "Sara Lowe"
+  },
+  "461": {
+   "name": "Sara Lowe"
+  },
+  "494": {
+   "name": "Sara Lowe"
+  },
+  "547": {
+   "name": "Sara Lowe"
+  },
+  "553": {
+   "name": "Sara Lowe"
+  },
+  "555": {
+   "name": "Sara Lowe"
+  },
+  "557": {
+   "name": "Sara Lowe"
+  },
+  "655": {
+   "name": "Sara Lowe"
+  },
+  "657": {
+   "name": "Sara Lowe"
+  },
+  "970": {
+   "name": "Sara Lowe"
+  },
+  "1153": {
+   "name": "Sara Lowe"
+  },
+  "1154": {
+   "name": "Sara Lowe"
+  },
+  "1155": {
+   "name": "Sara Lowe"
+  },
+  "1156": {
+   "name": "Sara Lowe"
+  },
+  "1159": {
+   "name": "Sara Lowe"
+  },
+  "1182": {
+   "name": "Sara Lowe"
+  },
+  "311": {
+   "name": "Steven Horsky"
+  },
+  "230": {
+   "name": "Steven Horsky"
+  },
+  "280": {
+   "name": "Steven Horsky"
+  },
+  "304": {
+   "name": "Steven Horsky"
+  },
+  "312": {
+   "name": "Steven Horsky"
+  },
+  "417": {
+   "name": "Steven Horsky"
+  },
+  "419": {
+   "name": "Steven Horsky"
+  },
+  "422": {
+   "name": "Steven Horsky"
+  },
+  "451": {
+   "name": "Steven Horsky"
+  },
+  "466": {
+   "name": "Steven Horsky"
+  },
+  "482": {
+   "name": "Steven Horsky"
+  },
+  "532": {
+   "name": "Steven Horsky"
+  },
+  "644": {
+   "name": "Steven Horsky"
+  },
+  "776": {
+   "name": "Steven Horsky"
+  },
+  "901": {
+   "name": "Steven Horsky"
+  },
+  "33": {
+   "name": "Frank Sprague"
+  },
+  "475": {
+   "name": "Frank Sprague"
+  },
+  "508": {
+   "name": "Frank Sprague"
+  },
+  "91": {
+   "name": "Middleton McGoodwin"
+  },
+  "1196": {
+   "name": "Middleton McGoodwin"
+  },
+  "1221": {
+   "name": "Middleton McGoodwin"
+  },
+  "1223": {
+   "name": "Middleton McGoodwin"
+  },
+  "1225": {
+   "name": "Middleton McGoodwin"
+  },
+  "117": {
+   "name": "John"
+  },
+  "590": {
+   "name": "Jason Benware"
+  },
+  "663": {
+   "name": "Jason Benware"
+  },
+  "1022": {
+   "name": "Carolyn Towle"
+  },
+  "1023": {
+   "name": "Carolyn Towle"
+  },
+  "1081": {
+   "name": "Carolyn Towle"
+  },
+  "1176": {
+   "name": "Carolyn Towle"
+  },
+  "357": {
+   "name": "Unidentified",
+   "role": "Unidentified - recognition or interjection; speaker not determinable"
+  },
+  "490": {
+   "name": "Unidentified",
+   "role": "Unidentified - recognition or interjection; speaker not determinable"
+  },
+  "397": {
+   "name": "Unidentified",
+   "role": "Unidentified - recognition or interjection; speaker not determinable"
+  },
+  "1168": {
+   "name": "Unidentified",
+   "role": "Presiding voice after the SAU chair change: Sara Lowe or Marjorie Erickson (diarizer merges the two; e.g. 'I'm not here August 9th' [1209] vs 'I could do the 29th or the eighth' [1265] and 'I'm not available the 29th' [1259] come from different people in this cluster); uncertain"
+  },
+  "1170": {
+   "name": "Unidentified",
+   "role": "Presiding voice after the SAU chair change: Sara Lowe or Marjorie Erickson (diarizer merges the two; e.g. 'I'm not here August 9th' [1209] vs 'I could do the 29th or the eighth' [1265] and 'I'm not available the 29th' [1259] come from different people in this cluster); uncertain"
+  },
+  "1195": {
+   "name": "Unidentified",
+   "role": "Presiding voice after the SAU chair change: Sara Lowe or Marjorie Erickson (diarizer merges the two; e.g. 'I'm not here August 9th' [1209] vs 'I could do the 29th or the eighth' [1265] and 'I'm not available the 29th' [1259] come from different people in this cluster); uncertain"
+  },
+  "1200": {
+   "name": "Unidentified",
+   "role": "Presiding voice after the SAU chair change: Sara Lowe or Marjorie Erickson (diarizer merges the two; e.g. 'I'm not here August 9th' [1209] vs 'I could do the 29th or the eighth' [1265] and 'I'm not available the 29th' [1259] come from different people in this cluster); uncertain"
+  },
+  "1202": {
+   "name": "Unidentified",
+   "role": "Presiding voice after the SAU chair change: Sara Lowe or Marjorie Erickson (diarizer merges the two; e.g. 'I'm not here August 9th' [1209] vs 'I could do the 29th or the eighth' [1265] and 'I'm not available the 29th' [1259] come from different people in this cluster); uncertain"
+  },
+  "1204": {
+   "name": "Unidentified",
+   "role": "Presiding voice after the SAU chair change: Sara Lowe or Marjorie Erickson (diarizer merges the two; e.g. 'I'm not here August 9th' [1209] vs 'I could do the 29th or the eighth' [1265] and 'I'm not available the 29th' [1259] come from different people in this cluster); uncertain"
+  },
+  "1206": {
+   "name": "Unidentified",
+   "role": "Presiding voice after the SAU chair change: Sara Lowe or Marjorie Erickson (diarizer merges the two; e.g. 'I'm not here August 9th' [1209] vs 'I could do the 29th or the eighth' [1265] and 'I'm not available the 29th' [1259] come from different people in this cluster); uncertain"
+  },
+  "1208": {
+   "name": "Unidentified",
+   "role": "Presiding voice after the SAU chair change: Sara Lowe or Marjorie Erickson (diarizer merges the two; e.g. 'I'm not here August 9th' [1209] vs 'I could do the 29th or the eighth' [1265] and 'I'm not available the 29th' [1259] come from different people in this cluster); uncertain"
+  },
+  "1209": {
+   "name": "Unidentified",
+   "role": "Presiding voice after the SAU chair change: Sara Lowe or Marjorie Erickson (diarizer merges the two; e.g. 'I'm not here August 9th' [1209] vs 'I could do the 29th or the eighth' [1265] and 'I'm not available the 29th' [1259] come from different people in this cluster); uncertain"
+  },
+  "1211": {
+   "name": "Unidentified",
+   "role": "Presiding voice after the SAU chair change: Sara Lowe or Marjorie Erickson (diarizer merges the two; e.g. 'I'm not here August 9th' [1209] vs 'I could do the 29th or the eighth' [1265] and 'I'm not available the 29th' [1259] come from different people in this cluster); uncertain"
+  },
+  "1215": {
+   "name": "Unidentified",
+   "role": "Presiding voice after the SAU chair change: Sara Lowe or Marjorie Erickson (diarizer merges the two; e.g. 'I'm not here August 9th' [1209] vs 'I could do the 29th or the eighth' [1265] and 'I'm not available the 29th' [1259] come from different people in this cluster); uncertain"
+  },
+  "1218": {
+   "name": "Unidentified",
+   "role": "Presiding voice after the SAU chair change: Sara Lowe or Marjorie Erickson (diarizer merges the two; e.g. 'I'm not here August 9th' [1209] vs 'I could do the 29th or the eighth' [1265] and 'I'm not available the 29th' [1259] come from different people in this cluster); uncertain"
+  },
+  "1231": {
+   "name": "Unidentified",
+   "role": "Presiding voice after the SAU chair change: Sara Lowe or Marjorie Erickson (diarizer merges the two; e.g. 'I'm not here August 9th' [1209] vs 'I could do the 29th or the eighth' [1265] and 'I'm not available the 29th' [1259] come from different people in this cluster); uncertain"
+  },
+  "1234": {
+   "name": "Unidentified",
+   "role": "Presiding voice after the SAU chair change: Sara Lowe or Marjorie Erickson (diarizer merges the two; e.g. 'I'm not here August 9th' [1209] vs 'I could do the 29th or the eighth' [1265] and 'I'm not available the 29th' [1259] come from different people in this cluster); uncertain"
+  },
+  "1236": {
+   "name": "Unidentified",
+   "role": "Presiding voice after the SAU chair change: Sara Lowe or Marjorie Erickson (diarizer merges the two; e.g. 'I'm not here August 9th' [1209] vs 'I could do the 29th or the eighth' [1265] and 'I'm not available the 29th' [1259] come from different people in this cluster); uncertain"
+  },
+  "1246": {
+   "name": "Unidentified",
+   "role": "Presiding voice after the SAU chair change: Sara Lowe or Marjorie Erickson (diarizer merges the two; e.g. 'I'm not here August 9th' [1209] vs 'I could do the 29th or the eighth' [1265] and 'I'm not available the 29th' [1259] come from different people in this cluster); uncertain"
+  },
+  "1248": {
+   "name": "Unidentified",
+   "role": "Presiding voice after the SAU chair change: Sara Lowe or Marjorie Erickson (diarizer merges the two; e.g. 'I'm not here August 9th' [1209] vs 'I could do the 29th or the eighth' [1265] and 'I'm not available the 29th' [1259] come from different people in this cluster); uncertain"
+  },
+  "1253": {
+   "name": "Unidentified",
+   "role": "Presiding voice after the SAU chair change: Sara Lowe or Marjorie Erickson (diarizer merges the two; e.g. 'I'm not here August 9th' [1209] vs 'I could do the 29th or the eighth' [1265] and 'I'm not available the 29th' [1259] come from different people in this cluster); uncertain"
+  },
+  "1256": {
+   "name": "Unidentified",
+   "role": "Presiding voice after the SAU chair change: Sara Lowe or Marjorie Erickson (diarizer merges the two; e.g. 'I'm not here August 9th' [1209] vs 'I could do the 29th or the eighth' [1265] and 'I'm not available the 29th' [1259] come from different people in this cluster); uncertain"
+  },
+  "1257": {
+   "name": "Unidentified",
+   "role": "Presiding voice after the SAU chair change: Sara Lowe or Marjorie Erickson (diarizer merges the two; e.g. 'I'm not here August 9th' [1209] vs 'I could do the 29th or the eighth' [1265] and 'I'm not available the 29th' [1259] come from different people in this cluster); uncertain"
+  },
+  "1259": {
+   "name": "Unidentified",
+   "role": "Presiding voice after the SAU chair change: Sara Lowe or Marjorie Erickson (diarizer merges the two; e.g. 'I'm not here August 9th' [1209] vs 'I could do the 29th or the eighth' [1265] and 'I'm not available the 29th' [1259] come from different people in this cluster); uncertain"
+  },
+  "1261": {
+   "name": "Unidentified",
+   "role": "Presiding voice after the SAU chair change: Sara Lowe or Marjorie Erickson (diarizer merges the two; e.g. 'I'm not here August 9th' [1209] vs 'I could do the 29th or the eighth' [1265] and 'I'm not available the 29th' [1259] come from different people in this cluster); uncertain"
+  },
+  "1265": {
+   "name": "Unidentified",
+   "role": "Presiding voice after the SAU chair change: Sara Lowe or Marjorie Erickson (diarizer merges the two; e.g. 'I'm not here August 9th' [1209] vs 'I could do the 29th or the eighth' [1265] and 'I'm not available the 29th' [1259] come from different people in this cluster); uncertain"
+  },
+  "1267": {
+   "name": "Unidentified",
+   "role": "Presiding voice after the SAU chair change: Sara Lowe or Marjorie Erickson (diarizer merges the two; e.g. 'I'm not here August 9th' [1209] vs 'I could do the 29th or the eighth' [1265] and 'I'm not available the 29th' [1259] come from different people in this cluster); uncertain"
+  },
+  "1269": {
+   "name": "Unidentified",
+   "role": "Presiding voice after the SAU chair change: Sara Lowe or Marjorie Erickson (diarizer merges the two; e.g. 'I'm not here August 9th' [1209] vs 'I could do the 29th or the eighth' [1265] and 'I'm not available the 29th' [1259] come from different people in this cluster); uncertain"
+  },
+  "1284": {
+   "name": "Unidentified",
+   "role": "Presiding voice after the SAU chair change: Sara Lowe or Marjorie Erickson (diarizer merges the two; e.g. 'I'm not here August 9th' [1209] vs 'I could do the 29th or the eighth' [1265] and 'I'm not available the 29th' [1259] come from different people in this cluster); uncertain"
+  }
+ }
+}

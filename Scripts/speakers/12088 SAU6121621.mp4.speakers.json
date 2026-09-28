@@ -1,0 +1,520 @@
+{
+ "Speaker 1": {
+  "name": "Unidentified",
+  "role": "Unidentified - cluster mixes pre-meeting chatter and roll-call answers from several members; answers reassigned by name called, see overrides"
+ },
+ "Speaker 2": {
+  "name": "Michael Petrin",
+  "role": "SAU 6 Board Chair (Claremont member) - runs the second half: recognizes Steven, Heather, Nick, calls the budget and contract votes"
+ },
+ "Speaker 3": {
+  "name": "Richard Seaman",
+  "role": "Assistant Superintendent for Finance, SAU 6 - presents the SAU budget, addressed as Richard; cluster also carries the chair's opening and Sprague's motions, see overrides"
+ },
+ "Speaker 4": {
+  "name": "Mary Woodman",
+  "role": "School district clerk and recording secretary - takes attendance and roll-call votes; Heather Whitney's remarks in this cluster are overridden"
+ },
+ "Speaker 5": {
+  "name": "Steven Horsky",
+  "role": "SAU 6 Board member (Claremont)"
+ },
+ "Speaker 6": {
+  "name": "Michael Tempesta",
+  "role": "Superintendent, SAU 6"
+ },
+ "Speaker 7": {
+  "name": "Unidentified",
+  "role": "Unidentified - board-side voice (mic request to Richard, 'if the money's not used it goes back'); possibly Marjorie Erickson (uncertain - never named)"
+ },
+ "Speaker 8": {
+  "name": "Unidentified",
+  "role": "Unidentified - off-mic chatter during recess"
+ },
+ "Speaker 9": {
+  "name": "Unidentified",
+  "role": "Unidentified - off-mic chatter during recess"
+ },
+ "Speaker 10": {
+  "name": "Unidentified",
+  "role": "Unidentified - off-mic chatter during recess"
+ },
+ "Speaker 11": {
+  "name": "Unidentified",
+  "role": "Unidentified - off-mic chatter during recess"
+ },
+ "Speaker 12": {
+  "name": "Unidentified",
+  "role": "Unidentified - brief interjections and an 'aye'"
+ },
+ "Speaker 13": {
+  "name": "Nicholas Stone",
+  "role": "SAU 6 Board member (Claremont) - called on as 'Nick'"
+ },
+ "Speaker 14": {
+  "name": "Michael Tempesta",
+  "role": "Superintendent, SAU 6 - second cluster; explains merit-pool history; cluster also carries fragments of Sprague, see overrides"
+ },
+ "Speaker 15": {
+  "name": "Heather Whitney",
+  "role": "SAU 6 Board member (Claremont) - fragments inside her remarks (uncertain for seg 288)"
+ },
+ "Speaker 16": {
+  "name": "Rob Lovett Jr.",
+  "role": "SAU 6 Board member (Claremont), attending remotely - answers 'Is Rob still on'"
+ },
+ "Speaker 17": {
+  "name": "Frank Sprague",
+  "role": "SAU 6 Board member (Claremont); Claremont School Board Chair"
+ },
+ "Speaker 18": {
+  "name": "Unidentified",
+  "role": "Unidentified - closing 'All right'"
+ },
+ "__overrides__": {
+  "10": {
+   "name": "Michael Petrin",
+   "role": "SAU 6 Board Chair (Claremont member)"
+  },
+  "11": {
+   "name": "Michael Petrin",
+   "role": "SAU 6 Board Chair (Claremont member)"
+  },
+  "12": {
+   "name": "Michael Petrin",
+   "role": "SAU 6 Board Chair (Claremont member)"
+  },
+  "13": {
+   "name": "Michael Petrin",
+   "role": "SAU 6 Board Chair (Claremont member)"
+  },
+  "17": {
+   "name": "John Dempsey",
+   "role": "SAU 6 Board member (Unity)"
+  },
+  "19": {
+   "name": "Steven Horsky",
+   "role": "SAU 6 Board member (Claremont)"
+  },
+  "21": {
+   "name": "Rob Lovett Jr.",
+   "role": "SAU 6 Board member (Claremont), attending remotely"
+  },
+  "23": {
+   "name": "Michael Petrin",
+   "role": "SAU 6 Board Chair (Claremont member)"
+  },
+  "25": {
+   "name": "Michael Petrin",
+   "role": "SAU 6 Board Chair (Claremont member)"
+  },
+  "26": {
+   "name": "Michael Petrin",
+   "role": "SAU 6 Board Chair (Claremont member)"
+  },
+  "27": {
+   "name": "Michael Petrin",
+   "role": "SAU 6 Board Chair (Claremont member)"
+  },
+  "28": {
+   "name": "Steven Horsky",
+   "role": "SAU 6 Board member (Claremont)"
+  },
+  "31": {
+   "name": "Michael Petrin",
+   "role": "SAU 6 Board Chair (Claremont member)"
+  },
+  "33": {
+   "name": "Michael Petrin",
+   "role": "SAU 6 Board Chair (Claremont member)"
+  },
+  "34": {
+   "name": "Michael Petrin",
+   "role": "SAU 6 Board Chair (Claremont member)"
+  },
+  "48": {
+   "name": "Michael Petrin",
+   "role": "SAU 6 Board Chair (Claremont member)"
+  },
+  "49": {
+   "name": "Michael Petrin",
+   "role": "SAU 6 Board Chair (Claremont member)"
+  },
+  "50": {
+   "name": "Michael Petrin",
+   "role": "SAU 6 Board Chair (Claremont member)"
+  },
+  "52": {
+   "name": "Michael Petrin",
+   "role": "SAU 6 Board Chair (Claremont member)"
+  },
+  "55": {
+   "name": "Rocco Ruggeri",
+   "role": "SAU 6 Board member (Unity) (roll-call answer; ASR 'Or Jerry', 'Rocco. Would you')"
+  },
+  "57": {
+   "name": "John Dempsey",
+   "role": "SAU 6 Board member (Unity)"
+  },
+  "59": {
+   "name": "Frank Sprague",
+   "role": "SAU 6 Board member (Claremont); Claremont School Board Chair"
+  },
+  "61": {
+   "name": "Steven Horsky",
+   "role": "SAU 6 Board member (Claremont)"
+  },
+  "63": {
+   "name": "Rob Lovett Jr.",
+   "role": "SAU 6 Board member (Claremont), attending remotely"
+  },
+  "65": {
+   "name": "Nicholas Stone",
+   "role": "SAU 6 Board member (Claremont)"
+  },
+  "67": {
+   "name": "Michael Petrin",
+   "role": "SAU 6 Board Chair (Claremont member)"
+  },
+  "69": {
+   "name": "Michael Petrin",
+   "role": "SAU 6 Board Chair (Claremont member)"
+  },
+  "70": {
+   "name": "Michael Petrin",
+   "role": "SAU 6 Board Chair (Claremont member)"
+  },
+  "72": {
+   "name": "Michael Petrin",
+   "role": "SAU 6 Board Chair (Claremont member)"
+  },
+  "75": {
+   "name": "Michael Petrin",
+   "role": "SAU 6 Board Chair (Claremont member)"
+  },
+  "77": {
+   "name": "Michael Petrin",
+   "role": "SAU 6 Board Chair (Claremont member)"
+  },
+  "78": {
+   "name": "Michael Petrin",
+   "role": "SAU 6 Board Chair (Claremont member)"
+  },
+  "80": {
+   "name": "Rocco Ruggeri",
+   "role": "SAU 6 Board member (Unity) (roll-call answer; ASR 'Or Jerry', 'Rocco. Would you')"
+  },
+  "82": {
+   "name": "John Dempsey",
+   "role": "SAU 6 Board member (Unity)"
+  },
+  "84": {
+   "name": "Frank Sprague",
+   "role": "SAU 6 Board member (Claremont); Claremont School Board Chair"
+  },
+  "86": {
+   "name": "Steven Horsky",
+   "role": "SAU 6 Board member (Claremont)"
+  },
+  "88": {
+   "name": "Rob Lovett Jr.",
+   "role": "SAU 6 Board member (Claremont), attending remotely"
+  },
+  "90": {
+   "name": "Nicholas Stone",
+   "role": "SAU 6 Board member (Claremont)"
+  },
+  "92": {
+   "name": "Michael Petrin",
+   "role": "SAU 6 Board Chair (Claremont member)"
+  },
+  "93": {
+   "name": "Michael Petrin",
+   "role": "SAU 6 Board Chair (Claremont member)"
+  },
+  "96": {
+   "name": "Richard Seaman",
+   "role": "Assistant Superintendent for Finance, SAU 6"
+  },
+  "98": {
+   "name": "Richard Seaman",
+   "role": "Assistant Superintendent for Finance, SAU 6"
+  },
+  "100": {
+   "name": "Richard Seaman",
+   "role": "Assistant Superintendent for Finance, SAU 6"
+  },
+  "102": {
+   "name": "Richard Seaman",
+   "role": "Assistant Superintendent for Finance, SAU 6"
+  },
+  "109": {
+   "name": "Michael Petrin",
+   "role": "SAU 6 Board Chair (Claremont member)"
+  },
+  "111": {
+   "name": "Michael Petrin",
+   "role": "SAU 6 Board Chair (Claremont member)"
+  },
+  "112": {
+   "name": "Unidentified",
+   "role": "Unidentified - off-mic chatter during recess"
+  },
+  "113": {
+   "name": "Unidentified",
+   "role": "Unidentified - off-mic chatter during recess"
+  },
+  "115": {
+   "name": "Unidentified",
+   "role": "Unidentified - off-mic chatter during recess"
+  },
+  "118": {
+   "name": "Unidentified",
+   "role": "Unidentified - off-mic chatter during recess"
+  },
+  "120": {
+   "name": "Unidentified",
+   "role": "Unidentified - off-mic chatter during recess"
+  },
+  "134": {
+   "name": "Unidentified",
+   "role": "Unidentified - off-mic chatter during recess"
+  },
+  "138": {
+   "name": "Unidentified",
+   "role": "Unidentified - off-mic chatter during recess"
+  },
+  "140": {
+   "name": "Unidentified",
+   "role": "Unidentified - off-mic chatter during recess"
+  },
+  "146": {
+   "name": "Unidentified",
+   "role": "Unidentified - off-mic chatter during recess"
+  },
+  "149": {
+   "name": "Unidentified",
+   "role": "Unidentified - off-mic chatter during recess"
+  },
+  "151": {
+   "name": "Unidentified",
+   "role": "Unidentified - off-mic chatter during recess"
+  },
+  "153": {
+   "name": "Unidentified",
+   "role": "Unidentified - off-mic chatter during recess"
+  },
+  "156": {
+   "name": "Unidentified",
+   "role": "Unidentified - off-mic chatter during recess"
+  },
+  "158": {
+   "name": "Unidentified",
+   "role": "Unidentified - off-mic chatter during recess"
+  },
+  "161": {
+   "name": "Unidentified",
+   "role": "Unidentified - off-mic chatter during recess"
+  },
+  "164": {
+   "name": "Unidentified",
+   "role": "Unidentified - off-mic chatter during recess"
+  },
+  "168": {
+   "name": "Unidentified",
+   "role": "Unidentified - off-mic chatter during recess"
+  },
+  "170": {
+   "name": "Unidentified",
+   "role": "Unidentified - off-mic chatter during recess"
+  },
+  "171": {
+   "name": "Unidentified",
+   "role": "Unidentified - off-mic chatter during recess"
+  },
+  "217": {
+   "name": "Frank Sprague",
+   "role": "SAU 6 Board member (Claremont); Claremont School Board Chair"
+  },
+  "220": {
+   "name": "Frank Sprague",
+   "role": "SAU 6 Board member (Claremont); Claremont School Board Chair"
+  },
+  "221": {
+   "name": "Frank Sprague",
+   "role": "SAU 6 Board member (Claremont); Claremont School Board Chair"
+  },
+  "222": {
+   "name": "Frank Sprague",
+   "role": "SAU 6 Board member (Claremont); Claremont School Board Chair"
+  },
+  "224": {
+   "name": "Frank Sprague",
+   "role": "SAU 6 Board member (Claremont); Claremont School Board Chair"
+  },
+  "225": {
+   "name": "Frank Sprague",
+   "role": "SAU 6 Board member (Claremont); Claremont School Board Chair"
+  },
+  "226": {
+   "name": "Frank Sprague",
+   "role": "SAU 6 Board member (Claremont); Claremont School Board Chair"
+  },
+  "227": {
+   "name": "Frank Sprague",
+   "role": "SAU 6 Board member (Claremont); Claremont School Board Chair"
+  },
+  "228": {
+   "name": "Frank Sprague",
+   "role": "SAU 6 Board member (Claremont); Claremont School Board Chair"
+  },
+  "230": {
+   "name": "Frank Sprague",
+   "role": "SAU 6 Board member (Claremont); Claremont School Board Chair"
+  },
+  "232": {
+   "name": "Frank Sprague",
+   "role": "SAU 6 Board member (Claremont); Claremont School Board Chair"
+  },
+  "233": {
+   "name": "Frank Sprague",
+   "role": "SAU 6 Board member (Claremont); Claremont School Board Chair"
+  },
+  "234": {
+   "name": "Frank Sprague",
+   "role": "SAU 6 Board member (Claremont); Claremont School Board Chair"
+  },
+  "235": {
+   "name": "Frank Sprague",
+   "role": "SAU 6 Board member (Claremont); Claremont School Board Chair"
+  },
+  "236": {
+   "name": "Frank Sprague",
+   "role": "SAU 6 Board member (Claremont); Claremont School Board Chair"
+  },
+  "237": {
+   "name": "Frank Sprague",
+   "role": "SAU 6 Board member (Claremont); Claremont School Board Chair"
+  },
+  "238": {
+   "name": "Frank Sprague",
+   "role": "SAU 6 Board member (Claremont); Claremont School Board Chair"
+  },
+  "239": {
+   "name": "Frank Sprague",
+   "role": "SAU 6 Board member (Claremont); Claremont School Board Chair"
+  },
+  "246": {
+   "name": "Frank Sprague",
+   "role": "SAU 6 Board member (Claremont); Claremont School Board Chair"
+  },
+  "248": {
+   "name": "Frank Sprague",
+   "role": "SAU 6 Board member (Claremont); Claremont School Board Chair"
+  },
+  "286": {
+   "name": "Heather Whitney",
+   "role": "SAU 6 Board member (Claremont)"
+  },
+  "304": {
+   "name": "Heather Whitney",
+   "role": "SAU 6 Board member (Claremont)"
+  },
+  "306": {
+   "name": "Heather Whitney",
+   "role": "SAU 6 Board member (Claremont)"
+  },
+  "308": {
+   "name": "Heather Whitney",
+   "role": "SAU 6 Board member (Claremont)"
+  },
+  "310": {
+   "name": "Heather Whitney",
+   "role": "SAU 6 Board member (Claremont)"
+  },
+  "312": {
+   "name": "Heather Whitney",
+   "role": "SAU 6 Board member (Claremont)"
+  },
+  "314": {
+   "name": "Heather Whitney",
+   "role": "SAU 6 Board member (Claremont)"
+  },
+  "316": {
+   "name": "Heather Whitney",
+   "role": "SAU 6 Board member (Claremont)"
+  },
+  "318": {
+   "name": "Heather Whitney",
+   "role": "SAU 6 Board member (Claremont)"
+  },
+  "320": {
+   "name": "Heather Whitney",
+   "role": "SAU 6 Board member (Claremont)"
+  },
+  "322": {
+   "name": "Heather Whitney",
+   "role": "SAU 6 Board member (Claremont)"
+  },
+  "324": {
+   "name": "Heather Whitney",
+   "role": "SAU 6 Board member (Claremont)"
+  },
+  "326": {
+   "name": "Heather Whitney",
+   "role": "SAU 6 Board member (Claremont)"
+  },
+  "334": {
+   "name": "Frank Sprague",
+   "role": "SAU 6 Board member (Claremont); Claremont School Board Chair"
+  },
+  "335": {
+   "name": "Frank Sprague",
+   "role": "SAU 6 Board member (Claremont); Claremont School Board Chair"
+  },
+  "336": {
+   "name": "Heather Whitney",
+   "role": "SAU 6 Board member (Claremont)"
+  },
+  "359": {
+   "name": "Frank Sprague",
+   "role": "SAU 6 Board member (Claremont); Claremont School Board Chair"
+  },
+  "360": {
+   "name": "Frank Sprague",
+   "role": "SAU 6 Board member (Claremont); Claremont School Board Chair"
+  },
+  "361": {
+   "name": "Frank Sprague",
+   "role": "SAU 6 Board member (Claremont); Claremont School Board Chair"
+  },
+  "362": {
+   "name": "Frank Sprague",
+   "role": "SAU 6 Board member (Claremont); Claremont School Board Chair"
+  },
+  "366": {
+   "name": "Frank Sprague",
+   "role": "SAU 6 Board member (Claremont); Claremont School Board Chair"
+  },
+  "368": {
+   "name": "Frank Sprague",
+   "role": "SAU 6 Board member (Claremont); Claremont School Board Chair"
+  },
+  "370": {
+   "name": "Frank Sprague",
+   "role": "SAU 6 Board member (Claremont); Claremont School Board Chair"
+  },
+  "371": {
+   "name": "Frank Sprague",
+   "role": "SAU 6 Board member (Claremont); Claremont School Board Chair"
+  },
+  "372": {
+   "name": "Frank Sprague",
+   "role": "SAU 6 Board member (Claremont); Claremont School Board Chair"
+  },
+  "374": {
+   "name": "Frank Sprague",
+   "role": "SAU 6 Board member (Claremont); Claremont School Board Chair"
+  }
+ }
+}

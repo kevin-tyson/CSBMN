@@ -1,0 +1,389 @@
+{
+ "Speaker 1": {
+  "name": "Unidentified",
+  "role": "UNIDENTIFIED VOICE IN THE ROOM - one pre-gavel segment only (0.90-2.54 s, 'Read it. Read it to sleep tonight.'), spoken before the chair calls the meeting to order. No anchor of any kind."
+ },
+ "Speaker 2": {
+  "name": "Mary Henry",
+  "role": "BUSINESS ADMINISTRATOR, Claremont School District / SAU 6 (started early July 2023). TWO WOMEN SHARE THIS CLUSTER. Chair Heather Whitney owns it from the gavel through segment 289 and is carried back by override; from segment 291 (3551 s) it is Mary Henry, who inherits the cluster the chair vacates when the chair's voice moves to Speaker 15 at 3661 s - the Addendum 8 pattern 'the chair's cluster is inherited by whoever is silent early', here with the business administrator as the late arrival. NAMING: the chair hands her the floor, 'the revised, presentation from Miss Henry, our business administrator' (289, 'Henry' conf 0.97), and calls her 'Miss Henry' again at 311, 360, 405 and 488 and 'Mary' at 415 and 445 (conf 1.00). She speaks in the first person as the district's finance officer - 'I have to thank the two people in my office... Kim De Grasse and Lori Murray' (294-297), 'I emailed Frank and asked him if we could get together for just finance Committee on Thursday' (363), 'I also need to meet with Mike McCusker [McCosker]' (354, conf 0.95). WHAT SEPARATES HER FROM THE CHAIR INSIDE THIS CLUSTER: she refers to the chair in the third person, 'as soon as I get the digital copy I will send it to Heather' (316, 'Heather' conf 1.00), and to the policy chair as 'Whitney' (344, 345). Segment 317 also swallows the chair's recognition 'Miss Crawford.' (conf 1.00) at its tail and cannot be split without altering the transcript. Segment 530 is the weakest row left with her: a bare time confirmation for the SAU meeting, cluster affinity only."
+ },
+ "Speaker 3": {
+  "name": "Unidentified",
+  "role": "CRUMB CLUSTER, not a person - 23 fragments between 16 s and 1045 s, most of them sub-second sentence pieces clipped out of the neighbouring speaker. Seven that grammatically continue Mike Koski's own sentences are reassigned to him by override (25, 32, 55, 59, 68, 72, 76), three that run into Arlene Hawkins's questions are reassigned to her (28, 35, 51), and the Pledge of Allegiance (2) is relabelled Multiple. What is left is one roll-call 'Here.' whose owner cannot be recovered (4) and eleven bare backchannels ('Okay.', 'Yeah.', 'Right.') that belong to more than one voice."
+ },
+ "Speaker 4": {
+  "name": "Mike Koski",
+  "role": "ASSISTANT SUPERINTENDENT, SAU 6 (ASR 'Kosky'). CHAIR'S RECOGNITION: 'we will move on to the second item on the agenda, which is an update from Mr. Kosky or Assistant Super Intendant on the state results' (16, 'Kosky' conf 1.00) - and this voice opens the PSAT/SAT presentation 2.5 s later (18). He runs the slides himself ('Let's try turning it on. Here we go.', 19), reports fall 2024 PSAT results for 37 students in grades 9-11, the 2022 whole-grade administrations, and points the board to 'I report NH' for cross-district comparison (129). He speaks as central-office staff about the district's past decisions in the third person - 'I'm not sure what the decision was in 22 to stop and go to a selective group. But you can talk to the new administration about that' (118). TWO WEAKER ROWS ARE LEFT HERE AND FLAGGED: segment 8 ('Speedrun [Suggest] scratching, number one, since nobody's here'), the first segment of the cluster, during the agenda amendments; and segment 189 ('Just emailed that. Yes.') during the failed slideshow setup, where the chair jokes that 'we just happen to have our IT expert here tonight' (186-187). Neither carries a spoken anchor. Segment 274 is Candace Crawford's sentence onset and is reassigned by override."
+ },
+ "Speaker 5": {
+  "name": "Malachi",
+  "role": "STUDENT PRESENTER, Stevens High School - class vice president and a junior; SURNAME NEVER SPOKEN ANYWHERE IN THE RECORDING. Named twice by the other presenter: student board member Lily Clark says 'Our vice president is actually here. Malachi.' (149, conf 0.95) and Sarah Wheeler opens the presentation with 'My name is Sarah Wheeler. This is Malachi.' (194, 'Malachi' conf 0.86). This voice is the one Sarah is NOT: it says 'which I, Sarah was talking about earlier' (218, 'Sarah' conf 0.88) and 'I agree with Sarah' (265, conf 1.00), and identifies itself as a junior against her senior year - 'I would say as a junior I'm not in the same situation as her... a lot of the people in my junior class, Lily and Miles would know' (264). He delivers the second half of the sleep-and-stress project (215-241) and answers the board's questions (250-252, 264-266, 271-272, 279). CLUSTER ALSO HOLDS CANDACE CRAWFORD: her turns between 144 s and 1419 s sit here and are reassigned by override; two Mary Henry sentence-tails (292, 355) and two crumbs (165, 310) are reassigned as well."
+ },
+ "Speaker 6": {
+  "name": "Arlene Hawkins",
+  "role": "CLAREMONT SCHOOL BOARD MEMBER; also CHAIR of the SAU 6 joint board and the board's curriculum representative - THE SAME VOICE AS SPEAKER 11, which the diarizer opens at 3046 s after this cluster stops at 2057 s (the two never overlap). THE ANCHOR IS CONTENT, AND IT IS EXACT: at the agenda amendments this cluster says 'I have, one item that is a kudos to someone. And then a request for next week's s, a [SAU] board meeting request and their other business. Neither of which require a decision.' (13) - and at other business Speaker 11 delivers precisely those two items in that order, the shout-out to Chelsea Weatherford (525) and the request that every member attend next Thursday's SAU 6 meeting so it has a quorum (526-528). See Speaker 11 for the evidence naming that voice Arlene Hawkins. Her questions here are a curriculum representative's: the colour-coding of Koski's graphs (27, 29), what ERW stands for (36), whether the other SAUs in the state do the same testing (124), and 'The poor towns, how are their grades compared to the wealthier?' (130). CONTAMINATED STRETCH: segments 177-193 fall inside 150 seconds of failed-projector crosstalk in which the two student presenters, the chair and the board are all talking over one another; 179, 180 and 185 are reassigned to Malachi and 187 to the chair on grammatical continuation, and 177, 182, 188, 190 and 193 are left Unidentified. Segment 101 is the chair's clipped onset."
+ },
+ "Speaker 7": {
+  "name": "Frank Sprague",
+  "role": "VICE CHAIR, Claremont School Board, and CHAIR of the Finance Committee (Finance = Sprague chair, Crawford, Whitney, per the 3/20/2024 and 9/30/2024 subcommittee readings). NAMED IN THE EXCHANGES HE IS PART OF: business administrator Mary Henry asks 'One more question for you, Frank. What time do you want to do on Thursday?' (390, 'Frank' conf 1.00) and this voice answers 'I, I'm like I said, I'm retired and I'm flexible' (392); Henry again, 'I think what might be a good idea, Frank, I don't know. You want me to send it to you?' (476, conf 1.00) with this voice answering 'Or do you need that?' (477); Henry reports 'I emailed Frank and asked him if we could get together for just finance Committee' (363) and this voice negotiates the dates (367, 369, 413); chair Whitney addresses him, 'Frank, if you want to let CCTV know what your gut is telling you, after discussing it with Mary' (415, conf 1.00), and later credits him from the floor, 'To Mr. Springs [Sprague's] Point. Everybody knows what their tax rate is' (524, 'Springs' conf 1.00), referring back to this voice's tax-rate-document remark at 409. He speaks from inside the Finance Committee ('we'll know more after we meet on Thursday', 413; 'we'll be deciding what we're going to send to the rest of the board', 439; 'we did that last year, made sure the whole board got [it]', 452), asks the DRA public-hearing deadline (466), moves to endorse the school-funding letter (498, 500-501, 505) and then raises the point of order that kills his own motion (507, 509, 511). TWO STATEMENTS IN THIS CLUSTER PULL IN OPPOSITE DIRECTIONS AND THE CONFLICT IS LEFT OPEN. For Sprague: 'So. So I went to Stephen's High school a really long time ago. And when I went there, we also had a seven period day' (255) matches his own words in `15205 SchoolBoard071923.mp4.CSV`, where he says 'That was not the case when I went there' about Stevens and 'being a high school principal, three different high schools'; and the school-insider framing of 'we used to have a partnership with Dartmouth' (88) and 'We used to have a program also called Educational Talent Search' (104) fits a retired district administrator. Against Sprague: 'So both of our kids participated in that because I'm not considered to have a higher degree because I only have an associate's degree... both my my wife and I both have socialist [associate's] degrees. So my kids are considered to have parents that don't have higher education' (105) - EVERY WORD OF IT AT ASR CONFIDENCE 1.00 - cannot be squared with a principal of three high schools. COMPETING READING, STATED PLAINLY: this cluster has two blocks that never interleave - a PSAT/schedule block (496-3336 s) carrying NO name anchor at all, and a budget block (4056-5092 s) carrying every one of the 'Frank' anchors above - separated by twelve minutes of silence. A merge of two men (this diarizer's commonest failure) therefore cannot be excluded, and Michael Petrin is the seated member who would be the other man. The cluster is kept as one person because the Stevens-alumnus self-description independently matches Sprague, because register and topic are continuous across both blocks, and because Petrin is not named, addressed or otherwise evidenced anywhere in this recording. A human should settle the associate's-degree line. Segment 421 is the chair's sentence-tail and is reassigned."
+ },
+ "Speaker 8": {
+  "name": "Unidentified",
+  "role": "UNIDENTIFIED VOICE AT THE BOARD TABLE - ten short reactions between 1467 s and 1867 s, all inside the student board members' report ('Thank you. Thank you. Thank you.', 'Hi.', 'Nice.', 'Is he good?', 'Isn't that drive?', 'Yeah. Thank you. No. That's great.'). It is a warm, engaged voice in the room and it is not any of the five people already anchored - Whitney, Sprague, Crawford, Hawkins and Koski all hold their own clusters across this same stretch. ELIMINATION IS NOT AVAILABLE: Whitney Skillen, Bonnie Miles and Michael Petrin are all seated members with no cluster in this file, and business administrator Mary Henry and clerk Noelle Kronberg are also in the room, so at least five people could be this voice and no name is spoken for it."
+ },
+ "Speaker 9": {
+  "name": "Sarah Wheeler",
+  "role": "STUDENT PRESENTER, Stevens High School - a senior. SELF-IDENTIFICATION: 'My name is Sarah Wheeler. This is Malachi.' (194, 'Sarah' conf 1.00 / 'Wheeler' conf 1.00), corroborated by the other presenter naming her twice (218, 265). She presents the first half of the sleep-and-stress survey (194-211) and answers the board on graduation credits, her EMT course at another school, college stats and college English, and working at the hospital ('I am a senior this year', 257; 'I'm going to be a nurse', 258). CLUSTER ALSO HOLDS STUDENT BOARD MEMBER LILY CLARK, whose report at 1550-1857 s is reassigned by override - two young women merged into one cluster."
+ },
+ "Speaker 10": {
+  "name": "Miles Sheehan",
+  "role": "STUDENT BOARD MEMBER, Stevens High School (seated with Lily Clark ~October 2024). The chair calls both by name - 'do we have Mr. Miles and Miss Clark here?... Would you like to give you reports?' (141, 'Miles' conf 1.00 / 'Clark' conf 0.95) - and the two student voices then alternate. This is the one who is NOT Lily Clark: the other student voice says 'And then Myles and I are juniors' (148, 'Myles' conf 0.53), which leaves this cluster as Miles Sheehan. He delivers the music-department half of the student report - All-State auditions (Onyx Adrian and Lily Egan accepted), Tuba Christmas, the 17 December Christmas concert, the 16 December children's concerts and the 19 December caroling (152-159, 163, 167). MEDIUM-HIGH confidence: the only thing separating the two student board members is that one line, and its first name carries 0.53 ASR confidence."
+ },
+ "Speaker 11": {
+  "name": "Arlene Hawkins",
+  "role": "CLAREMONT SCHOOL BOARD MEMBER; CHAIR of the SAU 6 joint board (re-elected 4/11/2024; presiding at the 11/14/2024 SAU meeting three weeks before this one) and the board's curriculum representative. THE SAME VOICE AS SPEAKER 6 (see that entry). IDENTIFICATION: (a) she convenes and polices the SAU 6 board's business in the first person - 'next Thursday we have an Saw [SAU] board meeting. As we know, we did not have a quorum yesterday and we could not meet... We have legal deadlines we must follow... I've already reached out to a couple of people... I'm asking each person here to be available' (526-528, every word conf 1.00): only the SAU chair speaks that way, and Hawkins is that chair; (b) she distinguishes the two policy committees exactly as the record has them - business administrator Henry offers to meet 'with you and Chris' about policy work and this voice answers 'Well, Whitney is the chair' (339, 'Whitney' conf 1.00, i.e. Whitney Skillen chairs the district policy committee) and then 'Yeah, that's the s a you [SAU]' (341), which is the committee Hawkins does chair; (c) she rules herself off the Finance Committee - 'So I'm not on the finance committee, so I'm just asking for clarification' (419) - matching the 9/30/2024 subcommittee reading, in which Hawkins holds Curriculum and Policy but not Finance; (d) she cites the board's own lawyer on advocacy, 'previously with a different issue. I have spoken to our attorney about advocacy and he said school boards should... be advocates for our students' (516). She also carries the procedural correction that the endorsement motion needs a second (503). HIGH confidence. Segments 245-248 (her sentence 'So this this survey was fantastic. Very interesting. And I'd like to know how the idea came up to do this') are split across three other clusters and reassigned here by override - that broken sentence is where the diarizer opens this cluster mid-utterance."
+ },
+ "Speaker 12": {
+  "name": "Candace Crawford",
+  "role": "CLAREMONT SCHOOL BOARD MEMBER (appointed 7/19/2023, re-elected March 2024); Finance Committee, chair of Capital Improvements and of the SRVRTC Visioning Committee as read into the record 9/30/2024. THREE CHAIR RECOGNITIONS, each answered by this voice within 100 ms: 'Miss Crawford.' (273, conf 1.00) then 274-276; 'Chelsea. But we'll make sure it gets out. Miss Crawford.' (317, conf 1.00) then 319; and 'Other business. Miss Crawford, would you like to start with your letter to the Senator Ward?' (489, conf 1.00) then 490. Frank Sprague names her while moving her motion: 'we, endorse the letter. This [Miss] Crawford has given us as the as the Claremont School Board' (501, conf 1.00). She presents the Funding Fairness Project letter to Senator Ruth Ward (491-494, 502, 522), reports she is on both the Thursday and Friday budget meetings (403) and presses the compressed budget schedule (411, 454, 456). THE SAME VOICE HOLDS THE EARLY HALF OF SPEAKER 5 (144-1419 s), reassigned by override: at the agenda amendments she describes that same letter - 'I gave a copy to all board members... it talks about the calm down [ConVal] lawsuit that Claremont was a code printed [co-plaintiff]' (11) - and the chair addresses her mid-discussion as 'Kenny [Candy]' (97, conf 0.77). HIGH confidence."
+ },
+ "Speaker 13": {
+  "name": "Unidentified",
+  "role": "UNIDENTIFIED VOICE - one segment only, 'Thank you everyone.' at 3523.9 s, as the student presenters leave the table. It is not the chair, who is thanking them in the adjacent segments (284, 286), and no name is spoken for it."
+ },
+ "Speaker 14": {
+  "name": "Mary Henry",
+  "role": "BUSINESS ADMINISTRATOR, Claremont School District / SAU 6 - one segment only, the first sentence of her own report ('I want to start off with some good news. Audits are going well. Auditors have been in the building', 290), 80 ms after the chair hands her the floor by name (289) and running straight on into the rest of her report in Speaker 2 (291). The diarizer opened a cluster for her onset and then dropped her into the chair's cluster."
+ },
+ "Speaker 15": {
+  "name": "Heather Whitney",
+  "role": "CHAIR, Claremont School Board (re-elected chair 3/20/2024). THE SAME VOICE AS THE FIRST HALF OF SPEAKER 2: she calls the meeting to order in that cluster ('I would like to call to order the December 4th, 2024 meeting of the Claremont School Board', 1) and asks the clerk for the roll (3), and from 3661 s the diarizer moves her here while business administrator Mary Henry takes over the cluster she leaves. ONLY THE PRESIDING OFFICER DOES WHAT THIS CLUSTER DOES: 'is there any other questions for Miss Henry before we move forward?' (488), 'Subcommittees, we've kind of discussed that... Other business. Miss Crawford, would you like to start with your letter to the Senator Ward?' (489), 'Yes, Miss Crawford.' (431), 'I don't I personally don't feel comfortable with that. But there can be a motion made' (497), and the adjournment, 'If there's no objection... I'd like to adjourn the meeting seeing no objections' (531). NAMED ON THE RECORD: Mary Henry, inside this same discussion, says 'as soon as I get the digital copy I will send it to Heather. And you can disburse it' (316, 'Heather' conf 1.00). She is on the Finance Committee and says so ('what our rationale as the Finance Committee are for recommending the budget as presented', 445; 'Mary and I briefly chatted about this', 445). WHITNEY COLLISION: Whitney Skillen also sits on this board - the SURNAME Whitney is the chair, and every spoken 'Whitney' in this file (339, 344, 345) is the FIRST NAME and means Skillen, who chairs the policy committee."
+ },
+ "Lily Clark - student board member; her report sits inside Speaker 9": {
+  "name": "Lily Clark",
+  "role": "STUDENT BOARD MEMBER, Stevens High School (seated with Miles Sheehan ~October 2024); a junior. The chair calls the pair up by name, 'do we have Mr. Miles and Miss Clark here?' (141, 'Clark' conf 0.95), and this voice gives the first half of the student report - the Puerto Rico trip fundraising, donkey basketball, the National Art Society and student-council drives, the winter pep rally, prom and the 5 December board-game night (143-149) - closing 'And then Myles and I are juniors' (148), which is what separates her from Miles Sheehan. Her nine segments are reassigned out of Speaker 9, which the diarizer otherwise gives to student presenter Sarah Wheeler. MEDIUM-HIGH confidence."
+ },
+ "Noelle Kronberg - School Board Clerk; asked for the roll but no word of her reading survives": {
+  "name": "Noelle Kronberg",
+  "role": "SCHOOL BOARD CLERK (appointed 11/15/2023). The chair asks her by name - 'Would the clerk, Miss Cronenberg [Kronberg], please call? Roll call.' (3, 'clerk' conf 1.00, 'Cronenberg' conf 0.80) - which is the only evidence in this recording that she was present. THE ASR PRESERVES NOT ONE WORD OF THE ROLL SHE READ: after the request the transcript holds only six 'Here' answers (33.70, 35.02, 36.34, 37.94, 40.50, 41.90 s), five of them absorbed into the chair's segments 3 and 5 and one alone in segment 4. She therefore gets no row of her own, and no member can be named from the roll."
+ },
+ "__overrides__": {
+  "1": {
+   "name": "Heather Whitney"
+  },
+  "3": {
+   "name": "Heather Whitney"
+  },
+  "5": {
+   "name": "Heather Whitney"
+  },
+  "6": {
+   "name": "Heather Whitney"
+  },
+  "7": {
+   "name": "Heather Whitney"
+  },
+  "9": {
+   "name": "Heather Whitney"
+  },
+  "10": {
+   "name": "Heather Whitney"
+  },
+  "12": {
+   "name": "Heather Whitney"
+  },
+  "14": {
+   "name": "Heather Whitney"
+  },
+  "15": {
+   "name": "Heather Whitney"
+  },
+  "16": {
+   "name": "Heather Whitney"
+  },
+  "42": {
+   "name": "Heather Whitney"
+  },
+  "44": {
+   "name": "Heather Whitney"
+  },
+  "48": {
+   "name": "Heather Whitney"
+  },
+  "97": {
+   "name": "Heather Whitney"
+  },
+  "100": {
+   "name": "Heather Whitney"
+  },
+  "101": {
+   "name": "Heather Whitney"
+  },
+  "102": {
+   "name": "Heather Whitney"
+  },
+  "103": {
+   "name": "Heather Whitney"
+  },
+  "108": {
+   "name": "Heather Whitney"
+  },
+  "110": {
+   "name": "Heather Whitney"
+  },
+  "113": {
+   "name": "Heather Whitney"
+  },
+  "114": {
+   "name": "Heather Whitney"
+  },
+  "115": {
+   "name": "Heather Whitney"
+  },
+  "117": {
+   "name": "Heather Whitney"
+  },
+  "119": {
+   "name": "Heather Whitney"
+  },
+  "123": {
+   "name": "Heather Whitney"
+  },
+  "141": {
+   "name": "Heather Whitney"
+  },
+  "144": {
+   "name": "Heather Whitney"
+  },
+  "173": {
+   "name": "Heather Whitney"
+  },
+  "176": {
+   "name": "Heather Whitney"
+  },
+  "181": {
+   "name": "Heather Whitney"
+  },
+  "183": {
+   "name": "Heather Whitney"
+  },
+  "186": {
+   "name": "Heather Whitney"
+  },
+  "187": {
+   "name": "Heather Whitney"
+  },
+  "242": {
+   "name": "Heather Whitney"
+  },
+  "243": {
+   "name": "Heather Whitney"
+  },
+  "253": {
+   "name": "Heather Whitney"
+  },
+  "268": {
+   "name": "Heather Whitney"
+  },
+  "273": {
+   "name": "Heather Whitney"
+  },
+  "280": {
+   "name": "Heather Whitney"
+  },
+  "284": {
+   "name": "Heather Whitney"
+  },
+  "286": {
+   "name": "Heather Whitney"
+  },
+  "289": {
+   "name": "Heather Whitney"
+  },
+  "303": {
+   "name": "Heather Whitney"
+  },
+  "421": {
+   "name": "Heather Whitney"
+  },
+  "292": {
+   "name": "Mary Henry"
+  },
+  "355": {
+   "name": "Mary Henry"
+  },
+  "28": {
+   "name": "Arlene Hawkins"
+  },
+  "35": {
+   "name": "Arlene Hawkins"
+  },
+  "51": {
+   "name": "Arlene Hawkins"
+  },
+  "126": {
+   "name": "Arlene Hawkins"
+  },
+  "245": {
+   "name": "Arlene Hawkins"
+  },
+  "246": {
+   "name": "Arlene Hawkins"
+  },
+  "247": {
+   "name": "Arlene Hawkins"
+  },
+  "248": {
+   "name": "Arlene Hawkins"
+  },
+  "330": {
+   "name": "Arlene Hawkins"
+  },
+  "25": {
+   "name": "Mike Koski"
+  },
+  "32": {
+   "name": "Mike Koski"
+  },
+  "55": {
+   "name": "Mike Koski"
+  },
+  "59": {
+   "name": "Mike Koski"
+  },
+  "68": {
+   "name": "Mike Koski"
+  },
+  "72": {
+   "name": "Mike Koski"
+  },
+  "76": {
+   "name": "Mike Koski"
+  },
+  "11": {
+   "name": "Candace Crawford"
+  },
+  "17": {
+   "name": "Candace Crawford"
+  },
+  "21": {
+   "name": "Candace Crawford"
+  },
+  "78": {
+   "name": "Candace Crawford"
+  },
+  "80": {
+   "name": "Candace Crawford"
+  },
+  "81": {
+   "name": "Candace Crawford"
+  },
+  "85": {
+   "name": "Candace Crawford"
+  },
+  "94": {
+   "name": "Candace Crawford"
+  },
+  "96": {
+   "name": "Candace Crawford"
+  },
+  "99": {
+   "name": "Candace Crawford"
+  },
+  "120": {
+   "name": "Candace Crawford"
+  },
+  "122": {
+   "name": "Candace Crawford"
+  },
+  "128": {
+   "name": "Candace Crawford"
+  },
+  "274": {
+   "name": "Candace Crawford"
+  },
+  "275": {
+   "name": "Candace Crawford"
+  },
+  "179": {
+   "name": "Malachi"
+  },
+  "180": {
+   "name": "Malachi"
+  },
+  "185": {
+   "name": "Malachi"
+  },
+  "212": {
+   "name": "Malachi"
+  },
+  "214": {
+   "name": "Malachi"
+  },
+  "216": {
+   "name": "Malachi"
+  },
+  "143": {
+   "name": "Lily Clark"
+  },
+  "145": {
+   "name": "Lily Clark"
+  },
+  "146": {
+   "name": "Lily Clark"
+  },
+  "147": {
+   "name": "Lily Clark"
+  },
+  "148": {
+   "name": "Lily Clark"
+  },
+  "149": {
+   "name": "Lily Clark"
+  },
+  "157": {
+   "name": "Lily Clark"
+  },
+  "160": {
+   "name": "Lily Clark"
+  },
+  "166": {
+   "name": "Lily Clark"
+  },
+  "451": {
+   "name": "Frank Sprague"
+  },
+  "2": {
+   "name": "Multiple",
+   "role": "Group recitation of the Pledge of Allegiance (captured as one voice)"
+  },
+  "165": {
+   "name": "Unidentified",
+   "role": "UNIDENTIFIED VOICE IN THE ROOM - a short interjection the diarizer left in a cluster whose owner cannot have spoken it (Candace Crawford's early block and student presenter Malachi share that cluster, and neither fits). No anchor."
+  },
+  "310": {
+   "name": "Unidentified",
+   "role": "UNIDENTIFIED VOICE IN THE ROOM - a short interjection the diarizer left in a cluster whose owner cannot have spoken it (Candace Crawford's early block and student presenter Malachi share that cluster, and neither fits). No anchor."
+  },
+  "177": {
+   "name": "Unidentified",
+   "role": "UNIDENTIFIED - inside the 1907-2057 s failed-projector stretch, where the two student presenters, the chair and several board members talk over one another and the ASR captures only fragments of a two-and-a-half-minute gap. Not separable."
+  },
+  "182": {
+   "name": "Unidentified",
+   "role": "UNIDENTIFIED - inside the 1907-2057 s failed-projector stretch, where the two student presenters, the chair and several board members talk over one another and the ASR captures only fragments of a two-and-a-half-minute gap. Not separable."
+  },
+  "188": {
+   "name": "Unidentified",
+   "role": "UNIDENTIFIED - inside the 1907-2057 s failed-projector stretch, where the two student presenters, the chair and several board members talk over one another and the ASR captures only fragments of a two-and-a-half-minute gap. Not separable."
+  },
+  "190": {
+   "name": "Unidentified",
+   "role": "UNIDENTIFIED - inside the 1907-2057 s failed-projector stretch, where the two student presenters, the chair and several board members talk over one another and the ASR captures only fragments of a two-and-a-half-minute gap. Not separable."
+  },
+  "193": {
+   "name": "Unidentified",
+   "role": "UNIDENTIFIED - inside the 1907-2057 s failed-projector stretch, where the two student presenters, the chair and several board members talk over one another and the ASR captures only fragments of a two-and-a-half-minute gap. Not separable."
+  }
+ }
+}

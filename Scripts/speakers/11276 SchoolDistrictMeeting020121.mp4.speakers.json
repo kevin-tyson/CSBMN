@@ -1,0 +1,48 @@
+{
+ "Speaker 6": {
+  "name": "Tracy Pope",
+  "role": "School District Moderator"
+ },
+ "Speaker 8": {
+  "name": "Michael Tempesta",
+  "role": "Superintendent, SAU 6"
+ },
+ "Speaker 3": {
+  "name": "Richard Seaman",
+  "role": "Assistant Superintendent for Finance and HR, SAU 6"
+ },
+ "Speaker 4": {
+  "name": "Donna Magoon",
+  "role": "Assistant Superintendent, SAU 6"
+ },
+ "Speaker 7": {
+  "name": "Heather Whitney",
+  "role": "Claremont School Board Vice Chair (title attested on the 2/1/2021 deliberative session record)"
+ },
+ "Speaker 5": {
+  "name": "Jason Benware",
+  "role": "Claremont School Board member"
+ },
+ "Speaker 9": {
+  "name": "Rob Lovett Jr.",
+  "role": "Claremont School Board member"
+ },
+ "Speaker 2": {
+  "name": "Carolyn Towle",
+  "role": "Claremont School Board member (uncertain - identified from 'Second. Carolyn tall second' [71]; other segments are short remarks)"
+ },
+ "Speaker 1": {
+  "name": "Unidentified",
+  "role": "Unidentified - cluster mixes pledge chorus and short remarks from several participants; see overrides"
+ },
+ "__overrides__": {
+  "51": {
+   "name": "Rebecca Zullo",
+   "role": "Claremont School Board member (uncertain - answers the moderator's 'Rebecca? ... You're the vice chair, right?')"
+  },
+  "74": {
+   "name": "Rob Lovett Jr.",
+   "role": "Claremont School Board member"
+  }
+ }
+}

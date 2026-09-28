@@ -1,0 +1,143 @@
+{
+ "Speaker 1": {
+  "name": "Frank Sprague",
+  "role": "Claremont School Board Chair (calls meeting to order [0], runs agenda and votes throughout; 'Frank Sprague' answers 'No' on roll call [953-954])"
+ },
+ "Speaker 2": {
+  "name": "Carolyn Towle",
+  "role": "Claremont School Board member (recognized 'Carolyn' [260, 371, 485] before this cluster speaks; 'Carolyn. Tall' answers roll call [949-950]; former city councilor [262])"
+ },
+ "Speaker 3": {
+  "name": "Rebecca Zullo",
+  "role": "Claremont School Board Vice Chair (LeClair responds to 'something that Rebecca said' [270] after this cluster [248-249]; 'Rebecca. Zulu' answers roll call [951-952]; feedback delegated 'to Rebecca' [524-525])"
+ },
+ "Speaker 4": {
+  "name": "Unidentified",
+  "role": "Unidentified - cluster of short interjections from more than one voice, including a board member's motion to table [7], seconds [9, 13] and a minutes correction [15]; voice not identifiable"
+ },
+ "Speaker 5": {
+  "name": "Michelle Pierce",
+  "role": "Claremont School Board member (LeClair/Zullo: 'Michelle, could email you' [727] after this cluster's comments [709-726]; moves motions [12, 18, 816, 899])"
+ },
+ "Speaker 6": {
+  "name": "Lexi Grenier",
+  "role": "Student representative to the board, Stevens High School senior (chair: 'Student representatives report. Lexi.' [21]; 'Lexi Grenier spoke of tonight' [813]; spelling as heard)"
+ },
+ "Speaker 7": {
+  "name": "Middleton McGoodwin",
+  "role": "Superintendent, SAU 6 (delivers superintendent's report after 'Superintendent' [63-68]; 'Doctor Goodwin' [6]; 'Middleton' [265, 449])"
+ },
+ "Speaker 8": {
+  "name": "Mimi Ryan's",
+  "role": "Public commenter, Ward 1 (states 'Mimi Ryan's' [71] and spells surname 'RH I and is' [75]; correct spelling unverified, possibly Rhines)"
+ },
+ "Speaker 9": {
+  "name": "Will Phillips",
+  "role": "Attorney, New Hampshire School Boards Association; presenter on the Right-to-Know law and digital communications (introduced 'Attorney Will Phillips' [89])"
+ },
+ "Speaker 10": {
+  "name": "Unidentified",
+  "role": "Unidentified - short remarks while advancing presentation slides"
+ },
+ "Speaker 11": {
+  "name": "Cory LeClair",
+  "role": "Assistant Superintendent, SAU 6 (chair: 'let Corey jump in' [269]; 'Corey, you were involved with developing the climate and culture surveys' [474]; 'Mrs. LeClaire' [1014])"
+ },
+ "Speaker 12": {
+  "name": "Unidentified",
+  "role": "Unidentified - single 'Thank you'"
+ },
+ "Speaker 13": {
+  "name": "Unidentified",
+  "role": "Unidentified - cluster of short responses from several voices ('aye', 'second', 'yeah'); see overrides"
+ },
+ "Speaker 14": {
+  "name": "Unidentified",
+  "role": "Unidentified - short interjections during the attorney's presentation"
+ },
+ "Speaker 15": {
+  "name": "Unidentified",
+  "role": "Unidentified - single short remark during the presentation"
+ },
+ "Speaker 16": {
+  "name": "Unidentified",
+  "role": "Unidentified - short fragments from more than one voice; see overrides"
+ },
+ "Speaker 17": {
+  "name": "Steven Horsky",
+  "role": "Claremont School Board member (recognized 'Steve' [470, 557, 835, 883] before this cluster speaks; 'Mr. Horsey' [1002]; policy BA/BAA motion [986])"
+ },
+ "Speaker 18": {
+  "name": "Jason Benware",
+  "role": "Claremont School Board member (recognized 'Jason' [508, 878] before this cluster speaks; addressed 'Jason' [467, 548]; ASR 'Jason Benoit')"
+ },
+ "Speaker 19": {
+  "name": "Trinity Dicks",
+  "role": "Project manager, System of Care grant, Claremont School District (introduced by LeClair as 'Trinity ... our project manager for the System of Care grant' [490]; surname heard as 'Dicks' [571] and 'Dix' [633], spelling unverified)"
+ },
+ "Speaker 20": {
+  "name": "Michael Petrin",
+  "role": "Claremont School Board member (McGoodwin: 'Mike, you had raised that question' [637] before this cluster speaks [641]; 'Is that close, Mike?' [653]; 'Michael' answers roll call [945-946])"
+ },
+ "Speaker 21": {
+  "name": "Mary Woodman",
+  "role": "School district clerk and recording secretary; calls the roll-call vote [941-953] (chair asks 'Mrs. Woodman' for roll call [2], ASR 'This is Woodman')"
+ },
+ "__overrides__": {
+  "3": {
+   "name": "Unidentified",
+   "role": "Unidentified - roll-call attendance, clerk reading names and members answering"
+  },
+  "5": {
+   "name": "Unidentified",
+   "role": "Unidentified - roll-call 'here' chorus"
+  },
+  "20": {
+   "name": "Unidentified",
+   "role": "Unidentified - 'aye' vote"
+  },
+  "22": {
+   "name": "Lexi Grenier"
+  },
+  "25": {
+   "name": "Lexi Grenier"
+  },
+  "54": {
+   "name": "Lexi Grenier"
+  },
+  "56": {
+   "name": "Lexi Grenier"
+  },
+  "58": {
+   "name": "Lexi Grenier"
+  },
+  "60": {
+   "name": "Lexi Grenier"
+  },
+  "62": {
+   "name": "Lexi Grenier"
+  },
+  "74": {
+   "name": "Unidentified",
+   "role": "Unidentified - fragment during the commenter's spelling of her name"
+  },
+  "457": {
+   "name": "Rebecca Zullo"
+  },
+  "496": {
+   "name": "Carolyn Towle"
+  },
+  "942": {
+   "name": "Jason Benware"
+  },
+  "944": {
+   "name": "Steven Horsky"
+  },
+  "948": {
+   "name": "Michelle Pierce"
+  },
+  "1003": {
+   "name": "Middleton McGoodwin"
+  }
+ }
+}

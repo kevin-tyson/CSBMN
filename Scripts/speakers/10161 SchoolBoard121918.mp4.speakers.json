@@ -1,0 +1,163 @@
+{
+ "Speaker 1": {
+  "name": "Frank Sprague",
+  "role": "Claremont School Board Chair (calls the meeting to order [0], runs agenda, recognitions and votes; answers roll as 'Frank ... here' [6-7])"
+ },
+ "Speaker 2": {
+  "name": "Unidentified",
+  "role": "Unidentified - cluster of short interjections, votes and cross-talk from several board members"
+ },
+ "Speaker 3": {
+  "name": "Unidentified",
+  "role": "Unidentified - cluster mixes the roll-call voice (Mary Woodman), board-member responses and clipped fragments of Cory LeClair; see overrides"
+ },
+ "Speaker 4": {
+  "name": "Michael Petrin",
+  "role": "Claremont School Board member, budget subcommittee (recognized 'Mike, did you have something?' [176], 'Mike. And then Rob.' [315], 'Go ahead. Mike.' [722])"
+ },
+ "Speaker 5": {
+  "name": "Jason Benware",
+  "role": "Claremont School Board member, budget subcommittee (roll 'Jason. Bennett.' -> 'Yes' [57-58]; recognized 'Jason.' [173, 976]; 'Jason made a motion' [413])"
+ },
+ "Speaker 6": {
+  "name": "Jesse",
+  "role": "Student representative to the board, filling in for Prescott (chair: 'Student reps. Report. Jesse.' [22]; surname not given)"
+ },
+ "Speaker 7": {
+  "name": "Cory LeClair",
+  "role": "Assistant Superintendent, SAU 6 (Petrin: 'As Corey said' [725]; 'Thank you. Corey.' [921]; presents the budget overview [584-656])"
+ },
+ "Speaker 8": {
+  "name": "Michelle Pierce",
+  "role": "Claremont School Board member (recognized 'Go ahead. Michelle.' [81], 'Michelle' [140, 379, 507])"
+ },
+ "Speaker 9": {
+  "name": "Carolyn Towle",
+  "role": "Claremont School Board member (recognized 'Okay. Carolyn.' [87], 'Caroline.' [728]; LeClair answers 'Carolyn said' [299])"
+ },
+ "Speaker 10": {
+  "name": "Rebecca Zullo",
+  "role": "Claremont School Board Vice Chair (recognized 'Rebecca.' [107, 135, 680]; reports for the superintendent search committee [542-550])"
+ },
+ "Speaker 11": {
+  "name": "Rob Lovett Jr.",
+  "role": "Claremont School Board member (recognized 'Mike. And then Rob.' [315] before [322]; 'Second by Rob' [810-811])"
+ },
+ "Speaker 12": {
+  "name": "Keith Pfeifer",
+  "role": "Interim Superintendent, SAU 6 (Zullo: 'Doctor, you're you're going to check on the no compete clause' [409] after [369]; 'directive to Doctor Pfeiffer for his staff' [428])"
+ },
+ "Speaker 13": {
+  "name": "Michael O'Neill",
+  "role": "Business Administrator, SAU 6 (answers 'Mike, what happens ... that money' [266-267]; thanked as 'Michael.' [837-839]; supplies the budget figure [791-797])"
+ },
+ "Speaker 14": {
+  "name": "Josh Malloy",
+  "role": "Director of Instructional Technology, SAU 6 (LeClair: 'I'll let Josh speak to what they are' [458]; 'give Josh permission to dispose of this equipment' [520])"
+ },
+ "Speaker 15": {
+  "name": "Ben Nester",
+  "role": "Director of Special Education, SAU 6 (uncertain - not named at his turn; LeClair: 'Ben is here, he's presented before' [643]; answers mental-health staffing qualifications [688-693])"
+ },
+ "Speaker 16": {
+  "name": "Jason Benware",
+  "role": "Claremont School Board member (single segment inside Benware's policy motion [876-878]; uncertain - attribution by context)"
+ },
+ "__overrides__": {
+  "5": {
+   "name": "Jason Benware",
+   "role": "Claremont School Board member (uncertain - 'I'm here.' answers roll 'Jason. Ben, when.' [4]; diarized with the chair)"
+  },
+  "4": {
+   "name": "Mary Woodman",
+   "role": "School district clerk and board recording secretary (chair: 'Mrs. Woodman, could you do roll call attendance' [3], 'roll call vote, Mrs. Woodman' [34])"
+  },
+  "6": {
+   "name": "Mary Woodman"
+  },
+  "42": {
+   "name": "Mary Woodman"
+  },
+  "54": {
+   "name": "Mary Woodman"
+  },
+  "57": {
+   "name": "Mary Woodman"
+  },
+  "59": {
+   "name": "Mary Woodman"
+  },
+  "61": {
+   "name": "Mary Woodman"
+  },
+  "213": {
+   "name": "Mary Woodman",
+   "role": "School district clerk and board recording secretary (uncertain - procedural advice; chair then asks 'correct, Mrs. Woodman?' [221])"
+  },
+  "216": {
+   "name": "Mary Woodman",
+   "role": "School district clerk and board recording secretary (uncertain - procedural advice; chair then asks 'correct, Mrs. Woodman?' [221])"
+  },
+  "35": {
+   "name": "Rebecca Zullo",
+   "role": "Claremont School Board Vice Chair (uncertain - roll-call vote response diarized with LeClair; Zullo is called first in the roll votes [54])"
+  },
+  "37": {
+   "name": "Rebecca Zullo",
+   "role": "Claremont School Board Vice Chair (uncertain - roll-call vote response diarized with LeClair; Zullo is called first in the roll votes [54])"
+  },
+  "55": {
+   "name": "Rebecca Zullo",
+   "role": "Claremont School Board Vice Chair (roll-call vote response to 'Okay. Rebecca?' [54], diarized with LeClair)"
+  },
+  "44": {
+   "name": "Unidentified",
+   "role": "Unidentified - stray roll-call response diarized with LeClair"
+  },
+  "167": {
+   "name": "Jason Benware",
+   "role": "Claremont School Board member (uncertain - 'I want a second with the intent' continues as Benware's 'Of discussion ... I want to discuss' [168, 170]; diarized with the student rep)"
+  },
+  "189": {
+   "name": "Rob Lovett Jr.",
+   "role": "Claremont School Board member (question after 'So, Rob.' [188], continued by Lovett's cluster [192]; diarized with the student rep)"
+  },
+  "191": {
+   "name": "Rob Lovett Jr.",
+   "role": "Claremont School Board member (question after 'So, Rob.' [188], continued by Lovett's cluster [192]; diarized with the student rep)"
+  },
+  "585": {
+   "name": "Cory LeClair"
+  },
+  "588": {
+   "name": "Cory LeClair"
+  },
+  "612": {
+   "name": "Cory LeClair"
+  },
+  "618": {
+   "name": "Cory LeClair"
+  },
+  "620": {
+   "name": "Cory LeClair"
+  },
+  "629": {
+   "name": "Cory LeClair"
+  },
+  "849": {
+   "name": "Cory LeClair"
+  },
+  "861": {
+   "name": "Cory LeClair"
+  },
+  "919": {
+   "name": "Cory LeClair"
+  },
+  "936": {
+   "name": "Cory LeClair"
+  },
+  "953": {
+   "name": "Cory LeClair"
+  }
+ }
+}

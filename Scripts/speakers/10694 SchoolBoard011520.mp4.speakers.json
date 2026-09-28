@@ -1,0 +1,164 @@
+{
+ "Speaker 1": {
+  "name": "Frank Sprague",
+  "role": "Claremont School Board Chair"
+ },
+ "Speaker 2": {
+  "name": "Unidentified",
+  "role": "Unidentified - cluster mixes Mary Woodman (roll call, minutes) with seconds and short remarks by several board members; see overrides"
+ },
+ "Speaker 3": {
+  "name": "Jason Benware",
+  "role": "Claremont School Board member"
+ },
+ "Speaker 4": {
+  "name": "Rebecca Zullo",
+  "role": "Claremont School Board Vice Chair"
+ },
+ "Speaker 5": {
+  "name": "Tyler Sullivan",
+  "role": "Student representative to the Claremont School Board (chair: 'Thank you Tyler'; surname from his 1/21/2020 public comment, uncertain)"
+ },
+ "Speaker 6": {
+  "name": "Mimi Ryan",
+  "role": "Public commenter, Ward 1 (Stevens High School counselor)"
+ },
+ "Speaker 7": {
+  "name": "Michael Tempesta",
+  "role": "Superintendent, SAU 6"
+ },
+ "Speaker 8": {
+  "name": "Unidentified",
+  "role": "Unidentified - cluster of short interjections from several board members and staff"
+ },
+ "Speaker 9": {
+  "name": "Richard Seaman",
+  "role": "Business Administrator, SAU 6"
+ },
+ "Speaker 10": {
+  "name": "Unidentified",
+  "role": "Unidentified - short onsets of several voices (Rebecca Zullo and a press questioner); see overrides"
+ },
+ "Speaker 11": {
+  "name": "Unidentified",
+  "role": "Unidentified - SAU 6 administrator reporting on special-education out-of-district costs and Medicaid (possibly Donna Magoon; never named)"
+ },
+ "Speaker 12": {
+  "name": "Unidentified",
+  "role": "Unidentified - Claremont School Board member (posts to the board Facebook page; possibly Rob Lovett Jr. or Michael Petrin; not determinable)"
+ },
+ "Speaker 13": {
+  "name": "Heather Whitney",
+  "role": "Claremont School Board member"
+ },
+ "Speaker 14": {
+  "name": "Carolyn Towle",
+  "role": "Claremont School Board member"
+ },
+ "Speaker 15": {
+  "name": "Unidentified",
+  "role": "Unidentified - single short remark"
+ },
+ "Speaker 16": {
+  "name": "Unidentified",
+  "role": "Unidentified - board member moving to adjourn"
+ },
+ "Speaker 17": {
+  "name": "Unidentified",
+  "role": "Unidentified - single short remark"
+ },
+ "__overrides__": {
+  "5": {
+   "name": "Mary Woodman",
+   "role": "School District Clerk and recording secretary"
+  },
+  "12": {
+   "name": "Mary Woodman",
+   "role": "School District Clerk and recording secretary"
+  },
+  "14": {
+   "name": "Mary Woodman",
+   "role": "School District Clerk and recording secretary"
+  },
+  "4": {
+   "name": "Unidentified",
+   "role": "Unidentified - roll-call response"
+  },
+  "99": {
+   "name": "Unidentified",
+   "role": "Unidentified - short fragment misassigned by diarizer; speaker not determinable"
+  },
+  "113": {
+   "name": "Unidentified",
+   "role": "Unidentified - short fragment misassigned by diarizer; speaker not determinable"
+  },
+  "298": {
+   "name": "Unidentified",
+   "role": "Unidentified - short fragment misassigned by diarizer; speaker not determinable"
+  },
+  "308": {
+   "name": "Unidentified",
+   "role": "Unidentified - short fragment misassigned by diarizer; speaker not determinable"
+  },
+  "100": {
+   "name": "Jason Benware",
+   "role": "Claremont School Board member"
+  },
+  "102": {
+   "name": "Jason Benware",
+   "role": "Claremont School Board member"
+  },
+  "156": {
+   "name": "Heather Whitney",
+   "role": "Claremont School Board member"
+  },
+  "282": {
+   "name": "Heather Whitney",
+   "role": "Claremont School Board member"
+  },
+  "264": {
+   "name": "Rebecca Zullo",
+   "role": "Claremont School Board Vice Chair"
+  },
+  "87": {
+   "name": "Rebecca Zullo",
+   "role": "Claremont School Board Vice Chair"
+  },
+  "208": {
+   "name": "Rebecca Zullo",
+   "role": "Claremont School Board Vice Chair"
+  },
+  "265": {
+   "name": "Rebecca Zullo",
+   "role": "Claremont School Board Vice Chair"
+  },
+  "316": {
+   "name": "Unidentified",
+   "role": "Unidentified - questioner recognized as 'the press' (identifies as a teacher with two students at the high school); cluster boundaries unreliable"
+  },
+  "317": {
+   "name": "Unidentified",
+   "role": "Unidentified - questioner recognized as 'the press' (identifies as a teacher with two students at the high school); cluster boundaries unreliable"
+  },
+  "319": {
+   "name": "Unidentified",
+   "role": "Unidentified - questioner recognized as 'the press' (identifies as a teacher with two students at the high school); cluster boundaries unreliable"
+  },
+  "320": {
+   "name": "Unidentified",
+   "role": "Unidentified - questioner recognized as 'the press' (identifies as a teacher with two students at the high school); cluster boundaries unreliable"
+  },
+  "322": {
+   "name": "Unidentified",
+   "role": "Unidentified - questioner recognized as 'the press' (identifies as a teacher with two students at the high school); cluster boundaries unreliable"
+  },
+  "324": {
+   "name": "Unidentified",
+   "role": "Unidentified - questioner recognized as 'the press' (identifies as a teacher with two students at the high school); cluster boundaries unreliable"
+  },
+  "331": {
+   "name": "Unidentified",
+   "role": "Unidentified - questioner recognized as 'the press' (identifies as a teacher with two students at the high school); cluster boundaries unreliable"
+  }
+ }
+}

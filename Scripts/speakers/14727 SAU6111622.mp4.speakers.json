@@ -1,0 +1,190 @@
+{
+ "Speaker 1": {
+  "name": "Michael Petrin",
+  "role": "Claremont School Board Chair, presiding over the SAU 6 Board in the absence of the SAU chair (states 'I am the Claremont School board chair, so I'm running tonight's meeting' [5])"
+ },
+ "Speaker 2": {
+  "name": "Heather Whitney",
+  "role": "Claremont School Board Vice Chair; SAU 6 Board member (recognized as 'Heather' [157], [175]; Erickson 'I agree with Heather' [270])"
+ },
+ "Speaker 3": {
+  "name": "Unidentified",
+  "role": "Roll caller (identity not stated on the recording; possibly Ben Nester, who acted as secretary in 2022 - uncertain)"
+ },
+ "Speaker 4": {
+  "name": "Joshua Lambert",
+  "role": "Claremont School Board member; SAU 6 Board member (recognized as 'Josh' [164], [311])"
+ },
+ "Speaker 5": {
+  "name": "Michael Tempesta",
+  "role": "Superintendent, SAU 6 (gives the superintendent's report [28]; 'Thank you. Mike.' [30])"
+ },
+ "Speaker 6": {
+  "name": "William Lupini",
+  "role": "Organizational study consultant, former superintendent (uncertain spelling - ASR 'Doctor Lapine' [28], [227], 'Doctor Lupi' [109]; first name 'Bill' throughout)"
+ },
+ "Speaker 7": {
+  "name": "Dr. Ann Wilson",
+  "role": "Organizational study consultant, former superintendent ('Doctor Wilson' [43], [98]; first name heard as 'an'/'Anne' [161], [210], [237]; spelling uncertain)"
+ },
+ "Speaker 8": {
+  "name": "Dr. Ann Wilson",
+  "role": "Organizational study consultant, former superintendent ('Doctor Wilson' [43], [98]; first name heard as 'an'/'Anne' [161], [210], [237]; spelling uncertain) - short handoff cluster; [93] also carries the onset of Bill's reply"
+ },
+ "Speaker 9": {
+  "name": "Unidentified",
+  "role": "Unidentified - short interjection cluster mixing several voices (consultants, Zoom participants); see overrides"
+ },
+ "Speaker 10": {
+  "name": "Bonnie Miles",
+  "role": "Claremont School Board member; SAU 6 Board member (moves to adjourn [330], chair: 'Motion by Bonnie' [332]; other segments by voice cluster only - medium confidence)"
+ },
+ "Speaker 11": {
+  "name": "Marjorie Erickson",
+  "role": "SAU 6 Board member (Unity), attending via Zoom (recognized 'Marjorie, go ahead' [191], [269]; 'Thanks, Marjorie' [207])"
+ },
+ "Speaker 12": {
+  "name": "Richard Seaman",
+  "role": "Assistant Superintendent for Finance, Operations and Human Resources, SAU 6 (onset fragment of [252])"
+ },
+ "Speaker 13": {
+  "name": "Richard Seaman",
+  "role": "Assistant Superintendent for Finance, Operations and Human Resources, SAU 6 (chair: 'I assume that's Richard' [246]; Tempesta: 'my segue to Richard' [250])"
+ },
+ "Speaker 14": {
+  "name": "Unidentified",
+  "role": "SAU 6 Board member, not recognized by name (refers to 'Miss Whitney' in the third person [292]; not Petrin, Whitney, Lambert, Miles or Erickson)"
+ },
+ "Speaker 15": {
+  "name": "Unidentified",
+  "role": "SAU 6 administrator describing the Title grant reimbursement process (uncertain - possibly Assistant Superintendent Mike Koski; not recognized by name); fragments interleaved with [294]-[305]"
+ },
+ "Speaker 16": {
+  "name": "Bonnie Miles",
+  "role": "Claremont School Board member; SAU 6 Board member (moves to adjourn [330], chair: 'Motion by Bonnie' [332]; other segments by voice cluster only - medium confidence)"
+ },
+ "Speaker 17": {
+  "name": "Unidentified",
+  "role": "Unidentified - single closing 'thank you'"
+ },
+ "__overrides__": {
+  "1": {
+   "name": "Unidentified",
+   "role": "Unidentified - pre-meeting chatter"
+  },
+  "4": {
+   "name": "Unidentified",
+   "role": "Group recitation of the Pledge of Allegiance"
+  },
+  "6": {
+   "name": "Unidentified",
+   "role": "Roll caller (identity not stated on the recording; possibly Ben Nester, who acted as secretary in 2022 - uncertain)"
+  },
+  "7": {
+   "name": "Unidentified",
+   "role": "Roll caller (identity not stated on the recording; possibly Ben Nester, who acted as secretary in 2022 - uncertain)"
+  },
+  "8": {
+   "name": "Unidentified",
+   "role": "Roll caller (identity not stated on the recording; possibly Ben Nester, who acted as secretary in 2022 - uncertain)"
+  },
+  "32": {
+   "name": "William Lupini"
+  },
+  "33": {
+   "name": "William Lupini"
+  },
+  "155": {
+   "name": "William Lupini"
+  },
+  "171": {
+   "name": "William Lupini"
+  },
+  "201": {
+   "name": "Atonya Hart",
+   "role": "SAU 6 Board member (Unity) (uncertain - attribution by sequence: chair invites 'Frank or Tanya' [197] and Sprague speaks later [208]-[218]; diarizer merged this question with Erickson's cluster)"
+  },
+  "209": {
+   "name": "Frank Sprague",
+   "role": "Claremont School Board member; SAU 6 Board member, attending via Zoom (chair calls on 'Frank' [208]; he cites his former Stevens student services job [216]-[218]; Lupini replies 'your other point, Frank' [223])"
+  },
+  "210": {
+   "name": "Frank Sprague",
+   "role": "Claremont School Board member; SAU 6 Board member, attending via Zoom (chair calls on 'Frank' [208]; he cites his former Stevens student services job [216]-[218]; Lupini replies 'your other point, Frank' [223])"
+  },
+  "211": {
+   "name": "Frank Sprague",
+   "role": "Claremont School Board member; SAU 6 Board member, attending via Zoom (chair calls on 'Frank' [208]; he cites his former Stevens student services job [216]-[218]; Lupini replies 'your other point, Frank' [223])"
+  },
+  "212": {
+   "name": "Frank Sprague",
+   "role": "Claremont School Board member; SAU 6 Board member, attending via Zoom (chair calls on 'Frank' [208]; he cites his former Stevens student services job [216]-[218]; Lupini replies 'your other point, Frank' [223])"
+  },
+  "213": {
+   "name": "Frank Sprague",
+   "role": "Claremont School Board member; SAU 6 Board member, attending via Zoom (chair calls on 'Frank' [208]; he cites his former Stevens student services job [216]-[218]; Lupini replies 'your other point, Frank' [223])"
+  },
+  "214": {
+   "name": "Frank Sprague",
+   "role": "Claremont School Board member; SAU 6 Board member, attending via Zoom (chair calls on 'Frank' [208]; he cites his former Stevens student services job [216]-[218]; Lupini replies 'your other point, Frank' [223])"
+  },
+  "215": {
+   "name": "Frank Sprague",
+   "role": "Claremont School Board member; SAU 6 Board member, attending via Zoom (chair calls on 'Frank' [208]; he cites his former Stevens student services job [216]-[218]; Lupini replies 'your other point, Frank' [223])"
+  },
+  "216": {
+   "name": "Frank Sprague",
+   "role": "Claremont School Board member; SAU 6 Board member, attending via Zoom (chair calls on 'Frank' [208]; he cites his former Stevens student services job [216]-[218]; Lupini replies 'your other point, Frank' [223])"
+  },
+  "217": {
+   "name": "Frank Sprague",
+   "role": "Claremont School Board member; SAU 6 Board member, attending via Zoom (chair calls on 'Frank' [208]; he cites his former Stevens student services job [216]-[218]; Lupini replies 'your other point, Frank' [223])"
+  },
+  "218": {
+   "name": "Frank Sprague",
+   "role": "Claremont School Board member; SAU 6 Board member, attending via Zoom (chair calls on 'Frank' [208]; he cites his former Stevens student services job [216]-[218]; Lupini replies 'your other point, Frank' [223])"
+  },
+  "257": {
+   "name": "Michael Petrin"
+  },
+  "294": {
+   "name": "Unidentified",
+   "role": "SAU 6 administrator describing the Title grant reimbursement process (uncertain - possibly Assistant Superintendent Mike Koski; not recognized by name); fragments interleaved with [294]-[305]"
+  },
+  "295": {
+   "name": "Unidentified",
+   "role": "SAU 6 administrator describing the Title grant reimbursement process (uncertain - possibly Assistant Superintendent Mike Koski; not recognized by name); fragments interleaved with [294]-[305]"
+  },
+  "296": {
+   "name": "Unidentified",
+   "role": "SAU 6 administrator describing the Title grant reimbursement process (uncertain - possibly Assistant Superintendent Mike Koski; not recognized by name); fragments interleaved with [294]-[305]"
+  },
+  "297": {
+   "name": "Unidentified",
+   "role": "SAU 6 administrator describing the Title grant reimbursement process (uncertain - possibly Assistant Superintendent Mike Koski; not recognized by name); fragments interleaved with [294]-[305]"
+  },
+  "299": {
+   "name": "Unidentified",
+   "role": "SAU 6 administrator describing the Title grant reimbursement process (uncertain - possibly Assistant Superintendent Mike Koski; not recognized by name); fragments interleaved with [294]-[305]"
+  },
+  "301": {
+   "name": "Unidentified",
+   "role": "SAU 6 administrator describing the Title grant reimbursement process (uncertain - possibly Assistant Superintendent Mike Koski; not recognized by name); fragments interleaved with [294]-[305]"
+  },
+  "303": {
+   "name": "Unidentified",
+   "role": "SAU 6 administrator describing the Title grant reimbursement process (uncertain - possibly Assistant Superintendent Mike Koski; not recognized by name); fragments interleaved with [294]-[305]"
+  },
+  "305": {
+   "name": "Unidentified",
+   "role": "SAU 6 administrator describing the Title grant reimbursement process (uncertain - possibly Assistant Superintendent Mike Koski; not recognized by name); fragments interleaved with [294]-[305]"
+  },
+  "311": {
+   "name": "Michael Petrin"
+  },
+  "331": {
+   "name": "Unidentified",
+   "role": "Unidentified - brief acknowledgement after the consultants had left"
+  }
+ }
+}

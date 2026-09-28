@@ -1,0 +1,408 @@
+{
+ "Speaker 1": {
+  "name": "Taylor Sullivan",
+  "role": "Public commenter, Ward 1, departing district paraprofessional and coach (chair says 'Tyler')"
+ },
+ "Speaker 2": {
+  "name": "Frank Sprague",
+  "role": "Claremont School Board Chair"
+ },
+ "Speaker 3": {
+  "name": "Steven Horsky",
+  "role": "Claremont School Board member"
+ },
+ "Speaker 4": {
+  "name": "Heather Whitney",
+  "role": "Claremont School Board member"
+ },
+ "Speaker 5": {
+  "name": "Sean Morin",
+  "role": "Public commenter, CMS boys basketball coach and parent (ASR 'Sean Morin'; nurse calls him 'Mr. Moran'; spelling uncertain)"
+ },
+ "Speaker 6": {
+  "name": "Unidentified",
+  "role": "Unidentified - short acknowledgements and procedural remarks, possibly the chair (uncertain)"
+ },
+ "Speaker 7": {
+  "name": "Veronica",
+  "role": "District nurse coordinator, SAU 6 (first name only; surname garbled by ASR at [100] as 'has no ski'; 'Ronnie' on 2/2/22)"
+ },
+ "Speaker 8": {
+  "name": "Patrick Adrian",
+  "role": "Public commenter, Ward 1; former Claremont School Board member"
+ },
+ "Speaker 9": {
+  "name": "Richard Seaman",
+  "role": "Assistant Superintendent for Finance, SAU 6 (presents contract summaries and the FY23 budget; addressed as 'Richard' at [129])"
+ },
+ "Speaker 10": {
+  "name": "Michael Tempesta",
+  "role": "Superintendent, SAU 6"
+ },
+ "Speaker 11": {
+  "name": "Unidentified",
+  "role": "Unidentified - single remark during the food service budget exchange"
+ },
+ "Speaker 12": {
+  "name": "Unidentified",
+  "role": "Unidentified - Stevens High School administrator presenting the program of studies and the Puerto Rico trip update (name not stated)"
+ },
+ "Speaker 13": {
+  "name": "Nicholas Stone",
+  "role": "Claremont School Board member (recognized 'Nick' at [580] and [623])"
+ },
+ "Speaker 14": {
+  "name": "Michael Tempesta",
+  "role": "Superintendent, SAU 6"
+ },
+ "Speaker 15": {
+  "name": "Unidentified",
+  "role": "Unidentified - two short fragments during the program of studies discussion"
+ },
+ "Speaker 16": {
+  "name": "Unidentified",
+  "role": "Unidentified - board member, either Rob Lovett Jr. or Michael Petrin by elimination (asks about the lockdown drill, mentions nursing home work at [653]); not named on the record"
+ },
+ "Speaker 17": {
+  "name": "Joshua Lambert",
+  "role": "Claremont School Board member (recognized 'Josh' at [528]-[529] and [707])"
+ },
+ "Speaker 18": {
+  "name": "Unidentified",
+  "role": "Unidentified - district administrator citing three and a half decades in school systems (name not stated)"
+ },
+ "Speaker 19": {
+  "name": "Veronica",
+  "role": "District nurse coordinator, SAU 6 (first name only; surname garbled by ASR at [100] as 'has no ski'; 'Ronnie' on 2/2/22)"
+ },
+ "Speaker 20": {
+  "name": "Mary Burke",
+  "role": "Public commenter, Ward 2 (parent of a CMS basketball player)"
+ },
+ "Speaker 21": {
+  "name": "Mary Burke",
+  "role": "Public commenter, Ward 2 (parent of a CMS basketball player)"
+ },
+ "__overrides__": {
+  "0": {
+   "name": "Unidentified",
+   "role": "Unidentified - remark before the call to order"
+  },
+  "3": {
+   "name": "Unidentified",
+   "role": "Unidentified - group response to the Pledge of Allegiance"
+  },
+  "6": {
+   "name": "Unidentified",
+   "role": "Unidentified - roll call: clerk calls names and members answer in the same segment"
+  },
+  "7": {
+   "name": "Unidentified",
+   "role": "Unidentified - roll call: clerk calls names and members answer in the same segment"
+  },
+  "10": {
+   "name": "Unidentified",
+   "role": "Unidentified - roll call: clerk calls names and members answer in the same segment"
+  },
+  "8": {
+   "name": "Mary Woodman",
+   "role": "School district clerk and board recording secretary (calls the roll at the chair's request, [5])"
+  },
+  "9": {
+   "name": "Mary Woodman",
+   "role": "School district clerk and board recording secretary (calls the roll at the chair's request, [5])"
+  },
+  "11": {
+   "name": "Mary Woodman",
+   "role": "School district clerk and board recording secretary (calls the roll at the chair's request, [5])"
+  },
+  "84": {
+   "name": "Unidentified",
+   "role": "Unidentified - board member reminding the board of the citizens comment policy; refers to Horsky in the third person, so not Horsky"
+  },
+  "85": {
+   "name": "Unidentified",
+   "role": "Unidentified - board member reminding the board of the citizens comment policy; refers to Horsky in the third person, so not Horsky"
+  },
+  "92": {
+   "name": "Michael Tempesta",
+   "role": "Superintendent, SAU 6"
+  },
+  "93": {
+   "name": "Michael Tempesta",
+   "role": "Superintendent, SAU 6"
+  },
+  "94": {
+   "name": "Michael Tempesta",
+   "role": "Superintendent, SAU 6"
+  },
+  "95": {
+   "name": "Michael Tempesta",
+   "role": "Superintendent, SAU 6"
+  },
+  "96": {
+   "name": "Michael Tempesta",
+   "role": "Superintendent, SAU 6"
+  },
+  "97": {
+   "name": "Michael Tempesta",
+   "role": "Superintendent, SAU 6"
+  },
+  "98": {
+   "name": "Michael Tempesta",
+   "role": "Superintendent, SAU 6"
+  },
+  "99": {
+   "name": "Michael Tempesta",
+   "role": "Superintendent, SAU 6"
+  },
+  "100": {
+   "name": "Michael Tempesta",
+   "role": "Superintendent, SAU 6"
+  },
+  "101": {
+   "name": "Michael Tempesta",
+   "role": "Superintendent, SAU 6"
+  },
+  "102": {
+   "name": "Michael Tempesta",
+   "role": "Superintendent, SAU 6"
+  },
+  "103": {
+   "name": "Michael Tempesta",
+   "role": "Superintendent, SAU 6"
+  },
+  "104": {
+   "name": "Michael Tempesta",
+   "role": "Superintendent, SAU 6"
+  },
+  "105": {
+   "name": "Michael Tempesta",
+   "role": "Superintendent, SAU 6"
+  },
+  "106": {
+   "name": "Michael Tempesta",
+   "role": "Superintendent, SAU 6"
+  },
+  "108": {
+   "name": "Michael Tempesta",
+   "role": "Superintendent, SAU 6"
+  },
+  "112": {
+   "name": "Michael Tempesta",
+   "role": "Superintendent, SAU 6"
+  },
+  "114": {
+   "name": "Michael Tempesta",
+   "role": "Superintendent, SAU 6"
+  },
+  "119": {
+   "name": "Michael Tempesta",
+   "role": "Superintendent, SAU 6"
+  },
+  "126": {
+   "name": "Michael Tempesta",
+   "role": "Superintendent, SAU 6"
+  },
+  "109": {
+   "name": "Frank Sprague",
+   "role": "Claremont School Board Chair"
+  },
+  "110": {
+   "name": "Frank Sprague",
+   "role": "Claremont School Board Chair"
+  },
+  "111": {
+   "name": "Frank Sprague",
+   "role": "Claremont School Board Chair"
+  },
+  "113": {
+   "name": "Frank Sprague",
+   "role": "Claremont School Board Chair"
+  },
+  "115": {
+   "name": "Frank Sprague",
+   "role": "Claremont School Board Chair"
+  },
+  "118": {
+   "name": "Frank Sprague",
+   "role": "Claremont School Board Chair"
+  },
+  "120": {
+   "name": "Frank Sprague",
+   "role": "Claremont School Board Chair"
+  },
+  "124": {
+   "name": "Frank Sprague",
+   "role": "Claremont School Board Chair"
+  },
+  "127": {
+   "name": "Frank Sprague",
+   "role": "Claremont School Board Chair"
+  },
+  "129": {
+   "name": "Frank Sprague",
+   "role": "Claremont School Board Chair"
+  },
+  "176": {
+   "name": "Frank Sprague",
+   "role": "Claremont School Board Chair"
+  },
+  "214": {
+   "name": "Michael Petrin",
+   "role": "Claremont School Board member (uncertain - segments in the superintendent's cluster; see overrides and report)"
+  },
+  "243": {
+   "name": "Michael Petrin",
+   "role": "Claremont School Board member (uncertain - segments in the superintendent's cluster; see overrides and report)"
+  },
+  "247": {
+   "name": "Michael Petrin",
+   "role": "Claremont School Board member (uncertain - segments in the superintendent's cluster; see overrides and report)"
+  },
+  "326": {
+   "name": "Michael Petrin",
+   "role": "Claremont School Board member (uncertain - segments in the superintendent's cluster; see overrides and report)"
+  },
+  "286": {
+   "name": "Unidentified",
+   "role": "Unidentified - brief remark during the budget review (superintendent or a board member)"
+  },
+  "288": {
+   "name": "Unidentified",
+   "role": "Unidentified - brief remark during the budget review (superintendent or a board member)"
+  },
+  "346": {
+   "name": "Joshua Lambert",
+   "role": "Claremont School Board member"
+  },
+  "505": {
+   "name": "David Bailey",
+   "role": "Stevens High School administrator and school safety liaison (introduced by the superintendent at [501]; 'Thanks, David' at [559])"
+  },
+  "507": {
+   "name": "David Bailey",
+   "role": "Stevens High School administrator and school safety liaison (introduced by the superintendent at [501]; 'Thanks, David' at [559])"
+  },
+  "508": {
+   "name": "David Bailey",
+   "role": "Stevens High School administrator and school safety liaison (introduced by the superintendent at [501]; 'Thanks, David' at [559])"
+  },
+  "509": {
+   "name": "David Bailey",
+   "role": "Stevens High School administrator and school safety liaison (introduced by the superintendent at [501]; 'Thanks, David' at [559])"
+  },
+  "511": {
+   "name": "David Bailey",
+   "role": "Stevens High School administrator and school safety liaison (introduced by the superintendent at [501]; 'Thanks, David' at [559])"
+  },
+  "513": {
+   "name": "David Bailey",
+   "role": "Stevens High School administrator and school safety liaison (introduced by the superintendent at [501]; 'Thanks, David' at [559])"
+  },
+  "519": {
+   "name": "David Bailey",
+   "role": "Stevens High School administrator and school safety liaison (introduced by the superintendent at [501]; 'Thanks, David' at [559])"
+  },
+  "521": {
+   "name": "David Bailey",
+   "role": "Stevens High School administrator and school safety liaison (introduced by the superintendent at [501]; 'Thanks, David' at [559])"
+  },
+  "524": {
+   "name": "David Bailey",
+   "role": "Stevens High School administrator and school safety liaison (introduced by the superintendent at [501]; 'Thanks, David' at [559])"
+  },
+  "526": {
+   "name": "David Bailey",
+   "role": "Stevens High School administrator and school safety liaison (introduced by the superintendent at [501]; 'Thanks, David' at [559])"
+  },
+  "528": {
+   "name": "David Bailey",
+   "role": "Stevens High School administrator and school safety liaison (introduced by the superintendent at [501]; 'Thanks, David' at [559])"
+  },
+  "548": {
+   "name": "David Bailey",
+   "role": "Stevens High School administrator and school safety liaison (introduced by the superintendent at [501]; 'Thanks, David' at [559])"
+  },
+  "550": {
+   "name": "David Bailey",
+   "role": "Stevens High School administrator and school safety liaison (introduced by the superintendent at [501]; 'Thanks, David' at [559])"
+  },
+  "459": {
+   "name": "Unidentified",
+   "role": "Unidentified - Stevens High School administrator presenting the program of studies and the Puerto Rico trip update (name not stated)"
+  },
+  "716": {
+   "name": "Michael Tempesta",
+   "role": "Superintendent, SAU 6"
+  },
+  "717": {
+   "name": "Unidentified",
+   "role": "Unidentified - Stevens High School administrator presenting the program of studies and the Puerto Rico trip update (name not stated)"
+  },
+  "719": {
+   "name": "Unidentified",
+   "role": "Unidentified - Stevens High School administrator presenting the program of studies and the Puerto Rico trip update (name not stated)"
+  },
+  "39": {
+   "name": "Mary Burke",
+   "role": "Public commenter, Ward 2 (parent of a CMS basketball player)"
+  },
+  "41": {
+   "name": "Mary Burke",
+   "role": "Public commenter, Ward 2 (parent of a CMS basketball player)"
+  },
+  "43": {
+   "name": "Mary Burke",
+   "role": "Public commenter, Ward 2 (parent of a CMS basketball player)"
+  },
+  "44": {
+   "name": "Mary Burke",
+   "role": "Public commenter, Ward 2 (parent of a CMS basketball player)"
+  },
+  "45": {
+   "name": "Mary Burke",
+   "role": "Public commenter, Ward 2 (parent of a CMS basketball player)"
+  },
+  "46": {
+   "name": "Mary Burke",
+   "role": "Public commenter, Ward 2 (parent of a CMS basketball player)"
+  },
+  "47": {
+   "name": "Mary Burke",
+   "role": "Public commenter, Ward 2 (parent of a CMS basketball player)"
+  },
+  "48": {
+   "name": "Mary Burke",
+   "role": "Public commenter, Ward 2 (parent of a CMS basketball player)"
+  },
+  "49": {
+   "name": "Mary Burke",
+   "role": "Public commenter, Ward 2 (parent of a CMS basketball player)"
+  },
+  "50": {
+   "name": "Mary Burke",
+   "role": "Public commenter, Ward 2 (parent of a CMS basketball player)"
+  },
+  "51": {
+   "name": "Mary Burke",
+   "role": "Public commenter, Ward 2 (parent of a CMS basketball player)"
+  },
+  "616": {
+   "name": "Veronica",
+   "role": "District nurse coordinator, SAU 6 (first name only; surname garbled by ASR at [100] as 'has no ski'; 'Ronnie' on 2/2/22)"
+  },
+  "617": {
+   "name": "Veronica",
+   "role": "District nurse coordinator, SAU 6 (first name only; surname garbled by ASR at [100] as 'has no ski'; 'Ronnie' on 2/2/22)"
+  },
+  "619": {
+   "name": "Veronica",
+   "role": "District nurse coordinator, SAU 6 (first name only; surname garbled by ASR at [100] as 'has no ski'; 'Ronnie' on 2/2/22)"
+  },
+  "785": {
+   "name": "Unidentified",
+   "role": "Unidentified - one-word fragment during scheduling"
+  }
+ }
+}

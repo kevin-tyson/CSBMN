@@ -1,0 +1,17 @@
+{
+ "Speaker 1": {"name": "Brian Rapp", "role": "Claremont School Board Chair"},
+ "Speaker 2": {"name": "Rebecca Zullo", "role": "Claremont School Board member"},
+ "Speaker 3": {"name": "Chris Irish", "role": "Claremont School Board Vice Chair"},
+ "Speaker 4": {"name": "Frank Sprague", "role": "Claremont School Board member"},
+ "Speaker 5": {"name": "Michelle Pierce", "role": "Claremont School Board member"},
+ "Speaker 10": {"name": "Michael Petrin", "role": "Claremont School Board member (uncertain - rests on one reply 'No, no' to 'Mike, do you have anything else' at seg 835)"},
+ "Speaker 7": {"name": "Unidentified", "role": "Unidentified - board member at the table, short interjections; Alex Herzog or Michael Petrin, not separable on this recording"},
+ "Speaker 11": {"name": "Unidentified", "role": "Unidentified - board member at the table (attended the mediation lunch, seg 1837-1843); Alex Herzog or Michael Petrin, not separable on this recording"},
+ "Speaker 8": {"name": "Unidentified", "role": "Unidentified - board member at the table, short fragments"},
+ "Speaker 9": {"name": "Unidentified", "role": "Unidentified - short fragments during line-item review"},
+ "Speaker 6": {"name": "Unidentified", "role": "Unidentified - offers to make copies (possibly recording secretary or staff)"},
+ "Speaker 12": {"name": "Unidentified", "role": "Unidentified - single fragment"},
+ "Speaker 13": {"name": "Unidentified", "role": "Unidentified - asks about student loan repayment contract benefit"},
+ "Speaker 14": {"name": "Unidentified", "role": "Unidentified - remark at the start of the nonpublic session (possibly camera operator)"},
+ "__overrides__": {"1": {"name": "Unidentified", "role": "Group recitation of the Pledge of Allegiance"}}
+}

@@ -1,0 +1,300 @@
+{
+ "Speaker 1": {
+  "name": "Frank Sprague",
+  "role": "Claremont School Board Chair, co-presiding ('I'm the board chair' [340])"
+ },
+ "Speaker 2": {
+  "name": "Russell",
+  "role": "City Clerk, Claremont (chair: 'Miss Russell. Could you do a roll call' [2]; first name not on this recording)"
+ },
+ "Speaker 3": {
+  "name": "O'Hearn",
+  "role": "Claremont City Councilor (surname as heard: 'Mr. O'Hearn' [19], 'counselor O'Hearn' [121]; first name and spelling not on this recording)"
+ },
+ "Speaker 4": {
+  "name": "Carolyn Towle",
+  "role": "Claremont School Board member"
+ },
+ "Speaker 5": {
+  "name": "John Cloutier",
+  "role": "NH State Representative, Ward 1, Claremont (self-identified, ASR 'John Claudia' [65])"
+ },
+ "Speaker 6": {
+  "name": "Charlene Lovett",
+  "role": "Mayor of Claremont, co-presiding (addressed 'Madam Mayor' [71, 80]; 'Mayor Levitt' [385]; City Manager: 'the mayor's points' [175])"
+ },
+ "Speaker 7": {
+  "name": "Ryan McNutt",
+  "role": "City Manager, Claremont (Towle: 'thank you for the groundwork, Mister McNutt' [139]; mayor: 'what you heard from the city manager' [107])"
+ },
+ "Speaker 8": {
+  "name": "Jason Benware",
+  "role": "Claremont School Board member"
+ },
+ "Speaker 9": {
+  "name": "Rebecca Zullo",
+  "role": "Claremont School Board Vice Chair"
+ },
+ "Speaker 10": {
+  "name": "Unidentified",
+  "role": "City Councilor called on at [121] ('Counselor ... here'); name not recoverable from the ASR"
+ },
+ "Speaker 11": {
+  "name": "Michelle Pierce",
+  "role": "Claremont School Board member"
+ },
+ "Speaker 12": {
+  "name": "Scott Pope",
+  "role": "Claremont City Councilor (chair recognizes 'Councilor Polk' [376]; Pierce: 'Scott was before you' [421]; mayor: 'Scott suggestion' [341] refers to his [292])"
+ },
+ "Speaker 13": {
+  "name": "Steven Horsky",
+  "role": "Claremont School Board member"
+ },
+ "Speaker 14": {
+  "name": "Allen Damren",
+  "role": "Assistant Mayor, Claremont (mayor: 'assistant mayor D'Amour' [184]; 'Mr. Derek Damron' seconds [14])"
+ },
+ "Speaker 15": {
+  "name": "Unidentified",
+  "role": "Member helping tally the roll-call vote and short fragments; name not on record"
+ },
+ "Speaker 16": {
+  "name": "Cory LeClair",
+  "role": "Assistant Superintendent, SAU 6 (Towle: 'I absolutely agree with what Corey just said' [375])"
+ },
+ "Speaker 17": {
+  "name": "Carolyn Towle",
+  "role": "Claremont School Board member"
+ },
+ "Speaker 18": {
+  "name": "Unidentified",
+  "role": "Cluster of short fragments from several voices"
+ },
+ "Speaker 19": {
+  "name": "Unidentified",
+  "role": "City Councilor (comments on SB 365 and ash composting; name not on record)"
+ },
+ "__overrides__": {
+  "3": {
+   "name": "Unidentified",
+   "role": "Roll-call responses; several voices"
+  },
+  "5": {
+   "name": "Unidentified",
+   "role": "Roll-call responses; several voices"
+  },
+  "7": {
+   "name": "Unidentified",
+   "role": "Roll-call responses; several voices"
+  },
+  "8": {
+   "name": "Unidentified",
+   "role": "Roll-call responses; several voices"
+  },
+  "10": {
+   "name": "Unidentified",
+   "role": "Roll-call responses; several voices"
+  },
+  "13": {
+   "name": "Unidentified",
+   "role": "Council or board member moving / seconding"
+  },
+  "23": {
+   "name": "Unidentified",
+   "role": "Voice vote response"
+  },
+  "29": {
+   "name": "Charlene Lovett",
+   "role": "Mayor of Claremont, co-presiding (addressed 'Madam Mayor' [71, 80]; 'Mayor Levitt' [385]; City Manager: 'the mayor's points' [175])"
+  },
+  "30": {
+   "name": "Charlene Lovett",
+   "role": "Mayor of Claremont, co-presiding (addressed 'Madam Mayor' [71, 80]; 'Mayor Levitt' [385]; City Manager: 'the mayor's points' [175])"
+  },
+  "31": {
+   "name": "Charlene Lovett",
+   "role": "Mayor of Claremont, co-presiding (addressed 'Madam Mayor' [71, 80]; 'Mayor Levitt' [385]; City Manager: 'the mayor's points' [175])"
+  },
+  "32": {
+   "name": "Charlene Lovett",
+   "role": "Mayor of Claremont, co-presiding (addressed 'Madam Mayor' [71, 80]; 'Mayor Levitt' [385]; City Manager: 'the mayor's points' [175])"
+  },
+  "33": {
+   "name": "Charlene Lovett",
+   "role": "Mayor of Claremont, co-presiding (addressed 'Madam Mayor' [71, 80]; 'Mayor Levitt' [385]; City Manager: 'the mayor's points' [175])"
+  },
+  "34": {
+   "name": "Charlene Lovett",
+   "role": "Mayor of Claremont, co-presiding (addressed 'Madam Mayor' [71, 80]; 'Mayor Levitt' [385]; City Manager: 'the mayor's points' [175])"
+  },
+  "35": {
+   "name": "Charlene Lovett",
+   "role": "Mayor of Claremont, co-presiding (addressed 'Madam Mayor' [71, 80]; 'Mayor Levitt' [385]; City Manager: 'the mayor's points' [175])"
+  },
+  "36": {
+   "name": "Charlene Lovett",
+   "role": "Mayor of Claremont, co-presiding (addressed 'Madam Mayor' [71, 80]; 'Mayor Levitt' [385]; City Manager: 'the mayor's points' [175])"
+  },
+  "37": {
+   "name": "Charlene Lovett",
+   "role": "Mayor of Claremont, co-presiding (addressed 'Madam Mayor' [71, 80]; 'Mayor Levitt' [385]; City Manager: 'the mayor's points' [175])"
+  },
+  "38": {
+   "name": "Charlene Lovett",
+   "role": "Mayor of Claremont, co-presiding (addressed 'Madam Mayor' [71, 80]; 'Mayor Levitt' [385]; City Manager: 'the mayor's points' [175])"
+  },
+  "50": {
+   "name": "Cornelia Sergeant",
+   "role": "Public commenter, Ward 2 (self-identified, ASR 'Cornelia, Sergeant' [50]; surname spelling unverified)"
+  },
+  "51": {
+   "name": "Cornelia Sergeant",
+   "role": "Public commenter, Ward 2 (self-identified, ASR 'Cornelia, Sergeant' [50]; surname spelling unverified)"
+  },
+  "52": {
+   "name": "Cornelia Sergeant",
+   "role": "Public commenter, Ward 2 (self-identified, ASR 'Cornelia, Sergeant' [50]; surname spelling unverified)"
+  },
+  "53": {
+   "name": "Cornelia Sergeant",
+   "role": "Public commenter, Ward 2 (self-identified, ASR 'Cornelia, Sergeant' [50]; surname spelling unverified)"
+  },
+  "54": {
+   "name": "Cornelia Sergeant",
+   "role": "Public commenter, Ward 2 (self-identified, ASR 'Cornelia, Sergeant' [50]; surname spelling unverified)"
+  },
+  "55": {
+   "name": "Cornelia Sergeant",
+   "role": "Public commenter, Ward 2 (self-identified, ASR 'Cornelia, Sergeant' [50]; surname spelling unverified)"
+  },
+  "56": {
+   "name": "Cornelia Sergeant",
+   "role": "Public commenter, Ward 2 (self-identified, ASR 'Cornelia, Sergeant' [50]; surname spelling unverified)"
+  },
+  "57": {
+   "name": "Cornelia Sergeant",
+   "role": "Public commenter, Ward 2 (self-identified, ASR 'Cornelia, Sergeant' [50]; surname spelling unverified)"
+  },
+  "58": {
+   "name": "Charlene Lovett",
+   "role": "Mayor of Claremont, co-presiding (addressed 'Madam Mayor' [71, 80]; 'Mayor Levitt' [385]; City Manager: 'the mayor's points' [175])"
+  },
+  "59": {
+   "name": "Cornelia Sergeant",
+   "role": "Public commenter, Ward 2 (self-identified, ASR 'Cornelia, Sergeant' [50]; surname spelling unverified)"
+  },
+  "60": {
+   "name": "Charlene Lovett",
+   "role": "Mayor of Claremont, co-presiding (addressed 'Madam Mayor' [71, 80]; 'Mayor Levitt' [385]; City Manager: 'the mayor's points' [175])"
+  },
+  "61": {
+   "name": "Cornelia Sergeant",
+   "role": "Public commenter, Ward 2 (self-identified, ASR 'Cornelia, Sergeant' [50]; surname spelling unverified)"
+  },
+  "62": {
+   "name": "Charlene Lovett",
+   "role": "Mayor of Claremont, co-presiding (addressed 'Madam Mayor' [71, 80]; 'Mayor Levitt' [385]; City Manager: 'the mayor's points' [175])"
+  },
+  "63": {
+   "name": "Cornelia Sergeant",
+   "role": "Public commenter, Ward 2 (self-identified, ASR 'Cornelia, Sergeant' [50]; surname spelling unverified)"
+  },
+  "64": {
+   "name": "Charlene Lovett",
+   "role": "Mayor of Claremont, co-presiding (addressed 'Madam Mayor' [71, 80]; 'Mayor Levitt' [385]; City Manager: 'the mayor's points' [175])"
+  },
+  "72": {
+   "name": "Charlene Lovett",
+   "role": "Mayor of Claremont, co-presiding (addressed 'Madam Mayor' [71, 80]; 'Mayor Levitt' [385]; City Manager: 'the mayor's points' [175])"
+  },
+  "75": {
+   "name": "Charlene Lovett",
+   "role": "Mayor of Claremont, co-presiding (addressed 'Madam Mayor' [71, 80]; 'Mayor Levitt' [385]; City Manager: 'the mayor's points' [175])"
+  },
+  "104": {
+   "name": "Charlene Lovett",
+   "role": "Mayor of Claremont, co-presiding (addressed 'Madam Mayor' [71, 80]; 'Mayor Levitt' [385]; City Manager: 'the mayor's points' [175])"
+  },
+  "106": {
+   "name": "Charlene Lovett",
+   "role": "Mayor of Claremont, co-presiding (addressed 'Madam Mayor' [71, 80]; 'Mayor Levitt' [385]; City Manager: 'the mayor's points' [175])"
+  },
+  "149": {
+   "name": "Charlene Lovett",
+   "role": "Mayor of Claremont, co-presiding (addressed 'Madam Mayor' [71, 80]; 'Mayor Levitt' [385]; City Manager: 'the mayor's points' [175])"
+  },
+  "168": {
+   "name": "Unidentified",
+   "role": "Short remark on tuition rates, speaker uncertain"
+  },
+  "181": {
+   "name": "Charlene Lovett",
+   "role": "Mayor of Claremont, co-presiding (addressed 'Madam Mayor' [71, 80]; 'Mayor Levitt' [385]; City Manager: 'the mayor's points' [175])"
+  },
+  "197": {
+   "name": "Jonathan Stone",
+   "role": "Claremont City Councilor (mayor: 'Councilor Stone hasn't spoken' [195]; diarized with the chair's cluster)"
+  },
+  "198": {
+   "name": "Jonathan Stone",
+   "role": "Claremont City Councilor (mayor: 'Councilor Stone hasn't spoken' [195]; diarized with the chair's cluster)"
+  },
+  "199": {
+   "name": "Jonathan Stone",
+   "role": "Claremont City Councilor (mayor: 'Councilor Stone hasn't spoken' [195]; diarized with the chair's cluster)"
+  },
+  "200": {
+   "name": "Jonathan Stone",
+   "role": "Claremont City Councilor (mayor: 'Councilor Stone hasn't spoken' [195]; diarized with the chair's cluster)"
+  },
+  "202": {
+   "name": "Unidentified",
+   "role": "Council or board member moving / seconding"
+  },
+  "225": {
+   "name": "Steven Horsky",
+   "role": "Claremont School Board member"
+  },
+  "226": {
+   "name": "Russell",
+   "role": "City Clerk, Claremont (chair: 'Miss Russell. Could you do a roll call' [2]; first name not on this recording)"
+  },
+  "232": {
+   "name": "Unidentified",
+   "role": "Roll-call vote response"
+  },
+  "247": {
+   "name": "Unidentified",
+   "role": "Member helping tally the roll-call vote"
+  },
+  "249": {
+   "name": "Unidentified",
+   "role": "Member helping tally the roll-call vote"
+  },
+  "261": {
+   "name": "Charlene Lovett",
+   "role": "Mayor of Claremont, co-presiding (addressed 'Madam Mayor' [71, 80]; 'Mayor Levitt' [385]; City Manager: 'the mayor's points' [175])"
+  },
+  "267": {
+   "name": "Charlene Lovett",
+   "role": "Mayor of Claremont, co-presiding (addressed 'Madam Mayor' [71, 80]; 'Mayor Levitt' [385]; City Manager: 'the mayor's points' [175])"
+  },
+  "269": {
+   "name": "Charlene Lovett",
+   "role": "Mayor of Claremont, co-presiding (addressed 'Madam Mayor' [71, 80]; 'Mayor Levitt' [385]; City Manager: 'the mayor's points' [175])"
+  },
+  "438": {
+   "name": "Michael Petrin",
+   "role": "Claremont School Board member (uncertain - Horsky: 'go with what Mike said' [458] refers to this proposal; Petrin's attendance not clear from the garbled roll call)"
+  },
+  "440": {
+   "name": "Michael Petrin",
+   "role": "Claremont School Board member (uncertain - Horsky: 'go with what Mike said' [458] refers to this proposal; Petrin's attendance not clear from the garbled roll call)"
+  },
+  "550": {
+   "name": "Frank Sprague",
+   "role": "Claremont School Board Chair, co-presiding ('I'm the board chair' [340])"
+  }
+ }
+}

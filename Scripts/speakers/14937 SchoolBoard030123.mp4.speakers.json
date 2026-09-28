@@ -1,0 +1,83 @@
+{
+  "Speaker 1": {
+    "name": "Michael Petrin",
+    "role": "School Board Chair (calls the 3/1/2023 meeting to order; names himself as a candidate for the one-year seat at the 3/14/2023 election)"
+  },
+  "Speaker 2": {
+    "name": "Heather Whitney",
+    "role": "School Board Vice Chair; reports out the ad hoc parliamentary-procedure committee (addressed as \"Heather\" by staff and by Sprague, who corrects himself to \"Miss Whitney\")"
+  },
+  "Speaker 3": {
+    "name": "Unidentified",
+    "role": "Diarizer catch-all cluster - single-word assent and clipped sentence fragments; voice not distinguishable"
+  },
+  "Speaker 4": {
+    "name": "Unidentified",
+    "role": "Diarizer catch-all cluster - short fragments clipped from neighbouring turns; voice not distinguishable"
+  },
+  "Speaker 5": {
+    "name": "Whitney Skillen",
+    "role": "School Board Member (the chair names her as mover twice: \"By Whitney. A second by Heather\", \"A motion by Whitney. Second. By Frank\")"
+  },
+  "Speaker 6": {
+    "name": "Candace Crawford",
+    "role": "Public commenter, Ward 2 (self-identified) - not a member of this board at this date; she is appointed to it on 7/19/2023"
+  },
+  "Speaker 7": {
+    "name": "Michael Tempesta",
+    "role": "Superintendent of Schools, SAU 6 (the chair defers to him as \"Mike\"; Sprague calls him \"Mikey\"; Whitney refers agenda questions to \"Mr. Tempesta\")"
+  },
+  "Speaker 8": {
+    "name": "Michael Petrin",
+    "role": "School Board Chair (fragments of the chair's own sentences clipped into a separate cluster)"
+  },
+  "Speaker 9": {
+    "name": "Mike Koski",
+    "role": "Assistant Superintendent, SAU 6 - presents the ESSER I/II/III grant update (Sprague directs his written follow-up questions to \"Mike K\" as distinct from \"Mike T\")"
+  },
+  "Speaker 10": {
+    "name": "Frank Sprague",
+    "role": "School Board Member; on the ballot for a three-year seat at the 3/14/2023 election (addressed as \"Frank\" by staff; Whitney refers to \"Frank's point\")"
+  },
+  "Speaker 11": {
+    "name": "Bonnie Miles",
+    "role": "School Board Member (only roll-called member left unassigned; speaks as a board member and self-describes as a supervisor of the checklist)"
+  },
+  "Speaker 12": {
+    "name": "Unidentified",
+    "role": "Single-segment cluster - two-word interjection during board discussion; voice not distinguishable"
+  },
+  "Speaker 13": {
+    "name": "Jennifer Gallagher",
+    "role": "Public commenter, Ward 1 (self-identified as \"Jen Gallagher\"); candidate for the one-year school board seat at the 3/14/2023 election"
+  },
+  "Speaker 14": {
+    "name": "Unidentified",
+    "role": "Single-segment cluster - reads as a chair-style recognition (\"Yes, I have their hand\") but the voice is not distinguishable"
+  },
+  "__overrides__": {
+    "10": {"name": "Ben Nester", "role": "Director of Special Education, SAU 6; serving as board secretary - reads the roll call at the chair's request (\"Mr. Nestor, can I ask you for a roll call tonight?\"). Members' \"here\" replies are merged into this segment"},
+    "11": {"name": "Ben Nester", "role": "Director of Special Education, SAU 6; reading the roll call - Miles's and Sprague's \"here\" replies are merged into this segment"},
+    "12": {"name": "Ben Nester", "role": "Director of Special Education, SAU 6; reading the roll call - Skillen's \"here\" reply is merged into this segment"},
+    "15": {"name": "Frank Sprague", "role": "School Board Member - moves to accept the agenda; the chair names him as mover in the next segment"},
+    "79": {"name": "Mike Koski", "role": "Assistant Superintendent, SAU 6 (sub-second sentence onset clipped into the neighbouring cluster)"},
+    "84": {"name": "Mike Koski", "role": "Assistant Superintendent, SAU 6 (sentence onset clipped into the neighbouring cluster; continues without a gap into his next segment)"},
+    "89": {"name": "Ben Nester", "role": "Director of Special Education, SAU 6 - answering the paraprofessional-hiring question Whitney addresses to \"Ben\" in the preceding segment (voice merged into the superintendent's cluster)"},
+    "91": {"name": "Ben Nester", "role": "Director of Special Education, SAU 6 - continuing his answer on paraprofessional recruitment and stipends (voice merged into the superintendent's cluster)"},
+    "92": {"name": "Ben Nester", "role": "Director of Special Education, SAU 6 - continuing his answer on paraprofessional recruitment (voice merged into the superintendent's cluster)"},
+    "93": {"name": "Ben Nester", "role": "Director of Special Education, SAU 6 - continuing without a gap from the previous segment; Whitney's onset (\"So I\") is clipped into the tail"},
+    "95": {"name": "Heather Whitney", "role": "School Board Vice Chair (sub-second fragment of her own sentence, \"I'm okay with actually across the board...\", clipped into a neighbouring cluster)"},
+    "105": {"name": "Frank Sprague", "role": "School Board Member (three-word fragment completing his own sentence, clipped into a neighbouring cluster at zero gap on both sides)"},
+    "109": {"name": "Mike Koski", "role": "Assistant Superintendent, SAU 6 (sub-second sentence onset clipped into the neighbouring cluster)"},
+    "167": {"name": "Michael Tempesta", "role": "Superintendent of Schools, SAU 6 (one-word fragment completing his own sentence, \"I can see what we can get\", clipped into a neighbouring cluster)"},
+    "183": {"name": "Candace Crawford", "role": "Public commenter, Ward 2 (fragment completing her own sentence, \"I just have two... two questions\", clipped into a neighbouring cluster)"},
+    "196": {"name": "Michael Petrin", "role": "School Board Chair (fragment completing his own sentence, \"Anything else from the board?\", clipped into a neighbouring cluster)"},
+    "228": {"name": "Heather Whitney", "role": "School Board Vice Chair (fragment completing her own sentence, \"For first reading\", clipped into a neighbouring cluster)"},
+    "250": {"name": "Heather Whitney", "role": "School Board Vice Chair (fragment running without a gap into her next segment)"},
+    "254": {"name": "Frank Sprague", "role": "School Board Member (fragment completing his own \"Thank you, thank you\", clipped into a neighbouring cluster)"},
+    "306": {"name": "Michael Petrin", "role": "School Board Chair (two-word fragment inside his own sentence, \"Did I see your hand for other business?\", clipped into a neighbouring cluster)"},
+    "323": {"name": "Michael Tempesta", "role": "Superintendent of Schools, SAU 6 (sentence onset clipped into the neighbouring cluster)"},
+    "325": {"name": "Michael Tempesta", "role": "Superintendent of Schools, SAU 6 (one-word fragment running without a gap into his own next segment)"},
+    "331": {"name": "Michael Petrin", "role": "School Board Chair (fragment running without a gap into his own next segment)"}
+  }
+}

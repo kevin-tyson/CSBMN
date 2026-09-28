@@ -1,0 +1,636 @@
+{
+ "Speaker 2": {
+  "name": "Marjorie Erickson",
+  "role": "SAU 6 Board Chair, presiding (Unity School Board member); addressed as 'Marge' [363] and 'Marjorie' [887]; cluster also carries Cory LeClair, Sara Lowe and roll-call audio, see overrides"
+ },
+ "Speaker 16": {
+  "name": "Marjorie Erickson",
+  "role": "SAU 6 Board Chair, presiding (Unity School Board member); addressed as 'Marge' [363] and 'Marjorie' [887]; runs the superintendent search item [754]-[865]; cluster also carries Carolyn Towle, see overrides"
+ },
+ "Speaker 22": {
+  "name": "Carolyn Towle",
+  "role": "Claremont School Board member; recognized as 'Carolyn' [841],[1110]; cluster also carries some chair fragments, see overrides"
+ },
+ "Speaker 3": {
+  "name": "Mary Woodman",
+  "role": "Recording Secretary, calls the roll (addressed as 'Mary' [4],[963]; surname per roster, not stated on this recording)"
+ },
+ "Speaker 4": {
+  "name": "Keith Pfeifer",
+  "role": "Interim Superintendent, SAU 6 (addressed as 'Doctor Pfeiffer' [506],[1073]; 'Doctor Pica' [115])"
+ },
+ "Speaker 8": {
+  "name": "Michael O'Neill",
+  "role": "Business Administrator, SAU 6 (addressed as 'Mike'/'Michael' [307],[489]; surname per roster, not stated on this recording)"
+ },
+ "Speaker 1": {
+  "name": "Jason Benware",
+  "role": "Claremont School Board member; recognized as 'Jason' [448],[1066],[1196]; cluster also absorbs short interjections by other members (uncertain for unrecognized short turns)"
+ },
+ "Speaker 6": {
+  "name": "Michelle Pierce",
+  "role": "Claremont School Board member (recognized as 'Michelle' [139]; arrived late [50])"
+ },
+ "Speaker 17": {
+  "name": "Michelle Pierce",
+  "role": "Claremont School Board member (recognized as 'Michelle' [350],[777],[883]; 'end of my three year tenure' [789])"
+ },
+ "Speaker 10": {
+  "name": "Rebecca Zullo",
+  "role": "Claremont School Board Vice Chair (recognized as 'Rebecca' [189],[241],[362]; 'Becky' [685])"
+ },
+ "Speaker 11": {
+  "name": "Steven Horsky",
+  "role": "Claremont School Board member (recognized as 'Steve' [182],[295],[735],[759])"
+ },
+ "Speaker 12": {
+  "name": "Cory LeClair",
+  "role": "Assistant Superintendent, SAU 6 (explains the shared tech integrator [173]-[178], continuing into her Speaker 2 turn [179]; medium confidence)"
+ },
+ "Speaker 13": {
+  "name": "Josh Malloy",
+  "role": "Director of Instructional Technology, SAU 6 (Pfeifer: 'I'm going to let Josh respond' [163]; title and surname per roster)"
+ },
+ "Speaker 14": {
+  "name": "Sara Lowe",
+  "role": "SAU 6 Board member (Unity); recognized as 'Sarah' [258],[805],[865]; Zullo: 'your thinking, Sarah' [332]"
+ },
+ "Speaker 20": {
+  "name": "Sara Lowe",
+  "role": "SAU 6 Board member (Unity); recognized as 'Sarah' [258],[805],[865]"
+ },
+ "Speaker 15": {
+  "name": "Frank Sprague",
+  "role": "Claremont School Board Chair (seconds credited 'Frank' [1034],[1270]); this cluster's seconds [1252],[1264] are credited to Frank [1270] (medium confidence)"
+ },
+ "Speaker 18": {
+  "name": "Nathan Leavenworth",
+  "role": "Human Resources Director, SAU 6 office (called 'Nate'/'Nathan' [441],[732],[1084] and says he designed the evaluation system [387]; surname from recording 10375, spelling unverified)"
+ },
+ "Speaker 19": {
+  "name": "Ben",
+  "role": "Special Education Director, SAU 6 (first name only on this recording [478],[587]; possibly Ben Nester - uncertain, roster places Nester in that post from Dec 2019)"
+ },
+ "Speaker 21": {
+  "name": "Prudence McCormick",
+  "role": "SAU 6 Board member (Unity) (recognized as 'Prue' [823], ASR 'Proof'; roll call 'Lucas McCormick' [9])"
+ },
+ "Speaker 5": {
+  "name": "Unidentified",
+  "role": "Unidentified board member (question on sealing nonpublic minutes)"
+ },
+ "Speaker 7": {
+  "name": "Unidentified",
+  "role": "Unidentified - short remarks, mixed voices"
+ },
+ "Speaker 9": {
+  "name": "Unidentified",
+  "role": "Unidentified - short fragments of several speakers"
+ },
+ "Speaker 23": {
+  "name": "Unidentified",
+  "role": "Unidentified board member asking about the Unity principal (possibly Craig, Unity - uncertain)"
+ },
+ "Speaker 24": {
+  "name": "Unidentified",
+  "role": "Unidentified - short remarks around the votes, mixed voices"
+ },
+ "Speaker 25": {
+  "name": "Unidentified",
+  "role": "Unidentified"
+ },
+ "Speaker 26": {
+  "name": "Unidentified",
+  "role": "Unidentified - short remarks, mixed voices"
+ },
+ "Speaker 27": {
+  "name": "Unidentified",
+  "role": "Unidentified - short remarks, mixed voices"
+ },
+ "__overrides__": {
+  "179": {
+   "name": "Cory LeClair",
+   "role": "Assistant Superintendent, SAU 6 (named by Pfeifer [134] and O'Neill [335]; her turns are diarized into the chair's cluster, see overrides)"
+  },
+  "180": {
+   "name": "Cory LeClair",
+   "role": "Assistant Superintendent, SAU 6 (named by Pfeifer [134] and O'Neill [335]; her turns are diarized into the chair's cluster, see overrides)"
+  },
+  "222": {
+   "name": "Cory LeClair",
+   "role": "Assistant Superintendent, SAU 6 (named by Pfeifer [134] and O'Neill [335]; her turns are diarized into the chair's cluster, see overrides)"
+  },
+  "223": {
+   "name": "Cory LeClair",
+   "role": "Assistant Superintendent, SAU 6 (named by Pfeifer [134] and O'Neill [335]; her turns are diarized into the chair's cluster, see overrides)"
+  },
+  "225": {
+   "name": "Cory LeClair",
+   "role": "Assistant Superintendent, SAU 6 (named by Pfeifer [134] and O'Neill [335]; her turns are diarized into the chair's cluster, see overrides)"
+  },
+  "280": {
+   "name": "Cory LeClair",
+   "role": "Assistant Superintendent, SAU 6 (named by Pfeifer [134] and O'Neill [335]; her turns are diarized into the chair's cluster, see overrides)"
+  },
+  "281": {
+   "name": "Cory LeClair",
+   "role": "Assistant Superintendent, SAU 6 (named by Pfeifer [134] and O'Neill [335]; her turns are diarized into the chair's cluster, see overrides)"
+  },
+  "290": {
+   "name": "Cory LeClair",
+   "role": "Assistant Superintendent, SAU 6 (named by Pfeifer [134] and O'Neill [335]; her turns are diarized into the chair's cluster, see overrides)"
+  },
+  "292": {
+   "name": "Cory LeClair",
+   "role": "Assistant Superintendent, SAU 6 (named by Pfeifer [134] and O'Neill [335]; her turns are diarized into the chair's cluster, see overrides)"
+  },
+  "293": {
+   "name": "Cory LeClair",
+   "role": "Assistant Superintendent, SAU 6 (named by Pfeifer [134] and O'Neill [335]; her turns are diarized into the chair's cluster, see overrides)"
+  },
+  "324": {
+   "name": "Cory LeClair",
+   "role": "Assistant Superintendent, SAU 6 (named by Pfeifer [134] and O'Neill [335]; her turns are diarized into the chair's cluster, see overrides)"
+  },
+  "326": {
+   "name": "Cory LeClair",
+   "role": "Assistant Superintendent, SAU 6 (named by Pfeifer [134] and O'Neill [335]; her turns are diarized into the chair's cluster, see overrides)"
+  },
+  "360": {
+   "name": "Cory LeClair",
+   "role": "Assistant Superintendent, SAU 6 (named by Pfeifer [134] and O'Neill [335]; her turns are diarized into the chair's cluster, see overrides)"
+  },
+  "367": {
+   "name": "Cory LeClair",
+   "role": "Assistant Superintendent, SAU 6 (named by Pfeifer [134] and O'Neill [335]; her turns are diarized into the chair's cluster, see overrides)"
+  },
+  "498": {
+   "name": "Cory LeClair",
+   "role": "Assistant Superintendent, SAU 6 (named by Pfeifer [134] and O'Neill [335]; her turns are diarized into the chair's cluster, see overrides)"
+  },
+  "499": {
+   "name": "Cory LeClair",
+   "role": "Assistant Superintendent, SAU 6 (named by Pfeifer [134] and O'Neill [335]; her turns are diarized into the chair's cluster, see overrides)"
+  },
+  "501": {
+   "name": "Cory LeClair",
+   "role": "Assistant Superintendent, SAU 6 (named by Pfeifer [134] and O'Neill [335]; her turns are diarized into the chair's cluster, see overrides)"
+  },
+  "502": {
+   "name": "Cory LeClair",
+   "role": "Assistant Superintendent, SAU 6 (named by Pfeifer [134] and O'Neill [335]; her turns are diarized into the chair's cluster, see overrides)"
+  },
+  "507": {
+   "name": "Cory LeClair",
+   "role": "Assistant Superintendent, SAU 6 (named by Pfeifer [134] and O'Neill [335]; her turns are diarized into the chair's cluster, see overrides)"
+  },
+  "509": {
+   "name": "Cory LeClair",
+   "role": "Assistant Superintendent, SAU 6 (named by Pfeifer [134] and O'Neill [335]; her turns are diarized into the chair's cluster, see overrides)"
+  },
+  "511": {
+   "name": "Cory LeClair",
+   "role": "Assistant Superintendent, SAU 6 (named by Pfeifer [134] and O'Neill [335]; her turns are diarized into the chair's cluster, see overrides)"
+  },
+  "513": {
+   "name": "Cory LeClair",
+   "role": "Assistant Superintendent, SAU 6 (named by Pfeifer [134] and O'Neill [335]; her turns are diarized into the chair's cluster, see overrides)"
+  },
+  "515": {
+   "name": "Cory LeClair",
+   "role": "Assistant Superintendent, SAU 6 (named by Pfeifer [134] and O'Neill [335]; her turns are diarized into the chair's cluster, see overrides)"
+  },
+  "574": {
+   "name": "Cory LeClair",
+   "role": "Assistant Superintendent, SAU 6 (named by Pfeifer [134] and O'Neill [335]; her turns are diarized into the chair's cluster, see overrides)"
+  },
+  "575": {
+   "name": "Cory LeClair",
+   "role": "Assistant Superintendent, SAU 6 (named by Pfeifer [134] and O'Neill [335]; her turns are diarized into the chair's cluster, see overrides)"
+  },
+  "586": {
+   "name": "Cory LeClair",
+   "role": "Assistant Superintendent, SAU 6 (named by Pfeifer [134] and O'Neill [335]; her turns are diarized into the chair's cluster, see overrides)"
+  },
+  "587": {
+   "name": "Cory LeClair",
+   "role": "Assistant Superintendent, SAU 6 (named by Pfeifer [134] and O'Neill [335]; her turns are diarized into the chair's cluster, see overrides)"
+  },
+  "593": {
+   "name": "Cory LeClair",
+   "role": "Assistant Superintendent, SAU 6 (named by Pfeifer [134] and O'Neill [335]; her turns are diarized into the chair's cluster, see overrides)"
+  },
+  "594": {
+   "name": "Cory LeClair",
+   "role": "Assistant Superintendent, SAU 6 (named by Pfeifer [134] and O'Neill [335]; her turns are diarized into the chair's cluster, see overrides)"
+  },
+  "598": {
+   "name": "Cory LeClair",
+   "role": "Assistant Superintendent, SAU 6 (named by Pfeifer [134] and O'Neill [335]; her turns are diarized into the chair's cluster, see overrides)"
+  },
+  "658": {
+   "name": "Cory LeClair",
+   "role": "Assistant Superintendent, SAU 6 (named by Pfeifer [134] and O'Neill [335]; her turns are diarized into the chair's cluster, see overrides)"
+  },
+  "660": {
+   "name": "Cory LeClair",
+   "role": "Assistant Superintendent, SAU 6 (named by Pfeifer [134] and O'Neill [335]; her turns are diarized into the chair's cluster, see overrides)"
+  },
+  "666": {
+   "name": "Cory LeClair",
+   "role": "Assistant Superintendent, SAU 6 (named by Pfeifer [134] and O'Neill [335]; her turns are diarized into the chair's cluster, see overrides)"
+  },
+  "685": {
+   "name": "Cory LeClair",
+   "role": "Assistant Superintendent, SAU 6 (named by Pfeifer [134] and O'Neill [335]; her turns are diarized into the chair's cluster, see overrides)"
+  },
+  "686": {
+   "name": "Cory LeClair",
+   "role": "Assistant Superintendent, SAU 6 (named by Pfeifer [134] and O'Neill [335]; her turns are diarized into the chair's cluster, see overrides)"
+  },
+  "713": {
+   "name": "Cory LeClair",
+   "role": "Assistant Superintendent, SAU 6 (named by Pfeifer [134] and O'Neill [335]; her turns are diarized into the chair's cluster, see overrides)"
+  },
+  "714": {
+   "name": "Cory LeClair",
+   "role": "Assistant Superintendent, SAU 6 (named by Pfeifer [134] and O'Neill [335]; her turns are diarized into the chair's cluster, see overrides)"
+  },
+  "715": {
+   "name": "Cory LeClair",
+   "role": "Assistant Superintendent, SAU 6 (named by Pfeifer [134] and O'Neill [335]; her turns are diarized into the chair's cluster, see overrides)"
+  },
+  "716": {
+   "name": "Cory LeClair",
+   "role": "Assistant Superintendent, SAU 6 (named by Pfeifer [134] and O'Neill [335]; her turns are diarized into the chair's cluster, see overrides)"
+  },
+  "717": {
+   "name": "Cory LeClair",
+   "role": "Assistant Superintendent, SAU 6 (named by Pfeifer [134] and O'Neill [335]; her turns are diarized into the chair's cluster, see overrides)"
+  },
+  "718": {
+   "name": "Cory LeClair",
+   "role": "Assistant Superintendent, SAU 6 (named by Pfeifer [134] and O'Neill [335]; her turns are diarized into the chair's cluster, see overrides)"
+  },
+  "720": {
+   "name": "Cory LeClair",
+   "role": "Assistant Superintendent, SAU 6 (named by Pfeifer [134] and O'Neill [335]; her turns are diarized into the chair's cluster, see overrides)"
+  },
+  "722": {
+   "name": "Cory LeClair",
+   "role": "Assistant Superintendent, SAU 6 (named by Pfeifer [134] and O'Neill [335]; her turns are diarized into the chair's cluster, see overrides)"
+  },
+  "724": {
+   "name": "Cory LeClair",
+   "role": "Assistant Superintendent, SAU 6 (named by Pfeifer [134] and O'Neill [335]; her turns are diarized into the chair's cluster, see overrides)"
+  },
+  "725": {
+   "name": "Cory LeClair",
+   "role": "Assistant Superintendent, SAU 6 (named by Pfeifer [134] and O'Neill [335]; her turns are diarized into the chair's cluster, see overrides)"
+  },
+  "726": {
+   "name": "Cory LeClair",
+   "role": "Assistant Superintendent, SAU 6 (named by Pfeifer [134] and O'Neill [335]; her turns are diarized into the chair's cluster, see overrides)"
+  },
+  "731": {
+   "name": "Cory LeClair",
+   "role": "Assistant Superintendent, SAU 6 (named by Pfeifer [134] and O'Neill [335]; her turns are diarized into the chair's cluster, see overrides)"
+  },
+  "732": {
+   "name": "Cory LeClair",
+   "role": "Assistant Superintendent, SAU 6 (named by Pfeifer [134] and O'Neill [335]; her turns are diarized into the chair's cluster, see overrides)"
+  },
+  "734": {
+   "name": "Cory LeClair",
+   "role": "Assistant Superintendent, SAU 6 (named by Pfeifer [134] and O'Neill [335]; her turns are diarized into the chair's cluster, see overrides)"
+  },
+  "747": {
+   "name": "Cory LeClair",
+   "role": "Assistant Superintendent, SAU 6 (named by Pfeifer [134] and O'Neill [335]; her turns are diarized into the chair's cluster, see overrides)"
+  },
+  "749": {
+   "name": "Cory LeClair",
+   "role": "Assistant Superintendent, SAU 6 (named by Pfeifer [134] and O'Neill [335]; her turns are diarized into the chair's cluster, see overrides)"
+  },
+  "1109": {
+   "name": "Cory LeClair",
+   "role": "Assistant Superintendent, SAU 6 (named by Pfeifer [134] and O'Neill [335]; her turns are diarized into the chair's cluster, see overrides)"
+  },
+  "1155": {
+   "name": "Cory LeClair",
+   "role": "Assistant Superintendent, SAU 6 (named by Pfeifer [134] and O'Neill [335]; her turns are diarized into the chair's cluster, see overrides)"
+  },
+  "1156": {
+   "name": "Cory LeClair",
+   "role": "Assistant Superintendent, SAU 6 (named by Pfeifer [134] and O'Neill [335]; her turns are diarized into the chair's cluster, see overrides)"
+  },
+  "155": {
+   "name": "Sara Lowe",
+   "role": "SAU 6 Board member (Unity); recognized as 'Sarah' [258],[805],[865] (turn diarized into another cluster)"
+  },
+  "157": {
+   "name": "Sara Lowe",
+   "role": "SAU 6 Board member (Unity); recognized as 'Sarah' [258],[805],[865] (turn diarized into another cluster)"
+  },
+  "162": {
+   "name": "Sara Lowe",
+   "role": "SAU 6 Board member (Unity); recognized as 'Sarah' [258],[805],[865] (turn diarized into another cluster)"
+  },
+  "177": {
+   "name": "Sara Lowe",
+   "role": "SAU 6 Board member (Unity); recognized as 'Sarah' [258],[805],[865] (turn diarized into another cluster)"
+  },
+  "258": {
+   "name": "Sara Lowe",
+   "role": "SAU 6 Board member (Unity); recognized as 'Sarah' [258],[805],[865] (turn diarized into another cluster)"
+  },
+  "261": {
+   "name": "Sara Lowe",
+   "role": "SAU 6 Board member (Unity); recognized as 'Sarah' [258],[805],[865] (turn diarized into another cluster)"
+  },
+  "263": {
+   "name": "Sara Lowe",
+   "role": "SAU 6 Board member (Unity); recognized as 'Sarah' [258],[805],[865] (turn diarized into another cluster)"
+  },
+  "265": {
+   "name": "Sara Lowe",
+   "role": "SAU 6 Board member (Unity); recognized as 'Sarah' [258],[805],[865] (turn diarized into another cluster)"
+  },
+  "269": {
+   "name": "Sara Lowe",
+   "role": "SAU 6 Board member (Unity); recognized as 'Sarah' [258],[805],[865] (turn diarized into another cluster)"
+  },
+  "272": {
+   "name": "Sara Lowe",
+   "role": "SAU 6 Board member (Unity); recognized as 'Sarah' [258],[805],[865] (turn diarized into another cluster)"
+  },
+  "276": {
+   "name": "Sara Lowe",
+   "role": "SAU 6 Board member (Unity); recognized as 'Sarah' [258],[805],[865] (turn diarized into another cluster)"
+  },
+  "278": {
+   "name": "Sara Lowe",
+   "role": "SAU 6 Board member (Unity); recognized as 'Sarah' [258],[805],[865] (turn diarized into another cluster)"
+  },
+  "283": {
+   "name": "Sara Lowe",
+   "role": "SAU 6 Board member (Unity); recognized as 'Sarah' [258],[805],[865] (turn diarized into another cluster)"
+  },
+  "339": {
+   "name": "Sara Lowe",
+   "role": "SAU 6 Board member (Unity); recognized as 'Sarah' [258],[805],[865] (turn diarized into another cluster)"
+  },
+  "341": {
+   "name": "Sara Lowe",
+   "role": "SAU 6 Board member (Unity); recognized as 'Sarah' [258],[805],[865] (turn diarized into another cluster)"
+  },
+  "343": {
+   "name": "Sara Lowe",
+   "role": "SAU 6 Board member (Unity); recognized as 'Sarah' [258],[805],[865] (turn diarized into another cluster)"
+  },
+  "345": {
+   "name": "Sara Lowe",
+   "role": "SAU 6 Board member (Unity); recognized as 'Sarah' [258],[805],[865] (turn diarized into another cluster)"
+  },
+  "348": {
+   "name": "Sara Lowe",
+   "role": "SAU 6 Board member (Unity); recognized as 'Sarah' [258],[805],[865] (turn diarized into another cluster)"
+  },
+  "487": {
+   "name": "Sara Lowe",
+   "role": "SAU 6 Board member (Unity); recognized as 'Sarah' [258],[805],[865] (turn diarized into another cluster)"
+  },
+  "488": {
+   "name": "Sara Lowe",
+   "role": "SAU 6 Board member (Unity); recognized as 'Sarah' [258],[805],[865] (turn diarized into another cluster)"
+  },
+  "866": {
+   "name": "Sara Lowe",
+   "role": "SAU 6 Board member (Unity); recognized as 'Sarah' [258],[805],[865] (turn diarized into another cluster)"
+  },
+  "867": {
+   "name": "Sara Lowe",
+   "role": "SAU 6 Board member (Unity); recognized as 'Sarah' [258],[805],[865] (turn diarized into another cluster)"
+  },
+  "156": {
+   "name": "Sara Lowe",
+   "role": "SAU 6 Board member (Unity); recognized as 'Sarah' [258],[805],[865] (turn diarized into another cluster)"
+  },
+  "400": {
+   "name": "Carolyn Towle",
+   "role": "Claremont School Board member; recognized as 'Carolyn' [841],[1110] (Jason: 'Carolyn just asked a question about it' [453]; chair: 'Carolyn wants to know' [483])"
+  },
+  "402": {
+   "name": "Carolyn Towle",
+   "role": "Claremont School Board member; recognized as 'Carolyn' [841],[1110] (Jason: 'Carolyn just asked a question about it' [453]; chair: 'Carolyn wants to know' [483])"
+  },
+  "404": {
+   "name": "Carolyn Towle",
+   "role": "Claremont School Board member; recognized as 'Carolyn' [841],[1110] (Jason: 'Carolyn just asked a question about it' [453]; chair: 'Carolyn wants to know' [483])"
+  },
+  "407": {
+   "name": "Carolyn Towle",
+   "role": "Claremont School Board member; recognized as 'Carolyn' [841],[1110] (Jason: 'Carolyn just asked a question about it' [453]; chair: 'Carolyn wants to know' [483])"
+  },
+  "409": {
+   "name": "Carolyn Towle",
+   "role": "Claremont School Board member; recognized as 'Carolyn' [841],[1110] (Jason: 'Carolyn just asked a question about it' [453]; chair: 'Carolyn wants to know' [483])"
+  },
+  "412": {
+   "name": "Carolyn Towle",
+   "role": "Claremont School Board member; recognized as 'Carolyn' [841],[1110] (Jason: 'Carolyn just asked a question about it' [453]; chair: 'Carolyn wants to know' [483])"
+  },
+  "414": {
+   "name": "Carolyn Towle",
+   "role": "Claremont School Board member; recognized as 'Carolyn' [841],[1110] (Jason: 'Carolyn just asked a question about it' [453]; chair: 'Carolyn wants to know' [483])"
+  },
+  "416": {
+   "name": "Carolyn Towle",
+   "role": "Claremont School Board member; recognized as 'Carolyn' [841],[1110] (Jason: 'Carolyn just asked a question about it' [453]; chair: 'Carolyn wants to know' [483])"
+  },
+  "418": {
+   "name": "Carolyn Towle",
+   "role": "Claremont School Board member; recognized as 'Carolyn' [841],[1110] (Jason: 'Carolyn just asked a question about it' [453]; chair: 'Carolyn wants to know' [483])"
+  },
+  "464": {
+   "name": "Carolyn Towle",
+   "role": "Claremont School Board member; recognized as 'Carolyn' [841],[1110] (Jason: 'Carolyn just asked a question about it' [453]; chair: 'Carolyn wants to know' [483])"
+  },
+  "466": {
+   "name": "Carolyn Towle",
+   "role": "Claremont School Board member; recognized as 'Carolyn' [841],[1110] (Jason: 'Carolyn just asked a question about it' [453]; chair: 'Carolyn wants to know' [483])"
+  },
+  "467": {
+   "name": "Carolyn Towle",
+   "role": "Claremont School Board member; recognized as 'Carolyn' [841],[1110] (Jason: 'Carolyn just asked a question about it' [453]; chair: 'Carolyn wants to know' [483])"
+  },
+  "473": {
+   "name": "Carolyn Towle",
+   "role": "Claremont School Board member; recognized as 'Carolyn' [841],[1110] (Jason: 'Carolyn just asked a question about it' [453]; chair: 'Carolyn wants to know' [483])"
+  },
+  "480": {
+   "name": "Carolyn Towle",
+   "role": "Claremont School Board member; recognized as 'Carolyn' [841],[1110] (Jason: 'Carolyn just asked a question about it' [453]; chair: 'Carolyn wants to know' [483])"
+  },
+  "486": {
+   "name": "Carolyn Towle",
+   "role": "Claremont School Board member; recognized as 'Carolyn' [841],[1110] (Jason: 'Carolyn just asked a question about it' [453]; chair: 'Carolyn wants to know' [483])"
+  },
+  "493": {
+   "name": "Carolyn Towle",
+   "role": "Claremont School Board member; recognized as 'Carolyn' [841],[1110] (Jason: 'Carolyn just asked a question about it' [453]; chair: 'Carolyn wants to know' [483])"
+  },
+  "1169": {
+   "name": "Marjorie Erickson",
+   "role": "SAU 6 Board Chair, presiding (Unity School Board member); addressed as 'Marge' [363] and 'Marjorie' [887] (chair recognition or fragment diarized into another cluster)"
+  },
+  "1175": {
+   "name": "Marjorie Erickson",
+   "role": "SAU 6 Board Chair, presiding (Unity School Board member); addressed as 'Marge' [363] and 'Marjorie' [887] (chair recognition or fragment diarized into another cluster)"
+  },
+  "1179": {
+   "name": "Marjorie Erickson",
+   "role": "SAU 6 Board Chair, presiding (Unity School Board member); addressed as 'Marge' [363] and 'Marjorie' [887] (chair recognition or fragment diarized into another cluster)"
+  },
+  "1196": {
+   "name": "Marjorie Erickson",
+   "role": "SAU 6 Board Chair, presiding (Unity School Board member); addressed as 'Marge' [363] and 'Marjorie' [887] (chair recognition or fragment diarized into another cluster)"
+  },
+  "1198": {
+   "name": "Marjorie Erickson",
+   "role": "SAU 6 Board Chair, presiding (Unity School Board member); addressed as 'Marge' [363] and 'Marjorie' [887] (chair recognition or fragment diarized into another cluster)"
+  },
+  "938": {
+   "name": "Marjorie Erickson",
+   "role": "SAU 6 Board Chair, presiding (Unity School Board member); addressed as 'Marge' [363] and 'Marjorie' [887] (chair recognition or fragment diarized into another cluster)"
+  },
+  "940": {
+   "name": "Marjorie Erickson",
+   "role": "SAU 6 Board Chair, presiding (Unity School Board member); addressed as 'Marge' [363] and 'Marjorie' [887] (chair recognition or fragment diarized into another cluster)"
+  },
+  "1215": {
+   "name": "Marjorie Erickson",
+   "role": "SAU 6 Board Chair, presiding (Unity School Board member); addressed as 'Marge' [363] and 'Marjorie' [887] (chair recognition or fragment diarized into another cluster)"
+  },
+  "1217": {
+   "name": "Marjorie Erickson",
+   "role": "SAU 6 Board Chair, presiding (Unity School Board member); addressed as 'Marge' [363] and 'Marjorie' [887] (chair recognition or fragment diarized into another cluster)"
+  },
+  "1219": {
+   "name": "Marjorie Erickson",
+   "role": "SAU 6 Board Chair, presiding (Unity School Board member); addressed as 'Marge' [363] and 'Marjorie' [887] (chair recognition or fragment diarized into another cluster)"
+  },
+  "1221": {
+   "name": "Marjorie Erickson",
+   "role": "SAU 6 Board Chair, presiding (Unity School Board member); addressed as 'Marge' [363] and 'Marjorie' [887] (chair recognition or fragment diarized into another cluster)"
+  },
+  "182": {
+   "name": "Marjorie Erickson",
+   "role": "SAU 6 Board Chair, presiding (Unity School Board member); addressed as 'Marge' [363] and 'Marjorie' [887] (chair recognition or fragment diarized into another cluster)"
+  },
+  "154": {
+   "name": "Marjorie Erickson",
+   "role": "SAU 6 Board Chair, presiding (Unity School Board member); addressed as 'Marge' [363] and 'Marjorie' [887] (chair recognition or fragment diarized into another cluster)"
+  },
+  "463": {
+   "name": "Marjorie Erickson",
+   "role": "SAU 6 Board Chair, presiding (Unity School Board member); addressed as 'Marge' [363] and 'Marjorie' [887] (chair recognition or fragment diarized into another cluster)"
+  },
+  "561": {
+   "name": "Ben",
+   "role": "Special Education Director, SAU 6 (first name only on this recording [478],[587]; possibly Ben Nester - uncertain, roster places Nester in that post from Dec 2019)"
+  },
+  "564": {
+   "name": "Ben",
+   "role": "Special Education Director, SAU 6 (first name only on this recording [478],[587]; possibly Ben Nester - uncertain, roster places Nester in that post from Dec 2019)"
+  },
+  "791": {
+   "name": "Michael Petrin",
+   "role": "Claremont School Board member (recognized as 'Mike' by the chair [790])"
+  },
+  "793": {
+   "name": "Michael Petrin",
+   "role": "Claremont School Board member (recognized as 'Mike' by the chair [790])"
+  },
+  "795": {
+   "name": "Michael Petrin",
+   "role": "Claremont School Board member (recognized as 'Mike' by the chair [790])"
+  },
+  "792": {
+   "name": "Michael Petrin",
+   "role": "Claremont School Board member (recognized as 'Mike' by the chair [790])"
+  },
+  "794": {
+   "name": "Michael Petrin",
+   "role": "Claremont School Board member (recognized as 'Mike' by the chair [790])"
+  },
+  "1026": {
+   "name": "Frank Sprague",
+   "role": "Claremont School Board Chair (seconds credited 'Frank' [1034],[1270])"
+  },
+  "282": {
+   "name": "Unidentified",
+   "role": "Unidentified - segment mixes Cory LeClair's answer and Sara Lowe's follow-up"
+  },
+  "442": {
+   "name": "Unidentified",
+   "role": "Unidentified staff member answering on the health plan after O'Neill defers to 'Nate' (voice falls in the chair's cluster)"
+  },
+  "444": {
+   "name": "Unidentified",
+   "role": "Unidentified staff member answering on the health plan after O'Neill defers to 'Nate' (voice falls in the chair's cluster)"
+  },
+  "0": {
+   "name": "Unidentified",
+   "role": "Group - Pledge of Allegiance"
+  },
+  "5": {
+   "name": "Unidentified",
+   "role": "Roll call - names and 'here' responses merged"
+  },
+  "6": {
+   "name": "Unidentified",
+   "role": "Roll call - names and 'here' responses merged"
+  },
+  "8": {
+   "name": "Unidentified",
+   "role": "Roll call - names and 'here' responses merged"
+  },
+  "1295": {
+   "name": "Unidentified",
+   "role": "Roll-call vote on nonpublic session - clerk calling names with members' answers merged"
+  },
+  "1297": {
+   "name": "Unidentified",
+   "role": "Roll-call vote on nonpublic session - clerk calling names with members' answers merged"
+  },
+  "1299": {
+   "name": "Unidentified",
+   "role": "Roll-call vote on nonpublic session - clerk calling names with members' answers merged"
+  },
+  "15": {
+   "name": "Unidentified",
+   "role": "Unidentified board member moving the agenda and minutes (voice grouped with the superintendent's cluster)"
+  },
+  "23": {
+   "name": "Unidentified",
+   "role": "Unidentified board member moving the agenda and minutes (voice grouped with the superintendent's cluster)"
+  },
+  "25": {
+   "name": "Unidentified",
+   "role": "Unidentified board member moving the agenda and minutes (voice grouped with the superintendent's cluster)"
+  },
+  "27": {
+   "name": "Unidentified",
+   "role": "Unidentified board member moving the agenda and minutes (voice grouped with the superintendent's cluster)"
+  },
+  "150": {
+   "name": "Unidentified",
+   "role": "Unidentified - fragments"
+  },
+  "152": {
+   "name": "Unidentified",
+   "role": "Unidentified - fragments"
+  }
+ }
+}

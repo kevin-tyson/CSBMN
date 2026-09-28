@@ -1,0 +1,26 @@
+{
+ "Speaker 1": {"name": "Frank Sprague", "role": "Claremont School Board Chair (calls meeting to order, runs agenda and votes; answers last in both roll-call votes after 'Frank')"},
+ "Speaker 2": {"name": "Heather Whitney", "role": "Claremont School Board Vice Chair (maker of the mask-matrix motion; Petrin moves 'to amend Heather's motion' [217]); cluster also absorbed the clerk's opening roll call, see overrides"},
+ "Speaker 3": {"name": "Unidentified", "role": "Unidentified - two-word interjection 'On TV.' during roll call"},
+ "Speaker 4": {"name": "Michael Petrin", "role": "Claremont School Board member (chair addresses 'Mike' [15] and 'Thanks, Josh. Mike.' [77]; answers 'Michael' in roll-call vote [329-330]; public commenter cites 'Mr. Patron' on nursing-home experience [199])"},
+ "Speaker 5": {"name": "Steven Horsky", "role": "Claremont School Board member (chair recognizes 'Steve.' [83] before this voice; roll-call 'Yes' after his call [323-324])"},
+ "Speaker 6": {"name": "Michael Tempesta", "role": "Superintendent, SAU 6 (uncertain - never named on this recording; reports on the posted matrix, consulting district counsel Matt Upton and state requirements [93-96, 155])"},
+ "Speaker 7": {"name": "Mary Woodman", "role": "School district clerk and board recording secretary (chair directs roll-call votes to 'Mrs. Woodman' [236, 270]; calls the vote roll [277-332]); some members' one-word vote responses are absorbed into this cluster"},
+ "Speaker 8": {"name": "Melissa Lewis", "role": "Principal, Disnard Elementary School (chair calls up 'Melissa Lewis' as principal at 'Disney Art school' [53])"},
+ "Speaker 9": {"name": "Joshua Lambert", "role": "Claremont School Board member, attending remotely (roll call 'Doctor Lambert ... remotely' [5-8]; chair recognizes 'Josh' [70, 158, 210]; answers 'Joshua Lambert' in roll-call vote [279-280])"},
+ "Speaker 10": {"name": "Veronica", "role": "District school nurse (uncertain title; superintendent asks 'Veronica ... Ronnie' to come up on Covid return rules [95-96]; surname not given)"},
+ "Speaker 11": {"name": "Rob Lovett Jr.", "role": "Claremont School Board member (answers the 'Junior?' roll-call vote and abstains [281-286]; moves to adjourn, chair 'Rob made it' [336-338])"},
+ "Speaker 12": {"name": "Nicholas Stone", "role": "Claremont School Board member (attribution by elimination - only seated member not anchored to another voice; speaks as a board member on 'the transmission rate that we decided to use' [128, 186])"},
+ "Speaker 13": {"name": "Unidentified", "role": "Unidentified - voice monitoring the remote participant ('Josh ... does have his hand up again' [157, 209, 237]) and confirming procedure [256, 298]; possibly staff"},
+ "Speaker 14": {"name": "Unidentified", "role": "Unidentified - public commenter opposing the motion; name and ward not captured by ASR [167-191]"},
+ "Speaker 15": {"name": "Whitney Skillen", "role": "Public commenter, Ward 2, public health professional (ASR 'Whitney Skilling')"},
+ "Speaker 16": {"name": "Michael", "role": "Public commenter, Ward 3 (ASR 'Michael Ward three'; surname not given)"},
+ "Speaker 17": {"name": "Bonnie Miles", "role": "Public commenter (chair thanks 'Bonnie' [268]; surname from the 2/9/2022 deliberative self-ID 'born and Miles ... Ward two', uncertain)"},
+ "__overrides__": {
+  "3": {"name": "Mary Woodman", "role": "School district clerk and board recording secretary (chair asks 'Mrs. Woodman, could you do a roll call attendance' [2]); segment may include a member's 'Here. Present.'"},
+  "5": {"name": "Mary Woodman"},
+  "9": {"name": "Mary Woodman"},
+  "10": {"name": "Mary Woodman", "role": "School district clerk and board recording secretary (reads roll 'Rob Lovett. Junior ... Michael Patrick ... Nicholas Stone ... Frank'); members' 'here' responses merged into this segment"},
+  "4": {"name": "Unidentified", "role": "Unidentified - roll-call response 'Here.' immediately after the call 'Steven.' (probably Steven Horsky)"}
+ }
+}

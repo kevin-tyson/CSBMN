@@ -1,0 +1,244 @@
+{
+ "Speaker 1": {
+  "name": "Unidentified",
+  "role": "Unidentified - mixed cluster: pre-meeting chatter, nominations, roll-call answers and short remarks from several board members; see overrides"
+ },
+ "Speaker 2": {
+  "name": "Michael Tempesta",
+  "role": "Superintendent, SAU 6 (calls the meeting to order [3] and runs the officer election [6-69]; delivers the superintendent's report on the Croydon budget [110-133]; 'my experience ... in the district where I was superintendent' [283])"
+ },
+ "Speaker 3": {
+  "name": "Whitney Skillen",
+  "role": "SAU 6 Board member (Claremont) (chair: 'So Whitney, can you restate the amended motion' [570] before [572]; 'mine really kind of piggybacks on Heather's' [365] after Horsky defers 'I believe Whitney' [362])"
+ },
+ "Speaker 4": {
+  "name": "Heather Whitney",
+  "role": "SAU 6 Board member (Claremont) (chair recognizes 'Heather and Steve' [296] before [297] and 'Heather' [348] before [349]; votes 'Heather I'm a yes' [496]; reports on the superintendent evaluation committee [150]; see overrides for the clerk's roll call merged into this cluster)"
+ },
+ "Speaker 5": {
+  "name": "Unidentified",
+  "role": "Unidentified - mixed cluster: roll-call answers, seconds and short remarks from several board members"
+ },
+ "Speaker 6": {
+  "name": "Unidentified",
+  "role": "Unidentified - single remark during the chair nomination [21]"
+ },
+ "Speaker 7": {
+  "name": "Richard Seaman",
+  "role": "Assistant Superintendent for Finance, SAU 6 (gives the financial update [155-226] and speaks to the merit pay document [250-278]; Frank Sprague: 'Richard' [593]; superintendent: 'Richard has those numbers' [116] before [124]; see overrides for Frank Sprague segments before [155])"
+ },
+ "Speaker 8": {
+  "name": "Steven Horsky",
+  "role": "SAU 6 Board member (Claremont) and SAU 6 treasurer ('this board graciously gave me the role of treasurer' [90]; answered 'Steve let you watch my money' [96]; chair recognizes 'Steve' [300], [355], [540], [564]; 'Thanks, Steve' [725])"
+ },
+ "Speaker 9": {
+  "name": "Frank Sprague",
+  "role": "SAU 6 Board Vice Chair (Claremont) (elected vice chair at this meeting [46-64] and presides in the absent chair's place: 'That means you're actually running the meeting' [68]; Seaman: 'if I could Frank, I will disagree' [324]; Whitney Skillen: 'like Frank said' [292])"
+ },
+ "Speaker 10": {
+  "name": "Rocco Ruggeri",
+  "role": "SAU 6 Board member (Unity) (medium - chair: 'Thanks, Rocco' [552] after this voice's procedural point [549]; answers 'No, no' after the roll-call name 'Rocco' [475-476]; see overrides for the data governance presenter merged into this cluster)"
+ },
+ "Speaker 11": {
+  "name": "Frank Sprague",
+  "role": "SAU 6 Board Vice Chair (Claremont) (elected vice chair at this meeting [46-64] and presides in the absent chair's place: 'That means you're actually running the meeting' [68]; Seaman: 'if I could Frank, I will disagree' [324]; Whitney Skillen: 'like Frank said' [292])"
+ },
+ "Speaker 12": {
+  "name": "Joshua Lambert",
+  "role": "SAU 6 Board member (Claremont) (chair recognizes 'Josh.' [338] before [339]; answers 'No' to 'Joshua' in the roll call [484-485]; 'Josh seconded it' [578])"
+ },
+ "Speaker 13": {
+  "name": "Mary Woodman",
+  "role": "School district clerk and SAU 6 recording secretary, taking roll-call votes (chair: 'Mary, Mrs. Whitman (Woodman), could you roll call' [467] and 'Roll call again. Mary.' [606] before this voice)"
+ },
+ "Speaker 14": {
+  "name": "Unidentified",
+  "role": "Unidentified - single fragment [573]"
+ },
+ "Speaker 15": {
+  "name": "Ben Nester",
+  "role": "Director of Special Education, SAU 6 (medium - explains the DHHS friend-of-the-court brief with 'Jerry Zealand, special ed attorney' [709], the item Nester presents on 5/4/22; superintendent: 'he can highlight that about special ed' [668])"
+ },
+ "__overrides__": {
+  "37": {
+   "name": "Frank Sprague",
+   "role": "SAU 6 Board Vice Chair (Claremont) (elected vice chair at this meeting [46-64] and presides in the absent chair's place: 'That means you're actually running the meeting' [68]; Seaman: 'if I could Frank, I will disagree' [324]; Whitney Skillen: 'like Frank said' [292])"
+  },
+  "43": {
+   "name": "Frank Sprague",
+   "role": "SAU 6 Board Vice Chair (Claremont) (elected vice chair at this meeting [46-64] and presides in the absent chair's place: 'That means you're actually running the meeting' [68]; Seaman: 'if I could Frank, I will disagree' [324]; Whitney Skillen: 'like Frank said' [292])"
+  },
+  "56": {
+   "name": "Frank Sprague",
+   "role": "SAU 6 Board Vice Chair (Claremont) (elected vice chair at this meeting [46-64] and presides in the absent chair's place: 'That means you're actually running the meeting' [68]; Seaman: 'if I could Frank, I will disagree' [324]; Whitney Skillen: 'like Frank said' [292])"
+  },
+  "58": {
+   "name": "Frank Sprague",
+   "role": "SAU 6 Board Vice Chair (Claremont) (elected vice chair at this meeting [46-64] and presides in the absent chair's place: 'That means you're actually running the meeting' [68]; Seaman: 'if I could Frank, I will disagree' [324]; Whitney Skillen: 'like Frank said' [292])"
+  },
+  "63": {
+   "name": "Frank Sprague",
+   "role": "SAU 6 Board Vice Chair (Claremont) (elected vice chair at this meeting [46-64] and presides in the absent chair's place: 'That means you're actually running the meeting' [68]; Seaman: 'if I could Frank, I will disagree' [324]; Whitney Skillen: 'like Frank said' [292])"
+  },
+  "70": {
+   "name": "Frank Sprague",
+   "role": "SAU 6 Board Vice Chair (Claremont) (elected vice chair at this meeting [46-64] and presides in the absent chair's place: 'That means you're actually running the meeting' [68]; Seaman: 'if I could Frank, I will disagree' [324]; Whitney Skillen: 'like Frank said' [292])"
+  },
+  "72": {
+   "name": "Frank Sprague",
+   "role": "SAU 6 Board Vice Chair (Claremont) (elected vice chair at this meeting [46-64] and presides in the absent chair's place: 'That means you're actually running the meeting' [68]; Seaman: 'if I could Frank, I will disagree' [324]; Whitney Skillen: 'like Frank said' [292])"
+  },
+  "73": {
+   "name": "Frank Sprague",
+   "role": "SAU 6 Board Vice Chair (Claremont) (elected vice chair at this meeting [46-64] and presides in the absent chair's place: 'That means you're actually running the meeting' [68]; Seaman: 'if I could Frank, I will disagree' [324]; Whitney Skillen: 'like Frank said' [292])"
+  },
+  "75": {
+   "name": "Frank Sprague",
+   "role": "SAU 6 Board Vice Chair (Claremont) (elected vice chair at this meeting [46-64] and presides in the absent chair's place: 'That means you're actually running the meeting' [68]; Seaman: 'if I could Frank, I will disagree' [324]; Whitney Skillen: 'like Frank said' [292])"
+  },
+  "89": {
+   "name": "Frank Sprague",
+   "role": "SAU 6 Board Vice Chair (Claremont) (elected vice chair at this meeting [46-64] and presides in the absent chair's place: 'That means you're actually running the meeting' [68]; Seaman: 'if I could Frank, I will disagree' [324]; Whitney Skillen: 'like Frank said' [292])"
+  },
+  "93": {
+   "name": "Frank Sprague",
+   "role": "SAU 6 Board Vice Chair (Claremont) (elected vice chair at this meeting [46-64] and presides in the absent chair's place: 'That means you're actually running the meeting' [68]; Seaman: 'if I could Frank, I will disagree' [324]; Whitney Skillen: 'like Frank said' [292])"
+  },
+  "95": {
+   "name": "Frank Sprague",
+   "role": "SAU 6 Board Vice Chair (Claremont) (elected vice chair at this meeting [46-64] and presides in the absent chair's place: 'That means you're actually running the meeting' [68]; Seaman: 'if I could Frank, I will disagree' [324]; Whitney Skillen: 'like Frank said' [292])"
+  },
+  "97": {
+   "name": "Frank Sprague",
+   "role": "SAU 6 Board Vice Chair (Claremont) (elected vice chair at this meeting [46-64] and presides in the absent chair's place: 'That means you're actually running the meeting' [68]; Seaman: 'if I could Frank, I will disagree' [324]; Whitney Skillen: 'like Frank said' [292])"
+  },
+  "99": {
+   "name": "Frank Sprague",
+   "role": "SAU 6 Board Vice Chair (Claremont) (elected vice chair at this meeting [46-64] and presides in the absent chair's place: 'That means you're actually running the meeting' [68]; Seaman: 'if I could Frank, I will disagree' [324]; Whitney Skillen: 'like Frank said' [292])"
+  },
+  "101": {
+   "name": "Frank Sprague",
+   "role": "SAU 6 Board Vice Chair (Claremont) (elected vice chair at this meeting [46-64] and presides in the absent chair's place: 'That means you're actually running the meeting' [68]; Seaman: 'if I could Frank, I will disagree' [324]; Whitney Skillen: 'like Frank said' [292])"
+  },
+  "103": {
+   "name": "Frank Sprague",
+   "role": "SAU 6 Board Vice Chair (Claremont) (elected vice chair at this meeting [46-64] and presides in the absent chair's place: 'That means you're actually running the meeting' [68]; Seaman: 'if I could Frank, I will disagree' [324]; Whitney Skillen: 'like Frank said' [292])"
+  },
+  "106": {
+   "name": "Frank Sprague",
+   "role": "SAU 6 Board Vice Chair (Claremont) (elected vice chair at this meeting [46-64] and presides in the absent chair's place: 'That means you're actually running the meeting' [68]; Seaman: 'if I could Frank, I will disagree' [324]; Whitney Skillen: 'like Frank said' [292])"
+  },
+  "109": {
+   "name": "Frank Sprague",
+   "role": "SAU 6 Board Vice Chair (Claremont) (elected vice chair at this meeting [46-64] and presides in the absent chair's place: 'That means you're actually running the meeting' [68]; Seaman: 'if I could Frank, I will disagree' [324]; Whitney Skillen: 'like Frank said' [292])"
+  },
+  "128": {
+   "name": "Frank Sprague",
+   "role": "SAU 6 Board Vice Chair (Claremont) (elected vice chair at this meeting [46-64] and presides in the absent chair's place: 'That means you're actually running the meeting' [68]; Seaman: 'if I could Frank, I will disagree' [324]; Whitney Skillen: 'like Frank said' [292])"
+  },
+  "134": {
+   "name": "Frank Sprague",
+   "role": "SAU 6 Board Vice Chair (Claremont) (elected vice chair at this meeting [46-64] and presides in the absent chair's place: 'That means you're actually running the meeting' [68]; Seaman: 'if I could Frank, I will disagree' [324]; Whitney Skillen: 'like Frank said' [292])"
+  },
+  "138": {
+   "name": "Frank Sprague",
+   "role": "SAU 6 Board Vice Chair (Claremont) (elected vice chair at this meeting [46-64] and presides in the absent chair's place: 'That means you're actually running the meeting' [68]; Seaman: 'if I could Frank, I will disagree' [324]; Whitney Skillen: 'like Frank said' [292])"
+  },
+  "140": {
+   "name": "Frank Sprague",
+   "role": "SAU 6 Board Vice Chair (Claremont) (elected vice chair at this meeting [46-64] and presides in the absent chair's place: 'That means you're actually running the meeting' [68]; Seaman: 'if I could Frank, I will disagree' [324]; Whitney Skillen: 'like Frank said' [292])"
+  },
+  "147": {
+   "name": "Frank Sprague",
+   "role": "SAU 6 Board Vice Chair (Claremont) (elected vice chair at this meeting [46-64] and presides in the absent chair's place: 'That means you're actually running the meeting' [68]; Seaman: 'if I could Frank, I will disagree' [324]; Whitney Skillen: 'like Frank said' [292])"
+  },
+  "149": {
+   "name": "Frank Sprague",
+   "role": "SAU 6 Board Vice Chair (Claremont) (elected vice chair at this meeting [46-64] and presides in the absent chair's place: 'That means you're actually running the meeting' [68]; Seaman: 'if I could Frank, I will disagree' [324]; Whitney Skillen: 'like Frank said' [292])"
+  },
+  "152": {
+   "name": "Frank Sprague",
+   "role": "SAU 6 Board Vice Chair (Claremont) (elected vice chair at this meeting [46-64] and presides in the absent chair's place: 'That means you're actually running the meeting' [68]; Seaman: 'if I could Frank, I will disagree' [324]; Whitney Skillen: 'like Frank said' [292])"
+  },
+  "154": {
+   "name": "Frank Sprague",
+   "role": "SAU 6 Board Vice Chair (Claremont) (elected vice chair at this meeting [46-64] and presides in the absent chair's place: 'That means you're actually running the meeting' [68]; Seaman: 'if I could Frank, I will disagree' [324]; Whitney Skillen: 'like Frank said' [292])"
+  },
+  "19": {
+   "name": "Michael Petrin",
+   "role": "SAU 6 Board member (Claremont) and Claremont School Board Chair (nominated for SAU chair [15-16], replies 'I have the Claremont chair at this point' [19])"
+  },
+  "20": {
+   "name": "Michael Petrin",
+   "role": "SAU 6 Board member (Claremont) and Claremont School Board Chair (nominated for SAU chair [15-16], replies 'I have the Claremont chair at this point' [19])"
+  },
+  "76": {
+   "name": "Mary Woodman",
+   "role": "School district clerk and SAU 6 recording secretary, taking the attendance roll call (chair: 'Mrs. Woodman, could you do roll call attendance' [73-75])"
+  },
+  "78": {
+   "name": "Mary Woodman",
+   "role": "School district clerk and SAU 6 recording secretary, taking the attendance roll call (chair: 'Mrs. Woodman, could you do roll call attendance' [73-75])"
+  },
+  "79": {
+   "name": "Mary Woodman",
+   "role": "School district clerk and SAU 6 recording secretary, taking the attendance roll call (chair: 'Mrs. Woodman, could you do roll call attendance' [73-75])"
+  },
+  "81": {
+   "name": "Mary Woodman",
+   "role": "School district clerk and SAU 6 recording secretary, taking the attendance roll call (chair: 'Mrs. Woodman, could you do roll call attendance' [73-75])"
+  },
+  "83": {
+   "name": "Mary Woodman",
+   "role": "School district clerk and SAU 6 recording secretary, taking the attendance roll call (chair: 'Mrs. Woodman, could you do roll call attendance' [73-75])"
+  },
+  "86": {
+   "name": "Mary Woodman",
+   "role": "School district clerk and SAU 6 recording secretary, taking the attendance roll call (chair: 'Mrs. Woodman, could you do roll call attendance' [73-75])"
+  },
+  "88": {
+   "name": "Mary Woodman",
+   "role": "School district clerk and SAU 6 recording secretary, taking the attendance roll call (chair: 'Mrs. Woodman, could you do roll call attendance' [73-75])"
+  },
+  "107": {
+   "name": "Mary Woodman",
+   "role": "School district clerk and SAU 6 recording secretary (medium - explains the missing minutes after the chair notes they were not in the packet [101-106]; chair: 'will you keep us posted' [109])"
+  },
+  "108": {
+   "name": "Mary Woodman",
+   "role": "School district clerk and SAU 6 recording secretary (medium - explains the missing minutes after the chair notes they were not in the packet [101-106]; chair: 'will you keep us posted' [109])"
+  },
+  "629": {
+   "name": "Unidentified",
+   "role": "Unidentified - roll-call answer 'Yes' after 'Bonnie. Miles.' [628], probably Bonnie Miles"
+  },
+  "514": {
+   "name": "Bonnie Miles",
+   "role": "SAU 6 Board member (Claremont) (medium - seconds the merit pay motion; chair: 'Bonnie seconded' [540])"
+  },
+  "229": {
+   "name": "Unidentified",
+   "role": "Unidentified - SAU 6 technology staff member presenting the data and privacy governance plan [229-246] (name not stated; possibly Director of Technology Jeff Small, uncertain)"
+  },
+  "230": {
+   "name": "Unidentified",
+   "role": "Unidentified - SAU 6 technology staff member presenting the data and privacy governance plan [229-246] (name not stated; possibly Director of Technology Jeff Small, uncertain)"
+  },
+  "232": {
+   "name": "Unidentified",
+   "role": "Unidentified - SAU 6 technology staff member presenting the data and privacy governance plan [229-246] (name not stated; possibly Director of Technology Jeff Small, uncertain)"
+  },
+  "234": {
+   "name": "Unidentified",
+   "role": "Unidentified - SAU 6 technology staff member presenting the data and privacy governance plan [229-246] (name not stated; possibly Director of Technology Jeff Small, uncertain)"
+  },
+  "243": {
+   "name": "Unidentified",
+   "role": "Unidentified - SAU 6 technology staff member presenting the data and privacy governance plan [229-246] (name not stated; possibly Director of Technology Jeff Small, uncertain)"
+  },
+  "246": {
+   "name": "Unidentified",
+   "role": "Unidentified - SAU 6 technology staff member presenting the data and privacy governance plan [229-246] (name not stated; possibly Director of Technology Jeff Small, uncertain)"
+  }
+ }
+}

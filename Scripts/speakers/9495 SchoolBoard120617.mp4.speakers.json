@@ -1,0 +1,804 @@
+{
+ "Speaker 1": {
+  "name": "Unidentified",
+  "role": "Unidentified - mixed cluster (pledge chorus, board motions and seconds, short interjections); business office segments overridden to Michael O'Neill"
+ },
+ "Speaker 2": {
+  "name": "Unidentified",
+  "role": "Unidentified - mixed cluster (pre-meeting chatter, staff remark on calendar, fragments); music director segments overridden"
+ },
+ "Speaker 3": {
+  "name": "Brian Rapp",
+  "role": "Claremont School Board Chair"
+ },
+ "Speaker 4": {
+  "name": "Lexi",
+  "role": "Student representative, Stevens High School (first name only on record)"
+ },
+ "Speaker 5": {
+  "name": "Frank Sprague",
+  "role": "Claremont School Board member"
+ },
+ "Speaker 6": {
+  "name": "Middleton McGoodwin",
+  "role": "Superintendent, SAU 6"
+ },
+ "Speaker 7": {
+  "name": "Unidentified",
+  "role": "Unidentified - mixed short responses during substitute discussion"
+ },
+ "Speaker 8": {
+  "name": "Unidentified",
+  "role": "Unidentified - mixed cluster of short thanks and audience or board interjections"
+ },
+ "Speaker 9": {
+  "name": "Michelle Pierce",
+  "role": "Claremont School Board member"
+ },
+ "Speaker 10": {
+  "name": "Nate",
+  "role": "Associate business administrator and HR director, SAU 6 (first name only on record; title as introduced by superintendent, ASR garbled)"
+ },
+ "Speaker 11": {
+  "name": "Rebecca Zullo",
+  "role": "Claremont School Board member"
+ },
+ "Speaker 12": {
+  "name": "Michael O'Neill",
+  "role": "Business Administrator, SAU 6 (addressed as 'Mike' on this recording; surname per roster)"
+ },
+ "Speaker 13": {
+  "name": "Alex Herzog",
+  "role": "Claremont School Board member (Speaker 27 attribution by elimination and split-sentence linkage)"
+ },
+ "Speaker 14": {
+  "name": "Amanda Plummer Harrell",
+  "role": "Public commenter, Bluff School parent (name as stated at mic)"
+ },
+ "Speaker 15": {
+  "name": "Sabrina Harrell",
+  "role": "Public commenter, Bluff School parent (name as introduced by Amanda Plummer Harrell)"
+ },
+ "Speaker 16": {
+  "name": "Tom Rock",
+  "role": "Public commenter, Ward 2"
+ },
+ "Speaker 17": {
+  "name": "Unidentified",
+  "role": "Unidentified - short thanks and fragments"
+ },
+ "Speaker 18": {
+  "name": "Unidentified",
+  "role": "Public commenter, Ward 3, vice president of the Claremont Development Authority (name not captured)"
+ },
+ "Speaker 19": {
+  "name": "Ron Perry",
+  "role": "Public commenter"
+ },
+ "Speaker 20": {
+  "name": "David Piketty",
+  "role": "Public commenter, Ward 2 (ASR 'David Piketty', 'Mr. Piketty'; spelling unverified)"
+ },
+ "Speaker 21": {
+  "name": "Ryan McNutt",
+  "role": "City Manager, City of Claremont"
+ },
+ "Speaker 22": {
+  "name": "Chris Irish",
+  "role": "Claremont School Board Vice Chair"
+ },
+ "Speaker 23": {
+  "name": "Cory LeClair",
+  "role": "Assistant Superintendent, SAU 6"
+ },
+ "Speaker 24": {
+  "name": "Josh Malloy",
+  "role": "Director of Instructional Technology, SAU 6 (title per roster)"
+ },
+ "Speaker 25": {
+  "name": "Michael Petrin",
+  "role": "Claremont School Board member"
+ },
+ "Speaker 26": {
+  "name": "Unidentified",
+  "role": "Unidentified - mixed cluster of short affirmations from staff and board"
+ },
+ "Speaker 27": {
+  "name": "Alex Herzog",
+  "role": "Claremont School Board member (Speaker 27 attribution by elimination and split-sentence linkage)"
+ },
+ "Speaker 28": {
+  "name": "Unidentified",
+  "role": "Unidentified - staff member, one remark on assessment coordinator vacancy"
+ },
+ "Speaker 29": {
+  "name": "Patricia Barry",
+  "role": "Principal, Stevens High School"
+ },
+ "Speaker 30": {
+  "name": "Unidentified",
+  "role": "Unidentified - staff interjections during CMS social worker and grants discussion"
+ },
+ "Speaker 31": {
+  "name": "Amy",
+  "role": "Adult education program lead, Claremont School District (first name only on record)"
+ },
+ "Speaker 32": {
+  "name": "Chris",
+  "role": "Special education director, SAU 6 (first name only on record; title inferred from content, uncertain)"
+ },
+ "Speaker 33": {
+  "name": "Unidentified",
+  "role": "School counselor, Stevens High School (name not stated)"
+ },
+ "Speaker 34": {
+  "name": "Unidentified",
+  "role": "Unidentified - mixed cluster of short staff and audience interjections"
+ },
+ "Speaker 35": {
+  "name": "Melissa Lewis",
+  "role": "Principal, Disnard Elementary School (ASR 'did not elementary')"
+ },
+ "Speaker 36": {
+  "name": "Unidentified",
+  "role": "Unidentified - staff speaker on CopSync and SRO relationship building"
+ },
+ "Speaker 37": {
+  "name": "Unidentified",
+  "role": "Unidentified - fragment"
+ },
+ "Speaker 38": {
+  "name": "Ben",
+  "role": "Assistant principal and special education coordinator, Stevens High School (self-described; surname not stated)"
+ },
+ "Speaker 39": {
+  "name": "Unidentified",
+  "role": "Unidentified - probably a board member (speaks of a 14-year-old son and 'our kids'); not named"
+ },
+ "Speaker 40": {
+  "name": "Unidentified",
+  "role": "Unidentified - fragment"
+ },
+ "__overrides__": {
+  "7": {
+   "name": "Unidentified",
+   "role": "Roll caller (not named on this recording; roster lists recording secretary Mary Woodman as usual roll caller)"
+  },
+  "9": {
+   "name": "Unidentified",
+   "role": "Roll caller (not named on this recording; roster lists recording secretary Mary Woodman as usual roll caller)"
+  },
+  "10": {
+   "name": "Unidentified",
+   "role": "Roll caller (not named on this recording; roster lists recording secretary Mary Woodman as usual roll caller)"
+  },
+  "14": {
+   "name": "Unidentified",
+   "role": "Unidentified - board member seconding agenda motion"
+  },
+  "102": {
+   "name": "Nate",
+   "role": "Associate business administrator and HR director, SAU 6 (first name only on record; title as introduced by superintendent, ASR garbled)"
+  },
+  "116": {
+   "name": "Nate",
+   "role": "Associate business administrator and HR director, SAU 6 (first name only on record; title as introduced by superintendent, ASR garbled)"
+  },
+  "126": {
+   "name": "Michael O'Neill",
+   "role": "Business Administrator, SAU 6 (addressed as 'Mike' on this recording; surname per roster)"
+  },
+  "128": {
+   "name": "Michael O'Neill",
+   "role": "Business Administrator, SAU 6 (addressed as 'Mike' on this recording; surname per roster)"
+  },
+  "130": {
+   "name": "Michael O'Neill",
+   "role": "Business Administrator, SAU 6 (addressed as 'Mike' on this recording; surname per roster)"
+  },
+  "167": {
+   "name": "Alex Herzog",
+   "role": "Claremont School Board member (Speaker 27 attribution by elimination and split-sentence linkage)"
+  },
+  "215": {
+   "name": "Unidentified",
+   "role": "Music director, Stevens High School (student rep refers to her as ASR 'Kay'; name not otherwise stated)"
+  },
+  "216": {
+   "name": "Unidentified",
+   "role": "Music director, Stevens High School (student rep refers to her as ASR 'Kay'; name not otherwise stated)"
+  },
+  "217": {
+   "name": "Unidentified",
+   "role": "Music director, Stevens High School (student rep refers to her as ASR 'Kay'; name not otherwise stated)"
+  },
+  "218": {
+   "name": "Unidentified",
+   "role": "Music director, Stevens High School (student rep refers to her as ASR 'Kay'; name not otherwise stated)"
+  },
+  "219": {
+   "name": "Unidentified",
+   "role": "Music director, Stevens High School (student rep refers to her as ASR 'Kay'; name not otherwise stated)"
+  },
+  "220": {
+   "name": "Unidentified",
+   "role": "Music director, Stevens High School (student rep refers to her as ASR 'Kay'; name not otherwise stated)"
+  },
+  "284": {
+   "name": "Steve",
+   "role": "Public commenter, Francis Street (first name as stated; later thanked as ASR 'Mr. Mirsky')"
+  },
+  "285": {
+   "name": "Steve",
+   "role": "Public commenter, Francis Street (first name as stated; later thanked as ASR 'Mr. Mirsky')"
+  },
+  "286": {
+   "name": "Steve",
+   "role": "Public commenter, Francis Street (first name as stated; later thanked as ASR 'Mr. Mirsky')"
+  },
+  "287": {
+   "name": "Steve",
+   "role": "Public commenter, Francis Street (first name as stated; later thanked as ASR 'Mr. Mirsky')"
+  },
+  "288": {
+   "name": "Steve",
+   "role": "Public commenter, Francis Street (first name as stated; later thanked as ASR 'Mr. Mirsky')"
+  },
+  "289": {
+   "name": "Steve",
+   "role": "Public commenter, Francis Street (first name as stated; later thanked as ASR 'Mr. Mirsky')"
+  },
+  "290": {
+   "name": "Steve",
+   "role": "Public commenter, Francis Street (first name as stated; later thanked as ASR 'Mr. Mirsky')"
+  },
+  "291": {
+   "name": "Steve",
+   "role": "Public commenter, Francis Street (first name as stated; later thanked as ASR 'Mr. Mirsky')"
+  },
+  "292": {
+   "name": "Steve",
+   "role": "Public commenter, Francis Street (first name as stated; later thanked as ASR 'Mr. Mirsky')"
+  },
+  "293": {
+   "name": "Steve",
+   "role": "Public commenter, Francis Street (first name as stated; later thanked as ASR 'Mr. Mirsky')"
+  },
+  "294": {
+   "name": "Steve",
+   "role": "Public commenter, Francis Street (first name as stated; later thanked as ASR 'Mr. Mirsky')"
+  },
+  "295": {
+   "name": "Steve",
+   "role": "Public commenter, Francis Street (first name as stated; later thanked as ASR 'Mr. Mirsky')"
+  },
+  "300": {
+   "name": "Unidentified",
+   "role": "Public commenter, Ward 3, vice president of the Claremont Development Authority (name not captured)"
+  },
+  "302": {
+   "name": "Unidentified",
+   "role": "Public commenter, Ward 3, vice president of the Claremont Development Authority (name not captured)"
+  },
+  "312": {
+   "name": "Larissa Cahill",
+   "role": "Public commenter, Ward 2, Stevens High School staff and parent (ASR 'Larissa Cahill'; spelling unverified)"
+  },
+  "313": {
+   "name": "Larissa Cahill",
+   "role": "Public commenter, Ward 2, Stevens High School staff and parent (ASR 'Larissa Cahill'; spelling unverified)"
+  },
+  "314": {
+   "name": "Larissa Cahill",
+   "role": "Public commenter, Ward 2, Stevens High School staff and parent (ASR 'Larissa Cahill'; spelling unverified)"
+  },
+  "315": {
+   "name": "Larissa Cahill",
+   "role": "Public commenter, Ward 2, Stevens High School staff and parent (ASR 'Larissa Cahill'; spelling unverified)"
+  },
+  "316": {
+   "name": "Larissa Cahill",
+   "role": "Public commenter, Ward 2, Stevens High School staff and parent (ASR 'Larissa Cahill'; spelling unverified)"
+  },
+  "317": {
+   "name": "Larissa Cahill",
+   "role": "Public commenter, Ward 2, Stevens High School staff and parent (ASR 'Larissa Cahill'; spelling unverified)"
+  },
+  "318": {
+   "name": "Larissa Cahill",
+   "role": "Public commenter, Ward 2, Stevens High School staff and parent (ASR 'Larissa Cahill'; spelling unverified)"
+  },
+  "319": {
+   "name": "Larissa Cahill",
+   "role": "Public commenter, Ward 2, Stevens High School staff and parent (ASR 'Larissa Cahill'; spelling unverified)"
+  },
+  "320": {
+   "name": "Larissa Cahill",
+   "role": "Public commenter, Ward 2, Stevens High School staff and parent (ASR 'Larissa Cahill'; spelling unverified)"
+  },
+  "321": {
+   "name": "Larissa Cahill",
+   "role": "Public commenter, Ward 2, Stevens High School staff and parent (ASR 'Larissa Cahill'; spelling unverified)"
+  },
+  "322": {
+   "name": "Larissa Cahill",
+   "role": "Public commenter, Ward 2, Stevens High School staff and parent (ASR 'Larissa Cahill'; spelling unverified)"
+  },
+  "323": {
+   "name": "Larissa Cahill",
+   "role": "Public commenter, Ward 2, Stevens High School staff and parent (ASR 'Larissa Cahill'; spelling unverified)"
+  },
+  "405": {
+   "name": "Unidentified",
+   "role": "Unidentified - fragment split across speakers"
+  },
+  "408": {
+   "name": "Unidentified",
+   "role": "Unidentified - fragment"
+  },
+  "438": {
+   "name": "Chris Irish",
+   "role": "Claremont School Board Vice Chair"
+  },
+  "494": {
+   "name": "Cory LeClair",
+   "role": "Assistant Superintendent, SAU 6"
+  },
+  "496": {
+   "name": "Cory LeClair",
+   "role": "Assistant Superintendent, SAU 6"
+  },
+  "552": {
+   "name": "Michael O'Neill",
+   "role": "Business Administrator, SAU 6 (addressed as 'Mike' on this recording; surname per roster)"
+  },
+  "554": {
+   "name": "Michael O'Neill",
+   "role": "Business Administrator, SAU 6 (addressed as 'Mike' on this recording; surname per roster)"
+  },
+  "555": {
+   "name": "Michael O'Neill",
+   "role": "Business Administrator, SAU 6 (addressed as 'Mike' on this recording; surname per roster)"
+  },
+  "560": {
+   "name": "Michael O'Neill",
+   "role": "Business Administrator, SAU 6 (addressed as 'Mike' on this recording; surname per roster)"
+  },
+  "561": {
+   "name": "Michael O'Neill",
+   "role": "Business Administrator, SAU 6 (addressed as 'Mike' on this recording; surname per roster)"
+  },
+  "562": {
+   "name": "Michael O'Neill",
+   "role": "Business Administrator, SAU 6 (addressed as 'Mike' on this recording; surname per roster)"
+  },
+  "631": {
+   "name": "Michael O'Neill",
+   "role": "Business Administrator, SAU 6 (addressed as 'Mike' on this recording; surname per roster)"
+  },
+  "633": {
+   "name": "Cory LeClair",
+   "role": "Assistant Superintendent, SAU 6"
+  },
+  "634": {
+   "name": "Michael O'Neill",
+   "role": "Business Administrator, SAU 6 (addressed as 'Mike' on this recording; surname per roster)"
+  },
+  "635": {
+   "name": "Cory LeClair",
+   "role": "Assistant Superintendent, SAU 6"
+  },
+  "642": {
+   "name": "Cory LeClair",
+   "role": "Assistant Superintendent, SAU 6"
+  },
+  "663": {
+   "name": "Michael O'Neill",
+   "role": "Business Administrator, SAU 6 (addressed as 'Mike' on this recording; surname per roster)"
+  },
+  "664": {
+   "name": "Michael O'Neill",
+   "role": "Business Administrator, SAU 6 (addressed as 'Mike' on this recording; surname per roster)"
+  },
+  "665": {
+   "name": "Michael O'Neill",
+   "role": "Business Administrator, SAU 6 (addressed as 'Mike' on this recording; surname per roster)"
+  },
+  "667": {
+   "name": "Michael O'Neill",
+   "role": "Business Administrator, SAU 6 (addressed as 'Mike' on this recording; surname per roster)"
+  },
+  "669": {
+   "name": "Michael O'Neill",
+   "role": "Business Administrator, SAU 6 (addressed as 'Mike' on this recording; surname per roster)"
+  },
+  "671": {
+   "name": "Michael O'Neill",
+   "role": "Business Administrator, SAU 6 (addressed as 'Mike' on this recording; surname per roster)"
+  },
+  "673": {
+   "name": "Michael O'Neill",
+   "role": "Business Administrator, SAU 6 (addressed as 'Mike' on this recording; surname per roster)"
+  },
+  "675": {
+   "name": "Michael O'Neill",
+   "role": "Business Administrator, SAU 6 (addressed as 'Mike' on this recording; surname per roster)"
+  },
+  "677": {
+   "name": "Michael O'Neill",
+   "role": "Business Administrator, SAU 6 (addressed as 'Mike' on this recording; surname per roster)"
+  },
+  "678": {
+   "name": "Michael O'Neill",
+   "role": "Business Administrator, SAU 6 (addressed as 'Mike' on this recording; surname per roster)"
+  },
+  "679": {
+   "name": "Michael O'Neill",
+   "role": "Business Administrator, SAU 6 (addressed as 'Mike' on this recording; surname per roster)"
+  },
+  "680": {
+   "name": "Michael O'Neill",
+   "role": "Business Administrator, SAU 6 (addressed as 'Mike' on this recording; surname per roster)"
+  },
+  "681": {
+   "name": "Michael O'Neill",
+   "role": "Business Administrator, SAU 6 (addressed as 'Mike' on this recording; surname per roster)"
+  },
+  "683": {
+   "name": "Michael O'Neill",
+   "role": "Business Administrator, SAU 6 (addressed as 'Mike' on this recording; surname per roster)"
+  },
+  "684": {
+   "name": "Michael O'Neill",
+   "role": "Business Administrator, SAU 6 (addressed as 'Mike' on this recording; surname per roster)"
+  },
+  "685": {
+   "name": "Michael O'Neill",
+   "role": "Business Administrator, SAU 6 (addressed as 'Mike' on this recording; surname per roster)"
+  },
+  "686": {
+   "name": "Michael O'Neill",
+   "role": "Business Administrator, SAU 6 (addressed as 'Mike' on this recording; surname per roster)"
+  },
+  "688": {
+   "name": "Michael O'Neill",
+   "role": "Business Administrator, SAU 6 (addressed as 'Mike' on this recording; surname per roster)"
+  },
+  "689": {
+   "name": "Michael O'Neill",
+   "role": "Business Administrator, SAU 6 (addressed as 'Mike' on this recording; surname per roster)"
+  },
+  "720": {
+   "name": "Unidentified",
+   "role": "Unidentified - short thanks"
+  },
+  "723": {
+   "name": "Paulette Fitzgerald",
+   "role": "Claremont Middle School administrator (called up by superintendent to speak on the CMS social worker; title not stated)"
+  },
+  "724": {
+   "name": "Paulette Fitzgerald",
+   "role": "Claremont Middle School administrator (called up by superintendent to speak on the CMS social worker; title not stated)"
+  },
+  "725": {
+   "name": "Paulette Fitzgerald",
+   "role": "Claremont Middle School administrator (called up by superintendent to speak on the CMS social worker; title not stated)"
+  },
+  "730": {
+   "name": "Paulette Fitzgerald",
+   "role": "Claremont Middle School administrator (called up by superintendent to speak on the CMS social worker; title not stated)"
+  },
+  "733": {
+   "name": "Paulette Fitzgerald",
+   "role": "Claremont Middle School administrator (called up by superintendent to speak on the CMS social worker; title not stated)"
+  },
+  "735": {
+   "name": "Paulette Fitzgerald",
+   "role": "Claremont Middle School administrator (called up by superintendent to speak on the CMS social worker; title not stated)"
+  },
+  "736": {
+   "name": "Paulette Fitzgerald",
+   "role": "Claremont Middle School administrator (called up by superintendent to speak on the CMS social worker; title not stated)"
+  },
+  "738": {
+   "name": "Paulette Fitzgerald",
+   "role": "Claremont Middle School administrator (called up by superintendent to speak on the CMS social worker; title not stated)"
+  },
+  "742": {
+   "name": "Paulette Fitzgerald",
+   "role": "Claremont Middle School administrator (called up by superintendent to speak on the CMS social worker; title not stated)"
+  },
+  "746": {
+   "name": "Paulette Fitzgerald",
+   "role": "Claremont Middle School administrator (called up by superintendent to speak on the CMS social worker; title not stated)"
+  },
+  "783": {
+   "name": "Paulette Fitzgerald",
+   "role": "Claremont Middle School administrator (called up by superintendent to speak on the CMS social worker; title not stated)"
+  },
+  "787": {
+   "name": "Paulette Fitzgerald",
+   "role": "Claremont Middle School administrator (called up by superintendent to speak on the CMS social worker; title not stated)"
+  },
+  "791": {
+   "name": "Paulette Fitzgerald",
+   "role": "Claremont Middle School administrator (called up by superintendent to speak on the CMS social worker; title not stated)"
+  },
+  "792": {
+   "name": "Paulette Fitzgerald",
+   "role": "Claremont Middle School administrator (called up by superintendent to speak on the CMS social worker; title not stated)"
+  },
+  "796": {
+   "name": "Paulette Fitzgerald",
+   "role": "Claremont Middle School administrator (called up by superintendent to speak on the CMS social worker; title not stated)"
+  },
+  "885": {
+   "name": "Unidentified",
+   "role": "School counselor, Stevens High School (name not stated)"
+  },
+  "918": {
+   "name": "Unidentified",
+   "role": "Unidentified - fragment"
+  },
+  "924": {
+   "name": "Unidentified",
+   "role": "Unidentified - fragment"
+  },
+  "972": {
+   "name": "Amy",
+   "role": "Adult education program lead, Claremont School District (first name only on record)"
+  },
+  "983": {
+   "name": "Michael O'Neill",
+   "role": "Business Administrator, SAU 6 (addressed as 'Mike' on this recording; surname per roster)"
+  },
+  "989": {
+   "name": "Michael O'Neill",
+   "role": "Business Administrator, SAU 6 (addressed as 'Mike' on this recording; surname per roster)"
+  },
+  "990": {
+   "name": "Michael O'Neill",
+   "role": "Business Administrator, SAU 6 (addressed as 'Mike' on this recording; surname per roster)"
+  },
+  "1004": {
+   "name": "Amy",
+   "role": "Adult education program lead, Claremont School District (first name only on record)"
+  },
+  "1023": {
+   "name": "Unidentified",
+   "role": "Unidentified - staff answer"
+  },
+  "1030": {
+   "name": "Michael O'Neill",
+   "role": "Business Administrator, SAU 6 (addressed as 'Mike' on this recording; surname per roster)"
+  },
+  "1049": {
+   "name": "Unidentified",
+   "role": "Unidentified - staff member addressed as 'Kathleen' by Cory LeClair"
+  },
+  "1053": {
+   "name": "Cory LeClair",
+   "role": "Assistant Superintendent, SAU 6"
+  },
+  "1063": {
+   "name": "Cory LeClair",
+   "role": "Assistant Superintendent, SAU 6"
+  },
+  "1115": {
+   "name": "Patricia Barry",
+   "role": "Principal, Stevens High School"
+  },
+  "1217": {
+   "name": "Michael O'Neill",
+   "role": "Business Administrator, SAU 6 (addressed as 'Mike' on this recording; surname per roster)"
+  },
+  "1221": {
+   "name": "Michael O'Neill",
+   "role": "Business Administrator, SAU 6 (addressed as 'Mike' on this recording; surname per roster)"
+  },
+  "1222": {
+   "name": "Michael O'Neill",
+   "role": "Business Administrator, SAU 6 (addressed as 'Mike' on this recording; surname per roster)"
+  },
+  "1223": {
+   "name": "Michael O'Neill",
+   "role": "Business Administrator, SAU 6 (addressed as 'Mike' on this recording; surname per roster)"
+  },
+  "1265": {
+   "name": "Cory LeClair",
+   "role": "Assistant Superintendent, SAU 6"
+  },
+  "1268": {
+   "name": "Chris",
+   "role": "Special education director, SAU 6 (first name only on record; title inferred from content, uncertain)"
+  },
+  "1274": {
+   "name": "Michael O'Neill",
+   "role": "Business Administrator, SAU 6 (addressed as 'Mike' on this recording; surname per roster)"
+  },
+  "1276": {
+   "name": "Michael O'Neill",
+   "role": "Business Administrator, SAU 6 (addressed as 'Mike' on this recording; surname per roster)"
+  },
+  "1338": {
+   "name": "Ben",
+   "role": "Assistant principal and special education coordinator, Stevens High School (self-described; surname not stated)"
+  },
+  "1340": {
+   "name": "Ben",
+   "role": "Assistant principal and special education coordinator, Stevens High School (self-described; surname not stated)"
+  },
+  "1342": {
+   "name": "Ben",
+   "role": "Assistant principal and special education coordinator, Stevens High School (self-described; surname not stated)"
+  },
+  "1343": {
+   "name": "Ben",
+   "role": "Assistant principal and special education coordinator, Stevens High School (self-described; surname not stated)"
+  },
+  "1344": {
+   "name": "Ben",
+   "role": "Assistant principal and special education coordinator, Stevens High School (self-described; surname not stated)"
+  },
+  "1401": {
+   "name": "Unidentified",
+   "role": "Unidentified - staff remark"
+  },
+  "1484": {
+   "name": "Charlie Gessner",
+   "role": "Stevens High School staff, world language (ASR 'Charlie Jester', 'Charlie Gesner', 'Mr. Gessner'; spelling uncertain)"
+  },
+  "1485": {
+   "name": "Charlie Gessner",
+   "role": "Stevens High School staff, world language (ASR 'Charlie Jester', 'Charlie Gesner', 'Mr. Gessner'; spelling uncertain)"
+  },
+  "1486": {
+   "name": "Charlie Gessner",
+   "role": "Stevens High School staff, world language (ASR 'Charlie Jester', 'Charlie Gesner', 'Mr. Gessner'; spelling uncertain)"
+  },
+  "1487": {
+   "name": "Charlie Gessner",
+   "role": "Stevens High School staff, world language (ASR 'Charlie Jester', 'Charlie Gesner', 'Mr. Gessner'; spelling uncertain)"
+  },
+  "1488": {
+   "name": "Charlie Gessner",
+   "role": "Stevens High School staff, world language (ASR 'Charlie Jester', 'Charlie Gesner', 'Mr. Gessner'; spelling uncertain)"
+  },
+  "1489": {
+   "name": "Charlie Gessner",
+   "role": "Stevens High School staff, world language (ASR 'Charlie Jester', 'Charlie Gesner', 'Mr. Gessner'; spelling uncertain)"
+  },
+  "1491": {
+   "name": "Charlie Gessner",
+   "role": "Stevens High School staff, world language (ASR 'Charlie Jester', 'Charlie Gesner', 'Mr. Gessner'; spelling uncertain)"
+  },
+  "1492": {
+   "name": "Charlie Gessner",
+   "role": "Stevens High School staff, world language (ASR 'Charlie Jester', 'Charlie Gesner', 'Mr. Gessner'; spelling uncertain)"
+  },
+  "1493": {
+   "name": "Charlie Gessner",
+   "role": "Stevens High School staff, world language (ASR 'Charlie Jester', 'Charlie Gesner', 'Mr. Gessner'; spelling uncertain)"
+  },
+  "1494": {
+   "name": "Charlie Gessner",
+   "role": "Stevens High School staff, world language (ASR 'Charlie Jester', 'Charlie Gesner', 'Mr. Gessner'; spelling uncertain)"
+  },
+  "1495": {
+   "name": "Charlie Gessner",
+   "role": "Stevens High School staff, world language (ASR 'Charlie Jester', 'Charlie Gesner', 'Mr. Gessner'; spelling uncertain)"
+  },
+  "1496": {
+   "name": "Charlie Gessner",
+   "role": "Stevens High School staff, world language (ASR 'Charlie Jester', 'Charlie Gesner', 'Mr. Gessner'; spelling uncertain)"
+  },
+  "1497": {
+   "name": "Charlie Gessner",
+   "role": "Stevens High School staff, world language (ASR 'Charlie Jester', 'Charlie Gesner', 'Mr. Gessner'; spelling uncertain)"
+  },
+  "1518": {
+   "name": "Cory LeClair",
+   "role": "Assistant Superintendent, SAU 6"
+  },
+  "1536": {
+   "name": "Cory LeClair",
+   "role": "Assistant Superintendent, SAU 6"
+  },
+  "1539": {
+   "name": "Cory LeClair",
+   "role": "Assistant Superintendent, SAU 6"
+  },
+  "1541": {
+   "name": "Cory LeClair",
+   "role": "Assistant Superintendent, SAU 6"
+  },
+  "1544": {
+   "name": "Cory LeClair",
+   "role": "Assistant Superintendent, SAU 6"
+  },
+  "1561": {
+   "name": "Patricia Barry",
+   "role": "Principal, Stevens High School"
+  },
+  "1578": {
+   "name": "Unidentified",
+   "role": "Unidentified - fragment"
+  },
+  "1590": {
+   "name": "Michael O'Neill",
+   "role": "Business Administrator, SAU 6 (addressed as 'Mike' on this recording; surname per roster)"
+  },
+  "1594": {
+   "name": "Michael O'Neill",
+   "role": "Business Administrator, SAU 6 (addressed as 'Mike' on this recording; surname per roster)"
+  },
+  "1598": {
+   "name": "Michael O'Neill",
+   "role": "Business Administrator, SAU 6 (addressed as 'Mike' on this recording; surname per roster)"
+  },
+  "1601": {
+   "name": "Michael O'Neill",
+   "role": "Business Administrator, SAU 6 (addressed as 'Mike' on this recording; surname per roster)"
+  },
+  "1605": {
+   "name": "Michael O'Neill",
+   "role": "Business Administrator, SAU 6 (addressed as 'Mike' on this recording; surname per roster)"
+  },
+  "1607": {
+   "name": "Michael O'Neill",
+   "role": "Business Administrator, SAU 6 (addressed as 'Mike' on this recording; surname per roster)"
+  },
+  "1609": {
+   "name": "Michael O'Neill",
+   "role": "Business Administrator, SAU 6 (addressed as 'Mike' on this recording; surname per roster)"
+  },
+  "1610": {
+   "name": "Cory LeClair",
+   "role": "Assistant Superintendent, SAU 6"
+  },
+  "1612": {
+   "name": "Cory LeClair",
+   "role": "Assistant Superintendent, SAU 6"
+  },
+  "1620": {
+   "name": "Michael O'Neill",
+   "role": "Business Administrator, SAU 6 (addressed as 'Mike' on this recording; surname per roster)"
+  },
+  "1623": {
+   "name": "Michael O'Neill",
+   "role": "Business Administrator, SAU 6 (addressed as 'Mike' on this recording; surname per roster)"
+  },
+  "1624": {
+   "name": "Michael O'Neill",
+   "role": "Business Administrator, SAU 6 (addressed as 'Mike' on this recording; surname per roster)"
+  },
+  "1625": {
+   "name": "Michael O'Neill",
+   "role": "Business Administrator, SAU 6 (addressed as 'Mike' on this recording; surname per roster)"
+  },
+  "1626": {
+   "name": "Michael O'Neill",
+   "role": "Business Administrator, SAU 6 (addressed as 'Mike' on this recording; surname per roster)"
+  },
+  "1627": {
+   "name": "Michael O'Neill",
+   "role": "Business Administrator, SAU 6 (addressed as 'Mike' on this recording; surname per roster)"
+  },
+  "1628": {
+   "name": "Michael O'Neill",
+   "role": "Business Administrator, SAU 6 (addressed as 'Mike' on this recording; surname per roster)"
+  },
+  "1632": {
+   "name": "Cory LeClair",
+   "role": "Assistant Superintendent, SAU 6"
+  },
+  "1634": {
+   "name": "Cory LeClair",
+   "role": "Assistant Superintendent, SAU 6"
+  },
+  "1636": {
+   "name": "Cory LeClair",
+   "role": "Assistant Superintendent, SAU 6"
+  }
+ }
+}

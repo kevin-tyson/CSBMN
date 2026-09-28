@@ -1,0 +1,184 @@
+{
+ "Speaker 1": {
+  "name": "Unidentified",
+  "role": "Unidentified - three short fragments (roll-call answer)"
+ },
+ "Speaker 2": {
+  "name": "Frank Sprague",
+  "role": "Claremont School Board Chair"
+ },
+ "Speaker 3": {
+  "name": "Jason Benware",
+  "role": "Claremont School Board member"
+ },
+ "Speaker 4": {
+  "name": "Carolyn Towle",
+  "role": "Claremont School Board member"
+ },
+ "Speaker 5": {
+  "name": "Jesse",
+  "role": "Student representative to the board, Stevens High School senior (first name from the record; surname not stated, ASR at 3/20/2019 minutes correction suggests 'Merrill', unverified)"
+ },
+ "Speaker 6": {
+  "name": "Cory LeClair",
+  "role": "Acting Superintendent, SAU 6 (Assistant Superintendent)"
+ },
+ "Speaker 7": {
+  "name": "Rebecca Zullo",
+  "role": "Claremont School Board Vice Chair; superintendent search committee member"
+ },
+ "Speaker 8": {
+  "name": "Michelle Pierce",
+  "role": "Claremont School Board member (final regular meeting before March 2019 election)"
+ },
+ "Speaker 9": {
+  "name": "Alex Herzog",
+  "role": "Director, Sugar River Valley Regional Technical Center (former Claremont board member)"
+ },
+ "Speaker 10": {
+  "name": "Frank Sprague",
+  "role": "Claremont School Board Chair"
+ },
+ "Speaker 11": {
+  "name": "Diane Edwards",
+  "role": "Director, early childhood (preschool) program, Claremont School District (introduced as Doctor Diane Edwards)"
+ },
+ "Speaker 12": {
+  "name": "Michael O'Neill",
+  "role": "Business Administrator, SAU 6 (uncertain - not named on this recording; business-office content and continuity with the 3/20/2019 recording)"
+ },
+ "Speaker 13": {
+  "name": "Rebecca Zullo",
+  "role": "Claremont School Board Vice Chair; superintendent search committee member"
+ },
+ "Speaker 14": {
+  "name": "Michael Petrin",
+  "role": "Claremont School Board member; SAU 6 Vice Chair"
+ },
+ "Speaker 15": {
+  "name": "Unidentified",
+  "role": "Unidentified - short interjections mixing the chair and board members; identifiable segments reassigned in overrides"
+ },
+ "Speaker 16": {
+  "name": "Rob Lovett Jr.",
+  "role": "Claremont School Board member"
+ },
+ "__overrides__": {
+  "193": {
+   "name": "Michael Petrin",
+   "role": "Claremont School Board member; SAU 6 Vice Chair"
+  },
+  "195": {
+   "name": "Michael Petrin",
+   "role": "Claremont School Board member; SAU 6 Vice Chair"
+  },
+  "196": {
+   "name": "Michael Petrin",
+   "role": "Claremont School Board member; SAU 6 Vice Chair"
+  },
+  "198": {
+   "name": "Michael Petrin",
+   "role": "Claremont School Board member; SAU 6 Vice Chair"
+  },
+  "166": {
+   "name": "Rob Lovett Jr.",
+   "role": "Claremont School Board member"
+  },
+  "167": {
+   "name": "Rob Lovett Jr.",
+   "role": "Claremont School Board member"
+  },
+  "168": {
+   "name": "Rob Lovett Jr.",
+   "role": "Claremont School Board member"
+  },
+  "169": {
+   "name": "Rob Lovett Jr.",
+   "role": "Claremont School Board member"
+  },
+  "171": {
+   "name": "Rob Lovett Jr.",
+   "role": "Claremont School Board member"
+  },
+  "577": {
+   "name": "Rob Lovett Jr.",
+   "role": "Claremont School Board member"
+  },
+  "585": {
+   "name": "Rob Lovett Jr.",
+   "role": "Claremont School Board member"
+  },
+  "558": {
+   "name": "Frank Sprague",
+   "role": "Claremont School Board Chair"
+  },
+  "618": {
+   "name": "Frank Sprague",
+   "role": "Claremont School Board Chair"
+  },
+  "76": {
+   "name": "Rebecca Zullo",
+   "role": "Claremont School Board Vice Chair; superintendent search committee member"
+  },
+  "77": {
+   "name": "Rebecca Zullo",
+   "role": "Claremont School Board Vice Chair; superintendent search committee member"
+  },
+  "78": {
+   "name": "Rebecca Zullo",
+   "role": "Claremont School Board Vice Chair; superintendent search committee member"
+  },
+  "79": {
+   "name": "Rebecca Zullo",
+   "role": "Claremont School Board Vice Chair; superintendent search committee member"
+  },
+  "80": {
+   "name": "Rebecca Zullo",
+   "role": "Claremont School Board Vice Chair; superintendent search committee member"
+  },
+  "82": {
+   "name": "Rebecca Zullo",
+   "role": "Claremont School Board Vice Chair; superintendent search committee member"
+  },
+  "84": {
+   "name": "Rebecca Zullo",
+   "role": "Claremont School Board Vice Chair; superintendent search committee member"
+  },
+  "291": {
+   "name": "Diane Edwards",
+   "role": "Director, early childhood (preschool) program, Claremont School District (introduced as Doctor Diane Edwards)"
+  },
+  "295": {
+   "name": "Diane Edwards",
+   "role": "Director, early childhood (preschool) program, Claremont School District (introduced as Doctor Diane Edwards)"
+  },
+  "297": {
+   "name": "Diane Edwards",
+   "role": "Director, early childhood (preschool) program, Claremont School District (introduced as Doctor Diane Edwards)"
+  },
+  "299": {
+   "name": "Diane Edwards",
+   "role": "Director, early childhood (preschool) program, Claremont School District (introduced as Doctor Diane Edwards)"
+  },
+  "288": {
+   "name": "Rebecca Zullo",
+   "role": "Claremont School Board Vice Chair; superintendent search committee member"
+  },
+  "301": {
+   "name": "Rebecca Zullo",
+   "role": "Claremont School Board Vice Chair; superintendent search committee member"
+  },
+  "303": {
+   "name": "Rebecca Zullo",
+   "role": "Claremont School Board Vice Chair; superintendent search committee member"
+  },
+  "625": {
+   "name": "Rebecca Zullo",
+   "role": "Claremont School Board Vice Chair; superintendent search committee member"
+  },
+  "361": {
+   "name": "Cory LeClair",
+   "role": "Acting Superintendent, SAU 6 (Assistant Superintendent)"
+  }
+ }
+}

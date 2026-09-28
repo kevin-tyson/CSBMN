@@ -1,0 +1,750 @@
+{
+ "Speaker 1": {
+  "name": "Michael Tempesta",
+  "role": "Superintendent, SAU 6"
+ },
+ "Speaker 2": {
+  "name": "Mary Woodman",
+  "role": "School district clerk and board recording secretary (takes roll, administers oath)"
+ },
+ "Speaker 3": {
+  "name": "Heather Whitney",
+  "role": "Claremont School Board member (vice chair by 7/1/2021 per 11720 [048])"
+ },
+ "Speaker 4": {
+  "name": "Joshua Lambert",
+  "role": "Claremont School Board member"
+ },
+ "Speaker 5": {
+  "name": "Nicholas Stone",
+  "role": "Applicant for the Claremont School Board vacancy (Ward 3); appointed and sworn in this meeting"
+ },
+ "Speaker 6": {
+  "name": "Sean",
+  "role": "Stevens High School bowling coach (first name only on the record)"
+ },
+ "Speaker 7": {
+  "name": "Unidentified",
+  "role": "Unidentified board member - questions on Goshen tuition and ESSER reimbursement (not named on the record)"
+ },
+ "Speaker 8": {
+  "name": "Prescott Herzog",
+  "role": "Student representative to the board, Stevens High School senior (surname from roster, RC 2019-05-15; only 'Prescott' said on this recording)"
+ },
+ "Speaker 9": {
+  "name": "Richard Seaman",
+  "role": "Assistant Superintendent for Finance, SAU 6"
+ },
+ "Speaker 10": {
+  "name": "Michael Tempesta",
+  "role": "Superintendent, SAU 6"
+ },
+ "Speaker 11": {
+  "name": "Steven Horsky",
+  "role": "Claremont School Board member"
+ },
+ "Speaker 12": {
+  "name": "Frank Sprague",
+  "role": "Claremont School Board Chair"
+ },
+ "Speaker 13": {
+  "name": "Rob Lovett Jr.",
+  "role": "Claremont School Board member"
+ },
+ "Speaker 14": {
+  "name": "Unidentified",
+  "role": "Unidentified - short interjections"
+ },
+ "Speaker 15": {
+  "name": "Unidentified",
+  "role": "Unidentified - cluster of short remarks from several voices (board members and staff); Donna Magoon segments reassigned"
+ },
+ "Speaker 16": {
+  "name": "Heather Whitney",
+  "role": "Claremont School Board member (vice chair by 7/1/2021 per 11720 [048])"
+ },
+ "Speaker 17": {
+  "name": "Unidentified",
+  "role": "Unidentified board member - out-of-district athletes, remote learning and superintendent's brunch remarks (not named; possibly Michael Petrin)"
+ },
+ "Speaker 18": {
+  "name": "Unidentified",
+  "role": "Unidentified board member (moves to adjourn)"
+ },
+ "__overrides__": {
+  "0": {
+   "name": "Frank Sprague"
+  },
+  "1": {
+   "name": "Frank Sprague"
+  },
+  "2": {
+   "name": "Frank Sprague"
+  },
+  "3": {
+   "name": "Frank Sprague"
+  },
+  "4": {
+   "name": "Frank Sprague"
+  },
+  "7": {
+   "name": "Frank Sprague"
+  },
+  "8": {
+   "name": "Frank Sprague"
+  },
+  "10": {
+   "name": "Frank Sprague"
+  },
+  "12": {
+   "name": "Frank Sprague"
+  },
+  "14": {
+   "name": "Frank Sprague"
+  },
+  "15": {
+   "name": "Frank Sprague"
+  },
+  "18": {
+   "name": "Frank Sprague"
+  },
+  "19": {
+   "name": "Frank Sprague"
+  },
+  "20": {
+   "name": "Frank Sprague"
+  },
+  "21": {
+   "name": "Frank Sprague"
+  },
+  "28": {
+   "name": "Frank Sprague"
+  },
+  "30": {
+   "name": "Frank Sprague"
+  },
+  "34": {
+   "name": "Frank Sprague"
+  },
+  "39": {
+   "name": "Frank Sprague"
+  },
+  "43": {
+   "name": "Frank Sprague"
+  },
+  "45": {
+   "name": "Frank Sprague"
+  },
+  "47": {
+   "name": "Frank Sprague"
+  },
+  "49": {
+   "name": "Frank Sprague"
+  },
+  "52": {
+   "name": "Frank Sprague"
+  },
+  "55": {
+   "name": "Frank Sprague"
+  },
+  "57": {
+   "name": "Frank Sprague"
+  },
+  "63": {
+   "name": "Frank Sprague"
+  },
+  "69": {
+   "name": "Frank Sprague"
+  },
+  "70": {
+   "name": "Frank Sprague"
+  },
+  "71": {
+   "name": "Frank Sprague"
+  },
+  "73": {
+   "name": "Frank Sprague"
+  },
+  "75": {
+   "name": "Frank Sprague"
+  },
+  "76": {
+   "name": "Frank Sprague"
+  },
+  "78": {
+   "name": "Frank Sprague"
+  },
+  "81": {
+   "name": "Frank Sprague"
+  },
+  "83": {
+   "name": "Frank Sprague"
+  },
+  "103": {
+   "name": "Frank Sprague"
+  },
+  "105": {
+   "name": "Frank Sprague"
+  },
+  "108": {
+   "name": "Frank Sprague"
+  },
+  "111": {
+   "name": "Frank Sprague"
+  },
+  "113": {
+   "name": "Frank Sprague"
+  },
+  "115": {
+   "name": "Frank Sprague"
+  },
+  "200": {
+   "name": "Frank Sprague"
+  },
+  "204": {
+   "name": "Frank Sprague"
+  },
+  "207": {
+   "name": "Frank Sprague"
+  },
+  "209": {
+   "name": "Frank Sprague"
+  },
+  "210": {
+   "name": "Frank Sprague"
+  },
+  "211": {
+   "name": "Frank Sprague"
+  },
+  "212": {
+   "name": "Frank Sprague"
+  },
+  "222": {
+   "name": "Frank Sprague"
+  },
+  "223": {
+   "name": "Frank Sprague"
+  },
+  "224": {
+   "name": "Frank Sprague"
+  },
+  "226": {
+   "name": "Frank Sprague"
+  },
+  "243": {
+   "name": "Frank Sprague"
+  },
+  "248": {
+   "name": "Frank Sprague"
+  },
+  "250": {
+   "name": "Frank Sprague"
+  },
+  "264": {
+   "name": "Frank Sprague"
+  },
+  "265": {
+   "name": "Frank Sprague"
+  },
+  "266": {
+   "name": "Frank Sprague"
+  },
+  "267": {
+   "name": "Frank Sprague"
+  },
+  "268": {
+   "name": "Frank Sprague"
+  },
+  "269": {
+   "name": "Frank Sprague"
+  },
+  "270": {
+   "name": "Frank Sprague"
+  },
+  "271": {
+   "name": "Frank Sprague"
+  },
+  "273": {
+   "name": "Frank Sprague"
+  },
+  "276": {
+   "name": "Frank Sprague"
+  },
+  "278": {
+   "name": "Frank Sprague"
+  },
+  "282": {
+   "name": "Frank Sprague"
+  },
+  "285": {
+   "name": "Frank Sprague"
+  },
+  "286": {
+   "name": "Frank Sprague"
+  },
+  "289": {
+   "name": "Frank Sprague"
+  },
+  "291": {
+   "name": "Frank Sprague"
+  },
+  "293": {
+   "name": "Frank Sprague"
+  },
+  "295": {
+   "name": "Frank Sprague"
+  },
+  "297": {
+   "name": "Frank Sprague"
+  },
+  "299": {
+   "name": "Frank Sprague"
+  },
+  "301": {
+   "name": "Frank Sprague"
+  },
+  "304": {
+   "name": "Frank Sprague"
+  },
+  "306": {
+   "name": "Frank Sprague"
+  },
+  "307": {
+   "name": "Frank Sprague"
+  },
+  "309": {
+   "name": "Frank Sprague"
+  },
+  "313": {
+   "name": "Frank Sprague"
+  },
+  "316": {
+   "name": "Frank Sprague"
+  },
+  "318": {
+   "name": "Frank Sprague"
+  },
+  "320": {
+   "name": "Frank Sprague"
+  },
+  "321": {
+   "name": "Frank Sprague"
+  },
+  "324": {
+   "name": "Frank Sprague"
+  },
+  "328": {
+   "name": "Frank Sprague"
+  },
+  "331": {
+   "name": "Frank Sprague"
+  },
+  "333": {
+   "name": "Frank Sprague"
+  },
+  "341": {
+   "name": "Frank Sprague"
+  },
+  "343": {
+   "name": "Frank Sprague"
+  },
+  "345": {
+   "name": "Frank Sprague"
+  },
+  "347": {
+   "name": "Frank Sprague"
+  },
+  "349": {
+   "name": "Frank Sprague"
+  },
+  "353": {
+   "name": "Frank Sprague"
+  },
+  "355": {
+   "name": "Frank Sprague"
+  },
+  "357": {
+   "name": "Frank Sprague"
+  },
+  "359": {
+   "name": "Frank Sprague"
+  },
+  "361": {
+   "name": "Frank Sprague"
+  },
+  "363": {
+   "name": "Frank Sprague"
+  },
+  "365": {
+   "name": "Frank Sprague"
+  },
+  "366": {
+   "name": "Frank Sprague"
+  },
+  "371": {
+   "name": "Frank Sprague"
+  },
+  "372": {
+   "name": "Frank Sprague"
+  },
+  "391": {
+   "name": "Frank Sprague"
+  },
+  "393": {
+   "name": "Frank Sprague"
+  },
+  "395": {
+   "name": "Frank Sprague"
+  },
+  "398": {
+   "name": "Frank Sprague"
+  },
+  "415": {
+   "name": "Frank Sprague"
+  },
+  "417": {
+   "name": "Frank Sprague"
+  },
+  "419": {
+   "name": "Frank Sprague"
+  },
+  "421": {
+   "name": "Frank Sprague"
+  },
+  "422": {
+   "name": "Frank Sprague"
+  },
+  "703": {
+   "name": "Frank Sprague"
+  },
+  "705": {
+   "name": "Frank Sprague"
+  },
+  "718": {
+   "name": "Frank Sprague"
+  },
+  "721": {
+   "name": "Frank Sprague"
+  },
+  "723": {
+   "name": "Frank Sprague"
+  },
+  "203": {
+   "name": "Frank Sprague"
+  },
+  "206": {
+   "name": "Frank Sprague"
+  },
+  "208": {
+   "name": "Frank Sprague"
+  },
+  "114": {
+   "name": "Frank Sprague"
+  },
+  "390": {
+   "name": "Frank Sprague"
+  },
+  "420": {
+   "name": "Frank Sprague"
+  },
+  "490": {
+   "name": "Frank Sprague"
+  },
+  "150": {
+   "name": "Unidentified",
+   "role": "Unidentified board member - questions on Goshen tuition and ESSER reimbursement (not named on the record)"
+  },
+  "179": {
+   "name": "Unidentified",
+   "role": "Unidentified board member - questions on Goshen tuition and ESSER reimbursement (not named on the record)"
+  },
+  "116": {
+   "name": "Michael Tempesta"
+  },
+  "133": {
+   "name": "Michael Tempesta"
+  },
+  "158": {
+   "name": "Michael Tempesta"
+  },
+  "173": {
+   "name": "Michael Tempesta"
+  },
+  "176": {
+   "name": "Michael Tempesta"
+  },
+  "400": {
+   "name": "Michael Tempesta"
+  },
+  "408": {
+   "name": "Michael Tempesta"
+  },
+  "506": {
+   "name": "Michael Tempesta"
+  },
+  "283": {
+   "name": "Michael Petrin",
+   "role": "Claremont School Board member; SAU 6 Board Chair"
+  },
+  "284": {
+   "name": "Michael Petrin",
+   "role": "Claremont School Board member; SAU 6 Board Chair"
+  },
+  "287": {
+   "name": "Rob Lovett Jr."
+  },
+  "294": {
+   "name": "Michael Petrin",
+   "role": "Claremont School Board member; SAU 6 Board Chair"
+  },
+  "298": {
+   "name": "Michael Petrin",
+   "role": "Claremont School Board member; SAU 6 Board Chair"
+  },
+  "300": {
+   "name": "Michael Petrin",
+   "role": "Claremont School Board member; SAU 6 Board Chair"
+  },
+  "302": {
+   "name": "Michael Petrin",
+   "role": "Claremont School Board member; SAU 6 Board Chair"
+  },
+  "325": {
+   "name": "Michael Petrin",
+   "role": "Claremont School Board member; SAU 6 Board Chair"
+  },
+  "329": {
+   "name": "Michael Petrin",
+   "role": "Claremont School Board member; SAU 6 Board Chair"
+  },
+  "330": {
+   "name": "Michael Petrin",
+   "role": "Claremont School Board member; SAU 6 Board Chair"
+  },
+  "344": {
+   "name": "Michael Petrin",
+   "role": "Claremont School Board member; SAU 6 Board Chair"
+  },
+  "367": {
+   "name": "Michael Petrin",
+   "role": "Claremont School Board member; SAU 6 Board Chair"
+  },
+  "399": {
+   "name": "Michael Petrin",
+   "role": "Claremont School Board member; SAU 6 Board Chair"
+  },
+  "230": {
+   "name": "Donna Magoon",
+   "role": "Assistant Superintendent, SAU 6"
+  },
+  "231": {
+   "name": "Donna Magoon",
+   "role": "Assistant Superintendent, SAU 6"
+  },
+  "232": {
+   "name": "Donna Magoon",
+   "role": "Assistant Superintendent, SAU 6"
+  },
+  "233": {
+   "name": "Donna Magoon",
+   "role": "Assistant Superintendent, SAU 6"
+  },
+  "234": {
+   "name": "Donna Magoon",
+   "role": "Assistant Superintendent, SAU 6"
+  },
+  "235": {
+   "name": "Donna Magoon",
+   "role": "Assistant Superintendent, SAU 6"
+  },
+  "236": {
+   "name": "Donna Magoon",
+   "role": "Assistant Superintendent, SAU 6"
+  },
+  "237": {
+   "name": "Donna Magoon",
+   "role": "Assistant Superintendent, SAU 6"
+  },
+  "238": {
+   "name": "Donna Magoon",
+   "role": "Assistant Superintendent, SAU 6"
+  },
+  "239": {
+   "name": "Donna Magoon",
+   "role": "Assistant Superintendent, SAU 6"
+  },
+  "240": {
+   "name": "Donna Magoon",
+   "role": "Assistant Superintendent, SAU 6"
+  },
+  "241": {
+   "name": "Donna Magoon",
+   "role": "Assistant Superintendent, SAU 6"
+  },
+  "242": {
+   "name": "Donna Magoon",
+   "role": "Assistant Superintendent, SAU 6"
+  },
+  "244": {
+   "name": "Donna Magoon",
+   "role": "Assistant Superintendent, SAU 6"
+  },
+  "246": {
+   "name": "Donna Magoon",
+   "role": "Assistant Superintendent, SAU 6"
+  },
+  "249": {
+   "name": "Donna Magoon",
+   "role": "Assistant Superintendent, SAU 6"
+  },
+  "254": {
+   "name": "Donna Magoon",
+   "role": "Assistant Superintendent, SAU 6"
+  },
+  "260": {
+   "name": "Donna Magoon",
+   "role": "Assistant Superintendent, SAU 6"
+  },
+  "261": {
+   "name": "Donna Magoon",
+   "role": "Assistant Superintendent, SAU 6"
+  },
+  "262": {
+   "name": "Donna Magoon",
+   "role": "Assistant Superintendent, SAU 6"
+  },
+  "373": {
+   "name": "Donna Magoon",
+   "role": "Assistant Superintendent, SAU 6"
+  },
+  "374": {
+   "name": "Donna Magoon",
+   "role": "Assistant Superintendent, SAU 6"
+  },
+  "375": {
+   "name": "Donna Magoon",
+   "role": "Assistant Superintendent, SAU 6"
+  },
+  "376": {
+   "name": "Donna Magoon",
+   "role": "Assistant Superintendent, SAU 6"
+  },
+  "377": {
+   "name": "Donna Magoon",
+   "role": "Assistant Superintendent, SAU 6"
+  },
+  "378": {
+   "name": "Donna Magoon",
+   "role": "Assistant Superintendent, SAU 6"
+  },
+  "379": {
+   "name": "Donna Magoon",
+   "role": "Assistant Superintendent, SAU 6"
+  },
+  "380": {
+   "name": "Donna Magoon",
+   "role": "Assistant Superintendent, SAU 6"
+  },
+  "381": {
+   "name": "Donna Magoon",
+   "role": "Assistant Superintendent, SAU 6"
+  },
+  "382": {
+   "name": "Donna Magoon",
+   "role": "Assistant Superintendent, SAU 6"
+  },
+  "383": {
+   "name": "Donna Magoon",
+   "role": "Assistant Superintendent, SAU 6"
+  },
+  "384": {
+   "name": "Donna Magoon",
+   "role": "Assistant Superintendent, SAU 6"
+  },
+  "385": {
+   "name": "Donna Magoon",
+   "role": "Assistant Superintendent, SAU 6"
+  },
+  "386": {
+   "name": "Donna Magoon",
+   "role": "Assistant Superintendent, SAU 6"
+  },
+  "387": {
+   "name": "Donna Magoon",
+   "role": "Assistant Superintendent, SAU 6"
+  },
+  "388": {
+   "name": "Donna Magoon",
+   "role": "Assistant Superintendent, SAU 6"
+  },
+  "389": {
+   "name": "Donna Magoon",
+   "role": "Assistant Superintendent, SAU 6"
+  },
+  "392": {
+   "name": "Donna Magoon",
+   "role": "Assistant Superintendent, SAU 6"
+  },
+  "394": {
+   "name": "Donna Magoon",
+   "role": "Assistant Superintendent, SAU 6"
+  },
+  "396": {
+   "name": "Donna Magoon",
+   "role": "Assistant Superintendent, SAU 6"
+  },
+  "334": {
+   "name": "Unidentified",
+   "role": "Unidentified - asks clarifying questions about the mask motion (possibly staff)"
+  },
+  "336": {
+   "name": "Unidentified",
+   "role": "Unidentified - asks clarifying questions about the mask motion (possibly staff)"
+  },
+  "338": {
+   "name": "Unidentified",
+   "role": "Unidentified - asks clarifying questions about the mask motion (possibly staff)"
+  },
+  "339": {
+   "name": "Unidentified",
+   "role": "Unidentified - asks clarifying questions about the mask motion (possibly staff)"
+  },
+  "340": {
+   "name": "Unidentified",
+   "role": "Unidentified - asks clarifying questions about the mask motion (possibly staff)"
+  },
+  "342": {
+   "name": "Unidentified",
+   "role": "Unidentified - asks clarifying questions about the mask motion (possibly staff)"
+  },
+  "16": {
+   "name": "Unidentified",
+   "role": "Unidentified board member (asks to add the board vacancy to the agenda)"
+  },
+  "17": {
+   "name": "Unidentified",
+   "role": "Unidentified board member (asks to add the board vacancy to the agenda)"
+  },
+  "22": {
+   "name": "Sean"
+  },
+  "38": {
+   "name": "Unidentified",
+   "role": "Unidentified - 'Congrats'"
+  },
+  "274": {
+   "name": "Steven Horsky"
+  },
+  "715": {
+   "name": "Prescott Herzog"
+  },
+  "545": {
+   "name": "Unidentified",
+   "role": "Unidentified board member - out-of-district athletes, remote learning and superintendent's brunch remarks (not named; possibly Michael Petrin)"
+  },
+  "547": {
+   "name": "Unidentified",
+   "role": "Unidentified board member - out-of-district athletes, remote learning and superintendent's brunch remarks (not named; possibly Michael Petrin)"
+  }
+ }
+}

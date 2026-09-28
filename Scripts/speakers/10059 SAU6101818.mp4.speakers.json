@@ -1,0 +1,100 @@
+{
+ "Speaker 1": {
+  "name": "Marjorie Erickson",
+  "role": "SAU 6 Board Chair (Unity) (uncertain - not named on this recording; presides throughout [0-753], refers to 'the chair's attention' [18]; a Unity resident [583] in her 'fourth year on this board' [740]; says 'Sarah can't speak to that' [113], so is not Sara Lowe; Erickson introduced herself as SAU 6 chairperson on 12/13/18)"
+ },
+ "Speaker 2": {
+  "name": "Jason Benware",
+  "role": "Claremont School Board member, SAU 6 Board member (chair: 'Jason.' [486] -> [487] and [557] -> [559]; clerk note 'Jason made the motion' [435] after his motion [427-429])"
+ },
+ "Speaker 3": {
+  "name": "Frank Sprague",
+  "role": "Claremont School Board Chair, SAU 6 Board member ('Frank seconded' [435] after [433]; chair: 'I have one Frank' [523] and 'Frank had proposed adding ... tracking statistics' [636] after his proposal [530-535])"
+ },
+ "Speaker 4": {
+  "name": "Unidentified",
+  "role": "Unidentified - Claremont board member (moves the minutes [28]; refers to the Claremont board retreat [115]); not named on the recording"
+ },
+ "Speaker 5": {
+  "name": "Carolyn Towle",
+  "role": "Claremont School Board member, SAU 6 Board member (chair: 'Carolyn.' [90] -> [91] and [548] -> [549]; 'what Carolyn is confused' [100]; casts the lone nay and asks for the Abbey Group contract [682-691], matched by the chair's action item 'get Carolyn a copy' [745])"
+ },
+ "Speaker 6": {
+  "name": "Unidentified",
+  "role": "Unidentified - SAU 6 Board member from Unity ('I'm also a parent in unity' [61]); not named"
+ },
+ "Speaker 7": {
+  "name": "Jane Gilson",
+  "role": "Public commenter, Claremont; backpack program volunteer (self-ID 'Jane Gilson. I'm from Claremont' [48]; chair: 'Thank you Jane' [134]; spelling not verified)"
+ },
+ "Speaker 8": {
+  "name": "Michael O'Neill",
+  "role": "Business Administrator, SAU 6 (addressed 'Mike' [207, 280, 668]; presents the expenditure report and SAU budget [151-246]; the new position 'would be working for me' [561]; surname from roster)"
+ },
+ "Speaker 9": {
+  "name": "Unidentified",
+  "role": "Unidentified - SAU 6 Board member, probably from Unity (notes December 5 is the Unity board's regular meeting night [306])"
+ },
+ "Speaker 10": {
+  "name": "Michael Petrin",
+  "role": "Claremont School Board member, SAU 6 Board member (chair: 'Mike.' [538] -> [539]; 'I have become in charge of the Claremont School Board Facebook page' [292])"
+ },
+ "Speaker 11": {
+  "name": "Unidentified",
+  "role": "Unidentified - SAU 6 Board member (questions on the search forums [303, 323]; seconds the funding-letter motion [335])"
+ },
+ "Speaker 12": {
+  "name": "Unidentified",
+  "role": "Unidentified - short responses"
+ },
+ "Speaker 13": {
+  "name": "Unidentified",
+  "role": "Unidentified - cluster of short responses and ayes from several members"
+ },
+ "Speaker 14": {
+  "name": "Michelle Pierce",
+  "role": "Claremont School Board member, SAU 6 Board member (chair: 'Michelle's next' [501], 'It's Michelle's turn' [512] -> [514-517] her motion; 'Michelle's motion' [638]; 'Michelle seconded' [738])"
+ },
+ "Speaker 15": {
+  "name": "Unidentified",
+  "role": "Unidentified - one remark on a salaried position [649]"
+ },
+ "__overrides__": {
+  "184": {
+   "name": "Unidentified",
+   "role": "Unidentified - fragment diarized with the public commenter; not hers (she had left or was in the audience)"
+  },
+  "402": {
+   "name": "Unidentified",
+   "role": "Unidentified - fragment diarized with the public commenter; not hers (she had left or was in the audience)"
+  },
+  "406": {
+   "name": "Unidentified",
+   "role": "Unidentified - fragment diarized with the public commenter; not hers (she had left or was in the audience)"
+  },
+  "513": {
+   "name": "Unidentified",
+   "role": "Unidentified - fragment diarized with the public commenter; not hers (she had left or was in the audience)"
+  },
+  "552": {
+   "name": "Unidentified",
+   "role": "Unidentified - fragment diarized with the public commenter; not hers (she had left or was in the audience)"
+  },
+  "570": {
+   "name": "Unidentified",
+   "role": "Unidentified - fragment diarized with the public commenter; not hers (she had left or was in the audience)"
+  },
+  "620": {
+   "name": "Unidentified",
+   "role": "Unidentified - fragment diarized with the public commenter; not hers (she had left or was in the audience)"
+  },
+  "701": {
+   "name": "Unidentified",
+   "role": "Unidentified - fragment diarized with the public commenter; not hers (she had left or was in the audience)"
+  },
+  "638": {
+   "name": "Sara Lowe",
+   "role": "SAU 6 Board member (Unity) (uncertain - makes the amendment to 'Michelle's motion' [638]; chair then calls the vote on 'the amendment, as Sarah read it' [674]; diarized with the chair)"
+  }
+ }
+}

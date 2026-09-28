@@ -1,0 +1,446 @@
+{
+ "Speaker 1": {
+  "name": "Chris Irish",
+  "role": "Claremont School Board Vice Chair (presiding in Chair Brian Rapp's absence: calls to order, runs agenda and votes; superintendent addresses the chair as 'Chris' [63,258,261,424,871,958])"
+ },
+ "Speaker 2": {
+  "name": "Frank Sprague",
+  "role": "Claremont School Board member (chair: 'I think Frank's right' [227] after [222-224]; LeClair: 'I had the same question today, Frank' [707]; O'Neill: 'I'm just going to do this version, Frank' [745]; makes the Ferland resignation motion, confirmed by chair 'Frank made the motion' [943])"
+ },
+ "Speaker 3": {
+  "name": "Marion",
+  "role": "Student representative to the board, Stevens High School (first name only; superintendent: 'thank you for bringing that up, Marion' [37], ASR also 'Mary' [35])"
+ },
+ "Speaker 4": {
+  "name": "Middleton McGoodwin",
+  "role": "Superintendent, SAU 6 (superintendent's report [35-54]; chair: 'everything you said, Milton' [263] and 'your question, Milton' [963]; reads Brent Ferland's resignation email [889])"
+ },
+ "Speaker 5": {
+  "name": "Patrick Adrian",
+  "role": "Claremont School Board member (superintendent: 'if I'm correct, Patrick' [60] after [56-57]; chair: 'Patrick seconded' [943] after [942]; LeClair: 'which line are you on, Patrick?' [571])"
+ },
+ "Speaker 6": {
+  "name": "Cory LeClair",
+  "role": "Assistant Superintendent, SAU 6 (superintendent: 'Corey LeClair has done quite a bit of work' [216] and 'I'm going to defer to Corey' [219] -> [229-236]; chair: 'So, Corey' [320])"
+ },
+ "Speaker 7": {
+  "name": "Judy Couture",
+  "role": "Public commenter, Ward 2; retired Stevens High School physical education teacher (states 'Judy, Ward two' [86]; surname from Sprague: 'When Judy Couture made her presentation tonight' [877]; ASR 'Mrs. Carter' at [155-157], spelling unverified)"
+ },
+ "Speaker 8": {
+  "name": "Carolyn Hamilton",
+  "role": "Public commenter, Ward 1; physical education teacher, Stevens High School (self-identified [103])"
+ },
+ "Speaker 9": {
+  "name": "Brian",
+  "role": "Public commenter, Stevens High School student (first name only: 'My name is Brian' [150]); cluster also holds short fragments, see overrides"
+ },
+ "Speaker 10": {
+  "name": "Barbara Richards",
+  "role": "Public commenter, Ward 3; accounting and business instructor, Sugar River Valley Regional Technical Center (self-identified [165])"
+ },
+ "Speaker 11": {
+  "name": "Kiara Knight",
+  "role": "Public commenter, Stevens High School student and unified track athlete (self-identified [187]; ASR spelling unverified)"
+ },
+ "Speaker 12": {
+  "name": "Kyle Grant",
+  "role": "Public commenter, Stevens High School student council president (self-identified [199])"
+ },
+ "Speaker 13": {
+  "name": "Doug Beaupre",
+  "role": "Athletic Director, Stevens High School (introduced as 'Doug Beaupre, athletic director' [10]; chair: 'Have Doug talk to us about sports' [407]; Herzog: 'Doug, just quickly looking at the numbers' [476]); cluster also carries O'Neill [296-356], Herzog and Sprague, see overrides"
+ },
+ "Speaker 14": {
+  "name": "Michael Lansing",
+  "role": "Bluff School administrator, likely principal (LeClair calls on 'Michael Lansing. You're up, buddy' [366] -> [371]; speaks of 'my guidance teacher' and 'our school' [375,391]; ASR spelling unverified)"
+ },
+ "Speaker 15": {
+  "name": "Alex Herzog",
+  "role": "Claremont School Board member (answers 'Alex is here' in roll call [5]; chair: 'Alex I'm going to throw it your way' [431] and 'Anything else, Alex' [459]; 'I'm new to this ... I've worked in colleges' [446]); cluster also carries Josh Malloy [665-785], see overrides"
+ },
+ "Speaker 16": {
+  "name": "Michael O'Neill",
+  "role": "Business Administrator, SAU 6 (LeClair: 'Mike can maybe explain this' [295]; superintendent: 'could Mike have a few moments to review this documentation' [743] -> [748-754]; named 'Michael O'Neill' [977], ASR 'Michael Neil' [12])"
+ },
+ "Speaker 17": {
+  "name": "Patricia Barry",
+  "role": "Principal, Stevens High School (superintendent: 'I'm going to ask Pat Barry if Pat could address that' [535] -> [538-548])"
+ },
+ "Speaker 18": {
+  "name": "Patrick Adrian",
+  "role": "Claremont School Board member (short second cluster: gives the account numbers right after LeClair asks 'which line are you on, Patrick?' [571] and the chair says 'Patrick ... line' [573]) (medium - short cluster)"
+ },
+ "Speaker 19": {
+  "name": "Unidentified",
+  "role": "Unidentified - Sugar River Valley Regional Technical Center administrator (speaks of 'my request early in this process for an administrative assistant' to help at the tech center [564,566]; name not stated; possibly the 'Mr. Schneider' Barry says runs the tech program [608], uncertain)"
+ },
+ "Speaker 20": {
+  "name": "Patrick Adrian",
+  "role": "Claremont School Board member (superintendent: 'if I'm correct, Patrick' [60] after [56-57]; chair: 'Patrick seconded' [943] after [942]; LeClair: 'which line are you on, Patrick?' [571])"
+ },
+ "Speaker 21": {
+  "name": "Mary Woodman",
+  "role": "School district clerk and board recording secretary (uncertain - not addressed by name; explains the filing period and election dates right after the chair says 'I know Mary talked about' [901], and the chair ties the posting to 'Mary' [920,948])"
+ },
+ "__overrides__": {
+  "1": {
+   "name": "Unidentified",
+   "role": "Unidentified - group recitation of the Pledge of Allegiance"
+  },
+  "3": {
+   "name": "Unidentified",
+   "role": "Unidentified - roll-call response by a board member present (Sprague or Adrian)"
+  },
+  "6": {
+   "name": "Unidentified",
+   "role": "Unidentified - roll-call response by a board member present (Sprague or Adrian)"
+  },
+  "5": {
+   "name": "Alex Herzog"
+  },
+  "23": {
+   "name": "Frank Sprague"
+  },
+  "162": {
+   "name": "Brian"
+  },
+  "217": {
+   "name": "Middleton McGoodwin"
+  },
+  "260": {
+   "name": "Middleton McGoodwin"
+  },
+  "696": {
+   "name": "Middleton McGoodwin"
+  },
+  "873": {
+   "name": "Middleton McGoodwin"
+  },
+  "888": {
+   "name": "Middleton McGoodwin"
+  },
+  "891": {
+   "name": "Middleton McGoodwin"
+  },
+  "703": {
+   "name": "Frank Sprague"
+  },
+  "689": {
+   "name": "Frank Sprague"
+  },
+  "690": {
+   "name": "Frank Sprague"
+  },
+  "692": {
+   "name": "Frank Sprague"
+  },
+  "694": {
+   "name": "Frank Sprague"
+  },
+  "697": {
+   "name": "Frank Sprague"
+  },
+  "698": {
+   "name": "Frank Sprague"
+  },
+  "657": {
+   "name": "Chris Irish"
+  },
+  "826": {
+   "name": "Chris Irish"
+  },
+  "521": {
+   "name": "Michael O'Neill"
+  },
+  "625": {
+   "name": "Michael O'Neill"
+  },
+  "627": {
+   "name": "Michael O'Neill"
+  },
+  "629": {
+   "name": "Michael O'Neill"
+  },
+  "296": {
+   "name": "Michael O'Neill"
+  },
+  "297": {
+   "name": "Michael O'Neill"
+  },
+  "298": {
+   "name": "Michael O'Neill"
+  },
+  "300": {
+   "name": "Michael O'Neill"
+  },
+  "302": {
+   "name": "Michael O'Neill"
+  },
+  "306": {
+   "name": "Michael O'Neill"
+  },
+  "308": {
+   "name": "Michael O'Neill"
+  },
+  "313": {
+   "name": "Michael O'Neill"
+  },
+  "330": {
+   "name": "Michael O'Neill"
+  },
+  "332": {
+   "name": "Michael O'Neill"
+  },
+  "354": {
+   "name": "Michael O'Neill"
+  },
+  "356": {
+   "name": "Michael O'Neill"
+  },
+  "432": {
+   "name": "Alex Herzog"
+  },
+  "434": {
+   "name": "Alex Herzog"
+  },
+  "436": {
+   "name": "Alex Herzog"
+  },
+  "820": {
+   "name": "Alex Herzog"
+  },
+  "821": {
+   "name": "Alex Herzog"
+  },
+  "822": {
+   "name": "Alex Herzog"
+  },
+  "823": {
+   "name": "Alex Herzog"
+  },
+  "644": {
+   "name": "Unidentified",
+   "role": "Unidentified - short fragment or backchannel, speaker not determinable"
+  },
+  "701": {
+   "name": "Unidentified",
+   "role": "Unidentified - short fragment or backchannel, speaker not determinable"
+  },
+  "832": {
+   "name": "Frank Sprague"
+  },
+  "834": {
+   "name": "Frank Sprague"
+  },
+  "836": {
+   "name": "Frank Sprague"
+  },
+  "841": {
+   "name": "Frank Sprague"
+  },
+  "845": {
+   "name": "Frank Sprague"
+  },
+  "847": {
+   "name": "Frank Sprague"
+  },
+  "849": {
+   "name": "Frank Sprague"
+  },
+  "857": {
+   "name": "Frank Sprague"
+  },
+  "861": {
+   "name": "Frank Sprague"
+  },
+  "863": {
+   "name": "Frank Sprague"
+  },
+  "866": {
+   "name": "Frank Sprague"
+  },
+  "877": {
+   "name": "Frank Sprague"
+  },
+  "878": {
+   "name": "Frank Sprague"
+  },
+  "880": {
+   "name": "Frank Sprague"
+  },
+  "882": {
+   "name": "Frank Sprague"
+  },
+  "898": {
+   "name": "Frank Sprague"
+  },
+  "909": {
+   "name": "Frank Sprague"
+  },
+  "913": {
+   "name": "Frank Sprague"
+  },
+  "919": {
+   "name": "Frank Sprague"
+  },
+  "922": {
+   "name": "Frank Sprague"
+  },
+  "929": {
+   "name": "Frank Sprague"
+  },
+  "931": {
+   "name": "Frank Sprague"
+  },
+  "938": {
+   "name": "Frank Sprague"
+  },
+  "945": {
+   "name": "Frank Sprague"
+  },
+  "955": {
+   "name": "Frank Sprague"
+  },
+  "979": {
+   "name": "Frank Sprague"
+  },
+  "992": {
+   "name": "Frank Sprague"
+  },
+  "665": {
+   "name": "Josh Malloy",
+   "role": "Director of Instructional Technology, SAU 6 (introduced by the superintendent as newly hired 'Joshua malloy' [37-40]; chair: 'Thanks Josh' [786] after his E911 answer [773-785])"
+  },
+  "666": {
+   "name": "Josh Malloy",
+   "role": "Director of Instructional Technology, SAU 6 (introduced by the superintendent as newly hired 'Joshua malloy' [37-40]; chair: 'Thanks Josh' [786] after his E911 answer [773-785])"
+  },
+  "667": {
+   "name": "Josh Malloy",
+   "role": "Director of Instructional Technology, SAU 6 (introduced by the superintendent as newly hired 'Joshua malloy' [37-40]; chair: 'Thanks Josh' [786] after his E911 answer [773-785])"
+  },
+  "668": {
+   "name": "Josh Malloy",
+   "role": "Director of Instructional Technology, SAU 6 (introduced by the superintendent as newly hired 'Joshua malloy' [37-40]; chair: 'Thanks Josh' [786] after his E911 answer [773-785])"
+  },
+  "669": {
+   "name": "Josh Malloy",
+   "role": "Director of Instructional Technology, SAU 6 (introduced by the superintendent as newly hired 'Joshua malloy' [37-40]; chair: 'Thanks Josh' [786] after his E911 answer [773-785])"
+  },
+  "671": {
+   "name": "Josh Malloy",
+   "role": "Director of Instructional Technology, SAU 6 (introduced by the superintendent as newly hired 'Joshua malloy' [37-40]; chair: 'Thanks Josh' [786] after his E911 answer [773-785])"
+  },
+  "773": {
+   "name": "Josh Malloy",
+   "role": "Director of Instructional Technology, SAU 6 (introduced by the superintendent as newly hired 'Joshua malloy' [37-40]; chair: 'Thanks Josh' [786] after his E911 answer [773-785])"
+  },
+  "774": {
+   "name": "Josh Malloy",
+   "role": "Director of Instructional Technology, SAU 6 (introduced by the superintendent as newly hired 'Joshua malloy' [37-40]; chair: 'Thanks Josh' [786] after his E911 answer [773-785])"
+  },
+  "775": {
+   "name": "Josh Malloy",
+   "role": "Director of Instructional Technology, SAU 6 (introduced by the superintendent as newly hired 'Joshua malloy' [37-40]; chair: 'Thanks Josh' [786] after his E911 answer [773-785])"
+  },
+  "777": {
+   "name": "Josh Malloy",
+   "role": "Director of Instructional Technology, SAU 6 (introduced by the superintendent as newly hired 'Joshua malloy' [37-40]; chair: 'Thanks Josh' [786] after his E911 answer [773-785])"
+  },
+  "782": {
+   "name": "Josh Malloy",
+   "role": "Director of Instructional Technology, SAU 6 (introduced by the superintendent as newly hired 'Joshua malloy' [37-40]; chair: 'Thanks Josh' [786] after his E911 answer [773-785])"
+  },
+  "783": {
+   "name": "Josh Malloy",
+   "role": "Director of Instructional Technology, SAU 6 (introduced by the superintendent as newly hired 'Joshua malloy' [37-40]; chair: 'Thanks Josh' [786] after his E911 answer [773-785])"
+  },
+  "785": {
+   "name": "Josh Malloy",
+   "role": "Director of Instructional Technology, SAU 6 (introduced by the superintendent as newly hired 'Joshua malloy' [37-40]; chair: 'Thanks Josh' [786] after his E911 answer [773-785])"
+  },
+  "554": {
+   "name": "Unidentified",
+   "role": "Unidentified - short fragment or backchannel, speaker not determinable"
+  },
+  "640": {
+   "name": "Unidentified",
+   "role": "Unidentified - short fragment or backchannel, speaker not determinable"
+  },
+  "563": {
+   "name": "Unidentified",
+   "role": "Unidentified - Sugar River Valley Regional Technical Center administrator (speaks of 'my request early in this process for an administrative assistant' to help at the tech center [564,566]; name not stated; possibly the 'Mr. Schneider' Barry says runs the tech program [608], uncertain)"
+  },
+  "642": {
+   "name": "Unidentified",
+   "role": "Unidentified - short fragment or backchannel, speaker not determinable"
+  },
+  "267": {
+   "name": "Unidentified",
+   "role": "Unidentified - short fragment or backchannel, speaker not determinable"
+  },
+  "273": {
+   "name": "Unidentified",
+   "role": "Unidentified - short fragment or backchannel, speaker not determinable"
+  },
+  "378": {
+   "name": "Unidentified",
+   "role": "Unidentified - short fragment or backchannel, speaker not determinable"
+  },
+  "380": {
+   "name": "Unidentified",
+   "role": "Unidentified - short fragment or backchannel, speaker not determinable"
+  },
+  "393": {
+   "name": "Unidentified",
+   "role": "Unidentified - short fragment or backchannel, speaker not determinable"
+  },
+  "524": {
+   "name": "Unidentified",
+   "role": "Unidentified - short fragment or backchannel, speaker not determinable"
+  },
+  "687": {
+   "name": "Unidentified",
+   "role": "Unidentified - short fragment or backchannel, speaker not determinable"
+  },
+  "912": {
+   "name": "Unidentified",
+   "role": "Unidentified - short fragment or backchannel, speaker not determinable"
+  },
+  "915": {
+   "name": "Unidentified",
+   "role": "Unidentified - short fragment or backchannel, speaker not determinable"
+  },
+  "921": {
+   "name": "Unidentified",
+   "role": "Unidentified - short fragment or backchannel, speaker not determinable"
+  },
+  "925": {
+   "name": "Unidentified",
+   "role": "Unidentified - short fragment or backchannel, speaker not determinable"
+  },
+  "967": {
+   "name": "Unidentified",
+   "role": "Unidentified - short fragment or backchannel, speaker not determinable"
+  },
+  "369": {
+   "name": "Michael Lansing"
+  },
+  "617": {
+   "name": "Patricia Barry"
+  },
+  "514": {
+   "name": "Doug Beaupre"
+  },
+  "903": {
+   "name": "Mary Woodman"
+  },
+  "950": {
+   "name": "Mary Woodman"
+  },
+  "734": {
+   "name": "Cory LeClair"
+  }
+ }
+}

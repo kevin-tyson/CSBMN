@@ -1,0 +1,174 @@
+{
+ "Speaker 1": {
+  "name": "Unidentified",
+  "role": "Mixed cluster - several board members' seconds, ayes, roll responses and asides; see overrides"
+ },
+ "Speaker 2": {
+  "name": "Richard Seaman",
+  "role": "Assistant Superintendent for Finance, Operations and Human Resources, SAU 6"
+ },
+ "Speaker 3": {
+  "name": "Unidentified",
+  "role": "Acting secretary calling the roll"
+ },
+ "Speaker 4": {
+  "name": "Michael Tempesta",
+  "role": "Superintendent, SAU 6"
+ },
+ "Speaker 5": {
+  "name": "Steven Horsky",
+  "role": "SAU 6 Board member (Claremont)"
+ },
+ "Speaker 6": {
+  "name": "Unidentified",
+  "role": "SAU 6 Board member (makes minutes motions; not named)"
+ },
+ "Speaker 7": {
+  "name": "Bonnie Miles",
+  "role": "SAU 6 Board member (Claremont)"
+ },
+ "Speaker 8": {
+  "name": "Marjorie Erickson",
+  "role": "SAU 6 Board Chair (Unity) (uncertain - arrives late and presides from ~0:15; never named on the recording; identity from the record that Erickson chaired SAU 6 in the year before Feb 2023)"
+ },
+ "Speaker 9": {
+  "name": "Unidentified",
+  "role": "Staff member handling the remote audio connection"
+ },
+ "Speaker 10": {
+  "name": "William Lupini",
+  "role": "Consultant conducting the SAU 6 organizational and staffing study (ASR 'Bill lupine', 'Bill', 'Will')"
+ },
+ "Speaker 11": {
+  "name": "Whitney Skillen",
+  "role": "SAU 6 Board member (Claremont), participating remotely (uncertain - self-identifies only as 'Whitney'; Heather Whitney is otherwise addressed as Heather)"
+ },
+ "Speaker 12": {
+  "name": "Unidentified",
+  "role": "SAU 6 Board member (asks about study timeline and the Unity audit; not named)"
+ },
+ "Speaker 13": {
+  "name": "Unidentified",
+  "role": "SAU 6 Board member (asks about job postings and ESSER-funded positions; not named)"
+ },
+ "__overrides__": {
+  "3": {
+   "name": "Unidentified",
+   "role": "SAU 6 Board member presiding until the SAU 6 chair arrived (~0:15); never named on the recording (uncertain - possibly the SAU 6 vice chair; voice merged by the diarizer with Richard Seaman)"
+  },
+  "4": {
+   "name": "Unidentified",
+   "role": "SAU 6 Board member presiding until the SAU 6 chair arrived (~0:15); never named on the recording (uncertain - possibly the SAU 6 vice chair; voice merged by the diarizer with Richard Seaman)"
+  },
+  "6": {
+   "name": "Unidentified",
+   "role": "SAU 6 Board member presiding until the SAU 6 chair arrived (~0:15); never named on the recording (uncertain - possibly the SAU 6 vice chair; voice merged by the diarizer with Richard Seaman)"
+  },
+  "14": {
+   "name": "Unidentified",
+   "role": "SAU 6 Board member presiding until the SAU 6 chair arrived (~0:15); never named on the recording (uncertain - possibly the SAU 6 vice chair; voice merged by the diarizer with Richard Seaman)"
+  },
+  "17": {
+   "name": "Unidentified",
+   "role": "SAU 6 Board member presiding until the SAU 6 chair arrived (~0:15); never named on the recording (uncertain - possibly the SAU 6 vice chair; voice merged by the diarizer with Richard Seaman)"
+  },
+  "19": {
+   "name": "Unidentified",
+   "role": "SAU 6 Board member presiding until the SAU 6 chair arrived (~0:15); never named on the recording (uncertain - possibly the SAU 6 vice chair; voice merged by the diarizer with Richard Seaman)"
+  },
+  "20": {
+   "name": "Unidentified",
+   "role": "SAU 6 Board member presiding until the SAU 6 chair arrived (~0:15); never named on the recording (uncertain - possibly the SAU 6 vice chair; voice merged by the diarizer with Richard Seaman)"
+  },
+  "22": {
+   "name": "Unidentified",
+   "role": "SAU 6 Board member presiding until the SAU 6 chair arrived (~0:15); never named on the recording (uncertain - possibly the SAU 6 vice chair; voice merged by the diarizer with Richard Seaman)"
+  },
+  "24": {
+   "name": "Unidentified",
+   "role": "SAU 6 Board member presiding until the SAU 6 chair arrived (~0:15); never named on the recording (uncertain - possibly the SAU 6 vice chair; voice merged by the diarizer with Richard Seaman)"
+  },
+  "27": {
+   "name": "Unidentified",
+   "role": "SAU 6 Board member presiding until the SAU 6 chair arrived (~0:15); never named on the recording (uncertain - possibly the SAU 6 vice chair; voice merged by the diarizer with Richard Seaman)"
+  },
+  "29": {
+   "name": "Unidentified",
+   "role": "SAU 6 Board member presiding until the SAU 6 chair arrived (~0:15); never named on the recording (uncertain - possibly the SAU 6 vice chair; voice merged by the diarizer with Richard Seaman)"
+  },
+  "31": {
+   "name": "Unidentified",
+   "role": "SAU 6 Board member presiding until the SAU 6 chair arrived (~0:15); never named on the recording (uncertain - possibly the SAU 6 vice chair; voice merged by the diarizer with Richard Seaman)"
+  },
+  "32": {
+   "name": "Unidentified",
+   "role": "SAU 6 Board member presiding until the SAU 6 chair arrived (~0:15); never named on the recording (uncertain - possibly the SAU 6 vice chair; voice merged by the diarizer with Richard Seaman)"
+  },
+  "33": {
+   "name": "Unidentified",
+   "role": "SAU 6 Board member presiding until the SAU 6 chair arrived (~0:15); never named on the recording (uncertain - possibly the SAU 6 vice chair; voice merged by the diarizer with Richard Seaman)"
+  },
+  "37": {
+   "name": "Unidentified",
+   "role": "SAU 6 Board member presiding until the SAU 6 chair arrived (~0:15); never named on the recording (uncertain - possibly the SAU 6 vice chair; voice merged by the diarizer with Richard Seaman)"
+  },
+  "76": {
+   "name": "Unidentified",
+   "role": "SAU 6 Board member presiding until the SAU 6 chair arrived (~0:15); never named on the recording (uncertain - possibly the SAU 6 vice chair; voice merged by the diarizer with Richard Seaman)"
+  },
+  "78": {
+   "name": "Unidentified",
+   "role": "SAU 6 Board member presiding until the SAU 6 chair arrived (~0:15); never named on the recording (uncertain - possibly the SAU 6 vice chair; voice merged by the diarizer with Richard Seaman)"
+  },
+  "81": {
+   "name": "Unidentified",
+   "role": "SAU 6 Board member presiding until the SAU 6 chair arrived (~0:15); never named on the recording (uncertain - possibly the SAU 6 vice chair; voice merged by the diarizer with Richard Seaman)"
+  },
+  "7": {
+   "name": "Unidentified",
+   "role": "Board member answering roll call"
+  },
+  "8": {
+   "name": "Unidentified",
+   "role": "Board member answering roll call"
+  },
+  "10": {
+   "name": "Unidentified",
+   "role": "Acting secretary calling the roll"
+  },
+  "39": {
+   "name": "Michael Tempesta"
+  },
+  "88": {
+   "name": "Unidentified",
+   "role": "Speaker answering the remote connection check (not determinable)"
+  },
+  "264": {
+   "name": "Unidentified",
+   "role": "SAU 6 Board member (not named)"
+  },
+  "261": {
+   "name": "Unidentified",
+   "role": "SAU 6 Board member (not named)"
+  },
+  "150": {
+   "name": "Richard Seaman"
+  },
+  "228": {
+   "name": "Unidentified",
+   "role": "Unclipped onset, speaker not determinable"
+  },
+  "16": {
+   "name": "Joshua Lambert",
+   "role": "SAU 6 Board member (Claremont)"
+  },
+  "35": {
+   "name": "Shannon Popescu",
+   "role": "SAU 6 Board member (Unity)"
+  },
+  "5": {
+   "name": "Unidentified",
+   "role": "Group recitation of the Pledge of Allegiance"
+  }
+ }
+}

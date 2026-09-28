@@ -1,0 +1,420 @@
+{
+ "Speaker 1": {
+  "name": "Unidentified",
+  "role": "Roll-call answers and pre-presentation crosstalk at the board table - the diarizer pooled several Claremont School Board members' one-word responses ('Here', 'Present') and the handout crosstalk into a single cluster; the individual voices are not separable"
+ },
+ "Speaker 2": {
+  "name": "Heather Whitney",
+  "role": "Chair, Claremont School Board - convenes this special meeting (segment 1), asks Nester to call the roll, sets the questioning order, makes and puts the motion, and recognizes every citizen speaker; Gary Merchant thanks 'Miss Whitney and rest of the school board members' at segment 630"
+ },
+ "Speaker 3": {
+  "name": "Ben Nester",
+  "role": "Director of Special Education, SAU 6 - calls the roll at the chair's request as the board's de facto secretary (segments 5-9) and gives the alternative-programming presentation the chair introduces as 'Mr. Ben Nester' at segment 25"
+ },
+ "Speaker 4": {
+  "name": "Frank Sprague",
+  "role": "Vice Chair, Claremont School Board - Nester defers to him for program history ('Frank Sprague can correct me with some of the dates', segment 39; 'the grant that that Frank just mentioned', segment 52), 'Frank. Frank might be able to take that' immediately precedes segment 162, and Hawkins ends with 'Thank you Frank' immediately before segment 258"
+ },
+ "Speaker 5": {
+  "name": "Frank Sprague",
+  "role": "Vice Chair, Claremont School Board - the same voice the diarizer also labels Speaker 4: segment 48 ends 'might have typically' and Speaker 4's segment 49 begins 'Have dropped out', one sentence split across the two clusters"
+ },
+ "Speaker 6": {
+  "name": "Ben Nester",
+  "role": "Director of Special Education, SAU 6 - his own correction of the state/district mix-up he made at segment 61, running into segment 63; the opening four words are an unidentified correction called out from the room"
+ },
+ "Speaker 7": {
+  "name": "Lee Malloy",
+  "role": "Special educator newly hired for Stevens High School and the proposed lead teacher for the alternative program - Nester names 'Lee Malloy' at segment 67 and calls her up at segment 81; she describes her Impact Academy and Granite State Independent Learning background"
+ },
+ "Speaker 8": {
+  "name": "Mike Koski",
+  "role": "Assistant Superintendent, SAU 6 - Nester hands off with 'Mr. Kosky did a little bit of research today. Do you mind sharing briefly' at segment 121, immediately before this voice reports the commercial off-campus lease research; Merchant thanks 'Mr. Kosky' at segment 630"
+ },
+ "Speaker 9": {
+  "name": "Jennifer Gallagher",
+  "role": "Claremont School Board member (elected 3/14/2023, one-year seat) - says 'I'll second' at segment 365 and the chair records it as 'Jennifer second' at segment 366; Sprague credits 'like Jen said, all the research' at segment 425"
+ },
+ "Speaker 10": {
+  "name": "Candace Crawford",
+  "role": "Claremont School Board member (appointed 7/19/2023) - the chair sets the question order 'go Jen, Candy and so forth' at segment 125 and Nester asks her 'Where was I, candy?' at segment 181; the meeting's most persistent questioner"
+ },
+ "Speaker 11": {
+  "name": "Whitney Skillen",
+  "role": "Claremont School Board member - the chair announces 'Whitney would like one more question, Doctor Herzog' at segment 441 immediately after this voice asks for one at segment 439; Hawkins calls it 'Whitney's point' at segment 403 and Derek says 'I do agree with Whitney' at segment 608"
+ },
+ "Speaker 12": {
+  "name": "Bonnie Miles",
+  "role": "Claremont School Board member; a realtor - Sprague asks 'is it a conflict of interest for Bonnie to be involved with that since she is a realtor?' at segment 686 and this voice answers for herself at segment 688; Merchant says 'I'm sure it's miss Miles will tell you' about commercial space at segment 632"
+ },
+ "Speaker 13": {
+  "name": "Arlene Hawkins",
+  "role": "Claremont School Board member (elected 3/14/2023) and SAU 6 Board chair - Sprague opens segment 258 'I'm going to kind of piggyback on what what Arlene just said' directly after this voice's run of questions at segments 247-257"
+ },
+ "Speaker 14": {
+  "name": "Unidentified",
+  "role": "Brief interjection, assent or backchannel - the diarizer pooled roughly 95 sub-three-second utterances ('Okay', 'Yeah', 'Thank you', 'Right') from several people at the board table and in the audience into one cluster; only fragments that grammatically complete a neighbouring sentence or perform a chair's function are reassigned"
+ },
+ "Speaker 15": {
+  "name": "David Putnam",
+  "role": "Ward 2 resident and Tech Center Visioning Committee participant - self-identifies 'David Putnam, Ward two' at segments 523 and 642; the chair recognizes 'Mr. Putnam' at segment 522 and Nester cites 'Mr. Putnam' at segment 502"
+ },
+ "Speaker 16": {
+  "name": "Alex Herzog",
+  "role": "Director, Sugar River Valley Regional Technical Center - the chair addresses him as 'Doctor Herzog' at segments 441 and 465, and he speaks 'as the director', citing his five years in the building and his arrival in 2018 (segments 468-486)"
+ },
+ "Speaker 17": {
+  "name": "John Lambert",
+  "role": "Substitute teacher at the technical center, former business owner, born in Claremont and living in Charlestown - self-identifies at segment 489; Nester addresses him as 'John' at segment 502"
+ },
+ "Speaker 18": {
+  "name": "Mimi Rhines",
+  "role": "Ward 1 resident; school counselor at Stevens High School entering her eighth year - self-identifies at segment 517, heard by the ASR as 'Mimi Ryan's ward one'"
+ },
+ "Speaker 19": {
+  "name": "Deb",
+  "role": "Ward 3 resident and former Stevens High School teacher - self-identifies 'I'm Deb' / 'Ward three' across segments 534-535; her surname is never spoken on the recording"
+ },
+ "Speaker 20": {
+  "name": "Andy",
+  "role": "Ward 3 resident and member of the Tech Center Visioning Committee - self-identifies 'Andy, your Ward three' at segment 619 with the surname garbled; the chair recognizes 'Okay, Andy' at segment 616 and thanks 'Andy' at segment 625. The corpus carries two unreconciled surnames for this Visioning Committee 'Andy' (Bernier 2/8/23, LaFrance 12/1/23); neither is established here"
+ },
+ "Speaker 21": {
+  "name": "Gary Merchant",
+  "role": "Ward 2 resident and sitting New Hampshire state representative for Claremont and Croydon - the chair recognizes 'Mr. Merchant' at segment 625, his own onset says 'Gary Merchant' at segment 627, and Koski answers 'I would say, Gary' at segment 636"
+ },
+ "Speaker 22": {
+  "name": "Scott Pope",
+  "role": "Ward 2 resident and retired technical-center teacher - the chair recognizes 'Mr. Pope' at segment 659 and he self-identifies 'Scott Pope' at segment 661; Nester cites 'Mr. Pope' as well versed in CTE funding at segment 63"
+ },
+ "__overrides__": {
+  "15": {
+   "name": "Heather Whitney",
+   "role": "Chair, Claremont School Board - recognizing a raised hand in the audience before the motion to extend citizens' comments"
+  },
+  "16": {
+   "name": "Unidentified",
+   "role": "Audience member asking that Tech Center Visioning Committee members be allowed more than three minutes - the chair has just said 'we have a question in the crowd' (segment 15), so this is not a voice at the board table; the speaker is not named"
+  },
+  "18": {
+   "name": "Unidentified",
+   "role": "Claremont School Board member moving to extend citizens' comments on agenda items to five minutes per person - the mover is never named on the record"
+  },
+  "20": {
+   "name": "Heather Whitney",
+   "role": "Chair, Claremont School Board - completes her own question, 'Do you have a set amount of time?'"
+  },
+  "23": {
+   "name": "Arlene Hawkins",
+   "role": "Claremont School Board member - the second on the motion to extend citizens' comments; the chair records it in the next breath as 'Second. Arlene' (segment 24), the same construction she uses for 'Jennifer second' at segment 366. Attribution rests entirely on that restatement"
+  },
+  "37": {
+   "name": "Unidentified",
+   "role": "Overlapping crosstalk in the room while the presentation is set up - several voices, none separable"
+  },
+  "76": {
+   "name": "Ben Nester",
+   "role": "Director of Special Education, SAU 6 - the middle of his own sentence, 'the bulk of the courses where we would target the core academic courses'"
+  },
+  "83": {
+   "name": "Lee Malloy",
+   "role": "Special educator newly hired for Stevens High School - the start of her own sentence, 'That's when I originally met' Nester"
+  },
+  "105": {
+   "name": "Ben Nester",
+   "role": "Director of Special Education, SAU 6 - completes his own sentence, 'We might have more for you'; Malloy's 'I figured' overlaps at the end of the segment"
+  },
+  "129": {
+   "name": "Candace Crawford",
+   "role": "Claremont School Board member - the address that opens her own first question, 'So, Ben.' (segment 130 continues 'One basic question I have is')"
+  },
+  "136": {
+   "name": "Candace Crawford",
+   "role": "Claremont School Board member - the middle of her own sentence, 'We all know that dropout is horrible in the district', split across segments 135-137"
+  },
+  "150": {
+   "name": "Unidentified",
+   "role": "Two words inside a fast exchange between Candace Crawford ('Where would they') and Ben Nester ('They') - the reading 'Where would they be?' / 'Here' and the reading 'Where would they be here' are equally supported, so the speaker is not established"
+  },
+  "165": {
+   "name": "Frank Sprague",
+   "role": "Vice Chair, Claremont School Board - completes his own sentence, 'They're just invisible kids'"
+  },
+  "169": {
+   "name": "Whitney Skillen",
+   "role": "Claremont School Board member - the start of her own question, 'Would you agree that the criteria you described...'"
+  },
+  "194": {
+   "name": "Bonnie Miles",
+   "role": "Claremont School Board member - her own turn opening, 'The first question I'd like to ask, I didn't write down this lady's name'; she repeats 'I just didn't get that' at segment 199"
+  },
+  "220": {
+   "name": "Unidentified",
+   "role": "A single word, 'Two', answering Skillen's question on returning out-of-district students - Skillen, the chair and Nester all echo it in the next three segments and the answering voice is not separable"
+  },
+  "246": {
+   "name": "Arlene Hawkins",
+   "role": "Claremont School Board member - the start of her own sentence, 'My question is less about location'"
+  },
+  "309": {
+   "name": "Heather Whitney",
+   "role": "Chair, Claremont School Board - the middle of her own summary, 'Supports will be available from the high school in the district'"
+  },
+  "385": {
+   "name": "Frank Sprague",
+   "role": "Vice Chair, Claremont School Board - completes his own sentence, 'has to be somewhere else in the 24, 25 school year'"
+  },
+  "389": {
+   "name": "Heather Whitney",
+   "role": "Chair, Claremont School Board - a filler inside her own turn, between 'No, but I mean' and 'I guess that is something for us to consider'"
+  },
+  "409": {
+   "name": "Candace Crawford",
+   "role": "Claremont School Board member - completes her own remark, 'I think it mixes it'"
+  },
+  "438": {
+   "name": "Whitney Skillen",
+   "role": "Claremont School Board member - the start of her own sentence, 'I have one more question for Ben'"
+  },
+  "448": {
+   "name": "Whitney Skillen",
+   "role": "Claremont School Board member - completes her own sentence, 'Whenever Ben's ready'"
+  },
+  "454": {
+   "name": "Whitney Skillen",
+   "role": "Claremont School Board member - continues her own question, '11 months later, 12 months later'"
+  },
+  "459": {
+   "name": "Whitney Skillen",
+   "role": "Claremont School Board member - completes her own reply to Nester, 'to be set out, right?'"
+  },
+  "466": {
+   "name": "Heather Whitney",
+   "role": "Chair, Claremont School Board - a repetition inside her own turn, 'I thought I thought... I apologize to him'"
+  },
+  "473": {
+   "name": "Alex Herzog",
+   "role": "Director, Sugar River Valley Regional Technical Center - completes his own sentence, 'there's no guarantees in regards to that'"
+  },
+  "476": {
+   "name": "Unidentified",
+   "role": "A one-second interjection inside Alex Herzog's comment, right after he says 'Frank, I know your experiences are' - the voice is in the assistant superintendent's cluster but the content fits neither him nor Herzog cleanly"
+  },
+  "487": {
+   "name": "Alex Herzog",
+   "role": "Director, Sugar River Valley Regional Technical Center - completes his own sentence, 'that's what I have to say for now'; the chair's 'Thank you, thank you' overlaps at the end of the segment"
+  },
+  "506": {
+   "name": "John Lambert",
+   "role": "Substitute teacher at the technical center - the start of his own sentence, 'I was just concerned about the population'"
+  },
+  "514": {
+   "name": "Heather Whitney",
+   "role": "Chair, Claremont School Board - the start of her own recognition of the next citizen speaker"
+  },
+  "521": {
+   "name": "Heather Whitney",
+   "role": "Chair, Claremont School Board - thanking Mimi Rhines as she finishes"
+  },
+  "522": {
+   "name": "Heather Whitney",
+   "role": "Chair, Claremont School Board - recognizing the next citizen speaker, 'Mr. Putnam'; recognizing speakers is the chair's function throughout this meeting and this is the same act as her thanks at segment 521"
+  },
+  "530": {
+   "name": "Heather Whitney",
+   "role": "Chair, Claremont School Board - thanking David Putnam as he finishes"
+  },
+  "532": {
+   "name": "Deb",
+   "role": "Ward 3 resident and former Stevens High School teacher - her self-identification, 'Hi. I'm. I'm Deb. Ward three.', clipped across four sub-two-second fragments in four different clusters before her own cluster starts at segment 536"
+  },
+  "533": {
+   "name": "Deb",
+   "role": "Ward 3 resident and former Stevens High School teacher - her self-identification, 'Hi. I'm. I'm Deb. Ward three.', clipped across four sub-two-second fragments in four different clusters before her own cluster starts at segment 536"
+  },
+  "534": {
+   "name": "Deb",
+   "role": "Ward 3 resident and former Stevens High School teacher - her self-identification, 'Hi. I'm. I'm Deb. Ward three.', clipped across four sub-two-second fragments in four different clusters before her own cluster starts at segment 536"
+  },
+  "535": {
+   "name": "Deb",
+   "role": "Ward 3 resident and former Stevens High School teacher - her self-identification, 'Hi. I'm. I'm Deb. Ward three.', clipped across four sub-two-second fragments in four different clusters before her own cluster starts at segment 536"
+  },
+  "547": {
+   "name": "Frank Sprague",
+   "role": "Vice Chair, Claremont School Board - completes his own question, 'That Scott? Do you remember that cap?'"
+  },
+  "549": {
+   "name": "Frank Sprague",
+   "role": "Vice Chair, Claremont School Board - inside his own turn, between 'It was a cap program' and 'Fall after that, the owls was started'"
+  },
+  "551": {
+   "name": "Frank Sprague",
+   "role": "Vice Chair, Claremont School Board - a filler inside his own turn, between two of his own segments"
+  },
+  "553": {
+   "name": "Frank Sprague",
+   "role": "Vice Chair, Claremont School Board - repeats his own 'After that' from the previous segment"
+  },
+  "575": {
+   "name": "Derek",
+   "role": "Ward 3 resident and member of the Tech Center Visioning Committee - self-identifies 'Good evening. Derek from Ward three' at segment 575 and the chair thanks 'Derek' at segments 611 and 613; his whole comment was clustered with Alex Herzog's by the diarizer. His surname is never spoken"
+  },
+  "576": {
+   "name": "Derek",
+   "role": "Ward 3 resident and member of the Tech Center Visioning Committee - self-identifies 'Good evening. Derek from Ward three' at segment 575 and the chair thanks 'Derek' at segments 611 and 613; his whole comment was clustered with Alex Herzog's by the diarizer. His surname is never spoken"
+  },
+  "577": {
+   "name": "Derek",
+   "role": "Ward 3 resident and member of the Tech Center Visioning Committee - self-identifies 'Good evening. Derek from Ward three' at segment 575 and the chair thanks 'Derek' at segments 611 and 613; his whole comment was clustered with Alex Herzog's by the diarizer. His surname is never spoken"
+  },
+  "578": {
+   "name": "Derek",
+   "role": "Ward 3 resident and member of the Tech Center Visioning Committee - self-identifies 'Good evening. Derek from Ward three' at segment 575 and the chair thanks 'Derek' at segments 611 and 613; his whole comment was clustered with Alex Herzog's by the diarizer. His surname is never spoken"
+  },
+  "580": {
+   "name": "Derek",
+   "role": "Ward 3 resident and member of the Tech Center Visioning Committee - self-identifies 'Good evening. Derek from Ward three' at segment 575 and the chair thanks 'Derek' at segments 611 and 613; his whole comment was clustered with Alex Herzog's by the diarizer. His surname is never spoken"
+  },
+  "582": {
+   "name": "Derek",
+   "role": "Ward 3 resident and member of the Tech Center Visioning Committee - self-identifies 'Good evening. Derek from Ward three' at segment 575 and the chair thanks 'Derek' at segments 611 and 613; his whole comment was clustered with Alex Herzog's by the diarizer. His surname is never spoken"
+  },
+  "584": {
+   "name": "Derek",
+   "role": "Ward 3 resident and member of the Tech Center Visioning Committee - self-identifies 'Good evening. Derek from Ward three' at segment 575 and the chair thanks 'Derek' at segments 611 and 613; his whole comment was clustered with Alex Herzog's by the diarizer. His surname is never spoken"
+  },
+  "589": {
+   "name": "Derek",
+   "role": "Ward 3 resident and member of the Tech Center Visioning Committee - self-identifies 'Good evening. Derek from Ward three' at segment 575 and the chair thanks 'Derek' at segments 611 and 613; his whole comment was clustered with Alex Herzog's by the diarizer. His surname is never spoken"
+  },
+  "591": {
+   "name": "Derek",
+   "role": "Ward 3 resident and member of the Tech Center Visioning Committee - self-identifies 'Good evening. Derek from Ward three' at segment 575 and the chair thanks 'Derek' at segments 611 and 613; his whole comment was clustered with Alex Herzog's by the diarizer. His surname is never spoken"
+  },
+  "592": {
+   "name": "Derek",
+   "role": "Ward 3 resident and member of the Tech Center Visioning Committee - self-identifies 'Good evening. Derek from Ward three' at segment 575 and the chair thanks 'Derek' at segments 611 and 613; his whole comment was clustered with Alex Herzog's by the diarizer. His surname is never spoken"
+  },
+  "598": {
+   "name": "Derek",
+   "role": "Ward 3 resident and member of the Tech Center Visioning Committee - self-identifies 'Good evening. Derek from Ward three' at segment 575 and the chair thanks 'Derek' at segments 611 and 613; his whole comment was clustered with Alex Herzog's by the diarizer. His surname is never spoken"
+  },
+  "600": {
+   "name": "Derek",
+   "role": "Ward 3 resident and member of the Tech Center Visioning Committee - self-identifies 'Good evening. Derek from Ward three' at segment 575 and the chair thanks 'Derek' at segments 611 and 613; his whole comment was clustered with Alex Herzog's by the diarizer. His surname is never spoken"
+  },
+  "602": {
+   "name": "Derek",
+   "role": "Ward 3 resident and member of the Tech Center Visioning Committee - self-identifies 'Good evening. Derek from Ward three' at segment 575 and the chair thanks 'Derek' at segments 611 and 613; his whole comment was clustered with Alex Herzog's by the diarizer. His surname is never spoken"
+  },
+  "603": {
+   "name": "Derek",
+   "role": "Ward 3 resident and member of the Tech Center Visioning Committee - self-identifies 'Good evening. Derek from Ward three' at segment 575 and the chair thanks 'Derek' at segments 611 and 613; his whole comment was clustered with Alex Herzog's by the diarizer. His surname is never spoken"
+  },
+  "604": {
+   "name": "Derek",
+   "role": "Ward 3 resident and member of the Tech Center Visioning Committee - self-identifies 'Good evening. Derek from Ward three' at segment 575 and the chair thanks 'Derek' at segments 611 and 613; his whole comment was clustered with Alex Herzog's by the diarizer. His surname is never spoken"
+  },
+  "605": {
+   "name": "Derek",
+   "role": "Ward 3 resident and member of the Tech Center Visioning Committee - self-identifies 'Good evening. Derek from Ward three' at segment 575 and the chair thanks 'Derek' at segments 611 and 613; his whole comment was clustered with Alex Herzog's by the diarizer. His surname is never spoken"
+  },
+  "606": {
+   "name": "Derek",
+   "role": "Ward 3 resident and member of the Tech Center Visioning Committee - self-identifies 'Good evening. Derek from Ward three' at segment 575 and the chair thanks 'Derek' at segments 611 and 613; his whole comment was clustered with Alex Herzog's by the diarizer. His surname is never spoken"
+  },
+  "607": {
+   "name": "Derek",
+   "role": "Ward 3 resident and member of the Tech Center Visioning Committee - self-identifies 'Good evening. Derek from Ward three' at segment 575 and the chair thanks 'Derek' at segments 611 and 613; his whole comment was clustered with Alex Herzog's by the diarizer. His surname is never spoken"
+  },
+  "608": {
+   "name": "Derek",
+   "role": "Ward 3 resident and member of the Tech Center Visioning Committee - self-identifies 'Good evening. Derek from Ward three' at segment 575 and the chair thanks 'Derek' at segments 611 and 613; his whole comment was clustered with Alex Herzog's by the diarizer. His surname is never spoken"
+  },
+  "609": {
+   "name": "Derek",
+   "role": "Ward 3 resident and member of the Tech Center Visioning Committee - self-identifies 'Good evening. Derek from Ward three' at segment 575 and the chair thanks 'Derek' at segments 611 and 613; his whole comment was clustered with Alex Herzog's by the diarizer. His surname is never spoken"
+  },
+  "610": {
+   "name": "Derek",
+   "role": "Ward 3 resident and member of the Tech Center Visioning Committee - self-identifies 'Good evening. Derek from Ward three' at segment 575 and the chair thanks 'Derek' at segments 611 and 613; his whole comment was clustered with Alex Herzog's by the diarizer. His surname is never spoken"
+  },
+  "612": {
+   "name": "Derek",
+   "role": "Ward 3 resident and member of the Tech Center Visioning Committee - self-identifies 'Good evening. Derek from Ward three' at segment 575 and the chair thanks 'Derek' at segments 611 and 613; his whole comment was clustered with Alex Herzog's by the diarizer. His surname is never spoken"
+  },
+  "611": {
+   "name": "Heather Whitney",
+   "role": "Chair, Claremont School Board - thanking Derek as he finishes"
+  },
+  "613": {
+   "name": "Heather Whitney",
+   "role": "Chair, Claremont School Board - thanking Derek again (ASR 'Dirk'); Derek's own 'Anyway, thank you' overlaps at the head of the segment"
+  },
+  "616": {
+   "name": "Heather Whitney",
+   "role": "Chair, Claremont School Board - recognizing the next citizen speaker, 'Okay, Andy'"
+  },
+  "625": {
+   "name": "Heather Whitney",
+   "role": "Chair, Claremont School Board - thanking Andy and calling 'Mr. Merchant' to the podium"
+  },
+  "627": {
+   "name": "Gary Merchant",
+   "role": "Ward 2 resident and New Hampshire state representative - his own name, spoken at the head of his comment; segment 628 continues 'Ward two, in Claremont in Croydon'"
+  },
+  "641": {
+   "name": "Heather Whitney",
+   "role": "Chair, Claremont School Board - completes her own sentence, 'I'll get back to you'"
+  },
+  "644": {
+   "name": "Heather Whitney",
+   "role": "Chair, Claremont School Board - thanking David Putnam after his second comment"
+  },
+  "646": {
+   "name": "Lee Malloy",
+   "role": "Special educator newly hired for Stevens High School - completes her own sentence, 'I do have a name in mind'"
+  },
+  "657": {
+   "name": "Frank Sprague",
+   "role": "Vice Chair, Claremont School Board - completes his own sentence, 'We got one more that hasn't spoken yet, Mr. Pope'"
+  },
+  "660": {
+   "name": "Scott Pope",
+   "role": "Ward 2 resident and retired technical-center teacher - the start of his own sentence, 'Wasn't going to speak'"
+  },
+  "668": {
+   "name": "Scott Pope",
+   "role": "Ward 2 resident and retired technical-center teacher - a fragment inside his own sentence, 'At one point, I believe it was in a separate building'"
+  },
+  "672": {
+   "name": "Heather Whitney",
+   "role": "Chair, Claremont School Board - thanking Scott Pope as he finishes"
+  },
+  "676": {
+   "name": "Heather Whitney",
+   "role": "Chair, Claremont School Board - the middle of her own re-reading of the motion, 'temporarily housed at the Sugar River Valley Technical Center'"
+  },
+  "685": {
+   "name": "Frank Sprague",
+   "role": "Vice Chair, Claremont School Board - completes his own sentence, 'Can I ask a clarifying question on that?'"
+  },
+  "689": {
+   "name": "Bonnie Miles",
+   "role": "Claremont School Board member - completes her own sentence, 'That's what I will do'"
+  },
+  "691": {
+   "name": "Heather Whitney",
+   "role": "Chair, Claremont School Board - completes her own question, 'So [are you] satisfied with the...'"
+  },
+  "697": {
+   "name": "Heather Whitney",
+   "role": "Chair, Claremont School Board - completes her own sentence, 'I'll just give it to him'"
+  },
+  "701": {
+   "name": "Heather Whitney",
+   "role": "Chair, Claremont School Board - declaring 'No objection. Adjourned.'; a board member's 'No' overlaps at the head of the segment"
+  }
+ }
+}

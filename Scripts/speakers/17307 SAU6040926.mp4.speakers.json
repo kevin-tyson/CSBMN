@@ -1,0 +1,280 @@
+{
+  "Speaker 1": {
+    "name": "Matt Angell",
+    "role": "Interim Business Administrator, SAU 6 (cluster also carries the chair's opening business, overridden below)"
+  },
+  "Speaker 2": {
+    "name": "Unidentified",
+    "role": "Diarizer catch-all cluster — brief crosstalk and clipped sentence onsets/tails from several voices; the speaker of this fragment is not identifiable"
+  },
+  "Speaker 3": {
+    "name": "Candace Crawford",
+    "role": "Chair, Claremont School Board; SAU 6 Board Member — elected SAU 6 Vice Chair during this meeting"
+  },
+  "Speaker 4": {
+    "name": "Heather Whitney",
+    "role": "School Board Member, Claremont; SAU 6 Board Member"
+  },
+  "Speaker 5": {
+    "name": "Kerry Kennedy",
+    "role": "Interim Superintendent, SAU 6"
+  },
+  "Speaker 6": {
+    "name": "Rocco Ruggeri",
+    "role": "SAU 6 Board Chair (presiding); Unity-side SAU 6 Board Member"
+  },
+  "Speaker 7": {
+    "name": "Unidentified",
+    "role": "Unity-side SAU 6 board member (voice not identified) — speaks for the Unity board ('as a small school', 'we pay a percentage', 'our IT person', 'the rest of us missing'); leading candidate is Shannon Popescu, but no roll-call, self-ID or chair's recognition anchors this cluster"
+  },
+  "Speaker 8": {
+    "name": "Jason Bonneville",
+    "role": "Director of Informational Services and Instructional Technology, SAU 6 (introduced by the interim superintendent at 41:43; cluster also carries an unidentified male board member earlier in the meeting, overridden below)"
+  },
+  "Speaker 9": {
+    "name": "Brian Rapp",
+    "role": "School Board Member, Claremont; SAU 6 Board Member"
+  },
+  "__overrides__": {
+    "0": {
+      "name": "Rocco Ruggeri",
+      "role": "SAU 6 Board Chair (presiding) — calls the meeting to order"
+    },
+    "1": {
+      "name": "Multiple",
+      "role": "Pledge of Allegiance — group recitation captured as one diarized voice (led by the chair)"
+    },
+    "2": {
+      "name": "Rocco Ruggeri",
+      "role": "SAU 6 Board Chair (presiding) — asks the secretary to call the roll"
+    },
+    "3": {
+      "name": "Unidentified",
+      "role": "Roll-call response ('Here.') — the name called immediately before it was not transcribed"
+    },
+    "4": {
+      "name": "Unidentified",
+      "role": "Roll-call response ('Yep.') — the name called immediately before it was not transcribed"
+    },
+    "5": {
+      "name": "Unidentified",
+      "role": "SAU 6 board's recording secretary — reads the roll at the chair's request; her name is never spoken on this recording (the clerk who calls the roll at other SAU 6 meetings is Noelle Kronberg). Members' responses are absorbed into her segment"
+    },
+    "6": {
+      "name": "Unidentified",
+      "role": "Roll-call response ('Here.') — the name called immediately before it was not transcribed"
+    },
+    "7": {
+      "name": "Unidentified",
+      "role": "SAU 6 board's recording secretary — continues the roll call; members' responses are absorbed into her segment. 'Lauren' = Loren Howard; 'Fell in love with it' is an untranscribable name/response between Howard and Rapp"
+    },
+    "8": {
+      "name": "Rocco Ruggeri",
+      "role": "SAU 6 Board Chair (presiding) — declares a quorum and introduces the new board members"
+    },
+    "9": {
+      "name": "Rocco Ruggeri",
+      "role": "SAU 6 Board Chair (presiding) — opens the reorganization; thanks Arlene Hawkins as prior chair and states he became chair 'by default'"
+    },
+    "10": {
+      "name": "Rocco Ruggeri",
+      "role": "SAU 6 Board Chair (presiding) — calls for nominations for board chair"
+    },
+    "12": {
+      "name": "Rocco Ruggeri",
+      "role": "SAU 6 Board Chair (presiding)"
+    },
+    "13": {
+      "name": "Unidentified",
+      "role": "SAU 6 board member — seconds the nomination of Rocco Ruggeri as board chair (fragment; speaker not identifiable)"
+    },
+    "14": {
+      "name": "Rocco Ruggeri",
+      "role": "SAU 6 Board Chair (presiding)"
+    },
+    "15": {
+      "name": "Rocco Ruggeri",
+      "role": "SAU 6 Board Chair (presiding) — puts his own re-election to a voice vote; no count is recorded"
+    },
+    "17": {
+      "name": "Atonya Hart",
+      "role": "SAU 6 Board Member, Unity — declines the nomination for vice chair (nominated by Whitney as 'Tanya'; answers to 'Hart' in the roll call). Voice diarized into the interim superintendent's cluster"
+    },
+    "18": {
+      "name": "Atonya Hart",
+      "role": "SAU 6 Board Member, Unity — declines the nomination for vice chair ('It's not personal. I just got lot going on.'). Voice diarized into the interim superintendent's cluster"
+    },
+    "19": {
+      "name": "Rocco Ruggeri",
+      "role": "SAU 6 Board Chair (presiding) — nominates Candace Crawford for vice chair after the first nominee declines"
+    },
+    "21": {
+      "name": "Rocco Ruggeri",
+      "role": "SAU 6 Board Chair (presiding)"
+    },
+    "22": {
+      "name": "Unidentified",
+      "role": "SAU 6 board member — seconds the nomination of Candace Crawford as vice chair (single word; diarized into the cluster that carries both Atonya Hart and the interim superintendent)"
+    },
+    "24": {
+      "name": "Rocco Ruggeri",
+      "role": "SAU 6 Board Chair (presiding) — puts the vice-chair nomination to a voice vote; no count is recorded"
+    },
+    "25": {
+      "name": "Rocco Ruggeri",
+      "role": "SAU 6 Board Chair (presiding)"
+    },
+    "26": {
+      "name": "Rocco Ruggeri",
+      "role": "SAU 6 Board Chair (presiding)"
+    },
+    "27": {
+      "name": "Rocco Ruggeri",
+      "role": "SAU 6 Board Chair (presiding)"
+    },
+    "28": {
+      "name": "Unidentified",
+      "role": "SAU 6 board member(s) — motion and second on the agenda, captured as one fragment; speakers not identifiable"
+    },
+    "29": {
+      "name": "Rocco Ruggeri",
+      "role": "SAU 6 Board Chair (presiding)"
+    },
+    "30": {
+      "name": "Unidentified",
+      "role": "Voice-vote response ('Aye.') on the motion to accept the agenda"
+    },
+    "31": {
+      "name": "Rocco Ruggeri",
+      "role": "SAU 6 Board Chair (presiding) — notes no minutes and no manifests were provided"
+    },
+    "33": {
+      "name": "Rocco Ruggeri",
+      "role": "SAU 6 Board Chair (presiding)"
+    },
+    "34": {
+      "name": "Unidentified",
+      "role": "SAU 6 board's recording secretary — reports that minutes still needing approval date from meetings held while she was out; her name is never spoken on this recording"
+    },
+    "35": {
+      "name": "Rocco Ruggeri",
+      "role": "SAU 6 Board Chair (presiding)"
+    },
+    "36": {
+      "name": "Unidentified",
+      "role": "SAU 6 board's recording secretary — follow-up question about the outstanding minutes; name never spoken on this recording"
+    },
+    "37": {
+      "name": "Rocco Ruggeri",
+      "role": "SAU 6 Board Chair (presiding) — tables the minutes, closes citizens' comments and calls the finance update; the last sentence ('Okay, so, now these are the numbers from... I pulled up unity.') is Matt Angell beginning his report inside the chair's segment and cannot be split out"
+    },
+    "86": {
+      "name": "Kerry Kennedy",
+      "role": "Interim Superintendent, SAU 6 — sentence onset ('So I've been…') clipped into the catch-all cluster and continued in the next segment"
+    },
+    "167": {
+      "name": "Unidentified",
+      "role": "SAU 6 board member (male) — onset of 'Is this within budget?' clipped into the chair's cluster; same voice as the unidentified member in the technology director's cluster"
+    },
+    "168": {
+      "name": "Unidentified",
+      "role": "SAU 6 board member (male) — voice not identifiable; the diarizer merged it with the technology director's cluster. Candidates: William Madden, Loren Howard, Michael Petrin"
+    },
+    "170": {
+      "name": "Unidentified",
+      "role": "SAU 6 board member (male) — voice not identifiable; the diarizer merged it with the technology director's cluster. Candidates: William Madden, Loren Howard, Michael Petrin"
+    },
+    "172": {
+      "name": "Heather Whitney",
+      "role": "School Board Member, Claremont; SAU 6 Board Member — sentence continuation ('…as well') clipped into the catch-all cluster"
+    },
+    "180": {
+      "name": "Unidentified",
+      "role": "SAU 6 board member (male) — single-word fragment during the contract-page shuffle; same cluster as the unidentified member above"
+    },
+    "194": {
+      "name": "Unidentified",
+      "role": "SAU 6 board member (male) — voice not identifiable; the diarizer merged it with the technology director's cluster. Candidates: William Madden, Loren Howard, Michael Petrin"
+    },
+    "201": {
+      "name": "Candace Crawford",
+      "role": "Chair, Claremont School Board; SAU 6 Vice Chair — sentence continuation ('How about the… one… for number four?') clipped into the interim superintendent's cluster"
+    },
+    "218": {
+      "name": "Shannon Popescu",
+      "role": "SAU 6 Board Member, Unity — volunteers to review the sealed SAU 6 nonpublic minutes with Whitney; the chair's 'Thank you. Shannon.' is absorbed at the end of this same segment and cannot be split out"
+    },
+    "224": {
+      "name": "Unidentified",
+      "role": "SAU 6 board member (male) — voice not identifiable; the diarizer merged it with the technology director's cluster. Candidates: William Madden, Loren Howard, Michael Petrin"
+    },
+    "229": {
+      "name": "Unidentified",
+      "role": "SAU 6 board member (male) — voice not identifiable; same cluster as above"
+    },
+    "231": {
+      "name": "Unidentified",
+      "role": "SAU 6 board member (male) — voice not identifiable; same cluster as above"
+    },
+    "247": {
+      "name": "Jason Bonneville",
+      "role": "Director of Informational Services and Instructional Technology, SAU 6 — sentence onset ('So from an…') clipped into the business administrator's cluster"
+    },
+    "257": {
+      "name": "Jason Bonneville",
+      "role": "Director of Informational Services and Instructional Technology, SAU 6 — single-word mid-sentence fragment ('There's been a lot of conversations') clipped into the business administrator's cluster"
+    },
+    "283": {
+      "name": "Unidentified",
+      "role": "Unity-side SAU 6 board member — sentence onset ('All of our…') clipped into the catch-all cluster; same voice as the Unity-side cluster"
+    },
+    "285": {
+      "name": "Unidentified",
+      "role": "Unity-side SAU 6 board member — sentence tail ('…for you.') clipped into the catch-all cluster; same voice as the Unity-side cluster"
+    },
+    "294": {
+      "name": "Rocco Ruggeri",
+      "role": "SAU 6 Board Chair (presiding) — recognition of Whitney ('Go ahead. Heather.') clipped into the catch-all cluster"
+    },
+    "299": {
+      "name": "Heather Whitney",
+      "role": "School Board Member, Claremont; SAU 6 Board Member — mid-sentence fragment ('Unless I — mean — unless I'm wrong…') clipped into the technology director's cluster"
+    },
+    "300": {
+      "name": "Heather Whitney",
+      "role": "School Board Member, Claremont; SAU 6 Board Member — mid-sentence fragment ('Unless I — mean — unless I'm wrong…') clipped into the Unity-side cluster"
+    },
+    "319": {
+      "name": "Jason Bonneville",
+      "role": "Director of Informational Services and Instructional Technology, SAU 6 — reply to the chair's thanks, clipped into the catch-all cluster"
+    },
+    "321": {
+      "name": "Jason Bonneville",
+      "role": "Director of Informational Services and Instructional Technology, SAU 6 — sentence onset ('So here's my server rack') clipped into the catch-all cluster"
+    },
+    "347": {
+      "name": "Kerry Kennedy",
+      "role": "Interim Superintendent, SAU 6 — sentence onset ('Yep. So… shifting gears') clipped into the catch-all cluster"
+    },
+    "349": {
+      "name": "Unidentified",
+      "role": "SAU 6 staff — answers on student-services data access ('They have all their own access stuff. Vanessa's [NHSEIS] okay.'); reads as Paige Jarvis, Director of Student Services, introduced earlier in the meeting, but nothing on the recording names the speaker"
+    },
+    "369": {
+      "name": "Rocco Ruggeri",
+      "role": "SAU 6 Board Chair (presiding) — sentence onset ('Was that part… that none of that came through the board?') clipped into the catch-all cluster"
+    },
+    "397": {
+      "name": "Rocco Ruggeri",
+      "role": "SAU 6 Board Chair (presiding) — recognizes Whitney ('Go ahead.') before she speaks; clipped into the catch-all cluster"
+    },
+    "404": {
+      "name": "Multiple",
+      "role": "Voice vote on the motion to adjourn (chorus 'aye')"
+    },
+    "406": {
+      "name": "Unidentified",
+      "role": "Post-adjournment crosstalk — the two words of this segment are 28 seconds apart and are not one utterance"
+    }
+  }
+}

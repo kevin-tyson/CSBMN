@@ -1,0 +1,860 @@
+{
+ "Speaker 1": {
+  "name": "Candace Crawford",
+  "role": "School Board Chair (presiding) - this cluster also absorbs parts of the opening roll call and several sentence continuations by others; see per-segment reassignments"
+ },
+ "Speaker 2": {
+  "name": "Candace Crawford",
+  "role": "School Board Chair (presiding) - short-utterance cluster ('thank you', acknowledgements) that is mostly the chair's; other voices reassigned per segment"
+ },
+ "Speaker 3": {
+  "name": "Kerry Kennedy",
+  "role": "Interim Superintendent, SAU 6 (through 6/30/2026) - merged cluster: also carries the clerk's opening roll call and consent-agenda remarks; see per-segment reassignments"
+ },
+ "Speaker 4": {
+  "name": "William 'Bill' Madden",
+  "role": "School Board Member (Capital Improvement Chair; curriculum subcommittee) - merged male cluster: also carries Principal Herrington's metal-detector answers and Vice Chair Petrin's clarification; see per-segment reassignments"
+ },
+ "Speaker 5": {
+  "name": "Lily Clark",
+  "role": "Student School Board Representative, Stevens High School, Class of 2026 (named by a board member as 'Lily'; surname from earlier meetings in this corpus, where the 4/2/25 dialogue spells it 'Lilly Clark')"
+ },
+ "Speaker 6": {
+  "name": "Matt Angell",
+  "role": "Interim Business Administrator, SAU 6 (ASR renders the surname 'Angel') - merged male cluster: also carries the Ward 2 lunch-account commenter and Principal Herrington fragments; see per-segment reassignments"
+ },
+ "Speaker 7": {
+  "name": "Rebecca",
+  "role": "Public commenter, Ward 1 (as announced); parent, Claremont Middle School teacher and SREA building representative at CMS - surname not stated on this recording. She also speaks a second time from the audience later in the meeting. NOTE: a 'Rebecca Menard, Ward 3' appears in earlier meetings in this corpus; the ward differs, so no identification is made here"
+ },
+ "Speaker 8": {
+  "name": "Rod Beaton",
+  "role": "Public commenter, Ward 2 (self-identified - the self-ID is split across four diarized clusters: 'Rod Beaton. Ward two. Rebecca just covered a lot of what I was going to say') - cluster also catches Principal Herrington fragments and Dr. Broadrick's onset"
+ },
+ "Speaker 9": {
+  "name": "Lincoln Anderson",
+  "role": "Student, Claremont Middle School; MathCounts team member (self-identified) - cluster also catches a few clipped sentence continuations by others"
+ },
+ "Speaker 10": {
+  "name": "Unidentified",
+  "role": "Claremont Middle School math teacher and MathCounts/Prodigy coach - one of Jennifer Gannon or Laura McCombs, both introduced by the interim superintendent immediately before she speaks; the recording does not distinguish which"
+ },
+ "Speaker 11": {
+  "name": "Unidentified",
+  "role": "Diarizer catch-all cluster - brief interjections, assents and clipped sentence continuations from several men at the board table; the identifiable turns in it are reassigned per segment (Dr. Broadrick's report, Mr. Madden's finance questions, Mr. Angell, Mr. Lavalette, Mr. Howard and the chair)"
+ },
+ "Speaker 12": {
+  "name": "Heather Whitney",
+  "role": "School Board Member (Finance Subcommittee; School Reconfiguration Exploratory Committee; SREA negotiations representative)"
+ },
+ "Speaker 13": {
+  "name": "Stephen Walker",
+  "role": "Public commenter, Ward 2 - taxpayer/parent seeking a school-lunch-account refund; speaks three times. Self-ID heard as 'Stephen Ward two' (surname swallowed); the chair addresses him as 'Mister...' and recognizes him as 'Mr. Walker' - surname taken from that direct address, ASR confidence 0.88"
+ },
+ "Speaker 14": {
+  "name": "Tim Broadrick",
+  "role": "Incoming Superintendent, SAU 6 - selected but not yet in office; attends as a guest and starts 7/1/2026 (ASR renders the name 'Broderick'/'Padraig') - second cluster for the same voice; the diarizer split him"
+ },
+ "Speaker 15": {
+  "name": "Gary Merchant",
+  "role": "Public commenter, Ward 2; New Hampshire State Representative (self-identified)"
+ },
+ "Speaker 16": {
+  "name": "Noelle Kronberg",
+  "role": "School Board Clerk (calls the roll, keeps the minutes)"
+ },
+ "Speaker 17": {
+  "name": "Don Lavalette",
+  "role": "School Board Member (School Reconfiguration Exploratory Committee; superintendent-evaluation subcommittee)"
+ },
+ "Speaker 18": {
+  "name": "Loren Howard",
+  "role": "School Board Member (Policy Subcommittee Chair; ad hoc communications)"
+ },
+ "Speaker 19": {
+  "name": "Unidentified",
+  "role": "Single unattributed utterance from the board table on return from nonpublic session ('Who needs to fix that?')"
+ },
+ "Speaker 20": {
+  "name": "Candace Crawford",
+  "role": "School Board Chair (presiding) - single-segment cluster ('Matt you can', handing the floor to the business administrator)"
+ },
+ "__overrides__": {
+  "2": {
+   "name": "Multiple",
+   "role": "Group recitation of the Pledge of Allegiance (captured as one voice)"
+  },
+  "5": {
+   "name": "Tim Broadrick",
+   "role": "Incoming Superintendent, SAU 6 - selected but not yet in office; attends as a guest and starts 7/1/2026 (ASR renders the name 'Broderick'/'Padraig')"
+  },
+  "7": {
+   "name": "Noelle Kronberg",
+   "role": "School Board Clerk (calls the roll, keeps the minutes)"
+  },
+  "9": {
+   "name": "Noelle Kronberg",
+   "role": "School Board Clerk (calls the roll, keeps the minutes)"
+  },
+  "11": {
+   "name": "Noelle Kronberg",
+   "role": "School Board Clerk (calls the roll, keeps the minutes)"
+  },
+  "16": {
+   "name": "Lily Clark",
+   "role": "Student School Board Representative, Stevens High School, Class of 2026 (named by a board member as 'Lily'; surname from earlier meetings in this corpus, where the 4/2/25 dialogue spells it 'Lilly Clark')"
+  },
+  "17": {
+   "name": "Lily Clark",
+   "role": "Student School Board Representative, Stevens High School, Class of 2026 (named by a board member as 'Lily'; surname from earlier meetings in this corpus, where the 4/2/25 dialogue spells it 'Lilly Clark')"
+  },
+  "23": {
+   "name": "Unidentified",
+   "role": "Brief reaction from the board table (voice not identifiable)"
+  },
+  "35": {
+   "name": "Lily Clark",
+   "role": "Student School Board Representative, Stevens High School, Class of 2026 (named by a board member as 'Lily'; surname from earlier meetings in this corpus, where the 4/2/25 dialogue spells it 'Lilly Clark')"
+  },
+  "40": {
+   "name": "Stephen Walker",
+   "role": "Public commenter, Ward 2 - taxpayer/parent seeking a school-lunch-account refund; speaks three times. Self-ID heard as 'Stephen Ward two' (surname swallowed); the chair addresses him as 'Mister...' and recognizes him as 'Mr. Walker' - surname taken from that direct address, ASR confidence 0.88"
+  },
+  "41": {
+   "name": "Stephen Walker",
+   "role": "Public commenter, Ward 2 - taxpayer/parent seeking a school-lunch-account refund; speaks three times. Self-ID heard as 'Stephen Ward two' (surname swallowed); the chair addresses him as 'Mister...' and recognizes him as 'Mr. Walker' - surname taken from that direct address, ASR confidence 0.88"
+  },
+  "42": {
+   "name": "Stephen Walker",
+   "role": "Public commenter, Ward 2 - taxpayer/parent seeking a school-lunch-account refund; speaks three times. Self-ID heard as 'Stephen Ward two' (surname swallowed); the chair addresses him as 'Mister...' and recognizes him as 'Mr. Walker' - surname taken from that direct address, ASR confidence 0.88"
+  },
+  "43": {
+   "name": "Stephen Walker",
+   "role": "Public commenter, Ward 2 - taxpayer/parent seeking a school-lunch-account refund; speaks three times. Self-ID heard as 'Stephen Ward two' (surname swallowed); the chair addresses him as 'Mister...' and recognizes him as 'Mr. Walker' - surname taken from that direct address, ASR confidence 0.88"
+  },
+  "44": {
+   "name": "Stephen Walker",
+   "role": "Public commenter, Ward 2 - taxpayer/parent seeking a school-lunch-account refund; speaks three times. Self-ID heard as 'Stephen Ward two' (surname swallowed); the chair addresses him as 'Mister...' and recognizes him as 'Mr. Walker' - surname taken from that direct address, ASR confidence 0.88"
+  },
+  "46": {
+   "name": "Noelle Kronberg",
+   "role": "School Board Clerk (calls the roll, keeps the minutes)"
+  },
+  "47": {
+   "name": "Stephen Walker",
+   "role": "Public commenter, Ward 2 - taxpayer/parent seeking a school-lunch-account refund; speaks three times. Self-ID heard as 'Stephen Ward two' (surname swallowed); the chair addresses him as 'Mister...' and recognizes him as 'Mr. Walker' - surname taken from that direct address, ASR confidence 0.88"
+  },
+  "48": {
+   "name": "Stephen Walker",
+   "role": "Public commenter, Ward 2 - taxpayer/parent seeking a school-lunch-account refund; speaks three times. Self-ID heard as 'Stephen Ward two' (surname swallowed); the chair addresses him as 'Mister...' and recognizes him as 'Mr. Walker' - surname taken from that direct address, ASR confidence 0.88"
+  },
+  "49": {
+   "name": "Stephen Walker",
+   "role": "Public commenter, Ward 2 - taxpayer/parent seeking a school-lunch-account refund; speaks three times. Self-ID heard as 'Stephen Ward two' (surname swallowed); the chair addresses him as 'Mister...' and recognizes him as 'Mr. Walker' - surname taken from that direct address, ASR confidence 0.88"
+  },
+  "61": {
+   "name": "Rod Beaton",
+   "role": "Public commenter, Ward 2 (self-identified - the self-ID is split across four diarized clusters: 'Rod Beaton. Ward two. Rebecca just covered a lot of what I was going to say')"
+  },
+  "62": {
+   "name": "Rod Beaton",
+   "role": "Public commenter, Ward 2 (self-identified - the self-ID is split across four diarized clusters: 'Rod Beaton. Ward two. Rebecca just covered a lot of what I was going to say')"
+  },
+  "63": {
+   "name": "Rod Beaton",
+   "role": "Public commenter, Ward 2 (self-identified - the self-ID is split across four diarized clusters: 'Rod Beaton. Ward two. Rebecca just covered a lot of what I was going to say')"
+  },
+  "64": {
+   "name": "Rod Beaton",
+   "role": "Public commenter, Ward 2 (self-identified - the self-ID is split across four diarized clusters: 'Rod Beaton. Ward two. Rebecca just covered a lot of what I was going to say')"
+  },
+  "70": {
+   "name": "Michelle Springer",
+   "role": "Public commenter, Ward 2 (self-identified; ASR renders the self-ID 'Michelle Springer, Blake Ward two')"
+  },
+  "71": {
+   "name": "Michelle Springer",
+   "role": "Public commenter, Ward 2 (self-identified; ASR renders the self-ID 'Michelle Springer, Blake Ward two')"
+  },
+  "72": {
+   "name": "Michelle Springer",
+   "role": "Public commenter, Ward 2 (self-identified; ASR renders the self-ID 'Michelle Springer, Blake Ward two')"
+  },
+  "73": {
+   "name": "Michelle Springer",
+   "role": "Public commenter, Ward 2 (self-identified; ASR renders the self-ID 'Michelle Springer, Blake Ward two')"
+  },
+  "74": {
+   "name": "Michelle Springer",
+   "role": "Public commenter, Ward 2 (self-identified; ASR renders the self-ID 'Michelle Springer, Blake Ward two')"
+  },
+  "75": {
+   "name": "Michelle Springer",
+   "role": "Public commenter, Ward 2 (self-identified; ASR renders the self-ID 'Michelle Springer, Blake Ward two')"
+  },
+  "76": {
+   "name": "Michelle Springer",
+   "role": "Public commenter, Ward 2 (self-identified; ASR renders the self-ID 'Michelle Springer, Blake Ward two')"
+  },
+  "83": {
+   "name": "Unidentified",
+   "role": "School Board member replying to the chair's thanks for the teacher-appreciation tulip delivery - Loren Howard or Don Lavalette, the two members she names; the two voices are not separable here"
+  },
+  "84": {
+   "name": "Unidentified",
+   "role": "School Board member replying to the chair's thanks for the teacher-appreciation tulip delivery - Loren Howard or Don Lavalette, the two members she names; the two voices are not separable here"
+  },
+  "87": {
+   "name": "Kerry Kennedy",
+   "role": "Interim Superintendent, SAU 6 (through 6/30/2026)"
+  },
+  "89": {
+   "name": "Kerry Kennedy",
+   "role": "Interim Superintendent, SAU 6 (through 6/30/2026)"
+  },
+  "92": {
+   "name": "Kerry Kennedy",
+   "role": "Interim Superintendent, SAU 6 (through 6/30/2026)"
+  },
+  "112": {
+   "name": "Unidentified",
+   "role": "Claremont Middle School math teacher and MathCounts/Prodigy coach - one of Jennifer Gannon or Laura McCombs, both introduced by the interim superintendent immediately before she speaks; the recording does not distinguish which"
+  },
+  "119": {
+   "name": "Unidentified",
+   "role": "Claremont Middle School math teacher and MathCounts/Prodigy coach - one of Jennifer Gannon or Laura McCombs, both introduced by the interim superintendent immediately before she speaks; the recording does not distinguish which"
+  },
+  "133": {
+   "name": "Tim Broadrick",
+   "role": "Incoming Superintendent, SAU 6 - selected but not yet in office; attends as a guest and starts 7/1/2026 (ASR renders the name 'Broderick'/'Padraig')"
+  },
+  "134": {
+   "name": "Tim Broadrick",
+   "role": "Incoming Superintendent, SAU 6 - selected but not yet in office; attends as a guest and starts 7/1/2026 (ASR renders the name 'Broderick'/'Padraig')"
+  },
+  "135": {
+   "name": "Tim Broadrick",
+   "role": "Incoming Superintendent, SAU 6 - selected but not yet in office; attends as a guest and starts 7/1/2026 (ASR renders the name 'Broderick'/'Padraig')"
+  },
+  "136": {
+   "name": "Tim Broadrick",
+   "role": "Incoming Superintendent, SAU 6 - selected but not yet in office; attends as a guest and starts 7/1/2026 (ASR renders the name 'Broderick'/'Padraig')"
+  },
+  "137": {
+   "name": "Tim Broadrick",
+   "role": "Incoming Superintendent, SAU 6 - selected but not yet in office; attends as a guest and starts 7/1/2026 (ASR renders the name 'Broderick'/'Padraig')"
+  },
+  "138": {
+   "name": "Tim Broadrick",
+   "role": "Incoming Superintendent, SAU 6 - selected but not yet in office; attends as a guest and starts 7/1/2026 (ASR renders the name 'Broderick'/'Padraig')"
+  },
+  "139": {
+   "name": "Tim Broadrick",
+   "role": "Incoming Superintendent, SAU 6 - selected but not yet in office; attends as a guest and starts 7/1/2026 (ASR renders the name 'Broderick'/'Padraig')"
+  },
+  "140": {
+   "name": "Tim Broadrick",
+   "role": "Incoming Superintendent, SAU 6 - selected but not yet in office; attends as a guest and starts 7/1/2026 (ASR renders the name 'Broderick'/'Padraig')"
+  },
+  "141": {
+   "name": "Tim Broadrick",
+   "role": "Incoming Superintendent, SAU 6 - selected but not yet in office; attends as a guest and starts 7/1/2026 (ASR renders the name 'Broderick'/'Padraig')"
+  },
+  "142": {
+   "name": "Tim Broadrick",
+   "role": "Incoming Superintendent, SAU 6 - selected but not yet in office; attends as a guest and starts 7/1/2026 (ASR renders the name 'Broderick'/'Padraig')"
+  },
+  "143": {
+   "name": "Tim Broadrick",
+   "role": "Incoming Superintendent, SAU 6 - selected but not yet in office; attends as a guest and starts 7/1/2026 (ASR renders the name 'Broderick'/'Padraig')"
+  },
+  "144": {
+   "name": "Tim Broadrick",
+   "role": "Incoming Superintendent, SAU 6 - selected but not yet in office; attends as a guest and starts 7/1/2026 (ASR renders the name 'Broderick'/'Padraig')"
+  },
+  "145": {
+   "name": "Tim Broadrick",
+   "role": "Incoming Superintendent, SAU 6 - selected but not yet in office; attends as a guest and starts 7/1/2026 (ASR renders the name 'Broderick'/'Padraig')"
+  },
+  "146": {
+   "name": "Tim Broadrick",
+   "role": "Incoming Superintendent, SAU 6 - selected but not yet in office; attends as a guest and starts 7/1/2026 (ASR renders the name 'Broderick'/'Padraig')"
+  },
+  "147": {
+   "name": "Tim Broadrick",
+   "role": "Incoming Superintendent, SAU 6 - selected but not yet in office; attends as a guest and starts 7/1/2026 (ASR renders the name 'Broderick'/'Padraig')"
+  },
+  "148": {
+   "name": "Tim Broadrick",
+   "role": "Incoming Superintendent, SAU 6 - selected but not yet in office; attends as a guest and starts 7/1/2026 (ASR renders the name 'Broderick'/'Padraig')"
+  },
+  "149": {
+   "name": "Tim Broadrick",
+   "role": "Incoming Superintendent, SAU 6 - selected but not yet in office; attends as a guest and starts 7/1/2026 (ASR renders the name 'Broderick'/'Padraig')"
+  },
+  "159": {
+   "name": "Matt Angell",
+   "role": "Interim Business Administrator, SAU 6 (ASR renders the surname 'Angel')"
+  },
+  "161": {
+   "name": "Matt Angell",
+   "role": "Interim Business Administrator, SAU 6 (ASR renders the surname 'Angel')"
+  },
+  "163": {
+   "name": "Matt Angell",
+   "role": "Interim Business Administrator, SAU 6 (ASR renders the surname 'Angel')"
+  },
+  "168": {
+   "name": "Unidentified",
+   "role": "School Board member seconding the motion (the second is not named on the record)"
+  },
+  "170": {
+   "name": "Heather Whitney",
+   "role": "School Board Member (Finance Subcommittee; School Reconfiguration Exploratory Committee; SREA negotiations representative)"
+  },
+  "171": {
+   "name": "Heather Whitney",
+   "role": "School Board Member (Finance Subcommittee; School Reconfiguration Exploratory Committee; SREA negotiations representative)"
+  },
+  "172": {
+   "name": "Heather Whitney",
+   "role": "School Board Member (Finance Subcommittee; School Reconfiguration Exploratory Committee; SREA negotiations representative)"
+  },
+  "173": {
+   "name": "Heather Whitney",
+   "role": "School Board Member (Finance Subcommittee; School Reconfiguration Exploratory Committee; SREA negotiations representative)"
+  },
+  "177": {
+   "name": "Matt Angell",
+   "role": "Interim Business Administrator, SAU 6 (ASR renders the surname 'Angel')"
+  },
+  "181": {
+   "name": "Matt Angell",
+   "role": "Interim Business Administrator, SAU 6 (ASR renders the surname 'Angel')"
+  },
+  "195": {
+   "name": "Matt Angell",
+   "role": "Interim Business Administrator, SAU 6 (ASR renders the surname 'Angel')"
+  },
+  "197": {
+   "name": "Candace Crawford",
+   "role": "School Board Chair (presiding)"
+  },
+  "200": {
+   "name": "Michael Herrington",
+   "role": "Principal, Stevens High School (ASR renders the name 'Harrington')"
+  },
+  "201": {
+   "name": "Michael Herrington",
+   "role": "Principal, Stevens High School (ASR renders the name 'Harrington')"
+  },
+  "202": {
+   "name": "Michael Herrington",
+   "role": "Principal, Stevens High School (ASR renders the name 'Harrington')"
+  },
+  "203": {
+   "name": "Michael Herrington",
+   "role": "Principal, Stevens High School (ASR renders the name 'Harrington')"
+  },
+  "204": {
+   "name": "Michael Herrington",
+   "role": "Principal, Stevens High School (ASR renders the name 'Harrington')"
+  },
+  "205": {
+   "name": "Michael Herrington",
+   "role": "Principal, Stevens High School (ASR renders the name 'Harrington')"
+  },
+  "206": {
+   "name": "Michael Herrington",
+   "role": "Principal, Stevens High School (ASR renders the name 'Harrington')"
+  },
+  "207": {
+   "name": "Michael Herrington",
+   "role": "Principal, Stevens High School (ASR renders the name 'Harrington')"
+  },
+  "208": {
+   "name": "Michael Herrington",
+   "role": "Principal, Stevens High School (ASR renders the name 'Harrington')"
+  },
+  "209": {
+   "name": "Michael Herrington",
+   "role": "Principal, Stevens High School (ASR renders the name 'Harrington')"
+  },
+  "210": {
+   "name": "Michael Herrington",
+   "role": "Principal, Stevens High School (ASR renders the name 'Harrington')"
+  },
+  "211": {
+   "name": "Kerry Kennedy",
+   "role": "Interim Superintendent, SAU 6 (through 6/30/2026)"
+  },
+  "212": {
+   "name": "Michael Herrington",
+   "role": "Principal, Stevens High School (ASR renders the name 'Harrington')"
+  },
+  "213": {
+   "name": "Michael Herrington",
+   "role": "Principal, Stevens High School (ASR renders the name 'Harrington')"
+  },
+  "214": {
+   "name": "Michael Herrington",
+   "role": "Principal, Stevens High School (ASR renders the name 'Harrington')"
+  },
+  "220": {
+   "name": "Michael Petrin",
+   "role": "School Board Vice Chair"
+  },
+  "221": {
+   "name": "Michael Petrin",
+   "role": "School Board Vice Chair"
+  },
+  "222": {
+   "name": "Michael Petrin",
+   "role": "School Board Vice Chair"
+  },
+  "223": {
+   "name": "Michael Petrin",
+   "role": "School Board Vice Chair"
+  },
+  "224": {
+   "name": "Michael Petrin",
+   "role": "School Board Vice Chair"
+  },
+  "227": {
+   "name": "Heather Whitney",
+   "role": "School Board Member (Finance Subcommittee; School Reconfiguration Exploratory Committee; SREA negotiations representative)"
+  },
+  "229": {
+   "name": "Michael Herrington",
+   "role": "Principal, Stevens High School (ASR renders the name 'Harrington')"
+  },
+  "230": {
+   "name": "Michael Herrington",
+   "role": "Principal, Stevens High School (ASR renders the name 'Harrington')"
+  },
+  "231": {
+   "name": "Michael Herrington",
+   "role": "Principal, Stevens High School (ASR renders the name 'Harrington')"
+  },
+  "232": {
+   "name": "Michael Herrington",
+   "role": "Principal, Stevens High School (ASR renders the name 'Harrington')"
+  },
+  "233": {
+   "name": "Michael Herrington",
+   "role": "Principal, Stevens High School (ASR renders the name 'Harrington')"
+  },
+  "234": {
+   "name": "Michael Herrington",
+   "role": "Principal, Stevens High School (ASR renders the name 'Harrington')"
+  },
+  "235": {
+   "name": "Michael Herrington",
+   "role": "Principal, Stevens High School (ASR renders the name 'Harrington')"
+  },
+  "236": {
+   "name": "Michael Herrington",
+   "role": "Principal, Stevens High School (ASR renders the name 'Harrington')"
+  },
+  "239": {
+   "name": "Michael Herrington",
+   "role": "Principal, Stevens High School (ASR renders the name 'Harrington')"
+  },
+  "240": {
+   "name": "Michael Herrington",
+   "role": "Principal, Stevens High School (ASR renders the name 'Harrington')"
+  },
+  "243": {
+   "name": "William 'Bill' Madden",
+   "role": "School Board Member (Capital Improvement Chair; curriculum subcommittee)"
+  },
+  "245": {
+   "name": "William 'Bill' Madden",
+   "role": "School Board Member (Capital Improvement Chair; curriculum subcommittee)"
+  },
+  "247": {
+   "name": "William 'Bill' Madden",
+   "role": "School Board Member (Capital Improvement Chair; curriculum subcommittee)"
+  },
+  "249": {
+   "name": "William 'Bill' Madden",
+   "role": "School Board Member (Capital Improvement Chair; curriculum subcommittee)"
+  },
+  "255": {
+   "name": "William 'Bill' Madden",
+   "role": "School Board Member (Capital Improvement Chair; curriculum subcommittee)"
+  },
+  "258": {
+   "name": "William 'Bill' Madden",
+   "role": "School Board Member (Capital Improvement Chair; curriculum subcommittee)"
+  },
+  "262": {
+   "name": "Candace Crawford",
+   "role": "School Board Chair (presiding)"
+  },
+  "265": {
+   "name": "William 'Bill' Madden",
+   "role": "School Board Member (Capital Improvement Chair; curriculum subcommittee)"
+  },
+  "271": {
+   "name": "William 'Bill' Madden",
+   "role": "School Board Member (Capital Improvement Chair; curriculum subcommittee)"
+  },
+  "273": {
+   "name": "William 'Bill' Madden",
+   "role": "School Board Member (Capital Improvement Chair; curriculum subcommittee)"
+  },
+  "279": {
+   "name": "William 'Bill' Madden",
+   "role": "School Board Member (Capital Improvement Chair; curriculum subcommittee)"
+  },
+  "283": {
+   "name": "Stephen Walker",
+   "role": "Public commenter, Ward 2 - taxpayer/parent seeking a school-lunch-account refund; speaks three times. Self-ID heard as 'Stephen Ward two' (surname swallowed); the chair addresses him as 'Mister...' and recognizes him as 'Mr. Walker' - surname taken from that direct address, ASR confidence 0.88"
+  },
+  "284": {
+   "name": "Stephen Walker",
+   "role": "Public commenter, Ward 2 - taxpayer/parent seeking a school-lunch-account refund; speaks three times. Self-ID heard as 'Stephen Ward two' (surname swallowed); the chair addresses him as 'Mister...' and recognizes him as 'Mr. Walker' - surname taken from that direct address, ASR confidence 0.88"
+  },
+  "294": {
+   "name": "Heather Whitney",
+   "role": "School Board Member (Finance Subcommittee; School Reconfiguration Exploratory Committee; SREA negotiations representative)"
+  },
+  "313": {
+   "name": "William 'Bill' Madden",
+   "role": "School Board Member (Capital Improvement Chair; curriculum subcommittee)"
+  },
+  "314": {
+   "name": "William 'Bill' Madden",
+   "role": "School Board Member (Capital Improvement Chair; curriculum subcommittee)"
+  },
+  "315": {
+   "name": "William 'Bill' Madden",
+   "role": "School Board Member (Capital Improvement Chair; curriculum subcommittee)"
+  },
+  "316": {
+   "name": "William 'Bill' Madden",
+   "role": "School Board Member (Capital Improvement Chair; curriculum subcommittee)"
+  },
+  "322": {
+   "name": "Candace Crawford",
+   "role": "School Board Chair (presiding)"
+  },
+  "326": {
+   "name": "Matt Angell",
+   "role": "Interim Business Administrator, SAU 6 (ASR renders the surname 'Angel')"
+  },
+  "328": {
+   "name": "William 'Bill' Madden",
+   "role": "School Board Member (Capital Improvement Chair; curriculum subcommittee)"
+  },
+  "331": {
+   "name": "William 'Bill' Madden",
+   "role": "School Board Member (Capital Improvement Chair; curriculum subcommittee)"
+  },
+  "332": {
+   "name": "William 'Bill' Madden",
+   "role": "School Board Member (Capital Improvement Chair; curriculum subcommittee)"
+  },
+  "339": {
+   "name": "Matt Angell",
+   "role": "Interim Business Administrator, SAU 6 (ASR renders the surname 'Angel')"
+  },
+  "347": {
+   "name": "Matt Angell",
+   "role": "Interim Business Administrator, SAU 6 (ASR renders the surname 'Angel')"
+  },
+  "360": {
+   "name": "Tim Broadrick",
+   "role": "Incoming Superintendent, SAU 6 - selected but not yet in office; attends as a guest and starts 7/1/2026 (ASR renders the name 'Broderick'/'Padraig')"
+  },
+  "361": {
+   "name": "Tim Broadrick",
+   "role": "Incoming Superintendent, SAU 6 - selected but not yet in office; attends as a guest and starts 7/1/2026 (ASR renders the name 'Broderick'/'Padraig')"
+  },
+  "362": {
+   "name": "Tim Broadrick",
+   "role": "Incoming Superintendent, SAU 6 - selected but not yet in office; attends as a guest and starts 7/1/2026 (ASR renders the name 'Broderick'/'Padraig')"
+  },
+  "363": {
+   "name": "Tim Broadrick",
+   "role": "Incoming Superintendent, SAU 6 - selected but not yet in office; attends as a guest and starts 7/1/2026 (ASR renders the name 'Broderick'/'Padraig')"
+  },
+  "365": {
+   "name": "Tim Broadrick",
+   "role": "Incoming Superintendent, SAU 6 - selected but not yet in office; attends as a guest and starts 7/1/2026 (ASR renders the name 'Broderick'/'Padraig')"
+  },
+  "369": {
+   "name": "Tim Broadrick",
+   "role": "Incoming Superintendent, SAU 6 - selected but not yet in office; attends as a guest and starts 7/1/2026 (ASR renders the name 'Broderick'/'Padraig')"
+  },
+  "370": {
+   "name": "Matt Angell",
+   "role": "Interim Business Administrator, SAU 6 (ASR renders the surname 'Angel')"
+  },
+  "371": {
+   "name": "Matt Angell",
+   "role": "Interim Business Administrator, SAU 6 (ASR renders the surname 'Angel')"
+  },
+  "373": {
+   "name": "Tim Broadrick",
+   "role": "Incoming Superintendent, SAU 6 - selected but not yet in office; attends as a guest and starts 7/1/2026 (ASR renders the name 'Broderick'/'Padraig')"
+  },
+  "381": {
+   "name": "Matt Angell",
+   "role": "Interim Business Administrator, SAU 6 (ASR renders the surname 'Angel')"
+  },
+  "385": {
+   "name": "Matt Angell",
+   "role": "Interim Business Administrator, SAU 6 (ASR renders the surname 'Angel')"
+  },
+  "388": {
+   "name": "Matt Angell",
+   "role": "Interim Business Administrator, SAU 6 (ASR renders the surname 'Angel')"
+  },
+  "392": {
+   "name": "Matt Angell",
+   "role": "Interim Business Administrator, SAU 6 (ASR renders the surname 'Angel')"
+  },
+  "397": {
+   "name": "Matt Angell",
+   "role": "Interim Business Administrator, SAU 6 (ASR renders the surname 'Angel')"
+  },
+  "426": {
+   "name": "Candace Crawford",
+   "role": "School Board Chair (presiding)"
+  },
+  "432": {
+   "name": "Candace Crawford",
+   "role": "School Board Chair (presiding)"
+  },
+  "445": {
+   "name": "Matt Angell",
+   "role": "Interim Business Administrator, SAU 6 (ASR renders the surname 'Angel')"
+  },
+  "448": {
+   "name": "Matt Angell",
+   "role": "Interim Business Administrator, SAU 6 (ASR renders the surname 'Angel')"
+  },
+  "451": {
+   "name": "Candace Crawford",
+   "role": "School Board Chair (presiding)"
+  },
+  "453": {
+   "name": "Candace Crawford",
+   "role": "School Board Chair (presiding)"
+  },
+  "454": {
+   "name": "Candace Crawford",
+   "role": "School Board Chair (presiding)"
+  },
+  "457": {
+   "name": "Candace Crawford",
+   "role": "School Board Chair (presiding)"
+  },
+  "459": {
+   "name": "Unidentified",
+   "role": "Audience member speaking from the floor against publishing school floor plans, self-describing the remark as a teacher's perspective; not identified on the recording"
+  },
+  "460": {
+   "name": "Unidentified",
+   "role": "Audience member speaking from the floor against publishing school floor plans, self-describing the remark as a teacher's perspective; not identified on the recording"
+  },
+  "465": {
+   "name": "Heather Whitney",
+   "role": "School Board Member (Finance Subcommittee; School Reconfiguration Exploratory Committee; SREA negotiations representative)"
+  },
+  "494": {
+   "name": "Candace Crawford",
+   "role": "School Board Chair (presiding)"
+  },
+  "496": {
+   "name": "Candace Crawford",
+   "role": "School Board Chair (presiding)"
+  },
+  "500": {
+   "name": "Candace Crawford",
+   "role": "School Board Chair (presiding)"
+  },
+  "502": {
+   "name": "Candace Crawford",
+   "role": "School Board Chair (presiding)"
+  },
+  "509": {
+   "name": "Candace Crawford",
+   "role": "School Board Chair (presiding)"
+  },
+  "529": {
+   "name": "Multiple",
+   "role": "Voice vote (chorus of ayes; captured as one voice)"
+  },
+  "546": {
+   "name": "Don Lavalette",
+   "role": "School Board Member (School Reconfiguration Exploratory Committee; superintendent-evaluation subcommittee)"
+  },
+  "547": {
+   "name": "Don Lavalette",
+   "role": "School Board Member (School Reconfiguration Exploratory Committee; superintendent-evaluation subcommittee)"
+  },
+  "548": {
+   "name": "Don Lavalette",
+   "role": "School Board Member (School Reconfiguration Exploratory Committee; superintendent-evaluation subcommittee)"
+  },
+  "561": {
+   "name": "Kerry Kennedy",
+   "role": "Interim Superintendent, SAU 6 (through 6/30/2026)"
+  },
+  "566": {
+   "name": "Multiple",
+   "role": "Voice vote (chorus of ayes; captured as one voice)"
+  },
+  "568": {
+   "name": "Kerry Kennedy",
+   "role": "Interim Superintendent, SAU 6 (through 6/30/2026)"
+  },
+  "573": {
+   "name": "Loren Howard",
+   "role": "School Board Member (Policy Subcommittee Chair; ad hoc communications)"
+  },
+  "575": {
+   "name": "Multiple",
+   "role": "Voice vote (chorus of ayes; captured as one voice)"
+  },
+  "584": {
+   "name": "Don Lavalette",
+   "role": "School Board Member (School Reconfiguration Exploratory Committee; superintendent-evaluation subcommittee)"
+  },
+  "586": {
+   "name": "Don Lavalette",
+   "role": "School Board Member (School Reconfiguration Exploratory Committee; superintendent-evaluation subcommittee)"
+  },
+  "588": {
+   "name": "Heather Whitney",
+   "role": "School Board Member (Finance Subcommittee; School Reconfiguration Exploratory Committee; SREA negotiations representative)"
+  },
+  "589": {
+   "name": "Heather Whitney",
+   "role": "School Board Member (Finance Subcommittee; School Reconfiguration Exploratory Committee; SREA negotiations representative)"
+  },
+  "590": {
+   "name": "Heather Whitney",
+   "role": "School Board Member (Finance Subcommittee; School Reconfiguration Exploratory Committee; SREA negotiations representative)"
+  },
+  "599": {
+   "name": "Loren Howard",
+   "role": "School Board Member (Policy Subcommittee Chair; ad hoc communications)"
+  },
+  "609": {
+   "name": "Unidentified",
+   "role": "School Board member moving the motion (the mover is not named on the record)"
+  },
+  "611": {
+   "name": "Don Lavalette",
+   "role": "School Board Member (School Reconfiguration Exploratory Committee; superintendent-evaluation subcommittee)"
+  },
+  "613": {
+   "name": "Multiple",
+   "role": "Voice vote (chorus of ayes; captured as one voice)"
+  },
+  "627": {
+   "name": "Heather Whitney",
+   "role": "School Board Member (Finance Subcommittee; School Reconfiguration Exploratory Committee; SREA negotiations representative)"
+  },
+  "629": {
+   "name": "Heather Whitney",
+   "role": "School Board Member (Finance Subcommittee; School Reconfiguration Exploratory Committee; SREA negotiations representative)"
+  },
+  "631": {
+   "name": "Candace Crawford",
+   "role": "School Board Chair (presiding)"
+  },
+  "634": {
+   "name": "Heather Whitney",
+   "role": "School Board Member (Finance Subcommittee; School Reconfiguration Exploratory Committee; SREA negotiations representative)"
+  },
+  "637": {
+   "name": "Unidentified",
+   "role": "School Board member questioning whether a motion is needed (voice not separable within the diarizer's catch-all cluster)"
+  },
+  "639": {
+   "name": "Candace Crawford",
+   "role": "School Board Chair (presiding)"
+  },
+  "641": {
+   "name": "Unidentified",
+   "role": "School Board member questioning whether a motion is needed (voice not separable within the diarizer's catch-all cluster)"
+  },
+  "647": {
+   "name": "Loren Howard",
+   "role": "School Board Member (Policy Subcommittee Chair; ad hoc communications)"
+  },
+  "653": {
+   "name": "Loren Howard",
+   "role": "School Board Member (Policy Subcommittee Chair; ad hoc communications)"
+  },
+  "655": {
+   "name": "Loren Howard",
+   "role": "School Board Member (Policy Subcommittee Chair; ad hoc communications)"
+  },
+  "660": {
+   "name": "Loren Howard",
+   "role": "School Board Member (Policy Subcommittee Chair; ad hoc communications)"
+  },
+  "662": {
+   "name": "Loren Howard",
+   "role": "School Board Member (Policy Subcommittee Chair; ad hoc communications)"
+  },
+  "664": {
+   "name": "Candace Crawford",
+   "role": "School Board Chair (presiding)"
+  },
+  "671": {
+   "name": "Loren Howard",
+   "role": "School Board Member (Policy Subcommittee Chair; ad hoc communications)"
+  },
+  "673": {
+   "name": "Loren Howard",
+   "role": "School Board Member (Policy Subcommittee Chair; ad hoc communications)"
+  },
+  "676": {
+   "name": "Multiple",
+   "role": "Voice vote (chorus of ayes; captured as one voice)"
+  },
+  "680": {
+   "name": "Candace Crawford",
+   "role": "School Board Chair (presiding)"
+  },
+  "695": {
+   "name": "Candace Crawford",
+   "role": "School Board Chair (presiding)"
+  },
+  "704": {
+   "name": "Unidentified",
+   "role": "School Board member answering the roll on the motion to enter nonpublic session (the clerk's name-call is not captured on this segment)"
+  },
+  "706": {
+   "name": "Unidentified",
+   "role": "School Board member answering the roll on the motion to enter nonpublic session (the clerk's name-call is not captured on this segment)"
+  },
+  "715": {
+   "name": "Noelle Kronberg",
+   "role": "School Board Clerk (calls the roll, keeps the minutes)"
+  },
+  "720": {
+   "name": "Michael Petrin",
+   "role": "School Board Vice Chair"
+  },
+  "760": {
+   "name": "Heather Whitney",
+   "role": "School Board Member (Finance Subcommittee; School Reconfiguration Exploratory Committee; SREA negotiations representative)"
+  },
+  "762": {
+   "name": "Candace Crawford",
+   "role": "School Board Chair (presiding)"
+  },
+  "763": {
+   "name": "Candace Crawford",
+   "role": "School Board Chair (presiding)"
+  }
+ }
+}

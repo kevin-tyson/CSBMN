@@ -1,0 +1,297 @@
+{
+ "Speaker 1": {
+  "name": "Frank Sprague",
+  "role": "Claremont School Board Chair (calls meeting to order [0], runs agenda and votes; named 'Frank Sprague' in roll call [5])"
+ },
+ "Speaker 2": {
+  "name": "Jason Benware",
+  "role": "Claremont School Board member (motion acknowledged 'Mr. Benoit' [26]; recognized 'Jason' [146], [356], [417], [569]); cluster also carries pledge and aye chorus, see overrides"
+ },
+ "Speaker 3": {
+  "name": "Mary Woodman",
+  "role": "School district clerk / board recording secretary (asked to take roll [3], calls roll [4])"
+ },
+ "Speaker 4": {
+  "name": "Middleton McGoodwin",
+  "role": "Superintendent, SAU 6 (addressed 'Doctor Goodwin' [7]; gives superintendent's report [48-52])"
+ },
+ "Speaker 5": {
+  "name": "Unidentified",
+  "role": "Unidentified - cluster of short acknowledgements, ayes and cross-talk from several voices (board members and presenters); see overrides"
+ },
+ "Speaker 6": {
+  "name": "Steven Horsky",
+  "role": "Claremont School Board member (recognized 'Stephen' [12], asks to table head lice policy [13]); cluster also carries public commenter Matt Bean, see overrides"
+ },
+ "Speaker 7": {
+  "name": "Carolyn Towle",
+  "role": "Claremont School Board member (chair takes 'Carolyn's motion' [16]; raises Captain Chase security update [31-37], which she reports on again at [582]); cluster also carries public commenter Linda Patch, see overrides"
+ },
+ "Speaker 8": {
+  "name": "Cory LeClair",
+  "role": "Assistant Superintendent, SAU 6 (states the board gave her signing authority on behalf of the superintendent for grants [463]; answers curriculum-position and staffing questions [480-487], [509-518]); cluster also absorbs other speakers' onsets, see overrides"
+ },
+ "Speaker 9": {
+  "name": "Mimi Rhines",
+  "role": "Public commenter, Ward 1; Stevens High School school counselor (ASR 'Mimi Ryan's' [73]; referred to later as 'Miss Rhines' [167] and 'Mimi Rhymes' [239]; surname spelling uncertain)"
+ },
+ "Speaker 10": {
+  "name": "Karen Collison",
+  "role": "Public commenter; Stevens High School English teacher, resident of Lempster (ASR 'Leinster') [79], [85]"
+ },
+ "Speaker 11": {
+  "name": "Unidentified",
+  "role": "Unidentified - Claremont School Board member, either Rebecca Zullo or Michael Petrin (present on roll [4], never recognized by name); short interjections only"
+ },
+ "Speaker 12": {
+  "name": "Michael O'Neill",
+  "role": "Business Administrator, SAU 6 (addressed 'Mike' by superintendent [104] and chair [139]; presents expenditure, revenue and fund balance reports [106-145]; surname not spoken on this recording, per roster)"
+ },
+ "Speaker 13": {
+  "name": "Carolyn Towle",
+  "role": "Claremont School Board member (chair takes 'Carolyn's motion' [16]; raises Captain Chase security update [31-37], which she reports on again at [582])"
+ },
+ "Speaker 14": {
+  "name": "Unidentified",
+  "role": "Unidentified - Claremont School Board member, either Rebecca Zullo or Michael Petrin (not Horsky: says 'Thanks for the clarification, Steve' [489]); asks budget and staffing questions [130], [479-532]"
+ },
+ "Speaker 15": {
+  "name": "Christine Downing",
+  "role": "Stevens High School curriculum specialist, departing (self-ID 'Christine Downing ... Stevens high school curriculum specialist' [158-159]; ASR also 'Christine Downey' [157]); cluster also carries the SAU 6 Board Chair in the audience at [592-602], see overrides"
+ },
+ "Speaker 16": {
+  "name": "Michelle Pierce",
+  "role": "Claremont School Board member (recognized 'Michelle' [314], [387]; superintendent names her the pivotal vote on the preschool program [446], matching her own account [431])"
+ },
+ "Speaker 17": {
+  "name": "Unidentified",
+  "role": "Unidentified - single short fragment"
+ },
+ "Speaker 18": {
+  "name": "Larissa Cahill",
+  "role": "Co-facilitator, Stevens High School scheduling committee (introduced with Downing by superintendent [157], [228]; speaks of 'myself and Christine as co facilitators' [236]; surname spelling per ASR, uncertain)"
+ },
+ "Speaker 19": {
+  "name": "Christine Downing",
+  "role": "Stevens High School curriculum specialist, departing (second cluster for Downing's voice: continues her chart explanation seamlessly into Speaker 15 at [269]-[270] and refers to Cahill as 'she' [250]; uncertain - diarization split, no name cue inside this cluster)"
+ },
+ "Speaker 20": {
+  "name": "Paulette Gerald",
+  "role": "Outgoing Claremont Middle School principal (introduced by superintendent [341], name heard by ASR as 'Gerald'; the 6 June 2018 recording 9828 names her 'Paul Gerald' / 'Paulette' [66], [146]; spelling uncertain); presents the CMS 2018-19 student handbook"
+ },
+ "Speaker 21": {
+  "name": "Audra Buckland",
+  "role": "Assistant Principal, Claremont Middle School (introduced [341]; Horsky restates her plea for feedback as 'what Miss Buckland said' [394], matching [384]; surname spelling per ASR)"
+ },
+ "Speaker 22": {
+  "name": "Steven Horsky",
+  "role": "Claremont School Board member (recognized 'Steve' after 'Michelle and then Steve' [387] and [514], [553]; Benware credits 'what Steve had asked for' [437-439], matching [428])"
+ },
+ "Speaker 23": {
+  "name": "Unidentified",
+  "role": "Unidentified - single short fragment"
+ },
+ "Speaker 24": {
+  "name": "Unidentified",
+  "role": "Unidentified - single short fragment"
+ },
+ "__overrides__": {
+  "1": {
+   "name": "Unidentified",
+   "role": "Group recitation of the Pledge of Allegiance"
+  },
+  "18": {
+   "name": "Unidentified",
+   "role": "Group voice vote"
+  },
+  "44": {
+   "name": "Unidentified",
+   "role": "Group voice vote"
+  },
+  "45": {
+   "name": "Unidentified",
+   "role": "Unidentified - board member abstaining on minutes (was absent)"
+  },
+  "27": {
+   "name": "Steven Horsky",
+   "role": "Claremont School Board member (seconds after chair asks 'Do I have a second, Steve?' [26]; uncertain - short fragment)"
+  },
+  "30": {
+   "name": "Unidentified",
+   "role": "Unidentified - board member interjection"
+  },
+  "83": {
+   "name": "Unidentified",
+   "role": "Unidentified - board member interjection"
+  },
+  "363": {
+   "name": "Unidentified",
+   "role": "Unidentified - short interjection"
+  },
+  "57": {
+   "name": "Matt Bean",
+   "role": "Public commenter, Ward 1; district staff member (self-ID 'Matt Bean' [59]; chair 'Thank you Matt' [63])"
+  },
+  "59": {
+   "name": "Matt Bean"
+  },
+  "60": {
+   "name": "Matt Bean"
+  },
+  "61": {
+   "name": "Matt Bean"
+  },
+  "62": {
+   "name": "Matt Bean"
+  },
+  "65": {
+   "name": "Linda Patch",
+   "role": "Public commenter, Ward 2 (self-ID 'Linda patch, Ward two' [65]; spelling per ASR)"
+  },
+  "66": {
+   "name": "Linda Patch"
+  },
+  "67": {
+   "name": "Linda Patch"
+  },
+  "68": {
+   "name": "Linda Patch"
+  },
+  "69": {
+   "name": "Linda Patch"
+  },
+  "70": {
+   "name": "Linda Patch"
+  },
+  "71": {
+   "name": "Unidentified",
+   "role": "Unidentified - short acknowledgement"
+  },
+  "72": {
+   "name": "Mimi Rhines"
+  },
+  "78": {
+   "name": "Karen Collison"
+  },
+  "84": {
+   "name": "Unidentified",
+   "role": "Unidentified - short acknowledgement"
+  },
+  "101": {
+   "name": "Unidentified",
+   "role": "Unidentified - short acknowledgement"
+  },
+  "40": {
+   "name": "Unidentified",
+   "role": "Unidentified - board member asking about a security plan during the minutes (chair redirects [41])"
+  },
+  "42": {
+   "name": "Unidentified",
+   "role": "Unidentified - board member asking about a security plan during the minutes (chair redirects [41])"
+  },
+  "105": {
+   "name": "Michael O'Neill"
+  },
+  "158": {
+   "name": "Christine Downing"
+  },
+  "161": {
+   "name": "Christine Downing"
+  },
+  "201": {
+   "name": "Carolyn Towle"
+  },
+  "222": {
+   "name": "Michelle Pierce"
+  },
+  "232": {
+   "name": "Larissa Cahill"
+  },
+  "303": {
+   "name": "Unidentified",
+   "role": "Unidentified - short interjection"
+  },
+  "313": {
+   "name": "Larissa Cahill"
+  },
+  "317": {
+   "name": "Cory LeClair"
+  },
+  "345": {
+   "name": "Paulette Gerald"
+  },
+  "346": {
+   "name": "Paulette Gerald"
+  },
+  "347": {
+   "name": "Paulette Gerald"
+  },
+  "348": {
+   "name": "Paulette Gerald"
+  },
+  "349": {
+   "name": "Paulette Gerald"
+  },
+  "351": {
+   "name": "Paulette Gerald"
+  },
+  "352": {
+   "name": "Paulette Gerald"
+  },
+  "390": {
+   "name": "Steven Horsky"
+  },
+  "391": {
+   "name": "Steven Horsky"
+  },
+  "392": {
+   "name": "Steven Horsky"
+  },
+  "393": {
+   "name": "Steven Horsky"
+  },
+  "398": {
+   "name": "Unidentified",
+   "role": "Unidentified - short interjection"
+  },
+  "406": {
+   "name": "Unidentified",
+   "role": "Unidentified - short interjection"
+  },
+  "407": {
+   "name": "Unidentified",
+   "role": "Unidentified - short interjection"
+  },
+  "496": {
+   "name": "Michelle Pierce"
+  },
+  "514": {
+   "name": "Frank Sprague"
+  },
+  "539": {
+   "name": "Cory LeClair"
+  },
+  "587": {
+   "name": "Carolyn Towle"
+  },
+  "605": {
+   "name": "Carolyn Towle"
+  },
+  "592": {
+   "name": "Unidentified",
+   "role": "SAU 6 Board Chair, seated in the audience (chair: 'we have the SAU board chair here' [591]; name not spoken on this recording; per roster Sara Lowe was SAU 6 chair in 2018, not confirmed here)"
+  },
+  "594": {
+   "name": "Unidentified",
+   "role": "SAU 6 Board Chair, seated in the audience (chair: 'we have the SAU board chair here' [591]; name not spoken on this recording; per roster Sara Lowe was SAU 6 chair in 2018, not confirmed here)"
+  },
+  "598": {
+   "name": "Unidentified",
+   "role": "SAU 6 Board Chair, seated in the audience (chair: 'we have the SAU board chair here' [591]; name not spoken on this recording; per roster Sara Lowe was SAU 6 chair in 2018, not confirmed here)"
+  },
+  "602": {
+   "name": "Unidentified",
+   "role": "SAU 6 Board Chair, seated in the audience (chair: 'we have the SAU board chair here' [591]; name not spoken on this recording; per roster Sara Lowe was SAU 6 chair in 2018, not confirmed here)"
+  }
+ }
+}

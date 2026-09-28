@@ -1,0 +1,484 @@
+{
+ "Speaker 1": {
+  "name": "Frank Sprague",
+  "role": "Claremont School Board member (chair: 'And frank first' [238] -> [240]; 'By Frank' [446] after his motion [444]; 'Frank' [486] -> [487] 'when I was at Stevens'; CTE revitalization committee with Bonnie [107], [409]-[423])"
+ },
+ "Speaker 2": {
+  "name": "Steven Horsky",
+  "role": "Claremont School Board member (chair: 'Stephen made the second' [15]; 'Steven, did you still' [126] -> [127]; 'Stephen.' [653] -> [654]; moves to table [270], [294])"
+ },
+ "Speaker 3": {
+  "name": "Unidentified",
+  "role": "Unidentified - cluster mixes several women (Bonnie Miles, public commenters Hopkins and Hawkins); see overrides"
+ },
+ "Speaker 4": {
+  "name": "Michael Petrin",
+  "role": "Claremont School Board Chair (calls the meeting to order [0] and runs agenda and votes; the diarizer puts his voice in cluster 1 until about [170] and in cluster 4 thereafter; he reports for the budget subcommittee [401])"
+ },
+ "Speaker 5": {
+  "name": "Unidentified",
+  "role": "Unidentified - short-fragment and aside cluster mixing several voices; see overrides"
+ },
+ "Speaker 6": {
+  "name": "Unidentified",
+  "role": "Unidentified - single fragment"
+ },
+ "Speaker 7": {
+  "name": "Michael Tempesta",
+  "role": "Superintendent, SAU 6 (chair: 'Mr. Tempesta with the superintendent's report' [349] -> [350])"
+ },
+ "Speaker 8": {
+  "name": "Cassandra Edwards",
+  "role": "Public commenter, Ward 3 (self-identified 'Cassandra Edwards, Ward three' [38]; spelling as heard)"
+ },
+ "Speaker 9": {
+  "name": "Candace Crawford",
+  "role": "Public commenter, Ward 2 (self-identified 'Candy. Crawford, Ward two' [41], 'Candace Crawford, Ward two' [172])"
+ },
+ "Speaker 10": {
+  "name": "Unidentified",
+  "role": "Student representative 'Hannah', student council president (chair: 'Thank you. Hannah.' [63]; surname not stated)"
+ },
+ "Speaker 11": {
+  "name": "Whitney Skillen",
+  "role": "Claremont School Board member (chair: 'I had Josh, and then Whitney' [258] -> [263]; 'Josh and then Whitney' [625] -> [637]; asks about SB 420 accountability [80]-[99], a concern she recalls on 10/19/2022)"
+ },
+ "Speaker 12": {
+  "name": "Heather Whitney",
+  "role": "Claremont School Board Vice Chair (chair: 'Heather.' [446] -> [447] 'That's always me'; 'Heather.' [583] -> [585])"
+ },
+ "Speaker 13": {
+  "name": "Richard Seaman",
+  "role": "Assistant Superintendent for Finance, Operations and Human Resources, SAU 6 (Heather Whitney: 'like Richard said' [147] after [141]; Putnam: 'Richard and I can go on for two hours' [250]; 'Mr. Seaman' [266] -> [267])"
+ },
+ "Speaker 14": {
+  "name": "Bonnie Miles",
+  "role": "Claremont School Board member (chair: 'So body [Bonnie] made the motion' [15] after [8]-[14]; 'Bonnie, you want to talk about it?' [415] -> [416]; 'miss Miles' [713] -> [714])"
+ },
+ "Speaker 15": {
+  "name": "David Putnam",
+  "role": "Public commenter, Ward 2, former long-time school board member (chair: 'Mr. Putnam.' [206]; self-identified 'David Putnam, Ward two' [207])"
+ },
+ "Speaker 16": {
+  "name": "Tom Rock",
+  "role": "Public commenter, Ward 2 (self-identified 'Tom Rock, Ward two' [225]; spelling as heard)"
+ },
+ "Speaker 17": {
+  "name": "Joshua Lambert",
+  "role": "Claremont School Board member (chair: 'I had Josh' [258] -> [259] 'from the teacher perspective'; 'Josh' [625] -> [627]; curriculum committee report [404])"
+ },
+ "Speaker 18": {
+  "name": "Unidentified",
+  "role": "Unidentified - short replies during the tabling exchange (not attributable)"
+ },
+ "Speaker 19": {
+  "name": "Rob Lovett Jr.",
+  "role": "Public commenter, Ward 2 (uncertain - ASR 'Rob Leavitt, Ward two' [289]; chair: 'and then Rob' [279]; likely former board member Rob Lovett Jr.)"
+ },
+ "Speaker 20": {
+  "name": "Michael Koski",
+  "role": "Assistant Superintendent, SAU 6, presenting as the curriculum 'team of one' [476]-[478] (spelling uncertain; Heather Whitney: 'When Josh and I met virtually with, Mike' [528])"
+ },
+ "Speaker 21": {
+  "name": "Mr. Pratt",
+  "role": "Stevens High School administrator on the schedule committee (chair: 'Mr. Pratt, I appreciate you sticking with us tonight' [661] -> [662]; first name and title not stated)"
+ },
+ "Speaker 22": {
+  "name": "Ben Nester",
+  "role": "Director of Special Education, SAU 6 (not named on the recording; identified by role - answers for special education staffing and programs [739]-[760], 'Mike and Richard and I' [739]; roster: Ben Nester in this post 2019-2024)"
+ },
+ "__overrides__": {
+  "0": {
+   "name": "Michael Petrin",
+   "role": "Claremont School Board Chair (calls the meeting to order [0] and runs agenda and votes; the diarizer puts his voice in cluster 1 until about [170] and in cluster 4 thereafter; he reports for the budget subcommittee [401])"
+  },
+  "1": {
+   "name": "Michael Petrin",
+   "role": "Claremont School Board Chair (calls the meeting to order [0] and runs agenda and votes; the diarizer puts his voice in cluster 1 until about [170] and in cluster 4 thereafter; he reports for the budget subcommittee [401])"
+  },
+  "2": {
+   "name": "Michael Petrin",
+   "role": "Claremont School Board Chair (calls the meeting to order [0] and runs agenda and votes; the diarizer puts his voice in cluster 1 until about [170] and in cluster 4 thereafter; he reports for the budget subcommittee [401])"
+  },
+  "3": {
+   "name": "Michael Petrin",
+   "role": "Claremont School Board Chair (calls the meeting to order [0] and runs agenda and votes; the diarizer puts his voice in cluster 1 until about [170] and in cluster 4 thereafter; he reports for the budget subcommittee [401])"
+  },
+  "5": {
+   "name": "Michael Petrin",
+   "role": "Claremont School Board Chair (calls the meeting to order [0] and runs agenda and votes; the diarizer puts his voice in cluster 1 until about [170] and in cluster 4 thereafter; he reports for the budget subcommittee [401])"
+  },
+  "6": {
+   "name": "Michael Petrin",
+   "role": "Claremont School Board Chair (calls the meeting to order [0] and runs agenda and votes; the diarizer puts his voice in cluster 1 until about [170] and in cluster 4 thereafter; he reports for the budget subcommittee [401])"
+  },
+  "7": {
+   "name": "Michael Petrin",
+   "role": "Claremont School Board Chair (calls the meeting to order [0] and runs agenda and votes; the diarizer puts his voice in cluster 1 until about [170] and in cluster 4 thereafter; he reports for the budget subcommittee [401])"
+  },
+  "10": {
+   "name": "Michael Petrin",
+   "role": "Claremont School Board Chair (calls the meeting to order [0] and runs agenda and votes; the diarizer puts his voice in cluster 1 until about [170] and in cluster 4 thereafter; he reports for the budget subcommittee [401])"
+  },
+  "15": {
+   "name": "Michael Petrin",
+   "role": "Claremont School Board Chair (calls the meeting to order [0] and runs agenda and votes; the diarizer puts his voice in cluster 1 until about [170] and in cluster 4 thereafter; he reports for the budget subcommittee [401])"
+  },
+  "17": {
+   "name": "Michael Petrin",
+   "role": "Claremont School Board Chair (calls the meeting to order [0] and runs agenda and votes; the diarizer puts his voice in cluster 1 until about [170] and in cluster 4 thereafter; he reports for the budget subcommittee [401])"
+  },
+  "18": {
+   "name": "Michael Petrin",
+   "role": "Claremont School Board Chair (calls the meeting to order [0] and runs agenda and votes; the diarizer puts his voice in cluster 1 until about [170] and in cluster 4 thereafter; he reports for the budget subcommittee [401])"
+  },
+  "19": {
+   "name": "Michael Petrin",
+   "role": "Claremont School Board Chair (calls the meeting to order [0] and runs agenda and votes; the diarizer puts his voice in cluster 1 until about [170] and in cluster 4 thereafter; he reports for the budget subcommittee [401])"
+  },
+  "20": {
+   "name": "Michael Petrin",
+   "role": "Claremont School Board Chair (calls the meeting to order [0] and runs agenda and votes; the diarizer puts his voice in cluster 1 until about [170] and in cluster 4 thereafter; he reports for the budget subcommittee [401])"
+  },
+  "34": {
+   "name": "Michael Petrin",
+   "role": "Claremont School Board Chair (calls the meeting to order [0] and runs agenda and votes; the diarizer puts his voice in cluster 1 until about [170] and in cluster 4 thereafter; he reports for the budget subcommittee [401])"
+  },
+  "40": {
+   "name": "Michael Petrin",
+   "role": "Claremont School Board Chair (calls the meeting to order [0] and runs agenda and votes; the diarizer puts his voice in cluster 1 until about [170] and in cluster 4 thereafter; he reports for the budget subcommittee [401])"
+  },
+  "45": {
+   "name": "Michael Petrin",
+   "role": "Claremont School Board Chair (calls the meeting to order [0] and runs agenda and votes; the diarizer puts his voice in cluster 1 until about [170] and in cluster 4 thereafter; he reports for the budget subcommittee [401])"
+  },
+  "46": {
+   "name": "Michael Petrin",
+   "role": "Claremont School Board Chair (calls the meeting to order [0] and runs agenda and votes; the diarizer puts his voice in cluster 1 until about [170] and in cluster 4 thereafter; he reports for the budget subcommittee [401])"
+  },
+  "48": {
+   "name": "Michael Petrin",
+   "role": "Claremont School Board Chair (calls the meeting to order [0] and runs agenda and votes; the diarizer puts his voice in cluster 1 until about [170] and in cluster 4 thereafter; he reports for the budget subcommittee [401])"
+  },
+  "52": {
+   "name": "Michael Petrin",
+   "role": "Claremont School Board Chair (calls the meeting to order [0] and runs agenda and votes; the diarizer puts his voice in cluster 1 until about [170] and in cluster 4 thereafter; he reports for the budget subcommittee [401])"
+  },
+  "54": {
+   "name": "Michael Petrin",
+   "role": "Claremont School Board Chair (calls the meeting to order [0] and runs agenda and votes; the diarizer puts his voice in cluster 1 until about [170] and in cluster 4 thereafter; he reports for the budget subcommittee [401])"
+  },
+  "56": {
+   "name": "Michael Petrin",
+   "role": "Claremont School Board Chair (calls the meeting to order [0] and runs agenda and votes; the diarizer puts his voice in cluster 1 until about [170] and in cluster 4 thereafter; he reports for the budget subcommittee [401])"
+  },
+  "63": {
+   "name": "Michael Petrin",
+   "role": "Claremont School Board Chair (calls the meeting to order [0] and runs agenda and votes; the diarizer puts his voice in cluster 1 until about [170] and in cluster 4 thereafter; he reports for the budget subcommittee [401])"
+  },
+  "64": {
+   "name": "Michael Petrin",
+   "role": "Claremont School Board Chair (calls the meeting to order [0] and runs agenda and votes; the diarizer puts his voice in cluster 1 until about [170] and in cluster 4 thereafter; he reports for the budget subcommittee [401])"
+  },
+  "70": {
+   "name": "Michael Petrin",
+   "role": "Claremont School Board Chair (calls the meeting to order [0] and runs agenda and votes; the diarizer puts his voice in cluster 1 until about [170] and in cluster 4 thereafter; he reports for the budget subcommittee [401])"
+  },
+  "72": {
+   "name": "Michael Petrin",
+   "role": "Claremont School Board Chair (calls the meeting to order [0] and runs agenda and votes; the diarizer puts his voice in cluster 1 until about [170] and in cluster 4 thereafter; he reports for the budget subcommittee [401])"
+  },
+  "79": {
+   "name": "Michael Petrin",
+   "role": "Claremont School Board Chair (calls the meeting to order [0] and runs agenda and votes; the diarizer puts his voice in cluster 1 until about [170] and in cluster 4 thereafter; he reports for the budget subcommittee [401])"
+  },
+  "126": {
+   "name": "Michael Petrin",
+   "role": "Claremont School Board Chair (calls the meeting to order [0] and runs agenda and votes; the diarizer puts his voice in cluster 1 until about [170] and in cluster 4 thereafter; he reports for the budget subcommittee [401])"
+  },
+  "130": {
+   "name": "Michael Petrin",
+   "role": "Claremont School Board Chair (calls the meeting to order [0] and runs agenda and votes; the diarizer puts his voice in cluster 1 until about [170] and in cluster 4 thereafter; he reports for the budget subcommittee [401])"
+  },
+  "131": {
+   "name": "Michael Petrin",
+   "role": "Claremont School Board Chair (calls the meeting to order [0] and runs agenda and votes; the diarizer puts his voice in cluster 1 until about [170] and in cluster 4 thereafter; he reports for the budget subcommittee [401])"
+  },
+  "169": {
+   "name": "Michael Petrin",
+   "role": "Claremont School Board Chair (calls the meeting to order [0] and runs agenda and votes; the diarizer puts his voice in cluster 1 until about [170] and in cluster 4 thereafter; he reports for the budget subcommittee [401])"
+  },
+  "171": {
+   "name": "Michael Petrin",
+   "role": "Claremont School Board Chair (calls the meeting to order [0] and runs agenda and votes; the diarizer puts his voice in cluster 1 until about [170] and in cluster 4 thereafter; he reports for the budget subcommittee [401])"
+  },
+  "206": {
+   "name": "Michael Petrin",
+   "role": "Claremont School Board Chair (calls the meeting to order [0] and runs agenda and votes; the diarizer puts his voice in cluster 1 until about [170] and in cluster 4 thereafter; he reports for the budget subcommittee [401])"
+  },
+  "8": {
+   "name": "Bonnie Miles",
+   "role": "Claremont School Board member (chair: 'So body [Bonnie] made the motion' [15] after [8]-[14]; 'Bonnie, you want to talk about it?' [415] -> [416]; 'miss Miles' [713] -> [714])"
+  },
+  "9": {
+   "name": "Bonnie Miles",
+   "role": "Claremont School Board member (chair: 'So body [Bonnie] made the motion' [15] after [8]-[14]; 'Bonnie, you want to talk about it?' [415] -> [416]; 'miss Miles' [713] -> [714])"
+  },
+  "12": {
+   "name": "Bonnie Miles",
+   "role": "Claremont School Board member (chair: 'So body [Bonnie] made the motion' [15] after [8]-[14]; 'Bonnie, you want to talk about it?' [415] -> [416]; 'miss Miles' [713] -> [714])"
+  },
+  "14": {
+   "name": "Bonnie Miles",
+   "role": "Claremont School Board member (chair: 'So body [Bonnie] made the motion' [15] after [8]-[14]; 'Bonnie, you want to talk about it?' [415] -> [416]; 'miss Miles' [713] -> [714])"
+  },
+  "21": {
+   "name": "Abby Hopkins",
+   "role": "Public commenter, Ward 3 (self-identified 'My name is Abby Hopkins, and I live in Ward three' [21]; spelling as heard)"
+  },
+  "22": {
+   "name": "Abby Hopkins",
+   "role": "Public commenter, Ward 3 (self-identified 'My name is Abby Hopkins, and I live in Ward three' [21]; spelling as heard)"
+  },
+  "23": {
+   "name": "Abby Hopkins",
+   "role": "Public commenter, Ward 3 (self-identified 'My name is Abby Hopkins, and I live in Ward three' [21]; spelling as heard)"
+  },
+  "28": {
+   "name": "Abby Hopkins",
+   "role": "Public commenter, Ward 3 (self-identified 'My name is Abby Hopkins, and I live in Ward three' [21]; spelling as heard)"
+  },
+  "30": {
+   "name": "Abby Hopkins",
+   "role": "Public commenter, Ward 3 (self-identified 'My name is Abby Hopkins, and I live in Ward three' [21]; spelling as heard)"
+  },
+  "32": {
+   "name": "Abby Hopkins",
+   "role": "Public commenter, Ward 3 (self-identified 'My name is Abby Hopkins, and I live in Ward three' [21]; spelling as heard)"
+  },
+  "33": {
+   "name": "Abby Hopkins",
+   "role": "Public commenter, Ward 3 (self-identified 'My name is Abby Hopkins, and I live in Ward three' [21]; spelling as heard)"
+  },
+  "36": {
+   "name": "Abby Hopkins",
+   "role": "Public commenter, Ward 3 (self-identified 'My name is Abby Hopkins, and I live in Ward three' [21]; spelling as heard)"
+  },
+  "41": {
+   "name": "Candace Crawford",
+   "role": "Public commenter, Ward 2 (self-identified 'Candy. Crawford, Ward two' [41], 'Candace Crawford, Ward two' [172])"
+  },
+  "182": {
+   "name": "Candace Crawford",
+   "role": "Public commenter, Ward 2 (self-identified 'Candy. Crawford, Ward two' [41], 'Candace Crawford, Ward two' [172])"
+  },
+  "189": {
+   "name": "Candace Crawford",
+   "role": "Public commenter, Ward 2 (self-identified 'Candy. Crawford, Ward two' [41], 'Candace Crawford, Ward two' [172])"
+  },
+  "191": {
+   "name": "Candace Crawford",
+   "role": "Public commenter, Ward 2 (self-identified 'Candy. Crawford, Ward two' [41], 'Candace Crawford, Ward two' [172])"
+  },
+  "132": {
+   "name": "Arlene Hawkins",
+   "role": "Public commenter, Ward 3 (self-identified, ASR 'Arlington Hawkins for Ward three' [132])"
+  },
+  "133": {
+   "name": "Arlene Hawkins",
+   "role": "Public commenter, Ward 3 (self-identified, ASR 'Arlington Hawkins for Ward three' [132])"
+  },
+  "134": {
+   "name": "Arlene Hawkins",
+   "role": "Public commenter, Ward 3 (self-identified, ASR 'Arlington Hawkins for Ward three' [132])"
+  },
+  "135": {
+   "name": "Arlene Hawkins",
+   "role": "Public commenter, Ward 3 (self-identified, ASR 'Arlington Hawkins for Ward three' [132])"
+  },
+  "136": {
+   "name": "Arlene Hawkins",
+   "role": "Public commenter, Ward 3 (self-identified, ASR 'Arlington Hawkins for Ward three' [132])"
+  },
+  "152": {
+   "name": "Arlene Hawkins",
+   "role": "Public commenter, Ward 3 (self-identified, ASR 'Arlington Hawkins for Ward three' [132])"
+  },
+  "153": {
+   "name": "Arlene Hawkins",
+   "role": "Public commenter, Ward 3 (self-identified, ASR 'Arlington Hawkins for Ward three' [132])"
+  },
+  "154": {
+   "name": "Arlene Hawkins",
+   "role": "Public commenter, Ward 3 (self-identified, ASR 'Arlington Hawkins for Ward three' [132])"
+  },
+  "156": {
+   "name": "Arlene Hawkins",
+   "role": "Public commenter, Ward 3 (self-identified, ASR 'Arlington Hawkins for Ward three' [132])"
+  },
+  "158": {
+   "name": "Arlene Hawkins",
+   "role": "Public commenter, Ward 3 (self-identified, ASR 'Arlington Hawkins for Ward three' [132])"
+  },
+  "160": {
+   "name": "Arlene Hawkins",
+   "role": "Public commenter, Ward 3 (self-identified, ASR 'Arlington Hawkins for Ward three' [132])"
+  },
+  "272": {
+   "name": "Unidentified",
+   "role": "Unidentified - public commenter asking whether the board had already voted not to return the funds (not named on the recording)"
+  },
+  "281": {
+   "name": "Unidentified",
+   "role": "Unidentified - public commenter asking whether the board had already voted not to return the funds (not named on the recording)"
+  },
+  "284": {
+   "name": "Unidentified",
+   "role": "Unidentified - public commenter asking whether the board had already voted not to return the funds (not named on the recording)"
+  },
+  "286": {
+   "name": "Unidentified",
+   "role": "Unidentified - public commenter asking whether the board had already voted not to return the funds (not named on the recording)"
+  },
+  "16": {
+   "name": "Unidentified",
+   "role": "Unidentified - brief interjection"
+  },
+  "26": {
+   "name": "Unidentified",
+   "role": "Unidentified - brief interjection"
+  },
+  "62": {
+   "name": "Unidentified",
+   "role": "Unidentified - brief interjection"
+  },
+  "122": {
+   "name": "Unidentified",
+   "role": "Unidentified - brief interjection"
+  },
+  "25": {
+   "name": "Unidentified",
+   "role": "Unidentified - answers Hopkins's question on the summer program assessment data (administrator or board member; not identified)"
+  },
+  "27": {
+   "name": "Unidentified",
+   "role": "Unidentified - answers Hopkins's question on the summer program assessment data (administrator or board member; not identified)"
+  },
+  "29": {
+   "name": "Unidentified",
+   "role": "Unidentified - answers Hopkins's question on the summer program assessment data (administrator or board member; not identified)"
+  },
+  "31": {
+   "name": "Unidentified",
+   "role": "Unidentified - answers Hopkins's question on the summer program assessment data (administrator or board member; not identified)"
+  },
+  "74": {
+   "name": "Steven Horsky",
+   "role": "Claremont School Board member (chair: 'Stephen made the second' [15]; 'Steven, did you still' [126] -> [127]; 'Stephen.' [653] -> [654]; moves to table [270], [294])"
+  },
+  "102": {
+   "name": "Unidentified",
+   "role": "Unidentified - completes the question 'we won't know if our plan is approved until January' begun at [101]"
+  },
+  "137": {
+   "name": "Richard Seaman",
+   "role": "Assistant Superintendent for Finance, Operations and Human Resources, SAU 6 (Heather Whitney: 'like Richard said' [147] after [141]; Putnam: 'Richard and I can go on for two hours' [250]; 'Mr. Seaman' [266] -> [267])"
+  },
+  "326": {
+   "name": "Richard Seaman",
+   "role": "Assistant Superintendent for Finance, Operations and Human Resources, SAU 6 (Heather Whitney: 'like Richard said' [147] after [141]; Putnam: 'Richard and I can go on for two hours' [250]; 'Mr. Seaman' [266] -> [267])"
+  },
+  "463": {
+   "name": "Richard Seaman",
+   "role": "Assistant Superintendent for Finance, Operations and Human Resources, SAU 6 (Heather Whitney: 'like Richard said' [147] after [141]; Putnam: 'Richard and I can go on for two hours' [250]; 'Mr. Seaman' [266] -> [267])"
+  },
+  "465": {
+   "name": "Richard Seaman",
+   "role": "Assistant Superintendent for Finance, Operations and Human Resources, SAU 6 (Heather Whitney: 'like Richard said' [147] after [141]; Putnam: 'Richard and I can go on for two hours' [250]; 'Mr. Seaman' [266] -> [267])"
+  },
+  "162": {
+   "name": "Frank Sprague",
+   "role": "Claremont School Board member (chair: 'And frank first' [238] -> [240]; 'By Frank' [446] after his motion [444]; 'Frank' [486] -> [487] 'when I was at Stevens'; CTE revitalization committee with Bonnie [107], [409]-[423])"
+  },
+  "239": {
+   "name": "Michael Petrin",
+   "role": "Claremont School Board Chair (calls the meeting to order [0] and runs agenda and votes; the diarizer puts his voice in cluster 1 until about [170] and in cluster 4 thereafter; he reports for the budget subcommittee [401])"
+  },
+  "199": {
+   "name": "Unidentified",
+   "role": "Unidentified - board member asking whether there is a deadline for the vote (split between clusters 1 and 4; possibly Sprague - uncertain)"
+  },
+  "200": {
+   "name": "Unidentified",
+   "role": "Unidentified - board member asking whether there is a deadline for the vote (split between clusters 1 and 4; possibly Sprague - uncertain)"
+  },
+  "201": {
+   "name": "Unidentified",
+   "role": "Unidentified - board member asking whether there is a deadline for the vote (split between clusters 1 and 4; possibly Sprague - uncertain)"
+  },
+  "202": {
+   "name": "Unidentified",
+   "role": "Unidentified - board member asking whether there is a deadline for the vote (split between clusters 1 and 4; possibly Sprague - uncertain)"
+  },
+  "298": {
+   "name": "Unidentified",
+   "role": "Unidentified - fragments interleaved with Seaman's answer on tabling"
+  },
+  "300": {
+   "name": "Unidentified",
+   "role": "Unidentified - fragments interleaved with Seaman's answer on tabling"
+  },
+  "358": {
+   "name": "Whitney Skillen",
+   "role": "Claremont School Board member (chair: 'I had Josh, and then Whitney' [258] -> [263]; 'Josh and then Whitney' [625] -> [637]; asks about SB 420 accountability [80]-[99], a concern she recalls on 10/19/2022)"
+  },
+  "522": {
+   "name": "Cassandra Edwards",
+   "role": "Public commenter, Ward 3 (self-identified 'Cassandra Edwards, Ward three' [38]; spelling as heard)"
+  },
+  "738": {
+   "name": "Ben Nester",
+   "role": "Director of Special Education, SAU 6 (not named on the recording; identified by role - answers for special education staffing and programs [739]-[760], 'Mike and Richard and I' [739]; roster: Ben Nester in this post 2019-2024)"
+  },
+  "273": {
+   "name": "Unidentified",
+   "role": "Unidentified - public commenter asking whether the board had already voted not to return the funds (not named on the recording)"
+  },
+  "275": {
+   "name": "Unidentified",
+   "role": "Unidentified - public commenter asking whether the board had already voted not to return the funds (not named on the recording)"
+  },
+  "280": {
+   "name": "Unidentified",
+   "role": "Unidentified - public commenter asking whether the board had already voted not to return the funds (not named on the recording)"
+  },
+  "448": {
+   "name": "Heather Whitney",
+   "role": "Claremont School Board Vice Chair (chair: 'Heather.' [446] -> [447] 'That's always me'; 'Heather.' [583] -> [585])"
+  },
+  "450": {
+   "name": "Heather Whitney",
+   "role": "Claremont School Board Vice Chair (chair: 'Heather.' [446] -> [447] 'That's always me'; 'Heather.' [583] -> [585])"
+  },
+  "454": {
+   "name": "Heather Whitney",
+   "role": "Claremont School Board Vice Chair (chair: 'Heather.' [446] -> [447] 'That's always me'; 'Heather.' [583] -> [585])"
+  },
+  "643": {
+   "name": "Whitney Skillen",
+   "role": "Claremont School Board member (chair: 'I had Josh, and then Whitney' [258] -> [263]; 'Josh and then Whitney' [625] -> [637]; asks about SB 420 accountability [80]-[99], a concern she recalls on 10/19/2022)"
+  },
+  "510": {
+   "name": "Bonnie Miles",
+   "role": "Claremont School Board member (chair: 'So body [Bonnie] made the motion' [15] after [8]-[14]; 'Bonnie, you want to talk about it?' [415] -> [416]; 'miss Miles' [713] -> [714])"
+  },
+  "512": {
+   "name": "Bonnie Miles",
+   "role": "Claremont School Board member (chair: 'So body [Bonnie] made the motion' [15] after [8]-[14]; 'Bonnie, you want to talk about it?' [415] -> [416]; 'miss Miles' [713] -> [714])"
+  },
+  "724": {
+   "name": "Bonnie Miles",
+   "role": "Claremont School Board member (chair: 'So body [Bonnie] made the motion' [15] after [8]-[14]; 'Bonnie, you want to talk about it?' [415] -> [416]; 'miss Miles' [713] -> [714])"
+  }
+ }
+}

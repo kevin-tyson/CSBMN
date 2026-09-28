@@ -1,0 +1,184 @@
+{
+ "Speaker 1": {
+  "name": "Keith Pfeifer",
+  "role": "Interim Superintendent, SAU 6 (closes the superintendent's report [0-1]; announces the SHS substitution [70]; free breakfast interim and plan B cost [112, 150]; answers 'Jason, I don't disagree' [167])"
+ },
+ "Speaker 2": {
+  "name": "Frank Sprague",
+  "role": "Claremont School Board Chair (runs citizens' comments, agenda and votes; recognizes 'Jason' [94], 'Carolyn' [156, 168], 'Steve' [514]; Towle: 'I was hoping maybe Frank' [579] -> [580])"
+ },
+ "Speaker 3": {
+  "name": "Cory LeClair",
+  "role": "Assistant Superintendent, SAU 6 ('As Corey said' [129] after her account [105-111]; Horsky: 'I completely follow Corey's sentiment' [182] after [175-181]; chair: 'Corey and I' set the agenda [518, 541])"
+ },
+ "Speaker 4": {
+  "name": "Unidentified",
+  "role": "Unidentified - public commenter, grandparent of a Disnard student (did not state a name at the mic [6-45])"
+ },
+ "Speaker 5": {
+  "name": "Jason Benware",
+  "role": "Claremont School Board member (chair: 'Jason.' [94] -> [95]; 'Jason, again, it's not an action item' [61]; 'my kids go to the bluff' [162] after Towle's 'Jason.' [160]; 'Jason' motion on the ice hockey co-op [291])"
+ },
+ "Speaker 6": {
+  "name": "Steven Horsky",
+  "role": "Claremont School Board member ('Go ahead. Steve.' [50] -> [51]; LeClair: 'while Stephen was talking' [54]; 'Steve.' [113] -> [114]; chair: 'So Steve, thoughts?' [514] -> [515]; volunteers for the search committee [568, 586])"
+ },
+ "Speaker 7": {
+  "name": "Unidentified",
+  "role": "Unidentified - public commenter, grandparent of a Disnard student (did not state a name at the mic [6-45])"
+ },
+ "Speaker 8": {
+  "name": "Unidentified",
+  "role": "Unidentified - cluster of short interjections from several board members and staff"
+ },
+ "Speaker 9": {
+  "name": "Carolyn Towle",
+  "role": "Claremont School Board member (chair: 'Carolyn, you had your hand up' [156] -> [158]; 'Carolyn.' [168] -> [169]; 'Right, Carolyn.' [527] -> [528])"
+ },
+ "Speaker 10": {
+  "name": "John Magoon",
+  "role": "Assistant Principal and special education coordinator, Stevens High School (self-ID 'My name is John Magoon. I'm the assistant principal as well as the special coordinator at the high school' [258]; presentation [299-325])"
+ },
+ "Speaker 11": {
+  "name": "Rebecca Zullo",
+  "role": "Claremont School Board Vice Chair (uncertain - not named at her turns; volunteers as timekeeper when the chair mentions the 'board vice chair' [483-484]; thanks colleagues after the chair names 'Steve and Rebecca' for the search committee [573-587])"
+ },
+ "Speaker 12": {
+  "name": "Unidentified",
+  "role": "Unidentified - student representative, Stevens High School (proposes a student forum [100]; explains why Student Voice postponed its presentation [244-245]; not named)"
+ },
+ "Speaker 13": {
+  "name": "Michael O'Neill",
+  "role": "Business Administrator, SAU 6 (LeClair: 'reach out to Mike O'Neil' [225]; 'Thank you Michael' [67]; explains the missed community eligibility filing as food service director [129-136])"
+ },
+ "Speaker 14": {
+  "name": "Unidentified",
+  "role": "Unidentified - Stevens High School administrator who revised the student handbook cell-phone language [344-353] (chair: 'Further questions for miss McGraw' [354]; possibly Principal Pat Barry garbled - H)"
+ },
+ "Speaker 15": {
+  "name": "Unidentified",
+  "role": "Unidentified - cluster of short responses from several voices; see override [570]"
+ },
+ "__overrides__": {
+  "267": {
+   "name": "Doug Beaupre",
+   "role": "Athletic Director, Stevens High School (chair: 'Questions for Mr. Beaupre' [282] after his ice hockey co-op request [278-281]; first name from the 12/5/18 recording, file 10139; spelling unverified)"
+  },
+  "268": {
+   "name": "Doug Beaupre",
+   "role": "Athletic Director, Stevens High School (chair: 'Questions for Mr. Beaupre' [282] after his ice hockey co-op request [278-281]; first name from the 12/5/18 recording, file 10139; spelling unverified)"
+  },
+  "269": {
+   "name": "Doug Beaupre",
+   "role": "Athletic Director, Stevens High School (chair: 'Questions for Mr. Beaupre' [282] after his ice hockey co-op request [278-281]; first name from the 12/5/18 recording, file 10139; spelling unverified)"
+  },
+  "270": {
+   "name": "Doug Beaupre",
+   "role": "Athletic Director, Stevens High School (chair: 'Questions for Mr. Beaupre' [282] after his ice hockey co-op request [278-281]; first name from the 12/5/18 recording, file 10139; spelling unverified)"
+  },
+  "272": {
+   "name": "Doug Beaupre",
+   "role": "Athletic Director, Stevens High School (chair: 'Questions for Mr. Beaupre' [282] after his ice hockey co-op request [278-281]; first name from the 12/5/18 recording, file 10139; spelling unverified)"
+  },
+  "273": {
+   "name": "Doug Beaupre",
+   "role": "Athletic Director, Stevens High School (chair: 'Questions for Mr. Beaupre' [282] after his ice hockey co-op request [278-281]; first name from the 12/5/18 recording, file 10139; spelling unverified)"
+  },
+  "274": {
+   "name": "Doug Beaupre",
+   "role": "Athletic Director, Stevens High School (chair: 'Questions for Mr. Beaupre' [282] after his ice hockey co-op request [278-281]; first name from the 12/5/18 recording, file 10139; spelling unverified)"
+  },
+  "276": {
+   "name": "Doug Beaupre",
+   "role": "Athletic Director, Stevens High School (chair: 'Questions for Mr. Beaupre' [282] after his ice hockey co-op request [278-281]; first name from the 12/5/18 recording, file 10139; spelling unverified)"
+  },
+  "278": {
+   "name": "Doug Beaupre",
+   "role": "Athletic Director, Stevens High School (chair: 'Questions for Mr. Beaupre' [282] after his ice hockey co-op request [278-281]; first name from the 12/5/18 recording, file 10139; spelling unverified)"
+  },
+  "279": {
+   "name": "Doug Beaupre",
+   "role": "Athletic Director, Stevens High School (chair: 'Questions for Mr. Beaupre' [282] after his ice hockey co-op request [278-281]; first name from the 12/5/18 recording, file 10139; spelling unverified)"
+  },
+  "280": {
+   "name": "Doug Beaupre",
+   "role": "Athletic Director, Stevens High School (chair: 'Questions for Mr. Beaupre' [282] after his ice hockey co-op request [278-281]; first name from the 12/5/18 recording, file 10139; spelling unverified)"
+  },
+  "281": {
+   "name": "Doug Beaupre",
+   "role": "Athletic Director, Stevens High School (chair: 'Questions for Mr. Beaupre' [282] after his ice hockey co-op request [278-281]; first name from the 12/5/18 recording, file 10139; spelling unverified)"
+  },
+  "286": {
+   "name": "Doug Beaupre",
+   "role": "Athletic Director, Stevens High School (chair: 'Questions for Mr. Beaupre' [282] after his ice hockey co-op request [278-281]; first name from the 12/5/18 recording, file 10139; spelling unverified)"
+  },
+  "290": {
+   "name": "Doug Beaupre",
+   "role": "Athletic Director, Stevens High School (chair: 'Questions for Mr. Beaupre' [282] after his ice hockey co-op request [278-281]; first name from the 12/5/18 recording, file 10139; spelling unverified)"
+  },
+  "296": {
+   "name": "Doug Beaupre",
+   "role": "Athletic Director, Stevens High School (chair: 'Questions for Mr. Beaupre' [282] after his ice hockey co-op request [278-281]; first name from the 12/5/18 recording, file 10139; spelling unverified)"
+  },
+  "153": {
+   "name": "Frank Sprague",
+   "role": "Claremont School Board Chair (runs citizens' comments, agenda and votes; recognizes 'Jason' [94], 'Carolyn' [156, 168], 'Steve' [514]; Towle: 'I was hoping maybe Frank' [579] -> [580])"
+  },
+  "570": {
+   "name": "Michael Petrin",
+   "role": "Claremont School Board member (chair: 'Steve. Mike.' [568-569] -> declines the search committee, 'I participated in the intern search' [570]; chair: 'I participated in the interim search with you' [571])"
+  },
+  "459": {
+   "name": "Rebecca Zullo",
+   "role": "Claremont School Board Vice Chair (uncertain - not named at her turns; volunteers as timekeeper when the chair mentions the 'board vice chair' [483-484]; thanks colleagues after the chair names 'Steve and Rebecca' for the search committee [573-587])"
+  },
+  "338": {
+   "name": "Unidentified",
+   "role": "Unidentified - Stevens High School administrator who revised the student handbook cell-phone language [344-353] (chair: 'Further questions for miss McGraw' [354]; possibly Principal Pat Barry garbled - H)"
+  },
+  "339": {
+   "name": "Unidentified",
+   "role": "Unidentified - Stevens High School administrator who revised the student handbook cell-phone language [344-353] (chair: 'Further questions for miss McGraw' [354]; possibly Principal Pat Barry garbled - H)"
+  },
+  "340": {
+   "name": "Unidentified",
+   "role": "Unidentified - Stevens High School administrator who revised the student handbook cell-phone language [344-353] (chair: 'Further questions for miss McGraw' [354]; possibly Principal Pat Barry garbled - H)"
+  },
+  "341": {
+   "name": "Unidentified",
+   "role": "Unidentified - Stevens High School administrator who revised the student handbook cell-phone language [344-353] (chair: 'Further questions for miss McGraw' [354]; possibly Principal Pat Barry garbled - H)"
+  },
+  "342": {
+   "name": "Unidentified",
+   "role": "Unidentified - Stevens High School administrator who revised the student handbook cell-phone language [344-353] (chair: 'Further questions for miss McGraw' [354]; possibly Principal Pat Barry garbled - H)"
+  },
+  "343": {
+   "name": "Unidentified",
+   "role": "Unidentified - Stevens High School administrator who revised the student handbook cell-phone language [344-353] (chair: 'Further questions for miss McGraw' [354]; possibly Principal Pat Barry garbled - H)"
+  },
+  "549": {
+   "name": "Cory LeClair",
+   "role": "Assistant Superintendent, SAU 6 ('As Corey said' [129] after her account [105-111]; Horsky: 'I completely follow Corey's sentiment' [182] after [175-181]; chair: 'Corey and I' set the agenda [518, 541])"
+  },
+  "577": {
+   "name": "Unidentified",
+   "role": "Unidentified - short interjection diarized with Magoon"
+  },
+  "634": {
+   "name": "Unidentified",
+   "role": "Unidentified - short interjection diarized with Magoon"
+  },
+  "639": {
+   "name": "Unidentified",
+   "role": "Unidentified - short interjection diarized with Magoon"
+  },
+  "641": {
+   "name": "Unidentified",
+   "role": "Unidentified - short interjection diarized with Magoon"
+  },
+  "659": {
+   "name": "Unidentified",
+   "role": "Unidentified - short interjection diarized with Magoon"
+  }
+ }
+}

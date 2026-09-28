@@ -1,0 +1,21 @@
+{
+ "Speaker 1": {"name": "Michael Tempesta", "role": "Superintendent, SAU 6 (presents the elementary restructuring slides and answers questions; 'my third year for sending budgets through the budgeting committee' [173] fits his 7/2019 start; not named on this recording)"},
+ "Speaker 2": {"name": "Patrick Adrian", "role": "Resident, former Claremont School Board member (recognized 'Patrick Adrian has a question' [60] and answered 'great question, Patrick' [64]); cluster also carries a facilitator's remarks, see overrides"},
+ "Speaker 3": {"name": "Jessica Christian", "role": "Parent of three district students and educator (self-identified [74]: 'I'm Jessica Christian')"},
+ "Speaker 4": {"name": "Unidentified", "role": "Unidentified - staff facilitator relaying online chat questions ('Shelby had a question' [87]); possibly Jeff Small, Director of Technology (uncertain - only 'through Mr. Small' [0])"},
+ "Speaker 5": {"name": "Gene Allen", "role": "Teacher and parent of a high school student (self-identified [103] as 'Gene Allen'; addressed as 'Jean' [105]; spelling uncertain)"},
+ "Speaker 6": {"name": "Unidentified", "role": "Unidentified - clipped onset of the facilitator's remark at [161]"},
+ "__overrides__": {
+  "79": {"name": "Unidentified", "role": "Unidentified - audience member follow-up (possibly Patrick Adrian or Jessica Christian; diarized with Patrick Adrian)"},
+  "80": {"name": "Unidentified", "role": "Unidentified - audience member follow-up (possibly Patrick Adrian or Jessica Christian; diarized with Patrick Adrian)"},
+  "82": {"name": "Unidentified", "role": "Unidentified - audience member follow-up (possibly Patrick Adrian or Jessica Christian; diarized with Patrick Adrian)"},
+  "94": {"name": "Unidentified", "role": "Unidentified - short interjection diarized with Patrick Adrian"},
+  "98": {"name": "Unidentified", "role": "Unidentified - staff facilitator relaying online chat questions ('Shelby had a question' [87]); possibly Jeff Small, Director of Technology (uncertain - only 'through Mr. Small' [0])"},
+  "100": {"name": "Unidentified", "role": "Unidentified - short interjection diarized with Patrick Adrian"},
+  "161": {"name": "Unidentified", "role": "Unidentified - staff facilitator relaying online chat questions ('Shelby had a question' [87]); possibly Jeff Small, Director of Technology (uncertain - only 'through Mr. Small' [0])"},
+  "102": {"name": "Gene Allen", "role": "Teacher and parent of a high school student (self-identified [103] as 'Gene Allen'; addressed as 'Jean' [105]; spelling uncertain)"},
+  "144": {"name": "Jessica Christian", "role": "Parent of three district students and educator (self-identified [74]: 'I'm Jessica Christian')"},
+  "176": {"name": "Tyler", "role": "Former student, public commenter (recognized 'Yes. Tyler.' [176]; surname not stated; segment opens with the superintendent's recognition)"},
+  "177": {"name": "Tyler", "role": "Former student, public commenter (recognized 'Yes. Tyler.' [176]; surname not stated; segment opens with the superintendent's recognition)"}
+ }
+}

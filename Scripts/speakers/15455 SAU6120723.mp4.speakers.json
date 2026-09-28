@@ -1,0 +1,492 @@
+{
+ "Speaker 1": {
+  "name": "Arlene Hawkins",
+  "role": "SAU 6 Board Chair; Claremont School Board member - presides throughout; the secretary reads 'Arlene Hopkins' at 1672.9s and 'Arlene Hawkins' at 1819.1s and this voice answers each time ('Yes,' / 'No.'), and she delivers the 11/28 policy-subcommittee report in the first person while naming Arlene Hawkins among those present"
+ },
+ "Speaker 2": {
+  "name": "Unidentified",
+  "role": "SAU 6 board member - questions the lag in posting corrected minutes online ('several changes had been suggested for the October 12th minutes... none of those changes had been made yet'); leads the audible Pledge of Allegiance and is not heard again after the minutes item. No name, roll answer or chair recognition attaches to this voice. Possible lead only: an unnamed Unity-side member raises the same October 12th minutes problem in Output/Dialogue/15299 SAU6110923.mp4.CSV ('I just saw my name on there and I was like, I was not here')"
+ },
+ "Speaker 3": {
+  "name": "Mary Henry",
+  "role": "Business Administrator, SAU 6 - the chair hands her the FY2025 SAU budget at 367.2s ('Miss Henry'); Candace Crawford addresses her at 766.1s and 1294.2s ('Mary'), the chair at 924.2s ('Mary, I'm going to ask you to slow down') and at 2161.7s ('Mary, you talked earlier about audits'); she says 'I brought my total overall budget down' and 'I'm looking for a staff accountant'"
+ },
+ "Speaker 4": {
+  "name": "Frank Sprague",
+  "role": "Claremont School Board Vice Chair; SAU 6 Board member - the chair recognises 'Is anyone Frank? And then Candice?' at 670.7s and 'I'm sorry. Frank.' at 1321.0s immediately before this voice, and it answers in the Sprague slot (after Hart) of the return-to-public and seal-the-minutes roll calls"
+ },
+ "Speaker 5": {
+  "name": "Whitney Skillen",
+  "role": "Claremont School Board member; SAU 6 Board member; superintendent-evaluation subcommittee - answers 'Yes' at 1837.4s immediately after the secretary reads the Miles/Skillen slot ('Bonnie. Miles. East. Gillen.'), the chair recognises 'Whitney.' at 1976.6s immediately before her budget motion, and at 2327.6s she says 'our committee does starting at five' of the superintendent-evaluation subcommittee"
+ },
+ "Speaker 6": {
+  "name": "Unidentified",
+  "role": "Fragment cluster - sub-second onsets and backchannels clipped from neighbouring speakers; the attributable ones are reassigned"
+ },
+ "Speaker 7": {
+  "name": "Candace Crawford",
+  "role": "Claremont School Board member; SAU 6 Board member - the chair recognises 'Candace.' at 764.0s and 'candy?' at 1292.4s immediately before this voice; she requests the Claremont-only caucus at 1443.4s"
+ },
+ "Speaker 8": {
+  "name": "Arlene Hawkins",
+  "role": "SAU 6 Board Chair; Claremont School Board member - presides throughout; the secretary reads 'Arlene Hopkins' at 1672.9s and 'Arlene Hawkins' at 1819.1s and this voice answers each time ('Yes,' / 'No.'), and she delivers the 11/28 policy-subcommittee report in the first person while naming Arlene Hawkins among those present"
+ },
+ "Speaker 9": {
+  "name": "Jeff Small",
+  "role": "Director of Technology, SAU 6 - Mary Henry presents 'Jeff's line' of staff training at 1184.8s, the chair asks 'So it comes down to 5000 for D and 2500 for you' at 1251.7s and this voice answers 'Yep, that's about it'"
+ },
+ "Speaker 10": {
+  "name": "Unidentified",
+  "role": "Unidentified voice in the room during the recess and the return from nonpublic session (offers to open a window, 'there's no room')"
+ },
+ "Speaker 11": {
+  "name": "Noelle Kronberg",
+  "role": "SAU 6 / Claremont School Board Clerk - appointed at the previous meeting (11/9/23), where Superintendent Tempesta introduces 'Noel Kronberg who has applied for the position of school board clerk' (see Output/Dialogue/15299 SAU6110923.mp4.CSV at 100.9s). Here the chair thanks 'Noel' at 45.5s for 'recording and transcribing of last month's meetings' and 'such an easy, smooth transition'; the chair says 'Secretary, roll call the attendance' at 70.1s and 'I would like to ask the secretary to take a roll call' at 1753.1s, and this voice reads all four roll calls; at 269.1s she says 'I did the last meeting... I'll email Chelsea'. Surname heard on 11/9 as both 'Kronberg' and 'Cronenberg'; never spoken on this recording"
+ },
+ "Speaker 12": {
+  "name": "Unidentified",
+  "role": "SAU 6 board member moving to seal the nonpublic minutes for 99 years - the chair does not name the mover and no other anchor identifies this single-segment voice"
+ },
+ "__overrides__": {
+  "44": {
+   "name": "Mary Henry",
+   "role": "Business Administrator, SAU 6 - continuous FY2025 SAU budget presentation; the diarizer flaps her between clusters and absorbs board members' interjections into the middle of these segments (see the run at 402-1378s)"
+  },
+  "46": {
+   "name": "Mary Henry",
+   "role": "Business Administrator, SAU 6 - continuous FY2025 SAU budget presentation; the diarizer flaps her between clusters and absorbs board members' interjections into the middle of these segments (see the run at 402-1378s)"
+  },
+  "48": {
+   "name": "Mary Henry",
+   "role": "Business Administrator, SAU 6 - continuous FY2025 SAU budget presentation; the diarizer flaps her between clusters and absorbs board members' interjections into the middle of these segments (see the run at 402-1378s)"
+  },
+  "50": {
+   "name": "Mary Henry",
+   "role": "Business Administrator, SAU 6 - continuous FY2025 SAU budget presentation; the diarizer flaps her between clusters and absorbs board members' interjections into the middle of these segments (see the run at 402-1378s)"
+  },
+  "52": {
+   "name": "Mary Henry",
+   "role": "Business Administrator, SAU 6 - continuous FY2025 SAU budget presentation; the diarizer flaps her between clusters and absorbs board members' interjections into the middle of these segments (see the run at 402-1378s)"
+  },
+  "54": {
+   "name": "Mary Henry",
+   "role": "Business Administrator, SAU 6 - continuous FY2025 SAU budget presentation; the diarizer flaps her between clusters and absorbs board members' interjections into the middle of these segments (see the run at 402-1378s)"
+  },
+  "56": {
+   "name": "Mary Henry",
+   "role": "Business Administrator, SAU 6 - continuous FY2025 SAU budget presentation; the diarizer flaps her between clusters and absorbs board members' interjections into the middle of these segments (see the run at 402-1378s)"
+  },
+  "58": {
+   "name": "Mary Henry",
+   "role": "Business Administrator, SAU 6 - continuous FY2025 SAU budget presentation; the diarizer flaps her between clusters and absorbs board members' interjections into the middle of these segments (see the run at 402-1378s)"
+  },
+  "60": {
+   "name": "Mary Henry",
+   "role": "Business Administrator, SAU 6 - continuous FY2025 SAU budget presentation; the diarizer flaps her between clusters and absorbs board members' interjections into the middle of these segments (see the run at 402-1378s)"
+  },
+  "62": {
+   "name": "Mary Henry",
+   "role": "Business Administrator, SAU 6 - continuous FY2025 SAU budget presentation; the diarizer flaps her between clusters and absorbs board members' interjections into the middle of these segments (see the run at 402-1378s)"
+  },
+  "63": {
+   "name": "Mary Henry",
+   "role": "Business Administrator, SAU 6 - continuous FY2025 SAU budget presentation; the diarizer flaps her between clusters and absorbs board members' interjections into the middle of these segments (see the run at 402-1378s)"
+  },
+  "64": {
+   "name": "Mary Henry",
+   "role": "Business Administrator, SAU 6 - continuous FY2025 SAU budget presentation; the diarizer flaps her between clusters and absorbs board members' interjections into the middle of these segments (see the run at 402-1378s)"
+  },
+  "65": {
+   "name": "Mary Henry",
+   "role": "Business Administrator, SAU 6 - continuous FY2025 SAU budget presentation; the diarizer flaps her between clusters and absorbs board members' interjections into the middle of these segments (see the run at 402-1378s)"
+  },
+  "67": {
+   "name": "Mary Henry",
+   "role": "Business Administrator, SAU 6 - continuous FY2025 SAU budget presentation; the diarizer flaps her between clusters and absorbs board members' interjections into the middle of these segments (see the run at 402-1378s)"
+  },
+  "68": {
+   "name": "Mary Henry",
+   "role": "Business Administrator, SAU 6 - continuous FY2025 SAU budget presentation; the diarizer flaps her between clusters and absorbs board members' interjections into the middle of these segments (see the run at 402-1378s)"
+  },
+  "69": {
+   "name": "Mary Henry",
+   "role": "Business Administrator, SAU 6 - continuous FY2025 SAU budget presentation; the diarizer flaps her between clusters and absorbs board members' interjections into the middle of these segments (see the run at 402-1378s)"
+  },
+  "70": {
+   "name": "Mary Henry",
+   "role": "Business Administrator, SAU 6 - continuous FY2025 SAU budget presentation; the diarizer flaps her between clusters and absorbs board members' interjections into the middle of these segments (see the run at 402-1378s)"
+  },
+  "71": {
+   "name": "Mary Henry",
+   "role": "Business Administrator, SAU 6 - continuous FY2025 SAU budget presentation; the diarizer flaps her between clusters and absorbs board members' interjections into the middle of these segments (see the run at 402-1378s)"
+  },
+  "72": {
+   "name": "Mary Henry",
+   "role": "Business Administrator, SAU 6 - continuous FY2025 SAU budget presentation; the diarizer flaps her between clusters and absorbs board members' interjections into the middle of these segments (see the run at 402-1378s)"
+  },
+  "74": {
+   "name": "Mary Henry",
+   "role": "Business Administrator, SAU 6 - continuous FY2025 SAU budget presentation; the diarizer flaps her between clusters and absorbs board members' interjections into the middle of these segments (see the run at 402-1378s)"
+  },
+  "77": {
+   "name": "Mary Henry",
+   "role": "Business Administrator, SAU 6 - continuous FY2025 SAU budget presentation; the diarizer flaps her between clusters and absorbs board members' interjections into the middle of these segments (see the run at 402-1378s)"
+  },
+  "79": {
+   "name": "Mary Henry",
+   "role": "Business Administrator, SAU 6 - continuous FY2025 SAU budget presentation; the diarizer flaps her between clusters and absorbs board members' interjections into the middle of these segments (see the run at 402-1378s)"
+  },
+  "83": {
+   "name": "Mary Henry",
+   "role": "Business Administrator, SAU 6 - continuous FY2025 SAU budget presentation; the diarizer flaps her between clusters and absorbs board members' interjections into the middle of these segments (see the run at 402-1378s)"
+  },
+  "85": {
+   "name": "Mary Henry",
+   "role": "Business Administrator, SAU 6 - continuous FY2025 SAU budget presentation; the diarizer flaps her between clusters and absorbs board members' interjections into the middle of these segments (see the run at 402-1378s)"
+  },
+  "87": {
+   "name": "Mary Henry",
+   "role": "Business Administrator, SAU 6 - continuous FY2025 SAU budget presentation; the diarizer flaps her between clusters and absorbs board members' interjections into the middle of these segments (see the run at 402-1378s)"
+  },
+  "89": {
+   "name": "Mary Henry",
+   "role": "Business Administrator, SAU 6 - continuous FY2025 SAU budget presentation; the diarizer flaps her between clusters and absorbs board members' interjections into the middle of these segments (see the run at 402-1378s)"
+  },
+  "90": {
+   "name": "Mary Henry",
+   "role": "Business Administrator, SAU 6 - continuous FY2025 SAU budget presentation; the diarizer flaps her between clusters and absorbs board members' interjections into the middle of these segments (see the run at 402-1378s)"
+  },
+  "91": {
+   "name": "Mary Henry",
+   "role": "Business Administrator, SAU 6 - continuous FY2025 SAU budget presentation; the diarizer flaps her between clusters and absorbs board members' interjections into the middle of these segments (see the run at 402-1378s)"
+  },
+  "92": {
+   "name": "Mary Henry",
+   "role": "Business Administrator, SAU 6 - continuous FY2025 SAU budget presentation; the diarizer flaps her between clusters and absorbs board members' interjections into the middle of these segments (see the run at 402-1378s)"
+  },
+  "93": {
+   "name": "Mary Henry",
+   "role": "Business Administrator, SAU 6 - continuous FY2025 SAU budget presentation; the diarizer flaps her between clusters and absorbs board members' interjections into the middle of these segments (see the run at 402-1378s)"
+  },
+  "95": {
+   "name": "Mary Henry",
+   "role": "Business Administrator, SAU 6 - continuous FY2025 SAU budget presentation; the diarizer flaps her between clusters and absorbs board members' interjections into the middle of these segments (see the run at 402-1378s)"
+  },
+  "97": {
+   "name": "Mary Henry",
+   "role": "Business Administrator, SAU 6 - continuous FY2025 SAU budget presentation; the diarizer flaps her between clusters and absorbs board members' interjections into the middle of these segments (see the run at 402-1378s)"
+  },
+  "100": {
+   "name": "Mary Henry",
+   "role": "Business Administrator, SAU 6 - continuous FY2025 SAU budget presentation; the diarizer flaps her between clusters and absorbs board members' interjections into the middle of these segments (see the run at 402-1378s)"
+  },
+  "101": {
+   "name": "Mary Henry",
+   "role": "Business Administrator, SAU 6 - continuous FY2025 SAU budget presentation; the diarizer flaps her between clusters and absorbs board members' interjections into the middle of these segments (see the run at 402-1378s)"
+  },
+  "103": {
+   "name": "Mary Henry",
+   "role": "Business Administrator, SAU 6 - continuous FY2025 SAU budget presentation; the diarizer flaps her between clusters and absorbs board members' interjections into the middle of these segments (see the run at 402-1378s)"
+  },
+  "105": {
+   "name": "Mary Henry",
+   "role": "Business Administrator, SAU 6 - continuous FY2025 SAU budget presentation; the diarizer flaps her between clusters and absorbs board members' interjections into the middle of these segments (see the run at 402-1378s)"
+  },
+  "107": {
+   "name": "Mary Henry",
+   "role": "Business Administrator, SAU 6 - continuous FY2025 SAU budget presentation; the diarizer flaps her between clusters and absorbs board members' interjections into the middle of these segments (see the run at 402-1378s)"
+  },
+  "109": {
+   "name": "Mary Henry",
+   "role": "Business Administrator, SAU 6 - continuous FY2025 SAU budget presentation; the diarizer flaps her between clusters and absorbs board members' interjections into the middle of these segments (see the run at 402-1378s)"
+  },
+  "110": {
+   "name": "Mary Henry",
+   "role": "Business Administrator, SAU 6 - continuous FY2025 SAU budget presentation; the diarizer flaps her between clusters and absorbs board members' interjections into the middle of these segments (see the run at 402-1378s)"
+  },
+  "111": {
+   "name": "Mary Henry",
+   "role": "Business Administrator, SAU 6 - continuous FY2025 SAU budget presentation; the diarizer flaps her between clusters and absorbs board members' interjections into the middle of these segments (see the run at 402-1378s)"
+  },
+  "112": {
+   "name": "Mary Henry",
+   "role": "Business Administrator, SAU 6 - continuous FY2025 SAU budget presentation; the diarizer flaps her between clusters and absorbs board members' interjections into the middle of these segments (see the run at 402-1378s)"
+  },
+  "114": {
+   "name": "Mary Henry",
+   "role": "Business Administrator, SAU 6 - continuous FY2025 SAU budget presentation; the diarizer flaps her between clusters and absorbs board members' interjections into the middle of these segments (see the run at 402-1378s)"
+  },
+  "116": {
+   "name": "Mary Henry",
+   "role": "Business Administrator, SAU 6 - continuous FY2025 SAU budget presentation; the diarizer flaps her between clusters and absorbs board members' interjections into the middle of these segments (see the run at 402-1378s)"
+  },
+  "117": {
+   "name": "Mary Henry",
+   "role": "Business Administrator, SAU 6 - continuous FY2025 SAU budget presentation; the diarizer flaps her between clusters and absorbs board members' interjections into the middle of these segments (see the run at 402-1378s)"
+  },
+  "118": {
+   "name": "Mary Henry",
+   "role": "Business Administrator, SAU 6 - continuous FY2025 SAU budget presentation; the diarizer flaps her between clusters and absorbs board members' interjections into the middle of these segments (see the run at 402-1378s)"
+  },
+  "123": {
+   "name": "Mary Henry",
+   "role": "Business Administrator, SAU 6 - continuous FY2025 SAU budget presentation; the diarizer flaps her between clusters and absorbs board members' interjections into the middle of these segments (see the run at 402-1378s)"
+  },
+  "127": {
+   "name": "Mary Henry",
+   "role": "Business Administrator, SAU 6 - continuous FY2025 SAU budget presentation; the diarizer flaps her between clusters and absorbs board members' interjections into the middle of these segments (see the run at 402-1378s)"
+  },
+  "129": {
+   "name": "Mary Henry",
+   "role": "Business Administrator, SAU 6 - continuous FY2025 SAU budget presentation; the diarizer flaps her between clusters and absorbs board members' interjections into the middle of these segments (see the run at 402-1378s)"
+  },
+  "131": {
+   "name": "Mary Henry",
+   "role": "Business Administrator, SAU 6 - continuous FY2025 SAU budget presentation; the diarizer flaps her between clusters and absorbs board members' interjections into the middle of these segments (see the run at 402-1378s)"
+  },
+  "134": {
+   "name": "Mary Henry",
+   "role": "Business Administrator, SAU 6 - continuous FY2025 SAU budget presentation; the diarizer flaps her between clusters and absorbs board members' interjections into the middle of these segments (see the run at 402-1378s)"
+  },
+  "136": {
+   "name": "Mary Henry",
+   "role": "Business Administrator, SAU 6 - continuous FY2025 SAU budget presentation; the diarizer flaps her between clusters and absorbs board members' interjections into the middle of these segments (see the run at 402-1378s)"
+  },
+  "138": {
+   "name": "Mary Henry",
+   "role": "Business Administrator, SAU 6 - continuous FY2025 SAU budget presentation; the diarizer flaps her between clusters and absorbs board members' interjections into the middle of these segments (see the run at 402-1378s)"
+  },
+  "141": {
+   "name": "Mary Henry",
+   "role": "Business Administrator, SAU 6 - continuous FY2025 SAU budget presentation; the diarizer flaps her between clusters and absorbs board members' interjections into the middle of these segments (see the run at 402-1378s)"
+  },
+  "143": {
+   "name": "Mary Henry",
+   "role": "Business Administrator, SAU 6 - continuous FY2025 SAU budget presentation; the diarizer flaps her between clusters and absorbs board members' interjections into the middle of these segments (see the run at 402-1378s)"
+  },
+  "148": {
+   "name": "Mary Henry",
+   "role": "Business Administrator, SAU 6 - continuous FY2025 SAU budget presentation; the diarizer flaps her between clusters and absorbs board members' interjections into the middle of these segments (see the run at 402-1378s)"
+  },
+  "149": {
+   "name": "Mary Henry",
+   "role": "Business Administrator, SAU 6 - continuous FY2025 SAU budget presentation; the diarizer flaps her between clusters and absorbs board members' interjections into the middle of these segments (see the run at 402-1378s)"
+  },
+  "151": {
+   "name": "Mary Henry",
+   "role": "Business Administrator, SAU 6 - continuous FY2025 SAU budget presentation; the diarizer flaps her between clusters and absorbs board members' interjections into the middle of these segments (see the run at 402-1378s)"
+  },
+  "153": {
+   "name": "Mary Henry",
+   "role": "Business Administrator, SAU 6 - continuous FY2025 SAU budget presentation; the diarizer flaps her between clusters and absorbs board members' interjections into the middle of these segments (see the run at 402-1378s)"
+  },
+  "155": {
+   "name": "Mary Henry",
+   "role": "Business Administrator, SAU 6 - continuous FY2025 SAU budget presentation; the diarizer flaps her between clusters and absorbs board members' interjections into the middle of these segments (see the run at 402-1378s)"
+  },
+  "156": {
+   "name": "Mary Henry",
+   "role": "Business Administrator, SAU 6 - continuous FY2025 SAU budget presentation; the diarizer flaps her between clusters and absorbs board members' interjections into the middle of these segments (see the run at 402-1378s)"
+  },
+  "158": {
+   "name": "Mary Henry",
+   "role": "Business Administrator, SAU 6 - continuous FY2025 SAU budget presentation; the diarizer flaps her between clusters and absorbs board members' interjections into the middle of these segments (see the run at 402-1378s)"
+  },
+  "43": {
+   "name": "Mary Henry",
+   "role": "Business Administrator, SAU 6 - opening of her budget presentation, ping-ponged between two clusters mid-sentence ('After speaking with Arlene... she had asked some good questions')"
+  },
+  "45": {
+   "name": "Mary Henry",
+   "role": "Business Administrator, SAU 6 - opening of her budget presentation, ping-ponged between two clusters mid-sentence ('After speaking with Arlene... she had asked some good questions')"
+  },
+  "47": {
+   "name": "Mary Henry",
+   "role": "Business Administrator, SAU 6 - opening of her budget presentation, ping-ponged between two clusters mid-sentence ('After speaking with Arlene... she had asked some good questions')"
+  },
+  "49": {
+   "name": "Mary Henry",
+   "role": "Business Administrator, SAU 6 - opening of her budget presentation, ping-ponged between two clusters mid-sentence ('After speaking with Arlene... she had asked some good questions')"
+  },
+  "51": {
+   "name": "Mary Henry",
+   "role": "Business Administrator, SAU 6 - opening of her budget presentation, ping-ponged between two clusters mid-sentence ('After speaking with Arlene... she had asked some good questions')"
+  },
+  "53": {
+   "name": "Mary Henry",
+   "role": "Business Administrator, SAU 6 - opening of her budget presentation, ping-ponged between two clusters mid-sentence ('After speaking with Arlene... she had asked some good questions')"
+  },
+  "55": {
+   "name": "Mary Henry",
+   "role": "Business Administrator, SAU 6 - opening of her budget presentation, ping-ponged between two clusters mid-sentence ('After speaking with Arlene... she had asked some good questions')"
+  },
+  "59": {
+   "name": "Mary Henry",
+   "role": "Business Administrator, SAU 6 - opening of her budget presentation, ping-ponged between two clusters mid-sentence ('After speaking with Arlene... she had asked some good questions')"
+  },
+  "61": {
+   "name": "Mary Henry",
+   "role": "Business Administrator, SAU 6 - opening of her budget presentation, ping-ponged between two clusters mid-sentence ('After speaking with Arlene... she had asked some good questions')"
+  },
+  "57": {
+   "name": "Mary Henry",
+   "role": "Business Administrator, SAU 6 - 'of different ones' continues her own sentence from 394.8s; the trailing 'Okay.' is a board member's"
+  },
+  "253": {
+   "name": "Mary Henry",
+   "role": "Business Administrator, SAU 6 - noting down the board's post-caucus budget directives; the chair thanks her at 1960.9s ('we appreciate all the work you did') and this voice answers 'Thank you', and at 2165.5s the chair addresses 'Mary' and this voice answers 'That would [be great]'"
+  },
+  "258": {
+   "name": "Mary Henry",
+   "role": "Business Administrator, SAU 6 - noting down the board's post-caucus budget directives; the chair thanks her at 1960.9s ('we appreciate all the work you did') and this voice answers 'Thank you', and at 2165.5s the chair addresses 'Mary' and this voice answers 'That would [be great]'"
+  },
+  "260": {
+   "name": "Mary Henry",
+   "role": "Business Administrator, SAU 6 - noting down the board's post-caucus budget directives; the chair thanks her at 1960.9s ('we appreciate all the work you did') and this voice answers 'Thank you', and at 2165.5s the chair addresses 'Mary' and this voice answers 'That would [be great]'"
+  },
+  "262": {
+   "name": "Mary Henry",
+   "role": "Business Administrator, SAU 6 - noting down the board's post-caucus budget directives; the chair thanks her at 1960.9s ('we appreciate all the work you did') and this voice answers 'Thank you', and at 2165.5s the chair addresses 'Mary' and this voice answers 'That would [be great]'"
+  },
+  "266": {
+   "name": "Mary Henry",
+   "role": "Business Administrator, SAU 6 - noting down the board's post-caucus budget directives; the chair thanks her at 1960.9s ('we appreciate all the work you did') and this voice answers 'Thank you', and at 2165.5s the chair addresses 'Mary' and this voice answers 'That would [be great]'"
+  },
+  "268": {
+   "name": "Mary Henry",
+   "role": "Business Administrator, SAU 6 - noting down the board's post-caucus budget directives; the chair thanks her at 1960.9s ('we appreciate all the work you did') and this voice answers 'Thank you', and at 2165.5s the chair addresses 'Mary' and this voice answers 'That would [be great]'"
+  },
+  "272": {
+   "name": "Mary Henry",
+   "role": "Business Administrator, SAU 6 - noting down the board's post-caucus budget directives; the chair thanks her at 1960.9s ('we appreciate all the work you did') and this voice answers 'Thank you', and at 2165.5s the chair addresses 'Mary' and this voice answers 'That would [be great]'"
+  },
+  "278": {
+   "name": "Mary Henry",
+   "role": "Business Administrator, SAU 6 - noting down the board's post-caucus budget directives; the chair thanks her at 1960.9s ('we appreciate all the work you did') and this voice answers 'Thank you', and at 2165.5s the chair addresses 'Mary' and this voice answers 'That would [be great]'"
+  },
+  "265": {
+   "name": "Mary Henry",
+   "role": "Business Administrator, SAU 6 - asks for the motion's dollar figure to be repeated so she can write it down (continuous with 'to write it' at 1998.8s)"
+  },
+  "6": {
+   "name": "Noelle Kronberg",
+   "role": "SAU 6 / Claremont School Board Clerk (appointed 11/9/23) - reads the opening roll call of attendance at the chair's request, and at 269.1s explains the lag on the October 12th minutes ('I did the last meeting... I'll email Chelsea')"
+  },
+  "7": {
+   "name": "Noelle Kronberg",
+   "role": "SAU 6 / Claremont School Board Clerk (appointed 11/9/23) - reads the opening roll call of attendance at the chair's request, and at 269.1s explains the lag on the October 12th minutes ('I did the last meeting... I'll email Chelsea')"
+  },
+  "33": {
+   "name": "Noelle Kronberg",
+   "role": "SAU 6 / Claremont School Board Clerk (appointed 11/9/23) - reads the opening roll call of attendance at the chair's request, and at 269.1s explains the lag on the October 12th minutes ('I did the last meeting... I'll email Chelsea')"
+  },
+  "37": {
+   "name": "Noelle Kronberg",
+   "role": "SAU 6 / Claremont School Board Clerk (appointed 11/9/23) - reads the opening roll call of attendance at the chair's request, and at 269.1s explains the lag on the October 12th minutes ('I did the last meeting... I'll email Chelsea')"
+  },
+  "228": {
+   "name": "Marjorie Erickson",
+   "role": "Unity School Board Chair; SAU 6 Board member - third in the roll-call order in every recorded vote (Hawkins, Ruggeri, Erickson); the secretary's segment carries 'Marjorie Erickson, abstain' at 1678.4s. Attributed here by roll-call position; her name is not audible immediately before these answers"
+  },
+  "245": {
+   "name": "Marjorie Erickson",
+   "role": "Unity School Board Chair; SAU 6 Board member - third in the roll-call order in every recorded vote (Hawkins, Ruggeri, Erickson); the secretary's segment carries 'Marjorie Erickson, abstain' at 1678.4s. Attributed here by roll-call position; her name is not audible immediately before these answers"
+  },
+  "232": {
+   "name": "Bonnie Miles",
+   "role": "Claremont School Board member; SAU 6 Board Treasurer per the wider record (not stated in this recording) - attributed by roll-call position only (the slot the secretary reads as 'On the morrow' / 'Bonnie. Miles.'); she is not otherwise heard at this meeting"
+  },
+  "234": {
+   "name": "Jennifer Gallagher",
+   "role": "Claremont School Board member; SAU 6 Board member - last member read in each vote roll ('Jennifer Gallagher' 1694.4s, 'And for Gallagher' 1840.7s) with her answer immediately following"
+  },
+  "251": {
+   "name": "Jennifer Gallagher",
+   "role": "Claremont School Board member; SAU 6 Board member - last member read in each vote roll ('Jennifer Gallagher' 1694.4s, 'And for Gallagher' 1840.7s) with her answer immediately following"
+  },
+  "205": {
+   "name": "Rocco Ruggeri",
+   "role": "Unity School Board member; SAU 6 Board member (vice chair per the wider SAU 6 record; not stated in this recording) - answers immediately after the secretary reads his name at 1675.9s ('We're here'), 1775.0s ('Rocco. Jerry.') and 1823.3s ('Jerry.'); the diarizer merges him with Sprague into one male cluster"
+  },
+  "227": {
+   "name": "Rocco Ruggeri",
+   "role": "Unity School Board member; SAU 6 Board member (vice chair per the wider SAU 6 record; not stated in this recording) - answers immediately after the secretary reads his name at 1675.9s ('We're here'), 1775.0s ('Rocco. Jerry.') and 1823.3s ('Jerry.'); the diarizer merges him with Sprague into one male cluster"
+  },
+  "243": {
+   "name": "Rocco Ruggeri",
+   "role": "Unity School Board member; SAU 6 Board member (vice chair per the wider SAU 6 record; not stated in this recording) - answers immediately after the secretary reads his name at 1675.9s ('We're here'), 1775.0s ('Rocco. Jerry.') and 1823.3s ('Jerry.'); the diarizer merges him with Sprague into one male cluster"
+  },
+  "186": {
+   "name": "Kelly Simpson",
+   "role": "Unity School Board member; SAU 6 Board member - the chair says 'Kelly seconds the motion' at 1582.1s immediately after this second; she also answers 'Yes' in the Simpson slot of all three roll-call votes"
+  },
+  "5": {
+   "name": "Unidentified",
+   "role": "Two board members answering the opening roll call; the names the secretary read immediately before were not transcribed (by roll position, the first two on the list)"
+  },
+  "11": {
+   "name": "Unidentified",
+   "role": "Board members' collective 'Aye' on a voice vote; the diarizer attaches it to whichever mic carried it"
+  },
+  "41": {
+   "name": "Unidentified",
+   "role": "Board members' collective 'Aye' on a voice vote; the diarizer attaches it to whichever mic carried it"
+  },
+  "15": {
+   "name": "Unidentified",
+   "role": "SAU 6 board member - questions the lag in posting corrected minutes online (October 12th minutes not yet updated); leads the audible Pledge of Allegiance and is not heard again after the minutes item. No name, roll answer or chair recognition attaches to this voice"
+  },
+  "17": {
+   "name": "Unidentified",
+   "role": "SAU 6 board member - questions the lag in posting corrected minutes online (October 12th minutes not yet updated); leads the audible Pledge of Allegiance and is not heard again after the minutes item. No name, roll answer or chair recognition attaches to this voice"
+  },
+  "28": {
+   "name": "Unidentified",
+   "role": "SAU 6 board member - questions the lag in posting corrected minutes online (October 12th minutes not yet updated); leads the audible Pledge of Allegiance and is not heard again after the minutes item. No name, roll answer or chair recognition attaches to this voice"
+  },
+  "176": {
+   "name": "Unidentified",
+   "role": "Recess crosstalk at the board table, largely untranscribed; no speaker anchor"
+  },
+  "180": {
+   "name": "Unidentified",
+   "role": "Recess crosstalk at the board table, largely untranscribed; no speaker anchor"
+  },
+  "178": {
+   "name": "Candace Crawford",
+   "role": "Claremont School Board member; SAU 6 Board member - continues her own recess anecdote from 1538.7s without a gap"
+  },
+  "184": {
+   "name": "Unidentified",
+   "role": "SAU 6 board member - a single unanchored assent or question absorbed into a neighbouring cluster"
+  },
+  "285": {
+   "name": "Unidentified",
+   "role": "SAU 6 board member - a single unanchored assent or question absorbed into a neighbouring cluster"
+  },
+  "286": {
+   "name": "Unidentified",
+   "role": "SAU 6 board member - a single unanchored assent or question absorbed into a neighbouring cluster"
+  },
+  "39": {
+   "name": "Arlene Hawkins",
+   "role": "SAU 6 Board Chair; Claremont School Board member - 0.5s sliver inside her own continuous sentence ('so I'm correcting these minutes, which is correcting the minutes')"
+  },
+  "120": {
+   "name": "Jeff Small",
+   "role": "Director of Technology, SAU 6 - 'It could be, it could' runs without a gap into 'be a combination' at 1227.6s, one sentence"
+  },
+  "281": {
+   "name": "Unidentified",
+   "role": "SAU 6 board member delivering the superintendent-evaluation subcommittee update - UNRESOLVED. This segment opens with Chair Hawkins introducing the item ('The next... subcommittee meeting report is the superintendent evaluation subcommittee'); after a 2.2s break and an interjected 'Hi.' at 2232.5s the report is delivered in the first person ('get us a spreadsheet', 'streamlining our discussions', 'which I just start[ed] that process with him') and the chair answers 'Great. Thank you.' at 2267.5s. The subcommittee is Ruggeri, Hart, Sprague and Skillen; a 0.16s sliver of this report clusters to Whitney Skillen at 2264.3s, but Hawkins read the same report herself on 11/9/23, so no name is defensible here"
+  },
+  "295": {
+   "name": "Frank Sprague",
+   "role": "Claremont School Board Vice Chair; SAU 6 Board member - answers a 0.3s 'Yes' immediately after the chair asks for a motion to adjourn and names 'Sprague' (heard as 'Just a spray?') at 2352.8s. MEDIUM confidence"
+  },
+  "282": {
+   "name": "Unidentified",
+   "role": "SAU 6 board member delivering the superintendent-evaluation subcommittee update - UNRESOLVED. This segment opens with Chair Hawkins introducing the item ('The next... subcommittee meeting report is the superintendent evaluation subcommittee'); after a 2.2s break and an interjected 'Hi.' at 2232.5s the report is delivered in the first person ('get us a spreadsheet', 'streamlining our discussions', 'which I just start[ed] that process with him') and the chair answers 'Great. Thank you.' at 2267.5s. The subcommittee is Ruggeri, Hart, Sprague and Skillen; a 0.16s sliver of this report clusters to Whitney Skillen at 2264.3s, but Hawkins read the same report herself on 11/9/23, so no name is defensible here"
+  }
+ }
+}

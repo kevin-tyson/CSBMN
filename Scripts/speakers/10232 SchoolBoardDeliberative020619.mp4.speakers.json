@@ -1,0 +1,376 @@
+{
+ "Speaker 1": {
+  "name": "Josh Malloy",
+  "role": "Director of Technology, Claremont School District (introduced by Dr. Pfeifer [4]; self-ID 'Joshua, Ward one')"
+ },
+ "Speaker 2": {
+  "name": "Unidentified",
+  "role": "Unidentified - short fragments"
+ },
+ "Speaker 3": {
+  "name": "Tracy Pope",
+  "role": "School district moderator, presiding (uncertain - not named on this recording; Tracy Pope is the moderator on the Article 1 slate [26] and was re-elected unopposed 3/12/2019)"
+ },
+ "Speaker 4": {
+  "name": "Jason Benware",
+  "role": "Claremont School Board member; budget subcommittee (presents Article 2)"
+ },
+ "Speaker 5": {
+  "name": "Carolyn Towle",
+  "role": "Claremont School Board member"
+ },
+ "Speaker 6": {
+  "name": "Tracy Pope",
+  "role": "School district moderator, presiding (uncertain - not named on this recording; Tracy Pope is the moderator on the Article 1 slate [26] and was re-elected unopposed 3/12/2019)"
+ },
+ "Speaker 7": {
+  "name": "Tracy Pope",
+  "role": "School district moderator, presiding (uncertain - not named on this recording; Tracy Pope is the moderator on the Article 1 slate [26] and was re-elected unopposed 3/12/2019)"
+ },
+ "__overrides__": {
+  "0": {
+   "name": "Unidentified",
+   "role": "Unidentified - pre-meeting fragment"
+  },
+  "4": {
+   "name": "Keith Pfeifer",
+   "role": "Interim Superintendent, SAU 6 (moderator: 'Doctor Keith Speicher', 'Thank you, Doctor Piper')"
+  },
+  "5": {
+   "name": "Keith Pfeifer",
+   "role": "Interim Superintendent, SAU 6 (moderator: 'Doctor Keith Speicher', 'Thank you, Doctor Piper')"
+  },
+  "7": {
+   "name": "Frank Sprague",
+   "role": "Claremont School Board Chair"
+  },
+  "200": {
+   "name": "Frank Sprague",
+   "role": "Claremont School Board Chair"
+  },
+  "201": {
+   "name": "Frank Sprague",
+   "role": "Claremont School Board Chair"
+  },
+  "202": {
+   "name": "Frank Sprague",
+   "role": "Claremont School Board Chair"
+  },
+  "203": {
+   "name": "Frank Sprague",
+   "role": "Claremont School Board Chair"
+  },
+  "204": {
+   "name": "Frank Sprague",
+   "role": "Claremont School Board Chair"
+  },
+  "206": {
+   "name": "Frank Sprague",
+   "role": "Claremont School Board Chair"
+  },
+  "207": {
+   "name": "Frank Sprague",
+   "role": "Claremont School Board Chair"
+  },
+  "208": {
+   "name": "Frank Sprague",
+   "role": "Claremont School Board Chair"
+  },
+  "209": {
+   "name": "Frank Sprague",
+   "role": "Claremont School Board Chair"
+  },
+  "210": {
+   "name": "Frank Sprague",
+   "role": "Claremont School Board Chair"
+  },
+  "211": {
+   "name": "Frank Sprague",
+   "role": "Claremont School Board Chair"
+  },
+  "212": {
+   "name": "Frank Sprague",
+   "role": "Claremont School Board Chair"
+  },
+  "213": {
+   "name": "Frank Sprague",
+   "role": "Claremont School Board Chair"
+  },
+  "214": {
+   "name": "Frank Sprague",
+   "role": "Claremont School Board Chair"
+  },
+  "215": {
+   "name": "Frank Sprague",
+   "role": "Claremont School Board Chair"
+  },
+  "91": {
+   "name": "Rob Lovett Jr.",
+   "role": "Claremont School Board member (candidate on the 2019 ballot)"
+  },
+  "93": {
+   "name": "Rob Lovett Jr.",
+   "role": "Claremont School Board member (candidate on the 2019 ballot)"
+  },
+  "94": {
+   "name": "Rob Lovett Jr.",
+   "role": "Claremont School Board member (candidate on the 2019 ballot)"
+  },
+  "95": {
+   "name": "Rob Lovett Jr.",
+   "role": "Claremont School Board member (candidate on the 2019 ballot)"
+  },
+  "96": {
+   "name": "Rob Lovett Jr.",
+   "role": "Claremont School Board member (candidate on the 2019 ballot)"
+  },
+  "115": {
+   "name": "Rob Lovett Jr.",
+   "role": "Claremont School Board member (candidate on the 2019 ballot)"
+  },
+  "116": {
+   "name": "Rob Lovett Jr.",
+   "role": "Claremont School Board member (candidate on the 2019 ballot)"
+  },
+  "117": {
+   "name": "Rob Lovett Jr.",
+   "role": "Claremont School Board member (candidate on the 2019 ballot)"
+  },
+  "109": {
+   "name": "Michael Petrin",
+   "role": "Claremont School Board member; budget subcommittee"
+  },
+  "110": {
+   "name": "Michael Petrin",
+   "role": "Claremont School Board member; budget subcommittee"
+  },
+  "111": {
+   "name": "Michael Petrin",
+   "role": "Claremont School Board member; budget subcommittee"
+  },
+  "119": {
+   "name": "Mark Chase",
+   "role": "Chief, Claremont Police Department; Ward 1 resident (moderator: 'recognizes chief Mark Chase')"
+  },
+  "120": {
+   "name": "Mark Chase",
+   "role": "Chief, Claremont Police Department; Ward 1 resident (moderator: 'recognizes chief Mark Chase')"
+  },
+  "121": {
+   "name": "Mark Chase",
+   "role": "Chief, Claremont Police Department; Ward 1 resident (moderator: 'recognizes chief Mark Chase')"
+  },
+  "122": {
+   "name": "Mark Chase",
+   "role": "Chief, Claremont Police Department; Ward 1 resident (moderator: 'recognizes chief Mark Chase')"
+  },
+  "123": {
+   "name": "Mark Chase",
+   "role": "Chief, Claremont Police Department; Ward 1 resident (moderator: 'recognizes chief Mark Chase')"
+  },
+  "103": {
+   "name": "Unidentified",
+   "role": "Resident, Ward 1 (question on the roofing article's tax impact; name not audible)"
+  },
+  "104": {
+   "name": "Unidentified",
+   "role": "Resident, Ward 1 (question on the roofing article's tax impact; name not audible)"
+  },
+  "17": {
+   "name": "Unidentified",
+   "role": "Board member making or seconding a procedural motion (voice not separable)"
+  },
+  "85": {
+   "name": "Unidentified",
+   "role": "Board member making or seconding a procedural motion (voice not separable)"
+  },
+  "87": {
+   "name": "Unidentified",
+   "role": "Board member making or seconding a procedural motion (voice not separable)"
+  },
+  "196": {
+   "name": "Unidentified",
+   "role": "Board member making or seconding a procedural motion (voice not separable)"
+  },
+  "198": {
+   "name": "Unidentified",
+   "role": "Board member making or seconding a procedural motion (voice not separable)"
+  },
+  "20": {
+   "name": "Unidentified",
+   "role": "Voice vote responses (several voters)"
+  },
+  "29": {
+   "name": "Unidentified",
+   "role": "Voice vote responses (several voters)"
+  },
+  "97": {
+   "name": "Unidentified",
+   "role": "Unidentified male speaker from the floor or board table"
+  },
+  "101": {
+   "name": "Unidentified",
+   "role": "Unidentified male speaker from the floor or board table"
+  },
+  "154": {
+   "name": "Unidentified",
+   "role": "Unidentified male speaker from the floor or board table"
+  },
+  "157": {
+   "name": "Josh Malloy",
+   "role": "Director of Technology, Claremont School District (introduced by Dr. Pfeifer [4]; self-ID 'Joshua, Ward one')"
+  },
+  "168": {
+   "name": "Josh Malloy",
+   "role": "Director of Technology, Claremont School District (introduced by Dr. Pfeifer [4]; self-ID 'Joshua, Ward one')"
+  },
+  "126": {
+   "name": "Patricia Barry",
+   "role": "Principal, Stevens High School (uncertain - ASR self-ID 'So I bought one, here at Stevens'; speaks as an SHS administrator)"
+  },
+  "127": {
+   "name": "Patricia Barry",
+   "role": "Principal, Stevens High School (uncertain - ASR self-ID 'So I bought one, here at Stevens'; speaks as an SHS administrator)"
+  },
+  "128": {
+   "name": "Patricia Barry",
+   "role": "Principal, Stevens High School (uncertain - ASR self-ID 'So I bought one, here at Stevens'; speaks as an SHS administrator)"
+  },
+  "129": {
+   "name": "Patricia Barry",
+   "role": "Principal, Stevens High School (uncertain - ASR self-ID 'So I bought one, here at Stevens'; speaks as an SHS administrator)"
+  },
+  "138": {
+   "name": "Unidentified",
+   "role": "Speaker asking whether the radio system integrates with the bus garage (female; voice split across two clusters; not named)"
+  },
+  "139": {
+   "name": "Unidentified",
+   "role": "Speaker asking whether the radio system integrates with the bus garage (female; voice split across two clusters; not named)"
+  },
+  "140": {
+   "name": "Unidentified",
+   "role": "Speaker asking whether the radio system integrates with the bus garage (female; voice split across two clusters; not named)"
+  },
+  "141": {
+   "name": "Unidentified",
+   "role": "Speaker asking whether the radio system integrates with the bus garage (female; voice split across two clusters; not named)"
+  },
+  "142": {
+   "name": "Unidentified",
+   "role": "Speaker asking whether the radio system integrates with the bus garage (female; voice split across two clusters; not named)"
+  },
+  "143": {
+   "name": "Unidentified",
+   "role": "Speaker asking whether the radio system integrates with the bus garage (female; voice split across two clusters; not named)"
+  },
+  "144": {
+   "name": "Unidentified",
+   "role": "Speaker asking whether the radio system integrates with the bus garage (female; voice split across two clusters; not named)"
+  },
+  "145": {
+   "name": "Unidentified",
+   "role": "Speaker asking whether the radio system integrates with the bus garage (female; voice split across two clusters; not named)"
+  },
+  "146": {
+   "name": "Unidentified",
+   "role": "Speaker asking whether the radio system integrates with the bus garage (female; voice split across two clusters; not named)"
+  },
+  "147": {
+   "name": "Unidentified",
+   "role": "Speaker asking whether the radio system integrates with the bus garage (female; voice split across two clusters; not named)"
+  },
+  "148": {
+   "name": "Unidentified",
+   "role": "Speaker asking whether the radio system integrates with the bus garage (female; voice split across two clusters; not named)"
+  },
+  "149": {
+   "name": "Unidentified",
+   "role": "Speaker asking whether the radio system integrates with the bus garage (female; voice split across two clusters; not named)"
+  },
+  "150": {
+   "name": "Unidentified",
+   "role": "Speaker asking whether the radio system integrates with the bus garage (female; voice split across two clusters; not named)"
+  },
+  "151": {
+   "name": "Unidentified",
+   "role": "Speaker asking whether the radio system integrates with the bus garage (female; voice split across two clusters; not named)"
+  },
+  "152": {
+   "name": "Unidentified",
+   "role": "Speaker asking whether the radio system integrates with the bus garage (female; voice split across two clusters; not named)"
+  },
+  "153": {
+   "name": "Unidentified",
+   "role": "Speaker asking whether the radio system integrates with the bus garage (female; voice split across two clusters; not named)"
+  },
+  "161": {
+   "name": "Unidentified",
+   "role": "Speaker asking whether the radio system integrates with the bus garage (female; voice split across two clusters; not named)"
+  },
+  "164": {
+   "name": "Unidentified",
+   "role": "Administrator answering on radio integration (possibly Cory LeClair; not named)"
+  },
+  "165": {
+   "name": "Unidentified",
+   "role": "Administrator answering on radio integration (possibly Cory LeClair; not named)"
+  },
+  "166": {
+   "name": "Unidentified",
+   "role": "Administrator answering on radio integration (possibly Cory LeClair; not named)"
+  },
+  "174": {
+   "name": "Rebecca Zullo",
+   "role": "Claremont School Board Vice Chair"
+  },
+  "175": {
+   "name": "Rebecca Zullo",
+   "role": "Claremont School Board Vice Chair"
+  },
+  "176": {
+   "name": "Rebecca Zullo",
+   "role": "Claremont School Board Vice Chair"
+  },
+  "177": {
+   "name": "Rebecca Zullo",
+   "role": "Claremont School Board Vice Chair"
+  },
+  "178": {
+   "name": "Rebecca Zullo",
+   "role": "Claremont School Board Vice Chair"
+  },
+  "181": {
+   "name": "Unidentified",
+   "role": "Resident, Ward 3, speaking against bus cameras (ASR name 'I see the nation')"
+  },
+  "182": {
+   "name": "Unidentified",
+   "role": "Resident, Ward 3, speaking against bus cameras (ASR name 'I see the nation')"
+  },
+  "183": {
+   "name": "Unidentified",
+   "role": "Resident, Ward 3, speaking against bus cameras (ASR name 'I see the nation')"
+  },
+  "184": {
+   "name": "Unidentified",
+   "role": "Resident, Ward 3, speaking against bus cameras (ASR name 'I see the nation')"
+  },
+  "185": {
+   "name": "Cory LeClair",
+   "role": "Assistant Superintendent, SAU 6 (moderator thanks 'Mr. Blair', read as a garble of LeClair)"
+  },
+  "186": {
+   "name": "Cory LeClair",
+   "role": "Assistant Superintendent, SAU 6 (moderator thanks 'Mr. Blair', read as a garble of LeClair)"
+  },
+  "187": {
+   "name": "Cory LeClair",
+   "role": "Assistant Superintendent, SAU 6 (moderator thanks 'Mr. Blair', read as a garble of LeClair)"
+  },
+  "188": {
+   "name": "Cory LeClair",
+   "role": "Assistant Superintendent, SAU 6 (moderator thanks 'Mr. Blair', read as a garble of LeClair)"
+  }
+ }
+}

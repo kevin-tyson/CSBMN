@@ -1,0 +1,52 @@
+{
+ "Speaker 1": {
+  "name": "Loren Howard",
+  "role": "School Board member (Policy Subcommittee Chair) - moves, then withdraws, the players' handbook motion; the chair asks 'Lauren, did you withdraw your motion?' (039) and this voice answers (040)"
+ },
+ "Speaker 2": {
+  "name": "Candace Crawford",
+  "role": "School Board Chair - runs the floor and calls the votes; addressed as 'Madam Chair' (098)"
+ },
+ "Speaker 3": {
+  "name": "Don Lavalette",
+  "role": "School Board member (Policy Subcommittee) - reads his handbook critique; Whitney refers to 'Don's point' (042) and the chair's thanks ends 'So thank you, Don' (087)"
+ },
+ "Speaker 4": {
+  "name": "Brian Rapp",
+  "role": "School Board member (Capital Improvement Subcommittee) - answers the chair's 'Brian, you had some comments?' (035) with the mouth-guard point (037)"
+ },
+ "Speaker 5": {
+  "name": "Heather Whitney",
+  "role": "School Board member (Ad Hoc Reconfiguration Chair; Finance Subcommittee) - answers the chair's 'I bet Miss Whitney has some' (041) and moves the coaching handbook"
+ },
+ "Speaker 6": {
+  "name": "Tim Broadrick",
+  "role": "Superintendent, SAU 6 - reports on audit corrective actions and the athletics checking account; the chair refers board members to 'Doctor Broderick' (044)"
+ },
+ "Speaker 7": {
+  "name": "Unidentified",
+  "role": "Board member at the table - two short segments, no identifying cue"
+ },
+ "__overrides__": {
+  "0": {
+   "name": "Loren Howard",
+   "role": "School Board member (Policy Subcommittee Chair) (segment opens with the chair's recognition, 'Lord' = 'Loren', and holds crosstalk: 'Can we do it one at a time? Wouldn't agree more. Sure. Thank you.')"
+  },
+  "3": {
+   "name": "Michael Petrin",
+   "role": "School Board Vice Chair - seconds Howard's players' handbook motion; the draft minutes record 'Michael Petrin seconded the motion' and later that he withdrew his second; diarized in Howard's cluster"
+  },
+  "36": {
+   "name": "Brian Rapp",
+   "role": "School Board member (Capital Improvement Subcommittee) (uncertain - 'Yes.' answering the chair's 'Brian, you had some comments?'; diarized in Lavalette's cluster)"
+  },
+  "87": {
+   "name": "Don Lavalette",
+   "role": "School Board member (Policy Subcommittee) (the closing 'So thank you, Don.' is the chair's, inside this segment)"
+  },
+  "100": {
+   "name": "Candace Crawford",
+   "role": "School Board Chair - voice vote; the 'nay, nay, nay' answers of several members are inside this segment"
+  }
+ }
+}

@@ -1,0 +1,175 @@
+{
+ "Speaker 1": {
+  "name": "Arlene Hawkins",
+  "role": "CHAIR, SAU 6 Joint Board (re-elected 4/11/2024); Claremont School Board member. She opens the recording before the gavel ('I'd like to welcome you to a presentation of the strategic plan ... being provided by the DM Group') and hands off with 'I'd like to have Mr. Pratt take over and introduce Tess' (29.9s 'Pratt' conf 0.92, 32.6s 'Tess.' conf 0.99); Pratt answers 'as, as Hawkins says, stated' (41.3s, conf 1.00). She later calls the meeting to order (2697.6s), asks for the roll, chairs every vote and moves the strategic plan herself. CORROBORATED BY THE 11/21/24 DRAFT SAU 6 MINUTES, which record 'Arlene Hawkins read the mission' (segment 16), that she 'shared how important it is to meet the needs of all students, including those that are struggling and exceeding expectations' (segments 65-66), that she 'explained that the benchmark data done throughout the year measures all students' (segments 77-78), that she 'made a motion to adopt the strategic plan as presented' (segment 165) and that she 'added that this should be a standing agenda item for progress monitoring' (segment 191) - every one of those passages is in this cluster. HIGH confidence"
+ },
+ "Speaker 2": {
+  "name": "Chris Pratt",
+  "role": "Superintendent of Schools, SAU 6 (permanent since June 2024). Chair Hawkins hands him the floor by name at 29.9s ('I'd like to have Mr. Pratt take over and introduce Tess', conf 0.92) and again at 2943.1s ('I believe Mr. Pratt would like to address us for a minute', conf 1.00), and this voice answers both times. He introduces the presenter in his own voice - 'I want to welcome Tess Nicholson Powers, who has been the lead on this' (90.3-91.1s, all three tokens conf 1.00) - and speaks throughout as the district's chief executive ('how we operate the schools, how we run the schools, how we make our decisions'; 'get in contact with myself or your school administrators'). The 11/21/24 draft minutes record 'Superintendent Pratt introduced Tess Nicholson-Powers from DMG', that he 'shared that he is most excited about building relationships with the community' (segment 59), that he 'shared that keeping things a priority will be important and ensuring things don't get put on the back burner' (segment 63), and his closing appeal that 'the Board and administration cannot do this alone' (segments 187-189) - all in this cluster. HIGH confidence"
+ },
+ "Speaker 3": {
+  "name": "Tess Nicholson-Powers",
+  "role": "Director, District Management Group (DMG); lead consultant on the SAU 6 Strategic Plan 2025-2030 and the sole presenter of it. Named twice in the first 95 seconds: Chair Hawkins says 'introduce Tess' (32.6s, conf 0.99) and Superintendent Pratt says 'I want to welcome Tess Nicholson Powers, who has been the lead on this' (90.3s/90.6s/91.1s, all conf 1.00) immediately before this voice begins. She speaks throughout as the outside consultant ('Having worked with a lot of district[s]'; 'we've supported districts in implementation'; 'I was joking with Rocco earlier'). The 11/21/24 draft minutes attribute to 'Ms. Nicholson-Powers' the timeline review, the theory of action, the priority areas, the implementation phase and the SMART-goal discussion - the whole of this cluster. HIGH confidence. NOTE ON SPELLING: this recording and the draft minutes both give 'Tess'; the project's Addendum 7 records her as 'Tessa Nicholson Powers'. MERGED ONSETS THAT CANNOT BE SPLIT WITHIN A SEGMENT: her segment 15 ends with Chair Hawkins's own 'I'll I'll do that.' (389.9-390.6s), her segment 17 ends with Rocco Ruggeri's 'Sure.' (422.3s), and her segment 48 ends with the district-office-cohesion reader's 'I will.' (1149.7s)"
+ },
+ "Speaker 4": {
+  "name": "Unidentified",
+  "role": "MERGED MALE CLUSTER - at least four voices share this label and no single person holds it: Rocco Ruggeri, Frank Sprague, Assistant Superintendent Michael Koski and Superintendent Chris Pratt are each anchored inside it and are carried out by override. What is left here is nine fragments that no anchor reaches: two priority readings, the room's Pledge of Allegiance, two voice-vote assents and three one-word crumbs. See the individual roles on those rows"
+ },
+ "Speaker 5": {
+  "name": "Candace Crawford",
+  "role": "Claremont School Board member; SAU 6 Joint Board member. The presenter recognises her by name 0.08s before this voice speaks - 'Go ahead. Let's get let's give Candice a turn. She just raised it.' (791.6s, 'Candice' conf 0.87) - and this voice then reads the staff-effectiveness priority. The 11/21/24 draft minutes list Candace Crawford present, and the clerk calls 'Candace Crawford.' first in the roll (2745.5-2745.9s, conf 0.90/0.97). MEDIUM-HIGH confidence: the cluster holds only two segments and the second (2923.8s, 'You need to take the road [roll]?' - a procedural prompt to the chair immediately before the vote) rests on cluster identity alone, with no name anchor of its own"
+ },
+ "Speaker 6": {
+  "name": "Heather Whitney",
+  "role": "CHAIR, Claremont School Board; SAU 6 Joint Board member. Identified from the 11/21/24 draft minutes at two points that are both in this cluster: 'Heather Whitney shared that she believes this is something worth committing to' - this voice's only long turn ends 'that this is something that's going to happen and that it's worth committing to' (segment 68, 1408-1443s), near-verbatim; and 'Rocco Ruggeri made a motion to accept the agenda as written, Heather Whitney seconded the motion' - this voice is the 'Second.' at 2783.0s, 0.08s after the motion. Its two remaining fragments are thanks during the discussion the minutes summarise as 'Several members of the Board expressed their thanks and appreciation for the hard work that went into this'. She is present in the roll: her name is eaten by the ASR but her 'here,' survives at 2761.9s. HIGH confidence on the two anchored turns"
+ },
+ "Speaker 7": {
+  "name": "Unidentified",
+  "role": "Unidentified community member - a woman speaking from the audience during the DMG presentation, invited by Chair Hawkins ('Oh, this is a presentation. Please feel free. Yes. Please feel free. Please do.', segment 73). She questions how students already at or above benchmark will be served (segments 74-76), presses the point back onto teacher effectiveness and differentiation (segments 84-87, naming the 'happy numbers program'), and later asks whether the superintendent's parent group is the same as the plan's subcommittees (segment 127). The 11/21/24 draft minutes record exactly these three interventions and attribute all three to 'a community member' / 'the community member' WITHOUT a name, while naming Liz Vogel for the separate question at segments 101-107. She never self-identifies. UNRESOLVED: she may be Liz Vogel herself - Vogel opens at segment 101 with 'I just have one more question', which implies she had already asked one - but the clerk distinguished them and no evidence in the recording settles it, so this voice is left unnamed. MERGED CLUSTER: it also carries the clerk's roll call and three of Vogel's own clipped fragments; those are carried out by override"
+ },
+ "Speaker 8": {
+  "name": "Liz Vogel",
+  "role": "Citizen; parent of a Maple Ave Elementary pupil. SELF-IDENTIFIED at 1847.9-1848.1s: 'My name is Liz Vogel. I'm a kid in [I have a kid in] Maple Ave and one going to be coming into Maple Ave next year' (both name tokens conf 1.00). She asks about course-correction and how the plan's evaluation cycle will work. The 11/21/24 draft minutes independently record 'Liz Vogel (community member) asked about correction options and what the evaluation piece looks like to ensure that things keep moving forward'. HIGH confidence"
+ },
+ "Speaker 9": {
+  "name": "Unidentified",
+  "role": "Unidentified SAU 6 board member - five fragments in the closing three minutes ('Thank you.', 'Hey.', 'Thank you.', a merged second, and a voice-vote 'Aye'), none longer than 2.1s and none carrying a name anchor or any continuous speech to characterise the voice. Of the seven members the roll puts in the room, Michael Petrin and Shannon Popescu are the only two never anchored to a cluster tonight, so either is a candidate; a second, near-disjoint Heather Whitney cluster is a third possibility, since this diarizer is documented as splitting Whitney in two at SAU 6 meetings (4/11/24, 9/12/24) and this label takes over at 2898s just as Whitney's stops at 2902.6s. Nothing decides between them, so it is left unnamed"
+ },
+ "__overrides__": {
+  "149": {
+   "name": "Unidentified",
+   "role": "Unidentified - the room reciting the Pledge of Allegiance after Chair Hawkins's 'I would like to ask everyone to please rise for the Pledge of Allegiance'; a collective recitation cannot be attributed to one speaker"
+  },
+  "81": {
+   "name": "Mike Koski",
+   "role": "Assistant Superintendent for Curriculum, Instruction, Assessment and Innovation, SAU 6. Chair Hawkins hands him the question by name 0.08s earlier - 'I don't know if Mr. Kosky [Koski] wants to' (1586.5s, conf 1.00) - and this voice answers immediately with the one-year-of-growth explanation. The 11/21/24 draft minutes record it as his: 'Assistant Superintendent Koski added that the third measurement bullet point is to increase percentage of students who make at least one year of growth and that applies to students who are at or above grade level.' HIGH confidence. ZERO-GAP CONTINUATION of his own sentence across segments 80-82 - 'So wherever they're ... starting, if they're ... [if] they're at for 4.5 in the fourth grade'"
+  },
+  "18": {
+   "name": "Rocco Ruggeri"
+  },
+  "56": {
+   "name": "Frank Sprague"
+  },
+  "58": {
+   "name": "Chris Pratt",
+   "role": "Superintendent of Schools, SAU 6 (permanent since June 2024). Chair Hawkins hands him the floor by name at 29.9s ('I'd like to have Mr. Pratt take over and introduce Tess', conf 0.92) and again at 2943.1s ('I believe Mr. Pratt would like to address us for a minute', conf 1.00), and this voice answers both times. He introduces the presenter in his own voice - 'I want to welcome Tess Nicholson Powers, who has been the lead on this' (90.3-91.1s, all three tokens conf 1.00) - and speaks throughout as the district's chief executive ('how we operate the schools, how we run the schools, how we make our decisions'; 'get in contact with myself or your school administrators'). The 11/21/24 draft minutes record 'Superintendent Pratt introduced Tess Nicholson-Powers from DMG', that he 'shared that he is most excited about building relationships with the community' (segment 59), that he 'shared that keeping things a priority will be important and ensuring things don't get put on the back burner' (segment 63), and his closing appeal that 'the Board and administration cannot do this alone' (segments 187-189) - all in this cluster. HIGH confidence. ZERO-GAP CONTINUATION of his own sentence across segments 57-59 - 'I think really ... moving ... forward in regards to how the district can engage the community'"
+  },
+  "80": {
+   "name": "Mike Koski"
+  },
+  "82": {
+   "name": "Mike Koski"
+  },
+  "83": {
+   "name": "Mike Koski"
+  },
+  "85": {
+   "name": "Mike Koski"
+  },
+  "88": {
+   "name": "Mike Koski"
+  },
+  "91": {
+   "name": "Chris Pratt",
+   "role": "Superintendent of Schools, SAU 6 (permanent since June 2024). Chair Hawkins hands him the floor by name at 29.9s ('I'd like to have Mr. Pratt take over and introduce Tess', conf 0.92) and again at 2943.1s ('I believe Mr. Pratt would like to address us for a minute', conf 1.00), and this voice answers both times. He introduces the presenter in his own voice - 'I want to welcome Tess Nicholson Powers, who has been the lead on this' (90.3-91.1s, all three tokens conf 1.00) - and speaks throughout as the district's chief executive ('how we operate the schools, how we run the schools, how we make our decisions'; 'get in contact with myself or your school administrators'). The 11/21/24 draft minutes record 'Superintendent Pratt introduced Tess Nicholson-Powers from DMG', that he 'shared that he is most excited about building relationships with the community' (segment 59), that he 'shared that keeping things a priority will be important and ensuring things don't get put on the back burner' (segment 63), and his closing appeal that 'the Board and administration cannot do this alone' (segments 187-189) - all in this cluster. HIGH confidence. ZERO-GAP CONTINUATION of his own sentence out of segment 90 - 'You know, I ... keep ... keep going back thinking that there's so much potential in Claremont'"
+  },
+  "154": {
+   "name": "Candace Crawford",
+   "role": "Claremont School Board member; SAU 6 Joint Board member. The presenter recognises her by name 0.08s before this voice speaks - 'Go ahead. Let's get let's give Candice a turn. She just raised it.' (791.6s, 'Candice' conf 0.87) - and this voice then reads the staff-effectiveness priority. The 11/21/24 draft minutes list Candace Crawford present, and the clerk calls 'Candace Crawford.' first in the roll (2745.5-2745.9s, conf 0.90/0.97). MEDIUM-HIGH confidence: the cluster holds only two segments and the second (2923.8s, 'You need to take the road [roll]?' - a procedural prompt to the chair immediately before the vote) rests on cluster identity alone, with no name anchor of its own. ROLL ANSWER: her 'Yes.' 0.12s after the clerk calls 'Candace Crawford.'; the 11/21/24 draft minutes list her present"
+  },
+  "157": {
+   "name": "Rocco Ruggeri"
+  },
+  "166": {
+   "name": "Rocco Ruggeri"
+  },
+  "168": {
+   "name": "Frank Sprague"
+  },
+  "169": {
+   "name": "Frank Sprague"
+  },
+  "170": {
+   "name": "Frank Sprague"
+  },
+  "182": {
+   "name": "Frank Sprague",
+   "role": "VICE CHAIR, Claremont School Board; SAU 6 Joint Board member; CHAIR of the SAU 6 superintendent-evaluation subcommittee. THREE INDEPENDENT ANCHORS: he answers the roll by name ('Frank Sprague here,' 2759.9-2760.6s, 'Sprague' conf 0.79); Chair Hawkins recognises him 0.20s before his adjournment motion ('Mister Sprague. You have a motion.', 3039.0s, conf 1.00), which the 11/21/24 draft minutes record as 'Frank Sprague made a motion to adjourn at 7:27pm'; and this voice places itself on the superintendent-evaluation subcommittee in the first person - 'Rocco and I are the two of the four members of the superintendent evaluation committee' (2844.4s, 'Rocco' conf 1.00) - which matches the four-member subcommittee seated 4/11/24 (Hart, Ruggeri, Sprague, Skillen) and its chair. The minutes credit the same remarks to him ('Frank Sprague shared that he is excited about the goals will be clear and apparent') and record him as most excited by the staff-effectiveness priority, which this voice says at segment 56 while describing itself as 'a former school administrator myself'. HIGH confidence. EARLY MOTION: 'Motion to adjourn.' cut across the chair's 'We now have a -', which she abandons and restarts at segment 184 after deferring to Pratt; she returns to it at segment 193 with 'Mister Sprague. You have a motion.', which shows the motion she remembers was already offered by him"
+  },
+  "194": {
+   "name": "Frank Sprague"
+  },
+  "186": {
+   "name": "Chris Pratt",
+   "role": "Superintendent of Schools, SAU 6 (permanent since June 2024). Chair Hawkins hands him the floor by name at 29.9s ('I'd like to have Mr. Pratt take over and introduce Tess', conf 0.92) and again at 2943.1s ('I believe Mr. Pratt would like to address us for a minute', conf 1.00), and this voice answers both times. He introduces the presenter in his own voice - 'I want to welcome Tess Nicholson Powers, who has been the lead on this' (90.3-91.1s, all three tokens conf 1.00) - and speaks throughout as the district's chief executive ('how we operate the schools, how we run the schools, how we make our decisions'; 'get in contact with myself or your school administrators'). The 11/21/24 draft minutes record 'Superintendent Pratt introduced Tess Nicholson-Powers from DMG', that he 'shared that he is most excited about building relationships with the community' (segment 59), that he 'shared that keeping things a priority will be important and ensuring things don't get put on the back burner' (segment 63), and his closing appeal that 'the Board and administration cannot do this alone' (segments 187-189) - all in this cluster. HIGH confidence. ZERO-GAP CONTINUATION of his own sentence across segments 185-187 - 'Yeah, I think this ... is ... a good time'"
+  },
+  "38": {
+   "name": "Unidentified",
+   "role": "Unidentified - reads the student-well-being priority statement at the presenter's invitation 'Go ahead Michael.' (901.9s, conf 1.00). TWO MICHAELS are in the room and nothing separates them: board member Michael Petrin, whom the roll finds present ('Michael. Peter. [Petrin] Here.', 2751.8-2752.8s), and Assistant Superintendent Michael Koski, who speaks later in this same merged cluster. High ASR confidence on the first name is not evidence for either"
+  },
+  "49": {
+   "name": "Unidentified",
+   "role": "Unidentified - the volunteer who reads the district-office-cohesion priority, claiming it with 'Beat you to it.' after the presenter asks 'Who wants to be [read] district office cohesion?'; the volunteer's own 'I will.' (1149.7s) is absorbed into the tail of her segment 48. No name is spoken and the 11/21/24 draft minutes do not record who read this priority"
+  },
+  "50": {
+   "name": "Unidentified",
+   "role": "Unidentified - the district-office-cohesion priority statement itself, read by the volunteer of segment 49. No name is spoken and the 11/21/24 draft minutes do not record who read it"
+  },
+  "61": {
+   "name": "Unidentified",
+   "role": "Unidentified - a three-word answer ('All of the [them].') to the presenter's question about which priority will be hardest to implement, inside the merged male cluster. Superintendent Pratt makes the same point at length 8s later, but the fragment is a separate turn with no anchor of its own"
+  },
+  "148": {
+   "name": "Unidentified",
+   "role": "Unidentified - the room reciting the Pledge of Allegiance after Chair Hawkins's 'I would like to ask everyone to please rise for the Pledge of Allegiance'; a collective recitation cannot be attributed to one speaker"
+  },
+  "150": {
+   "name": "Unidentified",
+   "role": "Unidentified - the room reciting the Pledge of Allegiance after Chair Hawkins's 'I would like to ask everyone to please rise for the Pledge of Allegiance'; a collective recitation cannot be attributed to one speaker"
+  },
+  "160": {
+   "name": "Unidentified",
+   "role": "Unidentified - a voice-vote 'Aye' from the board table; the 11/21/24 draft minutes record both votes as 'voice vote taken, all present voting in favor' with no count, and a collective assent cannot be attributed to one member"
+  },
+  "173": {
+   "name": "Unidentified",
+   "role": "Unidentified - a one-word 'Yes.' inside the four-second run of overlapping thanks the 11/21/24 draft minutes summarise as 'Several members of the Board expressed their thanks and appreciation for the hard work that went into this'; at least three voices interleave here and this crumb cannot be assigned to any of them"
+  },
+  "180": {
+   "name": "Unidentified",
+   "role": "Unidentified - a voice-vote 'Aye' from the board table; the 11/21/24 draft minutes record both votes as 'voice vote taken, all present voting in favor' with no count, and a collective assent cannot be attributed to one member"
+  },
+  "100": {
+   "name": "Liz Vogel",
+   "role": "Citizen; parent of a Maple Ave Elementary pupil. SELF-IDENTIFIED at 1847.9-1848.1s: 'My name is Liz Vogel. I'm a kid in [I have a kid in] Maple Ave and one going to be coming into Maple Ave next year' (both name tokens conf 1.00). She asks about course-correction and how the plan's evaluation cycle will work. The 11/21/24 draft minutes independently record 'Liz Vogel (community member) asked about correction options and what the evaluation piece looks like to ensure that things keep moving forward'. HIGH confidence. ZERO-GAP ONSET of her own sentence into segment 101 - 'Yeah. I just ... have one more question. My name is Liz Vogel'"
+  },
+  "103": {
+   "name": "Tess Nicholson-Powers",
+   "role": "Director, District Management Group (DMG); lead consultant on the SAU 6 Strategic Plan 2025-2030 and the sole presenter of it. Named twice in the first 95 seconds: Chair Hawkins says 'introduce Tess' (32.6s, conf 0.99) and Superintendent Pratt says 'I want to welcome Tess Nicholson Powers, who has been the lead on this' (90.3s/90.6s/91.1s, all conf 1.00) immediately before this voice begins. She speaks throughout as the outside consultant ('Having worked with a lot of district[s]'; 'we've supported districts in implementation'; 'I was joking with Rocco earlier'). The 11/21/24 draft minutes attribute to 'Ms. Nicholson-Powers' the timeline review, the theory of action, the priority areas, the implementation phase and the SMART-goal discussion - the whole of this cluster. HIGH confidence. NOTE ON SPELLING: this recording and the draft minutes both give 'Tess'; the project's Addendum 7 records her as 'Tessa Nicholson Powers'. ZERO-GAP CONTINUATION of her own interjection across segments 102-103 - 'I love ... that.' - the two fragments abut at exactly 1862.88s with no silence between them"
+  },
+  "105": {
+   "name": "Liz Vogel",
+   "role": "Citizen; parent of a Maple Ave Elementary pupil. SELF-IDENTIFIED at 1847.9-1848.1s: 'My name is Liz Vogel. I'm a kid in [I have a kid in] Maple Ave and one going to be coming into Maple Ave next year' (both name tokens conf 1.00). She asks about course-correction and how the plan's evaluation cycle will work. The 11/21/24 draft minutes independently record 'Liz Vogel (community member) asked about correction options and what the evaluation piece looks like to ensure that things keep moving forward'. HIGH confidence. ZERO-GAP ONSET of her own sentence into segment 106 - 'I've ... done it in my professional life' - the two fragments abut at exactly 1863.56s with no silence between them"
+  },
+  "146": {
+   "name": "Arlene Hawkins",
+   "role": "CHAIR, SAU 6 Joint Board (re-elected 4/11/2024); Claremont School Board member. She opens the recording before the gavel ('I'd like to welcome you to a presentation of the strategic plan ... being provided by the DM Group') and hands off with 'I'd like to have Mr. Pratt take over and introduce Tess' (29.9s 'Pratt' conf 0.92, 32.6s 'Tess.' conf 0.99); Pratt answers 'as, as Hawkins says, stated' (41.3s, conf 1.00). She later calls the meeting to order (2697.6s), asks for the roll, chairs every vote and moves the strategic plan herself. CORROBORATED BY THE 11/21/24 DRAFT SAU 6 MINUTES, which record 'Arlene Hawkins read the mission' (segment 16), that she 'shared how important it is to meet the needs of all students, including those that are struggling and exceeding expectations' (segments 65-66), that she 'explained that the benchmark data done throughout the year measures all students' (segments 77-78), that she 'made a motion to adopt the strategic plan as presented' (segment 165) and that she 'added that this should be a standing agenda item for progress monitoring' (segment 191) - every one of those passages is in this cluster. HIGH confidence. CLIPPED ONSET: her own 'Thank you.' 0.08s before her segment 147, which the ASR leaves opening on the orphan word 'Presentation.' - 'Thank you [for that] presentation. Again, thank you for joining us this evening.' This diarizer's documented habit of clipping a sentence onset into the neighbouring cluster. MEDIUM confidence: the fragment also abuts the presenter's own hand-off ('So I'll let you all take it from here. Yeah.') with zero gap"
+  },
+  "153": {
+   "name": "Noelle Kronberg",
+   "role": "SAU 6 School Board Clerk - reads the roll at the chair's request. Chair Hawkins says 'And, would you please take the roll call of attendance' (2743.0-2744.3s, conf 1.00) and this voice reads it 0.08s later. She is NOT NAMED anywhere in this recording; the identification rests on four things together: the 11/21/24 agenda item is 'Secretary Roll Call of Attendance of Board Members'; the 11/21/24 draft minutes list 'SAU#6 School Board Clerk- Noelle Kronberg' in the masthead and are signed 'Respectfully submitted by Noelle Kronberg, school board clerk'; the reader is a woman who is neither the chair nor any of the seven members the roll finds present nor Superintendent Pratt, and she does not appear in the roll she reads; and Kronberg is the established SAU 6 roll-reader (9/12/24), the 11/14/24 meeting one week earlier being an explicit exception in which Pratt read all four rolls because she was absent. The only other woman the minutes' central-office masthead puts in the room is Business Administrator Mary Henry, who has no agenda item tonight, is never named or heard in this recording, and is not the substitute the board used when the clerk was actually absent one week earlier. MEDIUM-HIGH confidence. MERGED SEGMENT: the members' answers are absorbed into the reader's own segment and cannot be split out"
+  },
+  "155": {
+   "name": "Noelle Kronberg",
+   "role": "SAU 6 School Board Clerk - reads the roll at the chair's request. Chair Hawkins says 'And, would you please take the roll call of attendance' (2743.0-2744.3s, conf 1.00) and this voice reads it 0.08s later. She is NOT NAMED anywhere in this recording; the identification rests on four things together: the 11/21/24 agenda item is 'Secretary Roll Call of Attendance of Board Members'; the 11/21/24 draft minutes list 'SAU#6 School Board Clerk- Noelle Kronberg' in the masthead and are signed 'Respectfully submitted by Noelle Kronberg, school board clerk'; the reader is a woman who is neither the chair nor any of the seven members the roll finds present nor Superintendent Pratt, and she does not appear in the roll she reads; and Kronberg is the established SAU 6 roll-reader (9/12/24), the 11/14/24 meeting one week earlier being an explicit exception in which Pratt read all four rolls because she was absent. The only other woman the minutes' central-office masthead puts in the room is Business Administrator Mary Henry, who has no agenda item tonight, is never named or heard in this recording, and is not the substitute the board used when the clerk was actually absent one week earlier. MEDIUM-HIGH confidence. MERGED SEGMENT: the members' answers are absorbed into the reader's own segment and cannot be split out"
+  },
+  "195": {
+   "name": "Unidentified",
+   "role": "Unidentified - MERGED SEGMENT carrying two voices 0.52s apart that cannot be split within a segment: the chair's 'We have a second[?]' (3042.04s) and the seconder's 'Second.' (3042.96s) on the motion to adjourn. The 11/21/24 draft minutes record the seconder as Heather Whitney, but her cluster ends at 2902.6s and the fragment cannot be separated from the chair's question, so it is not attributed"
+  },
+  "197": {
+   "name": "Unidentified",
+   "role": "Unidentified - a voice-vote 'Aye' from the board table; the 11/21/24 draft minutes record both votes as 'voice vote taken, all present voting in favor' with no count, and a collective assent cannot be attributed to one member"
+  }
+ }
+}

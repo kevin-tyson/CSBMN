@@ -1,0 +1,793 @@
+{
+ "Speaker 1": {
+  "name": "Frank Sprague",
+  "role": "MERGED CLUSTER - carries THREE men. Frank Sprague is the plurality and the default: he opens the session with a full self-identification at [000] ('I'm Frank Sprague. I'm the vice chair of the Claremont School Board and the chair of the finance committee'), runs the agenda ([010], [012], [084] 'So I'm going to go to Mr. Herrington at this point', [627] 'we have approximately half hour left', [667] 'Miss McCosker'), and is answered by name by Mary Henry at [565] ('I appreciate that, Frank'). Stevens principal MICHAEL HERRINGTON occupies this cluster for his whole budget presentation ([086]-[184], plus [208] and [240]) and MICHAEL McCOSKER occupies it from [667] to the end of his student-services block; both are reassigned segment by segment"
+ },
+ "Speaker 2": {
+  "name": "Michelle Herrington",
+  "role": "Self-identifies at [002]: 'I'm Michelle Harrington, the assistant director at the Tech center'. Presents the Sugar River Valley Regional Technical Center budget line by line ([016]-[068]); 'I've never done this before' [013]; 'I'm just not able to get into the system yet' [016] - consistent with her start at the end of August 2024. NOTE: she says ASSISTANT director here, which conflicts with the 'director' usage recorded on 9/18, 9/30 and 10/2/24; recorded as spoken, not normalised"
+ },
+ "Speaker 3": {
+  "name": "Frank Romeo",
+  "role": "Self-identifies at [004] as 'Frank Miller, principal, Claremont Middle School' (ASR garble; the chair calls him 'Mr. Romeo' at [186] at conf 1.00 immediately before his presentation). Presents the CMS budget [187]-[234] ('the main things pressing for CMS'), the instrument-inventory question [349]-[356], the late-bus answer [446]-[455], the book-vending-machine block [482]-[487] and the closing remarks [825]-[829]. This cluster ALSO collects sub-second crosstalk fragments during Michael Herrington's presentation; those that demonstrably complete another speaker's sentence are reassigned"
+ },
+ "Speaker 4": {
+  "name": "Frank Sprague",
+  "role": "Frank Sprague's SECOND cluster, running in parallel with Speaker 1 (the diarizer splits one voice across clusters). Chair recognitions: [186] 'Mr. Romeo.', [315] 'Any more questions for Mr. Lewis? Mr.. Blank [Blount]?', [370] 'That's good. Miss Baker.', [178] 'Okay. Last question. Then we're going to move on to Frank.', [242] 'Ready to move on?'. Decisive self-anchor at [363]: 'when I was in Mr. Harrington's position, the music teacher wanted to buy a... $5,000 bassoon' - i.e. when he was Stevens principal. Also [302] 'I want the public to hear... when we refer people back to the tapes'. One exception: [005] is Mark Blount's own self-introduction"
+ },
+ "Speaker 5": {
+  "name": "Heather Whitney",
+  "role": "Chair of the Claremont School Board, named by Sprague at [000] ('To my right is Heather Whitney. She's the chair of the Claremont Board and on the committee of the Finance Committee as well', conf 1.00). This voice speaks for the board in the closing address to the principals ([503]-[509]: 'we so appreciate the efforts that you put forward... we're also prioritizing in our budget this year is really elevating the paraprofessionals'), directs traffic ([692] 'maybe Patrick and help with this', [776] 'So Mike has something'), and asks the contract/insurance/revenue questions ([399] collective bargaining, [618] money market, [651] the special-education shortfall). Two administrators' self-introductions were absorbed into this cluster at [007] and [009] and are reassigned"
+ },
+ "Speaker 6": {
+  "name": "Candace Crawford",
+  "role": "Candace Crawford's FIRST cluster (she later moves to Speaker 10 and then to Speaker 8). Named by Sprague at [001]: 'And her right is Candace Crawford, also a member of the Claremont School Board and on the finance committee' (conf 1.00). Self-anchor at [227]: 'Just FYI, the Capital Improvements Committee is looking to have a meeting ASAP. So we haven't had one yet' - Crawford took the Capital Improvements chair from Bonnie Miles between March and September 2024. Drives the conceptual questioning of the tech-center and CMS budgets ([030] 'I just have two conceptual questions', [041] 'I have a bias')"
+ },
+ "Speaker 7": {
+  "name": "Mike McCosker",
+  "role": "Director of Student Services. The chair hands him the floor at [667] - 'Yeah. Okay. Miss [Mr.] McCosker.' (surname at conf 1.00) - and this voice answers immediately at [668] ('I haven't been enough of a downer'). Owns the special-education content throughout: catastrophic-aid thresholds [541]-[546], the Medicaid audit [569]-[582], the contracted-services line and the unfilled special-education positions [671]-[691]. Addresses the Bluff principal directly at [424] ('And Christine, for you, the year before I went to bluff...'), and says at [767] 'In my last position before coming back to Claremont'. His voice ALSO occupies Speaker 1 from [667] onward"
+ },
+ "Speaker 8": {
+  "name": "Melissa Lewis",
+  "role": "MERGED CLUSTER - Melissa Lewis is the default and CANDACE CRAWFORD is reassigned out of it. Lewis anchors: [264] 'when I started as the principal at Disney [Disnard]', [271] 'I think in the Lewis house we spend that', [288] 'That's just the Melissa', and the chair's [315] 'Any more questions for Mr. [Miss] Lewis?'. She presents the Disnard budget [256]-[292] and returns for the tier-3 reading programme [716]-[717] and the ESL count [731]-[748]. Crawford's voice falls into this cluster after Speaker 10 stops: proved at [590]/[591], a single sentence split across the two clusters ('But I'm just saying I'm thinking that while we we don't have any / statewide income tax or sales tax'), with Mary Henry addressing her as 'Candace' at [589]"
+ },
+ "Speaker 9": {
+  "name": "Unidentified",
+  "role": "FRAGMENT CLUSTER, not a person - 30 clipped onsets, sentence tails and bare backchannels ('Yeah.', 'Right.', 'Okay.', 'Thank.') averaging 1.1 seconds, all inside one 22-minute window (2136-3441 s) of heavy round-table crosstalk. Every fragment that demonstrably completes or opens an adjacent speaker's own sentence is reassigned by override; the rows left here have no anchor to any individual and are honestly unnamed"
+ },
+ "Speaker 10": {
+  "name": "Candace Crawford",
+  "role": "Candace Crawford's SECOND cluster, temporally disjoint from Speaker 6 (Speaker 6 ends at 2479 s, Speaker 10 starts at 2675 s). Mary Henry answers this voice by name at [466] - 'With him, Candice, to that' - immediately after its question at [464] ('Is Steve Holtz [Holt] aware of all of that?'), and this voice states the Capital Improvements portfolio again at [467] ('that's the kind of thing that I would see in a capital improvements budget'). Henry addresses her as 'Candace' again at [589]"
+ },
+ "Speaker 11": {
+  "name": "Mark Blount",
+  "role": "MERGED CLUSTER - Mark Blount is the default for the first half and FRANK SPRAGUE is reassigned out of the second half. Blount anchors: self-introduction at [005] ('But once [Blount], a principal at Maple'), the chair's [315] 'Mr.. Blank [Blount]?' immediately before this cluster's presentation block [316]-[368], 'If you've been in the maple gymnasium' [325], 'Christine and I' [324], and two third-person confirmations - [337] 'Got it. Thanks, Mark.' and Melissa Lewis at [350] 'similar to what Mark said'. From [761] to the end of the meeting this cluster is Frank Sprague (his juvenile-probation and court-liaison history at [763]-[774], 'I will say to our building leaders that one of the things that drives the board crazy' [811], and Mary Henry answering him as 'Frank' at [822], [835] and [841])"
+ },
+ "Speaker 12": {
+  "name": "Mary Henry",
+  "role": "Business Administrator. Self-introduces at [007] ('Mary Henry, business administrator', absorbed into Speaker 5 and reassigned). Owns the budget file and the revenue estimates: 'And if there isn't, I can add' [360], 'I'm going to decrease the amount in the sublime [sub line]' [389], the adequacy, catastrophic-aid, interest and health-insurance briefing [515]-[650], 'when I do the 25, I actually put them to where they are under district' [835]. Addressed by name as 'Mary' by Mark Blount [318], [326], [357], by Michael Herrington [087], by Melissa Lewis [275], by Michael McCosker [677] and by Frank Romeo [828]; addresses Candace Crawford by name at [466] and [589] and Frank Sprague at [565], [822], [835], [841]"
+ },
+ "Speaker 13": {
+  "name": "Christine Baker",
+  "role": "Principal of Bluff Elementary School. The chair calls on her at [370] - 'That's good. Miss Baker.' (conf 1.00) - immediately before this cluster's presentation block, and Michael McCosker addresses her directly mid-block at [424]: 'And Christine, for you, the year before I went to bluff, they had two full time secretary' (Christine, conf 0.98). Her content is Bluff's: 'a permanent sub at bluff' [384], 'in terms of bluffs, requests' [462], 'our playground is in major disrepair at bluff' [462]; Mark Blount names her as his elementary counterpart at [324] ('Christine and I'). CAVEAT: at [011] someone says 'Miss Baker couldn't attend' - she does not speak until 3265 s (54 minutes in), so she evidently arrived late; the two records conflict and both are on the tape"
+ },
+ "Speaker 14": {
+  "name": "Unidentified",
+  "role": "FRAGMENT CLUSTER, not a person - 17 clipped fragments averaging 1.6 seconds ('Yeah.', 'Okay.', 'Yep.', 'Thank you.', 'So so.') spread across the last 43 minutes of round-table crosstalk. Those that complete an adjacent speaker's own sentence are reassigned by override; the rest have no anchor to any individual"
+ },
+ "Speaker 15": {
+  "name": "Patrick O'Hearn",
+  "role": "MERGED CLUSTER - Director of Human Resources by default, with MIKE KOSKI reassigned out of the curriculum block at the end. O'Hearn anchors: his self-introduction at [008] is rendered 'Baxter Hearn, director of human resources' (a garble already on record for O'Hearn); Heather Whitney directs the hiring question to him by name at [692] ('maybe Patrick and help with this is... what's the barrier to hiring at this point?') and this voice answers at [694] with the HR recruitment brief, including 'we have a staff starting December 2nd' - the same HR assistant the superintendent's report announces for December 2 at the 11/20/24 board meeting. From [777] the cluster is Mike Koski, handed the floor by Whitney at [776] ('So Mike has something') and speaking the assistant superintendent's curriculum portfolio"
+ },
+ "__overrides__": {
+  "3": {
+   "name": "Michael Herrington",
+   "role": "Principal, Stevens High School - self-introduction absorbed into Frank Sprague's cluster: 'Michael Harrington, principal of Stevens High School' (Harrington conf 1.00)"
+  },
+  "5": {
+   "name": "Mark Blount"
+  },
+  "7": {
+   "name": "Mary Henry"
+  },
+  "8": {
+   "name": "Unidentified",
+   "role": "TWO VOICES IN ONE SEGMENT, not separable - the Director of Human Resources' self-introduction ('Baxter Hearn' = Patrick O'Hearn, Hearn conf 0.64) followed 1.2 s later by an aside ('Michael. Yeah, one of my students every year') that is probably Frank Sprague's. Neither half can be given a name without asserting the other"
+  },
+  "9": {
+   "name": "Chelsea Weatherford",
+   "role": "Executive Assistant to the Superintendent, SAU 6 - self-introduction at [009]: 'Chelsea Weatherford, executive assistant to the superintendent' (both names conf 1.00)"
+  },
+  "11": {
+   "name": "Unidentified",
+   "role": "Unidentified voice in the introductions window - 'Miss Baker couldn't attend' (Baker conf 1.00). The Speaker 5 cluster is provably carrying three women in these 80 seconds (Mary Henry's self-introduction at [007] and Chelsea Weatherford's at [009] both landed in it), so the cluster cannot name this line; the content fits Henry, Weatherford or Whitney equally. It also conflicts with the rest of the recording: Christine Baker is called on at [370] and presents the Bluff budget from 3265 s"
+  },
+  "76": {
+   "name": "Candace Crawford"
+  },
+  "80": {
+   "name": "Candace Crawford"
+  },
+  "86": {
+   "name": "Michael Herrington",
+   "role": "Principal, Stevens High School"
+  },
+  "87": {
+   "name": "Michael Herrington",
+   "role": "Principal, Stevens High School"
+  },
+  "88": {
+   "name": "Michael Herrington",
+   "role": "Principal, Stevens High School"
+  },
+  "90": {
+   "name": "Michael Herrington",
+   "role": "Principal, Stevens High School"
+  },
+  "92": {
+   "name": "Michael Herrington",
+   "role": "Principal, Stevens High School"
+  },
+  "93": {
+   "name": "Candace Crawford"
+  },
+  "97": {
+   "name": "Candace Crawford"
+  },
+  "98": {
+   "name": "Michael Herrington",
+   "role": "Principal, Stevens High School"
+  },
+  "99": {
+   "name": "Michael Herrington",
+   "role": "Principal, Stevens High School"
+  },
+  "100": {
+   "name": "Michael Herrington",
+   "role": "Principal, Stevens High School"
+  },
+  "102": {
+   "name": "Michael Herrington",
+   "role": "Principal, Stevens High School"
+  },
+  "105": {
+   "name": "Michael Herrington",
+   "role": "Principal, Stevens High School"
+  },
+  "106": {
+   "name": "Michael Herrington",
+   "role": "Principal, Stevens High School"
+  },
+  "107": {
+   "name": "Michael Herrington",
+   "role": "Principal, Stevens High School"
+  },
+  "111": {
+   "name": "Michael Herrington",
+   "role": "Principal, Stevens High School"
+  },
+  "112": {
+   "name": "Michael Herrington",
+   "role": "Principal, Stevens High School"
+  },
+  "114": {
+   "name": "Michael Herrington",
+   "role": "Principal, Stevens High School"
+  },
+  "115": {
+   "name": "Michael Herrington",
+   "role": "Principal, Stevens High School"
+  },
+  "116": {
+   "name": "Michael Herrington",
+   "role": "Principal, Stevens High School"
+  },
+  "117": {
+   "name": "Michael Herrington",
+   "role": "Principal, Stevens High School"
+  },
+  "118": {
+   "name": "Michael Herrington",
+   "role": "Principal, Stevens High School"
+  },
+  "119": {
+   "name": "Michael Herrington",
+   "role": "Principal, Stevens High School"
+  },
+  "120": {
+   "name": "Michael Herrington",
+   "role": "Principal, Stevens High School"
+  },
+  "121": {
+   "name": "Michael Herrington",
+   "role": "Principal, Stevens High School"
+  },
+  "122": {
+   "name": "Michael Herrington",
+   "role": "Principal, Stevens High School"
+  },
+  "123": {
+   "name": "Michael Herrington",
+   "role": "Principal, Stevens High School"
+  },
+  "125": {
+   "name": "Michael Herrington",
+   "role": "Principal, Stevens High School"
+  },
+  "126": {
+   "name": "Michael Herrington",
+   "role": "Principal, Stevens High School"
+  },
+  "128": {
+   "name": "Michael Herrington",
+   "role": "Principal, Stevens High School"
+  },
+  "130": {
+   "name": "Frank Sprague"
+  },
+  "131": {
+   "name": "Michael Herrington",
+   "role": "Principal, Stevens High School"
+  },
+  "132": {
+   "name": "Mike McCosker"
+  },
+  "133": {
+   "name": "Mike McCosker"
+  },
+  "134": {
+   "name": "Mike McCosker"
+  },
+  "135": {
+   "name": "Mike McCosker"
+  },
+  "137": {
+   "name": "Michael Herrington",
+   "role": "Principal, Stevens High School"
+  },
+  "138": {
+   "name": "Michael Herrington",
+   "role": "Principal, Stevens High School"
+  },
+  "139": {
+   "name": "Michael Herrington",
+   "role": "Principal, Stevens High School"
+  },
+  "140": {
+   "name": "Michael Herrington",
+   "role": "Principal, Stevens High School"
+  },
+  "141": {
+   "name": "Michael Herrington",
+   "role": "Principal, Stevens High School"
+  },
+  "144": {
+   "name": "Michael Herrington",
+   "role": "Principal, Stevens High School"
+  },
+  "146": {
+   "name": "Michael Herrington",
+   "role": "Principal, Stevens High School"
+  },
+  "147": {
+   "name": "Michael Herrington",
+   "role": "Principal, Stevens High School"
+  },
+  "149": {
+   "name": "Heather Whitney"
+  },
+  "151": {
+   "name": "Heather Whitney"
+  },
+  "152": {
+   "name": "Heather Whitney"
+  },
+  "153": {
+   "name": "Heather Whitney"
+  },
+  "154": {
+   "name": "Heather Whitney"
+  },
+  "156": {
+   "name": "Heather Whitney"
+  },
+  "157": {
+   "name": "Michael Herrington",
+   "role": "Principal, Stevens High School"
+  },
+  "158": {
+   "name": "Michael Herrington",
+   "role": "Principal, Stevens High School"
+  },
+  "159": {
+   "name": "Michael Herrington",
+   "role": "Principal, Stevens High School"
+  },
+  "160": {
+   "name": "Michael Herrington",
+   "role": "Principal, Stevens High School"
+  },
+  "161": {
+   "name": "Michael Herrington",
+   "role": "Principal, Stevens High School"
+  },
+  "164": {
+   "name": "Michael Herrington",
+   "role": "Principal, Stevens High School"
+  },
+  "165": {
+   "name": "Michael Herrington",
+   "role": "Principal, Stevens High School"
+  },
+  "166": {
+   "name": "Michael Herrington",
+   "role": "Principal, Stevens High School"
+  },
+  "168": {
+   "name": "Michael Herrington",
+   "role": "Principal, Stevens High School"
+  },
+  "170": {
+   "name": "Michael Herrington",
+   "role": "Principal, Stevens High School"
+  },
+  "171": {
+   "name": "Michael Herrington",
+   "role": "Principal, Stevens High School"
+  },
+  "172": {
+   "name": "Michael Herrington",
+   "role": "Principal, Stevens High School"
+  },
+  "174": {
+   "name": "Candace Crawford"
+  },
+  "175": {
+   "name": "Candace Crawford"
+  },
+  "176": {
+   "name": "Candace Crawford"
+  },
+  "177": {
+   "name": "Michael Herrington",
+   "role": "Principal, Stevens High School"
+  },
+  "179": {
+   "name": "Frank Sprague"
+  },
+  "181": {
+   "name": "Michael Herrington",
+   "role": "Principal, Stevens High School"
+  },
+  "182": {
+   "name": "Michael Herrington",
+   "role": "Principal, Stevens High School"
+  },
+  "183": {
+   "name": "Frank Sprague"
+  },
+  "208": {
+   "name": "Michael Herrington",
+   "role": "Principal, Stevens High School"
+  },
+  "214": {
+   "name": "Candace Crawford"
+  },
+  "225": {
+   "name": "Frank Romeo"
+  },
+  "240": {
+   "name": "Michael Herrington",
+   "role": "Principal, Stevens High School"
+  },
+  "246": {
+   "name": "Candace Crawford"
+  },
+  "258": {
+   "name": "Melissa Lewis"
+  },
+  "321": {
+   "name": "Heather Whitney"
+  },
+  "323": {
+   "name": "Heather Whitney"
+  },
+  "333": {
+   "name": "Heather Whitney"
+  },
+  "347": {
+   "name": "Frank Romeo"
+  },
+  "348": {
+   "name": "Frank Romeo"
+  },
+  "351": {
+   "name": "Frank Romeo"
+  },
+  "354": {
+   "name": "Frank Romeo"
+  },
+  "355": {
+   "name": "Frank Romeo"
+  },
+  "376": {
+   "name": "Christine Baker"
+  },
+  "380": {
+   "name": "Christine Baker"
+  },
+  "405": {
+   "name": "Mary Henry"
+  },
+  "413": {
+   "name": "Melissa Lewis"
+  },
+  "415": {
+   "name": "Melissa Lewis"
+  },
+  "420": {
+   "name": "Mark Blount"
+  },
+  "430": {
+   "name": "Candace Crawford"
+  },
+  "437": {
+   "name": "Christine Baker"
+  },
+  "449": {
+   "name": "Frank Romeo"
+  },
+  "475": {
+   "name": "Christine Baker"
+  },
+  "492": {
+   "name": "Frank Sprague"
+  },
+  "494": {
+   "name": "Frank Sprague"
+  },
+  "501": {
+   "name": "Melissa Lewis"
+  },
+  "505": {
+   "name": "Heather Whitney"
+  },
+  "524": {
+   "name": "Candace Crawford"
+  },
+  "538": {
+   "name": "Mike McCosker"
+  },
+  "539": {
+   "name": "Mike McCosker"
+  },
+  "548": {
+   "name": "Heather Whitney"
+  },
+  "588": {
+   "name": "Candace Crawford"
+  },
+  "591": {
+   "name": "Candace Crawford"
+  },
+  "593": {
+   "name": "Candace Crawford"
+  },
+  "595": {
+   "name": "Candace Crawford"
+  },
+  "624": {
+   "name": "Heather Whitney"
+  },
+  "625": {
+   "name": "Heather Whitney"
+  },
+  "628": {
+   "name": "Candace Crawford"
+  },
+  "629": {
+   "name": "Candace Crawford"
+  },
+  "631": {
+   "name": "Candace Crawford"
+  },
+  "634": {
+   "name": "Candace Crawford"
+  },
+  "636": {
+   "name": "Candace Crawford"
+  },
+  "638": {
+   "name": "Candace Crawford"
+  },
+  "640": {
+   "name": "Candace Crawford"
+  },
+  "645": {
+   "name": "Candace Crawford"
+  },
+  "657": {
+   "name": "Candace Crawford"
+  },
+  "663": {
+   "name": "Candace Crawford"
+  },
+  "670": {
+   "name": "Mike McCosker"
+  },
+  "673": {
+   "name": "Mike McCosker"
+  },
+  "675": {
+   "name": "Candace Crawford"
+  },
+  "676": {
+   "name": "Mike McCosker"
+  },
+  "681": {
+   "name": "Mark Blount"
+  },
+  "685": {
+   "name": "Mark Blount"
+  },
+  "690": {
+   "name": "Mark Blount"
+  },
+  "696": {
+   "name": "Candace Crawford"
+  },
+  "705": {
+   "name": "Mike McCosker"
+  },
+  "707": {
+   "name": "Mike McCosker"
+  },
+  "708": {
+   "name": "Mike McCosker"
+  },
+  "709": {
+   "name": "Mike McCosker"
+  },
+  "711": {
+   "name": "Mike McCosker"
+  },
+  "714": {
+   "name": "Mike McCosker"
+  },
+  "715": {
+   "name": "Mike McCosker"
+  },
+  "718": {
+   "name": "Mike McCosker"
+  },
+  "719": {
+   "name": "Mike McCosker"
+  },
+  "720": {
+   "name": "Mike McCosker"
+  },
+  "722": {
+   "name": "Mike McCosker"
+  },
+  "724": {
+   "name": "Mike McCosker"
+  },
+  "726": {
+   "name": "Mike McCosker"
+  },
+  "727": {
+   "name": "Mike McCosker"
+  },
+  "729": {
+   "name": "Mike McCosker"
+  },
+  "732": {
+   "name": "Melissa Lewis"
+  },
+  "741": {
+   "name": "Mike McCosker"
+  },
+  "747": {
+   "name": "Mike McCosker"
+  },
+  "750": {
+   "name": "Mike McCosker"
+  },
+  "757": {
+   "name": "Mike McCosker"
+  },
+  "759": {
+   "name": "Mike McCosker"
+  },
+  "761": {
+   "name": "Frank Sprague"
+  },
+  "763": {
+   "name": "Frank Sprague"
+  },
+  "764": {
+   "name": "Frank Sprague"
+  },
+  "765": {
+   "name": "Frank Sprague"
+  },
+  "766": {
+   "name": "Frank Sprague"
+  },
+  "767": {
+   "name": "Mike McCosker"
+  },
+  "768": {
+   "name": "Mike McCosker"
+  },
+  "769": {
+   "name": "Frank Sprague"
+  },
+  "770": {
+   "name": "Mike McCosker"
+  },
+  "771": {
+   "name": "Frank Sprague"
+  },
+  "772": {
+   "name": "Mike McCosker"
+  },
+  "774": {
+   "name": "Frank Sprague"
+  },
+  "775": {
+   "name": "Frank Sprague"
+  },
+  "777": {
+   "name": "Mike Koski",
+   "role": "Assistant Superintendent, SAU 6"
+  },
+  "778": {
+   "name": "Mike Koski",
+   "role": "Assistant Superintendent, SAU 6"
+  },
+  "780": {
+   "name": "Mike Koski",
+   "role": "Assistant Superintendent, SAU 6"
+  },
+  "781": {
+   "name": "Mike Koski",
+   "role": "Assistant Superintendent, SAU 6"
+  },
+  "782": {
+   "name": "Mike Koski",
+   "role": "Assistant Superintendent, SAU 6"
+  },
+  "783": {
+   "name": "Mike Koski",
+   "role": "Assistant Superintendent, SAU 6"
+  },
+  "784": {
+   "name": "Mike Koski",
+   "role": "Assistant Superintendent, SAU 6"
+  },
+  "785": {
+   "name": "Mike Koski",
+   "role": "Assistant Superintendent, SAU 6"
+  },
+  "786": {
+   "name": "Mike Koski",
+   "role": "Assistant Superintendent, SAU 6"
+  },
+  "787": {
+   "name": "Candace Crawford"
+  },
+  "788": {
+   "name": "Candace Crawford"
+  },
+  "789": {
+   "name": "Candace Crawford"
+  },
+  "790": {
+   "name": "Candace Crawford"
+  },
+  "791": {
+   "name": "Mike Koski",
+   "role": "Assistant Superintendent, SAU 6"
+  },
+  "792": {
+   "name": "Candace Crawford"
+  },
+  "793": {
+   "name": "Candace Crawford"
+  },
+  "794": {
+   "name": "Candace Crawford"
+  },
+  "796": {
+   "name": "Candace Crawford"
+  },
+  "799": {
+   "name": "Mike Koski",
+   "role": "Assistant Superintendent, SAU 6"
+  },
+  "800": {
+   "name": "Mike Koski",
+   "role": "Assistant Superintendent, SAU 6"
+  },
+  "803": {
+   "name": "Frank Sprague"
+  },
+  "804": {
+   "name": "Frank Sprague"
+  },
+  "805": {
+   "name": "Frank Sprague"
+  },
+  "806": {
+   "name": "Candace Crawford"
+  },
+  "807": {
+   "name": "Frank Sprague"
+  },
+  "809": {
+   "name": "Candace Crawford"
+  },
+  "811": {
+   "name": "Frank Sprague"
+  },
+  "812": {
+   "name": "Frank Sprague"
+  },
+  "813": {
+   "name": "Frank Sprague"
+  },
+  "814": {
+   "name": "Frank Sprague"
+  },
+  "818": {
+   "name": "Frank Sprague"
+  },
+  "823": {
+   "name": "Frank Sprague"
+  },
+  "824": {
+   "name": "Frank Sprague"
+  },
+  "826": {
+   "name": "Frank Romeo"
+  },
+  "827": {
+   "name": "Frank Romeo"
+  },
+  "830": {
+   "name": "Frank Romeo"
+  },
+  "831": {
+   "name": "Frank Sprague"
+  },
+  "832": {
+   "name": "Frank Sprague"
+  },
+  "833": {
+   "name": "Frank Sprague"
+  },
+  "834": {
+   "name": "Frank Sprague"
+  },
+  "836": {
+   "name": "Frank Sprague"
+  },
+  "840": {
+   "name": "Frank Sprague"
+  },
+  "842": {
+   "name": "Frank Sprague"
+  },
+  "843": {
+   "name": "Frank Sprague"
+  },
+  "844": {
+   "name": "Frank Sprague"
+  },
+  "846": {
+   "name": "Candace Crawford"
+  },
+  "848": {
+   "name": "Mary Henry"
+  },
+  "850": {
+   "name": "Frank Sprague"
+  },
+  "851": {
+   "name": "Candace Crawford"
+  },
+  "852": {
+   "name": "Frank Sprague"
+  },
+  "854": {
+   "name": "Frank Sprague"
+  },
+  "855": {
+   "name": "Candace Crawford"
+  },
+  "856": {
+   "name": "Frank Sprague"
+  }
+ }
+}

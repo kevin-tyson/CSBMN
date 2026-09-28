@@ -1,0 +1,440 @@
+{
+ "Speaker 1": {
+  "name": "Michael Tempesta",
+  "role": "Superintendent, SAU 6 (cluster also carries the chair's opening and procedure [0]-[91], reassigned)"
+ },
+ "Speaker 2": {
+  "name": "Unidentified",
+  "role": "Unidentified - cluster mixes clerk Mary Woodman's roll calls, several women's onsets (Whitney, Zullo, Buckland, public commenter) and short interjections; separable segments reassigned"
+ },
+ "Speaker 3": {
+  "name": "Michael Petrin",
+  "role": "Claremont School Board member"
+ },
+ "Speaker 4": {
+  "name": "Rebecca Zullo",
+  "role": "Claremont School Board member (Vice Chair per roster; not stated on this recording)"
+ },
+ "Speaker 5": {
+  "name": "Mimi",
+  "role": "Public commenter, Ward 1; Stevens High School counselor (ASR 'Meteorite Ward one'; surname not recoverable from the record)"
+ },
+ "Speaker 6": {
+  "name": "Richard Seaman",
+  "role": "Business Administrator, SAU 6"
+ },
+ "Speaker 7": {
+  "name": "Frank Sprague",
+  "role": "Claremont School Board Chair"
+ },
+ "Speaker 8": {
+  "name": "Unidentified",
+  "role": "Unidentified - short interjections"
+ },
+ "Speaker 9": {
+  "name": "Carolyn Towle",
+  "role": "Claremont School Board member; attending remotely"
+ },
+ "Speaker 10": {
+  "name": "Unidentified",
+  "role": "Unidentified - short interjections; [306] reassigned to Petrin"
+ },
+ "Speaker 11": {
+  "name": "Unidentified",
+  "role": "Unidentified - short in-room interjections and roll-call answers"
+ },
+ "Speaker 12": {
+  "name": "Frank Romeo",
+  "role": "Principal, Claremont Middle School (called 'Frank' on the record; surname per roster, ET-2020-12-14)"
+ },
+ "Speaker 13": {
+  "name": "Audra Buckland",
+  "role": "Assistant Principal, Claremont Middle School"
+ },
+ "Speaker 14": {
+  "name": "Carolyn Towle",
+  "role": "Claremont School Board member; attending remotely"
+ },
+ "Speaker 15": {
+  "name": "Audra Buckland",
+  "role": "Assistant Principal, Claremont Middle School"
+ },
+ "Speaker 16": {
+  "name": "Jason Benware",
+  "role": "Claremont School Board member"
+ },
+ "Speaker 17": {
+  "name": "Rob Lovett Jr.",
+  "role": "Claremont School Board member; attending remotely"
+ },
+ "Speaker 18": {
+  "name": "Heather Whitney",
+  "role": "Claremont School Board member"
+ },
+ "Speaker 19": {
+  "name": "Frank Sprague",
+  "role": "Claremont School Board Chair"
+ },
+ "Speaker 20": {
+  "name": "Rebecca Zullo",
+  "role": "Claremont School Board member (Vice Chair per roster; not stated on this recording) (short onsets of her own turns)"
+ },
+ "Speaker 21": {
+  "name": "Ben Nester",
+  "role": "Director of Special Education, SAU 6"
+ },
+ "Speaker 22": {
+  "name": "Patrick Adrian",
+  "role": "Public commenter, Ward 1 (former Claremont School Board member)"
+ },
+ "Speaker 23": {
+  "name": "Unidentified",
+  "role": "Unidentified - single interjection"
+ },
+ "Speaker 24": {
+  "name": "Jason Benware",
+  "role": "Claremont School Board member"
+ },
+ "Speaker 25": {
+  "name": "Unidentified",
+  "role": "Unidentified - single interjection"
+ },
+ "__overrides__": {
+  "0": {
+   "name": "Frank Sprague",
+   "role": "Claremont School Board Chair"
+  },
+  "1": {
+   "name": "Frank Sprague",
+   "role": "Claremont School Board Chair"
+  },
+  "2": {
+   "name": "Frank Sprague",
+   "role": "Claremont School Board Chair"
+  },
+  "10": {
+   "name": "Frank Sprague",
+   "role": "Claremont School Board Chair"
+  },
+  "14": {
+   "name": "Frank Sprague",
+   "role": "Claremont School Board Chair"
+  },
+  "15": {
+   "name": "Frank Sprague",
+   "role": "Claremont School Board Chair"
+  },
+  "16": {
+   "name": "Frank Sprague",
+   "role": "Claremont School Board Chair"
+  },
+  "17": {
+   "name": "Frank Sprague",
+   "role": "Claremont School Board Chair"
+  },
+  "20": {
+   "name": "Frank Sprague",
+   "role": "Claremont School Board Chair"
+  },
+  "24": {
+   "name": "Frank Sprague",
+   "role": "Claremont School Board Chair"
+  },
+  "25": {
+   "name": "Frank Sprague",
+   "role": "Claremont School Board Chair"
+  },
+  "27": {
+   "name": "Frank Sprague",
+   "role": "Claremont School Board Chair"
+  },
+  "30": {
+   "name": "Frank Sprague",
+   "role": "Claremont School Board Chair"
+  },
+  "31": {
+   "name": "Frank Sprague",
+   "role": "Claremont School Board Chair"
+  },
+  "32": {
+   "name": "Frank Sprague",
+   "role": "Claremont School Board Chair"
+  },
+  "33": {
+   "name": "Frank Sprague",
+   "role": "Claremont School Board Chair"
+  },
+  "35": {
+   "name": "Frank Sprague",
+   "role": "Claremont School Board Chair"
+  },
+  "37": {
+   "name": "Frank Sprague",
+   "role": "Claremont School Board Chair"
+  },
+  "39": {
+   "name": "Frank Sprague",
+   "role": "Claremont School Board Chair"
+  },
+  "42": {
+   "name": "Frank Sprague",
+   "role": "Claremont School Board Chair"
+  },
+  "43": {
+   "name": "Frank Sprague",
+   "role": "Claremont School Board Chair"
+  },
+  "47": {
+   "name": "Frank Sprague",
+   "role": "Claremont School Board Chair"
+  },
+  "50": {
+   "name": "Frank Sprague",
+   "role": "Claremont School Board Chair"
+  },
+  "58": {
+   "name": "Frank Sprague",
+   "role": "Claremont School Board Chair"
+  },
+  "59": {
+   "name": "Frank Sprague",
+   "role": "Claremont School Board Chair"
+  },
+  "62": {
+   "name": "Frank Sprague",
+   "role": "Claremont School Board Chair"
+  },
+  "63": {
+   "name": "Frank Sprague",
+   "role": "Claremont School Board Chair"
+  },
+  "70": {
+   "name": "Frank Sprague",
+   "role": "Claremont School Board Chair"
+  },
+  "71": {
+   "name": "Frank Sprague",
+   "role": "Claremont School Board Chair"
+  },
+  "72": {
+   "name": "Frank Sprague",
+   "role": "Claremont School Board Chair"
+  },
+  "74": {
+   "name": "Frank Sprague",
+   "role": "Claremont School Board Chair"
+  },
+  "80": {
+   "name": "Frank Sprague",
+   "role": "Claremont School Board Chair"
+  },
+  "89": {
+   "name": "Frank Sprague",
+   "role": "Claremont School Board Chair"
+  },
+  "90": {
+   "name": "Frank Sprague",
+   "role": "Claremont School Board Chair"
+  },
+  "91": {
+   "name": "Frank Sprague",
+   "role": "Claremont School Board Chair"
+  },
+  "4": {
+   "name": "Unidentified",
+   "role": "Unidentified - roll-call answers"
+  },
+  "6": {
+   "name": "Unidentified",
+   "role": "Unidentified - roll-call answers"
+  },
+  "7": {
+   "name": "Unidentified",
+   "role": "Unidentified - roll-call answers"
+  },
+  "8": {
+   "name": "Unidentified",
+   "role": "Unidentified - roll-call answers"
+  },
+  "3": {
+   "name": "Mary Woodman",
+   "role": "School district clerk and board recording secretary (calls roll)"
+  },
+  "5": {
+   "name": "Mary Woodman",
+   "role": "School district clerk and board recording secretary (calls roll)"
+  },
+  "9": {
+   "name": "Mary Woodman",
+   "role": "School district clerk and board recording secretary (calls roll)"
+  },
+  "21": {
+   "name": "Mary Woodman",
+   "role": "School district clerk and board recording secretary (calls roll)"
+  },
+  "23": {
+   "name": "Mary Woodman",
+   "role": "School district clerk and board recording secretary (calls roll)"
+  },
+  "34": {
+   "name": "Mary Woodman",
+   "role": "School district clerk and board recording secretary (calls roll)"
+  },
+  "36": {
+   "name": "Mary Woodman",
+   "role": "School district clerk and board recording secretary (calls roll)"
+  },
+  "44": {
+   "name": "Mary Woodman",
+   "role": "School district clerk and board recording secretary (calls roll)"
+  },
+  "46": {
+   "name": "Mary Woodman",
+   "role": "School district clerk and board recording secretary (calls roll)"
+  },
+  "51": {
+   "name": "Mary Woodman",
+   "role": "School district clerk and board recording secretary (calls roll)"
+  },
+  "53": {
+   "name": "Mary Woodman",
+   "role": "School district clerk and board recording secretary (calls roll)"
+  },
+  "55": {
+   "name": "Mary Woodman",
+   "role": "School district clerk and board recording secretary (calls roll)"
+  },
+  "64": {
+   "name": "Mary Woodman",
+   "role": "School district clerk and board recording secretary (calls roll)"
+  },
+  "69": {
+   "name": "Mary Woodman",
+   "role": "School district clerk and board recording secretary (calls roll)"
+  },
+  "416": {
+   "name": "Mary Woodman",
+   "role": "School district clerk and board recording secretary (calls roll)"
+  },
+  "418": {
+   "name": "Mary Woodman",
+   "role": "School district clerk and board recording secretary (calls roll)"
+  },
+  "425": {
+   "name": "Mary Woodman",
+   "role": "School district clerk and board recording secretary (calls roll)"
+  },
+  "549": {
+   "name": "Mary Woodman",
+   "role": "School district clerk and board recording secretary (calls roll)"
+  },
+  "551": {
+   "name": "Mary Woodman",
+   "role": "School district clerk and board recording secretary (calls roll)"
+  },
+  "11": {
+   "name": "Jason Benware",
+   "role": "Claremont School Board member"
+  },
+  "12": {
+   "name": "Jason Benware",
+   "role": "Claremont School Board member"
+  },
+  "13": {
+   "name": "Heather Whitney",
+   "role": "Claremont School Board member"
+  },
+  "29": {
+   "name": "Heather Whitney",
+   "role": "Claremont School Board member"
+  },
+  "480": {
+   "name": "Heather Whitney",
+   "role": "Claremont School Board member"
+  },
+  "73": {
+   "name": "Mimi",
+   "role": "Public commenter, Ward 1; Stevens High School counselor (ASR 'Meteorite Ward one'; surname not recoverable from the record)"
+  },
+  "75": {
+   "name": "Mimi",
+   "role": "Public commenter, Ward 1; Stevens High School counselor (ASR 'Meteorite Ward one'; surname not recoverable from the record)"
+  },
+  "78": {
+   "name": "Mimi",
+   "role": "Public commenter, Ward 1; Stevens High School counselor (ASR 'Meteorite Ward one'; surname not recoverable from the record)"
+  },
+  "134": {
+   "name": "Rebecca Zullo",
+   "role": "Claremont School Board member (Vice Chair per roster; not stated on this recording)"
+  },
+  "458": {
+   "name": "Rebecca Zullo",
+   "role": "Claremont School Board member (Vice Chair per roster; not stated on this recording)"
+  },
+  "596": {
+   "name": "Rebecca Zullo",
+   "role": "Claremont School Board member (Vice Chair per roster; not stated on this recording)"
+  },
+  "701": {
+   "name": "Rebecca Zullo",
+   "role": "Claremont School Board member (Vice Chair per roster; not stated on this recording)"
+  },
+  "709": {
+   "name": "Rebecca Zullo",
+   "role": "Claremont School Board member (Vice Chair per roster; not stated on this recording)"
+  },
+  "719": {
+   "name": "Rebecca Zullo",
+   "role": "Claremont School Board member (Vice Chair per roster; not stated on this recording)"
+  },
+  "726": {
+   "name": "Rebecca Zullo",
+   "role": "Claremont School Board member (Vice Chair per roster; not stated on this recording)"
+  },
+  "728": {
+   "name": "Rebecca Zullo",
+   "role": "Claremont School Board member (Vice Chair per roster; not stated on this recording)"
+  },
+  "187": {
+   "name": "Audra Buckland",
+   "role": "Assistant Principal, Claremont Middle School"
+  },
+  "189": {
+   "name": "Audra Buckland",
+   "role": "Assistant Principal, Claremont Middle School"
+  },
+  "242": {
+   "name": "Audra Buckland",
+   "role": "Assistant Principal, Claremont Middle School"
+  },
+  "244": {
+   "name": "Audra Buckland",
+   "role": "Assistant Principal, Claremont Middle School"
+  },
+  "246": {
+   "name": "Audra Buckland",
+   "role": "Assistant Principal, Claremont Middle School"
+  },
+  "331": {
+   "name": "Michael Tempesta",
+   "role": "Superintendent, SAU 6"
+  },
+  "101": {
+   "name": "Richard Seaman",
+   "role": "Business Administrator, SAU 6"
+  },
+  "306": {
+   "name": "Michael Petrin",
+   "role": "Claremont School Board member"
+  },
+  "253": {
+   "name": "Frank Romeo",
+   "role": "Principal, Claremont Middle School (called 'Frank' on the record; surname per roster, ET-2020-12-14)"
+  },
+  "54": {
+   "name": "Unidentified",
+   "role": "Unidentified - roll-call answer following the call of Jason's name (diarized with Petrin)"
+  }
+ }
+}

@@ -1,0 +1,404 @@
+{
+ "Speaker 1": {
+  "name": "Richard Seaman",
+  "role": "Claremont School Board Chair (first name 'Richard' on the record: [105], [620]; surname Seaman per roster, the only Richard on the 2015-16 board - uncertain, surname not spoken)"
+ },
+ "Speaker 2": {
+  "name": "Middleton McGoodwin",
+  "role": "Superintendent, SAU 6 (addressed as 'Middleton' and ASR 'Milton')"
+ },
+ "Speaker 3": {
+  "name": "Michael O'Neill",
+  "role": "Business Administrator, SAU 6 (named 'Michael O'Neill' in the motion at [35]; called 'Mike')"
+ },
+ "Speaker 4": {
+  "name": "Bob",
+  "role": "Claremont School Board member (first name only; says he is resigning from the board on the 19th; ASR 'Mr. Picard' at [319] and 7408 'Robert Peacock' may be his surname - unverified)"
+ },
+ "Speaker 5": {
+  "name": "Chris",
+  "role": "SAU 6 special education administrator (first name 'Chris' per chair [260], [460]; surname and exact title not on record)"
+ },
+ "Speaker 6": {
+  "name": "Charlene Lovett",
+  "role": "Mayor of Claremont (addressed as 'Charlene' and 'the mayor'; says she served on the school board 2009 to 2013 [327])"
+ },
+ "Speaker 7": {
+  "name": "Chris Irish",
+  "role": "Claremont School Board member (named in roll call 'Chris. Irish.' [61])"
+ },
+ "Speaker 8": {
+  "name": "Cory LeClair",
+  "role": "SAU 6 administrator (title not stated on this recording; Assistant Superintendent by Jan 2017 per roster) - named 'Corey LeClair' by the superintendent [345]"
+ },
+ "Speaker 9": {
+  "name": "Cory LeClair",
+  "role": "SAU 6 administrator (title not stated on this recording; Assistant Superintendent by Jan 2017 per roster) - named 'Corey LeClair' by the superintendent [345]"
+ },
+ "Speaker 10": {
+  "name": "John",
+  "role": "Claremont School Board member (first name only, 'John' per chair's recognitions [36], [54], [689], [727]; surname not on record)"
+ },
+ "Speaker 11": {
+  "name": "John",
+  "role": "Claremont School Board member (first name only, 'John' per chair's recognitions [36], [54], [689], [727]; surname not on record) (attribution of this short cluster uncertain - same paraprofessional-warrant question John repeats at [971])"
+ },
+ "Speaker 12": {
+  "name": "Unidentified",
+  "role": "Unidentified - cluster of short fragments and crosstalk from several voices"
+ },
+ "Speaker 13": {
+  "name": "Nate",
+  "role": "SAU 6 technology director (addressed as 'Nate' / 'Nathan'; surname and title not on record)"
+ },
+ "Speaker 14": {
+  "name": "Unidentified",
+  "role": "Unidentified - cluster of short fragments and crosstalk from several voices"
+ },
+ "Speaker 15": {
+  "name": "Unidentified",
+  "role": "Unidentified - two short remarks, speaker not identifiable"
+ },
+ "Speaker 16": {
+  "name": "Ray",
+  "role": "Ray (surname not on record) - arrives late, refers to 'our colleagues in the Senate' and Rep. O'Hearn's bill; likely a Claremont state representative (uncertain)"
+ },
+ "Speaker 17": {
+  "name": "Unidentified",
+  "role": "Unidentified - short acknowledgements and the 'aye' vote chorus"
+ },
+ "Speaker 18": {
+  "name": "Cheryl Jones",
+  "role": "Public commenter, Ward 2 (self-identified [1159])"
+ },
+ "__overrides__": {
+  "41": {
+   "name": "Mary Woodman",
+   "role": "School district clerk / recording secretary (called 'Mary' to take roll; surname Woodman per roster)"
+  },
+  "61": {
+   "name": "Mary Woodman",
+   "role": "School district clerk / recording secretary (called 'Mary' to take roll; surname Woodman per roster)"
+  },
+  "93": {
+   "name": "Mary Woodman",
+   "role": "School district clerk / recording secretary (called 'Mary' to take roll; surname Woodman per roster)"
+  },
+  "141": {
+   "name": "Mary Woodman",
+   "role": "School district clerk / recording secretary (called 'Mary' to take roll; surname Woodman per roster)"
+  },
+  "144": {
+   "name": "Mary Woodman",
+   "role": "School district clerk / recording secretary (called 'Mary' to take roll; surname Woodman per roster)"
+  },
+  "35": {
+   "name": "John",
+   "role": "Claremont School Board member (first name only, 'John' per chair's recognitions [36], [54], [689], [727]; surname not on record)"
+  },
+  "53": {
+   "name": "John",
+   "role": "Claremont School Board member (first name only, 'John' per chair's recognitions [36], [54], [689], [727]; surname not on record)"
+  },
+  "55": {
+   "name": "John",
+   "role": "Claremont School Board member (first name only, 'John' per chair's recognitions [36], [54], [689], [727]; surname not on record)"
+  },
+  "82": {
+   "name": "John",
+   "role": "Claremont School Board member (first name only, 'John' per chair's recognitions [36], [54], [689], [727]; surname not on record)"
+  },
+  "225": {
+   "name": "John",
+   "role": "Claremont School Board member (first name only, 'John' per chair's recognitions [36], [54], [689], [727]; surname not on record)"
+  },
+  "227": {
+   "name": "John",
+   "role": "Claremont School Board member (first name only, 'John' per chair's recognitions [36], [54], [689], [727]; surname not on record)"
+  },
+  "228": {
+   "name": "John",
+   "role": "Claremont School Board member (first name only, 'John' per chair's recognitions [36], [54], [689], [727]; surname not on record)"
+  },
+  "258": {
+   "name": "John",
+   "role": "Claremont School Board member (first name only, 'John' per chair's recognitions [36], [54], [689], [727]; surname not on record)"
+  },
+  "259": {
+   "name": "John",
+   "role": "Claremont School Board member (first name only, 'John' per chair's recognitions [36], [54], [689], [727]; surname not on record)"
+  },
+  "675": {
+   "name": "John",
+   "role": "Claremont School Board member (first name only, 'John' per chair's recognitions [36], [54], [689], [727]; surname not on record)"
+  },
+  "680": {
+   "name": "John",
+   "role": "Claremont School Board member (first name only, 'John' per chair's recognitions [36], [54], [689], [727]; surname not on record)"
+  },
+  "683": {
+   "name": "John",
+   "role": "Claremont School Board member (first name only, 'John' per chair's recognitions [36], [54], [689], [727]; surname not on record)"
+  },
+  "685": {
+   "name": "John",
+   "role": "Claremont School Board member (first name only, 'John' per chair's recognitions [36], [54], [689], [727]; surname not on record)"
+  },
+  "690": {
+   "name": "John",
+   "role": "Claremont School Board member (first name only, 'John' per chair's recognitions [36], [54], [689], [727]; surname not on record)"
+  },
+  "691": {
+   "name": "John",
+   "role": "Claremont School Board member (first name only, 'John' per chair's recognitions [36], [54], [689], [727]; surname not on record)"
+  },
+  "697": {
+   "name": "John",
+   "role": "Claremont School Board member (first name only, 'John' per chair's recognitions [36], [54], [689], [727]; surname not on record)"
+  },
+  "701": {
+   "name": "John",
+   "role": "Claremont School Board member (first name only, 'John' per chair's recognitions [36], [54], [689], [727]; surname not on record)"
+  },
+  "712": {
+   "name": "John",
+   "role": "Claremont School Board member (first name only, 'John' per chair's recognitions [36], [54], [689], [727]; surname not on record)"
+  },
+  "714": {
+   "name": "John",
+   "role": "Claremont School Board member (first name only, 'John' per chair's recognitions [36], [54], [689], [727]; surname not on record)"
+  },
+  "728": {
+   "name": "John",
+   "role": "Claremont School Board member (first name only, 'John' per chair's recognitions [36], [54], [689], [727]; surname not on record)"
+  },
+  "729": {
+   "name": "John",
+   "role": "Claremont School Board member (first name only, 'John' per chair's recognitions [36], [54], [689], [727]; surname not on record)"
+  },
+  "730": {
+   "name": "John",
+   "role": "Claremont School Board member (first name only, 'John' per chair's recognitions [36], [54], [689], [727]; surname not on record)"
+  },
+  "739": {
+   "name": "John",
+   "role": "Claremont School Board member (first name only, 'John' per chair's recognitions [36], [54], [689], [727]; surname not on record)"
+  },
+  "757": {
+   "name": "John",
+   "role": "Claremont School Board member (first name only, 'John' per chair's recognitions [36], [54], [689], [727]; surname not on record)"
+  },
+  "758": {
+   "name": "John",
+   "role": "Claremont School Board member (first name only, 'John' per chair's recognitions [36], [54], [689], [727]; surname not on record)"
+  },
+  "764": {
+   "name": "John",
+   "role": "Claremont School Board member (first name only, 'John' per chair's recognitions [36], [54], [689], [727]; surname not on record)"
+  },
+  "808": {
+   "name": "John",
+   "role": "Claremont School Board member (first name only, 'John' per chair's recognitions [36], [54], [689], [727]; surname not on record)"
+  },
+  "810": {
+   "name": "John",
+   "role": "Claremont School Board member (first name only, 'John' per chair's recognitions [36], [54], [689], [727]; surname not on record)"
+  },
+  "819": {
+   "name": "John",
+   "role": "Claremont School Board member (first name only, 'John' per chair's recognitions [36], [54], [689], [727]; surname not on record)"
+  },
+  "890": {
+   "name": "John",
+   "role": "Claremont School Board member (first name only, 'John' per chair's recognitions [36], [54], [689], [727]; surname not on record)"
+  },
+  "900": {
+   "name": "John",
+   "role": "Claremont School Board member (first name only, 'John' per chair's recognitions [36], [54], [689], [727]; surname not on record)"
+  },
+  "901": {
+   "name": "John",
+   "role": "Claremont School Board member (first name only, 'John' per chair's recognitions [36], [54], [689], [727]; surname not on record)"
+  },
+  "902": {
+   "name": "John",
+   "role": "Claremont School Board member (first name only, 'John' per chair's recognitions [36], [54], [689], [727]; surname not on record)"
+  },
+  "904": {
+   "name": "John",
+   "role": "Claremont School Board member (first name only, 'John' per chair's recognitions [36], [54], [689], [727]; surname not on record)"
+  },
+  "911": {
+   "name": "John",
+   "role": "Claremont School Board member (first name only, 'John' per chair's recognitions [36], [54], [689], [727]; surname not on record)"
+  },
+  "912": {
+   "name": "John",
+   "role": "Claremont School Board member (first name only, 'John' per chair's recognitions [36], [54], [689], [727]; surname not on record)"
+  },
+  "921": {
+   "name": "John",
+   "role": "Claremont School Board member (first name only, 'John' per chair's recognitions [36], [54], [689], [727]; surname not on record)"
+  },
+  "933": {
+   "name": "John",
+   "role": "Claremont School Board member (first name only, 'John' per chair's recognitions [36], [54], [689], [727]; surname not on record)"
+  },
+  "934": {
+   "name": "John",
+   "role": "Claremont School Board member (first name only, 'John' per chair's recognitions [36], [54], [689], [727]; surname not on record)"
+  },
+  "971": {
+   "name": "John",
+   "role": "Claremont School Board member (first name only, 'John' per chair's recognitions [36], [54], [689], [727]; surname not on record)"
+  },
+  "973": {
+   "name": "John",
+   "role": "Claremont School Board member (first name only, 'John' per chair's recognitions [36], [54], [689], [727]; surname not on record)"
+  },
+  "974": {
+   "name": "John",
+   "role": "Claremont School Board member (first name only, 'John' per chair's recognitions [36], [54], [689], [727]; surname not on record)"
+  },
+  "975": {
+   "name": "John",
+   "role": "Claremont School Board member (first name only, 'John' per chair's recognitions [36], [54], [689], [727]; surname not on record)"
+  },
+  "980": {
+   "name": "John",
+   "role": "Claremont School Board member (first name only, 'John' per chair's recognitions [36], [54], [689], [727]; surname not on record)"
+  },
+  "985": {
+   "name": "John",
+   "role": "Claremont School Board member (first name only, 'John' per chair's recognitions [36], [54], [689], [727]; surname not on record)"
+  },
+  "1022": {
+   "name": "John",
+   "role": "Claremont School Board member (first name only, 'John' per chair's recognitions [36], [54], [689], [727]; surname not on record)"
+  },
+  "1064": {
+   "name": "John",
+   "role": "Claremont School Board member (first name only, 'John' per chair's recognitions [36], [54], [689], [727]; surname not on record)"
+  },
+  "1073": {
+   "name": "John",
+   "role": "Claremont School Board member (first name only, 'John' per chair's recognitions [36], [54], [689], [727]; surname not on record)"
+  },
+  "1082": {
+   "name": "John",
+   "role": "Claremont School Board member (first name only, 'John' per chair's recognitions [36], [54], [689], [727]; surname not on record)"
+  },
+  "1084": {
+   "name": "John",
+   "role": "Claremont School Board member (first name only, 'John' per chair's recognitions [36], [54], [689], [727]; surname not on record)"
+  },
+  "1086": {
+   "name": "John",
+   "role": "Claremont School Board member (first name only, 'John' per chair's recognitions [36], [54], [689], [727]; surname not on record)"
+  },
+  "1088": {
+   "name": "John",
+   "role": "Claremont School Board member (first name only, 'John' per chair's recognitions [36], [54], [689], [727]; surname not on record)"
+  },
+  "1090": {
+   "name": "John",
+   "role": "Claremont School Board member (first name only, 'John' per chair's recognitions [36], [54], [689], [727]; surname not on record)"
+  },
+  "1095": {
+   "name": "John",
+   "role": "Claremont School Board member (first name only, 'John' per chair's recognitions [36], [54], [689], [727]; surname not on record)"
+  },
+  "1105": {
+   "name": "John",
+   "role": "Claremont School Board member (first name only, 'John' per chair's recognitions [36], [54], [689], [727]; surname not on record)"
+  },
+  "1111": {
+   "name": "John",
+   "role": "Claremont School Board member (first name only, 'John' per chair's recognitions [36], [54], [689], [727]; surname not on record)"
+  },
+  "332": {
+   "name": "John",
+   "role": "Claremont School Board member (first name only, 'John' per chair's recognitions [36], [54], [689], [727]; surname not on record)"
+  },
+  "334": {
+   "name": "John",
+   "role": "Claremont School Board member (first name only, 'John' per chair's recognitions [36], [54], [689], [727]; surname not on record)"
+  },
+  "336": {
+   "name": "John",
+   "role": "Claremont School Board member (first name only, 'John' per chair's recognitions [36], [54], [689], [727]; surname not on record)"
+  },
+  "42": {
+   "name": "Unidentified",
+   "role": "Unidentified - roll-call vote answered after the clerk calls 'Nancy' (board member Nancy or John; voices not separable)"
+  },
+  "62": {
+   "name": "Unidentified",
+   "role": "Unidentified - roll-call vote answered after the clerk calls 'Nancy' (board member Nancy or John; voices not separable)"
+  },
+  "94": {
+   "name": "Unidentified",
+   "role": "Unidentified - roll-call vote answered after the clerk calls 'Nancy' (board member Nancy or John; voices not separable)"
+  },
+  "103": {
+   "name": "Unidentified",
+   "role": "Unidentified - one-word reply in Speaker 5 cluster, speaker not identifiable"
+  },
+  "73": {
+   "name": "Unidentified",
+   "role": "Unidentified - remark on professional development funds in the Speaker 5 cluster; either board member John (who negotiated contracts) or special education administrator Chris (uncertain)"
+  },
+  "74": {
+   "name": "Unidentified",
+   "role": "Unidentified - remark on professional development funds in the Speaker 5 cluster; either board member John (who negotiated contracts) or special education administrator Chris (uncertain)"
+  },
+  "135": {
+   "name": "Unidentified",
+   "role": "Unidentified - staff voice who says he was formerly a principal at the high school; possibly special education administrator Chris (uncertain)"
+  },
+  "136": {
+   "name": "Unidentified",
+   "role": "Unidentified - staff voice who says he was formerly a principal at the high school; possibly special education administrator Chris (uncertain)"
+  },
+  "382": {
+   "name": "Unidentified",
+   "role": "Unidentified - short fragment in the Speaker 5 cluster, speaker not identifiable"
+  },
+  "594": {
+   "name": "Unidentified",
+   "role": "Unidentified - short fragment in the Speaker 5 cluster, speaker not identifiable"
+  },
+  "666": {
+   "name": "Unidentified",
+   "role": "Unidentified - short fragment in the Speaker 5 cluster, speaker not identifiable"
+  },
+  "996": {
+   "name": "Unidentified",
+   "role": "Unidentified - short fragment in the Speaker 5 cluster, speaker not identifiable"
+  },
+  "1028": {
+   "name": "Unidentified",
+   "role": "Unidentified - short fragment in the Speaker 5 cluster, speaker not identifiable"
+  },
+  "1038": {
+   "name": "Unidentified",
+   "role": "Unidentified - short fragment in the Speaker 5 cluster, speaker not identifiable"
+  },
+  "1154": {
+   "name": "Cheryl Jones"
+  },
+  "1156": {
+   "name": "Cheryl Jones"
+  },
+  "1066": {
+   "name": "Richard Seaman"
+  },
+  "1068": {
+   "name": "Richard Seaman"
+  },
+  "1035": {
+   "name": "Unidentified",
+   "role": "Unidentified - short 'Yes. Go ahead.' in the Speaker 16 cluster just before Ray speaks; speaker not identifiable"
+  }
+ }
+}

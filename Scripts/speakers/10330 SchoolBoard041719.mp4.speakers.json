@@ -1,0 +1,33 @@
+{
+ "Speaker 1": {"name": "Jason Benware", "role": "Claremont School Board member (votes 'Yes' right after clerk calls 'Jason dinwiddie' [31-32]; chair 'Okay Jason' then presents goal one [211-212])"},
+ "Speaker 2": {"name": "Frank Sprague", "role": "Claremont School Board Chair (calls meeting to order [1], asks Mrs. Woodman for roll [4], runs votes; LeClair: 'have Frank sign on behalf of the board' [200])"},
+ "Speaker 3": {"name": "Cory LeClair", "role": "Acting Superintendent, SAU 6 (chair: 'This is the clear' [8]; gives superintendent report [45-49]; Jason: 'Thank you. Corey.' [336]); clerk roll-call segments in this cluster reassigned to Mary Woodman"},
+ "Speaker 4": {"name": "Unidentified", "role": "Unidentified - single fragment during minutes discussion"},
+ "Speaker 5": {"name": "Alicia Seminole", "role": "Fourth grade teacher, Bluff Elementary School (self-identified 'Alicia. Seminole. Fourth grade' [55]; spelling uncertain - ASR)"},
+ "Speaker 6": {"name": "Unidentified", "role": "Unidentified - single fragment after field trip presentation"},
+ "Speaker 7": {"name": "Unidentified", "role": "Unidentified - short fragments during field trip item (possibly teacher Zina Jones or a board member, uncertain)"},
+ "Speaker 8": {"name": "Unidentified", "role": "Unidentified - short-fragment cluster (acknowledgements, ayes, crosstalk and clipped onsets of several voices); chair fragments reassigned by override"},
+ "Speaker 9": {"name": "Carolyn Towle", "role": "Claremont School Board member (chair: 'Carolyn, right up the line' [111] then asks [112]; 'Goal three Caroline' [234] then presents capital improvement committee [235])"},
+ "Speaker 10": {"name": "Rebecca Zullo", "role": "Claremont School Board Vice Chair (chair: 'Okay, Rebecca.' [128] then speaks [129]; reports on superintendent negotiation [101])"},
+ "Speaker 11": {"name": "Rob Lovett Jr.", "role": "Claremont School Board member (chair: 'Anything else? Rob.' [346] then moves to adjourn [347])"},
+ "Speaker 12": {"name": "Michael Petrin", "role": "Claremont School Board member (chair: 'Mike, do you want to talk about that one' [219] then presents goal two [222]; runs board social media 'That's been me' [232])"},
+ "__overrides__": {
+  "2": {"name": "Unidentified", "role": "Unidentified - group reciting Pledge of Allegiance"},
+  "5": {"name": "Mary Woodman", "role": "School district clerk and recording secretary (chair: 'Mrs. Woodman, could you do roll call' [4])"},
+  "6": {"name": "Rob Lovett Jr."},
+  "7": {"name": "Mary Woodman"},
+  "15": {"name": "Unidentified", "role": "Unidentified - board member seconding (absorbed into the Acting Superintendent's cluster)"},
+  "29": {"name": "Unidentified", "role": "Unidentified - board member seconding (absorbed into the Acting Superintendent's cluster)"},
+  "31": {"name": "Mary Woodman"},
+  "33": {"name": "Unidentified", "role": "Unidentified - roll-call vote response, member not audible (possibly Rob Lovett Jr.)"},
+  "34": {"name": "Mary Woodman"},
+  "35": {"name": "Michael Petrin"},
+  "36": {"name": "Mary Woodman"},
+  "39": {"name": "Unidentified", "role": "Unidentified - mixed: a member's second and the clerk beginning a roll-call vote"},
+  "40": {"name": "Mary Woodman"},
+  "41": {"name": "Michael Petrin"},
+  "42": {"name": "Mary Woodman"},
+  "207": {"name": "Frank Sprague"},
+  "348": {"name": "Rob Lovett Jr."}
+ }
+}

@@ -1,0 +1,25 @@
+{
+ "Speaker 1": {"name": "Middleton McGoodwin", "role": "Superintendent, SAU 6"},
+ "Speaker 2": {"name": "Michael Petrin", "role": "Claremont School Board member"},
+ "Speaker 3": {"name": "Brian Rapp", "role": "Claremont School Board Chair"},
+ "Speaker 4": {"name": "Cory LeClair", "role": "Assistant Superintendent, SAU 6"},
+ "Speaker 5": {"name": "Frank Sprague", "role": "Claremont School Board member"},
+ "Speaker 6": {"name": "Chris Irish", "role": "Claremont School Board Vice Chair"},
+ "Speaker 7": {"name": "Rebecca Zullo", "role": "Claremont School Board member"},
+ "Speaker 8": {"name": "Michelle Pierce", "role": "Claremont School Board member"},
+ "Speaker 9": {"name": "Lexi Grenier", "role": "Student representative, Stevens High School senior (self-identified; ASR 'Lexi Grenier', spelling unverified)"},
+ "Speaker 10": {"name": "Unidentified", "role": "Unidentified - Stevens High School German exchange program teacher (name not stated on this recording)"},
+ "Speaker 11": {"name": "Unidentified", "role": "Unidentified - short interjections and vote responses from several voices"},
+ "Speaker 12": {"name": "Patrick Adrian", "role": "Claremont School Board member"},
+ "Speaker 13": {"name": "Chris", "role": "Special Education Director, SAU 6 (first name only on record: LeClair says 'Middleton and Chris met with the folks from Brattleboro Retreat'; surname not stated)"},
+ "Speaker 14": {"name": "Unidentified", "role": "Unidentified - single short interjection"},
+ "Speaker 15": {"name": "Michael O'Neill", "role": "Director of Business and Finance, SAU 6"},
+ "Speaker 16": {"name": "Unidentified", "role": "Unidentified - voice giving procedural guidance on policy readings (possibly the recording secretary; not named)"},
+ "Speaker 17": {"name": "Patricia Barry", "role": "Principal, Stevens High School"},
+ "Speaker 18": {"name": "Unidentified", "role": "Unidentified - short fragments"},
+ "__overrides__": {
+  "34": {"name": "Patrick Adrian"}, "35": {"name": "Patrick Adrian"}, "36": {"name": "Patrick Adrian"}, "37": {"name": "Patrick Adrian"},
+  "185": {"name": "Michael O'Neill"}, "186": {"name": "Michael O'Neill"},
+  "548": {"name": "Patricia Barry"}
+ }
+}

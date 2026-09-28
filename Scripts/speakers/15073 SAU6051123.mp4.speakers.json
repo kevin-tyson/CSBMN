@@ -1,0 +1,428 @@
+{
+ "Speaker 1": {
+  "name": "Unidentified",
+  "role": "Unidentified male voice - merged cluster carrying Ben Nester, Superintendent Michael Tempesta and Frank Sprague; this segment is not separately anchored"
+ },
+ "Speaker 2": {
+  "name": "Steven Horsky",
+  "role": "SAU 6 Board Chair (elected 3/30/23, 6-5 over Marjorie Erickson); Claremont School Board member - presides; names 'Rocco and myself' as the SAU chair and vice chair"
+ },
+ "Speaker 3": {
+  "name": "Unidentified",
+  "role": "Unidentified female voice - merged cluster carrying Marjorie Erickson, Heather Whitney, Mary Henry and several members' roll-call responses; this segment is not separately anchored"
+ },
+ "Speaker 4": {
+  "name": "Candace Crawford",
+  "role": "Citizen, Ward 2, Claremont - self-identifies 'Candy Crawford, [W]ard two, Claremont'; not appointed to the Claremont board until 7/19/23"
+ },
+ "Speaker 5": {
+  "name": "Steven Horsky",
+  "role": "SAU 6 Board Chair (elected 3/30/23, 6-5 over Marjorie Erickson); Claremont School Board member - presides; names 'Rocco and myself' as the SAU chair and vice chair (the chair's own voice split into a second cluster)"
+ },
+ "Speaker 6": {
+  "name": "Unidentified",
+  "role": "Unidentified male voice - remarks at the nonpublic-session transition and one 'Aye'; votes, so a board member - Vice Chair Rocco Ruggeri is the leading candidate but is never named on the recording"
+ },
+ "Speaker 7": {
+  "name": "Unidentified",
+  "role": "Unidentified voice - answers in the Shannon Popescu slot of the roll call and casts one 'Aye'; name not stated"
+ },
+ "Speaker 8": {
+  "name": "Kelly Simpson",
+  "role": "SAU 6 Board member (Unity) - the chair names her as the seconder immediately after: 'Motion by Jen, seconded by Kelly'"
+ },
+ "Speaker 9": {
+  "name": "David Jack",
+  "role": "Interim Business Administrator, SAU 6 (consultant, Municipal Resources Inc.) - self-identifies: 'My name is Dave Jack. I'm consultant with MRI municipal resources'"
+ },
+ "Speaker 10": {
+  "name": "Unidentified",
+  "role": "SAU 6 Board member asking whether the NHSBA revision dates belong on the final copy of the conflict-of-interest policy; name not stated"
+ },
+ "Speaker 11": {
+  "name": "Whitney Skillen",
+  "role": "Claremont School Board member (SAU 6 Board) - the chair interrupts her question, 'Whitney, are you trying to set me up'"
+ },
+ "Speaker 12": {
+  "name": "Unidentified",
+  "role": "SAU 6 Board member - asks whether there is a June SAU 6 meeting, then closes with 'All right. Oh, good.'; name not stated"
+ },
+ "Speaker 13": {
+  "name": "Steven Horsky",
+  "role": "SAU 6 Board Chair (elected 3/30/23, 6-5 over Marjorie Erickson); Claremont School Board member - presides; names 'Rocco and myself' as the SAU chair and vice chair (sub-second fragments of his own sentences split from his cluster)"
+ },
+ "__overrides__": {
+  "0": {
+   "name": "Unidentified",
+   "role": "Remark before the board is called to order; voice not identified"
+  },
+  "2": {
+   "name": "Unidentified",
+   "role": "Pledge of Allegiance - group recitation captured as one voice"
+  },
+  "4": {
+   "name": "Ben Nester",
+   "role": "Director of Special Education, SAU 6 - acting secretary; the chair hands him every roll call by name ('Ben, could I get a roll call, please?') (reading 'Steven Horsky' in the attendance roll)"
+  },
+  "6": {
+   "name": "Ben Nester",
+   "role": "Director of Special Education, SAU 6 - acting secretary; the chair hands him every roll call by name ('Ben, could I get a roll call, please?') (attendance roll; members' answers absorbed)"
+  },
+  "7": {
+   "name": "Ben Nester",
+   "role": "Director of Special Education, SAU 6 - acting secretary; the chair hands him every roll call by name ('Ben, could I get a roll call, please?') (reading 'Atonya Hart' in the attendance roll; sub-second fragment clipped into the chair's cluster between two of his own segments)"
+  },
+  "8": {
+   "name": "Ben Nester",
+   "role": "Director of Special Education, SAU 6 - acting secretary; the chair hands him every roll call by name ('Ben, could I get a roll call, please?') (attendance roll; members' answers absorbed)"
+  },
+  "12": {
+   "name": "Frank Sprague",
+   "role": "Claremont School Board Vice Chair (SAU 6 Board) - the board's mover tonight; the chair names him on three motions ('Motion by Frank') (UNCERTAIN - inferred: same diarized cluster as his named motions, and no other male member is placed in it) - moves to amend the agenda"
+  },
+  "14": {
+   "name": "Arlene Hawkins",
+   "role": "Claremont School Board member (SAU 6 Board) - the chair names the second: 'Seconded by Arlene. That's who I think I heard first' (his own hedge kept)"
+  },
+  "16": {
+   "name": "Unidentified",
+   "role": "Voice vote on the agenda amendment; voice not identified"
+  },
+  "19": {
+   "name": "Frank Sprague",
+   "role": "Claremont School Board Vice Chair (SAU 6 Board) - the board's mover tonight; the chair names him on three motions ('Motion by Frank') (UNCERTAIN - inferred: same diarized cluster as his named motions, and no other male member is placed in it) - moves to approve the 4/13/23 minutes"
+  },
+  "21": {
+   "name": "Unidentified",
+   "role": "Voice vote on the 4/13/23 minutes; voice not identified"
+  },
+  "29": {
+   "name": "Michael Tempesta",
+   "role": "Superintendent of Schools, SAU 6 - gives the superintendent's report and nominates Mary Henry as business administrator - answering Crawford about the district publicist"
+  },
+  "31": {
+   "name": "Michael Tempesta",
+   "role": "Superintendent of Schools, SAU 6 - gives the superintendent's report and nominates Mary Henry as business administrator - answering Crawford about the district publicist"
+  },
+  "33": {
+   "name": "Michael Tempesta",
+   "role": "Superintendent of Schools, SAU 6 - gives the superintendent's report and nominates Mary Henry as business administrator - answering Crawford about the district publicist"
+  },
+  "35": {
+   "name": "Michael Tempesta",
+   "role": "Superintendent of Schools, SAU 6 - gives the superintendent's report and nominates Mary Henry as business administrator - answering Crawford about the district publicist"
+  },
+  "44": {
+   "name": "Michael Tempesta",
+   "role": "Superintendent of Schools, SAU 6 - gives the superintendent's report and nominates Mary Henry as business administrator - the superintendent's report, yielded to the business consultant"
+  },
+  "46": {
+   "name": "Heather Whitney",
+   "role": "Claremont School Board Chair (SAU 6 Board) - the chair recognises her by name, 'Heather.', immediately before her turn; the chair restates it as 'Motion by Heather'"
+  },
+  "48": {
+   "name": "Unidentified",
+   "role": "Second the chair could not attribute: 'seconded by Whitney or Jen? It was a tie. You guys were pretty quick'"
+  },
+  "50": {
+   "name": "Ben Nester",
+   "role": "Director of Special Education, SAU 6 - acting secretary; the chair hands him every roll call by name ('Ben, could I get a roll call, please?') (roll call on entering nonpublic session)"
+  },
+  "52": {
+   "name": "Ben Nester",
+   "role": "Director of Special Education, SAU 6 - acting secretary; the chair hands him every roll call by name ('Ben, could I get a roll call, please?') (roll call on entering nonpublic session)"
+  },
+  "53": {
+   "name": "Whitney Skillen",
+   "role": "Claremont School Board member (SAU 6 Board) - the chair interrupts her question, 'Whitney, are you trying to set me up' (roll-call response immediately after the reader says 'Whitney. Skilling.')"
+  },
+  "54": {
+   "name": "Ben Nester",
+   "role": "Director of Special Education, SAU 6 - acting secretary; the chair hands him every roll call by name ('Ben, could I get a roll call, please?') (roll call on entering nonpublic session)"
+  },
+  "64": {
+   "name": "Unidentified",
+   "role": "Moves to come out of nonpublic session; the chair names only the seconder ('Seconded by Whitney')"
+  },
+  "66": {
+   "name": "Ben Nester",
+   "role": "Director of Special Education, SAU 6 - acting secretary; the chair hands him every roll call by name ('Ben, could I get a roll call, please?') (answering the chair's 'Can I get a roll call? Vote, please. Ben?')"
+  },
+  "68": {
+   "name": "Ben Nester",
+   "role": "Director of Special Education, SAU 6 - acting secretary; the chair hands him every roll call by name ('Ben, could I get a roll call, please?') (roll call on leaving nonpublic session)"
+  },
+  "69": {
+   "name": "Ben Nester",
+   "role": "Director of Special Education, SAU 6 - acting secretary; the chair hands him every roll call by name ('Ben, could I get a roll call, please?') (roll call - 'Marjorie is present')"
+  },
+  "70": {
+   "name": "Marjorie Erickson",
+   "role": "Unity School Board Chair (SAU 6 Board) - brings the SAU policy drafts, routes them through Chelsea and corresponds with NHSBA's Amanda Phelps, exactly as at the 3/30/23 meeting (roll-call response immediately after her name is read)"
+  },
+  "71": {
+   "name": "Ben Nester",
+   "role": "Director of Special Education, SAU 6 - acting secretary; the chair hands him every roll call by name ('Ben, could I get a roll call, please?') (roll call - calling Shannon Popescu, who is attending remotely)"
+  },
+  "72": {
+   "name": "Unidentified",
+   "role": "Answer in the Shannon Popescu slot of the roll call, clipped into the chair's cluster; voice not identified"
+  },
+  "75": {
+   "name": "Ben Nester",
+   "role": "Director of Special Education, SAU 6 - acting secretary; the chair hands him every roll call by name ('Ben, could I get a roll call, please?') (roll call on leaving nonpublic session)"
+  },
+  "76": {
+   "name": "Arlene Hawkins",
+   "role": "Claremont School Board member (SAU 6 Board) - roll-call response immediately after the reader says 'Arlene. Hawkins.'"
+  },
+  "77": {
+   "name": "Ben Nester",
+   "role": "Director of Special Education, SAU 6 - acting secretary; the chair hands him every roll call by name ('Ben, could I get a roll call, please?') (roll call on leaving nonpublic session)"
+  },
+  "78": {
+   "name": "Heather Whitney",
+   "role": "Claremont School Board Chair (SAU 6 Board) - her roll-call answer; the reader's 'Whitney' and her 'Yes, sir' share one segment"
+  },
+  "80": {
+   "name": "Unidentified",
+   "role": "Moves to seal the nonpublic minutes for ten years; the chair names only the seconder ('Seconded by Kelly')"
+  },
+  "82": {
+   "name": "Ben Nester",
+   "role": "Director of Special Education, SAU 6 - acting secretary; the chair hands him every roll call by name ('Ben, could I get a roll call, please?') (roll call on sealing the nonpublic minutes)"
+  },
+  "86": {
+   "name": "Jennifer Gallagher",
+   "role": "Claremont School Board member (SAU 6 Board) - the chair names the mover: 'Motion by Jen, seconded by Kelly'"
+  },
+  "94": {
+   "name": "Michael Tempesta",
+   "role": "Superintendent of Schools, SAU 6 - gives the superintendent's report and nominates Mary Henry as business administrator - presents Mary Henry to the board"
+  },
+  "95": {
+   "name": "Michael Tempesta",
+   "role": "Superintendent of Schools, SAU 6 - gives the superintendent's report and nominates Mary Henry as business administrator - presents Mary Henry to the board"
+  },
+  "97": {
+   "name": "Michael Tempesta",
+   "role": "Superintendent of Schools, SAU 6 - gives the superintendent's report and nominates Mary Henry as business administrator"
+  },
+  "99": {
+   "name": "Mary Henry",
+   "role": "Incoming Business Administrator, SAU 6 - nominated and appointed at this meeting; speaks after Tempesta names her, 'I'm looking forward to coming to Claremont'"
+  },
+  "101": {
+   "name": "Mary Henry",
+   "role": "Incoming Business Administrator, SAU 6 - nominated and appointed at this meeting; speaks after Tempesta names her, 'I'm looking forward to coming to Claremont'"
+  },
+  "102": {
+   "name": "Mary Henry",
+   "role": "Incoming Business Administrator, SAU 6 - nominated and appointed at this meeting; speaks after Tempesta names her, 'I'm looking forward to coming to Claremont'"
+  },
+  "103": {
+   "name": "Michael Tempesta",
+   "role": "Superintendent of Schools, SAU 6 - gives the superintendent's report and nominates Mary Henry as business administrator"
+  },
+  "106": {
+   "name": "Frank Sprague",
+   "role": "Claremont School Board Vice Chair (SAU 6 Board) - the board's mover tonight; the chair names him on three motions ('Motion by Frank') - the chair restates it as 'a motion by Frank to accept the nomination'"
+  },
+  "107": {
+   "name": "Frank Sprague",
+   "role": "Claremont School Board Vice Chair (SAU 6 Board) - the board's mover tonight; the chair names him on three motions ('Motion by Frank') - self-correction inside his own motion (sub-second fragment clipped into the female cluster)"
+  },
+  "108": {
+   "name": "Frank Sprague",
+   "role": "Claremont School Board Vice Chair (SAU 6 Board) - the board's mover tonight; the chair names him on three motions ('Motion by Frank') - the chair restates it as 'a motion by Frank to accept the nomination'"
+  },
+  "110": {
+   "name": "Atonya Hart",
+   "role": "SAU 6 Board member (Unity) - corrects the chair's 'seconded by Antonia' to 'Tanya'; he answers 'Tanya. I'll get it right next time, I promise' (UNCERTAIN - the same diarized cluster carries Kelly Simpson's second minutes earlier, so the correction could have come from Simpson on Hart's behalf)"
+  },
+  "137": {
+   "name": "Michael Tempesta",
+   "role": "Superintendent of Schools, SAU 6 - gives the superintendent's report and nominates Mary Henry as business administrator - answering David Jack's question about the assistant superintendent's position"
+  },
+  "159": {
+   "name": "David Jack",
+   "role": "Interim Business Administrator, SAU 6 (consultant, Municipal Resources Inc.) - self-identifies: 'My name is Dave Jack. I'm consultant with MRI municipal resources' (onset of his self-introduction, clipped into a neighbouring cluster)"
+  },
+  "177": {
+   "name": "Frank Sprague",
+   "role": "Claremont School Board Vice Chair (SAU 6 Board) - the board's mover tonight; the chair names him on three motions ('Motion by Frank') - the chair restates it as 'Motion by Frank'"
+  },
+  "178": {
+   "name": "Frank Sprague",
+   "role": "Claremont School Board Vice Chair (SAU 6 Board) - the board's mover tonight; the chair names him on three motions ('Motion by Frank') - the chair restates it as 'Motion by Frank'"
+  },
+  "180": {
+   "name": "Unidentified",
+   "role": "Fragment beside the chair's 'Fine Tanya. I was gonna try to get it right the next time' - either Atonya Hart's reply or the chair's own words; not resolvable"
+  },
+  "182": {
+   "name": "Frank Sprague",
+   "role": "Claremont School Board Vice Chair (SAU 6 Board) - the board's mover tonight; the chair names him on three motions ('Motion by Frank') - restating his own motion"
+  },
+  "187": {
+   "name": "Marjorie Erickson",
+   "role": "Unity School Board Chair (SAU 6 Board) - brings the SAU policy drafts, routes them through Chelsea and corresponds with NHSBA's Amanda Phelps, exactly as at the 3/30/23 meeting"
+  },
+  "188": {
+   "name": "Marjorie Erickson",
+   "role": "Unity School Board Chair (SAU 6 Board) - brings the SAU policy drafts, routes them through Chelsea and corresponds with NHSBA's Amanda Phelps, exactly as at the 3/30/23 meeting"
+  },
+  "190": {
+   "name": "Marjorie Erickson",
+   "role": "Unity School Board Chair (SAU 6 Board) - brings the SAU policy drafts, routes them through Chelsea and corresponds with NHSBA's Amanda Phelps, exactly as at the 3/30/23 meeting"
+  },
+  "192": {
+   "name": "Marjorie Erickson",
+   "role": "Unity School Board Chair (SAU 6 Board) - brings the SAU policy drafts, routes them through Chelsea and corresponds with NHSBA's Amanda Phelps, exactly as at the 3/30/23 meeting"
+  },
+  "194": {
+   "name": "Marjorie Erickson",
+   "role": "Unity School Board Chair (SAU 6 Board) - brings the SAU policy drafts, routes them through Chelsea and corresponds with NHSBA's Amanda Phelps, exactly as at the 3/30/23 meeting"
+  },
+  "195": {
+   "name": "Frank Sprague",
+   "role": "Claremont School Board Vice Chair (SAU 6 Board) - the board's mover tonight; the chair names him on three motions ('Motion by Frank') (UNCERTAIN - inferred: same diarized cluster as his named motions, and no other male member is placed in it) - 'Is this ... the same?' during the conflict-of-interest policy discussion [corroborated: at the 4/13/23 SAU meeting Sprague is the member who forwards policies - 'as I do discover policies that might be appropriate, we would forward them to you and Rocco']"
+  },
+  "197": {
+   "name": "Frank Sprague",
+   "role": "Claremont School Board Vice Chair (SAU 6 Board) - the board's mover tonight; the chair names him on three motions ('Motion by Frank') (UNCERTAIN - inferred: same diarized cluster as his named motions, and no other male member is placed in it) - 'Is this ... the same?' during the conflict-of-interest policy discussion [corroborated: at the 4/13/23 SAU meeting Sprague is the member who forwards policies - 'as I do discover policies that might be appropriate, we would forward them to you and Rocco']"
+  },
+  "198": {
+   "name": "Marjorie Erickson",
+   "role": "Unity School Board Chair (SAU 6 Board) - brings the SAU policy drafts, routes them through Chelsea and corresponds with NHSBA's Amanda Phelps, exactly as at the 3/30/23 meeting"
+  },
+  "199": {
+   "name": "Marjorie Erickson",
+   "role": "Unity School Board Chair (SAU 6 Board) - brings the SAU policy drafts, routes them through Chelsea and corresponds with NHSBA's Amanda Phelps, exactly as at the 3/30/23 meeting"
+  },
+  "200": {
+   "name": "Frank Sprague",
+   "role": "Claremont School Board Vice Chair (SAU 6 Board) - the board's mover tonight; the chair names him on three motions ('Motion by Frank') (UNCERTAIN - inferred: same diarized cluster as his named motions, and no other male member is placed in it) - moves the conflict-of-interest policy to second read [corroborated: at the 4/13/23 SAU meeting Sprague is the member who forwards policies - 'as I do discover policies that might be appropriate, we would forward them to you and Rocco']"
+  },
+  "202": {
+   "name": "Unidentified",
+   "role": "Onset of the next speaker's question about the NHSBA revision dates; same voice as the segments that follow, name not stated"
+  },
+  "204": {
+   "name": "Unidentified",
+   "role": "Continuation of the same question - 'or the SAU dates there?'; name not stated"
+  },
+  "206": {
+   "name": "Marjorie Erickson",
+   "role": "Unity School Board Chair (SAU 6 Board) - brings the SAU policy drafts, routes them through Chelsea and corresponds with NHSBA's Amanda Phelps, exactly as at the 3/30/23 meeting"
+  },
+  "208": {
+   "name": "Marjorie Erickson",
+   "role": "Unity School Board Chair (SAU 6 Board) - brings the SAU policy drafts, routes them through Chelsea and corresponds with NHSBA's Amanda Phelps, exactly as at the 3/30/23 meeting"
+  },
+  "209": {
+   "name": "Marjorie Erickson",
+   "role": "Unity School Board Chair (SAU 6 Board) - brings the SAU policy drafts, routes them through Chelsea and corresponds with NHSBA's Amanda Phelps, exactly as at the 3/30/23 meeting (continuation of her own sentence, '...so I don't / know if it doesn't matter anymore')"
+  },
+  "210": {
+   "name": "Frank Sprague",
+   "role": "Claremont School Board Vice Chair (SAU 6 Board) - the board's mover tonight; the chair names him on three motions ('Motion by Frank') (UNCERTAIN - inferred: same diarized cluster as his named motions, and no other male member is placed in it) - '...that should be stricken, I believe' [corroborated: at the 4/13/23 SAU meeting Sprague is the member who forwards policies - 'as I do discover policies that might be appropriate, we would forward them to you and Rocco']"
+  },
+  "211": {
+   "name": "Frank Sprague",
+   "role": "Claremont School Board Vice Chair (SAU 6 Board) - the board's mover tonight; the chair names him on three motions ('Motion by Frank') (UNCERTAIN - inferred: same diarized cluster as his named motions, and no other male member is placed in it) - '...that should be stricken, I believe' [corroborated: at the 4/13/23 SAU meeting Sprague is the member who forwards policies - 'as I do discover policies that might be appropriate, we would forward them to you and Rocco']"
+  },
+  "212": {
+   "name": "Marjorie Erickson",
+   "role": "Unity School Board Chair (SAU 6 Board) - brings the SAU policy drafts, routes them through Chelsea and corresponds with NHSBA's Amanda Phelps, exactly as at the 3/30/23 meeting"
+  },
+  "213": {
+   "name": "Frank Sprague",
+   "role": "Claremont School Board Vice Chair (SAU 6 Board) - the board's mover tonight; the chair names him on three motions ('Motion by Frank') (UNCERTAIN - inferred: same diarized cluster as his named motions, and no other male member is placed in it) [corroborated: at the 4/13/23 SAU meeting Sprague is the member who forwards policies - 'as I do discover policies that might be appropriate, we would forward them to you and Rocco']"
+  },
+  "215": {
+   "name": "Frank Sprague",
+   "role": "Claremont School Board Vice Chair (SAU 6 Board) - the board's mover tonight; the chair names him on three motions ('Motion by Frank') (UNCERTAIN - inferred: same diarized cluster as his named motions, and no other male member is placed in it) - answering the chair's 'Would you like to amend your motion?', so the mover [corroborated: at the 4/13/23 SAU meeting Sprague is the member who forwards policies - 'as I do discover policies that might be appropriate, we would forward them to you and Rocco']"
+  },
+  "216": {
+   "name": "Whitney Skillen",
+   "role": "Claremont School Board member (SAU 6 Board) - the chair interrupts her question, 'Whitney, are you trying to set me up' (onset of her own 'A discussion, right?', zero gap to the next segment)"
+  },
+  "218": {
+   "name": "Frank Sprague",
+   "role": "Claremont School Board Vice Chair (SAU 6 Board) - the board's mover tonight; the chair names him on three motions ('Motion by Frank') (UNCERTAIN - inferred: same diarized cluster as his named motions, and no other male member is placed in it) [corroborated: at the 4/13/23 SAU meeting Sprague is the member who forwards policies - 'as I do discover policies that might be appropriate, we would forward them to you and Rocco']"
+  },
+  "219": {
+   "name": "Marjorie Erickson",
+   "role": "Unity School Board Chair (SAU 6 Board) - brings the SAU policy drafts, routes them through Chelsea and corresponds with NHSBA's Amanda Phelps, exactly as at the 3/30/23 meeting"
+  },
+  "220": {
+   "name": "Marjorie Erickson",
+   "role": "Unity School Board Chair (SAU 6 Board) - brings the SAU policy drafts, routes them through Chelsea and corresponds with NHSBA's Amanda Phelps, exactly as at the 3/30/23 meeting (continuation of her own sentence)"
+  },
+  "221": {
+   "name": "Frank Sprague",
+   "role": "Claremont School Board Vice Chair (SAU 6 Board) - the board's mover tonight; the chair names him on three motions ('Motion by Frank') (UNCERTAIN - inferred: same diarized cluster as his named motions, and no other male member is placed in it) [corroborated: at the 4/13/23 SAU meeting Sprague is the member who forwards policies - 'as I do discover policies that might be appropriate, we would forward them to you and Rocco']"
+  },
+  "227": {
+   "name": "Marjorie Erickson",
+   "role": "Unity School Board Chair (SAU 6 Board) - brings the SAU policy drafts, routes them through Chelsea and corresponds with NHSBA's Amanda Phelps, exactly as at the 3/30/23 meeting - reporting Unity's retreat date"
+  },
+  "229": {
+   "name": "Marjorie Erickson",
+   "role": "Unity School Board Chair (SAU 6 Board) - brings the SAU policy drafts, routes them through Chelsea and corresponds with NHSBA's Amanda Phelps, exactly as at the 3/30/23 meeting - reporting Unity's retreat date"
+  },
+  "231": {
+   "name": "Marjorie Erickson",
+   "role": "Unity School Board Chair (SAU 6 Board) - SAU retreat scheduling (UNCERTAIN - the clause 'It's going to be at your house' is addressed to the host, so this segment may carry a second voice; Erickson offered her own house for the SAU retreat at the 3/30/23 meeting)"
+  },
+  "233": {
+   "name": "Frank Sprague",
+   "role": "Claremont School Board Vice Chair (SAU 6 Board) - the board's mover tonight; the chair names him on three motions ('Motion by Frank') (UNCERTAIN - inferred: same diarized cluster as his named motions, and no other male member is placed in it) - the same joke he made at the 3/30/23 meeting, 'Can we have it at your house'"
+  },
+  "234": {
+   "name": "Frank Sprague",
+   "role": "Claremont School Board Vice Chair (SAU 6 Board) - the board's mover tonight; the chair names him on three motions ('Motion by Frank') (UNCERTAIN - inferred: same diarized cluster as his named motions, and no other male member is placed in it) - 'Is that your house?', his own sentence split across three segments"
+  },
+  "235": {
+   "name": "Frank Sprague",
+   "role": "Claremont School Board Vice Chair (SAU 6 Board) - the board's mover tonight; the chair names him on three motions ('Motion by Frank') (UNCERTAIN - inferred: same diarized cluster as his named motions, and no other male member is placed in it) - 'Is that your house?', his own sentence split across three segments"
+  },
+  "236": {
+   "name": "Marjorie Erickson",
+   "role": "Unity School Board Chair (SAU 6 Board) - answers the joke about the retreat house, keys under the mat and golden retrievers (UNCERTAIN - identified as the host from her 3/30/23 offer, 'It can be at my house'; the recording never says whose house it is)"
+  },
+  "244": {
+   "name": "Frank Sprague",
+   "role": "Claremont School Board Vice Chair (SAU 6 Board) - the board's mover tonight; the chair names him on three motions ('Motion by Frank') - the chair recognises him, 'Frank, I saw your hand', at the end of the previous segment"
+  },
+  "249": {
+   "name": "Heather Whitney",
+   "role": "Claremont School Board Chair (SAU 6 Board) - the chair recognises her by name, 'Heather.', immediately before her turn"
+  },
+  "250": {
+   "name": "Heather Whitney",
+   "role": "Claremont School Board Chair (SAU 6 Board) - the chair recognises her by name, 'Heather.', immediately before her turn"
+  },
+  "262": {
+   "name": "Steven Horsky",
+   "role": "SAU 6 Board Chair (elected 3/30/23, 6-5 over Marjorie Erickson); Claremont School Board member - presides; names 'Rocco and myself' as the SAU chair and vice chair (0.23s onset of his own next segment)"
+  },
+  "264": {
+   "name": "Whitney Skillen",
+   "role": "Claremont School Board member (SAU 6 Board) - the chair interrupts her question, 'Whitney, are you trying to set me up' (onset of her own next segment, zero gap)"
+  },
+  "270": {
+   "name": "Heather Whitney",
+   "role": "Claremont School Board Chair (SAU 6 Board) - answers for the Claremont agenda, 'we were going to put it on the Claremont School Board agenda' (UNCERTAIN - identified by role, not named on the recording)"
+  },
+  "281": {
+   "name": "Frank Sprague",
+   "role": "Claremont School Board Vice Chair (SAU 6 Board) - the board's mover tonight; the chair names him on three motions ('Motion by Frank') - the chair restates it as 'Motion to adjourn by Frank'"
+  },
+  "285": {
+   "name": "Steven Horsky",
+   "role": "SAU 6 Board Chair (elected 3/30/23, 6-5 over Marjorie Erickson); Claremont School Board member - presides; names 'Rocco and myself' as the SAU chair and vice chair (continuation of his own 'All those closed.')"
+  }
+ }
+}

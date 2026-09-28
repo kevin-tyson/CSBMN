@@ -1,0 +1,161 @@
+{
+ "Speaker 1": {
+  "name": "Brian Rapp",
+  "role": "Claremont School Board Chair"
+ },
+ "Speaker 2": {
+  "name": "Unidentified",
+  "role": "Unidentified - public commenter, Sinton Street resident (name not stated on the record); cluster also carries roll-call responses and brief board remarks"
+ },
+ "Speaker 3": {
+  "name": "Middleton McGoodwin",
+  "role": "Superintendent, SAU 6"
+ },
+ "Speaker 4": {
+  "name": "Michael O'Neill",
+  "role": "Business Administrator, SAU 6 (addressed as 'Mike'; ASR 'Michael Neal', 'Michael Niklas'; spelling per roster, unverified)"
+ },
+ "Speaker 5": {
+  "name": "Michael Petrin",
+  "role": "Claremont School Board member"
+ },
+ "Speaker 6": {
+  "name": "Lexi",
+  "role": "Student representative to the school board, Stevens High School senior (first name per board address; surname not on this recording)"
+ },
+ "Speaker 7": {
+  "name": "Rebecca Zullo",
+  "role": "Claremont School Board member"
+ },
+ "Speaker 8": {
+  "name": "Michelle Pierce",
+  "role": "Claremont School Board member"
+ },
+ "Speaker 9": {
+  "name": "Unidentified",
+  "role": "Unidentified - public commenter, Canterbury Street corner resident (name not stated on the record)"
+ },
+ "Speaker 10": {
+  "name": "Chris Irish",
+  "role": "Claremont School Board Vice Chair"
+ },
+ "Speaker 11": {
+  "name": "Unidentified",
+  "role": "Unidentified - cluster of short interjections and votes from several voices"
+ },
+ "Speaker 12": {
+  "name": "Chris",
+  "role": "Director of Special Education, SAU 6 (inferred from superintendent's references; surname garbled, ASR 'Chris Bezos')"
+ },
+ "Speaker 13": {
+  "name": "Diane Edwards",
+  "role": "Director, Early Childhood Program, Claremont School District"
+ },
+ "Speaker 14": {
+  "name": "Frank Sprague",
+  "role": "Claremont School Board member"
+ },
+ "Speaker 15": {
+  "name": "Cory LeClair",
+  "role": "Assistant Superintendent, SAU 6"
+ },
+ "Speaker 16": {
+  "name": "Unidentified",
+  "role": "Unidentified - brief fragments"
+ },
+ "Speaker 17": {
+  "name": "Unidentified",
+  "role": "Unidentified - brief fragments"
+ },
+ "Speaker 18": {
+  "name": "Josh Malloy",
+  "role": "Director of Technology, SAU 6 (uncertain - speaks after LeClair says 'Josh has an opportunity to share more')"
+ },
+ "__overrides__": {
+  "2": {
+   "name": "Unidentified",
+   "role": "Unidentified - roll-call responses from several members"
+  },
+  "3": {
+   "name": "Unidentified",
+   "role": "Unidentified - roll-call responses from several members"
+  },
+  "46": {
+   "name": "Unidentified",
+   "role": "Unidentified - public commenter on Sinton/Canterbury Street traffic (name not stated on the record)"
+  },
+  "47": {
+   "name": "Unidentified",
+   "role": "Unidentified - public commenter on Sinton/Canterbury Street traffic (name not stated on the record)"
+  },
+  "51": {
+   "name": "Unidentified",
+   "role": "Unidentified - public commenter on Sinton/Canterbury Street traffic (name not stated on the record)"
+  },
+  "66": {
+   "name": "Unidentified",
+   "role": "Unidentified - public commenter on Sinton/Canterbury Street traffic (name not stated on the record)"
+  },
+  "70": {
+   "name": "Unidentified",
+   "role": "Unidentified - public commenter on Sinton/Canterbury Street traffic (name not stated on the record)"
+  },
+  "72": {
+   "name": "Unidentified",
+   "role": "Unidentified - public commenter on Sinton/Canterbury Street traffic (name not stated on the record)"
+  },
+  "85": {
+   "name": "Unidentified",
+   "role": "Unidentified - public commenter on Sinton/Canterbury Street traffic (name not stated on the record)"
+  },
+  "90": {
+   "name": "Unidentified",
+   "role": "Unidentified - public commenter on Sinton/Canterbury Street traffic (name not stated on the record)"
+  },
+  "91": {
+   "name": "Unidentified",
+   "role": "Unidentified - public commenter on Sinton/Canterbury Street traffic (name not stated on the record)"
+  },
+  "92": {
+   "name": "Unidentified",
+   "role": "Unidentified - public commenter on Sinton/Canterbury Street traffic (name not stated on the record)"
+  },
+  "49": {
+   "name": "Unidentified",
+   "role": "Unidentified - public commenter on Sinton/Canterbury Street traffic (name not stated on the record)"
+  },
+  "57": {
+   "name": "Unidentified",
+   "role": "Unidentified - public commenter on Sinton/Canterbury Street traffic (name not stated on the record)"
+  },
+  "60": {
+   "name": "Unidentified",
+   "role": "Unidentified - public commenter on Sinton/Canterbury Street traffic (name not stated on the record)"
+  },
+  "80": {
+   "name": "Unidentified",
+   "role": "Unidentified - public commenter on Sinton/Canterbury Street traffic (name not stated on the record)"
+  },
+  "96": {
+   "name": "Unidentified",
+   "role": "Unidentified - public commenter on Sinton/Canterbury Street traffic (name not stated on the record)"
+  },
+  "139": {
+   "name": "Diane Edwards"
+  },
+  "140": {
+   "name": "Diane Edwards"
+  },
+  "212": {
+   "name": "Unidentified",
+   "role": "Unidentified - recognizes the student representative (probably the chair, uncertain)"
+  },
+  "295": {
+   "name": "Unidentified",
+   "role": "Unidentified - recognizes the student representative (probably the chair, uncertain)"
+  },
+  "741": {
+   "name": "Frank Sprague"
+  }
+ }
+}

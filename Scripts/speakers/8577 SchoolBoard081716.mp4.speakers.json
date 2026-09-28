@@ -1,0 +1,99 @@
+{
+ "Speaker 1": {
+  "name": "Chris Irish",
+  "role": "Claremont School Board Vice Chair (business administrator: 'what Chris is suggesting' [431] restating this voice's custodian proposal [420-421])"
+ },
+ "Speaker 2": {
+  "name": "Brian Rapp",
+  "role": "Claremont School Board Chair (presides, calls votes; addressed 'Brian' by the superintendent [437, 597, 699]; 'I agree with Brian' [396])"
+ },
+ "Speaker 3": {
+  "name": "Brent Ferland",
+  "role": "Claremont School Board member (attribution by elimination - the only male member left unassigned after Rapp, Irish, Sprague and Adrian are placed)"
+ },
+ "Speaker 4": {
+  "name": "Middleton McGoodwin",
+  "role": "Superintendent, SAU 6 (superintendent's report [16-28]; principal calls him 'Doctor Goodwin' [78])"
+ },
+ "Speaker 5": {
+  "name": "Michael Lansing",
+  "role": "Principal, Bluff Elementary School (superintendent introduces 'Mike Lansing from Bluff' on the emergency operations plan [34-35]; surname as heard by ASR, unverified)"
+ },
+ "Speaker 6": {
+  "name": "Melissa Lewis",
+  "role": "Principal, Disnard Elementary School (superintendent: 'Please, Melissa' [44]; ASR 'Disney')"
+ },
+ "Speaker 7": {
+  "name": "Cory LeClair",
+  "role": "Assistant Superintendent, SAU 6 (superintendent: 'Corey Leclerc has done some work with this. Corey, you want to' [411]; grants and new teacher orientation)"
+ },
+ "Speaker 8": {
+  "name": "Unidentified",
+  "role": "Unidentified - cluster of brief agreements, ayes and short remarks from several voices"
+ },
+ "Speaker 9": {
+  "name": "Frank Sprague",
+  "role": "Claremont School Board member (LeClair asks 'LADC, Frank, stands for' and this voice answers [736-737]; former Stevens principal: 'Becky and I both worked with Amanda ... at the high school' [296], 'having been on some teams myself' [180])"
+ },
+ "Speaker 10": {
+  "name": "Patricia Barry",
+  "role": "Principal, Stevens High School (second cluster; 'Welcome, Pat' [114] answered 'Thank you' [115])"
+ },
+ "Speaker 11": {
+  "name": "Patricia Barry",
+  "role": "Principal, Stevens High School (superintendent: 'Pat is here to bring us all up to date. Welcome, Pat' [113-114]; 'Thanks, Pat' [196])"
+ },
+ "Speaker 12": {
+  "name": "Michael O'Neill",
+  "role": "Business Administrator, SAU 6 (superintendent hands off 'Mike' [207]; motion refers to 'the business manager's recommendation' [246]; surname per roster, not said on this recording)"
+ },
+ "Speaker 13": {
+  "name": "Rebecca Ferland",
+  "role": "Claremont School Board member and SAU 6 Chair (superintendent: 'Becky's points correct' [458] after this voice [448-452]; Irish: 'Like Becky said during vacation, summertime' [542] after [521])"
+ },
+ "Speaker 14": {
+  "name": "Unidentified",
+  "role": "Unidentified - short onsets and acknowledgements, mostly from the two female board members"
+ },
+ "Speaker 15": {
+  "name": "Michelle Pierce",
+  "role": "Claremont School Board member (chair recognizes 'Michelle' [524] and 'Shell' [779] and this voice takes the floor [526, 781])"
+ },
+ "Speaker 16": {
+  "name": "Unidentified",
+  "role": "Unidentified - one speaker on catering use of kitchens [545-547]"
+ },
+ "Speaker 17": {
+  "name": "Patrick Adrian",
+  "role": "Claremont School Board member (superintendent: 'if I may speak to Patrick's point' [605] after this voice [602])"
+ },
+ "__overrides__": {
+  "8": {
+   "name": "Unidentified",
+   "role": "Unidentified - roll-call responses"
+  },
+  "154": {
+   "name": "Brian Rapp"
+  },
+  "145": {
+   "name": "Unidentified",
+   "role": "Unidentified - short agreement"
+  },
+  "405": {
+   "name": "Unidentified",
+   "role": "Unidentified - short interjection during board discussion"
+  },
+  "525": {
+   "name": "Michelle Pierce"
+  },
+  "654": {
+   "name": "Michelle Pierce"
+  },
+  "656": {
+   "name": "Michelle Pierce"
+  },
+  "780": {
+   "name": "Michelle Pierce"
+  }
+ }
+}

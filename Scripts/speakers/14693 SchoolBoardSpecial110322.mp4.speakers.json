@@ -1,0 +1,200 @@
+{
+ "Speaker 1": {
+  "name": "Unidentified",
+  "role": "Unidentified - cluster mixes several male voices (procedural remarks, a public speaker, the amendment explainer); see overrides"
+ },
+ "Speaker 2": {
+  "name": "Tracy Pope",
+  "role": "Claremont School District Moderator (introduced as 'Tracy, our moderator' [7]; she missed the 2/9/2022 deliberative after breaking her leg [13]; surname Pope from the roster, confirmed moderator in 2023 - uncertain for 2022)"
+ },
+ "Speaker 3": {
+  "name": "Joshua Lambert",
+  "role": "Claremont School Board member (recognized as 'school board member Joshua' [29]; 'I'm the only parent educator serving on the school board ... co-chair of the Curriculum Subcommittee' [33])"
+ },
+ "Speaker 4": {
+  "name": "David Putnam",
+  "role": "Public participant, proponent of the amendment (moderator: 'The moderator recognizes David Putnam' [60], 'Mr. Putnam?' [86]; 'my experience as a former school board member' - medium confidence; [76]-[78] by cluster only)"
+ },
+ "Speaker 5": {
+  "name": "Unidentified",
+  "role": "Unidentified - Claremont School Board member defending the article as written ('we tried to write it ... to give us the maximum flexibility'); not recognized by name"
+ },
+ "__overrides__": {
+  "0": {
+   "name": "Unidentified",
+   "role": "Unidentified - pre-meeting chatter"
+  },
+  "2": {
+   "name": "Unidentified",
+   "role": "Group recitation of the Pledge of Allegiance (led by Bonnie Miles at the moderator's request [1])"
+  },
+  "3": {
+   "name": "Unidentified",
+   "role": "Group recitation of the Pledge of Allegiance (led by Bonnie Miles at the moderator's request [1])"
+  },
+  "6": {
+   "name": "Michael Tempesta",
+   "role": "Superintendent, SAU 6 (moderator: 'I ask my superintendent ... to introduce' [5]; 'Thank you, Superintendent Tempesta' [7])"
+  },
+  "15": {
+   "name": "Joshua Lambert",
+   "role": "Claremont School Board member (recognized as 'school board member Joshua' [29]; 'I'm the only parent educator serving on the school board ... co-chair of the Curriculum Subcommittee' [33])"
+  },
+  "18": {
+   "name": "Unidentified",
+   "role": "Unidentified - board member or attendee (motion second / acknowledgement)"
+  },
+  "23": {
+   "name": "Unidentified",
+   "role": "Unidentified - board member or attendee (motion second / acknowledgement)"
+  },
+  "28": {
+   "name": "Unidentified",
+   "role": "Unidentified - board member or attendee (motion second / acknowledgement)"
+  },
+  "43": {
+   "name": "Unidentified",
+   "role": "Unidentified - board member or attendee moving the article"
+  },
+  "41": {
+   "name": "Unidentified",
+   "role": "Unidentified - advises the moderator on procedure (possibly Superintendent Tempesta or district counsel Matt Upton - uncertain)"
+  },
+  "42": {
+   "name": "Unidentified",
+   "role": "Unidentified - advises the moderator on procedure (possibly Superintendent Tempesta or district counsel Matt Upton - uncertain)"
+  },
+  "44": {
+   "name": "Unidentified",
+   "role": "Unidentified - advises the moderator on procedure (possibly Superintendent Tempesta or district counsel Matt Upton - uncertain)"
+  },
+  "46": {
+   "name": "Unidentified",
+   "role": "Unidentified - advises the moderator on procedure (possibly Superintendent Tempesta or district counsel Matt Upton - uncertain)"
+  },
+  "52": {
+   "name": "Michael Koski",
+   "role": "Assistant Superintendent, SAU 6 (spelling uncertain - ASR 'Assistant Superintendent Cassidy' [35], 'Mr. Cosby' [37], [48]; presents the ELA spending proposal)"
+  },
+  "53": {
+   "name": "Michael Koski",
+   "role": "Assistant Superintendent, SAU 6 (spelling uncertain - ASR 'Assistant Superintendent Cassidy' [35], 'Mr. Cosby' [37], [48]; presents the ELA spending proposal)"
+  },
+  "54": {
+   "name": "Michael Koski",
+   "role": "Assistant Superintendent, SAU 6 (spelling uncertain - ASR 'Assistant Superintendent Cassidy' [35], 'Mr. Cosby' [37], [48]; presents the ELA spending proposal)"
+  },
+  "55": {
+   "name": "Michael Koski",
+   "role": "Assistant Superintendent, SAU 6 (spelling uncertain - ASR 'Assistant Superintendent Cassidy' [35], 'Mr. Cosby' [37], [48]; presents the ELA spending proposal)"
+  },
+  "56": {
+   "name": "Michael Koski",
+   "role": "Assistant Superintendent, SAU 6 (spelling uncertain - ASR 'Assistant Superintendent Cassidy' [35], 'Mr. Cosby' [37], [48]; presents the ELA spending proposal)"
+  },
+  "57": {
+   "name": "Michael Koski",
+   "role": "Assistant Superintendent, SAU 6 (spelling uncertain - ASR 'Assistant Superintendent Cassidy' [35], 'Mr. Cosby' [37], [48]; presents the ELA spending proposal)"
+  },
+  "63": {
+   "name": "Unidentified",
+   "role": "Unidentified - public speaker in favor of the amendment (not named on the recording)"
+  },
+  "64": {
+   "name": "Unidentified",
+   "role": "Unidentified - public speaker in favor of the amendment (not named on the recording)"
+  },
+  "65": {
+   "name": "Unidentified",
+   "role": "Unidentified - public speaker in favor of the amendment (not named on the recording)"
+  },
+  "66": {
+   "name": "Unidentified",
+   "role": "Unidentified - public speaker in favor of the amendment (not named on the recording)"
+  },
+  "67": {
+   "name": "Unidentified",
+   "role": "Unidentified - public speaker in favor of the amendment (not named on the recording)"
+  },
+  "68": {
+   "name": "Unidentified",
+   "role": "Unidentified - participant asking whether the amendment restricts spending to reading/language arts (not recognized by name; diarizer split across clusters 2 and 3)"
+  },
+  "69": {
+   "name": "Unidentified",
+   "role": "Unidentified - participant asking whether the amendment restricts spending to reading/language arts (not recognized by name; diarizer split across clusters 2 and 3)"
+  },
+  "70": {
+   "name": "Unidentified",
+   "role": "Unidentified - participant asking whether the amendment restricts spending to reading/language arts (not recognized by name; diarizer split across clusters 2 and 3)"
+  },
+  "71": {
+   "name": "Unidentified",
+   "role": "Unidentified - participant asking whether the amendment restricts spending to reading/language arts (not recognized by name; diarizer split across clusters 2 and 3)"
+  },
+  "72": {
+   "name": "Unidentified",
+   "role": "Unidentified - participant asking whether the amendment restricts spending to reading/language arts (not recognized by name; diarizer split across clusters 2 and 3)"
+  },
+  "74": {
+   "name": "Unidentified",
+   "role": "Unidentified - participant asking whether the amendment restricts spending to reading/language arts (not recognized by name; diarizer split across clusters 2 and 3)"
+  },
+  "81": {
+   "name": "Unidentified",
+   "role": "Unidentified - speaker explaining the intent of the amendment (possibly its author David Putnam - uncertain)"
+  },
+  "84": {
+   "name": "Unidentified",
+   "role": "Unidentified - speaker explaining the intent of the amendment (possibly its author David Putnam - uncertain)"
+  },
+  "85": {
+   "name": "Unidentified",
+   "role": "Unidentified - speaker explaining the intent of the amendment (possibly its author David Putnam - uncertain)"
+  },
+  "83": {
+   "name": "Unidentified",
+   "role": "Unidentified - audience request to speak up"
+  },
+  "100": {
+   "name": "Unidentified",
+   "role": "Unidentified - Claremont School Board member defending the article as written ('we tried to write it ... to give us the maximum flexibility'); not recognized by name"
+  },
+  "101": {
+   "name": "Unidentified",
+   "role": "Unidentified - Claremont School Board member defending the article as written ('we tried to write it ... to give us the maximum flexibility'); not recognized by name"
+  },
+  "102": {
+   "name": "Unidentified",
+   "role": "Unidentified - Claremont School Board member defending the article as written ('we tried to write it ... to give us the maximum flexibility'); not recognized by name"
+  },
+  "103": {
+   "name": "Unidentified",
+   "role": "Unidentified - Claremont School Board member defending the article as written ('we tried to write it ... to give us the maximum flexibility'); not recognized by name"
+  },
+  "106": {
+   "name": "Unidentified",
+   "role": "Unidentified - public speaker recognized as 'Mr. Blackman' (ASR [105]); says 'my experience as a former school board member'"
+  },
+  "109": {
+   "name": "Unidentified",
+   "role": "Unidentified - attendee moving the question"
+  },
+  "122": {
+   "name": "Unidentified",
+   "role": "Unidentified - attendee moving to adjourn"
+  },
+  "90": {
+   "name": "David Putnam",
+   "role": "Public participant, proponent of the amendment (moderator: 'The moderator recognizes David Putnam' [60], 'Mr. Putnam?' [86]; 'my experience as a former school board member' - medium confidence; [76]-[78] by cluster only)"
+  },
+  "92": {
+   "name": "David Putnam",
+   "role": "Public participant, proponent of the amendment (moderator: 'The moderator recognizes David Putnam' [60], 'Mr. Putnam?' [86]; 'my experience as a former school board member' - medium confidence; [76]-[78] by cluster only)"
+  },
+  "94": {
+   "name": "David Putnam",
+   "role": "Public participant, proponent of the amendment (moderator: 'The moderator recognizes David Putnam' [60], 'Mr. Putnam?' [86]; 'my experience as a former school board member' - medium confidence; [76]-[78] by cluster only)"
+  }
+ }
+}

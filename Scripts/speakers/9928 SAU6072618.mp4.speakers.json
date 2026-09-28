@@ -1,0 +1,276 @@
+{
+ "Speaker 1": {
+  "name": "Jason Benware",
+  "role": "SAU 6 Board member (Claremont School Board)"
+ },
+ "Speaker 2": {
+  "name": "Marjorie Erickson",
+  "role": "SAU 6 Board Chair (Unity School Board member) (presides; nominates Pfeifer for the search committee [85] and the motion accepts 'Marjorie's nomination' [86])"
+ },
+ "Speaker 3": {
+  "name": "Unidentified",
+  "role": "SAU 6 Board member (moves the agenda [21], asks to invite Cornish [213]); name not on record"
+ },
+ "Speaker 4": {
+  "name": "Unidentified",
+  "role": "SAU 6 Board member who moved the minutes [24-25] and read the nonpublic roll call while the clerk was out [51-56]; name not on record"
+ },
+ "Speaker 5": {
+  "name": "Steven Horsky",
+  "role": "SAU 6 Board member (Claremont School Board)"
+ },
+ "Speaker 6": {
+  "name": "Unidentified",
+  "role": "One short remark"
+ },
+ "Speaker 7": {
+  "name": "Michelle Pierce",
+  "role": "SAU 6 Board member (Claremont School Board)"
+ },
+ "Speaker 8": {
+  "name": "Unidentified",
+  "role": "Short fragments from several voices"
+ },
+ "Speaker 9": {
+  "name": "Keith Pfeifer",
+  "role": "Interim Superintendent nominee, SAU 6 (introduced as 'Doctor Keith Pfeiffer' [82]; approved this meeting contingent on negotiations)"
+ },
+ "Speaker 10": {
+  "name": "Unidentified",
+  "role": "One short remark"
+ },
+ "Speaker 11": {
+  "name": "Cory LeClair",
+  "role": "Assistant Superintendent, SAU 6 ('what you brought last time Corey' [265]; chair: 'an update from Corey' [309])"
+ },
+ "Speaker 12": {
+  "name": "Unidentified",
+  "role": "SAU 6 Board member moving to adjourn [338]; name not on record"
+ },
+ "Speaker 13": {
+  "name": "Unidentified",
+  "role": "SAU 6 Board member, short remarks"
+ },
+ "Speaker 14": {
+  "name": "Unidentified",
+  "role": "SAU 6 Board member asking about paraprofessional vacancies [324]; name not on record"
+ },
+ "Speaker 15": {
+  "name": "Unidentified",
+  "role": "One short remark"
+ },
+ "Speaker 16": {
+  "name": "Marjorie Erickson",
+  "role": "SAU 6 Board Chair (Unity School Board member) (presides; nominates Pfeifer for the search committee [85] and the motion accepts 'Marjorie's nomination' [86])"
+ },
+ "__overrides__": {
+  "0": {
+   "name": "Unidentified",
+   "role": "Pre-meeting chatter"
+  },
+  "2": {
+   "name": "Unidentified",
+   "role": "Pre-meeting chatter"
+  },
+  "4": {
+   "name": "Unidentified",
+   "role": "Pre-meeting chatter"
+  },
+  "5": {
+   "name": "Unidentified",
+   "role": "Pre-meeting chatter"
+  },
+  "7": {
+   "name": "Unidentified",
+   "role": "Pre-meeting chatter"
+  },
+  "14": {
+   "name": "Steven Horsky",
+   "role": "SAU 6 Board member (Claremont School Board)"
+  },
+  "17": {
+   "name": "Frank Sprague",
+   "role": "SAU 6 Board member (Claremont School Board Chair)"
+  },
+  "22": {
+   "name": "Unidentified",
+   "role": "Board member seconding"
+  },
+  "44": {
+   "name": "Unidentified",
+   "role": "Board member seconding"
+  },
+  "52": {
+   "name": "Frank Sprague",
+   "role": "SAU 6 Board member (Claremont School Board Chair)"
+  },
+  "80": {
+   "name": "Steven Horsky",
+   "role": "SAU 6 Board member (Claremont School Board)"
+  },
+  "81": {
+   "name": "Unidentified",
+   "role": "Roll-call name and response run together"
+  },
+  "111": {
+   "name": "Rebecca Zullo",
+   "role": "SAU 6 Board member (Claremont School Board Vice Chair) ('Hi, my name is Rebecca' [111]; diarized with the chair's cluster)"
+  },
+  "118": {
+   "name": "Carolyn Towle",
+   "role": "SAU 6 Board member (Claremont School Board) (after the chair's 'Carolyn' [117]; her question to Pfeifer is split between the chair's and Pfeifer's clusters)"
+  },
+  "119": {
+   "name": "Carolyn Towle",
+   "role": "SAU 6 Board member (Claremont School Board) (after the chair's 'Carolyn' [117]; her question to Pfeifer is split between the chair's and Pfeifer's clusters)"
+  },
+  "120": {
+   "name": "Carolyn Towle",
+   "role": "SAU 6 Board member (Claremont School Board) (after the chair's 'Carolyn' [117]; her question to Pfeifer is split between the chair's and Pfeifer's clusters)"
+  },
+  "121": {
+   "name": "Carolyn Towle",
+   "role": "SAU 6 Board member (Claremont School Board) (after the chair's 'Carolyn' [117]; her question to Pfeifer is split between the chair's and Pfeifer's clusters)"
+  },
+  "122": {
+   "name": "Carolyn Towle",
+   "role": "SAU 6 Board member (Claremont School Board) (after the chair's 'Carolyn' [117]; her question to Pfeifer is split between the chair's and Pfeifer's clusters)"
+  },
+  "123": {
+   "name": "Carolyn Towle",
+   "role": "SAU 6 Board member (Claremont School Board) (after the chair's 'Carolyn' [117]; her question to Pfeifer is split between the chair's and Pfeifer's clusters)"
+  },
+  "124": {
+   "name": "Carolyn Towle",
+   "role": "SAU 6 Board member (Claremont School Board) (after the chair's 'Carolyn' [117]; her question to Pfeifer is split between the chair's and Pfeifer's clusters)"
+  },
+  "125": {
+   "name": "Carolyn Towle",
+   "role": "SAU 6 Board member (Claremont School Board) (after the chair's 'Carolyn' [117]; her question to Pfeifer is split between the chair's and Pfeifer's clusters)"
+  },
+  "126": {
+   "name": "Carolyn Towle",
+   "role": "SAU 6 Board member (Claremont School Board) (after the chair's 'Carolyn' [117]; her question to Pfeifer is split between the chair's and Pfeifer's clusters)"
+  },
+  "127": {
+   "name": "Carolyn Towle",
+   "role": "SAU 6 Board member (Claremont School Board) (after the chair's 'Carolyn' [117]; her question to Pfeifer is split between the chair's and Pfeifer's clusters)"
+  },
+  "128": {
+   "name": "Carolyn Towle",
+   "role": "SAU 6 Board member (Claremont School Board) (after the chair's 'Carolyn' [117]; her question to Pfeifer is split between the chair's and Pfeifer's clusters)"
+  },
+  "129": {
+   "name": "Carolyn Towle",
+   "role": "SAU 6 Board member (Claremont School Board) (after the chair's 'Carolyn' [117]; her question to Pfeifer is split between the chair's and Pfeifer's clusters)"
+  },
+  "130": {
+   "name": "Carolyn Towle",
+   "role": "SAU 6 Board member (Claremont School Board) (after the chair's 'Carolyn' [117]; her question to Pfeifer is split between the chair's and Pfeifer's clusters)"
+  },
+  "131": {
+   "name": "Carolyn Towle",
+   "role": "SAU 6 Board member (Claremont School Board) (after the chair's 'Carolyn' [117]; her question to Pfeifer is split between the chair's and Pfeifer's clusters)"
+  },
+  "132": {
+   "name": "Carolyn Towle",
+   "role": "SAU 6 Board member (Claremont School Board) (after the chair's 'Carolyn' [117]; her question to Pfeifer is split between the chair's and Pfeifer's clusters)"
+  },
+  "133": {
+   "name": "Carolyn Towle",
+   "role": "SAU 6 Board member (Claremont School Board) (after the chair's 'Carolyn' [117]; her question to Pfeifer is split between the chair's and Pfeifer's clusters)"
+  },
+  "149": {
+   "name": "Unidentified",
+   "role": "Voice vote response"
+  },
+  "172": {
+   "name": "Unidentified",
+   "role": "Short remark, speaker uncertain"
+  },
+  "175": {
+   "name": "Unidentified",
+   "role": "Short remark, speaker uncertain"
+  },
+  "207": {
+   "name": "Cory LeClair",
+   "role": "Assistant Superintendent, SAU 6 ('what you brought last time Corey' [265]; chair: 'an update from Corey' [309])"
+  },
+  "208": {
+   "name": "Cory LeClair",
+   "role": "Assistant Superintendent, SAU 6 ('what you brought last time Corey' [265]; chair: 'an update from Corey' [309])"
+  },
+  "310": {
+   "name": "Cory LeClair",
+   "role": "Assistant Superintendent, SAU 6 ('what you brought last time Corey' [265]; chair: 'an update from Corey' [309])"
+  },
+  "311": {
+   "name": "Cory LeClair",
+   "role": "Assistant Superintendent, SAU 6 ('what you brought last time Corey' [265]; chair: 'an update from Corey' [309])"
+  },
+  "312": {
+   "name": "Cory LeClair",
+   "role": "Assistant Superintendent, SAU 6 ('what you brought last time Corey' [265]; chair: 'an update from Corey' [309])"
+  },
+  "313": {
+   "name": "Cory LeClair",
+   "role": "Assistant Superintendent, SAU 6 ('what you brought last time Corey' [265]; chair: 'an update from Corey' [309])"
+  },
+  "314": {
+   "name": "Cory LeClair",
+   "role": "Assistant Superintendent, SAU 6 ('what you brought last time Corey' [265]; chair: 'an update from Corey' [309])"
+  },
+  "315": {
+   "name": "Cory LeClair",
+   "role": "Assistant Superintendent, SAU 6 ('what you brought last time Corey' [265]; chair: 'an update from Corey' [309])"
+  },
+  "316": {
+   "name": "Cory LeClair",
+   "role": "Assistant Superintendent, SAU 6 ('what you brought last time Corey' [265]; chair: 'an update from Corey' [309])"
+  },
+  "317": {
+   "name": "Cory LeClair",
+   "role": "Assistant Superintendent, SAU 6 ('what you brought last time Corey' [265]; chair: 'an update from Corey' [309])"
+  },
+  "318": {
+   "name": "Cory LeClair",
+   "role": "Assistant Superintendent, SAU 6 ('what you brought last time Corey' [265]; chair: 'an update from Corey' [309])"
+  },
+  "320": {
+   "name": "Cory LeClair",
+   "role": "Assistant Superintendent, SAU 6 ('what you brought last time Corey' [265]; chair: 'an update from Corey' [309])"
+  },
+  "321": {
+   "name": "Cory LeClair",
+   "role": "Assistant Superintendent, SAU 6 ('what you brought last time Corey' [265]; chair: 'an update from Corey' [309])"
+  },
+  "322": {
+   "name": "Cory LeClair",
+   "role": "Assistant Superintendent, SAU 6 ('what you brought last time Corey' [265]; chair: 'an update from Corey' [309])"
+  },
+  "323": {
+   "name": "Cory LeClair",
+   "role": "Assistant Superintendent, SAU 6 ('what you brought last time Corey' [265]; chair: 'an update from Corey' [309])"
+  },
+  "325": {
+   "name": "Cory LeClair",
+   "role": "Assistant Superintendent, SAU 6 ('what you brought last time Corey' [265]; chair: 'an update from Corey' [309])"
+  },
+  "326": {
+   "name": "Cory LeClair",
+   "role": "Assistant Superintendent, SAU 6 ('what you brought last time Corey' [265]; chair: 'an update from Corey' [309])"
+  },
+  "327": {
+   "name": "Cory LeClair",
+   "role": "Assistant Superintendent, SAU 6 ('what you brought last time Corey' [265]; chair: 'an update from Corey' [309])"
+  },
+  "328": {
+   "name": "Cory LeClair",
+   "role": "Assistant Superintendent, SAU 6 ('what you brought last time Corey' [265]; chair: 'an update from Corey' [309])"
+  },
+  "329": {
+   "name": "Cory LeClair",
+   "role": "Assistant Superintendent, SAU 6 ('what you brought last time Corey' [265]; chair: 'an update from Corey' [309])"
+  }
+ }
+}

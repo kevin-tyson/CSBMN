@@ -1,0 +1,32 @@
+{
+ "Speaker 1": {"name": "Michael Petrin", "role": "SAU 6 Board Chair (presides: calls meeting to order [0], asks 'Mary' for roll [3], recognizes speakers and runs votes; a Claremont member ('We had our Claremont meeting' [3]); roster: elected SAU 6 chair March 2019; identified by roster plus elimination - never named on this recording)"},
+ "Speaker 2": {"name": "Robert McDevitt", "role": "SAU 6 Board member (Unity) (chair: 'Jason and then Bob' [17] after his second [15]; 'I saw Bob first' [211-213]; LeClair 'what Bob just said' [109] and Sprague 'what Bob was talking about' [143] refer to [104]; Benware answers 'Bob, my doctor works for me' [355] to [352-353])"},
+ "Speaker 3": {"name": "Marjorie Erickson", "role": "SAU 6 Board Vice Chair (Unity) (answers 'Yes' when clerk calls 'Margery Erickson' [416-417]; Zullo and McDevitt say they agree/disagree with 'March' [333,342] after [329-332]; cluster also holds the clerk's roll call and Carolyn Towle's early remarks, reassigned by override)"},
+ "Speaker 4": {"name": "Cory LeClair", "role": "Acting Superintendent, SAU 6 (chair: 'Cory, acting superintendent' [418], 'not sure if Corey has more detail' [304]; Sprague 'as Corey said' [248]; minutes-edit segments of Marjorie Erickson reassigned by override)"},
+ "Speaker 5": {"name": "Jason Benware", "role": "SAU 6 Board member (Claremont) (chair: 'Jason and then Bob' [17] for motion [14]; Towle: 'Jason's question tonight' [73] refers to [60-62]; chair: 'Jason made the motion' [325] for nomination [313]; 'Jason. Benoit.' then 'Yes' [411-412])"},
+ "Speaker 6": {"name": "Rebecca Zullo", "role": "SAU 6 Board member (Claremont; Claremont School Board Vice Chair) (chair: 'Rebecca then Heather' [372] then speaks [373]; superintendent contract negotiation update [42]; moves to wait on efficiency study [396,400])"},
+ "Speaker 7": {"name": "Frank Sprague", "role": "SAU 6 Board member (Claremont; Claremont School Board Chair) (chair: 'So Frank have a' [142] then speaks [143]; named to SAU policy subcommittee [274,299])"},
+ "Speaker 8": {"name": "Michael O'Neill", "role": "Business Administrator, SAU 6 (LeClair: 'ask Mike to speak to' [63] then [68]; 'I know Mike does' [305] then treasurer duties [307]; Towle: 'Mike, your timeline' [72]; surname from 5/1/19 'Mr. O'Neill', spelling unverified)"},
+ "Speaker 9": {"name": "Unidentified", "role": "Unidentified - one-line board member question"},
+ "Speaker 10": {"name": "Heather Whitney", "role": "SAU 6 Board member (Claremont) (chair: 'Oh, Heather, you had your question' [93] then [95-100]; Erickson: 'what Heather was saying about procedures' [181] refers to [161,169])"},
+ "Speaker 11": {"name": "Bob Day", "role": "Unity School District treasurer, public commenter (self-identified 'My name is Bob day ... treasurer of the District of Unity' [230]; name as heard - ASR)"},
+ "Speaker 12": {"name": "Carolyn Towle", "role": "SAU 6 Board member (Claremont) (chair: 'Caroline, if elected, would you be willing' [314] then accepts [315]; 'Congrats, Carolyn' [325]; 'Carolyn. Then. Heather.' [345] then [347])"},
+ "Speaker 13": {"name": "Unidentified", "role": "Unidentified - board member asking about timing of efficiency study (possibly Shannon Popescu or Rob Lovett Jr., uncertain)"},
+ "Speaker 14": {"name": "Heather Whitney", "role": "SAU 6 Board member (Claremont) (chair: 'Heather.' [376] then speaks [378-383])"},
+ "Speaker 15": {"name": "Mary Woodman", "role": "School district clerk and recording secretary (chair: 'Mary, can we have the roll call?' [3]; calls roll-call vote [411-416])"},
+ "__overrides__": {
+  "1": {"name": "Unidentified", "role": "Unidentified - group reciting Pledge of Allegiance"},
+  "4": {"name": "Mary Woodman"}, "5": {"name": "Mary Woodman"}, "7": {"name": "Mary Woodman"},
+  "9": {"name": "Mary Woodman"}, "11": {"name": "Mary Woodman"}, "35": {"name": "Mary Woodman"}, "37": {"name": "Mary Woodman"},
+  "6": {"name": "Jason Benware"},
+  "10": {"name": "Marjorie Erickson"}, "12": {"name": "Marjorie Erickson"},
+  "21": {"name": "Marjorie Erickson"}, "22": {"name": "Marjorie Erickson"}, "23": {"name": "Marjorie Erickson"},
+  "25": {"name": "Marjorie Erickson"}, "27": {"name": "Marjorie Erickson"}, "28": {"name": "Marjorie Erickson"},
+  "29": {"name": "Marjorie Erickson"}, "38": {"name": "Marjorie Erickson"},
+  "66": {"name": "Michael Petrin"},
+  "70": {"name": "Carolyn Towle"}, "72": {"name": "Carolyn Towle"}, "73": {"name": "Carolyn Towle"},
+  "75": {"name": "Carolyn Towle"}, "78": {"name": "Carolyn Towle"}, "86": {"name": "Carolyn Towle"},
+  "87": {"name": "Carolyn Towle"}, "91": {"name": "Carolyn Towle"},
+  "95": {"name": "Heather Whitney"}, "377": {"name": "Heather Whitney"}, "414": {"name": "Heather Whitney"}
+ }
+}

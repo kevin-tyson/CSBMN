@@ -1,0 +1,136 @@
+{
+ "Speaker 1": {
+  "name": "Richard Seaman",
+  "role": "Claremont School Board Chair (first name 'Richard' via the superintendent's 'if I may, Richard' [35], [168], [191] and 'what Richard was saying about the polling' [21]; surname Seaman per roster, corroborated by his references to his own Vermont district's Bridgewater-Woodstock busing [223], consistent with a Windsor Central Supervisory Union employee - medium confidence)"
+ },
+ "Speaker 2": {
+  "name": "Unidentified",
+  "role": "Unidentified - cluster of short interjections, acknowledgements and 'aye' votes from several voices"
+ },
+ "Speaker 3": {
+  "name": "Middleton McGoodwin",
+  "role": "Superintendent, SAU 6 (addressed as 'Middleton' [17], [201], [511])"
+ },
+ "Speaker 4": {
+  "name": "Rebecca Ferland",
+  "role": "Claremont School Board member (addressed as 'Becky' [246], [456], [547]; Becky Ferland per roster)"
+ },
+ "Speaker 5": {
+  "name": "Richard Madigan",
+  "role": "Claremont School Board member (chair recognizes 'Richard' [76], [379], [420], [547], [549]; says he has served a one-year term and is running again [382]; public commenter Neal Ward calls him 'Richard Madigan' [396] - surname is ASR, unverified)"
+ },
+ "Speaker 6": {
+  "name": "Unidentified",
+  "role": "Unidentified - cluster of short interjections, acknowledgements and 'aye' votes from several voices"
+ },
+ "Speaker 7": {
+  "name": "Neal Ward",
+  "role": "Public commenter, Ward one, school board candidate and retired dentist (self-identified 'Neal Ward' [44], [395]; spelling of first name unverified)"
+ },
+ "Speaker 8": {
+  "name": "Ruth Ramjet",
+  "role": "Stevens High School Youth and Government Club student representative (self-identified; ASR 'Ruth Ramjet' [65], spelling unverified)"
+ },
+ "Speaker 9": {
+  "name": "John",
+  "role": "Claremont School Board member (first name 'John' per chair [131], [216] and superintendent [184]; surname not on record)"
+ },
+ "Speaker 10": {
+  "name": "Bob",
+  "role": "Claremont School Board member (addressed as 'Bob' [518], [547], [562]; roll call reads 'Robert Peacock' [1] - surname is ASR, unverified)"
+ },
+ "Speaker 11": {
+  "name": "Michael O'Neill",
+  "role": "Business Administrator, SAU 6 (introduced as 'Michael Neil' [111], i.e. Michael O'Neill; called 'Mike')"
+ },
+ "Speaker 12": {
+  "name": "David Putnam",
+  "role": "Former Claremont School Board member reporting on the Stevens High School renovation (self-identified 'David Putnam', 'Ward two' [52]-[53])"
+ },
+ "Speaker 13": {
+  "name": "Cory LeClair",
+  "role": "SAU 6 administrator (addressed as 'Corey' [456], [466], [485]; Cory LeClair per roster; title not stated on this recording)"
+ },
+ "Speaker 14": {
+  "name": "David Putnam",
+  "role": "Former Claremont School Board member reporting on the Stevens High School renovation (self-identified 'David Putnam', 'Ward two' [52]-[53])"
+ },
+ "__overrides__": {
+  "1": {
+   "name": "Mary Woodman",
+   "role": "School district clerk / recording secretary (called 'Mary' to take roll [0]; surname Woodman per roster)"
+  },
+  "6": {
+   "name": "Unidentified",
+   "role": "Unidentified - board member moving and voting on the agenda; absorbed into the superintendent's cluster"
+  },
+  "8": {
+   "name": "Unidentified",
+   "role": "Unidentified - board member moving and voting on the agenda; absorbed into the superintendent's cluster"
+  },
+  "43": {
+   "name": "Neal Ward"
+  },
+  "44": {
+   "name": "Neal Ward"
+  },
+  "394": {
+   "name": "Neal Ward"
+  },
+  "52": {
+   "name": "David Putnam"
+  },
+  "53": {
+   "name": "David Putnam"
+  },
+  "54": {
+   "name": "David Putnam"
+  },
+  "55": {
+   "name": "David Putnam"
+  },
+  "56": {
+   "name": "David Putnam"
+  },
+  "57": {
+   "name": "David Putnam"
+  },
+  "58": {
+   "name": "David Putnam"
+  },
+  "59": {
+   "name": "David Putnam"
+  },
+  "60": {
+   "name": "David Putnam"
+  },
+  "61": {
+   "name": "David Putnam"
+  },
+  "62": {
+   "name": "David Putnam"
+  },
+  "63": {
+   "name": "David Putnam"
+  },
+  "195": {
+   "name": "David Putnam"
+  },
+  "196": {
+   "name": "David Putnam"
+  },
+  "197": {
+   "name": "David Putnam"
+  },
+  "72": {
+   "name": "Ruth Ramjet"
+  },
+  "83": {
+   "name": "Unidentified",
+   "role": "Unidentified - one-line remark in the Speaker 7 cluster during the student request; not Neal Ward (he had left the podium)"
+  },
+  "496": {
+   "name": "Rebecca Ferland"
+  }
+ }
+}

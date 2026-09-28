@@ -1,0 +1,191 @@
+{
+ "Speaker 1": {
+  "name": "Frank Sprague",
+  "role": "Claremont School Board Chair"
+ },
+ "Speaker 2": {
+  "name": "Mary Woodman",
+  "role": "School district clerk and recording secretary"
+ },
+ "Speaker 3": {
+  "name": "Unidentified",
+  "role": "Unidentified - cluster mixes several board members' short motions and interjections; Steven Moss presentation segments reassigned per segment"
+ },
+ "Speaker 4": {
+  "name": "Jason Benware",
+  "role": "Claremont School Board member"
+ },
+ "Speaker 5": {
+  "name": "Michael Tempesta",
+  "role": "Superintendent, SAU 6"
+ },
+ "Speaker 6": {
+  "name": "Donna Magoon",
+  "role": "Assistant Superintendent, SAU 6 (named only as 'Donna' on this recording; surname from 7/25/19 SAU nomination and roster)"
+ },
+ "Speaker 7": {
+  "name": "Carolyn Towle",
+  "role": "Claremont School Board member"
+ },
+ "Speaker 8": {
+  "name": "Unidentified",
+  "role": "Unidentified - cluster of short interjections from several voices; clipped onsets reassigned per segment"
+ },
+ "Speaker 9": {
+  "name": "Michael Petrin",
+  "role": "Claremont School Board member; SAU 6 Board Chair"
+ },
+ "Speaker 10": {
+  "name": "Brynn Kane",
+  "role": "Curriculum team, SAU 6 - induction and mentoring program coordinator (ASR 'Bryn'; surname from 7/25/19 SAU meeting)"
+ },
+ "Speaker 11": {
+  "name": "Jeff Small",
+  "role": "Director of Technology, SAU 6"
+ },
+ "Speaker 12": {
+  "name": "Patricia Barry",
+  "role": "Principal, Stevens High School (uncertain - chair addresses 'Pat' during high school handbook discussion)"
+ },
+ "Speaker 13": {
+  "name": "Rob Lovett Jr.",
+  "role": "Claremont School Board member (attribution by elimination - male board member presenting the capital improvement program, not Sprague, Benware or Petrin)"
+ },
+ "__overrides__": {
+  "267": {
+   "name": "Steven Moss",
+   "role": "Curriculum specialist grades 6-12, SAU 6 (chair's 'Mr. Moss'; full name from 9/18/19 self-ID)"
+  },
+  "269": {
+   "name": "Steven Moss",
+   "role": "Curriculum specialist grades 6-12, SAU 6 (chair's 'Mr. Moss'; full name from 9/18/19 self-ID)"
+  },
+  "270": {
+   "name": "Steven Moss",
+   "role": "Curriculum specialist grades 6-12, SAU 6 (chair's 'Mr. Moss'; full name from 9/18/19 self-ID)"
+  },
+  "271": {
+   "name": "Steven Moss",
+   "role": "Curriculum specialist grades 6-12, SAU 6 (chair's 'Mr. Moss'; full name from 9/18/19 self-ID)"
+  },
+  "272": {
+   "name": "Steven Moss",
+   "role": "Curriculum specialist grades 6-12, SAU 6 (chair's 'Mr. Moss'; full name from 9/18/19 self-ID)"
+  },
+  "273": {
+   "name": "Steven Moss",
+   "role": "Curriculum specialist grades 6-12, SAU 6 (chair's 'Mr. Moss'; full name from 9/18/19 self-ID)"
+  },
+  "275": {
+   "name": "Steven Moss",
+   "role": "Curriculum specialist grades 6-12, SAU 6 (chair's 'Mr. Moss'; full name from 9/18/19 self-ID)"
+  },
+  "277": {
+   "name": "Steven Moss",
+   "role": "Curriculum specialist grades 6-12, SAU 6 (chair's 'Mr. Moss'; full name from 9/18/19 self-ID)"
+  },
+  "278": {
+   "name": "Steven Moss",
+   "role": "Curriculum specialist grades 6-12, SAU 6 (chair's 'Mr. Moss'; full name from 9/18/19 self-ID)"
+  },
+  "279": {
+   "name": "Steven Moss",
+   "role": "Curriculum specialist grades 6-12, SAU 6 (chair's 'Mr. Moss'; full name from 9/18/19 self-ID)"
+  },
+  "280": {
+   "name": "Steven Moss",
+   "role": "Curriculum specialist grades 6-12, SAU 6 (chair's 'Mr. Moss'; full name from 9/18/19 self-ID)"
+  },
+  "281": {
+   "name": "Steven Moss",
+   "role": "Curriculum specialist grades 6-12, SAU 6 (chair's 'Mr. Moss'; full name from 9/18/19 self-ID)"
+  },
+  "283": {
+   "name": "Steven Moss",
+   "role": "Curriculum specialist grades 6-12, SAU 6 (chair's 'Mr. Moss'; full name from 9/18/19 self-ID)"
+  },
+  "285": {
+   "name": "Steven Moss",
+   "role": "Curriculum specialist grades 6-12, SAU 6 (chair's 'Mr. Moss'; full name from 9/18/19 self-ID)"
+  },
+  "288": {
+   "name": "Steven Moss",
+   "role": "Curriculum specialist grades 6-12, SAU 6 (chair's 'Mr. Moss'; full name from 9/18/19 self-ID)"
+  },
+  "289": {
+   "name": "Steven Moss",
+   "role": "Curriculum specialist grades 6-12, SAU 6 (chair's 'Mr. Moss'; full name from 9/18/19 self-ID)"
+  },
+  "290": {
+   "name": "Steven Moss",
+   "role": "Curriculum specialist grades 6-12, SAU 6 (chair's 'Mr. Moss'; full name from 9/18/19 self-ID)"
+  },
+  "294": {
+   "name": "Steven Moss",
+   "role": "Curriculum specialist grades 6-12, SAU 6 (chair's 'Mr. Moss'; full name from 9/18/19 self-ID)"
+  },
+  "295": {
+   "name": "Steven Moss",
+   "role": "Curriculum specialist grades 6-12, SAU 6 (chair's 'Mr. Moss'; full name from 9/18/19 self-ID)"
+  },
+  "297": {
+   "name": "Steven Moss",
+   "role": "Curriculum specialist grades 6-12, SAU 6 (chair's 'Mr. Moss'; full name from 9/18/19 self-ID)"
+  },
+  "300": {
+   "name": "Steven Moss",
+   "role": "Curriculum specialist grades 6-12, SAU 6 (chair's 'Mr. Moss'; full name from 9/18/19 self-ID)"
+  },
+  "312": {
+   "name": "Steven Moss",
+   "role": "Curriculum specialist grades 6-12, SAU 6 (chair's 'Mr. Moss'; full name from 9/18/19 self-ID)"
+  },
+  "315": {
+   "name": "Steven Moss",
+   "role": "Curriculum specialist grades 6-12, SAU 6 (chair's 'Mr. Moss'; full name from 9/18/19 self-ID)"
+  },
+  "159": {
+   "name": "Carolyn Towle"
+  },
+  "165": {
+   "name": "Carolyn Towle"
+  },
+  "180": {
+   "name": "Carolyn Towle"
+  },
+  "233": {
+   "name": "Carolyn Towle"
+  },
+  "383": {
+   "name": "Jason Benware"
+  },
+  "385": {
+   "name": "Jason Benware"
+  },
+  "387": {
+   "name": "Jason Benware"
+  },
+  "396": {
+   "name": "Jeff Small"
+  },
+  "434": {
+   "name": "Patricia Barry"
+  },
+  "438": {
+   "name": "Patricia Barry"
+  },
+  "447": {
+   "name": "Patricia Barry"
+  },
+  "459": {
+   "name": "Patricia Barry"
+  },
+  "468": {
+   "name": "Patricia Barry"
+  },
+  "519": {
+   "name": "Unidentified",
+   "role": "Unidentified - clipped interjection absorbed into clerk cluster"
+  }
+ }
+}

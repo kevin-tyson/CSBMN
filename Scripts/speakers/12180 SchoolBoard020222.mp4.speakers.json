@@ -1,0 +1,276 @@
+{
+ "Speaker 1": {
+  "name": "Michael Tempesta",
+  "role": "Superintendent, SAU 6"
+ },
+ "Speaker 2": {
+  "name": "Heather Whitney",
+  "role": "Claremont School Board member"
+ },
+ "Speaker 3": {
+  "name": "Frank Sprague",
+  "role": "Claremont School Board Chair"
+ },
+ "Speaker 4": {
+  "name": "Steven Horsky",
+  "role": "Claremont School Board member"
+ },
+ "Speaker 5": {
+  "name": "Michael Petrin",
+  "role": "Claremont School Board member"
+ },
+ "Speaker 6": {
+  "name": "Josh",
+  "role": "Public commenter, Ward 3 (first name only on the record; ASR 'Joshua. Race one three')"
+ },
+ "Speaker 7": {
+  "name": "Nicholas Stone",
+  "role": "Claremont School Board member (addressed 'Nick' at [521]; [184]-[185] speak as a 2018 Stevens graduate, uncertain - same cluster)"
+ },
+ "Speaker 8": {
+  "name": "Unidentified",
+  "role": "Unidentified - public commenter, Ward 2 (realtor; name not stated)"
+ },
+ "Speaker 9": {
+  "name": "Unidentified",
+  "role": "Unidentified - audience member and fragments (asks that the podium be moved at [242])"
+ },
+ "Speaker 10": {
+  "name": "Ben Nester",
+  "role": "Director of Special Education, SAU 6"
+ },
+ "Speaker 11": {
+  "name": "Paige",
+  "role": "Pre-K Coordinator, Claremont School District (first name only on the record, ASR 'Page'; surname not stated)"
+ },
+ "Speaker 12": {
+  "name": "Jen Gallagher",
+  "role": "Public commenter, Ward 2 (first says ward one, corrected to two; preschool parent)"
+ },
+ "Speaker 13": {
+  "name": "Unidentified",
+  "role": "Unidentified - short interjections from several voices; see overrides"
+ },
+ "Speaker 14": {
+  "name": "Joshua Lambert",
+  "role": "Claremont School Board member (attribution medium - cluster follows the chair's 'Josh hasn't spoken tonight' at [389])"
+ },
+ "Speaker 15": {
+  "name": "Unidentified",
+  "role": "Unidentified - cluster of clipped onsets from several speakers; see overrides"
+ },
+ "Speaker 16": {
+  "name": "Unidentified",
+  "role": "Unidentified - cluster mixes the chair, roll-call vote answers and other short remarks; see overrides"
+ },
+ "Speaker 17": {
+  "name": "Unidentified",
+  "role": "Unidentified - public commenter on masks (ward heard as 'Three'; name not stated)"
+ },
+ "Speaker 18": {
+  "name": "Whitney Skillen",
+  "role": "Public commenter, Ward 2 (ASR 'Whitney Skilling'); elected to the board March 2022"
+ },
+ "Speaker 19": {
+  "name": "Mary Woodman",
+  "role": "School district clerk and board recording secretary"
+ },
+ "Speaker 20": {
+  "name": "Unidentified",
+  "role": "Unidentified - single 'Okay' at close of recording"
+ },
+ "__overrides__": {
+  "0": {
+   "name": "Frank Sprague",
+   "role": "Claremont School Board Chair"
+  },
+  "1": {
+   "name": "Frank Sprague",
+   "role": "Claremont School Board Chair"
+  },
+  "2": {
+   "name": "Frank Sprague",
+   "role": "Claremont School Board Chair"
+  },
+  "3": {
+   "name": "Frank Sprague",
+   "role": "Claremont School Board Chair"
+  },
+  "4": {
+   "name": "Frank Sprague",
+   "role": "Claremont School Board Chair"
+  },
+  "9": {
+   "name": "Frank Sprague",
+   "role": "Claremont School Board Chair"
+  },
+  "10": {
+   "name": "Frank Sprague",
+   "role": "Claremont School Board Chair"
+  },
+  "12": {
+   "name": "Frank Sprague",
+   "role": "Claremont School Board Chair"
+  },
+  "16": {
+   "name": "Frank Sprague",
+   "role": "Claremont School Board Chair"
+  },
+  "17": {
+   "name": "Frank Sprague",
+   "role": "Claremont School Board Chair"
+  },
+  "19": {
+   "name": "Frank Sprague",
+   "role": "Claremont School Board Chair"
+  },
+  "21": {
+   "name": "Frank Sprague",
+   "role": "Claremont School Board Chair"
+  },
+  "22": {
+   "name": "Frank Sprague",
+   "role": "Claremont School Board Chair"
+  },
+  "5": {
+   "name": "Unidentified",
+   "role": "Unidentified - roll call: clerk calls names and members answer 'here' within the same segment"
+  },
+  "6": {
+   "name": "Unidentified",
+   "role": "Unidentified - roll call: clerk calls names and members answer 'here' within the same segment"
+  },
+  "7": {
+   "name": "Unidentified",
+   "role": "Unidentified - roll call: clerk calls names and members answer 'here' within the same segment"
+  },
+  "8": {
+   "name": "Unidentified",
+   "role": "Unidentified - roll call: clerk calls names and members answer 'here' within the same segment"
+  },
+  "11": {
+   "name": "Unidentified",
+   "role": "Unidentified - points out the agenda start time; the chair answers, so not the chair (possibly clerk or superintendent)"
+  },
+  "13": {
+   "name": "Unidentified",
+   "role": "Unidentified - points out the agenda start time; the chair answers, so not the chair (possibly clerk or superintendent)"
+  },
+  "18": {
+   "name": "Unidentified",
+   "role": "Unidentified - reply to the chair's 'Mary' about minutes (possibly Mary Woodman)"
+  },
+  "20": {
+   "name": "Unidentified",
+   "role": "Unidentified - reply about pending minutes (possibly Mary Woodman)"
+  },
+  "256": {
+   "name": "Ben Nester",
+   "role": "Director of Special Education, SAU 6"
+  },
+  "277": {
+   "name": "Ben Nester",
+   "role": "Director of Special Education, SAU 6"
+  },
+  "269": {
+   "name": "Ben Nester",
+   "role": "Director of Special Education, SAU 6"
+  },
+  "534": {
+   "name": "Unidentified",
+   "role": "Unidentified - public commenter on masks (ward heard as 'Three'; name not stated)"
+  },
+  "533": {
+   "name": "Unidentified",
+   "role": "Unidentified - public commenter on masks (ward heard as 'Three'; name not stated)"
+  },
+  "365": {
+   "name": "Jen Gallagher",
+   "role": "Public commenter, Ward 2 (first says ward one, corrected to two; preschool parent)"
+  },
+  "363": {
+   "name": "Jen Gallagher",
+   "role": "Public commenter, Ward 2 (first says ward one, corrected to two; preschool parent)"
+  },
+  "384": {
+   "name": "Jen Gallagher",
+   "role": "Public commenter, Ward 2 (first says ward one, corrected to two; preschool parent)"
+  },
+  "397": {
+   "name": "Jen Gallagher",
+   "role": "Public commenter, Ward 2 (first says ward one, corrected to two; preschool parent)"
+  },
+  "444": {
+   "name": "Michael Tempesta",
+   "role": "Superintendent, SAU 6"
+  },
+  "448": {
+   "name": "Michael Tempesta",
+   "role": "Superintendent, SAU 6"
+  },
+  "238": {
+   "name": "Heather Whitney",
+   "role": "Claremont School Board member"
+  },
+  "394": {
+   "name": "Paige",
+   "role": "Pre-K Coordinator, Claremont School District (first name only on the record, ASR 'Page'; surname not stated)"
+  },
+  "403": {
+   "name": "Paige",
+   "role": "Pre-K Coordinator, Claremont School District (first name only on the record, ASR 'Page'; surname not stated)"
+  },
+  "546": {
+   "name": "Whitney Skillen",
+   "role": "Public commenter, Ward 2 (ASR 'Whitney Skilling'); elected to the board March 2022"
+  },
+  "573": {
+   "name": "Heather Whitney",
+   "role": "Claremont School Board member"
+  },
+  "416": {
+   "name": "Frank Sprague",
+   "role": "Claremont School Board Chair"
+  },
+  "489": {
+   "name": "Frank Sprague",
+   "role": "Claremont School Board Chair"
+  },
+  "523": {
+   "name": "Frank Sprague",
+   "role": "Claremont School Board Chair"
+  },
+  "554": {
+   "name": "Frank Sprague",
+   "role": "Claremont School Board Chair"
+  },
+  "426": {
+   "name": "Richard Seaman",
+   "role": "Assistant Superintendent for Finance, SAU 6 (uncertain - one reply to the chair's 'Richard, do you remember' at [425])"
+  },
+  "575": {
+   "name": "Steven Horsky",
+   "role": "Claremont School Board member"
+  },
+  "579": {
+   "name": "Michael Petrin",
+   "role": "Claremont School Board member"
+  },
+  "581": {
+   "name": "Nicholas Stone",
+   "role": "Claremont School Board member"
+  },
+  "583": {
+   "name": "Frank Sprague",
+   "role": "Claremont School Board Chair"
+  },
+  "577": {
+   "name": "Unidentified",
+   "role": "Unidentified - roll-call vote 'Yes' after both Lambert and Lovett are called"
+  },
+  "477": {
+   "name": "Unidentified",
+   "role": "Unidentified - cluster mixes the chair, roll-call vote answers and other short remarks; see overrides"
+  }
+ }
+}

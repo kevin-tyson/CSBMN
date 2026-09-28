@@ -1,0 +1,272 @@
+{
+ "Speaker 1": {
+  "name": "Michael Petrin",
+  "role": "Claremont School Board Chair (runs the meeting and calls votes; Heather Whitney: 'to what you're saying, Mike' [353]; Skillen: 'I'm with Mr. patrons point' [373])"
+ },
+ "Speaker 2": {
+  "name": "Michael Tempesta",
+  "role": "Superintendent, SAU 6 (gives the superintendent's report [78]-[114]; answers for the administration throughout)"
+ },
+ "Speaker 3": {
+  "name": "Joshua Lambert",
+  "role": "Claremont School Board member ('I agree with Josh' [283] after [280]-[281]; chair: 'Josh's motion to move this warrant article' [501] after [486])"
+ },
+ "Speaker 4": {
+  "name": "Heather Whitney",
+  "role": "Claremont School Board Vice Chair (recognized 'Heather' [139], [304], [352]; 'hey, Heather' [604])"
+ },
+ "Speaker 5": {
+  "name": "Unidentified",
+  "role": "Student representative to the board (name garbled - ASR 'Sandra featuring' [27])"
+ },
+ "Speaker 6": {
+  "name": "Arlene Hawkins",
+  "role": "Public commenter, Ward 3 (self-identified 'I'm Arlene Hawkins from Ward three' [48], [71], [318])"
+ },
+ "Speaker 7": {
+  "name": "Candace Crawford",
+  "role": "Public commenter, Ward 2 (self-identified 'Candace Crawford, Ward two' [53]-[54], 'Candy. Crawford board two' [313], [450])"
+ },
+ "Speaker 8": {
+  "name": "Michael Koski",
+  "role": "Assistant Superintendent, SAU 6 (spelling uncertain - Skillen: 'Mr. Kosky presented to us in highlighted in green' [284]; Hawkins: 'Mr. Husky' [402]; presents the curriculum portion [116]-[129])"
+ },
+ "Speaker 9": {
+  "name": "Unidentified",
+  "role": "Unidentified - short-fragment cluster mixing board members and public commenters; see overrides"
+ },
+ "Speaker 10": {
+  "name": "Frank Sprague",
+  "role": "Claremont School Board member (recognized 'Frank, first' [198] -> [199]; chair: 'second by Frank' [403] after [273]; former educator 'I did it for decades' [310])"
+ },
+ "Speaker 11": {
+  "name": "Stephanie Hurst",
+  "role": "Literacy specialist, SAU 6 (self-identified, ASR 'I am Stephanie Harris, literacy specialist' [202]; roster spelling Hurst)"
+ },
+ "Speaker 12": {
+  "name": "Steven Horsky",
+  "role": "Claremont School Board member (Koski: 'I don't disagree with you, Steve' [237]; chair: 'Stephen made a motion' [272] after [266]; 'Steven, if you want to restate your motion' [477])"
+ },
+ "Speaker 13": {
+  "name": "Heather Pelkey",
+  "role": "Math specialist, SAU 6 (self-identified 'Heather Pelkey, mass specialist for the district' [256]; spelling as heard)"
+ },
+ "Speaker 14": {
+  "name": "Whitney Skillen",
+  "role": "Claremont School Board member (chair: 'I had Whitney and Josh' [356] -> [357]-[374]; refers to 'Heather' as a separate member [562]; chair: 'seconded by Whitney' [21], [489])"
+ },
+ "Speaker 15": {
+  "name": "Unidentified",
+  "role": "Unidentified - single short reply during public comment"
+ },
+ "Speaker 16": {
+  "name": "Bonnie Miles",
+  "role": "Claremont School Board member (chair: 'Are you ready for Bonnie now?' [698] -> motion [701]; reports on the capital improvement committee [512]-[535])"
+ },
+ "__overrides__": {
+  "2": {
+   "name": "Unidentified",
+   "role": "Group recitation of the Pledge of Allegiance"
+  },
+  "22": {
+   "name": "Unidentified",
+   "role": "Group voice vote"
+  },
+  "10": {
+   "name": "Unidentified",
+   "role": "Unidentified - brief procedural reply during agenda amendment"
+  },
+  "15": {
+   "name": "Unidentified",
+   "role": "Unidentified - brief procedural reply during agenda amendment"
+  },
+  "25": {
+   "name": "Unidentified",
+   "role": "Roll caller and members answering 'here' (caller not named on the recording)"
+  },
+  "32": {
+   "name": "Frank Sprague",
+   "role": "Claremont School Board member (recognized 'Frank, first' [198] -> [199]; chair: 'second by Frank' [403] after [273]; former educator 'I did it for decades' [310])"
+  },
+  "33": {
+   "name": "Frank Sprague",
+   "role": "Claremont School Board member (recognized 'Frank, first' [198] -> [199]; chair: 'second by Frank' [403] after [273]; former educator 'I did it for decades' [310])"
+  },
+  "34": {
+   "name": "Frank Sprague",
+   "role": "Claremont School Board member (recognized 'Frank, first' [198] -> [199]; chair: 'second by Frank' [403] after [273]; former educator 'I did it for decades' [310])"
+  },
+  "36": {
+   "name": "Frank Sprague",
+   "role": "Claremont School Board member (recognized 'Frank, first' [198] -> [199]; chair: 'second by Frank' [403] after [273]; former educator 'I did it for decades' [310])"
+  },
+  "49": {
+   "name": "Arlene Hawkins",
+   "role": "Public commenter, Ward 3 (self-identified 'I'm Arlene Hawkins from Ward three' [48], [71], [318])"
+  },
+  "20": {
+   "name": "Whitney Skillen",
+   "role": "Claremont School Board member (chair: 'I had Whitney and Josh' [356] -> [357]-[374]; refers to 'Heather' as a separate member [562]; chair: 'seconded by Whitney' [21], [489])"
+  },
+  "54": {
+   "name": "Candace Crawford",
+   "role": "Public commenter, Ward 2 (self-identified 'Candace Crawford, Ward two' [53]-[54], 'Candy. Crawford board two' [313], [450])"
+  },
+  "57": {
+   "name": "Candace Crawford",
+   "role": "Public commenter, Ward 2 (self-identified 'Candace Crawford, Ward two' [53]-[54], 'Candy. Crawford board two' [313], [450])"
+  },
+  "61": {
+   "name": "Unidentified",
+   "role": "Unidentified - audience members in the public hearing (cannot hear / chair seating)"
+  },
+  "63": {
+   "name": "Unidentified",
+   "role": "Unidentified - audience members in the public hearing (cannot hear / chair seating)"
+  },
+  "64": {
+   "name": "Unidentified",
+   "role": "Unidentified - audience members in the public hearing (cannot hear / chair seating)"
+  },
+  "68": {
+   "name": "Unidentified",
+   "role": "Unidentified - audience members in the public hearing (cannot hear / chair seating)"
+  },
+  "69": {
+   "name": "Unidentified",
+   "role": "Unidentified - audience members in the public hearing (cannot hear / chair seating)"
+  },
+  "101": {
+   "name": "Unidentified",
+   "role": "Unidentified - attendee of the elementary restructuring community meeting, likely a board member (possibly Bonnie Miles, whom Tempesta notes attended [86]); diarizer splits the remark between clusters 4 and 6"
+  },
+  "102": {
+   "name": "Unidentified",
+   "role": "Unidentified - attendee of the elementary restructuring community meeting, likely a board member (possibly Bonnie Miles, whom Tempesta notes attended [86]); diarizer splits the remark between clusters 4 and 6"
+  },
+  "103": {
+   "name": "Unidentified",
+   "role": "Unidentified - attendee of the elementary restructuring community meeting, likely a board member (possibly Bonnie Miles, whom Tempesta notes attended [86]); diarizer splits the remark between clusters 4 and 6"
+  },
+  "104": {
+   "name": "Unidentified",
+   "role": "Unidentified - attendee of the elementary restructuring community meeting, likely a board member (possibly Bonnie Miles, whom Tempesta notes attended [86]); diarizer splits the remark between clusters 4 and 6"
+  },
+  "105": {
+   "name": "Unidentified",
+   "role": "Unidentified - attendee of the elementary restructuring community meeting, likely a board member (possibly Bonnie Miles, whom Tempesta notes attended [86]); diarizer splits the remark between clusters 4 and 6"
+  },
+  "106": {
+   "name": "Unidentified",
+   "role": "Unidentified - attendee of the elementary restructuring community meeting, likely a board member (possibly Bonnie Miles, whom Tempesta notes attended [86]); diarizer splits the remark between clusters 4 and 6"
+  },
+  "107": {
+   "name": "Unidentified",
+   "role": "Unidentified - attendee of the elementary restructuring community meeting, likely a board member (possibly Bonnie Miles, whom Tempesta notes attended [86]); diarizer splits the remark between clusters 4 and 6"
+  },
+  "108": {
+   "name": "Unidentified",
+   "role": "Unidentified - attendee of the elementary restructuring community meeting, likely a board member (possibly Bonnie Miles, whom Tempesta notes attended [86]); diarizer splits the remark between clusters 4 and 6"
+  },
+  "158": {
+   "name": "Unidentified",
+   "role": "Unidentified - board-side remarks on the biennial SB 420 amounts (not recognized by name)"
+  },
+  "160": {
+   "name": "Unidentified",
+   "role": "Unidentified - board-side remarks on the biennial SB 420 amounts (not recognized by name)"
+  },
+  "162": {
+   "name": "Unidentified",
+   "role": "Unidentified - board-side remarks on the biennial SB 420 amounts (not recognized by name)"
+  },
+  "164": {
+   "name": "Unidentified",
+   "role": "Unidentified - board-side remarks on the biennial SB 420 amounts (not recognized by name)"
+  },
+  "165": {
+   "name": "Unidentified",
+   "role": "Unidentified - board-side remarks on the biennial SB 420 amounts (not recognized by name)"
+  },
+  "166": {
+   "name": "Unidentified",
+   "role": "Unidentified - board-side remarks on the biennial SB 420 amounts (not recognized by name)"
+  },
+  "185": {
+   "name": "Unidentified",
+   "role": "Unidentified - brief interjection"
+  },
+  "243": {
+   "name": "Heather Whitney",
+   "role": "Claremont School Board Vice Chair (recognized 'Heather' [139], [304], [352]; 'hey, Heather' [604])"
+  },
+  "414": {
+   "name": "Heather Whitney",
+   "role": "Claremont School Board Vice Chair (recognized 'Heather' [139], [304], [352]; 'hey, Heather' [604])"
+  },
+  "268": {
+   "name": "Stephanie Hurst",
+   "role": "Literacy specialist, SAU 6 (self-identified, ASR 'I am Stephanie Harris, literacy specialist' [202]; roster spelling Hurst)"
+  },
+  "283": {
+   "name": "Whitney Skillen",
+   "role": "Claremont School Board member (chair: 'I had Whitney and Josh' [356] -> [357]-[374]; refers to 'Heather' as a separate member [562]; chair: 'seconded by Whitney' [21], [489])"
+  },
+  "300": {
+   "name": "Unidentified",
+   "role": "Unidentified - brief interjection (not attributable)"
+  },
+  "302": {
+   "name": "Unidentified",
+   "role": "Unidentified - brief interjection (not attributable)"
+  },
+  "421": {
+   "name": "Unidentified",
+   "role": "Unidentified - brief interjection (not attributable)"
+  },
+  "608": {
+   "name": "Unidentified",
+   "role": "Unidentified - brief interjection (not attributable)"
+  },
+  "660": {
+   "name": "Unidentified",
+   "role": "Unidentified - brief interjection (not attributable)"
+  },
+  "664": {
+   "name": "Unidentified",
+   "role": "Unidentified - brief interjection (not attributable)"
+  },
+  "333": {
+   "name": "Arlene Hawkins",
+   "role": "Public commenter, Ward 3 (self-identified 'I'm Arlene Hawkins from Ward three' [48], [71], [318])"
+  },
+  "335": {
+   "name": "Arlene Hawkins",
+   "role": "Public commenter, Ward 3 (self-identified 'I'm Arlene Hawkins from Ward three' [48], [71], [318])"
+  },
+  "337": {
+   "name": "Arlene Hawkins",
+   "role": "Public commenter, Ward 3 (self-identified 'I'm Arlene Hawkins from Ward three' [48], [71], [318])"
+  },
+  "341": {
+   "name": "Arlene Hawkins",
+   "role": "Public commenter, Ward 3 (self-identified 'I'm Arlene Hawkins from Ward three' [48], [71], [318])"
+  },
+  "343": {
+   "name": "Arlene Hawkins",
+   "role": "Public commenter, Ward 3 (self-identified 'I'm Arlene Hawkins from Ward three' [48], [71], [318])"
+  },
+  "348": {
+   "name": "Arlene Hawkins",
+   "role": "Public commenter, Ward 3 (self-identified 'I'm Arlene Hawkins from Ward three' [48], [71], [318])"
+  },
+  "409": {
+   "name": "Bonnie Miles",
+   "role": "Claremont School Board member (chair: 'Are you ready for Bonnie now?' [698] -> motion [701]; reports on the capital improvement committee [512]-[535])"
+  },
+  "502": {
+   "name": "Unidentified",
+   "role": "Board members voting 'no' on the warrant motion (voices not separable)"
+  }
+ }
+}

@@ -1,0 +1,1000 @@
+{
+ "Speaker 1": {
+  "name": "Unidentified",
+  "role": "Unidentified - cluster merges the business administrator's budget presentation, the chair's article presentations and many public commenters; identified segments are reassigned by override"
+ },
+ "Speaker 2": {
+  "name": "Charlene Lovett",
+  "role": "Acting moderator, Claremont School District deliberative session (introduced as 'our acting tonight, moderator Charlene Lovett' [1])"
+ },
+ "Speaker 3": {
+  "name": "Unidentified",
+  "role": "Unidentified - cluster merges several public commenters; see overrides"
+ },
+ "Speaker 4": {
+  "name": "Unidentified",
+  "role": "Unidentified - cluster merges several public commenters and a tech center teacher; see overrides"
+ },
+ "Speaker 5": {
+  "name": "Unidentified",
+  "role": "Unidentified - timekeeper and brief floor interjections"
+ },
+ "Speaker 6": {
+  "name": "Bonnie Miles",
+  "role": "Public commenter, Ward 2 (ASR 'born and Miles ... Ward two' [204])"
+ },
+ "Speaker 7": {
+  "name": "Unidentified",
+  "role": "Unidentified - voice handling the secret-ballot petition and procedure (possibly the clerk, uncertain)"
+ },
+ "Speaker 8": {
+  "name": "Unidentified",
+  "role": "Unidentified - public commenter on the property tax system and district job cuts [233-236]"
+ },
+ "Speaker 9": {
+  "name": "Unidentified",
+  "role": "Unidentified - cluster merges several public commenters; see overrides"
+ },
+ "Speaker 10": {
+  "name": "Unidentified",
+  "role": "Unidentified - single off-mic remark during balloting"
+ },
+ "Speaker 11": {
+  "name": "McKean",
+  "role": "Public commenter, Ward 1, district employee and president of the Claremont paraprofessional association (ASR 'McKean' [144, 347]; first name not given)"
+ },
+ "__overrides__": {
+  "0": {
+   "name": "Frank Sprague",
+   "role": "Claremont School Board Chair (moderator recognizes 'Chairman Sprague' [337, 365], 'Mr. Greg'/'Chair Greg' [340, 353, 361]; 'one of the benefits of being retired' [351])"
+  },
+  "1": {
+   "name": "Frank Sprague",
+   "role": "Claremont School Board Chair introducing the board ('I'll stand up to do it. To my immediate right...'); segment opens and closes with the moderator's words"
+  },
+  "11": {
+   "name": "Jason Benware",
+   "role": "Public commenter, Ward 1, former Claremont School Board member (uncertain - ASR 'Jason. Ben, we're Ward one' [18], 'Jason van Rooyen, Ward one' [108], 'Jason Ward one' [183])"
+  },
+  "18": {
+   "name": "Jason Benware",
+   "role": "Public commenter, Ward 1, former Claremont School Board member (uncertain - ASR 'Jason. Ben, we're Ward one' [18], 'Jason van Rooyen, Ward one' [108], 'Jason Ward one' [183])"
+  },
+  "108": {
+   "name": "Jason Benware",
+   "role": "Public commenter, Ward 1, former Claremont School Board member (uncertain - ASR 'Jason. Ben, we're Ward one' [18], 'Jason van Rooyen, Ward one' [108], 'Jason Ward one' [183])"
+  },
+  "109": {
+   "name": "Jason Benware",
+   "role": "Public commenter, Ward 1, former Claremont School Board member (uncertain - ASR 'Jason. Ben, we're Ward one' [18], 'Jason van Rooyen, Ward one' [108], 'Jason Ward one' [183])"
+  },
+  "183": {
+   "name": "Jason Benware",
+   "role": "Public commenter, Ward 1, former Claremont School Board member (uncertain - ASR 'Jason. Ben, we're Ward one' [18], 'Jason van Rooyen, Ward one' [108], 'Jason Ward one' [183])"
+  },
+  "184": {
+   "name": "Jason Benware",
+   "role": "Public commenter, Ward 1, former Claremont School Board member (uncertain - ASR 'Jason. Ben, we're Ward one' [18], 'Jason van Rooyen, Ward one' [108], 'Jason Ward one' [183])"
+  },
+  "185": {
+   "name": "Jason Benware",
+   "role": "Public commenter, Ward 1, former Claremont School Board member (uncertain - ASR 'Jason. Ben, we're Ward one' [18], 'Jason van Rooyen, Ward one' [108], 'Jason Ward one' [183])"
+  },
+  "186": {
+   "name": "Jason Benware",
+   "role": "Public commenter, Ward 1, former Claremont School Board member (uncertain - ASR 'Jason. Ben, we're Ward one' [18], 'Jason van Rooyen, Ward one' [108], 'Jason Ward one' [183])"
+  },
+  "187": {
+   "name": "Jason Benware",
+   "role": "Public commenter, Ward 1, former Claremont School Board member (uncertain - ASR 'Jason. Ben, we're Ward one' [18], 'Jason van Rooyen, Ward one' [108], 'Jason Ward one' [183])"
+  },
+  "188": {
+   "name": "Jason Benware",
+   "role": "Public commenter, Ward 1, former Claremont School Board member (uncertain - ASR 'Jason. Ben, we're Ward one' [18], 'Jason van Rooyen, Ward one' [108], 'Jason Ward one' [183])"
+  },
+  "189": {
+   "name": "Jason Benware",
+   "role": "Public commenter, Ward 1, former Claremont School Board member (uncertain - ASR 'Jason. Ben, we're Ward one' [18], 'Jason van Rooyen, Ward one' [108], 'Jason Ward one' [183])"
+  },
+  "13": {
+   "name": "Unidentified",
+   "role": "Unidentified - seconder of minutes motion"
+  },
+  "20": {
+   "name": "Unidentified",
+   "role": "Unidentified - seconder of minutes motion"
+  },
+  "15": {
+   "name": "Unidentified",
+   "role": "Unidentified - group voice vote"
+  },
+  "22": {
+   "name": "Unidentified",
+   "role": "Unidentified - group voice vote"
+  },
+  "27": {
+   "name": "Unidentified",
+   "role": "Unidentified - group voice vote"
+  },
+  "29": {
+   "name": "Unidentified",
+   "role": "Unidentified - reads Article 2 after moderator recognizes board member Nicholas Stone and administrators [28] (probably Nicholas Stone, uncertain)"
+  },
+  "30": {
+   "name": "Richard Seaman",
+   "role": "Assistant Superintendent for Finance, Operations and Human Resources, SAU 6 (moderator recognizes 'Assistant Superintendent Richard Seaman' to present the budget [28]; self-describes as finance superintendent [30]; 'from years on the board as well as doing it here' [95])"
+  },
+  "31": {
+   "name": "Richard Seaman",
+   "role": "Assistant Superintendent for Finance, Operations and Human Resources, SAU 6 (moderator recognizes 'Assistant Superintendent Richard Seaman' to present the budget [28]; self-describes as finance superintendent [30]; 'from years on the board as well as doing it here' [95])"
+  },
+  "32": {
+   "name": "Richard Seaman",
+   "role": "Assistant Superintendent for Finance, Operations and Human Resources, SAU 6 (moderator recognizes 'Assistant Superintendent Richard Seaman' to present the budget [28]; self-describes as finance superintendent [30]; 'from years on the board as well as doing it here' [95])"
+  },
+  "33": {
+   "name": "Richard Seaman",
+   "role": "Assistant Superintendent for Finance, Operations and Human Resources, SAU 6 (moderator recognizes 'Assistant Superintendent Richard Seaman' to present the budget [28]; self-describes as finance superintendent [30]; 'from years on the board as well as doing it here' [95])"
+  },
+  "34": {
+   "name": "Richard Seaman",
+   "role": "Assistant Superintendent for Finance, Operations and Human Resources, SAU 6 (moderator recognizes 'Assistant Superintendent Richard Seaman' to present the budget [28]; self-describes as finance superintendent [30]; 'from years on the board as well as doing it here' [95])"
+  },
+  "35": {
+   "name": "Richard Seaman",
+   "role": "Assistant Superintendent for Finance, Operations and Human Resources, SAU 6 (moderator recognizes 'Assistant Superintendent Richard Seaman' to present the budget [28]; self-describes as finance superintendent [30]; 'from years on the board as well as doing it here' [95])"
+  },
+  "36": {
+   "name": "Richard Seaman",
+   "role": "Assistant Superintendent for Finance, Operations and Human Resources, SAU 6 (moderator recognizes 'Assistant Superintendent Richard Seaman' to present the budget [28]; self-describes as finance superintendent [30]; 'from years on the board as well as doing it here' [95])"
+  },
+  "37": {
+   "name": "Richard Seaman",
+   "role": "Assistant Superintendent for Finance, Operations and Human Resources, SAU 6 (moderator recognizes 'Assistant Superintendent Richard Seaman' to present the budget [28]; self-describes as finance superintendent [30]; 'from years on the board as well as doing it here' [95])"
+  },
+  "38": {
+   "name": "Richard Seaman",
+   "role": "Assistant Superintendent for Finance, Operations and Human Resources, SAU 6 (moderator recognizes 'Assistant Superintendent Richard Seaman' to present the budget [28]; self-describes as finance superintendent [30]; 'from years on the board as well as doing it here' [95])"
+  },
+  "39": {
+   "name": "Richard Seaman",
+   "role": "Assistant Superintendent for Finance, Operations and Human Resources, SAU 6 (moderator recognizes 'Assistant Superintendent Richard Seaman' to present the budget [28]; self-describes as finance superintendent [30]; 'from years on the board as well as doing it here' [95])"
+  },
+  "40": {
+   "name": "Richard Seaman",
+   "role": "Assistant Superintendent for Finance, Operations and Human Resources, SAU 6 (moderator recognizes 'Assistant Superintendent Richard Seaman' to present the budget [28]; self-describes as finance superintendent [30]; 'from years on the board as well as doing it here' [95])"
+  },
+  "41": {
+   "name": "Richard Seaman",
+   "role": "Assistant Superintendent for Finance, Operations and Human Resources, SAU 6 (moderator recognizes 'Assistant Superintendent Richard Seaman' to present the budget [28]; self-describes as finance superintendent [30]; 'from years on the board as well as doing it here' [95])"
+  },
+  "42": {
+   "name": "Richard Seaman",
+   "role": "Assistant Superintendent for Finance, Operations and Human Resources, SAU 6 (moderator recognizes 'Assistant Superintendent Richard Seaman' to present the budget [28]; self-describes as finance superintendent [30]; 'from years on the board as well as doing it here' [95])"
+  },
+  "43": {
+   "name": "Richard Seaman",
+   "role": "Assistant Superintendent for Finance, Operations and Human Resources, SAU 6 (moderator recognizes 'Assistant Superintendent Richard Seaman' to present the budget [28]; self-describes as finance superintendent [30]; 'from years on the board as well as doing it here' [95])"
+  },
+  "44": {
+   "name": "Richard Seaman",
+   "role": "Assistant Superintendent for Finance, Operations and Human Resources, SAU 6 (moderator recognizes 'Assistant Superintendent Richard Seaman' to present the budget [28]; self-describes as finance superintendent [30]; 'from years on the board as well as doing it here' [95])"
+  },
+  "45": {
+   "name": "Richard Seaman",
+   "role": "Assistant Superintendent for Finance, Operations and Human Resources, SAU 6 (moderator recognizes 'Assistant Superintendent Richard Seaman' to present the budget [28]; self-describes as finance superintendent [30]; 'from years on the board as well as doing it here' [95])"
+  },
+  "46": {
+   "name": "Richard Seaman",
+   "role": "Assistant Superintendent for Finance, Operations and Human Resources, SAU 6 (moderator recognizes 'Assistant Superintendent Richard Seaman' to present the budget [28]; self-describes as finance superintendent [30]; 'from years on the board as well as doing it here' [95])"
+  },
+  "47": {
+   "name": "Richard Seaman",
+   "role": "Assistant Superintendent for Finance, Operations and Human Resources, SAU 6 (moderator recognizes 'Assistant Superintendent Richard Seaman' to present the budget [28]; self-describes as finance superintendent [30]; 'from years on the board as well as doing it here' [95])"
+  },
+  "48": {
+   "name": "Richard Seaman",
+   "role": "Assistant Superintendent for Finance, Operations and Human Resources, SAU 6 (moderator recognizes 'Assistant Superintendent Richard Seaman' to present the budget [28]; self-describes as finance superintendent [30]; 'from years on the board as well as doing it here' [95])"
+  },
+  "49": {
+   "name": "Richard Seaman",
+   "role": "Assistant Superintendent for Finance, Operations and Human Resources, SAU 6 (moderator recognizes 'Assistant Superintendent Richard Seaman' to present the budget [28]; self-describes as finance superintendent [30]; 'from years on the board as well as doing it here' [95])"
+  },
+  "50": {
+   "name": "Richard Seaman",
+   "role": "Assistant Superintendent for Finance, Operations and Human Resources, SAU 6 (moderator recognizes 'Assistant Superintendent Richard Seaman' to present the budget [28]; self-describes as finance superintendent [30]; 'from years on the board as well as doing it here' [95])"
+  },
+  "51": {
+   "name": "Richard Seaman",
+   "role": "Assistant Superintendent for Finance, Operations and Human Resources, SAU 6 (moderator recognizes 'Assistant Superintendent Richard Seaman' to present the budget [28]; self-describes as finance superintendent [30]; 'from years on the board as well as doing it here' [95])"
+  },
+  "52": {
+   "name": "Richard Seaman",
+   "role": "Assistant Superintendent for Finance, Operations and Human Resources, SAU 6 (moderator recognizes 'Assistant Superintendent Richard Seaman' to present the budget [28]; self-describes as finance superintendent [30]; 'from years on the board as well as doing it here' [95])"
+  },
+  "53": {
+   "name": "Richard Seaman",
+   "role": "Assistant Superintendent for Finance, Operations and Human Resources, SAU 6 (moderator recognizes 'Assistant Superintendent Richard Seaman' to present the budget [28]; self-describes as finance superintendent [30]; 'from years on the board as well as doing it here' [95])"
+  },
+  "54": {
+   "name": "Richard Seaman",
+   "role": "Assistant Superintendent for Finance, Operations and Human Resources, SAU 6 (moderator recognizes 'Assistant Superintendent Richard Seaman' to present the budget [28]; self-describes as finance superintendent [30]; 'from years on the board as well as doing it here' [95])"
+  },
+  "55": {
+   "name": "Richard Seaman",
+   "role": "Assistant Superintendent for Finance, Operations and Human Resources, SAU 6 (moderator recognizes 'Assistant Superintendent Richard Seaman' to present the budget [28]; self-describes as finance superintendent [30]; 'from years on the board as well as doing it here' [95])"
+  },
+  "56": {
+   "name": "Richard Seaman",
+   "role": "Assistant Superintendent for Finance, Operations and Human Resources, SAU 6 (moderator recognizes 'Assistant Superintendent Richard Seaman' to present the budget [28]; self-describes as finance superintendent [30]; 'from years on the board as well as doing it here' [95])"
+  },
+  "57": {
+   "name": "Richard Seaman",
+   "role": "Assistant Superintendent for Finance, Operations and Human Resources, SAU 6 (moderator recognizes 'Assistant Superintendent Richard Seaman' to present the budget [28]; self-describes as finance superintendent [30]; 'from years on the board as well as doing it here' [95])"
+  },
+  "58": {
+   "name": "Richard Seaman",
+   "role": "Assistant Superintendent for Finance, Operations and Human Resources, SAU 6 (moderator recognizes 'Assistant Superintendent Richard Seaman' to present the budget [28]; self-describes as finance superintendent [30]; 'from years on the board as well as doing it here' [95])"
+  },
+  "59": {
+   "name": "Richard Seaman",
+   "role": "Assistant Superintendent for Finance, Operations and Human Resources, SAU 6 (moderator recognizes 'Assistant Superintendent Richard Seaman' to present the budget [28]; self-describes as finance superintendent [30]; 'from years on the board as well as doing it here' [95])"
+  },
+  "60": {
+   "name": "Richard Seaman",
+   "role": "Assistant Superintendent for Finance, Operations and Human Resources, SAU 6 (moderator recognizes 'Assistant Superintendent Richard Seaman' to present the budget [28]; self-describes as finance superintendent [30]; 'from years on the board as well as doing it here' [95])"
+  },
+  "61": {
+   "name": "Richard Seaman",
+   "role": "Assistant Superintendent for Finance, Operations and Human Resources, SAU 6 (moderator recognizes 'Assistant Superintendent Richard Seaman' to present the budget [28]; self-describes as finance superintendent [30]; 'from years on the board as well as doing it here' [95])"
+  },
+  "62": {
+   "name": "Richard Seaman",
+   "role": "Assistant Superintendent for Finance, Operations and Human Resources, SAU 6 (moderator recognizes 'Assistant Superintendent Richard Seaman' to present the budget [28]; self-describes as finance superintendent [30]; 'from years on the board as well as doing it here' [95])"
+  },
+  "74": {
+   "name": "Richard Seaman",
+   "role": "Assistant Superintendent for Finance, Operations and Human Resources, SAU 6 (moderator recognizes 'Assistant Superintendent Richard Seaman' to present the budget [28]; self-describes as finance superintendent [30]; 'from years on the board as well as doing it here' [95])"
+  },
+  "75": {
+   "name": "Richard Seaman",
+   "role": "Assistant Superintendent for Finance, Operations and Human Resources, SAU 6 (moderator recognizes 'Assistant Superintendent Richard Seaman' to present the budget [28]; self-describes as finance superintendent [30]; 'from years on the board as well as doing it here' [95])"
+  },
+  "76": {
+   "name": "Richard Seaman",
+   "role": "Assistant Superintendent for Finance, Operations and Human Resources, SAU 6 (moderator recognizes 'Assistant Superintendent Richard Seaman' to present the budget [28]; self-describes as finance superintendent [30]; 'from years on the board as well as doing it here' [95])"
+  },
+  "77": {
+   "name": "Richard Seaman",
+   "role": "Assistant Superintendent for Finance, Operations and Human Resources, SAU 6 (moderator recognizes 'Assistant Superintendent Richard Seaman' to present the budget [28]; self-describes as finance superintendent [30]; 'from years on the board as well as doing it here' [95])"
+  },
+  "78": {
+   "name": "Richard Seaman",
+   "role": "Assistant Superintendent for Finance, Operations and Human Resources, SAU 6 (moderator recognizes 'Assistant Superintendent Richard Seaman' to present the budget [28]; self-describes as finance superintendent [30]; 'from years on the board as well as doing it here' [95])"
+  },
+  "79": {
+   "name": "Richard Seaman",
+   "role": "Assistant Superintendent for Finance, Operations and Human Resources, SAU 6 (moderator recognizes 'Assistant Superintendent Richard Seaman' to present the budget [28]; self-describes as finance superintendent [30]; 'from years on the board as well as doing it here' [95])"
+  },
+  "80": {
+   "name": "Richard Seaman",
+   "role": "Assistant Superintendent for Finance, Operations and Human Resources, SAU 6 (moderator recognizes 'Assistant Superintendent Richard Seaman' to present the budget [28]; self-describes as finance superintendent [30]; 'from years on the board as well as doing it here' [95])"
+  },
+  "81": {
+   "name": "Richard Seaman",
+   "role": "Assistant Superintendent for Finance, Operations and Human Resources, SAU 6 (moderator recognizes 'Assistant Superintendent Richard Seaman' to present the budget [28]; self-describes as finance superintendent [30]; 'from years on the board as well as doing it here' [95])"
+  },
+  "82": {
+   "name": "Richard Seaman",
+   "role": "Assistant Superintendent for Finance, Operations and Human Resources, SAU 6 (moderator recognizes 'Assistant Superintendent Richard Seaman' to present the budget [28]; self-describes as finance superintendent [30]; 'from years on the board as well as doing it here' [95])"
+  },
+  "83": {
+   "name": "Richard Seaman",
+   "role": "Assistant Superintendent for Finance, Operations and Human Resources, SAU 6 (moderator recognizes 'Assistant Superintendent Richard Seaman' to present the budget [28]; self-describes as finance superintendent [30]; 'from years on the board as well as doing it here' [95])"
+  },
+  "84": {
+   "name": "Richard Seaman",
+   "role": "Assistant Superintendent for Finance, Operations and Human Resources, SAU 6 (moderator recognizes 'Assistant Superintendent Richard Seaman' to present the budget [28]; self-describes as finance superintendent [30]; 'from years on the board as well as doing it here' [95])"
+  },
+  "85": {
+   "name": "Richard Seaman",
+   "role": "Assistant Superintendent for Finance, Operations and Human Resources, SAU 6 (moderator recognizes 'Assistant Superintendent Richard Seaman' to present the budget [28]; self-describes as finance superintendent [30]; 'from years on the board as well as doing it here' [95])"
+  },
+  "86": {
+   "name": "Richard Seaman",
+   "role": "Assistant Superintendent for Finance, Operations and Human Resources, SAU 6 (moderator recognizes 'Assistant Superintendent Richard Seaman' to present the budget [28]; self-describes as finance superintendent [30]; 'from years on the board as well as doing it here' [95])"
+  },
+  "87": {
+   "name": "Richard Seaman",
+   "role": "Assistant Superintendent for Finance, Operations and Human Resources, SAU 6 (moderator recognizes 'Assistant Superintendent Richard Seaman' to present the budget [28]; self-describes as finance superintendent [30]; 'from years on the board as well as doing it here' [95])"
+  },
+  "95": {
+   "name": "Richard Seaman",
+   "role": "Assistant Superintendent for Finance, Operations and Human Resources, SAU 6 (moderator recognizes 'Assistant Superintendent Richard Seaman' to present the budget [28]; self-describes as finance superintendent [30]; 'from years on the board as well as doing it here' [95])"
+  },
+  "96": {
+   "name": "Richard Seaman",
+   "role": "Assistant Superintendent for Finance, Operations and Human Resources, SAU 6 (moderator recognizes 'Assistant Superintendent Richard Seaman' to present the budget [28]; self-describes as finance superintendent [30]; 'from years on the board as well as doing it here' [95])"
+  },
+  "97": {
+   "name": "Richard Seaman",
+   "role": "Assistant Superintendent for Finance, Operations and Human Resources, SAU 6 (moderator recognizes 'Assistant Superintendent Richard Seaman' to present the budget [28]; self-describes as finance superintendent [30]; 'from years on the board as well as doing it here' [95])"
+  },
+  "98": {
+   "name": "Richard Seaman",
+   "role": "Assistant Superintendent for Finance, Operations and Human Resources, SAU 6 (moderator recognizes 'Assistant Superintendent Richard Seaman' to present the budget [28]; self-describes as finance superintendent [30]; 'from years on the board as well as doing it here' [95])"
+  },
+  "99": {
+   "name": "Richard Seaman",
+   "role": "Assistant Superintendent for Finance, Operations and Human Resources, SAU 6 (moderator recognizes 'Assistant Superintendent Richard Seaman' to present the budget [28]; self-describes as finance superintendent [30]; 'from years on the board as well as doing it here' [95])"
+  },
+  "100": {
+   "name": "Richard Seaman",
+   "role": "Assistant Superintendent for Finance, Operations and Human Resources, SAU 6 (moderator recognizes 'Assistant Superintendent Richard Seaman' to present the budget [28]; self-describes as finance superintendent [30]; 'from years on the board as well as doing it here' [95])"
+  },
+  "104": {
+   "name": "Richard Seaman",
+   "role": "Assistant Superintendent for Finance, Operations and Human Resources, SAU 6 (moderator recognizes 'Assistant Superintendent Richard Seaman' to present the budget [28]; self-describes as finance superintendent [30]; 'from years on the board as well as doing it here' [95])"
+  },
+  "105": {
+   "name": "Richard Seaman",
+   "role": "Assistant Superintendent for Finance, Operations and Human Resources, SAU 6 (moderator recognizes 'Assistant Superintendent Richard Seaman' to present the budget [28]; self-describes as finance superintendent [30]; 'from years on the board as well as doing it here' [95])"
+  },
+  "106": {
+   "name": "Richard Seaman",
+   "role": "Assistant Superintendent for Finance, Operations and Human Resources, SAU 6 (moderator recognizes 'Assistant Superintendent Richard Seaman' to present the budget [28]; self-describes as finance superintendent [30]; 'from years on the board as well as doing it here' [95])"
+  },
+  "126": {
+   "name": "Richard Seaman",
+   "role": "Assistant Superintendent for Finance, Operations and Human Resources, SAU 6 (moderator recognizes 'Assistant Superintendent Richard Seaman' to present the budget [28]; self-describes as finance superintendent [30]; 'from years on the board as well as doing it here' [95])"
+  },
+  "127": {
+   "name": "Richard Seaman",
+   "role": "Assistant Superintendent for Finance, Operations and Human Resources, SAU 6 (moderator recognizes 'Assistant Superintendent Richard Seaman' to present the budget [28]; self-describes as finance superintendent [30]; 'from years on the board as well as doing it here' [95])"
+  },
+  "132": {
+   "name": "Richard Seaman",
+   "role": "Assistant Superintendent for Finance, Operations and Human Resources, SAU 6 (moderator recognizes 'Assistant Superintendent Richard Seaman' to present the budget [28]; self-describes as finance superintendent [30]; 'from years on the board as well as doing it here' [95])"
+  },
+  "133": {
+   "name": "Richard Seaman",
+   "role": "Assistant Superintendent for Finance, Operations and Human Resources, SAU 6 (moderator recognizes 'Assistant Superintendent Richard Seaman' to present the budget [28]; self-describes as finance superintendent [30]; 'from years on the board as well as doing it here' [95])"
+  },
+  "297": {
+   "name": "Richard Seaman",
+   "role": "Assistant Superintendent for Finance, Operations and Human Resources, SAU 6 (moderator recognizes 'Assistant Superintendent Richard Seaman' to present the budget [28]; self-describes as finance superintendent [30]; 'from years on the board as well as doing it here' [95])"
+  },
+  "298": {
+   "name": "Richard Seaman",
+   "role": "Assistant Superintendent for Finance, Operations and Human Resources, SAU 6 (moderator recognizes 'Assistant Superintendent Richard Seaman' to present the budget [28]; self-describes as finance superintendent [30]; 'from years on the board as well as doing it here' [95])"
+  },
+  "71": {
+   "name": "Michael Tempesta",
+   "role": "Superintendent, SAU 6 (uncertain - not named on this segment; answers as administrator and defers to 'Richard' on the default budget [91])"
+  },
+  "72": {
+   "name": "Michael Tempesta",
+   "role": "Superintendent, SAU 6 (uncertain - not named on this segment; answers as administrator and defers to 'Richard' on the default budget [91])"
+  },
+  "73": {
+   "name": "Michael Tempesta",
+   "role": "Superintendent, SAU 6 (uncertain - not named on this segment; answers as administrator and defers to 'Richard' on the default budget [91])"
+  },
+  "91": {
+   "name": "Michael Tempesta",
+   "role": "Superintendent, SAU 6 (uncertain - not named on this segment; answers as administrator and defers to 'Richard' on the default budget [91])"
+  },
+  "92": {
+   "name": "Michael Tempesta",
+   "role": "Superintendent, SAU 6 (uncertain - not named on this segment; answers as administrator and defers to 'Richard' on the default budget [91])"
+  },
+  "66": {
+   "name": "Candace Crawford",
+   "role": "Public commenter, Ward 2 (self-ID [66])"
+  },
+  "67": {
+   "name": "Candace Crawford",
+   "role": "Public commenter, Ward 2 (self-ID [66])"
+  },
+  "68": {
+   "name": "Candace Crawford",
+   "role": "Public commenter, Ward 2 (self-ID [66])"
+  },
+  "69": {
+   "name": "Candace Crawford",
+   "role": "Public commenter, Ward 2 (self-ID [66])"
+  },
+  "70": {
+   "name": "Candace Crawford",
+   "role": "Public commenter, Ward 2 (self-ID [66])"
+  },
+  "89": {
+   "name": "Candace Crawford",
+   "role": "Public commenter, Ward 2 (self-ID [66])"
+  },
+  "90": {
+   "name": "Candace Crawford",
+   "role": "Public commenter, Ward 2 (self-ID [66])"
+  },
+  "101": {
+   "name": "Candace Crawford",
+   "role": "Public commenter, Ward 2 (self-ID [66])"
+  },
+  "102": {
+   "name": "Candace Crawford",
+   "role": "Public commenter, Ward 2 (self-ID [66])"
+  },
+  "103": {
+   "name": "Candace Crawford",
+   "role": "Public commenter, Ward 2 (self-ID [66])"
+  },
+  "111": {
+   "name": "Unidentified",
+   "role": "Unidentified - public commenter on tech center priorities (moderator's recognition at [110] garbled, 'Ben Miller')"
+  },
+  "112": {
+   "name": "Unidentified",
+   "role": "Unidentified - public commenter on tech center priorities (moderator's recognition at [110] garbled, 'Ben Miller')"
+  },
+  "113": {
+   "name": "Unidentified",
+   "role": "Unidentified - public commenter on tech center priorities (moderator's recognition at [110] garbled, 'Ben Miller')"
+  },
+  "114": {
+   "name": "Unidentified",
+   "role": "Unidentified - board member explaining the 0.5 tech center director position ('what we're told by the administration')"
+  },
+  "115": {
+   "name": "Unidentified",
+   "role": "Unidentified - board member explaining the 0.5 tech center director position ('what we're told by the administration')"
+  },
+  "116": {
+   "name": "Unidentified",
+   "role": "Unidentified - board member explaining the 0.5 tech center director position ('what we're told by the administration')"
+  },
+  "117": {
+   "name": "Unidentified",
+   "role": "Unidentified - board member explaining the 0.5 tech center director position ('what we're told by the administration')"
+  },
+  "118": {
+   "name": "Andy",
+   "role": "Public commenter, Ward 3, vice chair of the Claremont Development Authority (self-ID 'Andy Ward three' [118]; surname not given)"
+  },
+  "119": {
+   "name": "Andy",
+   "role": "Public commenter, Ward 3, vice chair of the Claremont Development Authority (self-ID 'Andy Ward three' [118]; surname not given)"
+  },
+  "120": {
+   "name": "Andy",
+   "role": "Public commenter, Ward 3, vice chair of the Claremont Development Authority (self-ID 'Andy Ward three' [118]; surname not given)"
+  },
+  "121": {
+   "name": "Andy",
+   "role": "Public commenter, Ward 3, vice chair of the Claremont Development Authority (self-ID 'Andy Ward three' [118]; surname not given)"
+  },
+  "122": {
+   "name": "Andy",
+   "role": "Public commenter, Ward 3, vice chair of the Claremont Development Authority (self-ID 'Andy Ward three' [118]; surname not given)"
+  },
+  "123": {
+   "name": "Gary Merchant",
+   "role": "Public commenter (self-ID 'Gary Merchant' [123, 130, 301]; moderator's 'Mr. Martin' [300] is ASR; the 4/6/2022 meeting names 'Mister Merchant', a state representative)"
+  },
+  "124": {
+   "name": "Gary Merchant",
+   "role": "Public commenter (self-ID 'Gary Merchant' [123, 130, 301]; moderator's 'Mr. Martin' [300] is ASR; the 4/6/2022 meeting names 'Mister Merchant', a state representative)"
+  },
+  "128": {
+   "name": "Gary Merchant",
+   "role": "Public commenter (self-ID 'Gary Merchant' [123, 130, 301]; moderator's 'Mr. Martin' [300] is ASR; the 4/6/2022 meeting names 'Mister Merchant', a state representative)"
+  },
+  "130": {
+   "name": "Gary Merchant",
+   "role": "Public commenter (self-ID 'Gary Merchant' [123, 130, 301]; moderator's 'Mr. Martin' [300] is ASR; the 4/6/2022 meeting names 'Mister Merchant', a state representative)"
+  },
+  "131": {
+   "name": "Gary Merchant",
+   "role": "Public commenter (self-ID 'Gary Merchant' [123, 130, 301]; moderator's 'Mr. Martin' [300] is ASR; the 4/6/2022 meeting names 'Mister Merchant', a state representative)"
+  },
+  "191": {
+   "name": "Gary Merchant",
+   "role": "Public commenter (self-ID 'Gary Merchant' [123, 130, 301]; moderator's 'Mr. Martin' [300] is ASR; the 4/6/2022 meeting names 'Mister Merchant', a state representative)"
+  },
+  "192": {
+   "name": "Gary Merchant",
+   "role": "Public commenter (self-ID 'Gary Merchant' [123, 130, 301]; moderator's 'Mr. Martin' [300] is ASR; the 4/6/2022 meeting names 'Mister Merchant', a state representative)"
+  },
+  "193": {
+   "name": "Gary Merchant",
+   "role": "Public commenter (self-ID 'Gary Merchant' [123, 130, 301]; moderator's 'Mr. Martin' [300] is ASR; the 4/6/2022 meeting names 'Mister Merchant', a state representative)"
+  },
+  "301": {
+   "name": "Gary Merchant",
+   "role": "Public commenter (self-ID 'Gary Merchant' [123, 130, 301]; moderator's 'Mr. Martin' [300] is ASR; the 4/6/2022 meeting names 'Mister Merchant', a state representative)"
+  },
+  "302": {
+   "name": "Gary Merchant",
+   "role": "Public commenter (self-ID 'Gary Merchant' [123, 130, 301]; moderator's 'Mr. Martin' [300] is ASR; the 4/6/2022 meeting names 'Mister Merchant', a state representative)"
+  },
+  "125": {
+   "name": "Unidentified",
+   "role": "Unidentified - one-word interjection"
+  },
+  "136": {
+   "name": "Allen Damren",
+   "role": "Public commenter, Ward 1, mover of both tech center amendments (ASR 'Helen Damron, Ward one' [136]; moderator 'Mr. Darmon' [135], 'Mr. Dammann' [278]; spelling per roster, identity with the former Assistant Mayor uncertain)"
+  },
+  "137": {
+   "name": "Allen Damren",
+   "role": "Public commenter, Ward 1, mover of both tech center amendments (ASR 'Helen Damron, Ward one' [136]; moderator 'Mr. Darmon' [135], 'Mr. Dammann' [278]; spelling per roster, identity with the former Assistant Mayor uncertain)"
+  },
+  "138": {
+   "name": "Allen Damren",
+   "role": "Public commenter, Ward 1, mover of both tech center amendments (ASR 'Helen Damron, Ward one' [136]; moderator 'Mr. Darmon' [135], 'Mr. Dammann' [278]; spelling per roster, identity with the former Assistant Mayor uncertain)"
+  },
+  "140": {
+   "name": "Allen Damren",
+   "role": "Public commenter, Ward 1, mover of both tech center amendments (ASR 'Helen Damron, Ward one' [136]; moderator 'Mr. Darmon' [135], 'Mr. Dammann' [278]; spelling per roster, identity with the former Assistant Mayor uncertain)"
+  },
+  "142": {
+   "name": "Allen Damren",
+   "role": "Public commenter, Ward 1, mover of both tech center amendments (ASR 'Helen Damron, Ward one' [136]; moderator 'Mr. Darmon' [135], 'Mr. Dammann' [278]; spelling per roster, identity with the former Assistant Mayor uncertain)"
+  },
+  "279": {
+   "name": "Allen Damren",
+   "role": "Public commenter, Ward 1, mover of both tech center amendments (ASR 'Helen Damron, Ward one' [136]; moderator 'Mr. Darmon' [135], 'Mr. Dammann' [278]; spelling per roster, identity with the former Assistant Mayor uncertain)"
+  },
+  "280": {
+   "name": "Allen Damren",
+   "role": "Public commenter, Ward 1, mover of both tech center amendments (ASR 'Helen Damron, Ward one' [136]; moderator 'Mr. Darmon' [135], 'Mr. Dammann' [278]; spelling per roster, identity with the former Assistant Mayor uncertain)"
+  },
+  "281": {
+   "name": "Allen Damren",
+   "role": "Public commenter, Ward 1, mover of both tech center amendments (ASR 'Helen Damron, Ward one' [136]; moderator 'Mr. Darmon' [135], 'Mr. Dammann' [278]; spelling per roster, identity with the former Assistant Mayor uncertain)"
+  },
+  "145": {
+   "name": "McKean",
+   "role": "Public commenter, Ward 1, district employee and president of the Claremont paraprofessional association (ASR 'McKean' [144, 347]; first name not given)"
+  },
+  "146": {
+   "name": "McKean",
+   "role": "Public commenter, Ward 1, district employee and president of the Claremont paraprofessional association (ASR 'McKean' [144, 347]; first name not given)"
+  },
+  "147": {
+   "name": "McKean",
+   "role": "Public commenter, Ward 1, district employee and president of the Claremont paraprofessional association (ASR 'McKean' [144, 347]; first name not given)"
+  },
+  "148": {
+   "name": "McKean",
+   "role": "Public commenter, Ward 1, district employee and president of the Claremont paraprofessional association (ASR 'McKean' [144, 347]; first name not given)"
+  },
+  "347": {
+   "name": "McKean",
+   "role": "Public commenter, Ward 1, district employee and president of the Claremont paraprofessional association (ASR 'McKean' [144, 347]; first name not given)"
+  },
+  "154": {
+   "name": "Unidentified",
+   "role": "Unidentified - public commenter asking about the full-time tech center director"
+  },
+  "156": {
+   "name": "Unidentified",
+   "role": "Unidentified - tech center teacher answering questions on CTE director history and enrollment [156-168, 225-228]; name not stated"
+  },
+  "157": {
+   "name": "Unidentified",
+   "role": "Unidentified - tech center teacher answering questions on CTE director history and enrollment [156-168, 225-228]; name not stated"
+  },
+  "158": {
+   "name": "Unidentified",
+   "role": "Unidentified - tech center teacher answering questions on CTE director history and enrollment [156-168, 225-228]; name not stated"
+  },
+  "159": {
+   "name": "Unidentified",
+   "role": "Unidentified - tech center teacher answering questions on CTE director history and enrollment [156-168, 225-228]; name not stated"
+  },
+  "160": {
+   "name": "Unidentified",
+   "role": "Unidentified - tech center teacher answering questions on CTE director history and enrollment [156-168, 225-228]; name not stated"
+  },
+  "164": {
+   "name": "Unidentified",
+   "role": "Unidentified - tech center teacher answering questions on CTE director history and enrollment [156-168, 225-228]; name not stated"
+  },
+  "165": {
+   "name": "Unidentified",
+   "role": "Unidentified - tech center teacher answering questions on CTE director history and enrollment [156-168, 225-228]; name not stated"
+  },
+  "166": {
+   "name": "Unidentified",
+   "role": "Unidentified - tech center teacher answering questions on CTE director history and enrollment [156-168, 225-228]; name not stated"
+  },
+  "168": {
+   "name": "Unidentified",
+   "role": "Unidentified - tech center teacher answering questions on CTE director history and enrollment [156-168, 225-228]; name not stated"
+  },
+  "225": {
+   "name": "Unidentified",
+   "role": "Unidentified - tech center teacher answering questions on CTE director history and enrollment [156-168, 225-228]; name not stated"
+  },
+  "226": {
+   "name": "Unidentified",
+   "role": "Unidentified - tech center teacher answering questions on CTE director history and enrollment [156-168, 225-228]; name not stated"
+  },
+  "227": {
+   "name": "Unidentified",
+   "role": "Unidentified - tech center teacher answering questions on CTE director history and enrollment [156-168, 225-228]; name not stated"
+  },
+  "228": {
+   "name": "Unidentified",
+   "role": "Unidentified - tech center teacher answering questions on CTE director history and enrollment [156-168, 225-228]; name not stated"
+  },
+  "172": {
+   "name": "Unidentified",
+   "role": "Unidentified - public commenter asking whether amendment money can be earmarked and about the four district-wide positions"
+  },
+  "174": {
+   "name": "Unidentified",
+   "role": "Unidentified - public commenter asking whether amendment money can be earmarked and about the four district-wide positions"
+  },
+  "176": {
+   "name": "Unidentified",
+   "role": "Unidentified - public commenter asking whether amendment money can be earmarked and about the four district-wide positions"
+  },
+  "178": {
+   "name": "Unidentified",
+   "role": "Unidentified - public commenter asking whether amendment money can be earmarked and about the four district-wide positions"
+  },
+  "179": {
+   "name": "Unidentified",
+   "role": "Unidentified - public commenter asking whether amendment money can be earmarked and about the four district-wide positions"
+  },
+  "173": {
+   "name": "Unidentified",
+   "role": "Unidentified - administration or counsel answering on amendment procedure"
+  },
+  "175": {
+   "name": "Unidentified",
+   "role": "Unidentified - administration or counsel answering on amendment procedure"
+  },
+  "177": {
+   "name": "Unidentified",
+   "role": "Unidentified - administration or counsel answering on amendment procedure"
+  },
+  "190": {
+   "name": "Unidentified",
+   "role": "Unidentified - board or administration responder"
+  },
+  "194": {
+   "name": "Unidentified",
+   "role": "Unidentified - board or administration responder"
+  },
+  "196": {
+   "name": "Derek Bergman",
+   "role": "Public commenter, Ward 3 (self-ID 'Derek Bergman, Ward three' [196], 'Derek Ward three' [285])"
+  },
+  "197": {
+   "name": "Derek Bergman",
+   "role": "Public commenter, Ward 3 (self-ID 'Derek Bergman, Ward three' [196], 'Derek Ward three' [285])"
+  },
+  "198": {
+   "name": "Derek Bergman",
+   "role": "Public commenter, Ward 3 (self-ID 'Derek Bergman, Ward three' [196], 'Derek Ward three' [285])"
+  },
+  "199": {
+   "name": "Derek Bergman",
+   "role": "Public commenter, Ward 3 (self-ID 'Derek Bergman, Ward three' [196], 'Derek Ward three' [285])"
+  },
+  "200": {
+   "name": "Derek Bergman",
+   "role": "Public commenter, Ward 3 (self-ID 'Derek Bergman, Ward three' [196], 'Derek Ward three' [285])"
+  },
+  "201": {
+   "name": "Derek Bergman",
+   "role": "Public commenter, Ward 3 (self-ID 'Derek Bergman, Ward three' [196], 'Derek Ward three' [285])"
+  },
+  "202": {
+   "name": "Derek Bergman",
+   "role": "Public commenter, Ward 3 (self-ID 'Derek Bergman, Ward three' [196], 'Derek Ward three' [285])"
+  },
+  "203": {
+   "name": "Derek Bergman",
+   "role": "Public commenter, Ward 3 (self-ID 'Derek Bergman, Ward three' [196], 'Derek Ward three' [285])"
+  },
+  "285": {
+   "name": "Derek Bergman",
+   "role": "Public commenter, Ward 3 (self-ID 'Derek Bergman, Ward three' [196], 'Derek Ward three' [285])"
+  },
+  "286": {
+   "name": "Derek Bergman",
+   "role": "Public commenter, Ward 3 (self-ID 'Derek Bergman, Ward three' [196], 'Derek Ward three' [285])"
+  },
+  "287": {
+   "name": "Derek Bergman",
+   "role": "Public commenter, Ward 3 (self-ID 'Derek Bergman, Ward three' [196], 'Derek Ward three' [285])"
+  },
+  "288": {
+   "name": "Derek Bergman",
+   "role": "Public commenter, Ward 3 (self-ID 'Derek Bergman, Ward three' [196], 'Derek Ward three' [285])"
+  },
+  "289": {
+   "name": "Derek Bergman",
+   "role": "Public commenter, Ward 3 (self-ID 'Derek Bergman, Ward three' [196], 'Derek Ward three' [285])"
+  },
+  "290": {
+   "name": "Derek Bergman",
+   "role": "Public commenter, Ward 3 (self-ID 'Derek Bergman, Ward three' [196], 'Derek Ward three' [285])"
+  },
+  "291": {
+   "name": "Derek Bergman",
+   "role": "Public commenter, Ward 3 (self-ID 'Derek Bergman, Ward three' [196], 'Derek Ward three' [285])"
+  },
+  "292": {
+   "name": "Derek Bergman",
+   "role": "Public commenter, Ward 3 (self-ID 'Derek Bergman, Ward three' [196], 'Derek Ward three' [285])"
+  },
+  "293": {
+   "name": "Derek Bergman",
+   "role": "Public commenter, Ward 3 (self-ID 'Derek Bergman, Ward three' [196], 'Derek Ward three' [285])"
+  },
+  "204": {
+   "name": "Bonnie Miles",
+   "role": "Public commenter, Ward 2 (ASR 'born and Miles ... Ward two' [204])"
+  },
+  "205": {
+   "name": "Bonnie Miles",
+   "role": "Public commenter, Ward 2 (ASR 'born and Miles ... Ward two' [204])"
+  },
+  "206": {
+   "name": "Bonnie Miles",
+   "role": "Public commenter, Ward 2 (ASR 'born and Miles ... Ward two' [204])"
+  },
+  "207": {
+   "name": "Bonnie Miles",
+   "role": "Public commenter, Ward 2 (ASR 'born and Miles ... Ward two' [204])"
+  },
+  "208": {
+   "name": "Bonnie Miles",
+   "role": "Public commenter, Ward 2 (ASR 'born and Miles ... Ward two' [204])"
+  },
+  "209": {
+   "name": "Bonnie Miles",
+   "role": "Public commenter, Ward 2 (ASR 'born and Miles ... Ward two' [204])"
+  },
+  "210": {
+   "name": "Bonnie Miles",
+   "role": "Public commenter, Ward 2 (ASR 'born and Miles ... Ward two' [204])"
+  },
+  "211": {
+   "name": "Bonnie Miles",
+   "role": "Public commenter, Ward 2 (ASR 'born and Miles ... Ward two' [204])"
+  },
+  "212": {
+   "name": "Unidentified",
+   "role": "Unidentified - public commenter on Claremont's image (possibly Bonnie Miles continuing, uncertain)"
+  },
+  "213": {
+   "name": "Unidentified",
+   "role": "Unidentified - public commenter on Claremont's image (possibly Bonnie Miles continuing, uncertain)"
+  },
+  "214": {
+   "name": "Unidentified",
+   "role": "Unidentified - public commenter on Claremont's image (possibly Bonnie Miles continuing, uncertain)"
+  },
+  "217": {
+   "name": "Tom Gallagher",
+   "role": "Public commenter, Ward 1, new resident (ASR 'Tom Gallagher avenue, Ward one' [217])"
+  },
+  "218": {
+   "name": "Tom Gallagher",
+   "role": "Public commenter, Ward 1, new resident (ASR 'Tom Gallagher avenue, Ward one' [217])"
+  },
+  "220": {
+   "name": "Tom Gallagher",
+   "role": "Public commenter, Ward 1, new resident (ASR 'Tom Gallagher avenue, Ward one' [217])"
+  },
+  "221": {
+   "name": "Tom Gallagher",
+   "role": "Public commenter, Ward 1, new resident (ASR 'Tom Gallagher avenue, Ward one' [217])"
+  },
+  "222": {
+   "name": "Tom Gallagher",
+   "role": "Public commenter, Ward 1, new resident (ASR 'Tom Gallagher avenue, Ward one' [217])"
+  },
+  "223": {
+   "name": "Tom Gallagher",
+   "role": "Public commenter, Ward 1, new resident (ASR 'Tom Gallagher avenue, Ward one' [217])"
+  },
+  "224": {
+   "name": "Tom Gallagher",
+   "role": "Public commenter, Ward 1, new resident (ASR 'Tom Gallagher avenue, Ward one' [217])"
+  },
+  "230": {
+   "name": "David",
+   "role": "Public commenter (ASR 'Hi, David' [230]; surname not given)"
+  },
+  "231": {
+   "name": "David",
+   "role": "Public commenter (ASR 'Hi, David' [230]; surname not given)"
+  },
+  "232": {
+   "name": "David",
+   "role": "Public commenter (ASR 'Hi, David' [230]; surname not given)"
+  },
+  "237": {
+   "name": "Unidentified",
+   "role": "Unidentified - voter moving the question"
+  },
+  "263": {
+   "name": "Unidentified",
+   "role": "Unidentified - off-mic conversation during balloting"
+  },
+  "264": {
+   "name": "Unidentified",
+   "role": "Unidentified - off-mic conversation during balloting"
+  },
+  "265": {
+   "name": "Unidentified",
+   "role": "Unidentified - off-mic conversation during balloting"
+  },
+  "266": {
+   "name": "Unidentified",
+   "role": "Unidentified - off-mic conversation during balloting"
+  },
+  "267": {
+   "name": "Unidentified",
+   "role": "Unidentified - off-mic conversation during balloting"
+  },
+  "269": {
+   "name": "Tom Kinnear",
+   "role": "Public commenter, Ward 2 (ASR 'Tom Kinnear, Ward two' [269]; spelling unverified)"
+  },
+  "271": {
+   "name": "Tom Kinnear",
+   "role": "Public commenter, Ward 2 (ASR 'Tom Kinnear, Ward two' [269]; spelling unverified)"
+  },
+  "272": {
+   "name": "Tom Kinnear",
+   "role": "Public commenter, Ward 2 (ASR 'Tom Kinnear, Ward two' [269]; spelling unverified)"
+  },
+  "273": {
+   "name": "Tom Kinnear",
+   "role": "Public commenter, Ward 2 (ASR 'Tom Kinnear, Ward two' [269]; spelling unverified)"
+  },
+  "274": {
+   "name": "Tom Kinnear",
+   "role": "Public commenter, Ward 2 (ASR 'Tom Kinnear, Ward two' [269]; spelling unverified)"
+  },
+  "275": {
+   "name": "Tom Kinnear",
+   "role": "Public commenter, Ward 2 (ASR 'Tom Kinnear, Ward two' [269]; spelling unverified)"
+  },
+  "276": {
+   "name": "Tom Kinnear",
+   "role": "Public commenter, Ward 2 (ASR 'Tom Kinnear, Ward two' [269]; spelling unverified)"
+  },
+  "283": {
+   "name": "Unidentified",
+   "role": "Unidentified - voter asking whether the second amendment changes the default budget"
+  },
+  "303": {
+   "name": "Matt Upton",
+   "role": "District legal counsel, Drummond Woodsum (uncertain - not self-identified; answers on the 'line of cases' for earmarked amendments [308]; a speaker thanks 'the attorney' [312] and the chair cites 'as Matt indicated earlier' [344])"
+  },
+  "304": {
+   "name": "Matt Upton",
+   "role": "District legal counsel, Drummond Woodsum (uncertain - not self-identified; answers on the 'line of cases' for earmarked amendments [308]; a speaker thanks 'the attorney' [312] and the chair cites 'as Matt indicated earlier' [344])"
+  },
+  "305": {
+   "name": "Matt Upton",
+   "role": "District legal counsel, Drummond Woodsum (uncertain - not self-identified; answers on the 'line of cases' for earmarked amendments [308]; a speaker thanks 'the attorney' [312] and the chair cites 'as Matt indicated earlier' [344])"
+  },
+  "306": {
+   "name": "Matt Upton",
+   "role": "District legal counsel, Drummond Woodsum (uncertain - not self-identified; answers on the 'line of cases' for earmarked amendments [308]; a speaker thanks 'the attorney' [312] and the chair cites 'as Matt indicated earlier' [344])"
+  },
+  "307": {
+   "name": "Matt Upton",
+   "role": "District legal counsel, Drummond Woodsum (uncertain - not self-identified; answers on the 'line of cases' for earmarked amendments [308]; a speaker thanks 'the attorney' [312] and the chair cites 'as Matt indicated earlier' [344])"
+  },
+  "308": {
+   "name": "Matt Upton",
+   "role": "District legal counsel, Drummond Woodsum (uncertain - not self-identified; answers on the 'line of cases' for earmarked amendments [308]; a speaker thanks 'the attorney' [312] and the chair cites 'as Matt indicated earlier' [344])"
+  },
+  "309": {
+   "name": "Matt Upton",
+   "role": "District legal counsel, Drummond Woodsum (uncertain - not self-identified; answers on the 'line of cases' for earmarked amendments [308]; a speaker thanks 'the attorney' [312] and the chair cites 'as Matt indicated earlier' [344])"
+  },
+  "311": {
+   "name": "Unidentified",
+   "role": "Unidentified - public commenter, former member of another board"
+  },
+  "312": {
+   "name": "Unidentified",
+   "role": "Unidentified - public commenter, former member of another board"
+  },
+  "314": {
+   "name": "Unidentified",
+   "role": "Unidentified - voter moving the question"
+  },
+  "326": {
+   "name": "Rob Lovett Jr.",
+   "role": "Claremont School Board member (uncertain - moderator asks 'Mr. Levitt' to make the restrict-reconsideration motion [325])"
+  },
+  "331": {
+   "name": "Unidentified",
+   "role": "Unidentified - board member presenting Article 3 (secretaries agreement); not Sprague, who presents the other three bargaining articles [351]"
+  },
+  "332": {
+   "name": "Unidentified",
+   "role": "Unidentified - board member presenting Article 3 (secretaries agreement); not Sprague, who presents the other three bargaining articles [351]"
+  },
+  "333": {
+   "name": "Unidentified",
+   "role": "Unidentified - board member presenting Article 3 (secretaries agreement); not Sprague, who presents the other three bargaining articles [351]"
+  },
+  "338": {
+   "name": "Frank Sprague",
+   "role": "Claremont School Board Chair (moderator recognizes 'Chairman Sprague' [337, 365], 'Mr. Greg'/'Chair Greg' [340, 353, 361]; 'one of the benefits of being retired' [351])"
+  },
+  "339": {
+   "name": "Frank Sprague",
+   "role": "Claremont School Board Chair (moderator recognizes 'Chairman Sprague' [337, 365], 'Mr. Greg'/'Chair Greg' [340, 353, 361]; 'one of the benefits of being retired' [351])"
+  },
+  "341": {
+   "name": "Frank Sprague",
+   "role": "Claremont School Board Chair (moderator recognizes 'Chairman Sprague' [337, 365], 'Mr. Greg'/'Chair Greg' [340, 353, 361]; 'one of the benefits of being retired' [351])"
+  },
+  "344": {
+   "name": "Frank Sprague",
+   "role": "Claremont School Board Chair (moderator recognizes 'Chairman Sprague' [337, 365], 'Mr. Greg'/'Chair Greg' [340, 353, 361]; 'one of the benefits of being retired' [351])"
+  },
+  "345": {
+   "name": "Frank Sprague",
+   "role": "Claremont School Board Chair (moderator recognizes 'Chairman Sprague' [337, 365], 'Mr. Greg'/'Chair Greg' [340, 353, 361]; 'one of the benefits of being retired' [351])"
+  },
+  "351": {
+   "name": "Frank Sprague",
+   "role": "Claremont School Board Chair (moderator recognizes 'Chairman Sprague' [337, 365], 'Mr. Greg'/'Chair Greg' [340, 353, 361]; 'one of the benefits of being retired' [351])"
+  },
+  "352": {
+   "name": "Frank Sprague",
+   "role": "Claremont School Board Chair (moderator recognizes 'Chairman Sprague' [337, 365], 'Mr. Greg'/'Chair Greg' [340, 353, 361]; 'one of the benefits of being retired' [351])"
+  },
+  "355": {
+   "name": "Frank Sprague",
+   "role": "Claremont School Board Chair (moderator recognizes 'Chairman Sprague' [337, 365], 'Mr. Greg'/'Chair Greg' [340, 353, 361]; 'one of the benefits of being retired' [351])"
+  },
+  "356": {
+   "name": "Frank Sprague",
+   "role": "Claremont School Board Chair (moderator recognizes 'Chairman Sprague' [337, 365], 'Mr. Greg'/'Chair Greg' [340, 353, 361]; 'one of the benefits of being retired' [351])"
+  },
+  "357": {
+   "name": "Frank Sprague",
+   "role": "Claremont School Board Chair (moderator recognizes 'Chairman Sprague' [337, 365], 'Mr. Greg'/'Chair Greg' [340, 353, 361]; 'one of the benefits of being retired' [351])"
+  },
+  "362": {
+   "name": "Frank Sprague",
+   "role": "Claremont School Board Chair (moderator recognizes 'Chairman Sprague' [337, 365], 'Mr. Greg'/'Chair Greg' [340, 353, 361]; 'one of the benefits of being retired' [351])"
+  },
+  "363": {
+   "name": "Frank Sprague",
+   "role": "Claremont School Board Chair (moderator recognizes 'Chairman Sprague' [337, 365], 'Mr. Greg'/'Chair Greg' [340, 353, 361]; 'one of the benefits of being retired' [351])"
+  },
+  "366": {
+   "name": "Frank Sprague",
+   "role": "Claremont School Board Chair (moderator recognizes 'Chairman Sprague' [337, 365], 'Mr. Greg'/'Chair Greg' [340, 353, 361]; 'one of the benefits of being retired' [351])"
+  },
+  "368": {
+   "name": "Frank Sprague",
+   "role": "Claremont School Board Chair (moderator recognizes 'Chairman Sprague' [337, 365], 'Mr. Greg'/'Chair Greg' [340, 353, 361]; 'one of the benefits of being retired' [351])"
+  },
+  "369": {
+   "name": "Frank Sprague",
+   "role": "Claremont School Board Chair (moderator recognizes 'Chairman Sprague' [337, 365], 'Mr. Greg'/'Chair Greg' [340, 353, 361]; 'one of the benefits of being retired' [351])"
+  },
+  "370": {
+   "name": "Frank Sprague",
+   "role": "Claremont School Board Chair (moderator recognizes 'Chairman Sprague' [337, 365], 'Mr. Greg'/'Chair Greg' [340, 353, 361]; 'one of the benefits of being retired' [351])"
+  }
+ }
+}

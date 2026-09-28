@@ -1,0 +1,442 @@
+{
+ "Speaker 1": {
+  "name": "Marjorie Erickson",
+  "role": "SAU 6 Board Chair, Unity member (presides; identified by floor control, 'our public hearing in Unity' [419] and 'I've only been here for six years' [380]; name heard only in the roll call as 'Margaret Harrison' [3]; SAU chair per roster, uncertain - not addressed by name)"
+ },
+ "Speaker 2": {
+  "name": "Unidentified",
+  "role": "Diarized cluster mixing the roll caller, short answers by Richard Seaman and questions by Frank Sprague; residual segments not separable (see overrides)"
+ },
+ "Speaker 3": {
+  "name": "Richard Seaman",
+  "role": "Assistant Superintendent for Finance and Operations (business administrator), SAU 6 (addressed as 'Richard' [16]; answers budget questions; 'when I sat on the school board' [83]; cluster also carries Frank Sprague, see overrides)"
+ },
+ "Speaker 4": {
+  "name": "Unidentified",
+  "role": "SAU 6 Board member (asks about staff training, lighting retrofits, HR director backup and sick days; not named)"
+ },
+ "Speaker 5": {
+  "name": "Michael Tempesta",
+  "role": "Superintendent, SAU 6 (chair: 'discussion items under Superintendent Tempesta' [229]; presents the HR director and data specialist job descriptions)"
+ },
+ "Speaker 6": {
+  "name": "Patrick Adrian",
+  "role": "Public commenter, former Claremont School Board member (recognized by the chair as 'Patrick' [355, 371]; self-identification garbled 'Adrian. Fourth one.' [356], probably 'Patrick Adrian, Ward one'; 'when I was on the school board' [373])"
+ },
+ "Speaker 7": {
+  "name": "Unidentified",
+  "role": "SAU 6 Board member (comments on HR director experience requirements; not named)"
+ },
+ "Speaker 8": {
+  "name": "Unidentified",
+  "role": "Fragment during the data specialist presentation; voice not separable"
+ },
+ "Speaker 9": {
+  "name": "Unidentified",
+  "role": "SAU 6 Board member (qualifications question, responds to the public-hearing concern, moves to adjourn; not named; cluster also carries Patrick Adrian, see overrides)"
+ },
+ "Speaker 10": {
+  "name": "Unidentified",
+  "role": "Claremont School Board member explaining the rescheduled 1/11 regular meeting (not named)"
+ },
+ "__overrides__": {
+  "3": {
+   "name": "Unidentified",
+   "role": "Roll call: roll caller (not named) and members' responses in one segment; 'Margaret Harrison' = Marjorie Erickson, 'Gary' = Gary Bader"
+  },
+  "4": {
+   "name": "Unidentified",
+   "role": "Roll call: roll caller (not named) and members' responses in one segment; 'Margaret Harrison' = Marjorie Erickson, 'Gary' = Gary Bader"
+  },
+  "5": {
+   "name": "Unidentified",
+   "role": "Roll call: roll caller (not named) and members' responses in one segment; 'Margaret Harrison' = Marjorie Erickson, 'Gary' = Gary Bader"
+  },
+  "6": {
+   "name": "Unidentified",
+   "role": "Roll call: roll caller (not named) and members' responses in one segment; 'Margaret Harrison' = Marjorie Erickson, 'Gary' = Gary Bader"
+  },
+  "10": {
+   "name": "Unidentified",
+   "role": "SAU 6 Board member moving to approve the agenda (not named)"
+  },
+  "12": {
+   "name": "Unidentified",
+   "role": "SAU 6 Board member moving to approve the 12/1/2022 minutes (not named)"
+  },
+  "17": {
+   "name": "Richard Seaman"
+  },
+  "25": {
+   "name": "Frank Sprague"
+  },
+  "26": {
+   "name": "Richard Seaman"
+  },
+  "27": {
+   "name": "Frank Sprague"
+  },
+  "28": {
+   "name": "Richard Seaman"
+  },
+  "29": {
+   "name": "Frank Sprague"
+  },
+  "30": {
+   "name": "Frank Sprague"
+  },
+  "33": {
+   "name": "Frank Sprague"
+  },
+  "34": {
+   "name": "Richard Seaman"
+  },
+  "35": {
+   "name": "Frank Sprague"
+  },
+  "37": {
+   "name": "Richard Seaman"
+  },
+  "41": {
+   "name": "Marjorie Erickson"
+  },
+  "42": {
+   "name": "Frank Sprague"
+  },
+  "43": {
+   "name": "Richard Seaman"
+  },
+  "44": {
+   "name": "Frank Sprague"
+  },
+  "45": {
+   "name": "Frank Sprague"
+  },
+  "47": {
+   "name": "Richard Seaman"
+  },
+  "57": {
+   "name": "Frank Sprague"
+  },
+  "66": {
+   "name": "Frank Sprague"
+  },
+  "67": {
+   "name": "Frank Sprague"
+  },
+  "69": {
+   "name": "Frank Sprague"
+  },
+  "94": {
+   "name": "Frank Sprague"
+  },
+  "98": {
+   "name": "Unidentified",
+   "role": "Question inside the business administrator's cluster; asker not separable (possibly Frank Sprague)"
+  },
+  "99": {
+   "name": "Unidentified",
+   "role": "Question inside the business administrator's cluster; asker not separable (possibly Frank Sprague)"
+  },
+  "121": {
+   "name": "Unidentified",
+   "role": "SAU 6 Board member, Claremont (not the chair: 'Sorry, I need to raise my hand' [124] and 'I'm going to channel Steve here' [121]; possibly Heather Whitney, uncertain - same diarized cluster as the chair, not named)"
+  },
+  "124": {
+   "name": "Unidentified",
+   "role": "SAU 6 Board member, Claremont (not the chair: 'Sorry, I need to raise my hand' [124] and 'I'm going to channel Steve here' [121]; possibly Heather Whitney, uncertain - same diarized cluster as the chair, not named)"
+  },
+  "126": {
+   "name": "Unidentified",
+   "role": "SAU 6 Board member, Claremont (not the chair: 'Sorry, I need to raise my hand' [124] and 'I'm going to channel Steve here' [121]; possibly Heather Whitney, uncertain - same diarized cluster as the chair, not named)"
+  },
+  "128": {
+   "name": "Unidentified",
+   "role": "SAU 6 Board member, Claremont (not the chair: 'Sorry, I need to raise my hand' [124] and 'I'm going to channel Steve here' [121]; possibly Heather Whitney, uncertain - same diarized cluster as the chair, not named)"
+  },
+  "131": {
+   "name": "Unidentified",
+   "role": "SAU 6 Board member, Claremont (not the chair: 'Sorry, I need to raise my hand' [124] and 'I'm going to channel Steve here' [121]; possibly Heather Whitney, uncertain - same diarized cluster as the chair, not named)"
+  },
+  "133": {
+   "name": "Unidentified",
+   "role": "SAU 6 Board member, Claremont (not the chair: 'Sorry, I need to raise my hand' [124] and 'I'm going to channel Steve here' [121]; possibly Heather Whitney, uncertain - same diarized cluster as the chair, not named)"
+  },
+  "136": {
+   "name": "Unidentified",
+   "role": "SAU 6 Board member, Claremont (not the chair: 'Sorry, I need to raise my hand' [124] and 'I'm going to channel Steve here' [121]; possibly Heather Whitney, uncertain - same diarized cluster as the chair, not named)"
+  },
+  "138": {
+   "name": "Unidentified",
+   "role": "SAU 6 Board member, Claremont (not the chair: 'Sorry, I need to raise my hand' [124] and 'I'm going to channel Steve here' [121]; possibly Heather Whitney, uncertain - same diarized cluster as the chair, not named)"
+  },
+  "140": {
+   "name": "Unidentified",
+   "role": "SAU 6 Board member, Claremont (not the chair: 'Sorry, I need to raise my hand' [124] and 'I'm going to channel Steve here' [121]; possibly Heather Whitney, uncertain - same diarized cluster as the chair, not named)"
+  },
+  "142": {
+   "name": "Unidentified",
+   "role": "SAU 6 Board member, Claremont (not the chair: 'Sorry, I need to raise my hand' [124] and 'I'm going to channel Steve here' [121]; possibly Heather Whitney, uncertain - same diarized cluster as the chair, not named)"
+  },
+  "144": {
+   "name": "Unidentified",
+   "role": "SAU 6 Board member, Claremont (not the chair: 'Sorry, I need to raise my hand' [124] and 'I'm going to channel Steve here' [121]; possibly Heather Whitney, uncertain - same diarized cluster as the chair, not named)"
+  },
+  "160": {
+   "name": "Frank Sprague"
+  },
+  "171": {
+   "name": "Unidentified",
+   "role": "SAU 6 Board member (asks about supply costs, attorney services and the HR position funding; not named; shares a diarized cluster with Patrick Adrian and Jeff Small)"
+  },
+  "172": {
+   "name": "Unidentified",
+   "role": "SAU 6 Board member (asks about supply costs, attorney services and the HR position funding; not named; shares a diarized cluster with Patrick Adrian and Jeff Small)"
+  },
+  "174": {
+   "name": "Unidentified",
+   "role": "SAU 6 Board member (asks about supply costs, attorney services and the HR position funding; not named; shares a diarized cluster with Patrick Adrian and Jeff Small)"
+  },
+  "188": {
+   "name": "Unidentified",
+   "role": "SAU 6 Board member (asks about supply costs, attorney services and the HR position funding; not named; shares a diarized cluster with Patrick Adrian and Jeff Small)"
+  },
+  "191": {
+   "name": "Unidentified",
+   "role": "SAU 6 Board member (asks about supply costs, attorney services and the HR position funding; not named; shares a diarized cluster with Patrick Adrian and Jeff Small)"
+  },
+  "193": {
+   "name": "Unidentified",
+   "role": "SAU 6 Board member (asks about supply costs, attorney services and the HR position funding; not named; shares a diarized cluster with Patrick Adrian and Jeff Small)"
+  },
+  "194": {
+   "name": "Unidentified",
+   "role": "SAU 6 Board member (asks about supply costs, attorney services and the HR position funding; not named; shares a diarized cluster with Patrick Adrian and Jeff Small)"
+  },
+  "196": {
+   "name": "Unidentified",
+   "role": "SAU 6 Board member (asks about supply costs, attorney services and the HR position funding; not named; shares a diarized cluster with Patrick Adrian and Jeff Small)"
+  },
+  "199": {
+   "name": "Unidentified",
+   "role": "SAU 6 Board member (asks about supply costs, attorney services and the HR position funding; not named; shares a diarized cluster with Patrick Adrian and Jeff Small)"
+  },
+  "201": {
+   "name": "Frank Sprague"
+  },
+  "202": {
+   "name": "Frank Sprague"
+  },
+  "203": {
+   "name": "Frank Sprague"
+  },
+  "204": {
+   "name": "Frank Sprague"
+  },
+  "206": {
+   "name": "Frank Sprague"
+  },
+  "212": {
+   "name": "Frank Sprague"
+  },
+  "216": {
+   "name": "Frank Sprague"
+  },
+  "217": {
+   "name": "Unidentified",
+   "role": "SAU 6 Board member (asks about supply costs, attorney services and the HR position funding; not named; shares a diarized cluster with Patrick Adrian and Jeff Small)"
+  },
+  "218": {
+   "name": "Frank Sprague"
+  },
+  "219": {
+   "name": "Unidentified",
+   "role": "SAU 6 Board member (asks about supply costs, attorney services and the HR position funding; not named; shares a diarized cluster with Patrick Adrian and Jeff Small)"
+  },
+  "220": {
+   "name": "Frank Sprague"
+  },
+  "223": {
+   "name": "Unidentified",
+   "role": "'Aye' vote on the SAU budget motion"
+  },
+  "226": {
+   "name": "Unidentified",
+   "role": "SAU 6 Board member (asks about supply costs, attorney services and the HR position funding; not named; shares a diarized cluster with Patrick Adrian and Jeff Small)"
+  },
+  "234": {
+   "name": "Frank Sprague"
+  },
+  "236": {
+   "name": "Frank Sprague"
+  },
+  "237": {
+   "name": "Unidentified",
+   "role": "SAU 6 Board member (asks about supply costs, attorney services and the HR position funding; not named; shares a diarized cluster with Patrick Adrian and Jeff Small)"
+  },
+  "239": {
+   "name": "Frank Sprague"
+  },
+  "240": {
+   "name": "Frank Sprague"
+  },
+  "245": {
+   "name": "Heather Whitney"
+  },
+  "247": {
+   "name": "Heather Whitney"
+  },
+  "248": {
+   "name": "Heather Whitney"
+  },
+  "249": {
+   "name": "Heather Whitney"
+  },
+  "250": {
+   "name": "Heather Whitney"
+  },
+  "251": {
+   "name": "Heather Whitney"
+  },
+  "252": {
+   "name": "Heather Whitney"
+  },
+  "253": {
+   "name": "Frank Sprague"
+  },
+  "255": {
+   "name": "Frank Sprague"
+  },
+  "257": {
+   "name": "Frank Sprague"
+  },
+  "259": {
+   "name": "Frank Sprague"
+  },
+  "263": {
+   "name": "Frank Sprague"
+  },
+  "270": {
+   "name": "Frank Sprague"
+  },
+  "275": {
+   "name": "Michael Tempesta"
+  },
+  "277": {
+   "name": "Michael Tempesta"
+  },
+  "279": {
+   "name": "Michael Tempesta"
+  },
+  "283": {
+   "name": "Frank Sprague"
+  },
+  "284": {
+   "name": "Frank Sprague"
+  },
+  "302": {
+   "name": "Michael Tempesta"
+  },
+  "309": {
+   "name": "Frank Sprague"
+  },
+  "319": {
+   "name": "Unidentified",
+   "role": "SAU 6 Board member (asks about supply costs, attorney services and the HR position funding; not named; shares a diarized cluster with Patrick Adrian and Jeff Small)"
+  },
+  "322": {
+   "name": "Unidentified",
+   "role": "SAU 6 Board member (asks about supply costs, attorney services and the HR position funding; not named; shares a diarized cluster with Patrick Adrian and Jeff Small)"
+  },
+  "324": {
+   "name": "Unidentified",
+   "role": "SAU 6 Board member (asks about supply costs, attorney services and the HR position funding; not named; shares a diarized cluster with Patrick Adrian and Jeff Small)"
+  },
+  "331": {
+   "name": "Jeff Small",
+   "role": "Director of Technology, SAU 6 (the superintendent turns to him: 'Jeff, you might help me out' [330])"
+  },
+  "332": {
+   "name": "Jeff Small",
+   "role": "Director of Technology, SAU 6 (the superintendent turns to him: 'Jeff, you might help me out' [330])"
+  },
+  "333": {
+   "name": "Unidentified",
+   "role": "SAU 6 Board member asking about the data specialist's qualifications (not named)"
+  },
+  "336": {
+   "name": "Unidentified",
+   "role": "SAU 6 Board member asking about the data specialist's qualifications (not named)"
+  },
+  "338": {
+   "name": "Unidentified",
+   "role": "SAU 6 Board member (asks about supply costs, attorney services and the HR position funding; not named; shares a diarized cluster with Patrick Adrian and Jeff Small)"
+  },
+  "354": {
+   "name": "Unidentified",
+   "role": "SAU 6 Board member (asks about supply costs, attorney services and the HR position funding; not named; shares a diarized cluster with Patrick Adrian and Jeff Small)"
+  },
+  "356": {
+   "name": "Patrick Adrian"
+  },
+  "372": {
+   "name": "Patrick Adrian"
+  },
+  "385": {
+   "name": "Patrick Adrian"
+  },
+  "390": {
+   "name": "Patrick Adrian"
+  },
+  "397": {
+   "name": "Patrick Adrian"
+  },
+  "400": {
+   "name": "Patrick Adrian"
+  },
+  "402": {
+   "name": "Patrick Adrian"
+  },
+  "404": {
+   "name": "Patrick Adrian"
+  },
+  "406": {
+   "name": "Patrick Adrian"
+  },
+  "410": {
+   "name": "Patrick Adrian"
+  },
+  "412": {
+   "name": "Patrick Adrian"
+  },
+  "414": {
+   "name": "Patrick Adrian"
+  },
+  "416": {
+   "name": "Patrick Adrian"
+  },
+  "418": {
+   "name": "Marjorie Erickson"
+  },
+  "420": {
+   "name": "Patrick Adrian"
+  },
+  "422": {
+   "name": "Patrick Adrian"
+  },
+  "424": {
+   "name": "Patrick Adrian"
+  },
+  "426": {
+   "name": "Patrick Adrian"
+  },
+  "431": {
+   "name": "Unidentified",
+   "role": "SAU 6 Board member (asks about supply costs, attorney services and the HR position funding; not named; shares a diarized cluster with Patrick Adrian and Jeff Small)"
+  },
+  "445": {
+   "name": "Unidentified",
+   "role": "SAU 6 Board member ('I'm with Patrick here'), inside the chair's cluster; not the chair by content, uncertain"
+  }
+ }
+}

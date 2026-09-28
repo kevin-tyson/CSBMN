@@ -1,0 +1,75 @@
+{
+ "Speaker 1": {
+  "name": "Michael Petrin",
+  "role": "Claremont School Board Chair (presides: calls the 1/9/2023 meeting to order, runs the agenda and calls every vote; not named on this recording, chair per roster and the 2/1/2023 mapping)"
+ },
+ "Speaker 2": {
+  "name": "Michael Koski",
+  "role": "Assistant Superintendent, SAU 6 (introduced by the presenter as 'Mike Kosky' to explain the teacher evaluation committee; his answer is split between two clusters)"
+ },
+ "Speaker 3": {
+  "name": "Richard Seaman",
+  "role": "Assistant Superintendent for Finance and Operations (business administrator), SAU 6 (uncertain - never named; presents the teacher contract cost figures and warrant-article mechanics and hands off to 'Mike Kosky', the finance role that fits him)"
+ },
+ "Speaker 4": {
+  "name": "Unidentified",
+  "role": "School Board member on the teacher negotiating team, speaks for 'our committee' (Heather Whitney or Whitney Skillen per the chair's 'We do have Heather and Whitney here on the team'; cannot be separated)"
+ },
+ "Speaker 5": {
+  "name": "Unidentified",
+  "role": "Fragment ('You wanted to add'), voice not separable from the chair's exchange"
+ },
+ "Speaker 6": {
+  "name": "Unidentified",
+  "role": "School Board member (moves ratification of the teacher agreement and moves to adjourn; not named)"
+ },
+ "__overrides__": {
+  "5": {
+   "name": "Unidentified",
+   "role": "Roll call at the chair's request: roll caller's names and members' responses in one segment (caller not named)"
+  },
+  "6": {
+   "name": "Unidentified",
+   "role": "Roll call at the chair's request: roll caller's names and members' responses in one segment (caller not named)"
+  },
+  "7": {
+   "name": "Unidentified",
+   "role": "Roll call at the chair's request: roll caller's names and members' responses in one segment (caller not named)"
+  },
+  "8": {
+   "name": "Unidentified",
+   "role": "Roll call at the chair's request: roll caller's names and members' responses in one segment (caller not named)"
+  },
+  "11": {
+   "name": "Unidentified",
+   "role": "School Board member moving to approve the agenda (not named)"
+  },
+  "34": {
+   "name": "Michael Koski"
+  },
+  "36": {
+   "name": "Michael Koski"
+  },
+  "38": {
+   "name": "Michael Koski"
+  },
+  "40": {
+   "name": "Michael Koski"
+  },
+  "42": {
+   "name": "Michael Koski"
+  },
+  "43": {
+   "name": "Michael Koski"
+  },
+  "45": {
+   "name": "Michael Koski"
+  },
+  "37": {
+   "name": "Michael Koski"
+  },
+  "44": {
+   "name": "Michael Koski"
+  }
+ }
+}

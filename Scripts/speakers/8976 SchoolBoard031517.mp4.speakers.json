@@ -1,0 +1,259 @@
+{
+ "Speaker 7": {
+  "name": "Brian Rapp",
+  "role": "Claremont School Board Chair (re-elected chair at this meeting [63])"
+ },
+ "Speaker 8": {
+  "name": "Middleton McGoodwin",
+  "role": "Superintendent, SAU 6"
+ },
+ "Speaker 3": {
+  "name": "Mary Woodman",
+  "role": "School District Clerk and recording secretary (first name on record [125]; surname per roster)"
+ },
+ "Speaker 4": {
+  "name": "Frank Sprague",
+  "role": "Claremont School Board member (cluster also holds the group oath, chair acknowledgements and chorus responses; see overrides)"
+ },
+ "Speaker 5": {
+  "name": "Michelle Pierce",
+  "role": "Claremont School Board member (uncertain - not named when speaking; 'came on board last year' [514] matches her March 2016 start; seconder of the chair nomination per [62])"
+ },
+ "Speaker 9": {
+  "name": "Chris Irish",
+  "role": "Claremont School Board Vice Chair (elected vice chair at this meeting [73])"
+ },
+ "Speaker 11": {
+  "name": "Patrick Adrian",
+  "role": "Claremont School Board member"
+ },
+ "Speaker 13": {
+  "name": "Rebecca Zullo",
+  "role": "Claremont School Board member (sworn in at this meeting to a one-year term)"
+ },
+ "Speaker 14": {
+  "name": "Michael O'Neill",
+  "role": "Business Administrator, SAU 6 (addressed 'Mike' [304]; surname per roster)"
+ },
+ "Speaker 10": {
+  "name": "Cheryl Danza",
+  "role": "Public commenter, Ward 2, school food service worker (name as heard, ASR 'Cheryl Danza'; spelling unverified)"
+ },
+ "Speaker 12": {
+  "name": "Unidentified",
+  "role": "Public commenter, school food service worker (name not stated; colleague of Cheryl Danza [190])"
+ },
+ "Speaker 1": {
+  "name": "Unidentified",
+  "role": "Unidentified - pre-meeting remark"
+ },
+ "Speaker 2": {
+  "name": "Unidentified",
+  "role": "Unidentified - pre-meeting remark"
+ },
+ "Speaker 6": {
+  "name": "Unidentified",
+  "role": "Unidentified - photo and pre-meeting remarks"
+ },
+ "Speaker 15": {
+  "name": "Unidentified",
+  "role": "Unidentified - short interjection"
+ },
+ "Speaker 16": {
+  "name": "Unidentified",
+  "role": "Unidentified - short interjections and voice-vote chorus"
+ },
+ "Speaker 17": {
+  "name": "Unidentified",
+  "role": "Unidentified - short interjections by board members"
+ },
+ "__overrides__": {
+  "4": {
+   "name": "Unidentified",
+   "role": "Unidentified - newly elected members reciting the oath together (Michael Petrin states his name [18]; Sprague, Petrin and Zullo were elected per [133]-[134])"
+  },
+  "6": {
+   "name": "Unidentified",
+   "role": "Unidentified - newly elected members reciting the oath together (Michael Petrin states his name [18]; Sprague, Petrin and Zullo were elected per [133]-[134])"
+  },
+  "8": {
+   "name": "Unidentified",
+   "role": "Unidentified - newly elected members reciting the oath together (Michael Petrin states his name [18]; Sprague, Petrin and Zullo were elected per [133]-[134])"
+  },
+  "10": {
+   "name": "Unidentified",
+   "role": "Unidentified - newly elected members reciting the oath together (Michael Petrin states his name [18]; Sprague, Petrin and Zullo were elected per [133]-[134])"
+  },
+  "12": {
+   "name": "Unidentified",
+   "role": "Unidentified - newly elected members reciting the oath together (Michael Petrin states his name [18]; Sprague, Petrin and Zullo were elected per [133]-[134])"
+  },
+  "14": {
+   "name": "Unidentified",
+   "role": "Unidentified - newly elected members reciting the oath together (Michael Petrin states his name [18]; Sprague, Petrin and Zullo were elected per [133]-[134])"
+  },
+  "16": {
+   "name": "Unidentified",
+   "role": "Unidentified - newly elected members reciting the oath together (Michael Petrin states his name [18]; Sprague, Petrin and Zullo were elected per [133]-[134])"
+  },
+  "18": {
+   "name": "Unidentified",
+   "role": "Unidentified - newly elected members reciting the oath together (Michael Petrin states his name [18]; Sprague, Petrin and Zullo were elected per [133]-[134])"
+  },
+  "20": {
+   "name": "Unidentified",
+   "role": "Unidentified - newly elected members reciting the oath together (Michael Petrin states his name [18]; Sprague, Petrin and Zullo were elected per [133]-[134])"
+  },
+  "22": {
+   "name": "Unidentified",
+   "role": "Unidentified - newly elected members reciting the oath together (Michael Petrin states his name [18]; Sprague, Petrin and Zullo were elected per [133]-[134])"
+  },
+  "24": {
+   "name": "Unidentified",
+   "role": "Unidentified - newly elected members reciting the oath together (Michael Petrin states his name [18]; Sprague, Petrin and Zullo were elected per [133]-[134])"
+  },
+  "26": {
+   "name": "Unidentified",
+   "role": "Unidentified - newly elected members reciting the oath together (Michael Petrin states his name [18]; Sprague, Petrin and Zullo were elected per [133]-[134])"
+  },
+  "28": {
+   "name": "Unidentified",
+   "role": "Unidentified - newly elected members reciting the oath together (Michael Petrin states his name [18]; Sprague, Petrin and Zullo were elected per [133]-[134])"
+  },
+  "30": {
+   "name": "Unidentified",
+   "role": "Unidentified - newly elected members reciting the oath together (Michael Petrin states his name [18]; Sprague, Petrin and Zullo were elected per [133]-[134])"
+  },
+  "32": {
+   "name": "Unidentified",
+   "role": "Unidentified - newly elected members reciting the oath together (Michael Petrin states his name [18]; Sprague, Petrin and Zullo were elected per [133]-[134])"
+  },
+  "34": {
+   "name": "Unidentified",
+   "role": "Unidentified - newly elected members reciting the oath together (Michael Petrin states his name [18]; Sprague, Petrin and Zullo were elected per [133]-[134])"
+  },
+  "37": {
+   "name": "Unidentified",
+   "role": "Unidentified - post-oath and photo remarks"
+  },
+  "39": {
+   "name": "Unidentified",
+   "role": "Unidentified - post-oath and photo remarks"
+  },
+  "43": {
+   "name": "Unidentified",
+   "role": "Unidentified - post-oath and photo remarks"
+  },
+  "44": {
+   "name": "Unidentified",
+   "role": "Unidentified - post-oath and photo remarks"
+  },
+  "45": {
+   "name": "Unidentified",
+   "role": "Unidentified - post-oath and photo remarks"
+  },
+  "46": {
+   "name": "Unidentified",
+   "role": "Unidentified - post-oath and photo remarks"
+  },
+  "48": {
+   "name": "Unidentified",
+   "role": "Unidentified - post-oath and photo remarks"
+  },
+  "49": {
+   "name": "Unidentified",
+   "role": "Unidentified - post-oath and photo remarks"
+  },
+  "50": {
+   "name": "Unidentified",
+   "role": "Unidentified - post-oath and photo remarks"
+  },
+  "52": {
+   "name": "Unidentified",
+   "role": "Unidentified - post-oath and photo remarks"
+  },
+  "53": {
+   "name": "Unidentified",
+   "role": "Unidentified - post-oath and photo remarks"
+  },
+  "57": {
+   "name": "Middleton McGoodwin"
+  },
+  "61": {
+   "name": "Unidentified",
+   "role": "Unidentified - board member nominating Brian Rapp for chair"
+  },
+  "64": {
+   "name": "Unidentified",
+   "role": "Unidentified - group voice vote"
+  },
+  "78": {
+   "name": "Unidentified",
+   "role": "Unidentified - group Pledge of Allegiance"
+  },
+  "80": {
+   "name": "Unidentified",
+   "role": "Unidentified - roll-call responses"
+  },
+  "82": {
+   "name": "Unidentified",
+   "role": "Unidentified - roll-call responses"
+  },
+  "83": {
+   "name": "Unidentified",
+   "role": "Unidentified - roll-call responses"
+  },
+  "84": {
+   "name": "Unidentified",
+   "role": "Unidentified - roll-call responses"
+  },
+  "329": {
+   "name": "Unidentified",
+   "role": "Unidentified - roll-call responses"
+  },
+  "96": {
+   "name": "Unidentified",
+   "role": "Unidentified - abstentions by new members"
+  },
+  "101": {
+   "name": "Brian Rapp"
+  },
+  "117": {
+   "name": "Brian Rapp"
+  },
+  "122": {
+   "name": "Brian Rapp"
+  },
+  "154": {
+   "name": "Brian Rapp"
+  },
+  "198": {
+   "name": "Brian Rapp"
+  },
+  "200": {
+   "name": "Brian Rapp"
+  },
+  "209": {
+   "name": "Brian Rapp"
+  },
+  "217": {
+   "name": "Brian Rapp"
+  },
+  "280": {
+   "name": "Brian Rapp"
+  },
+  "301": {
+   "name": "Brian Rapp"
+  },
+  "414": {
+   "name": "Unidentified",
+   "role": "Unidentified - short interjection"
+  },
+  "418": {
+   "name": "Patrick Adrian"
+  },
+  "513": {
+   "name": "Michelle Pierce"
+  }
+ }
+}

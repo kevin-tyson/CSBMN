@@ -1,0 +1,728 @@
+{
+ "Speaker 1": {
+  "name": "Unidentified",
+  "role": "Voter, Ward 2, speaking on the elementary restructuring committee (name not established - her own sign-in is heard as 'Shelby' at 0.50 ASR confidence while a nearby voice says 'Michelle')"
+ },
+ "Speaker 2": {
+  "name": "Unidentified",
+  "role": "Moderator of the Claremont School District, presiding under RSA 40:13 (never named on this recording - addressed only as 'Madam Moderator'; the moderator's own seat was on the 3/14/23 ballot)"
+ },
+ "Speaker 3": {
+  "name": "Richard Seaman",
+  "role": "Assistant Superintendent for Finance and Operations / business administrator, SAU 6 (the superintendent hands off to 'Mr. Seaman'; the moderator afterwards thanks 'Assistant Superintendent Seaman', ASR 'Simmons')"
+ },
+ "Speaker 4": {
+  "name": "Unidentified",
+  "role": "Voice from the dais during the recess (name not stated)"
+ },
+ "Speaker 5": {
+  "name": "Unidentified",
+  "role": "Moderator of the Claremont School District, presiding under RSA 40:13 (never named on this recording - addressed only as 'Madam Moderator'; the moderator's own seat was on the 3/14/23 ballot)"
+ },
+ "Speaker 6": {
+  "name": "Unidentified",
+  "role": "Voter from the floor who attended the board meeting where the $1,000,000 cut was voted, speaking against the amendment and for the teachers' contract (name not stated)"
+ },
+ "Speaker 7": {
+  "name": "Unidentified",
+  "role": "Voice from the floor directing a speaker to the sign-in sheet (name not stated)"
+ },
+ "Speaker 8": {
+  "name": "Unidentified",
+  "role": "Voter from the floor speaking against the amendment and for the budget as proposed (name not stated)"
+ },
+ "Speaker 9": {
+  "name": "Unidentified",
+  "role": "Voter from the floor, a parent close to staff who left the district over pay (name not stated)"
+ },
+ "Speaker 10": {
+  "name": "Unidentified",
+  "role": "Voice from the floor / crosstalk (name not stated)"
+ },
+ "Speaker 11": {
+  "name": "John Wadsworth",
+  "role": "Voter, Ward 2 (self-identified at the podium; the ASR renders the sign-in as 'And John Wadsworth ... Ward two')"
+ },
+ "Speaker 12": {
+  "name": "Unidentified",
+  "role": "Voter from the floor who calls the vice chair's account of the vote 'disingenuous' (name not stated)"
+ },
+ "Speaker 13": {
+  "name": "Unidentified",
+  "role": "Moderator of the Claremont School District, presiding under RSA 40:13 (never named on this recording - addressed only as 'Madam Moderator'; the moderator's own seat was on the 3/14/23 ballot)"
+ },
+ "Speaker 14": {
+  "name": "Unidentified",
+  "role": "Moderator of the Claremont School District, presiding under RSA 40:13 (never named on this recording - addressed only as 'Madam Moderator'; the moderator's own seat was on the 3/14/23 ballot)"
+ },
+ "Speaker 15": {
+  "name": "Richard Seaman",
+  "role": "Assistant Superintendent for Finance and Operations / business administrator, SAU 6 (UNCERTAIN - the moderator frames this as a repeat of the earlier default-budget answer and it uses the same wording, but she calls the person answering 'the attorney'; no attorney is introduced anywhere on the recording and the diarizer puts this in a different cluster from his presentation)"
+ },
+ "Speaker 16": {
+  "name": "Unidentified",
+  "role": "Crosstalk from the floor during the secret-ballot vote and count (name not stated)"
+ },
+ "Speaker 17": {
+  "name": "Unidentified",
+  "role": "Crosstalk from the floor during the secret-ballot vote and count (name not stated)"
+ },
+ "Speaker 18": {
+  "name": "Andy Bernier",
+  "role": "New Hampshire School Funding Fairness Project (the moderator names him - 'Andy Bernier asked me just for a moment' - and hands him the floor after the meeting is closed)"
+ },
+ "Speaker 19": {
+  "name": "Hope Damon",
+  "role": "New Hampshire State Representative, Croydon (self-identified; House education committee)"
+ },
+ "__overrides__": {
+  "0": {
+   "name": "Unidentified",
+   "role": "Voice from the floor / crosstalk (name not stated)"
+  },
+  "4": {
+   "name": "Michael Petrin",
+   "role": "School Board Chair (the moderator introduces him as 'chairman of the school board, Michael Patron' and then thanks 'Chairman Peter')"
+  },
+  "16": {
+   "name": "Unidentified",
+   "role": "Voter from the floor (name not stated)"
+  },
+  "18": {
+   "name": "Unidentified",
+   "role": "Second from the floor (name not stated)"
+  },
+  "20": {
+   "name": "Unidentified",
+   "role": "Voice vote from the floor"
+  },
+  "31": {
+   "name": "Heather Whitney",
+   "role": "School Board Vice Chair (the moderator recognizes 'Heather Whitney' to read Article 2 and afterwards thanks 'Vice Chairman Whitney')"
+  },
+  "32": {
+   "name": "Heather Whitney",
+   "role": "School Board Vice Chair (the moderator recognizes 'Heather Whitney' to read Article 2 and afterwards thanks 'Vice Chairman Whitney')"
+  },
+  "33": {
+   "name": "Heather Whitney",
+   "role": "School Board Vice Chair (the moderator recognizes 'Heather Whitney' to read Article 2 and afterwards thanks 'Vice Chairman Whitney')"
+  },
+  "34": {
+   "name": "Heather Whitney",
+   "role": "School Board Vice Chair (the moderator recognizes 'Heather Whitney' to read Article 2 and afterwards thanks 'Vice Chairman Whitney')"
+  },
+  "47": {
+   "name": "Michael Tempesta",
+   "role": "Superintendent of Schools, SAU 6 (the moderator announces 'superintendent Tempesta' will give the presentation; he then hands the financials to 'Mr. Seaman')"
+  },
+  "48": {
+   "name": "Michael Tempesta",
+   "role": "Superintendent of Schools, SAU 6 (the moderator announces 'superintendent Tempesta' will give the presentation; he then hands the financials to 'Mr. Seaman')"
+  },
+  "49": {
+   "name": "Michael Tempesta",
+   "role": "Superintendent of Schools, SAU 6 (the moderator announces 'superintendent Tempesta' will give the presentation; he then hands the financials to 'Mr. Seaman')"
+  },
+  "50": {
+   "name": "Michael Tempesta",
+   "role": "Superintendent of Schools, SAU 6 (the moderator announces 'superintendent Tempesta' will give the presentation; he then hands the financials to 'Mr. Seaman')"
+  },
+  "70": {
+   "name": "Michael Tempesta",
+   "role": "Superintendent of Schools, SAU 6 (the moderator announces 'superintendent Tempesta' will give the presentation; he then hands the financials to 'Mr. Seaman')"
+  },
+  "71": {
+   "name": "Michael Tempesta",
+   "role": "Superintendent of Schools, SAU 6 (the moderator announces 'superintendent Tempesta' will give the presentation; he then hands the financials to 'Mr. Seaman')"
+  },
+  "72": {
+   "name": "Michael Tempesta",
+   "role": "Superintendent of Schools, SAU 6 (the moderator announces 'superintendent Tempesta' will give the presentation; he then hands the financials to 'Mr. Seaman')"
+  },
+  "73": {
+   "name": "Michael Tempesta",
+   "role": "Superintendent of Schools, SAU 6 (the moderator announces 'superintendent Tempesta' will give the presentation; he then hands the financials to 'Mr. Seaman')"
+  },
+  "74": {
+   "name": "Michael Tempesta",
+   "role": "Superintendent of Schools, SAU 6 (the moderator announces 'superintendent Tempesta' will give the presentation; he then hands the financials to 'Mr. Seaman')"
+  },
+  "75": {
+   "name": "Michael Tempesta",
+   "role": "Superintendent of Schools, SAU 6 (the moderator announces 'superintendent Tempesta' will give the presentation; he then hands the financials to 'Mr. Seaman')"
+  },
+  "76": {
+   "name": "Michael Tempesta",
+   "role": "Superintendent of Schools, SAU 6 (the moderator announces 'superintendent Tempesta' will give the presentation; he then hands the financials to 'Mr. Seaman')"
+  },
+  "77": {
+   "name": "Michael Tempesta",
+   "role": "Superintendent of Schools, SAU 6 (the moderator announces 'superintendent Tempesta' will give the presentation; he then hands the financials to 'Mr. Seaman')"
+  },
+  "79": {
+   "name": "Unidentified",
+   "role": "Voter from the floor who moved the amendment to add $1,000,000 back to the operating budget (self-describes as a former school board member; his name is never stated on the recording)"
+  },
+  "80": {
+   "name": "Unidentified",
+   "role": "Voter from the floor who moved the amendment to add $1,000,000 back to the operating budget (self-describes as a former school board member; his name is never stated on the recording)"
+  },
+  "81": {
+   "name": "Unidentified",
+   "role": "Voter from the floor who moved the amendment to add $1,000,000 back to the operating budget (self-describes as a former school board member; his name is never stated on the recording)"
+  },
+  "82": {
+   "name": "Unidentified",
+   "role": "Voter from the floor who moved the amendment to add $1,000,000 back to the operating budget (self-describes as a former school board member; his name is never stated on the recording)"
+  },
+  "83": {
+   "name": "Unidentified",
+   "role": "Voter from the floor who moved the amendment to add $1,000,000 back to the operating budget (self-describes as a former school board member; his name is never stated on the recording)"
+  },
+  "85": {
+   "name": "Unidentified",
+   "role": "Voter from the floor who moved the amendment to add $1,000,000 back to the operating budget (self-describes as a former school board member; his name is never stated on the recording)"
+  },
+  "87": {
+   "name": "Unidentified",
+   "role": "Voter from the floor who moved the amendment to add $1,000,000 back to the operating budget (self-describes as a former school board member; his name is never stated on the recording)"
+  },
+  "89": {
+   "name": "Unidentified",
+   "role": "Voter from the floor who moved the amendment to add $1,000,000 back to the operating budget (self-describes as a former school board member; his name is never stated on the recording)"
+  },
+  "90": {
+   "name": "Unidentified",
+   "role": "Voter from the floor who moved the amendment to add $1,000,000 back to the operating budget (self-describes as a former school board member; his name is never stated on the recording)"
+  },
+  "92": {
+   "name": "Unidentified",
+   "role": "Voter from the floor who moved the amendment to add $1,000,000 back to the operating budget (self-describes as a former school board member; his name is never stated on the recording)"
+  },
+  "94": {
+   "name": "Unidentified",
+   "role": "Voter from the floor who moved the amendment to add $1,000,000 back to the operating budget (self-describes as a former school board member; his name is never stated on the recording)"
+  },
+  "96": {
+   "name": "Unidentified",
+   "role": "Voter from the floor who moved the amendment to add $1,000,000 back to the operating budget (self-describes as a former school board member; his name is never stated on the recording)"
+  },
+  "98": {
+   "name": "Heather Whitney",
+   "role": "School Board Vice Chair (defends the board's process against the amendment; a later speaker attributes this turn to 'the vice chair of the school board')"
+  },
+  "99": {
+   "name": "Heather Whitney",
+   "role": "School Board Vice Chair (defends the board's process against the amendment; a later speaker attributes this turn to 'the vice chair of the school board')"
+  },
+  "102": {
+   "name": "Steven Horsky",
+   "role": "School Board Member, speaking from the floor as a Ward 2 voter (self-ID heard as 'Even asking Ward two'; the next speaker names him - 'Steve made the motion to cut the million dollars' - and a later speaker says 'Mr. Horsky proposed a reduction of $1 million')"
+  },
+  "103": {
+   "name": "Steven Horsky",
+   "role": "School Board Member, speaking from the floor as a Ward 2 voter (self-ID heard as 'Even asking Ward two'; the next speaker names him - 'Steve made the motion to cut the million dollars' - and a later speaker says 'Mr. Horsky proposed a reduction of $1 million')"
+  },
+  "104": {
+   "name": "Steven Horsky",
+   "role": "School Board Member, speaking from the floor as a Ward 2 voter (self-ID heard as 'Even asking Ward two'; the next speaker names him - 'Steve made the motion to cut the million dollars' - and a later speaker says 'Mr. Horsky proposed a reduction of $1 million')"
+  },
+  "105": {
+   "name": "Steven Horsky",
+   "role": "School Board Member, speaking from the floor as a Ward 2 voter (self-ID heard as 'Even asking Ward two'; the next speaker names him - 'Steve made the motion to cut the million dollars' - and a later speaker says 'Mr. Horsky proposed a reduction of $1 million')"
+  },
+  "107": {
+   "name": "Unidentified",
+   "role": "Voter from the floor who attended the board meeting where the $1,000,000 cut was voted, speaking against the amendment and for the teachers' contract (name not stated)"
+  },
+  "116": {
+   "name": "Unidentified",
+   "role": "Moderator of the Claremont School District, presiding under RSA 40:13 (never named on this recording - addressed only as 'Madam Moderator'; the moderator's own seat was on the 3/14/23 ballot)"
+  },
+  "117": {
+   "name": "Unidentified",
+   "role": "Moderator of the Claremont School District, presiding under RSA 40:13 (never named on this recording - addressed only as 'Madam Moderator'; the moderator's own seat was on the 3/14/23 ballot)"
+  },
+  "118": {
+   "name": "Unidentified",
+   "role": "Moderator of the Claremont School District, presiding under RSA 40:13 (never named on this recording - addressed only as 'Madam Moderator'; the moderator's own seat was on the 3/14/23 ballot)"
+  },
+  "121": {
+   "name": "Unidentified",
+   "role": "Voice from the floor directing a speaker to the sign-in sheet (name not stated)"
+  },
+  "122": {
+   "name": "Unidentified",
+   "role": "Voice from the floor directing a speaker to the sign-in sheet (name not stated)"
+  },
+  "125": {
+   "name": "Unidentified",
+   "role": "Voter, Ward 2, speaking on the elementary restructuring committee (name not established - her own sign-in is heard as 'Shelby' at 0.50 ASR confidence while a nearby voice says 'Michelle')"
+  },
+  "130": {
+   "name": "Unidentified",
+   "role": "Voice from the floor giving the speaker's name ('Michelle') after the moderator says she cannot be heard"
+  },
+  "131": {
+   "name": "Unidentified",
+   "role": "Voter, Ward 2, speaking on the elementary restructuring committee (name not established - her own sign-in is heard as 'Shelby' at 0.50 ASR confidence while a nearby voice says 'Michelle')"
+  },
+  "132": {
+   "name": "Unidentified",
+   "role": "Voter, Ward 2, speaking on the elementary restructuring committee (name not established - her own sign-in is heard as 'Shelby' at 0.50 ASR confidence while a nearby voice says 'Michelle')"
+  },
+  "133": {
+   "name": "Unidentified",
+   "role": "Voter, Ward 2, speaking on the elementary restructuring committee (name not established - her own sign-in is heard as 'Shelby' at 0.50 ASR confidence while a nearby voice says 'Michelle')"
+  },
+  "135": {
+   "name": "Unidentified",
+   "role": "Voter, Ward 2, speaking on the elementary restructuring committee (name not established - her own sign-in is heard as 'Shelby' at 0.50 ASR confidence while a nearby voice says 'Michelle')"
+  },
+  "136": {
+   "name": "Unidentified",
+   "role": "Voter, Ward 2, speaking on the elementary restructuring committee (name not established - her own sign-in is heard as 'Shelby' at 0.50 ASR confidence while a nearby voice says 'Michelle')"
+  },
+  "137": {
+   "name": "Unidentified",
+   "role": "Voter, Ward 2, speaking on the elementary restructuring committee (name not established - her own sign-in is heard as 'Shelby' at 0.50 ASR confidence while a nearby voice says 'Michelle')"
+  },
+  "140": {
+   "name": "Arlene Hawkins",
+   "role": "Voter speaking from the floor against the amendment (self-identifies mid-sentence, 'Oh, I'm sorry, Arlene Hawkins'; a candidate in the 3/14/23 election, not yet a board member)"
+  },
+  "141": {
+   "name": "Arlene Hawkins",
+   "role": "Voter speaking from the floor against the amendment (self-identifies mid-sentence, 'Oh, I'm sorry, Arlene Hawkins'; a candidate in the 3/14/23 election, not yet a board member)"
+  },
+  "142": {
+   "name": "Arlene Hawkins",
+   "role": "Voter speaking from the floor against the amendment (self-identifies mid-sentence, 'Oh, I'm sorry, Arlene Hawkins'; a candidate in the 3/14/23 election, not yet a board member)"
+  },
+  "143": {
+   "name": "Arlene Hawkins",
+   "role": "Voter speaking from the floor against the amendment (self-identifies mid-sentence, 'Oh, I'm sorry, Arlene Hawkins'; a candidate in the 3/14/23 election, not yet a board member)"
+  },
+  "144": {
+   "name": "Arlene Hawkins",
+   "role": "Voter speaking from the floor against the amendment (self-identifies mid-sentence, 'Oh, I'm sorry, Arlene Hawkins'; a candidate in the 3/14/23 election, not yet a board member)"
+  },
+  "145": {
+   "name": "Arlene Hawkins",
+   "role": "Voter speaking from the floor against the amendment (self-identifies mid-sentence, 'Oh, I'm sorry, Arlene Hawkins'; a candidate in the 3/14/23 election, not yet a board member)"
+  },
+  "146": {
+   "name": "Arlene Hawkins",
+   "role": "Voter speaking from the floor against the amendment (self-identifies mid-sentence, 'Oh, I'm sorry, Arlene Hawkins'; a candidate in the 3/14/23 election, not yet a board member)"
+  },
+  "153": {
+   "name": "Unidentified",
+   "role": "Voter from the floor asking where the $1,000,000 cut would come from (name not stated)"
+  },
+  "154": {
+   "name": "Unidentified",
+   "role": "Voter from the floor asking where the $1,000,000 cut would come from (name not stated)"
+  },
+  "155": {
+   "name": "Unidentified",
+   "role": "Voter from the floor asking where the $1,000,000 cut would come from (name not stated)"
+  },
+  "156": {
+   "name": "Unidentified",
+   "role": "Voter from the floor asking where the $1,000,000 cut would come from (name not stated)"
+  },
+  "157": {
+   "name": "Unidentified",
+   "role": "Voter from the floor asking where the $1,000,000 cut would come from (name not stated)"
+  },
+  "158": {
+   "name": "Unidentified",
+   "role": "Voter from the floor asking where the $1,000,000 cut would come from (name not stated)"
+  },
+  "159": {
+   "name": "Unidentified",
+   "role": "Voter from the floor asking where the $1,000,000 cut would come from (name not stated)"
+  },
+  "161": {
+   "name": "Unidentified",
+   "role": "Voter from the floor asking where the $1,000,000 cut would come from (name not stated)"
+  },
+  "163": {
+   "name": "Unidentified",
+   "role": "Voter from the floor asking where the $1,000,000 cut would come from (name not stated)"
+  },
+  "165": {
+   "name": "Unidentified",
+   "role": "Voter from the floor with a procedural question about the default budget (name not stated; the moderator calls him 'Mr. Polk' and the answering official 'Mr. Paul')"
+  },
+  "166": {
+   "name": "Unidentified",
+   "role": "Voter from the floor with a procedural question about the default budget (name not stated; the moderator calls him 'Mr. Polk' and the answering official 'Mr. Paul')"
+  },
+  "167": {
+   "name": "Unidentified",
+   "role": "Voter from the floor with a procedural question about the default budget (name not stated; the moderator calls him 'Mr. Polk' and the answering official 'Mr. Paul')"
+  },
+  "168": {
+   "name": "Unidentified",
+   "role": "Voter from the floor with a procedural question about the default budget (name not stated; the moderator calls him 'Mr. Polk' and the answering official 'Mr. Paul')"
+  },
+  "170": {
+   "name": "Unidentified",
+   "role": "Voter from the floor with a procedural question about the default budget (name not stated; the moderator calls him 'Mr. Polk' and the answering official 'Mr. Paul')"
+  },
+  "173": {
+   "name": "Richard Seaman",
+   "role": "Assistant Superintendent for Finance and Operations / business administrator, SAU 6 (UNCERTAIN - answers the voter's default-budget question as the district's finance officer, in the same diarized cluster as his named presentation, but the moderator later attributes this answer to 'the attorney')"
+  },
+  "174": {
+   "name": "Richard Seaman",
+   "role": "Assistant Superintendent for Finance and Operations / business administrator, SAU 6 (UNCERTAIN - answers the voter's default-budget question as the district's finance officer, in the same diarized cluster as his named presentation, but the moderator later attributes this answer to 'the attorney')"
+  },
+  "175": {
+   "name": "Richard Seaman",
+   "role": "Assistant Superintendent for Finance and Operations / business administrator, SAU 6 (UNCERTAIN - answers the voter's default-budget question as the district's finance officer, in the same diarized cluster as his named presentation, but the moderator later attributes this answer to 'the attorney')"
+  },
+  "177": {
+   "name": "Unidentified",
+   "role": "Voter from the floor asking whether the district has enough special-education paraprofessionals to stay in legal compliance (name not stated; Frank Sprague answers 'what Marion just said', at 0.50 ASR confidence)"
+  },
+  "178": {
+   "name": "Unidentified",
+   "role": "Voter from the floor asking whether the district has enough special-education paraprofessionals to stay in legal compliance (name not stated; Frank Sprague answers 'what Marion just said', at 0.50 ASR confidence)"
+  },
+  "179": {
+   "name": "Unidentified",
+   "role": "Voter from the floor asking whether the district has enough special-education paraprofessionals to stay in legal compliance (name not stated; Frank Sprague answers 'what Marion just said', at 0.50 ASR confidence)"
+  },
+  "181": {
+   "name": "Michael Tempesta",
+   "role": "Superintendent of Schools, SAU 6 (answers the special-education compliance question after the moderator asks for 'someone from the school board')"
+  },
+  "182": {
+   "name": "Michael Tempesta",
+   "role": "Superintendent of Schools, SAU 6 (answers the special-education compliance question after the moderator asks for 'someone from the school board')"
+  },
+  "183": {
+   "name": "Michael Tempesta",
+   "role": "Superintendent of Schools, SAU 6 (answers the special-education compliance question after the moderator asks for 'someone from the school board')"
+  },
+  "185": {
+   "name": "Michael Tempesta",
+   "role": "Superintendent of Schools, SAU 6 (answers the special-education compliance question after the moderator asks for 'someone from the school board')"
+  },
+  "186": {
+   "name": "Michael Tempesta",
+   "role": "Superintendent of Schools, SAU 6 (answers the special-education compliance question after the moderator asks for 'someone from the school board')"
+  },
+  "187": {
+   "name": "Michael Tempesta",
+   "role": "Superintendent of Schools, SAU 6 (answers the special-education compliance question after the moderator asks for 'someone from the school board')"
+  },
+  "188": {
+   "name": "Michael Tempesta",
+   "role": "Superintendent of Schools, SAU 6 (answers the special-education compliance question after the moderator asks for 'someone from the school board')"
+  },
+  "189": {
+   "name": "Michael Tempesta",
+   "role": "Superintendent of Schools, SAU 6 (answers the special-education compliance question after the moderator asks for 'someone from the school board')"
+  },
+  "190": {
+   "name": "Michael Tempesta",
+   "role": "Superintendent of Schools, SAU 6 (answers the special-education compliance question after the moderator asks for 'someone from the school board')"
+  },
+  "191": {
+   "name": "Michael Tempesta",
+   "role": "Superintendent of Schools, SAU 6 (answers the special-education compliance question after the moderator asks for 'someone from the school board')"
+  },
+  "193": {
+   "name": "Frank Sprague",
+   "role": "School Board Member, speaking from the floor as a Ward 2 voter (self-identifies; ASR 'Franks great Ward two')"
+  },
+  "194": {
+   "name": "Frank Sprague",
+   "role": "School Board Member, speaking from the floor as a Ward 2 voter (self-identifies; ASR 'Franks great Ward two')"
+  },
+  "195": {
+   "name": "Frank Sprague",
+   "role": "School Board Member, speaking from the floor as a Ward 2 voter (self-identifies; ASR 'Franks great Ward two')"
+  },
+  "196": {
+   "name": "Unidentified",
+   "role": "Voter from the floor supporting the amendment, who feels 'held hostage' by the teachers' contract (name not stated)"
+  },
+  "197": {
+   "name": "Unidentified",
+   "role": "Voter from the floor supporting the amendment, who feels 'held hostage' by the teachers' contract (name not stated)"
+  },
+  "198": {
+   "name": "Unidentified",
+   "role": "Voter from the floor supporting the amendment, who feels 'held hostage' by the teachers' contract (name not stated)"
+  },
+  "201": {
+   "name": "Unidentified",
+   "role": "Voter, Ward 2, speaking in favour of the amendment (name not stated; the sign-in is heard as 'Rodriguez' at 0.69 ASR confidence)"
+  },
+  "202": {
+   "name": "Unidentified",
+   "role": "Voter, Ward 2, speaking in favour of the amendment (name not stated; the sign-in is heard as 'Rodriguez' at 0.69 ASR confidence)"
+  },
+  "203": {
+   "name": "Unidentified",
+   "role": "Voter, Ward 2, speaking in favour of the amendment (name not stated; the sign-in is heard as 'Rodriguez' at 0.69 ASR confidence)"
+  },
+  "204": {
+   "name": "Unidentified",
+   "role": "Voter, Ward 2, speaking in favour of the amendment (name not stated; the sign-in is heard as 'Rodriguez' at 0.69 ASR confidence)"
+  },
+  "205": {
+   "name": "Unidentified",
+   "role": "Voter, Ward 2, speaking in favour of the amendment (name not stated; the sign-in is heard as 'Rodriguez' at 0.69 ASR confidence)"
+  },
+  "206": {
+   "name": "Unidentified",
+   "role": "Voter, Ward 2, speaking in favour of the amendment (name not stated; the sign-in is heard as 'Rodriguez' at 0.69 ASR confidence)"
+  },
+  "207": {
+   "name": "Unidentified",
+   "role": "Voter, Ward 2, speaking in favour of the amendment (name not stated; the sign-in is heard as 'Rodriguez' at 0.69 ASR confidence)"
+  },
+  "208": {
+   "name": "Unidentified",
+   "role": "Moderator of the Claremont School District, presiding under RSA 40:13 (never named on this recording - addressed only as 'Madam Moderator'; the moderator's own seat was on the 3/14/23 ballot)"
+  },
+  "210": {
+   "name": "John Wadsworth",
+   "role": "Voter, Ward 2 (self-identified at the podium; the ASR renders the sign-in as 'And John Wadsworth ... Ward two')"
+  },
+  "211": {
+   "name": "John Wadsworth",
+   "role": "Voter, Ward 2 (self-identified at the podium; the ASR renders the sign-in as 'And John Wadsworth ... Ward two')"
+  },
+  "212": {
+   "name": "John Wadsworth",
+   "role": "Voter, Ward 2 (self-identified at the podium; the ASR renders the sign-in as 'And John Wadsworth ... Ward two')"
+  },
+  "219": {
+   "name": "Unidentified",
+   "role": "Voter, Ward 2, itemizing where the $1,000,000 could be found without restructuring (name not stated; a later speaker credits 'Mr. Lovett's ideas', referent not established)"
+  },
+  "220": {
+   "name": "Unidentified",
+   "role": "Voter, Ward 2, itemizing where the $1,000,000 could be found without restructuring (name not stated; a later speaker credits 'Mr. Lovett's ideas', referent not established)"
+  },
+  "223": {
+   "name": "Unidentified",
+   "role": "Voter from the floor, a parent close to staff who left the district over pay (name not stated)"
+  },
+  "225": {
+   "name": "Unidentified",
+   "role": "Voter from the floor, a parent close to staff who left the district over pay (name not stated)"
+  },
+  "227": {
+   "name": "Unidentified",
+   "role": "Voter from the floor, a parent close to staff who left the district over pay (name not stated)"
+  },
+  "229": {
+   "name": "Unidentified",
+   "role": "Voter from the floor, a parent close to staff who left the district over pay (name not stated)"
+  },
+  "231": {
+   "name": "Unidentified",
+   "role": "Voter from the floor, a parent close to staff who left the district over pay (name not stated)"
+  },
+  "232": {
+   "name": "Unidentified",
+   "role": "Voter from the floor, a parent close to staff who left the district over pay (name not stated)"
+  },
+  "233": {
+   "name": "Unidentified",
+   "role": "Voter from the floor, a parent close to staff who left the district over pay (name not stated)"
+  },
+  "235": {
+   "name": "Unidentified",
+   "role": "Voter from the floor relaying what teachers told her by email (name not stated)"
+  },
+  "236": {
+   "name": "Unidentified",
+   "role": "Voter from the floor relaying what teachers told her by email (name not stated)"
+  },
+  "237": {
+   "name": "Unidentified",
+   "role": "Voter from the floor relaying what teachers told her by email (name not stated)"
+  },
+  "241": {
+   "name": "Unidentified",
+   "role": "Voter from the floor speaking against moving students and shifting staff (name not stated)"
+  },
+  "242": {
+   "name": "Unidentified",
+   "role": "Voter from the floor speaking against moving students and shifting staff (name not stated)"
+  },
+  "243": {
+   "name": "Unidentified",
+   "role": "Voter from the floor speaking against moving students and shifting staff (name not stated)"
+  },
+  "244": {
+   "name": "Unidentified",
+   "role": "Voter from the floor speaking against moving students and shifting staff (name not stated)"
+  },
+  "245": {
+   "name": "Unidentified",
+   "role": "Voter from the floor speaking against moving students and shifting staff (name not stated)"
+  },
+  "251": {
+   "name": "Unidentified",
+   "role": "Voice from the floor / crosstalk (name not stated)"
+  },
+  "254": {
+   "name": "Unidentified",
+   "role": "Voter from the floor who calls the vice chair's account of the vote 'disingenuous' (name not stated)"
+  },
+  "255": {
+   "name": "Unidentified",
+   "role": "Voter from the floor who calls the vice chair's account of the vote 'disingenuous' (name not stated)"
+  },
+  "259": {
+   "name": "Unidentified",
+   "role": "Voter from the floor who calls the vice chair's account of the vote 'disingenuous' (name not stated)"
+  },
+  "261": {
+   "name": "Unidentified",
+   "role": "Voter from the floor who calls the vice chair's account of the vote 'disingenuous' (name not stated)"
+  },
+  "262": {
+   "name": "Unidentified",
+   "role": "Voter from the floor who calls the vice chair's account of the vote 'disingenuous' (name not stated)"
+  },
+  "263": {
+   "name": "Unidentified",
+   "role": "Voter from the floor who calls the vice chair's account of the vote 'disingenuous' (name not stated)"
+  },
+  "264": {
+   "name": "Unidentified",
+   "role": "Voter from the floor who calls the vice chair's account of the vote 'disingenuous' (name not stated)"
+  },
+  "265": {
+   "name": "Unidentified",
+   "role": "Voter from the floor who calls the vice chair's account of the vote 'disingenuous' (name not stated)"
+  },
+  "266": {
+   "name": "Unidentified",
+   "role": "Voter from the floor who calls the vice chair's account of the vote 'disingenuous' (name not stated)"
+  },
+  "270": {
+   "name": "Unidentified",
+   "role": "Voter from the floor arguing the restructuring is the school board's decision, not this meeting's (name not stated)"
+  },
+  "271": {
+   "name": "Unidentified",
+   "role": "Voter from the floor arguing the restructuring is the school board's decision, not this meeting's (name not stated)"
+  },
+  "272": {
+   "name": "Unidentified",
+   "role": "Voter from the floor arguing the restructuring is the school board's decision, not this meeting's (name not stated)"
+  },
+  "275": {
+   "name": "Unidentified",
+   "role": "Voter from the floor asking whether the budget changes the number of paraprofessionals (name not stated)"
+  },
+  "276": {
+   "name": "Unidentified",
+   "role": "Voter from the floor asking whether the budget changes the number of paraprofessionals (name not stated)"
+  },
+  "277": {
+   "name": "Unidentified",
+   "role": "Voter from the floor asking whether the budget changes the number of paraprofessionals (name not stated)"
+  },
+  "279": {
+   "name": "Unidentified",
+   "role": "Voter from the floor moving the question ('Madam Moderator, I'd like to move the question')"
+  },
+  "280": {
+   "name": "Unidentified",
+   "role": "Second from the floor (name not stated)"
+  },
+  "285": {
+   "name": "Unidentified",
+   "role": "Crosstalk from the floor during the secret-ballot vote and count (name not stated)"
+  },
+  "288": {
+   "name": "Unidentified",
+   "role": "Crosstalk from the floor during the secret-ballot vote and count (name not stated)"
+  },
+  "289": {
+   "name": "Unidentified",
+   "role": "Crosstalk from the floor during the secret-ballot vote and count (name not stated)"
+  },
+  "296": {
+   "name": "Unidentified",
+   "role": "Voice from the floor / crosstalk (name not stated)"
+  },
+  "300": {
+   "name": "Unidentified",
+   "role": "Crosstalk from the floor during the secret-ballot vote and count (name not stated)"
+  },
+  "314": {
+   "name": "Unidentified",
+   "role": "Motion from the floor to restrict reconsideration of Articles 1 and 2 (name not stated)"
+  },
+  "317": {
+   "name": "Unidentified",
+   "role": "Moderator of the Claremont School District, presiding under RSA 40:13 (never named on this recording - addressed only as 'Madam Moderator'; the moderator's own seat was on the 3/14/23 ballot)"
+  },
+  "320": {
+   "name": "Candace Crawford",
+   "role": "Voter, Ward 2 (self-identifies 'Candace Crawford, Ward two'; a former Claremont School Board member and chair, appointed back onto the board 7/19/23)"
+  },
+  "321": {
+   "name": "Candace Crawford",
+   "role": "Voter, Ward 2 (self-identifies 'Candace Crawford, Ward two'; a former Claremont School Board member and chair, appointed back onto the board 7/19/23)"
+  },
+  "327": {
+   "name": "Richard Seaman",
+   "role": "Assistant Superintendent for Finance and Operations / business administrator, SAU 6 (UNCERTAIN - the moderator frames this as a repeat of the earlier default-budget answer and it uses the same wording, but she calls the person answering 'the attorney'; no attorney is introduced anywhere on the recording and the diarizer puts this in a different cluster from his presentation)"
+  },
+  "329": {
+   "name": "Richard Seaman",
+   "role": "Assistant Superintendent for Finance and Operations / business administrator, SAU 6 (UNCERTAIN - the moderator frames this as a repeat of the earlier default-budget answer and it uses the same wording, but she calls the person answering 'the attorney'; no attorney is introduced anywhere on the recording and the diarizer puts this in a different cluster from his presentation)"
+  },
+  "331": {
+   "name": "Richard Seaman",
+   "role": "Assistant Superintendent for Finance and Operations / business administrator, SAU 6 (UNCERTAIN - the moderator frames this as a repeat of the earlier default-budget answer and it uses the same wording, but she calls the person answering 'the attorney'; no attorney is introduced anywhere on the recording and the diarizer puts this in a different cluster from his presentation)"
+  },
+  "332": {
+   "name": "Richard Seaman",
+   "role": "Assistant Superintendent for Finance and Operations / business administrator, SAU 6 (UNCERTAIN - the moderator frames this as a repeat of the earlier default-budget answer and it uses the same wording, but she calls the person answering 'the attorney'; no attorney is introduced anywhere on the recording and the diarizer puts this in a different cluster from his presentation)"
+  },
+  "333": {
+   "name": "Richard Seaman",
+   "role": "Assistant Superintendent for Finance and Operations / business administrator, SAU 6 (UNCERTAIN - the moderator frames this as a repeat of the earlier default-budget answer and it uses the same wording, but she calls the person answering 'the attorney'; no attorney is introduced anywhere on the recording and the diarizer puts this in a different cluster from his presentation)"
+  },
+  "335": {
+   "name": "Unidentified",
+   "role": "Voice from the floor asking why a motion is needed to close the meeting (name not stated)"
+  },
+  "336": {
+   "name": "Unidentified",
+   "role": "Voice from the floor asking why a motion is needed to close the meeting (name not stated)"
+  },
+  "337": {
+   "name": "Unidentified",
+   "role": "Voice from the floor asking why a motion is needed to close the meeting (name not stated)"
+  },
+  "338": {
+   "name": "Unidentified",
+   "role": "Voice from the floor asking why a motion is needed to close the meeting (name not stated)"
+  },
+  "349": {
+   "name": "Unidentified",
+   "role": "Moderator of the Claremont School District, presiding under RSA 40:13 (never named on this recording - addressed only as 'Madam Moderator'; the moderator's own seat was on the 3/14/23 ballot)"
+  },
+  "355": {
+   "name": "Hope Damon",
+   "role": "New Hampshire State Representative, Croydon (self-identified; House education committee)"
+  }
+ }
+}

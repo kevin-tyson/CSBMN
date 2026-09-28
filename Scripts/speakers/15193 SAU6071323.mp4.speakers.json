@@ -1,0 +1,100 @@
+{
+  "Speaker 1": {
+    "name": "Heather Whitney",
+    "role": "Claremont School Board Chair; SAU 6 Board member (UNCERTAIN - never named or addressed on this recording; identified from content: she raises the point of order against a concealed ballot, citing the board's consultation with attorney Matt Upton on whether Claremont could use a secret ballot 'to simply pick a new school board member' - the Horsky vacancy the Claremont board filled six days later - and presses Mary Henry for a transparent Claremont budget-process timeline; Erickson names 'Heather' at 1363s as the person who worked on the SAU calendar, confirming she is in the room. This cluster also carries Mary Henry's later turns and several Erickson fragments; those segments are reassigned)"
+  },
+  "Speaker 2": {
+    "name": "Rocco Ruggeri",
+    "role": "SAU 6 Board Vice Chair; Unity School Board member - presides over the chair election as the surviving officer after Horsky's resignation and nominates Erickson; the roll caller reads his name at 714.0s ('Knock over. Garrett.' = Rocco Ruggeri) and he answers 'Yes' at 714.9s; during the seat change he is identified as 'He's vice chair' / 'you're vice chair' and answers 'I'll switch'"
+  },
+  "Speaker 3": {
+    "name": "Frank Sprague",
+    "role": "Claremont School Board Vice Chair; SAU 6 Board member - nominates Arlene Hawkins for chair; the chair's recognition 'Frank.' lands at 672.2s and 1695.2s immediately before his motions, and the roll caller reads 'Frank. Sprague.' at 725.2s"
+  },
+  "Speaker 4": {
+    "name": "Unidentified",
+    "role": "SAU 6 Board member - seconds the nomination of Arlene Hawkins for chair, presses for a show of hands ('does anybody object to doing a show of hands so that we could move on'), asks 'how's the auditing situation', and proposes sealing the nonpublic minutes; never named or addressed on the recording (a low-confidence ASR 'Kelly. Jensen.' precedes one of this cluster's roll-call answers, but at 0.34 confidence that is not enough to name Kelly Simpson)"
+  },
+  "Speaker 5": {
+    "name": "Arlene Hawkins",
+    "role": "SAU 6 Board Chair - elected at this meeting by show of hands over Marjorie Erickson; Claremont School Board member. She takes the chair immediately after 'we have a new chair elected' and accepts at 407.6s ('I hope I can live up to being a good chair for the [SAU]'), then presides for the rest of the meeting. She is demonstrably not Erickson: she addresses 'Marjorie' in the second person at 1277.1s and 1361.3s and Erickson answers both times"
+  },
+  "Speaker 6": {
+    "name": "Unidentified",
+    "role": "SAU 6 Board member - joins the search for whether a secret ballot is lawful ('I think we should check this', 'Google search'); never named on the recording"
+  },
+  "Speaker 7": {
+    "name": "Michael Tempesta",
+    "role": "Superintendent of Schools, SAU 6 - the chair calls the item 'the superintendent's report, Mr. Tempesta' at 831.2s and he answers at 832.0s; reports Mary Henry's arrival, Stephanie's departure, and the audit timeline with 'Mike Campo'"
+  },
+  "Speaker 8": {
+    "name": "Unidentified",
+    "role": "Crosstalk during the seat change that follows the chair election; the voices overlap and are not separable"
+  },
+  "Speaker 9": {
+    "name": "Unidentified",
+    "role": "Reads the attendance roll and both roll-call votes at the chair's request ('Can we have the secretary roll call of attendance board members'); the reader is never named and never identifies himself, and neither of the two preceding SAU 6 recordings used the same reader (Erickson read her own roll on 2/16/23, Sprague read it on 3/30/23). This cluster also collects many one- and two-word fragments clipped from other speakers"
+  },
+  "Speaker 10": {
+    "name": "Unidentified",
+    "role": "SAU 6 Board member - moves the nonpublic session under RSA 91-A:3 II(a), first out of order before the roll call and again after the agenda is amended; never named on the recording"
+  },
+  "Speaker 11": {
+    "name": "Mike Koski",
+    "role": "Assistant Superintendent, SAU 6 (UNCERTAIN - not named on this recording; Tempesta hands the curriculum item to him at 854s exactly as he hands the district-wide curriculum report to Koski in the already-attributed 3/30/23 SAU 6 recording, and this speaker has taken over Stephanie Hurst's curriculum work - 'she shared all her work with me, and I'm still in contact with her')"
+  },
+  "Speaker 12": {
+    "name": "Marjorie Erickson",
+    "role": "Unity School Board Chair; SAU 6 Board member - nominated for SAU 6 chair at this meeting and not elected. The chair addresses 'Marjorie' at 1277.1s and 1361.3s and she answers both times; she speaks for Unity ('unity is not in on that information', 'I did one for unity')"
+  },
+  "Speaker 13": {
+    "name": "Mary Henry",
+    "role": "Business Administrator, SAU 6 - first appearance before this board; the chair calls the item 'budget update. Mary.' at 989.6s and she answers 'I don't have a budget update for you because I've just been here... it's only been a few days'"
+  },
+  "Speaker 14": {
+    "name": "Unidentified",
+    "role": "Late-meeting crosstalk over the SAU calendar and Mary Henry's arrival; overlapping voices not separable"
+  },
+  "Speaker 15": {
+    "name": "Unidentified",
+    "role": "Late-meeting crosstalk; overlapping voices not separable"
+  },
+  "__overrides__": {
+    "0": {"name": "Unidentified", "role": "Pre-meeting crosstalk before the gavel; voice not identifiable"},
+    "2": {"name": "Unidentified", "role": "Pre-meeting crosstalk before the gavel; voice not identifiable"},
+    "47": {"name": "Heather Whitney", "role": "Claremont School Board Chair; SAU 6 Board member (sentence continuation - completes her own 'Everything had to be done' from the previous segment)"},
+    "54": {"name": "Arlene Hawkins", "role": "SAU 6 Board Chair, just elected - her first words after the presiding vice chair announces 'we have a new chair elected'; the same 'I hope' she completes in her acceptance at 407.6s"},
+    "87": {"name": "Unidentified", "role": "A roll-call name and its answer share one segment ('Jerry' at 0.79 confidence is the ASR for Ruggeri); the two voices are not separable"},
+    "140": {"name": "Marjorie Erickson", "role": "Unity School Board Chair; SAU 6 Board member (MEDIUM confidence - this 'Abstain' answers the roll caller reading 'Harrison' 1.6s earlier, the documented ASR garble for Erickson; the one-word answer clusters with the chair's voice, so the attribution rests on the roll-call sequence, not on the diarization)"},
+    "142": {"name": "Unidentified", "role": "The roll caller reading a member's name ('Kelly. Jensen.' at 0.34/0.65 confidence), clipped into the superintendent's cluster"},
+    "159": {"name": "Unidentified", "role": "Roll-call crosstalk clipped into the superintendent's cluster; the name and the answer are both garbled"},
+    "161": {"name": "Unidentified", "role": "Roll-call crosstalk clipped into the superintendent's cluster; carries a 'No' whose speaker is not identifiable"},
+    "165": {"name": "Arlene Hawkins", "role": "SAU 6 Board Chair (sentence continuation - 'Okay. We move on. Item number five, the superintendent's report')"},
+    "168": {"name": "Michael Tempesta", "role": "Superintendent of Schools, SAU 6 (onset clip - 'So we've had a lot going on with summer hiring' continues in his next segment)"},
+    "170": {"name": "Mike Koski", "role": "Assistant Superintendent, SAU 6 (UNCERTAIN - onset clip; 'Might not, not so much curriculum items' continues in his next segment)"},
+    "179": {"name": "Marjorie Erickson", "role": "Unity School Board Chair; SAU 6 Board member (sentence continuation - 'It was, it was, it wasn't public information before our last meeting')"},
+    "185": {"name": "Mary Henry", "role": "Business Administrator, SAU 6 (onset clip immediately after the chair calls 'budget update. Mary.')"},
+    "189": {"name": "Mary Henry", "role": "Business Administrator, SAU 6 (sentence continuation inside her own turn)"},
+    "198": {"name": "Michael Tempesta", "role": "Superintendent of Schools, SAU 6 (sentence continuation - 'by the auditors themselves', heard by the ASR as 'by the audience')"},
+    "203": {"name": "Arlene Hawkins", "role": "SAU 6 Board Chair (her own 'I have a question', immediately before she asks it in the next segment)"},
+    "213": {"name": "Arlene Hawkins", "role": "SAU 6 Board Chair (sentence continuation - 'at the time that we asked')"},
+    "218": {"name": "Arlene Hawkins", "role": "SAU 6 Board Chair (sentence continuation - 'Any other questions from members of the board?')"},
+    "220": {"name": "Arlene Hawkins", "role": "SAU 6 Board Chair (sentence continuation - 'Any other questions from members of the board?')"},
+    "224": {"name": "Arlene Hawkins", "role": "SAU 6 Board Chair (sentence continuation - 'Did we do that? We just did that.')"},
+    "241": {"name": "Marjorie Erickson", "role": "Unity School Board Chair; SAU 6 Board member (sentence continuation - 'Well, Heather did')"},
+    "243": {"name": "Marjorie Erickson", "role": "Unity School Board Chair; SAU 6 Board member (sentence continuation - 'But I thought we adopted items')"},
+    "284": {"name": "Mary Henry", "role": "Business Administrator, SAU 6 - her answer to 'you know how to swim?' 0.2s earlier"},
+    "290": {"name": "Mary Henry", "role": "Business Administrator, SAU 6 (sentence continuation - 'I will tell you if I'm really underwater')"},
+    "291": {"name": "Mary Henry", "role": "Business Administrator, SAU 6 - carries both of her verbal tics from her 991s turn, 'How's that sound?' and 'we will get there'"},
+    "293": {"name": "Mary Henry", "role": "Business Administrator, SAU 6 - 'Mike and I have been in contact on a regular basis... I've been keeping him updated'"},
+    "294": {"name": "Mary Henry", "role": "Business Administrator, SAU 6 (sentence continuation of her account of working with the superintendent)"},
+    "296": {"name": "Mary Henry", "role": "Business Administrator, SAU 6 - 'I wish I had more tonight'"},
+    "298": {"name": "Mary Henry", "role": "Business Administrator, SAU 6 - her assent to the chair's 'July 1st, right?', dating her start"},
+    "299": {"name": "Arlene Hawkins", "role": "SAU 6 Board Chair (sentence continuation - 'You didn't hear... for your spring', spread over the next two segments)"},
+    "300": {"name": "Arlene Hawkins", "role": "SAU 6 Board Chair (sentence continuation - 'You didn't hear... for your spring')"},
+    "302": {"name": "Arlene Hawkins", "role": "SAU 6 Board Chair (sentence continuation - 'You didn't hear... for your spring')"},
+    "303": {"name": "Arlene Hawkins", "role": "SAU 6 Board Chair (sentence continuation of her question about the spring budget; the segment also carries Mary Henry's 'Right. Yeah.' assent)"},
+    "305": {"name": "Mary Henry", "role": "Business Administrator, SAU 6 - her assent to the chair's 'You just arrived'"},
+    "307": {"name": "Frank Sprague", "role": "Claremont School Board Vice Chair; SAU 6 Board member (onset clip - 'Make a motion... do we adjourn?' after the chair recognises 'Frank.')"}
+  }
+}

@@ -1,0 +1,490 @@
+{
+ "Speaker 1": {
+  "name": "Heather Whitney",
+  "role": "CHAIR, Claremont School Board (re-elected March 2024; chair since 4/5/2023) - she opens the meeting in her own voice at segment 0 ('I'd like to call to order... June 20th 2024 Claremont School Board Meeting'), asks the clerk to call the roll (2, 'Miss[, Kronberg], would you please call roll call'), runs the consent agenda, citizens' comments, every recognition ('Mr. Pratt', 124; 'Miss Crawford', 171, 284, 429; 'Mr. patron', 159, 182, 275; 'Frank Sprague', 234, 297; 'miss Gillen', 178), every motion and the adjournment (575). Business administrator Mary Henry addresses her by first name at 454 - 'Thank you. Heather?' (confidence 1.00) - which fixes this presiding voice as Heather Whitney and not Whitney Skillen, the other sitting member whose FIRST name is Whitney and who is a separate cluster (Speaker 10) in this same recording. Segment 8 opens with two other members' roll answers ('Present. Here.') absorbed into her onset. This cluster also swallows a handful of neighbouring voices, reassigned by override"
+ },
+ "Speaker 2": {
+  "name": "Chris Pratt",
+  "role": "SUPERINTENDENT OF SCHOOLS, SAU 6 - the chair calls on him by name twice ('Mr. Pratt. Do you have any comments to add?', 124; 'Mr. Pratt.', 303) and he answers in this voice both times. He delivers the superintendent's report (25-40), calls it 'my superintendents report' (38), refers to his own earlier service in the third person ('my previous principal reports or superintendent reports', 36; 'at least in my past four months', 37; 'as the former principal', 339) - consistent with Chris Pratt, Stevens High School principal until 1/11/2024 and interim superintendent from 1/12/2024. HE IS TITLED SIMPLY 'SUPERINTENDENT' ON THIS RECORDING: the agenda item is 'Superintendents report' (24), he says 'me coming on as you know, superintendent' (39), and the word 'interim' never appears in the file. Dr. Michael Herrington also refers to him as 'Mr. Pratt' (215, 217). Cluster also absorbs the Pledge, roll-call fragments and several neighbours, reassigned by override"
+ },
+ "Speaker 3": {
+  "name": "Unidentified",
+  "role": "DIARIZER CATCH-ALL CLUSTER - 55 mostly sub-second fragments ('Thank you.', 'Okay.', 'So.', 'Yep.') scattered across the whole meeting and belonging to at least seven different people. Every fragment that can be tied to a neighbouring speaker by contiguous timing or by sentence continuation has been reassigned by override; the rows left under this label are the ones that carry no usable anchor at all"
+ },
+ "Speaker 4": {
+  "name": "Bonnie Miles",
+  "role": "Claremont School Board member; outgoing CHAIR of the Capital Improvement Committee - the chair announces at 491 that 'Miss Miles, who has been the chair of that committee and done excellent work... would like the board to accept Miss Crawford as the new chair', and this voice answers immediately in the first person: 'I'll still be on the committee' (492) and 'Just switching spots, just' (494), which the chair confirms as 'Miss Miles is not abandoning her post' (493). The chair also recognises her as 'The smiles' (368, ASR for 'Miss Miles') straight into this voice's 'I remember last year when you were the principal...' (369). She opens the meeting asking about the roof motion (11) - consistent with the capital-improvement chair - and answers roll as 'Bonnie Miles. Here' at 5"
+ },
+ "Speaker 5": {
+  "name": "Caleb",
+  "role": "CITIZEN COMMENTER, Ward 1, Claremont - the only member of the public to speak. He self-identifies in the standard podium form at 19-20, '...Caleb [surname]. Ward one', but the SURNAME IS NOT RECOVERABLE: the ASR renders it 'Billboard' (confidence 1.00, clearly wrong), while the first name 'Caleb' is confidence 1.00 and sits 0.44 s before it in one continuous utterance whose onset the diarizer clipped into the previous cluster. He asks two questions - whether the district has an early learning centre so SAU 6 employees do not have to find childcare, and whether it is a board priority to open facilities in Claremont given that 'Stevens High School spends over 25% of its budget on sending students out of district'. The chair declines to answer ('Normally we don't give responses, but... we're thinking about all of those things', 23)"
+ },
+ "Speaker 6": {
+  "name": "Unidentified",
+  "role": "DIARIZER CATCH-ALL MICRO-CLUSTER - seven one- to five-word interjections ('Sure.', 'Okay.', 'It is.', 'Thank you. Everybody.') belonging to at least three different people; the two that can be tied to a named voice by contiguous timing are reassigned by override, the rest carry no anchor"
+ },
+ "Speaker 7": {
+  "name": "Alex Herzog",
+  "role": "DIRECTOR, Sugar River Valley Regional Technical Center (SRVRTC) - CHAIR'S RECOGNITION: 'The first item on our agenda this evening will be presented by Doctor Herzog' (50), and this voice then reads the CTE Vision Committee's cover letter aloud, prefacing it 'So on behalf of Andre [Andy], who's our chair of the Vision Committee. He asked me to read this' (55) and closing 'Sincerely, Andy, the chair of the [Sugar] River Regional Vision Committee' (60). Dr. Dale Winkler answers him by first name - 'Thank you. Alex, I appreciate that introduction' (62). NOTE: immediately before he begins, the chair gives him what reads as a send-off - 'And before you start, on behalf of the board, we publicly acknowledge again, we wish you the best of luck' (51) and 'Thank you for all that you've done for us' (54) - to which this voice replies 'Thank you. Appreciate that' (52-53). The recording never says he is leaving; the inference rests on 'before you start'"
+ },
+ "Speaker 8": {
+  "name": "Dr. Dale Winkler",
+  "role": "SENIOR VICE PRESIDENT, Southern Regional Education Board (SREB; ASR 'SRB', 'sRGB', 'shrub', 'the urban s') - SELF-IDENTIFIES at 66: 'As stated, I'm Dale Winkler, senior vice president at the Southern Regional Education Board.' Introduced by Herzog as 'Mr. Winkler... Doctor Winkler' (60-61) and thanked by the chair as 'Doctor Winkler' (110, 112). He presents SREB's Career Pathway Review of the Claremont tech center remotely, from Atlanta, and closes by giving out his email and phone number (109)"
+ },
+ "Speaker 9": {
+  "name": "Candace Crawford",
+  "role": "Claremont School Board member (appointed 7/19/2023, re-elected March 2024); incoming CHAIR of the Capital Improvement Committee and, from this meeting, chair of the newly permanent Tech Visioning Committee - CHAIR'S RECOGNITIONS: 'Miss Crawford.' (171) then this voice; 'Miss Crawford.' (284) then this voice; 'Is there a motion on the floor to. This is Crawford?' (429) then 'I will so move' (430) and the roof motion in her own words (432-436). She asks 'Can I volunteer?' (496) and the chair answers 'Miss Crawford is volunteering' (497); Whitney Skillen then moves 'to nominate Candace Crawford for the chair of the... Permanent Tech Visioning Committee' (498)"
+ },
+ "Speaker 10": {
+  "name": "Whitney Skillen",
+  "role": "Claremont School Board member; CHAIR of the Policy subcommittee - CHAIR'S RECOGNITIONS: 'Miss Gillam[?]' (119, ASR confidence 0.76 for Skillen) straight into this voice's Perkins V question (120); 'miss Gillen' (178, confidence 0.61) straight into this voice's fundraising-equity questions (179-186). She answers Petrin's 'who else is on the policy subcommittee?' with 'Me and Arlene' (474) and then explains that 'the spreadsheet for the system of keeping up with the policies is made' (478) - the policy chair's own work. NOT Heather Whitney, the chair, who is a separate cluster (Speaker 1) in this same recording; 'Whitney' as a bare name is ambiguous throughout this file and has not been used as an anchor"
+ },
+ "Speaker 11": {
+  "name": "Michael Herrington",
+  "role": "PRINCIPAL, Stevens High School - PARTICIPATING REMOTELY, with his camera off and audio dropping out. CHAIR'S RECOGNITION: 'a presentation and a discussion related to a Stevens High School trip to Puerto Rico. From Doctor Michael [Herrington]' (134, 'Michael' 1.00, 'Harrington' 0.98) straight into this voice's apology that 'at 630 tonight, I found out that my camera on my computer is no longer compatible with Chrome' (135). He is addressed as 'Doctor Harrington' by the chair (169, 173, 286), by Pratt (194, 209, 211, 308) and by Frank Sprague (142, 282), and Pratt hands the schedule presentation to him: 'I'll hand it over to you, Doctor Harrington' (211) - answered here by 'All right. Thank you. And just making sure you guys can hear me' (212). He presents the Puerto Rico trip and the seven-period schedule change. THE DIARIZER MERGED HIM WITH FRANK SPRAGUE (two male voices in one cluster); every Sprague segment is reassigned by override, and the same voice is also filed separately as Speaker 14"
+ },
+ "Speaker 12": {
+  "name": "Unidentified",
+  "role": "STEVENS HIGH SCHOOL / SRVRTC MASTER-SCHEDULE BUILDER - male, in the room, NEVER NAMED usably. Dr. Herrington flags his arrival at 233: 'if I can't answer it, Mr. [surname] was showing up, and he's got some more information as well' (ASR renders the surname 'governor'); the only other candidate token in the exchange is 'Charlie' at 235 (confidence 0.94), which is not tied to him. He describes building the schedule in the first person - 'the schedule that we built, the first run was 90%' (247), 'I've been doing this, you know, building them for over 20 years' (251), 'we double blocked every single tech center class' (268) - speaks of the tech center as 'up here' and of Newport students as coming 'to our programs' (267), and addresses the board as outsiders ('some of you have been on the board for years... when we did the A, B, B schedule', 250). MIKE KOSKI IS A CANDIDATE BUT IS NOT ESTABLISHED: Koski is a separate cluster (Speaker 15) here and Herrington names Koski separately at 215. This cluster also carries Michael Petrin's motions, reassigned by override"
+ },
+ "Speaker 13": {
+  "name": "Michael Petrin",
+  "role": "Claremont School Board member (returned to the board as a write-in in the March 2024 election after losing his seat in March 2023) - CHAIR'S RECOGNITIONS: 'Mr. patron.' (275, ASR for Petrin, confidence 1.00) straight into this voice's motion to approve the Stevens handbook and schedule change (276); 'Mr. Peterson.' (359, 422 - the same garble) straight into this voice both times. The chair names the two communications ad-hoc volunteers at 486 as 'Michael Patron and Frank Sprague', and this voice is the one that volunteers at 468. He says 'I haven't obviously just getting started again. I haven't been to a policy subcommittee meeting yet' (471) - consistent with a member who has just returned. Cluster also absorbs several of Mike Koski's onsets, reassigned by override"
+ },
+ "Speaker 14": {
+  "name": "Michael Herrington",
+  "role": "PRINCIPAL, Stevens High School (remote) - THE SAME VOICE the diarizer also files as Speaker 11; see that cluster's note. This half answers the chair's questions put explicitly to 'Doctor Harrington' about parent communication (286 -> 288), class sizes and teacher load (294 -> 295) and the staff survey on the schedule change (308 'Doctor Harrington has done the same... Doctor Harrington tell me if I'm wrong' -> 310)"
+ },
+ "Speaker 15": {
+  "name": "Mike Koski",
+  "role": "ASSISTANT SUPERINTENDENT, SAU 6 (ASR 'Kosky') - the chair announces at the top of the meeting that 'Mr. Kosky is going to be able to present the New Hampshire Sass scores' during other business (8), and at 507-509 she opens that item and hands off with 'And so thank you. Mr. [Koski]' straight into this voice's 'Unfortunately, I don't have slides but they're in your packet' (511-514). Pratt (26) and Herrington (215) both name Koski as the person who will present the SAS data. He presents the NH SAS ELA results and, earlier in the meeting, the cell-phone-policy survey (320-331); NO ONE NAMES THE CELL-PHONE PRESENTER, so that stretch is attributed to Koski on voice-cluster continuity plus the chair's announcement, not on a spoken name"
+ },
+ "Speaker 16": {
+  "name": "Mary Henry",
+  "role": "BUSINESS ADMINISTRATOR, Claremont School District / SAU 6 (started early July 2023) - CHAIR'S RECOGNITION: 'Number five is financial update. Miss Mary Henry, our business administrator' (390, both names confidence 1.00) straight into this voice's report; the chair also asks 'Miss Henry, can you repeat the number?' (425) and this voice answers. She reports the year-end surplus, the encumbrances, and the two roof projects, and addresses the chair by first name - 'Thank you. Heather?' (454)"
+ },
+ "Speaker 17": {
+  "name": "Noelle Kronberg",
+  "role": "SCHOOL BOARD CLERK, Claremont School District (appointed 11/15/2023; the ASR renders her name 'Kronborg', 'Cronenberg', 'Grunberg' and her first name 'Noel') - the chair asks 'Mr. [Miss] Cronenberg, would you please read the motion again?' (449) and this voice reads the roof motion back (450). The chair also uses her name at 196 ('Miss Kronborg, would you mind reading the motion?'), 486 ('So, Noel, if you wouldn't mind documenting that...') and 495 ('miss Grunberg would please document that in the minutes')"
+ },
+ "Speaker 18": {
+  "name": "Frank Sprague",
+  "role": "VICE CHAIR, Claremont School Board - five short fragments interleaved with, and continuing the sentences of, his main run in Speaker 11; see that cluster's note. E.g. 537-538 'That's what' + 'We discovered'"
+ },
+ "__overrides__": {
+  "1": {
+   "name": "Multiple",
+   "role": "The room reciting the Pledge of Allegiance, captured as one segment"
+  },
+  "3": {
+   "name": "Unidentified",
+   "role": "A seated Claremont School Board member answering the roll call - the clerk's reading of the names is almost entirely untranscribed (the whole roll runs 35.2 s to 45.0 s and yields only four audible words), so which member answers here cannot be recovered"
+  },
+  "4": {
+   "name": "Noelle Kronberg",
+   "role": "School Board Clerk reading the roll at the chair's request ('Miss, would you please call roll call', 2) - 'Riley Hawkins' is the ASR for Arlene Hawkins ('Hawkins' confidence 0.99). NO ANSWER FOLLOWS: the chair confirms later that 'Arlene is not here' (461)"
+  },
+  "5": {
+   "name": "Noelle Kronberg",
+   "role": "School Board Clerk reading the roll - '20 miles' is the ASR for 'Bonnie Miles' ('miles' confidence 1.00); the 'Here' that closes this segment is Bonnie Miles's own answer, absorbed into the clerk's segment"
+  },
+  "6": {
+   "name": "Unidentified",
+   "role": "A seated Claremont School Board member answering the roll call - the name the clerk read was not transcribed"
+  },
+  "7": {
+   "name": "Unidentified",
+   "role": "A seated Claremont School Board member answering the roll call - the name the clerk read was not transcribed"
+  },
+  "10": {
+   "name": "Bonnie Miles"
+  },
+  "19": {
+   "name": "Caleb"
+  },
+  "22": {
+   "name": "Heather Whitney"
+  },
+  "48": {
+   "name": "Unidentified",
+   "role": "An in-room voice joking about a photograph in the superintendent's report - 'I do appreciate the picture, Mr. Small' (Jeff Small, Director of Technology); Pratt answers 'So I'm protecting his identity' (49). Filed by the diarizer with Dr. Winkler, who is remote and has not yet joined, so it is not him; no other anchor names the speaker"
+  },
+  "53": {
+   "name": "Alex Herzog"
+  },
+  "64": {
+   "name": "Dr. Dale Winkler",
+   "role": "Southern Regional Education Board - audio/screen-share check before his presentation ('This is my [screen]')"
+  },
+  "65": {
+   "name": "Dr. Dale Winkler",
+   "role": "Southern Regional Education Board - audio check before his presentation; 'Joe here. You now' is the ASR for 'Do you hear me now?'"
+  },
+  "69": {
+   "name": "Dr. Dale Winkler"
+  },
+  "117": {
+   "name": "Candace Crawford"
+  },
+  "119": {
+   "name": "Heather Whitney"
+  },
+  "123": {
+   "name": "Heather Whitney"
+  },
+  "127": {
+   "name": "Heather Whitney"
+  },
+  "130": {
+   "name": "Heather Whitney"
+  },
+  "132": {
+   "name": "Bonnie Miles"
+  },
+  "142": {
+   "name": "Frank Sprague",
+   "role": "Vice Chair, Claremont School Board - recognised by the chair one second earlier ('Questions, Mr. Sprague?', 141, confidence 1.00); he opens 'Doctor Harrington, [I was] wondering...'"
+  },
+  "143": {
+   "name": "Frank Sprague",
+   "role": "Vice Chair, Claremont School Board - TWO VOICES IN ONE SEGMENT: the first nine words are Dr. Herrington ('I'm sorry, I - you cut out there, I didn't [hear]', 2576.8-2579.1) and the rest is Sprague repeating his question (2579.5-2584.8). Attributed to Sprague because the substantive content is his"
+  },
+  "145": {
+   "name": "Heather Whitney"
+  },
+  "155": {
+   "name": "Heather Whitney"
+  },
+  "158": {
+   "name": "Bonnie Miles"
+  },
+  "160": {
+   "name": "Michael Petrin"
+  },
+  "161": {
+   "name": "Unidentified",
+   "role": "A board member seconding Michael Petrin's motion on the Puerto Rico trip - the second is audible ('Second. Second.') but the speaker is never named and no roll-call vote follows"
+  },
+  "163": {
+   "name": "Heather Whitney",
+   "role": "CHAIR, Claremont School Board - recognising Candace Crawford ('[Miss] Crawford.', confidence 0.81); the 'How many?' that follows in the same segment is Crawford's own onset, which she repeats at 164"
+  },
+  "165": {
+   "name": "Candace Crawford"
+  },
+  "168": {
+   "name": "Candace Crawford"
+  },
+  "174": {
+   "name": "Michael Petrin"
+  },
+  "175": {
+   "name": "Heather Whitney"
+  },
+  "177": {
+   "name": "Heather Whitney"
+  },
+  "180": {
+   "name": "Whitney Skillen"
+  },
+  "183": {
+   "name": "Michael Petrin"
+  },
+  "184": {
+   "name": "Michael Petrin"
+  },
+  "188": {
+   "name": "Heather Whitney"
+  },
+  "189": {
+   "name": "Chris Pratt",
+   "role": "Superintendent of Schools, SAU 6 - his own onset, contiguous with 190 ('I know if they're / doing these these kind of field trips in the past'), after the chair recognises 'Mr. Pratt?' (188)"
+  },
+  "192": {
+   "name": "Michael Petrin"
+  },
+  "197": {
+   "name": "Noelle Kronberg"
+  },
+  "198": {
+   "name": "Noelle Kronberg"
+  },
+  "199": {
+   "name": "Noelle Kronberg"
+  },
+  "201": {
+   "name": "Multiple",
+   "role": "Board members voting aye on the Puerto Rico trip - a voice vote with no count announced"
+  },
+  "203": {
+   "name": "Heather Whitney"
+  },
+  "205": {
+   "name": "Heather Whitney"
+  },
+  "235": {
+   "name": "Frank Sprague",
+   "role": "Vice Chair, Claremont School Board - onset immediately after the chair's 'I saw Frank[']s [hand] first, Mr. Sprague' (234); the words as transcribed ('Someone asked Charlie a question') are an ASR garble and the token 'Charlie' (0.94) is not tied to any person in this recording"
+  },
+  "236": {
+   "name": "Frank Sprague"
+  },
+  "237": {
+   "name": "Frank Sprague"
+  },
+  "238": {
+   "name": "Frank Sprague"
+  },
+  "239": {
+   "name": "Frank Sprague"
+  },
+  "241": {
+   "name": "Unidentified",
+   "role": "Stevens High School / SRVRTC master-schedule builder - see the Speaker 12 note; 'the run' is his own term for a scheduling run (compare 247, 'the first run was 90%')"
+  },
+  "242": {
+   "name": "Unidentified",
+   "role": "Stevens High School / SRVRTC master-schedule builder - see the Speaker 12 note"
+  },
+  "243": {
+   "name": "Unidentified",
+   "role": "Stevens High School / SRVRTC master-schedule builder - see the Speaker 12 note"
+  },
+  "244": {
+   "name": "Unidentified",
+   "role": "Stevens High School / SRVRTC master-schedule builder - see the Speaker 12 note"
+  },
+  "249": {
+   "name": "Frank Sprague"
+  },
+  "255": {
+   "name": "Frank Sprague"
+  },
+  "258": {
+   "name": "Frank Sprague"
+  },
+  "259": {
+   "name": "Frank Sprague"
+  },
+  "260": {
+   "name": "Frank Sprague"
+  },
+  "263": {
+   "name": "Whitney Skillen"
+  },
+  "274": {
+   "name": "Whitney Skillen"
+  },
+  "277": {
+   "name": "Frank Sprague"
+  },
+  "279": {
+   "name": "Frank Sprague"
+  },
+  "280": {
+   "name": "Frank Sprague"
+  },
+  "281": {
+   "name": "Frank Sprague"
+  },
+  "282": {
+   "name": "Frank Sprague"
+  },
+  "283": {
+   "name": "Frank Sprague"
+  },
+  "287": {
+   "name": "Michael Herrington"
+  },
+  "289": {
+   "name": "Michael Herrington"
+  },
+  "291": {
+   "name": "Heather Whitney"
+  },
+  "293": {
+   "name": "Michael Herrington"
+  },
+  "298": {
+   "name": "Frank Sprague",
+   "role": "Vice Chair, Claremont School Board - recognised by name one second earlier ('Frank Sprague.', 297, both words confidence 1.00); he opens 'from my own scheduling mind', which also ties him to the other scheduling and assessment recollections in this cluster (279-283, 527-528, 548)"
+  },
+  "299": {
+   "name": "Frank Sprague"
+  },
+  "303": {
+   "name": "Heather Whitney"
+  },
+  "314": {
+   "name": "Noelle Kronberg"
+  },
+  "319": {
+   "name": "Mike Koski"
+  },
+  "323": {
+   "name": "Frank Sprague"
+  },
+  "342": {
+   "name": "Frank Sprague"
+  },
+  "345": {
+   "name": "Frank Sprague"
+  },
+  "347": {
+   "name": "Frank Sprague"
+  },
+  "353": {
+   "name": "Mike Koski"
+  },
+  "377": {
+   "name": "Bonnie Miles"
+  },
+  "383": {
+   "name": "Mike Koski"
+  },
+  "387": {
+   "name": "Heather Whitney"
+  },
+  "389": {
+   "name": "Heather Whitney"
+  },
+  "391": {
+   "name": "Mary Henry"
+  },
+  "392": {
+   "name": "Mary Henry"
+  },
+  "393": {
+   "name": "Mary Henry"
+  },
+  "394": {
+   "name": "Mary Henry"
+  },
+  "395": {
+   "name": "Mary Henry"
+  },
+  "396": {
+   "name": "Mary Henry"
+  },
+  "397": {
+   "name": "Mary Henry"
+  },
+  "400": {
+   "name": "Mary Henry"
+  },
+  "404": {
+   "name": "Heather Whitney"
+  },
+  "406": {
+   "name": "Michael Petrin",
+   "role": "Claremont School Board member - the chair starts to recognise Sprague then corrects herself, 'Mr. / Sprague. / Is Mr. Patron' (403-405, 'Patron' confidence 0.99), so the questioner in this budget exchange (406, 408, 415, 416) is read as Petrin; Sprague is the alternative if the correction runs the other way"
+  },
+  "408": {
+   "name": "Michael Petrin"
+  },
+  "415": {
+   "name": "Michael Petrin"
+  },
+  "416": {
+   "name": "Michael Petrin"
+  },
+  "427": {
+   "name": "Mary Henry"
+  },
+  "441": {
+   "name": "Frank Sprague"
+  },
+  "452": {
+   "name": "Multiple",
+   "role": "Board members voting aye on the roof appropriation, overlapping the chair - the chair declares it 'passes unanimously' (453) with no count"
+  },
+  "455": {
+   "name": "Unidentified",
+   "role": "An in-room voice confirming to Mary Henry that the company name was read into the record; not tied to a named speaker"
+  },
+  "463": {
+   "name": "Frank Sprague"
+  },
+  "465": {
+   "name": "Frank Sprague"
+  },
+  "469": {
+   "name": "Michael Petrin"
+  },
+  "470": {
+   "name": "Michael Petrin"
+  },
+  "474": {
+   "name": "Whitney Skillen"
+  },
+  "479": {
+   "name": "Frank Sprague"
+  },
+  "481": {
+   "name": "Frank Sprague",
+   "role": "Vice Chair, Claremont School Board - he addresses Petrin by first name ('We're on the last ad hoc. Right, Mike? You can do it again'), and the chair immediately names the two volunteers as 'Frank and... Mike patron' (480) and then 'Michael Patron and Frank Sprague' (486)"
+  },
+  "482": {
+   "name": "Michael Petrin"
+  },
+  "483": {
+   "name": "Frank Sprague"
+  },
+  "485": {
+   "name": "Frank Sprague"
+  },
+  "503": {
+   "name": "Unidentified",
+   "role": "Crosstalk fragment during the laughter after Crawford's nomination; several people talk over one another"
+  },
+  "509": {
+   "name": "Heather Whitney"
+  },
+  "510": {
+   "name": "Mike Koski"
+  },
+  "511": {
+   "name": "Mike Koski"
+  },
+  "513": {
+   "name": "Mike Koski"
+  },
+  "519": {
+   "name": "Mike Koski"
+  },
+  "527": {
+   "name": "Frank Sprague"
+  },
+  "528": {
+   "name": "Frank Sprague"
+  },
+  "530": {
+   "name": "Mike Koski"
+  },
+  "532": {
+   "name": "Frank Sprague"
+  },
+  "535": {
+   "name": "Frank Sprague"
+  },
+  "537": {
+   "name": "Frank Sprague"
+  },
+  "548": {
+   "name": "Frank Sprague"
+  },
+  "566": {
+   "name": "Heather Whitney"
+  },
+  "574": {
+   "name": "Frank Sprague"
+  },
+  "578": {
+   "name": "Ben Nester",
+   "role": "DIRECTOR OF SPECIAL EDUCATION / STUDENT SERVICES, Claremont School District - HIS LAST BOARD MEETING. Michael Petrin asks across 577-578 'Can we get Ben to take a roll?' (one continuous sentence spanning the two segments) and the reply in this segment, 'That's a good thing for me', is Nester's - an in-joke on his years as the board's de facto roll-caller. This is the only utterance in the whole recording that can be attributed to him; the superintendent (39-40) and the chair (41) both say farewell to him by name"
+  },
+  "579": {
+   "name": "Frank Sprague"
+  }
+ }
+}

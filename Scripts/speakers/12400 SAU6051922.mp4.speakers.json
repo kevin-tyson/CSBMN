@@ -1,0 +1,96 @@
+{
+ "Speaker 2": {
+  "name": "Marjorie Erickson",
+  "role": "SAU 6 Board Chair (Unity) (calls the meeting to order [2] and runs it; names the evaluation subcommittee as 'myself, it's Heather, it's Josh and Shannon' after being addressed 'probably you Marjorie' [234-235]; on 6/16/22 she states she was chair at this meeting; see overrides for Heather Whitney segments merged into this cluster)"
+ },
+ "Speaker 3": {
+  "name": "Steven Horsky",
+  "role": "SAU 6 Board member (Claremont) (chair recognizes 'Steve.' [10], [21], [111], [199], [284] immediately before this voice's motions and replies)"
+ },
+ "Speaker 4": {
+  "name": "Michael Tempesta",
+  "role": "Superintendent, SAU 6 (delivers the superintendent's report [34-50] and the merit pay recommendation; 'since I've been here' [43])"
+ },
+ "Speaker 5": {
+  "name": "Frank Sprague",
+  "role": "SAU 6 Board Vice Chair (Claremont) (superintendent: 'to reiterate Frank's point' [79] after this voice's remarks [53-56]; chair asks 'Was he, Frank?' and this voice answers 'Not really' [225-226])"
+ },
+ "Speaker 8": {
+  "name": "Heather Whitney",
+  "role": "SAU 6 Board member (Claremont) (medium - the chair turns to 'Heather' [232] and this voice answers as a superintendent evaluation committee member [234], [236], [251])"
+ },
+ "Speaker 1": {
+  "name": "Unidentified",
+  "role": "Unidentified - mixed cluster: pledge chorus, roll-call names and answers, 'aye' votes, fragments; chair recognitions reassigned by override"
+ },
+ "Speaker 6": {
+  "name": "Unidentified",
+  "role": "Unidentified - SAU 6 board member asking for an SAU org chart [266], [278]"
+ },
+ "Speaker 7": {
+  "name": "Unidentified",
+  "role": "Unidentified - short remarks and a second [286] from one or more board members"
+ },
+ "__overrides__": {
+  "57": {
+   "name": "Marjorie Erickson"
+  },
+  "102": {
+   "name": "Marjorie Erickson"
+  },
+  "111": {
+   "name": "Marjorie Erickson"
+  },
+  "134": {
+   "name": "Marjorie Erickson"
+  },
+  "62": {
+   "name": "Heather Whitney",
+   "role": "SAU 6 Board member (Claremont) (recognized by the chair as 'Heather' immediately before; merged into the chair's cluster)"
+  },
+  "103": {
+   "name": "Heather Whitney",
+   "role": "SAU 6 Board member (Claremont) (recognized by the chair as 'Heather' immediately before; merged into the chair's cluster)"
+  },
+  "135": {
+   "name": "Heather Whitney",
+   "role": "SAU 6 Board member (Claremont) (recognized by the chair as 'Heather' immediately before; merged into the chair's cluster)"
+  },
+  "137": {
+   "name": "Heather Whitney",
+   "role": "SAU 6 Board member (Claremont) (recognized by the chair as 'Heather' immediately before; merged into the chair's cluster)"
+  },
+  "142": {
+   "name": "Heather Whitney",
+   "role": "SAU 6 Board member (Claremont) (recognized by the chair as 'Heather' immediately before; merged into the chair's cluster)"
+  },
+  "143": {
+   "name": "Heather Whitney",
+   "role": "SAU 6 Board member (Claremont) (recognized by the chair as 'Heather' immediately before; merged into the chair's cluster)"
+  },
+  "5": {
+   "name": "Unidentified",
+   "role": "Unidentified - roll call: names read and answers merged"
+  },
+  "7": {
+   "name": "Unidentified",
+   "role": "Unidentified - roll call: names read and answers merged"
+  },
+  "9": {
+   "name": "Unidentified",
+   "role": "Unidentified - roll call: names read and answers merged"
+  },
+  "162": {
+   "name": "Unidentified",
+   "role": "Unidentified - board member asking 'Is that your house, Marjorie?' (addresses the chair, so not Erickson)"
+  },
+  "26": {
+   "name": "Richard Seaman",
+   "role": "Assistant Superintendent for Finance, SAU 6 (uncertain - replies immediately after the chair's 'Richard, I thought you weren't coming tonight' [25]; merged into the superintendent's cluster)"
+  },
+  "28": {
+   "name": "Richard Seaman",
+   "role": "Assistant Superintendent for Finance, SAU 6 (uncertain - replies immediately after the chair's 'Richard, I thought you weren't coming tonight' [25]; merged into the superintendent's cluster)"
+  }
+ }
+}

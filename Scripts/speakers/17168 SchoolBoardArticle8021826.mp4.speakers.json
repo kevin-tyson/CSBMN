@@ -1,0 +1,244 @@
+{
+  "Speaker 1": {
+    "name": "Heather Whitney",
+    "role": "School Board Chair (calls the meeting to order, reads Article 8 and relays counsel's opinion, runs the podium queue; addressed as 'Madam Chair' and confirmed as 'Chair Whitney' in the full recording of the same evening, show 17159)"
+  },
+  "Speaker 2": {
+    "name": "Matt Angell",
+    "role": "Interim Business Administrator, SAU 6 (the chair hands off to 'Mr. Angel' for the tax consequences; presents the budget-versus-actual estimate)"
+  },
+  "Speaker 3": {
+    "name": "April Woodman",
+    "role": "Public commenter — write-in candidate for School District Moderator (self-identified at the podium; no ward stated)"
+  },
+  "Speaker 4": {
+    "name": "Kerry Kennedy",
+    "role": "Interim Superintendent, SAU 6 (John Cloutier refers to 'Superintendent Kennedy' having just spoken to the special-education point; she reports travelling to Concord with Mr. Angell)"
+  },
+  "Speaker 5": {
+    "name": "Mark Chamberlain",
+    "role": "Public commenter, Ward 1 — retired banker, Stevens alumni association volunteer (self-identified at the podium)"
+  },
+  "Speaker 6": {
+    "name": "Kiran Adrian",
+    "role": "Public commenter, Ward 1 — Stevens High School senior, music program (self-identified at the podium; ASR 'Kiran' here, 'Kieran' in show 17159)"
+  },
+  "Speaker 7": {
+    "name": "Unidentified",
+    "role": "Applause and room noise — the ASR renders sustained applause between speakers as repeated 'Thank you'; the chair's own thanks appear separately in her cluster"
+  },
+  "Speaker 8": {
+    "name": "April Woodman",
+    "role": "Public commenter — write-in candidate for School District Moderator (self-identified at the podium; no ward stated)"
+  },
+  "Speaker 9": {
+    "name": "Matt Bean",
+    "role": "Public commenter, Ward 1 (self-identified at the podium; ASR 'Matt Beam' in show 17159)"
+  },
+  "Speaker 10": {
+    "name": "Hope Damon",
+    "role": "NH State Representative, Croydon — House Education Funding Committee (recognized by the chair as 'Miss Damon'; self-identified by name and committee earlier the same evening in show 17159)"
+  },
+  "Speaker 11": {
+    "name": "Ken Lownie",
+    "role": "Public commenter, Ward 2 (self-identified at the podium; ASR renders the surname 'Louny', confidence 0.44)"
+  },
+  "Speaker 12": {
+    "name": "Camron Lownie",
+    "role": "Public commenter, Ward 2 — teacher and taxpayer, son of Ken Lownie (self-identified at the podium; ASR 'Cameron Lonnie')"
+  },
+  "Speaker 13": {
+    "name": "Heather Whitney",
+    "role": "School Board Chair (recognitions and queue management; same voice as Speaker 1, split by the diarizer)"
+  },
+  "Speaker 14": {
+    "name": "Sherry Williams",
+    "role": "Public commenter, Ward 1 (self-identified at the podium; district minutes elsewhere spell the first name 'Sheri')"
+  },
+  "Speaker 15": {
+    "name": "Nora Shane",
+    "role": "Public commenter, Ward 3 — Stevens High School senior (self-identified at the podium; ASR 'Nora' confidence 0.73)"
+  },
+  "Speaker 16": {
+    "name": "Gary Merchant",
+    "role": "Public commenter, Ward 2 — NH State Representative and Stevens High School class of 1971 (self-identified at the podium)"
+  },
+  "Speaker 17": {
+    "name": "John Cloutier",
+    "role": "Public commenter, Ward 1 — NH State Representative for Claremont, Stevens High School class of 1975 (self-identified at the podium; ASR renders the surname 'Claudia', confidence 0.60)"
+  },
+  "Speaker 18": {
+    "name": "Bonnie Miles",
+    "role": "Public commenter, Ward 2 — former School Board member (self-identified at the podium, 'I was on school board previously')"
+  },
+  "__overrides__": {
+    "16": {
+      "name": "Heather Whitney",
+      "role": "School Board Chair (continues her own sentence from the preceding segment; show 17159 keeps 'And they show the depth of the impact based on your...' in one chair segment)"
+    },
+    "44": {
+      "name": "January King",
+      "role": "Public commenter, Ward 1 — single parent of a tech-center student (self-identified at the podium; 'Ward one' rendered 'warden', confidence 0.51)"
+    },
+    "45": {
+      "name": "January King",
+      "role": "Public commenter, Ward 1 — single parent of a tech-center student (self-identified at the podium; 'Ward one' rendered 'warden', confidence 0.51)"
+    },
+    "49": {
+      "name": "Leslie Peabody",
+      "role": "Public commenter, Ward 1 — science teacher at Stevens High School (self-identified at the podium; the self-identification is split across four diarized clusters)"
+    },
+    "50": {
+      "name": "Leslie Peabody",
+      "role": "Public commenter, Ward 1 — science teacher at Stevens High School (self-identified at the podium; the self-identification is split across four diarized clusters)"
+    },
+    "51": {
+      "name": "Leslie Peabody",
+      "role": "Public commenter, Ward 1 — science teacher at Stevens High School (self-identified at the podium; the self-identification is split across four diarized clusters)"
+    },
+    "52": {
+      "name": "Leslie Peabody",
+      "role": "Public commenter, Ward 1 — science teacher at Stevens High School (self-identified at the podium; the self-identification is split across four diarized clusters)"
+    },
+    "54": {
+      "name": "Leslie Peabody",
+      "role": "Public commenter, Ward 1 — science teacher at Stevens High School"
+    },
+    "55": {
+      "name": "Leslie Peabody",
+      "role": "Public commenter, Ward 1 — science teacher at Stevens High School"
+    },
+    "56": {
+      "name": "Leslie Peabody",
+      "role": "Public commenter, Ward 1 — science teacher at Stevens High School"
+    },
+    "57": {
+      "name": "Leslie Peabody",
+      "role": "Public commenter, Ward 1 — science teacher at Stevens High School"
+    },
+    "59": {
+      "name": "Unidentified",
+      "role": "Truncated recognition ('Mr..') inside 4.8s of applause before Matt Bean reaches the podium; the speaker cannot be separated from the applause"
+    },
+    "60": {
+      "name": "Matt Bean",
+      "role": "Public commenter, Ward 1 — podium self-identification, 'Matt Bean, Ward one', split across three clusters"
+    },
+    "61": {
+      "name": "Matt Bean",
+      "role": "Public commenter, Ward 1 — podium self-identification, 'Matt Bean, Ward one', split across three clusters"
+    },
+    "72": {
+      "name": "Ken Lownie",
+      "role": "Public commenter, Ward 2 — asks the chair to confirm the three-minute limit; the chair's one-word answer 'Yes' is inside the same segment and cannot be split out"
+    },
+    "73": {
+      "name": "Ken Lownie",
+      "role": "Public commenter, Ward 2 — podium aside immediately before his self-identification"
+    },
+    "77": {
+      "name": "Unidentified",
+      "role": "Asks Ken Lownie to lower the microphone ('Phone down?' = 'Microphone down?' in show 17159); the two diarizations place this voice differently and it cannot be resolved"
+    },
+    "79": {
+      "name": "Kerry Kennedy",
+      "role": "Interim Superintendent, SAU 6 — continues into the next segment, which both diarizations of this audio place in her cluster (medium confidence)"
+    },
+    "81": {
+      "name": "Ken Lownie",
+      "role": "Public commenter, Ward 2 — his reply 'I really don't care about the TV, but'; the two opening words 'Audience TV' are the tail of the other speaker's line and cannot be split out"
+    },
+    "88": {
+      "name": "Camron Lownie",
+      "role": "Public commenter, Ward 2 — teacher and taxpayer; clipped continuation of his own opening line"
+    },
+    "92": {
+      "name": "Camron Lownie",
+      "role": "Public commenter, Ward 2 — teacher and taxpayer; sub-second fragment inside his own sentence"
+    },
+    "95": {
+      "name": "Unidentified public commenter",
+      "role": "Public commenter — speaks after Camron Lownie; asks the board to re-invite the fair school funding presenters and to post the consequences of a $9M cut on the district website. No self-identification and no chair recognition captured; both diarizations of this audio merge her into the chair's cluster"
+    },
+    "96": {
+      "name": "Unidentified public commenter",
+      "role": "Public commenter — speaks after Camron Lownie; asks the board to re-invite the fair school funding presenters and to post the consequences of a $9M cut on the district website. No self-identification and no chair recognition captured; both diarizations of this audio merge her into the chair's cluster"
+    },
+    "98": {
+      "name": "Unidentified public commenter",
+      "role": "Public commenter — speaks after Camron Lownie; asks the board to re-invite the fair school funding presenters and to post the consequences of a $9M cut on the district website. No self-identification and no chair recognition captured; both diarizations of this audio merge her into the chair's cluster"
+    },
+    "99": {
+      "name": "Unidentified public commenter",
+      "role": "Public commenter — speaks after Camron Lownie; asks the board to re-invite the fair school funding presenters and to post the consequences of a $9M cut on the district website. No self-identification and no chair recognition captured; both diarizations of this audio merge her into the chair's cluster"
+    },
+    "103": {
+      "name": "Heather Whitney",
+      "role": "School Board Chair — sub-second fragment inside her own queue-management line"
+    },
+    "111": {
+      "name": "Nora Shane",
+      "role": "Public commenter, Ward 3 — Stevens High School senior; opening joke that runs straight into her self-identification ('Are you guys sick of me yet? I'm still Nora Shane...', one sentence in show 17159)"
+    },
+    "112": {
+      "name": "Nora Shane",
+      "role": "Public commenter, Ward 3 — Stevens High School senior; sub-second fragment inside her own self-identification"
+    },
+    "122": {
+      "name": "Hope Damon",
+      "role": "NH State Representative, Croydon — sub-second fragment inside her own opening sentence"
+    },
+    "128": {
+      "name": "Unidentified",
+      "role": "Asks Rep. Damon for the Croydon budget-restoration vote total; voice not distinguishable (show 17159 splits the same words across two clusters, neither of them the chair's)"
+    },
+    "129": {
+      "name": "Unidentified",
+      "role": "Same questioner as the preceding segment — 'Oh.' before Rep. Damon answers (show 17159 groups it with the question, not with her reply)"
+    },
+    "131": {
+      "name": "Heather Whitney",
+      "role": "School Board Chair — invites the superintendent to speak, 'Would you like to speak?', split across two clusters"
+    },
+    "132": {
+      "name": "Heather Whitney",
+      "role": "School Board Chair — invites the superintendent to speak, 'Would you like to speak?', split across two clusters"
+    },
+    "141": {
+      "name": "Gary Merchant",
+      "role": "Public commenter, Ward 2 — sub-second fragment inside his own sentence about his tax bill"
+    },
+    "147": {
+      "name": "Unidentified",
+      "role": "Interjection during Gary Merchant's remarks, 'One of your classmates' — a separate voice from Merchant in both diarizations, but the speaker is not identifiable"
+    },
+    "148": {
+      "name": "Unidentified",
+      "role": "Interjection during Gary Merchant's remarks, 'One of your classmates' — a separate voice from Merchant in both diarizations, but the speaker is not identifiable; Merchant's own reply 'Classmates' begins inside this same segment"
+    },
+    "154": {
+      "name": "April Woodman",
+      "role": "Public commenter — write-in candidate for School District Moderator; sub-second fragment inside her own sentence"
+    },
+    "167": {
+      "name": "John Cloutier",
+      "role": "Public commenter, Ward 1 — NH State Representative; podium self-identification split across four clusters"
+    },
+    "168": {
+      "name": "John Cloutier",
+      "role": "Public commenter, Ward 1 — NH State Representative; podium self-identification split across four clusters"
+    },
+    "169": {
+      "name": "John Cloutier",
+      "role": "Public commenter, Ward 1 — NH State Representative; podium self-identification split across four clusters"
+    },
+    "170": {
+      "name": "John Cloutier",
+      "role": "Public commenter, Ward 1 — NH State Representative; podium self-identification split across four clusters"
+    },
+    "190": {
+      "name": "Heather Whitney",
+      "role": "School Board Chair — clipped onset of her next line, 'Right. Anyone else?'"
+    }
+  }
+}

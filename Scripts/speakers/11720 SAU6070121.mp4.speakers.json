@@ -1,0 +1,181 @@
+{
+ "Speaker 1": {
+  "name": "Michael Tempesta",
+  "role": "Superintendent, SAU 6"
+ },
+ "Speaker 2": {
+  "name": "Mary Woodman",
+  "role": "School district clerk and board recording secretary (takes roll)"
+ },
+ "Speaker 3": {
+  "name": "Steven Horsky",
+  "role": "Claremont School Board member; SAU 6 Board member"
+ },
+ "Speaker 4": {
+  "name": "Marjorie Erickson",
+  "role": "SAU 6 Board Vice Chair, presiding (Unity School Board Chair)"
+ },
+ "Speaker 5": {
+  "name": "Rob Lovett Jr.",
+  "role": "Claremont School Board member; SAU 6 Board member"
+ },
+ "Speaker 6": {
+  "name": "Shannon Popescu",
+  "role": "SAU 6 Board member (Unity)"
+ },
+ "Speaker 7": {
+  "name": "Rocco Ruggeri",
+  "role": "SAU 6 Board member (Unity)"
+ },
+ "Speaker 8": {
+  "name": "Joshua Lambert",
+  "role": "Claremont School Board member; SAU 6 Board member"
+ },
+ "Speaker 9": {
+  "name": "Nicholas Stone",
+  "role": "Claremont School Board member; SAU 6 Board member"
+ },
+ "Speaker 10": {
+  "name": "Richard Seaman",
+  "role": "Assistant Superintendent for Finance, SAU 6"
+ },
+ "Speaker 11": {
+  "name": "Unidentified",
+  "role": "Unidentified - short questions and interjections from more than one voice (board members and staff)"
+ },
+ "Speaker 12": {
+  "name": "Heather Whitney",
+  "role": "Claremont School Board Vice Chair; SAU 6 Board member"
+ },
+ "Speaker 13": {
+  "name": "Marjorie Erickson",
+  "role": "SAU 6 Board Vice Chair, presiding (Unity School Board Chair)"
+ },
+ "Speaker 14": {
+  "name": "Unidentified",
+  "role": "Unidentified - closing 'Thank you'"
+ },
+ "__overrides__": {
+  "5": {
+   "name": "Rocco Ruggeri"
+  },
+  "50": {
+   "name": "Rocco Ruggeri"
+  },
+  "51": {
+   "name": "Rocco Ruggeri"
+  },
+  "52": {
+   "name": "Rocco Ruggeri"
+  },
+  "8": {
+   "name": "Steven Horsky"
+  },
+  "15": {
+   "name": "Unidentified",
+   "role": "Unidentified - presiding remarks that include a second to the vice chair motion; voice not separable"
+  },
+  "18": {
+   "name": "Unidentified",
+   "role": "Unidentified board member (motion, second or vote absorbed into the superintendent's cluster)"
+  },
+  "20": {
+   "name": "Unidentified",
+   "role": "Unidentified board member (motion, second or vote absorbed into the superintendent's cluster)"
+  },
+  "22": {
+   "name": "Unidentified",
+   "role": "Unidentified board member (motion, second or vote absorbed into the superintendent's cluster)"
+  },
+  "28": {
+   "name": "Unidentified",
+   "role": "Unidentified board member (motion, second or vote absorbed into the superintendent's cluster)"
+  },
+  "32": {
+   "name": "Unidentified",
+   "role": "Unidentified board member (motion, second or vote absorbed into the superintendent's cluster)"
+  },
+  "34": {
+   "name": "Unidentified",
+   "role": "Unidentified - reply 'No' when the presiding officer asks 'Jeff?' about citizens (possibly Jeff Small)"
+  },
+  "46": {
+   "name": "Frank Sprague",
+   "role": "Claremont School Board Chair; SAU 6 Board member"
+  },
+  "58": {
+   "name": "Frank Sprague"
+  },
+  "59": {
+   "name": "Frank Sprague"
+  },
+  "48": {
+   "name": "Heather Whitney"
+  },
+  "55": {
+   "name": "Nicholas Stone"
+  },
+  "106": {
+   "name": "Donna Magoon",
+   "role": "Assistant Superintendent, SAU 6 (uncertain - content only: describes planning and staffing the summer program; not named on this recording)"
+  },
+  "108": {
+   "name": "Donna Magoon",
+   "role": "Assistant Superintendent, SAU 6 (uncertain - content only: describes planning and staffing the summer program; not named on this recording)"
+  },
+  "115": {
+   "name": "Donna Magoon"
+  },
+  "117": {
+   "name": "Donna Magoon"
+  },
+  "118": {
+   "name": "Donna Magoon"
+  },
+  "120": {
+   "name": "Donna Magoon"
+  },
+  "130": {
+   "name": "Donna Magoon"
+  },
+  "138": {
+   "name": "Donna Magoon"
+  },
+  "139": {
+   "name": "Donna Magoon"
+  },
+  "163": {
+   "name": "Donna Magoon"
+  },
+  "164": {
+   "name": "Donna Magoon"
+  },
+  "165": {
+   "name": "Donna Magoon"
+  },
+  "360": {
+   "name": "Rob Lovett Jr."
+  },
+  "361": {
+   "name": "Rob Lovett Jr."
+  },
+  "362": {
+   "name": "Rob Lovett Jr."
+  },
+  "363": {
+   "name": "Rob Lovett Jr."
+  },
+  "364": {
+   "name": "Rob Lovett Jr."
+  },
+  "365": {
+   "name": "Rob Lovett Jr."
+  },
+  "366": {
+   "name": "Rob Lovett Jr."
+  },
+  "367": {
+   "name": "Rob Lovett Jr."
+  }
+ }
+}

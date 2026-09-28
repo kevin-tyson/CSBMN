@@ -1,0 +1,68 @@
+{
+ "Speaker 1": {
+  "name": "Chris Irish",
+  "role": "Claremont School Board Vice Chair"
+ },
+ "Speaker 2": {
+  "name": "Brian Rapp",
+  "role": "Claremont School Board Chair"
+ },
+ "Speaker 3": {
+  "name": "Middleton McGoodwin",
+  "role": "Superintendent, SAU 6"
+ },
+ "Speaker 4": {
+  "name": "Michael O'Neill",
+  "role": "Business Administrator, SAU 6"
+ },
+ "Speaker 5": {
+  "name": "Patrick Adrian",
+  "role": "Claremont School Board member"
+ },
+ "Speaker 6": {
+  "name": "Cory LeClair",
+  "role": "Assistant Superintendent, SAU 6"
+ },
+ "Speaker 7": {
+  "name": "Michelle Pierce",
+  "role": "Claremont School Board member"
+ },
+ "Speaker 8": {
+  "name": "Alex Herzog",
+  "role": "Claremont School Board member"
+ },
+ "Speaker 9": {
+  "name": "Unidentified",
+  "role": "Unidentified - board member, short remarks (possibly Frank Sprague; hypothesis by elimination only)"
+ },
+ "Speaker 10": {
+  "name": "Unidentified",
+  "role": "Unidentified - cluster mixes fragments of several voices; its substantive lines ([307], [310], [332], [391], [497]) are a board member, possibly Frank Sprague (hypothesis by elimination only)"
+ },
+ "Speaker 11": {
+  "name": "Jenny Desert",
+  "role": "Art teacher, Bluff Elementary School, public commenter (surname as heard by ASR 'Desert'; called 'Mrs. D'; spelling unverified)"
+ },
+ "Speaker 12": {
+  "name": "Unidentified",
+  "role": "Unidentified - cluster mixes short thanks and motions from several board members"
+ },
+ "Speaker 13": {
+  "name": "Nick",
+  "role": "Public commenter, Ward 3 (first name only on record)"
+ },
+ "Speaker 14": {
+  "name": "Rachel Nagler",
+  "role": "Public commenter, parent of a kindergarten student (name as heard by ASR)"
+ },
+ "__overrides__": {
+  "7": {
+   "name": "Unidentified",
+   "role": "Unidentified - roll-call responses from members"
+  },
+  "8": {
+   "name": "Unidentified",
+   "role": "Unidentified - roll-call responses from members"
+  }
+ }
+}

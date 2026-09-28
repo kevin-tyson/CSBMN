@@ -1,0 +1,268 @@
+{
+  "Speaker 1": {
+    "name": "Unidentified",
+    "role": "Pre-gavel floor chatter, four seconds before the chair calls the meeting to order ('Position is.'). A one-segment cluster with no name anchor of any kind"
+  },
+  "Speaker 2": {
+    "name": "Arlene Hawkins",
+    "role": "CHAIR, SAU 6 Joint Board (re-elected 4/11/2024) and chair of the SAU 6 policy subcommittee; Claremont School Board member. She calls the meeting to order in her own voice at segment 1 ('I'd like to call to order the Saw six [SAU 6] school board meeting for September 12th'), asks for the roll, and runs every agenda item. NAMED FOUR WAYS: a member thanks her by name at 2802.4s ('Thank you, thank you. Arlene.', conf 1.00) immediately after Candace Crawford praises 'the chair of the SA board and the chair of the Policy Committee ... for all the work she does'; Superintendent Pratt says 'I shared that with Arlene ... so she could take a look at it' (4521.3s, conf 0.95) of the communication protocol this voice is discussing; Pratt thanks 'Frank ... and Arlene' for attending the opening meeting (338.6s); and the 9/12/24 draft SAU 6 minutes list 'Arlene Hawkins-Chair' and attribute to her the under-budgeting observation (1119s), the organizational-chart request (1950s), the ad hoc committee presentation (3120-3430s) and the communication-protocol explanation (4436-4581s), all of which are in this cluster. MERGED CLUSTER: it also carries Bonnie Miles's challenge to the ad hoc committee and several unattributable crosstalk fragments - see the overrides"
+  },
+  "Speaker 3": {
+    "name": "Heather Whitney",
+    "role": "CHAIR, Claremont School Board; SAU 6 Joint Board member - FIRST of two clusters for this voice (this one runs 18.8s-2578.4s, Speaker 11 runs 2770.8s-5422.7s; the two never overlap in time, the same split the diarizer produced for Whitney at the 4/11/2024 SAU 6 meeting). Identified from the four policy motions: the 9/12/24 draft minutes record 'Heather Whitney made a motion to adopt policy BEDG per the amendments' (2263-2278s), '...to adopt policy [BBBH-S] after first read as amended, Kelly Simpson seconded' (2444s, seconded at 2460s by Speaker 6 = Simpson), and '...to adopt the policy [DIE Audits] after the first read, Kelly Simpson seconded; Rocco Ruggeri requested a friendly amendment ...; Heather Whitney accepted the friendly amendment' (2531s motion, 2544s second, 2549-2564s Ruggeri, 2564s 'Friendly amendment to my motion' - this voice calls it MY motion, which is self-evidence that it is the mover). MERGED CLUSTER: Candace Crawford's budget questions are inside it - see the overrides"
+  },
+  "Speaker 4": {
+    "name": "Unidentified",
+    "role": "Short-fragment cluster - no single voice holds it. Twenty-three segments, all but the roll call under four seconds: the clerk's roll call, the chair's own vote calls, Mary Henry's clipped sentence-continuations and a run of one-word thanks during the budget report. Everything defensible is reassigned by override; the eight segments left here are backchannel 'Thank you' / 'Yep' fragments during the business administrator's budget report that could belong to Henry, the chair or a member and cannot be separated"
+  },
+  "Speaker 5": {
+    "name": "Rocco Ruggeri",
+    "role": "VICE CHAIR, SAU 6 Joint Board (elected 4/11/2024); Unity School Board member. Chair Hawkins hands him the Unity update by name at 5171.1s ('Rocco, you have an update?', conf 1.00) and this voice answers 0.64s later with the Unity Planning Committee report (5174-5288s). Corroborated four more ways: the draft minutes record Ruggeri moving the agenda (78.8s), the 4/11/24 minutes (116.1s) and the 5/29/24 retreat minutes (132.3s) - all three motions are this cluster; the minutes record 'Rocco Ruggeri requested a friendly amendment to add NH statutes to keep consistent' (2549-2564s, this cluster); the minutes record 'Rocco Ruggeri expressed disappointment in the report and stated that he believes the intent and position of the Unity Board was misunderstood ... more of a time-value issue' (3582-3952s, this cluster); and Hawkins refers to him in the third person as 'Mr. Jerry' (4163.7s, conf 0.61 - the ASR garble for Ruggeri) while answering exactly those remarks"
+  },
+  "Speaker 6": {
+    "name": "Kelly Simpson",
+    "role": "Unity School Board member; SAU 6 Joint Board member; SAU 6 policy subcommittee. Chair Hawkins recognises her by name three times immediately before this voice speaks - 'Okay, Kelly.' (125.1s, conf 1.00) before 'I'll second'; 'So we did that. Kelly.' (2186.0s) before 'I appear to have a really dysfunctional packet tonight'; 'I don't know if you have any questions or comments. Kelly.' (3433.8s) before the communication-times question - and addresses her again at 2222.9s and 4696.1s. Ruggeri refers to her by name at 5206.3s ('So what Kelly was alluding to, it's 7.8% this year'). The draft minutes independently attribute to Kelly Simpson the communication-times question (3439s), the frustration about the report going to the Unity public hearing (4201-4242s), the $60,000 contribution point (4699-4760s) and the website complaint (5301-5435s) - all in this cluster"
+  },
+  "Speaker 7": {
+    "name": "Chris Pratt",
+    "role": "Superintendent of Schools, SAU 6 (appointment formally announced at this meeting, effective June 2024). Chair Hawkins announces 'the appointment of Superintendent Christopher Pratt as superintendent of saw six [SAU 6], which was effective in June. Congratulations, Mr. Pratt' (176.7-184.3s, conf 1.00) and then asks 'Do you have a superintendent report?' (208.3s); this voice delivers it. It speaks throughout as the superintendent ('from my office perspective, not speaking on behalf of the board', 4291s) and Frank Sprague addresses it as 'Mr. Pratt' at 2833.9s"
+  },
+  "Speaker 8": {
+    "name": "Frank Sprague",
+    "role": "VICE CHAIR, Claremont School Board; SAU 6 Joint Board member; CHAIR of the SAU 6 superintendent-evaluation subcommittee. TWO NAMED ANCHORS PLUS A SELF-DESCRIPTION: Hawkins ends the BBBH-S policy read with 'This is a first reading rank [Frank]' (2415.9s) and this voice answers immediately with the E.3 amendment the minutes credit to 'Frank Sprague requested to add under E.3 and benefits after salaries'; Hawkins then says 'Mr. Sprague is chairperson of that committee' (2814.4s, conf 1.00) and this voice gives the evaluation report, twice calling itself the chair ('that's what I want to avoid as the chair', 2903.6s; 'that's my objective as the chair', 2933.6s); Pratt thanks 'the work Frank has put into this' (2993.5s, conf 1.00) of that same report"
+  },
+  "Speaker 9": {
+    "name": "Michael Petrin",
+    "role": "Claremont School Board member; SAU 6 Joint Board member. Chair Hawkins recognises him by first name - 'And anyone else? Mike.' (1298.1s, 'Mike' conf 1.00) - and this voice asks the very next question (1299.4s, the unspent maintenance-telephone line). The questions in this cluster are a board member's review of the budget report and of the new radio system, not staff reporting, and Petrin is the only Michael seated at this table; the two staff Michaels in the SAU masthead (Koski, McCosker) neither present nor speak in this recording. Roll call: 'Michael. Here.' (50.97s, conf 0.77); the draft minutes list Michael Petrin present"
+  },
+  "Speaker 10": {
+    "name": "Mary Henry",
+    "role": "Business Administrator, SAU 6. Chair Hawkins introduces 'a budget update from Mary Henry, our business administrator' at 953.5s (both tokens conf 1.00) immediately before this voice's report, and thanks 'Mary' at 1561.2s at the end of it; a member addresses her as 'Mayor' (the ASR's rendering of 'Mary') at 1029.5s. The voice speaks throughout as the person who builds the budget ('I didn't put that budget together for 24', 1152.0s) and negotiates with Health Trust. The draft minutes label the item 'Presentation by Mary Henry, BA'"
+  },
+  "Speaker 11": {
+    "name": "Heather Whitney",
+    "role": "CHAIR, Claremont School Board; SAU 6 Joint Board member - SECOND of two clusters for this voice (2770.8s-5422.7s; see the Speaker 3 note - the two clusters are disjoint in time and this diarizer split Whitney the same way at the 4/11/2024 SAU 6 meeting). The 9/12/24 draft minutes attribute to Heather Whitney both long passages in this cluster: 'Heather Whitney noted that the document/findings were shared in effort of transparency' (4398-4436s) and 'Heather Whitney shared that the Claremont School Board knew this would be an uncomfortable conversation, but the CSB wanted to be open and transparent' (4788-4882s). The voice speaks from inside the Claremont board throughout ('we don't watch your meetings, you don't watch our meetings', 4820s). MERGED CLUSTER: its first two segments are Candace Crawford - see the overrides"
+  },
+  "Speaker 12": {
+    "name": "Candace Crawford",
+    "role": "Claremont School Board member; SAU 6 Joint Board member; SAU 6 policy subcommittee. Chair Hawkins recognises 'Miss Crawford' at 5468.1s (conf 1.00) and this voice answers 0.08s later with 'May I make a motion to [adjourn]'; the draft minutes record 'Candace Crawford made a motion to adjourn the meeting at 8:00pm, Bonnie Miles seconded the motion', and the chair's very next words are 'Bonnie, that was you? Yes.' (5475.1s, conf 0.99), confirming both mover and seconder. The rest of the cluster is one Claremont board member pressing for the ad hoc report's title to say 'Claremont School Board' (4139-4157s, 4625-4688s), consistent with the same seat"
+  },
+  "Speaker 13": {
+    "name": "Unidentified",
+    "role": "Four one-word interjections from the board table ('Good, good.', 'Thank you.', 'Yep.', 'Close.' - the last at ASR confidence 0.29), spread across 4602-5482s with no name anchor and no continuous speech to characterise the voice"
+  },
+  "__overrides__": {
+    "2": {
+      "name": "Unidentified",
+      "role": "The room reciting the Pledge of Allegiance after the chair's 'If everyone in the room would please rise'; a collective recitation cannot be attributed to one speaker"
+    },
+    "3": {
+      "name": "Unidentified",
+      "role": "The room reciting the Pledge of Allegiance after the chair's 'If everyone in the room would please rise'; a collective recitation cannot be attributed to one speaker"
+    },
+    "6": {
+      "name": "Noelle Kronberg",
+      "role": "SAU 6 School Board Clerk - reads the roll at the chair's request ('Would you take a roll call of the tendency [attendance] of board members, please?', 33.0s). She is not a board member, so she does not appear in the roll she reads; the 9/12/24 draft minutes name the agenda item 'Secretary Roll Call of Attendance of Board Members', list 'SAU#6 School Board Clerk- Noelle Kronberg' in the masthead and are signed 'Respectfully submitted by Noelle Kronberg, board clerk'. The ASR eats most of the surnames: what survives is 'James prophet here' (Crawford), 'Bonnie. Minds here' (Miles), 'Michael. Here' (Petrin), 'Shannon' (Popescu, who does not answer - the minutes list her absent), 'Eddie Simpson here' (Kelly Simpson) and three bare 'Here's"
+    },
+    "7": {
+      "name": "Noelle Kronberg",
+      "role": "SAU 6 School Board Clerk - roll call, continued"
+    },
+    "8": {
+      "name": "Noelle Kronberg",
+      "role": "SAU 6 School Board Clerk - roll call, continued"
+    },
+    "9": {
+      "name": "Noelle Kronberg",
+      "role": "SAU 6 School Board Clerk - roll call, continued"
+    },
+    "12": {
+      "name": "Heather Whitney",
+      "role": "The second to Ruggeri's motion to approve the agenda; the 9/12/24 draft minutes record 'Rocco Ruggeri made a motion to accept the agenda as written, Heather Whitney seconded the motion'"
+    },
+    "15": {
+      "name": "Arlene Hawkins",
+      "role": "The chair's own vote call ('Opposed?'), clipped out of her sequence 'All in favor? ... Opposed? ... Abstentions.' (segments 13-16)"
+    },
+    "19": {
+      "name": "Arlene Hawkins",
+      "role": "The tail of the chair's own sentence 'Do them individually. Okay. Would you ... like to make [that motion]?' - zero-gap continuation of segment 18"
+    },
+    "26": {
+      "name": "Arlene Hawkins",
+      "role": "The chair thanking Kelly Simpson for the second, matching her 'Okay, Kelly' at segment 21"
+    },
+    "28": {
+      "name": "Arlene Hawkins",
+      "role": "The chair's vote call, heard as 'I, I posed sentience' = 'Aye. Opposed? Abstentions.'"
+    },
+    "29": {
+      "name": "Michael Petrin",
+      "role": "Claremont School Board member; SAU 6 Joint Board member - the lone abstention on the 5/29/24 retreat minutes. The 9/12/24 draft minutes record the vote as 'all present voting yes with the exception of Michael Petrin who abstains'; the mover of that motion is Ruggeri, whose cluster the diarizer put this in"
+    },
+    "30": {
+      "name": "Arlene Hawkins",
+      "role": "The chair closing out the vote ('All right.')"
+    },
+    "32": {
+      "name": "Chris Pratt",
+      "role": "Pratt's 'Thank you.' answering the chair's 'Congratulations, Mr. Pratt' (segment 31). The trailing 'We are' is the chair's onset of segment 34 and cannot be split off within a segment"
+    },
+    "63": {
+      "name": "Chris Pratt",
+      "role": "Zero-gap continuation of Pratt's own sentence at segment 62 - 'In the fire. They'll probably each get a radio ... too.'"
+    },
+    "88": {
+      "name": "Chris Pratt",
+      "role": "Pratt's 'You're welcome.' answering the chair's 'Thank you so much for all the information' at segment 87"
+    },
+    "90": {
+      "name": "Mary Henry",
+      "role": "The opening line of Henry's budget report ('So I sent you guys the budget report last week'), 0.08s after the chair introduces her by name at segment 89"
+    },
+    "91": {
+      "name": "Mary Henry",
+      "role": "Zero-gap continuation of Henry's own sentence into segment 92 - 'I have ... made some changes already'"
+    },
+    "96": {
+      "name": "Candace Crawford",
+      "role": "Claremont School Board member; SAU 6 Joint Board member - the question about the SAU's positive year-end balance. The 9/12/24 draft minutes record 'Candace Crawford asked about this balance', and Henry's answer (segments 98-101: insurance over-budgeted, a special-education position budgeted at SAU level but paid from Claremont) matches the minutes' summary of the reply word for word"
+    },
+    "97": {
+      "name": "Mary Henry",
+      "role": "Henry's 'Yes.' answering the balance question, 0.02s before her own segment 98"
+    },
+    "99": {
+      "name": "Mary Henry",
+      "role": "One word clipped out of the middle of Henry's own sentence - 'because you're ... over ... budgeted in health insurance' - with zero gap on both sides (segments 98 and 100)"
+    },
+    "102": {
+      "name": "Candace Crawford",
+      "role": "The same questioner's second question ('Second question is ... the business office contracted services over by about 25,000'), continuing her own 'Just a couple of questions' at segment 96"
+    },
+    "103": {
+      "name": "Mary Henry",
+      "role": "Zero-gap continuation of Henry's own sentence into segment 104 - 'Yeah, that ... was when they contracted with Municipal Services. That was Dave Jack.'"
+    },
+    "105": {
+      "name": "Candace Crawford",
+      "role": "Her acknowledgement ('Oh, right. Okay.') of Henry's answer to her own segment-102 question"
+    },
+    "140": {
+      "name": "Arlene Hawkins",
+      "role": "One word clipped out of the chair's own sentence across segments 139-141 - 'It's hard ... to ... create and cost constantly going up'"
+    },
+    "147": {
+      "name": "Mary Henry",
+      "role": "Clipped 0.36s fragment completing Henry's own sentence at segment 146 - 'and in unity there was a ...'"
+    },
+    "174": {
+      "name": "Arlene Hawkins",
+      "role": "One word clipped out of the chair's own sentence across segments 173-175 - 'Yes I would ... think ...'"
+    },
+    "233": {
+      "name": "Chris Pratt",
+      "role": "Zero-gap completion of Pratt's own sentence at segment 232 - 'You'll have ... that.'"
+    },
+    "245": {
+      "name": "Arlene Hawkins",
+      "role": "Zero-gap continuation of the chair's own sentence into segment 246 - 'they were, they ... were paper clip[ped] separately'"
+    },
+    "259": {
+      "name": "Heather Whitney",
+      "role": "The middle of Whitney's own motion, split three ways with zero gaps across segments 258-260 - 'I'd like to make ... a motion to ... approve policy BEDG'. The 'I'll second that motion' at the tail of segment 260 is Candace Crawford's second (so recorded in the draft minutes) and cannot be split out within a segment"
+    },
+    "279": {
+      "name": "Arlene Hawkins",
+      "role": "Clipped fragment of the chair's own reading of draft policy DIE across segments 278-280 - '... presented to the board at a public meeting, we review it and address any findings'"
+    },
+    "288": {
+      "name": "Arlene Hawkins",
+      "role": "Zero-gap completion of the chair's own 'You're absolutely ... right' across segments 287-288"
+    },
+    "317": {
+      "name": "Candace Crawford",
+      "role": "Claremont School Board member; SAU 6 Joint Board member; SAU 6 policy subcommittee - the acknowledgement of the chair's policy work. The 9/12/24 draft minutes record 'Candace Crawford acknowledged the work done by Arlene Hawkins in regards to both chairing the Board and the policy committee', and the speaker places herself ON that subcommittee ('our meetings are straightforward and quick'), which seats Crawford, Simpson and Hawkins but not Whitney"
+    },
+    "318": {
+      "name": "Candace Crawford",
+      "role": "The closing 'So thank you.' of her own segment-317 remarks"
+    },
+    "336": {
+      "name": "Arlene Hawkins",
+      "role": "Zero-gap continuation of the chair's own sentence across segments 335-337 - 'helps you ... to know ... what the expectation was'"
+    },
+    "339": {
+      "name": "Chris Pratt",
+      "role": "Zero-gap fragment inside Pratt's own sentence across segments 338-340 - 'the work Frank has put into this and ... it's a great ... document'"
+    },
+    "402": {
+      "name": "Bonnie Miles",
+      "role": "Claremont School Board member; SAU 6 Joint Board member - her question about the make-up of the ad hoc subcommittee. The 9/12/24 draft minutes record 'Bonnie Miles asked if the ad hoc sub committee was just Claremont or if there were people from Unity'; the chair's recognition 'Bonnie.' (3953.9s, conf 0.86) lands 0.44s earlier at the head of segment 401, and Whitney answers her with 'Were you at that meeting? You may have not have been at that meeting' (segment 406) and again by name at segment 485"
+    },
+    "404": {
+      "name": "Bonnie Miles",
+      "role": "Continuation of her own question - 'shouldn't someone from unity [be] on this committee for this portion?'"
+    },
+    "405": {
+      "name": "Heather Whitney",
+      "role": "Zero-gap onset of Whitney's own answer running into segment 406 - 'I believe the reason why it ... was requested ...'"
+    },
+    "411": {
+      "name": "Heather Whitney",
+      "role": "Zero-gap continuation of Whitney's own sentence at segment 410 - 'we were not going to conceal, not ... going to keep it at the Claremont [board]'"
+    },
+    "413": {
+      "name": "Bonnie Miles",
+      "role": "Continuation of her own challenge, answered directly by Whitney at segment 414 - 'if it's an essay six [SAU 6] ad hoc committee, someone from unity should have been a part of this'"
+    },
+    "415": {
+      "name": "Unidentified",
+      "role": "One- to three-word crosstalk fragment inside the rapid Miles/Whitney exchange over whether the ad hoc committee was a Claremont or an SAU 6 body (segments 413-420). At least three voices are interleaved here at sub-second granularity and this fragment cannot be assigned to any of them"
+    },
+    "417": {
+      "name": "Unidentified",
+      "role": "One- to three-word crosstalk fragment inside the rapid Miles/Whitney exchange over whether the ad hoc committee was a Claremont or an SAU 6 body (segments 413-420); not separable"
+    },
+    "419": {
+      "name": "Unidentified",
+      "role": "One- to three-word crosstalk fragment inside the rapid Miles/Whitney exchange over whether the ad hoc committee was a Claremont or an SAU 6 body (segments 413-420); not separable"
+    },
+    "423": {
+      "name": "Candace Crawford",
+      "role": "0.04s-gap continuation of Crawford's own sentence across segments 422-424 - '... of the essay you [SAU] relationship and impact ... different than the ... so the title is misleading'"
+    },
+    "450": {
+      "name": "Unidentified",
+      "role": "Two-word crosstalk fragment ('Fix that.') during the argument over the ad hoc report's title, inside the business administrator's cluster; Henry takes no part in that discussion and no other single voice can be shown to own it"
+    },
+    "519": {
+      "name": "Unidentified",
+      "role": "One board member's question - 'It's a ... war[rant] article ... on the right [is that right]?' - split across three clusters with contiguous timing (segments 519-521) and answered 'Yep.' The voice is not identifiable"
+    },
+    "520": {
+      "name": "Unidentified",
+      "role": "One board member's question - 'It's a ... war[rant] article ... on the right [is that right]?' - split across three clusters with contiguous timing (segments 519-521) and answered 'Yep.' The voice is not identifiable"
+    },
+    "521": {
+      "name": "Unidentified",
+      "role": "One board member's question - 'It's a ... war[rant] article ... on the right [is that right]?' - split across three clusters with contiguous timing (segments 519-521) and answered 'Yep.' The voice is not identifiable"
+    },
+    "109": {
+      "name": "Mary Henry",
+      "role": "Henry's 'Thank you.' answering the praise for her report; the praise/thanks alternation across segments 108-111 is two voices, and Henry is the person being praised"
+    },
+    "110": {
+      "name": "Heather Whitney",
+      "role": "The 9/12/24 draft minutes record 'Heather Whitney thanked Mary Henry and noted how user friendly the report is'. The first half of that praise ('This is super user friendly') is inside segment 108, which opens with the chair's own 'Any questions?' and cannot be split within a segment - see the report's conflicts note"
+    },
+    "111": {
+      "name": "Mary Henry",
+      "role": "Henry's second 'Thank you.' in the same praise/thanks alternation (segments 108-111)"
+    },
+    "401": {
+      "name": "Bonnie Miles",
+      "role": "Claremont School Board member; SAU 6 Joint Board member - 'I have a question' asking to be recognised, immediately before her segment-402 question. The trailing token 'Bonnie.' (conf 0.86) is Chair Hawkins's recognition absorbed into the same segment and cannot be split out"
+    }
+  }
+}

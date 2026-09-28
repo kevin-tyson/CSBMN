@@ -1,0 +1,468 @@
+{
+ "Speaker 1": {
+  "name": "Middleton McGoodwin",
+  "role": "Superintendent, SAU 6 (chair addresses 'Doctor Goodwin' [26]; gives the superintendent's report [49-82]; addressed 'Middleton' [92, 109]). This cluster also carries the chair's call to order and roll-call answers; see overrides"
+ },
+ "Speaker 2": {
+  "name": "Unidentified",
+  "role": "Unidentified - cluster mixes Mary Woodman's roll calls, fragments of Cory LeClair's presentation, the student representative and other short remarks; see overrides"
+ },
+ "Speaker 3": {
+  "name": "Unidentified",
+  "role": "Unidentified - single short remark during nonpublic session break [15]"
+ },
+ "Speaker 4": {
+  "name": "Lexi Grenier",
+  "role": "Student representative to the board, Stevens High School senior (chair calls 'The student reps report Lexi' [33]; superintendent says 'look at Lexie Grenier' [87]; surname spelling unverified); see overrides"
+ },
+ "Speaker 5": {
+  "name": "Frank Sprague",
+  "role": "Claremont School Board Chair (runs the meeting from [83]; superintendent addresses 'Frank' [82, 360, 429])"
+ },
+ "Speaker 6": {
+  "name": "Brian Rapp",
+  "role": "Claremont School Board member (chair recognizes 'Brian' [83, 354, 549] and thanks 'Brian' for the motion [455]); see overrides"
+ },
+ "Speaker 7": {
+  "name": "Rebecca Zullo",
+  "role": "Claremont School Board Vice Chair (chair recognizes 'Rebecca' [125, 560]; 'I came in a year with a year to go' [113])"
+ },
+ "Speaker 8": {
+  "name": "Cory LeClair",
+  "role": "Assistant Superintendent, SAU 6 (chair: 'Questions for Corey' [322]; superintendent: 'That is miss LeClaire' [514]; presents growth data [206-321] and K-8 competencies [516-526])"
+ },
+ "Speaker 9": {
+  "name": "Jessica Sawyer",
+  "role": "Public commenter, Mulberry Street (self-identified 'Jessica Sawyer' [147]; ward not stated)"
+ },
+ "Speaker 10": {
+  "name": "Unidentified",
+  "role": "Unidentified - single short remark [183]"
+ },
+ "Speaker 11": {
+  "name": "Unidentified",
+  "role": "Elementary school administrator reporting for the elementary schools on reading and math data [293-295]; not named on this recording"
+ },
+ "Speaker 12": {
+  "name": "Unidentified",
+  "role": "Elementary school administrator reporting on writing [297-301] ('Mr. Frank Sprague ... he and I have had many conversations about writing'); not named on this recording"
+ },
+ "Speaker 13": {
+  "name": "Unidentified",
+  "role": "Claremont Middle School administrator reporting on data use and intervention groupings [303-308]; not named on this recording"
+ },
+ "Speaker 14": {
+  "name": "Patricia Barry",
+  "role": "Principal, Stevens High School (uncertain - not named in this segment; reports for the high school English and math departments and says the new program of studies will come to the board [311-316], which Pat Barry presented on 3/21/18)"
+ },
+ "Speaker 15": {
+  "name": "Josh Malloy",
+  "role": "Director of Instructional Technology, SAU 6 (Zullo: 'I'm wondering if Josh can come' [371], 'So thank you Josh' [398])"
+ },
+ "Speaker 16": {
+  "name": "Unidentified",
+  "role": "Unidentified - short remarks from several voices, including a procedural question on separate motions [413] (female voice, possibly the recording secretary; uncertain); see overrides"
+ },
+ "Speaker 17": {
+  "name": "Unidentified",
+  "role": "Unidentified - single remark about the sensory room [444]"
+ },
+ "Speaker 18": {
+  "name": "Cory LeClair",
+  "role": "Assistant Superintendent, SAU 6 (chair: 'Questions for Corey' [322]; superintendent: 'That is miss LeClaire' [514]; presents growth data [206-321] and K-8 competencies [516-526])"
+ },
+ "Speaker 19": {
+  "name": "Unidentified",
+  "role": "Unidentified - single 'All right' [567]"
+ },
+ "__overrides__": {
+  "0": {
+   "name": "Frank Sprague",
+   "role": "Claremont School Board Chair (runs the meeting from [83]; superintendent addresses 'Frank' [82, 360, 429])"
+  },
+  "1": {
+   "name": "Frank Sprague",
+   "role": "Claremont School Board Chair (runs the meeting from [83]; superintendent addresses 'Frank' [82, 360, 429])"
+  },
+  "2": {
+   "name": "Frank Sprague",
+   "role": "Claremont School Board Chair (runs the meeting from [83]; superintendent addresses 'Frank' [82, 360, 429])"
+  },
+  "3": {
+   "name": "Frank Sprague",
+   "role": "Claremont School Board Chair (runs the meeting from [83]; superintendent addresses 'Frank' [82, 360, 429])"
+  },
+  "6": {
+   "name": "Frank Sprague",
+   "role": "Claremont School Board Chair (runs the meeting from [83]; superintendent addresses 'Frank' [82, 360, 429])"
+  },
+  "8": {
+   "name": "Frank Sprague",
+   "role": "Claremont School Board Chair (runs the meeting from [83]; superintendent addresses 'Frank' [82, 360, 429])"
+  },
+  "13": {
+   "name": "Frank Sprague",
+   "role": "Claremont School Board Chair (runs the meeting from [83]; superintendent addresses 'Frank' [82, 360, 429])"
+  },
+  "16": {
+   "name": "Frank Sprague",
+   "role": "Claremont School Board Chair (runs the meeting from [83]; superintendent addresses 'Frank' [82, 360, 429])"
+  },
+  "18": {
+   "name": "Frank Sprague",
+   "role": "Claremont School Board Chair (runs the meeting from [83]; superintendent addresses 'Frank' [82, 360, 429])"
+  },
+  "24": {
+   "name": "Frank Sprague",
+   "role": "Claremont School Board Chair (runs the meeting from [83]; superintendent addresses 'Frank' [82, 360, 429])"
+  },
+  "10": {
+   "name": "Unidentified",
+   "role": "Unidentified - roll-call vote response"
+  },
+  "20": {
+   "name": "Unidentified",
+   "role": "Unidentified - roll-call vote response"
+  },
+  "22": {
+   "name": "Unidentified",
+   "role": "Unidentified - roll-call vote response"
+  },
+  "4": {
+   "name": "Mary Woodman",
+   "role": "School district clerk and board recording secretary (chair: 'Mrs. Woodman, could you do roll call' [3]; calls the roll [4-25])"
+  },
+  "5": {
+   "name": "Mary Woodman",
+   "role": "School district clerk and board recording secretary (chair: 'Mrs. Woodman, could you do roll call' [3]; calls the roll [4-25])"
+  },
+  "7": {
+   "name": "Mary Woodman",
+   "role": "School district clerk and board recording secretary (chair: 'Mrs. Woodman, could you do roll call' [3]; calls the roll [4-25])"
+  },
+  "9": {
+   "name": "Mary Woodman",
+   "role": "School district clerk and board recording secretary (chair: 'Mrs. Woodman, could you do roll call' [3]; calls the roll [4-25])"
+  },
+  "11": {
+   "name": "Mary Woodman",
+   "role": "School district clerk and board recording secretary (chair: 'Mrs. Woodman, could you do roll call' [3]; calls the roll [4-25])"
+  },
+  "12": {
+   "name": "Mary Woodman",
+   "role": "School district clerk and board recording secretary (chair: 'Mrs. Woodman, could you do roll call' [3]; calls the roll [4-25])"
+  },
+  "14": {
+   "name": "Mary Woodman",
+   "role": "School district clerk and board recording secretary (chair: 'Mrs. Woodman, could you do roll call' [3]; calls the roll [4-25])"
+  },
+  "17": {
+   "name": "Mary Woodman",
+   "role": "School district clerk and board recording secretary (chair: 'Mrs. Woodman, could you do roll call' [3]; calls the roll [4-25])"
+  },
+  "19": {
+   "name": "Mary Woodman",
+   "role": "School district clerk and board recording secretary (chair: 'Mrs. Woodman, could you do roll call' [3]; calls the roll [4-25])"
+  },
+  "21": {
+   "name": "Mary Woodman",
+   "role": "School district clerk and board recording secretary (chair: 'Mrs. Woodman, could you do roll call' [3]; calls the roll [4-25])"
+  },
+  "23": {
+   "name": "Mary Woodman",
+   "role": "School district clerk and board recording secretary (chair: 'Mrs. Woodman, could you do roll call' [3]; calls the roll [4-25])"
+  },
+  "25": {
+   "name": "Mary Woodman",
+   "role": "School district clerk and board recording secretary (chair: 'Mrs. Woodman, could you do roll call' [3]; calls the roll [4-25])"
+  },
+  "130": {
+   "name": "Cory LeClair",
+   "role": "Assistant Superintendent, SAU 6 (chair: 'Questions for Corey' [322]; superintendent: 'That is miss LeClaire' [514]; presents growth data [206-321] and K-8 competencies [516-526])"
+  },
+  "132": {
+   "name": "Cory LeClair",
+   "role": "Assistant Superintendent, SAU 6 (chair: 'Questions for Corey' [322]; superintendent: 'That is miss LeClaire' [514]; presents growth data [206-321] and K-8 competencies [516-526])"
+  },
+  "134": {
+   "name": "Cory LeClair",
+   "role": "Assistant Superintendent, SAU 6 (chair: 'Questions for Corey' [322]; superintendent: 'That is miss LeClaire' [514]; presents growth data [206-321] and K-8 competencies [516-526])"
+  },
+  "207": {
+   "name": "Cory LeClair",
+   "role": "Assistant Superintendent, SAU 6 (chair: 'Questions for Corey' [322]; superintendent: 'That is miss LeClaire' [514]; presents growth data [206-321] and K-8 competencies [516-526])"
+  },
+  "211": {
+   "name": "Cory LeClair",
+   "role": "Assistant Superintendent, SAU 6 (chair: 'Questions for Corey' [322]; superintendent: 'That is miss LeClaire' [514]; presents growth data [206-321] and K-8 competencies [516-526])"
+  },
+  "213": {
+   "name": "Cory LeClair",
+   "role": "Assistant Superintendent, SAU 6 (chair: 'Questions for Corey' [322]; superintendent: 'That is miss LeClaire' [514]; presents growth data [206-321] and K-8 competencies [516-526])"
+  },
+  "220": {
+   "name": "Cory LeClair",
+   "role": "Assistant Superintendent, SAU 6 (chair: 'Questions for Corey' [322]; superintendent: 'That is miss LeClaire' [514]; presents growth data [206-321] and K-8 competencies [516-526])"
+  },
+  "231": {
+   "name": "Cory LeClair",
+   "role": "Assistant Superintendent, SAU 6 (chair: 'Questions for Corey' [322]; superintendent: 'That is miss LeClaire' [514]; presents growth data [206-321] and K-8 competencies [516-526])"
+  },
+  "239": {
+   "name": "Cory LeClair",
+   "role": "Assistant Superintendent, SAU 6 (chair: 'Questions for Corey' [322]; superintendent: 'That is miss LeClaire' [514]; presents growth data [206-321] and K-8 competencies [516-526])"
+  },
+  "241": {
+   "name": "Cory LeClair",
+   "role": "Assistant Superintendent, SAU 6 (chair: 'Questions for Corey' [322]; superintendent: 'That is miss LeClaire' [514]; presents growth data [206-321] and K-8 competencies [516-526])"
+  },
+  "244": {
+   "name": "Cory LeClair",
+   "role": "Assistant Superintendent, SAU 6 (chair: 'Questions for Corey' [322]; superintendent: 'That is miss LeClaire' [514]; presents growth data [206-321] and K-8 competencies [516-526])"
+  },
+  "247": {
+   "name": "Cory LeClair",
+   "role": "Assistant Superintendent, SAU 6 (chair: 'Questions for Corey' [322]; superintendent: 'That is miss LeClaire' [514]; presents growth data [206-321] and K-8 competencies [516-526])"
+  },
+  "253": {
+   "name": "Cory LeClair",
+   "role": "Assistant Superintendent, SAU 6 (chair: 'Questions for Corey' [322]; superintendent: 'That is miss LeClaire' [514]; presents growth data [206-321] and K-8 competencies [516-526])"
+  },
+  "256": {
+   "name": "Cory LeClair",
+   "role": "Assistant Superintendent, SAU 6 (chair: 'Questions for Corey' [322]; superintendent: 'That is miss LeClaire' [514]; presents growth data [206-321] and K-8 competencies [516-526])"
+  },
+  "258": {
+   "name": "Cory LeClair",
+   "role": "Assistant Superintendent, SAU 6 (chair: 'Questions for Corey' [322]; superintendent: 'That is miss LeClaire' [514]; presents growth data [206-321] and K-8 competencies [516-526])"
+  },
+  "259": {
+   "name": "Cory LeClair",
+   "role": "Assistant Superintendent, SAU 6 (chair: 'Questions for Corey' [322]; superintendent: 'That is miss LeClaire' [514]; presents growth data [206-321] and K-8 competencies [516-526])"
+  },
+  "261": {
+   "name": "Cory LeClair",
+   "role": "Assistant Superintendent, SAU 6 (chair: 'Questions for Corey' [322]; superintendent: 'That is miss LeClaire' [514]; presents growth data [206-321] and K-8 competencies [516-526])"
+  },
+  "267": {
+   "name": "Cory LeClair",
+   "role": "Assistant Superintendent, SAU 6 (chair: 'Questions for Corey' [322]; superintendent: 'That is miss LeClaire' [514]; presents growth data [206-321] and K-8 competencies [516-526])"
+  },
+  "269": {
+   "name": "Cory LeClair",
+   "role": "Assistant Superintendent, SAU 6 (chair: 'Questions for Corey' [322]; superintendent: 'That is miss LeClaire' [514]; presents growth data [206-321] and K-8 competencies [516-526])"
+  },
+  "271": {
+   "name": "Cory LeClair",
+   "role": "Assistant Superintendent, SAU 6 (chair: 'Questions for Corey' [322]; superintendent: 'That is miss LeClaire' [514]; presents growth data [206-321] and K-8 competencies [516-526])"
+  },
+  "280": {
+   "name": "Cory LeClair",
+   "role": "Assistant Superintendent, SAU 6 (chair: 'Questions for Corey' [322]; superintendent: 'That is miss LeClaire' [514]; presents growth data [206-321] and K-8 competencies [516-526])"
+  },
+  "282": {
+   "name": "Cory LeClair",
+   "role": "Assistant Superintendent, SAU 6 (chair: 'Questions for Corey' [322]; superintendent: 'That is miss LeClaire' [514]; presents growth data [206-321] and K-8 competencies [516-526])"
+  },
+  "284": {
+   "name": "Cory LeClair",
+   "role": "Assistant Superintendent, SAU 6 (chair: 'Questions for Corey' [322]; superintendent: 'That is miss LeClaire' [514]; presents growth data [206-321] and K-8 competencies [516-526])"
+  },
+  "286": {
+   "name": "Cory LeClair",
+   "role": "Assistant Superintendent, SAU 6 (chair: 'Questions for Corey' [322]; superintendent: 'That is miss LeClaire' [514]; presents growth data [206-321] and K-8 competencies [516-526])"
+  },
+  "288": {
+   "name": "Cory LeClair",
+   "role": "Assistant Superintendent, SAU 6 (chair: 'Questions for Corey' [322]; superintendent: 'That is miss LeClaire' [514]; presents growth data [206-321] and K-8 competencies [516-526])"
+  },
+  "292": {
+   "name": "Cory LeClair",
+   "role": "Assistant Superintendent, SAU 6 (chair: 'Questions for Corey' [322]; superintendent: 'That is miss LeClaire' [514]; presents growth data [206-321] and K-8 competencies [516-526])"
+  },
+  "327": {
+   "name": "Cory LeClair",
+   "role": "Assistant Superintendent, SAU 6 (chair: 'Questions for Corey' [322]; superintendent: 'That is miss LeClaire' [514]; presents growth data [206-321] and K-8 competencies [516-526])"
+  },
+  "329": {
+   "name": "Cory LeClair",
+   "role": "Assistant Superintendent, SAU 6 (chair: 'Questions for Corey' [322]; superintendent: 'That is miss LeClaire' [514]; presents growth data [206-321] and K-8 competencies [516-526])"
+  },
+  "331": {
+   "name": "Cory LeClair",
+   "role": "Assistant Superintendent, SAU 6 (chair: 'Questions for Corey' [322]; superintendent: 'That is miss LeClaire' [514]; presents growth data [206-321] and K-8 competencies [516-526])"
+  },
+  "332": {
+   "name": "Cory LeClair",
+   "role": "Assistant Superintendent, SAU 6 (chair: 'Questions for Corey' [322]; superintendent: 'That is miss LeClaire' [514]; presents growth data [206-321] and K-8 competencies [516-526])"
+  },
+  "333": {
+   "name": "Cory LeClair",
+   "role": "Assistant Superintendent, SAU 6 (chair: 'Questions for Corey' [322]; superintendent: 'That is miss LeClaire' [514]; presents growth data [206-321] and K-8 competencies [516-526])"
+  },
+  "335": {
+   "name": "Cory LeClair",
+   "role": "Assistant Superintendent, SAU 6 (chair: 'Questions for Corey' [322]; superintendent: 'That is miss LeClaire' [514]; presents growth data [206-321] and K-8 competencies [516-526])"
+  },
+  "137": {
+   "name": "Cory LeClair",
+   "role": "Assistant Superintendent, SAU 6 (chair: 'Questions for Corey' [322]; superintendent: 'That is miss LeClaire' [514]; presents growth data [206-321] and K-8 competencies [516-526])"
+  },
+  "528": {
+   "name": "Cory LeClair",
+   "role": "Assistant Superintendent, SAU 6 (chair: 'Questions for Corey' [322]; superintendent: 'That is miss LeClaire' [514]; presents growth data [206-321] and K-8 competencies [516-526])"
+  },
+  "530": {
+   "name": "Cory LeClair",
+   "role": "Assistant Superintendent, SAU 6 (chair: 'Questions for Corey' [322]; superintendent: 'That is miss LeClaire' [514]; presents growth data [206-321] and K-8 competencies [516-526])"
+  },
+  "141": {
+   "name": "Rebecca Zullo",
+   "role": "Claremont School Board Vice Chair (chair recognizes 'Rebecca' [125, 560]; 'I came in a year with a year to go' [113])"
+  },
+  "186": {
+   "name": "Rebecca Zullo",
+   "role": "Claremont School Board Vice Chair (chair recognizes 'Rebecca' [125, 560]; 'I came in a year with a year to go' [113])"
+  },
+  "195": {
+   "name": "Lexi Grenier",
+   "role": "Student representative to the board, Stevens High School senior (chair calls 'The student reps report Lexi' [33]; superintendent says 'look at Lexie Grenier' [87]; surname spelling unverified); see overrides"
+  },
+  "197": {
+   "name": "Lexi Grenier",
+   "role": "Student representative to the board, Stevens High School senior (chair calls 'The student reps report Lexi' [33]; superintendent says 'look at Lexie Grenier' [87]; surname spelling unverified); see overrides"
+  },
+  "199": {
+   "name": "Lexi Grenier",
+   "role": "Student representative to the board, Stevens High School senior (chair calls 'The student reps report Lexi' [33]; superintendent says 'look at Lexie Grenier' [87]; surname spelling unverified); see overrides"
+  },
+  "201": {
+   "name": "Lexi Grenier",
+   "role": "Student representative to the board, Stevens High School senior (chair calls 'The student reps report Lexi' [33]; superintendent says 'look at Lexie Grenier' [87]; surname spelling unverified); see overrides"
+  },
+  "202": {
+   "name": "Lexi Grenier",
+   "role": "Student representative to the board, Stevens High School senior (chair calls 'The student reps report Lexi' [33]; superintendent says 'look at Lexie Grenier' [87]; surname spelling unverified); see overrides"
+  },
+  "310": {
+   "name": "Patricia Barry",
+   "role": "Principal, Stevens High School (uncertain - not named in this segment; reports for the high school English and math departments and says the new program of studies will come to the board [311-316], which Pat Barry presented on 3/21/18)"
+  },
+  "144": {
+   "name": "Jessica Sawyer",
+   "role": "Public commenter, Mulberry Street (self-identified 'Jessica Sawyer' [147]; ward not stated)"
+  },
+  "145": {
+   "name": "Jessica Sawyer",
+   "role": "Public commenter, Mulberry Street (self-identified 'Jessica Sawyer' [147]; ward not stated)"
+  },
+  "31": {
+   "name": "Unidentified",
+   "role": "Unidentified - motion, second or agenda cue from a board-table voice absorbed into the student representative's cluster"
+  },
+  "437": {
+   "name": "Unidentified",
+   "role": "Unidentified - motion, second or agenda cue from a board-table voice absorbed into the student representative's cluster"
+  },
+  "513": {
+   "name": "Unidentified",
+   "role": "Unidentified - motion, second or agenda cue from a board-table voice absorbed into the student representative's cluster"
+  },
+  "524": {
+   "name": "Michael Petrin",
+   "role": "Claremont School Board member (makes the competencies motion; chair: 'Thank you Mike' [525]; uncertain - one segment)"
+  },
+  "468": {
+   "name": "Emily",
+   "role": "Community educator, Turning Points Network (first name only on record; introduced by LeClair [463]; 'I have been with turning points for 14 years' [468])"
+  },
+  "470": {
+   "name": "Emily",
+   "role": "Community educator, Turning Points Network (first name only on record; introduced by LeClair [463]; 'I have been with turning points for 14 years' [468])"
+  },
+  "471": {
+   "name": "Emily",
+   "role": "Community educator, Turning Points Network (first name only on record; introduced by LeClair [463]; 'I have been with turning points for 14 years' [468])"
+  },
+  "472": {
+   "name": "Emily",
+   "role": "Community educator, Turning Points Network (first name only on record; introduced by LeClair [463]; 'I have been with turning points for 14 years' [468])"
+  },
+  "473": {
+   "name": "Emily",
+   "role": "Community educator, Turning Points Network (first name only on record; introduced by LeClair [463]; 'I have been with turning points for 14 years' [468])"
+  },
+  "474": {
+   "name": "Emily",
+   "role": "Community educator, Turning Points Network (first name only on record; introduced by LeClair [463]; 'I have been with turning points for 14 years' [468])"
+  },
+  "475": {
+   "name": "Emily",
+   "role": "Community educator, Turning Points Network (first name only on record; introduced by LeClair [463]; 'I have been with turning points for 14 years' [468])"
+  },
+  "476": {
+   "name": "Emily",
+   "role": "Community educator, Turning Points Network (first name only on record; introduced by LeClair [463]; 'I have been with turning points for 14 years' [468])"
+  },
+  "477": {
+   "name": "Emily",
+   "role": "Community educator, Turning Points Network (first name only on record; introduced by LeClair [463]; 'I have been with turning points for 14 years' [468])"
+  },
+  "478": {
+   "name": "Emily",
+   "role": "Community educator, Turning Points Network (first name only on record; introduced by LeClair [463]; 'I have been with turning points for 14 years' [468])"
+  },
+  "479": {
+   "name": "Emily",
+   "role": "Community educator, Turning Points Network (first name only on record; introduced by LeClair [463]; 'I have been with turning points for 14 years' [468])"
+  },
+  "480": {
+   "name": "Emily",
+   "role": "Community educator, Turning Points Network (first name only on record; introduced by LeClair [463]; 'I have been with turning points for 14 years' [468])"
+  },
+  "481": {
+   "name": "Emily",
+   "role": "Community educator, Turning Points Network (first name only on record; introduced by LeClair [463]; 'I have been with turning points for 14 years' [468])"
+  },
+  "482": {
+   "name": "Emily",
+   "role": "Community educator, Turning Points Network (first name only on record; introduced by LeClair [463]; 'I have been with turning points for 14 years' [468])"
+  },
+  "483": {
+   "name": "Emily",
+   "role": "Community educator, Turning Points Network (first name only on record; introduced by LeClair [463]; 'I have been with turning points for 14 years' [468])"
+  },
+  "484": {
+   "name": "Emily",
+   "role": "Community educator, Turning Points Network (first name only on record; introduced by LeClair [463]; 'I have been with turning points for 14 years' [468])"
+  },
+  "485": {
+   "name": "Emily",
+   "role": "Community educator, Turning Points Network (first name only on record; introduced by LeClair [463]; 'I have been with turning points for 14 years' [468])"
+  },
+  "487": {
+   "name": "Emily",
+   "role": "Community educator, Turning Points Network (first name only on record; introduced by LeClair [463]; 'I have been with turning points for 14 years' [468])"
+  },
+  "488": {
+   "name": "Emily",
+   "role": "Community educator, Turning Points Network (first name only on record; introduced by LeClair [463]; 'I have been with turning points for 14 years' [468])"
+  },
+  "489": {
+   "name": "Emily",
+   "role": "Community educator, Turning Points Network (first name only on record; introduced by LeClair [463]; 'I have been with turning points for 14 years' [468])"
+  },
+  "490": {
+   "name": "Emily",
+   "role": "Community educator, Turning Points Network (first name only on record; introduced by LeClair [463]; 'I have been with turning points for 14 years' [468])"
+  },
+  "497": {
+   "name": "Emily",
+   "role": "Community educator, Turning Points Network (first name only on record; introduced by LeClair [463]; 'I have been with turning points for 14 years' [468])"
+  },
+  "510": {
+   "name": "Emily",
+   "role": "Community educator, Turning Points Network (first name only on record; introduced by LeClair [463]; 'I have been with turning points for 14 years' [468])"
+  }
+ }
+}

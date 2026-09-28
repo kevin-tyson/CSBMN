@@ -1,0 +1,188 @@
+{
+ "Speaker 1": {
+  "name": "Unidentified voice — pre-forum room audio",
+  "role": "Room audio before the forum is called to order."
+ },
+ "Speaker 2": {
+  "name": "Candace Crawford",
+  "role": "School Board Chair; convenes and moderates this candidate forum, reads the ~12-15 questions submitted online and alternates them with questions from the floor. Self-identified: \"my name is Candy Crawford, and I'm the chairman of the Clements [Claremont] School board\" (2:04) and \"I'm Candace Crawford, ... c dot Crawford at saw 6.org\" (1:19:53)."
+ },
+ "Speaker 3": {
+  "name": "Tim Broadrick",
+  "role": "Superintendent candidate being interviewed — Dr. Tim Broadrick, then superintendent of the Alton/Barnstead/Prospect Mountain SAU; hired by Claremont and started 7/1/2026. ASR renders the surname \"Broderick\" throughout (the filename does too); \"Broadrick\" is the project's canonical spelling. This diarized cluster also absorbs the floor questioner recognized as \"Kim\" — see the per-segment reassignments."
+ },
+ "Speaker 4": {
+  "name": "Tim Broadrick",
+  "role": "Superintendent candidate being interviewed — Dr. Tim Broadrick, then superintendent of the Alton/Barnstead/Prospect Mountain SAU; hired by Claremont and started 7/1/2026. ASR renders the surname \"Broderick\" throughout (the filename does too); \"Broadrick\" is the project's canonical spelling. This diarized cluster also absorbs the floor questioner recognized as \"Kim\" — see the per-segment reassignments."
+ },
+ "Speaker 5": {
+  "name": "Mark (surname not stated)",
+  "role": "Audience questioner; named in the third person by David — \"following up on Mark's question\" — immediately after this speaker's leadership-style question. Surname never stated. The 1:08:39 remark is attributed to him on voice-cluster match to the 18:50 question, not on a second naming."
+ },
+ "Speaker 6": {
+  "name": "David (surname not stated)",
+  "role": "Audience participant recognized by the chair three times as \"David\" (20:04, 1:03:58, 1:09:06); describes himself as a former teacher (\"I'm talking as a former teacher kind of still and teacher at this point\") with long-range community planning experience. Surname never stated on the recording."
+ },
+ "Speaker 7": {
+  "name": "Unidentified audience member",
+  "role": "Audience member; two words (\"Oh. Thank you.\") while the chair turns to the other side of the room."
+ },
+ "Speaker 8": {
+  "name": "Michelle (surname not stated)",
+  "role": "Audience questioner recognized by the chair — \"Michelle, I see your hand.\" (37:18). Surname never stated; raises self-contained classrooms, Maple Avenue class sizes and unstaffed nurse/counselor positions."
+ },
+ "Speaker 9": {
+  "name": "Unidentified audience member — back of the room",
+  "role": "Audience questioner recognized by the chair as \"There's one in the back.\" (48:46); name never stated."
+ },
+ "Speaker 10": {
+  "name": "Unidentified audience member — central-office staffing question",
+  "role": "Audience questioner familiar with the SAU central office (\"it's very not even a skeleton crew\"); asked about pre-K eligibility and staff recruitment. The chair's recognition at 1:03:59 is heard as \"Oh, mama,\" (ASR conf 0.64) — the name is not recoverable."
+ },
+ "Speaker 11": {
+  "name": "Unidentified audience member — addressed as \"Doctor\"",
+  "role": "Audience questioner the chair recognizes as \"Yes, doctor.\" (54:10) — the following word is heard as \"Serious.\", most likely his garbled surname. Asked the \"essay question\" about test scores, graded the answer \"an A minus\", followed up on the candidate's doctoral dissertation, and asked the closing question on public engagement. Name not recoverable from the recording."
+ },
+ "__overrides__": {
+  "26": {
+   "name": "Kim (surname not stated)",
+   "role": "Audience questioner — a parent with children in the district \"for 11 years now\"; asks about accountability and late grade entry. The chair's recognition immediately before him is heard as \"Yes, Kim.\" (ASR conf 0.94), but he refers to \"my wife\", so the recognized name may be misheard or may belong to someone else in the room; treat the given name as unconfirmed."
+  },
+  "27": {
+   "name": "Kim (surname not stated)",
+   "role": "Audience questioner — a parent with children in the district \"for 11 years now\"; asks about accountability and late grade entry. The chair's recognition immediately before him is heard as \"Yes, Kim.\" (ASR conf 0.94), but he refers to \"my wife\", so the recognized name may be misheard or may belong to someone else in the room; treat the given name as unconfirmed."
+  },
+  "35": {
+   "name": "Kim (surname not stated)",
+   "role": "Audience questioner — a parent with children in the district \"for 11 years now\"; asks about accountability and late grade entry. The chair's recognition immediately before him is heard as \"Yes, Kim.\" (ASR conf 0.94), but he refers to \"my wife\", so the recognized name may be misheard or may belong to someone else in the room; treat the given name as unconfirmed."
+  },
+  "36": {
+   "name": "Kim (surname not stated)",
+   "role": "Audience questioner — a parent with children in the district \"for 11 years now\"; asks about accountability and late grade entry. The chair's recognition immediately before him is heard as \"Yes, Kim.\" (ASR conf 0.94), but he refers to \"my wife\", so the recognized name may be misheard or may belong to someone else in the room; treat the given name as unconfirmed."
+  },
+  "37": {
+   "name": "Kim (surname not stated)",
+   "role": "Audience questioner — a parent with children in the district \"for 11 years now\"; asks about accountability and late grade entry. The chair's recognition immediately before him is heard as \"Yes, Kim.\" (ASR conf 0.94), but he refers to \"my wife\", so the recognized name may be misheard or may belong to someone else in the room; treat the given name as unconfirmed."
+  },
+  "55": {
+   "name": "Candace Crawford",
+   "role": "School Board Chair — the chair's recognition (\"Thanks. David.\") clipped into the neighbouring cluster; it names the next speaker."
+  },
+  "103": {
+   "name": "Candace Crawford",
+   "role": "School Board Chair — sub-second reply (\"You did.\") to the candidate's \"Did I get to it enough?\", clipped into his cluster."
+  },
+  "105": {
+   "name": "Unidentified audience member — interjection",
+   "role": "Audience member; a garbled interjection addressed to the chair (\"After magic. / Candy.\") after she says it is hard to sit and say nothing. Name not recoverable."
+  },
+  "106": {
+   "name": "Unidentified audience member — interjection",
+   "role": "Audience member; a garbled interjection addressed to the chair (\"After magic. / Candy.\") after she says it is hard to sit and say nothing. Name not recoverable."
+  },
+  "131": {
+   "name": "Unidentified audience member — addressed as \"Doctor\"",
+   "role": "Audience questioner the chair recognizes as \"Yes, doctor.\" (54:10) — the following word is heard as \"Serious.\", most likely his garbled surname. Asked the \"essay question\" about test scores, graded the answer \"an A minus\", followed up on the candidate's doctoral dissertation, and asked the closing question on public engagement. Name not recoverable from the recording."
+  },
+  "132": {
+   "name": "Unidentified audience member — addressed as \"Doctor\"",
+   "role": "Audience questioner the chair recognizes as \"Yes, doctor.\" (54:10) — the following word is heard as \"Serious.\", most likely his garbled surname. Asked the \"essay question\" about test scores, graded the answer \"an A minus\", followed up on the candidate's doctoral dissertation, and asked the closing question on public engagement. Name not recoverable from the recording."
+  },
+  "134": {
+   "name": "Unidentified audience member — addressed as \"Doctor\"",
+   "role": "Audience questioner the chair recognizes as \"Yes, doctor.\" (54:10) — the following word is heard as \"Serious.\", most likely his garbled surname. Asked the \"essay question\" about test scores, graded the answer \"an A minus\", followed up on the candidate's doctoral dissertation, and asked the closing question on public engagement. Name not recoverable from the recording."
+  },
+  "135": {
+   "name": "Unidentified audience member — addressed as \"Doctor\"",
+   "role": "Audience questioner the chair recognizes as \"Yes, doctor.\" (54:10) — the following word is heard as \"Serious.\", most likely his garbled surname. Asked the \"essay question\" about test scores, graded the answer \"an A minus\", followed up on the candidate's doctoral dissertation, and asked the closing question on public engagement. Name not recoverable from the recording."
+  },
+  "143": {
+   "name": "Unidentified audience member — addressed as \"Doctor\"",
+   "role": "Audience questioner the chair recognizes as \"Yes, doctor.\" (54:10) — the following word is heard as \"Serious.\", most likely his garbled surname. Asked the \"essay question\" about test scores, graded the answer \"an A minus\", followed up on the candidate's doctoral dissertation, and asked the closing question on public engagement. Name not recoverable from the recording."
+  },
+  "164": {
+   "name": "Unidentified audience member — addressed as \"Doctor\"",
+   "role": "Audience questioner the chair recognizes as \"Yes, doctor.\" (54:10) — the following word is heard as \"Serious.\", most likely his garbled surname. Asked the \"essay question\" about test scores, graded the answer \"an A minus\", followed up on the candidate's doctoral dissertation, and asked the closing question on public engagement. Name not recoverable from the recording."
+  },
+  "189": {
+   "name": "Jason (surname not stated)",
+   "role": "Audience questioner recognized by the chair — \"Jason, do you have a question?\" (1:01:57). Surname never stated. His procurement follow-up is heavily overlapped with the candidate; the diarizer alternated the sub-second fragments between two clusters and they are reassembled here."
+  },
+  "190": {
+   "name": "Jason (surname not stated)",
+   "role": "Audience questioner recognized by the chair — \"Jason, do you have a question?\" (1:01:57). Surname never stated. His procurement follow-up is heavily overlapped with the candidate; the diarizer alternated the sub-second fragments between two clusters and they are reassembled here."
+  },
+  "191": {
+   "name": "Jason (surname not stated)",
+   "role": "Audience questioner recognized by the chair — \"Jason, do you have a question?\" (1:01:57). Surname never stated. His procurement follow-up is heavily overlapped with the candidate; the diarizer alternated the sub-second fragments between two clusters and they are reassembled here."
+  },
+  "192": {
+   "name": "Jason (surname not stated)",
+   "role": "Audience questioner recognized by the chair — \"Jason, do you have a question?\" (1:01:57). Surname never stated. His procurement follow-up is heavily overlapped with the candidate; the diarizer alternated the sub-second fragments between two clusters and they are reassembled here."
+  },
+  "193": {
+   "name": "Jason (surname not stated)",
+   "role": "Audience questioner recognized by the chair — \"Jason, do you have a question?\" (1:01:57). Surname never stated. His procurement follow-up is heavily overlapped with the candidate; the diarizer alternated the sub-second fragments between two clusters and they are reassembled here."
+  },
+  "194": {
+   "name": "Jason (surname not stated)",
+   "role": "Audience questioner recognized by the chair — \"Jason, do you have a question?\" (1:01:57). Surname never stated. His procurement follow-up is heavily overlapped with the candidate; the diarizer alternated the sub-second fragments between two clusters and they are reassembled here."
+  },
+  "195": {
+   "name": "Jason (surname not stated)",
+   "role": "Audience questioner recognized by the chair — \"Jason, do you have a question?\" (1:01:57). Surname never stated. His procurement follow-up is heavily overlapped with the candidate; the diarizer alternated the sub-second fragments between two clusters and they are reassembled here."
+  },
+  "197": {
+   "name": "Jason (surname not stated)",
+   "role": "Audience questioner recognized by the chair — \"Jason, do you have a question?\" (1:01:57). Surname never stated. His procurement follow-up is heavily overlapped with the candidate; the diarizer alternated the sub-second fragments between two clusters and they are reassembled here."
+  },
+  "198": {
+   "name": "Jason (surname not stated)",
+   "role": "Audience questioner recognized by the chair — \"Jason, do you have a question?\" (1:01:57). Surname never stated. His procurement follow-up is heavily overlapped with the candidate; the diarizer alternated the sub-second fragments between two clusters and they are reassembled here."
+  },
+  "199": {
+   "name": "Jason (surname not stated)",
+   "role": "Audience questioner recognized by the chair — \"Jason, do you have a question?\" (1:01:57). Surname never stated. His procurement follow-up is heavily overlapped with the candidate; the diarizer alternated the sub-second fragments between two clusters and they are reassembled here."
+  },
+  "200": {
+   "name": "Jason (surname not stated)",
+   "role": "Audience questioner recognized by the chair — \"Jason, do you have a question?\" (1:01:57). Surname never stated. His procurement follow-up is heavily overlapped with the candidate; the diarizer alternated the sub-second fragments between two clusters and they are reassembled here."
+  },
+  "201": {
+   "name": "Jason (surname not stated)",
+   "role": "Audience questioner recognized by the chair — \"Jason, do you have a question?\" (1:01:57). Surname never stated. His procurement follow-up is heavily overlapped with the candidate; the diarizer alternated the sub-second fragments between two clusters and they are reassembled here."
+  },
+  "213": {
+   "name": "Unidentified audience member — central-office staffing question",
+   "role": "Audience questioner — \"No, no. I just wanted to elaborate.\" spans three clipped segments; this middle fragment was clustered with the candidate."
+  },
+  "229": {
+   "name": "William 'Bill' Madden",
+   "role": "School Board member (Capital Improvement chair) and member of the superintendent search committee; recognized by the chair — \"Bill, you had a question?\" — and declines. This segment mixes the chair's absorbed \"A question.\" with Madden's \"No.\""
+  },
+  "232": {
+   "name": "David (surname not stated)",
+   "role": "Audience participant recognized by the chair as \"David\" — mid-sentence fragment clipped into a neighbouring cluster (\"So part of my background / is / involved with...\"; \"I do like / a lot of your answers...\")."
+  },
+  "242": {
+   "name": "Tim Broadrick",
+   "role": "Superintendent candidate — sub-second fragment with a 40 ms gap to his next segment (\"They should be. That would serve the parents...\"); clipped into a floor cluster."
+  },
+  "245": {
+   "name": "Unidentified audience member — addressed as \"Doctor\"",
+   "role": "Audience questioner the chair recognizes as \"Yes, doctor.\" (54:10) — the following word is heard as \"Serious.\", most likely his garbled surname. Asked the \"essay question\" about test scores, graded the answer \"an A minus\", followed up on the candidate's doctoral dissertation, and asked the closing question on public engagement. Name not recoverable from the recording."
+  },
+  "248": {
+   "name": "Unidentified audience member — addressed as \"Doctor\"",
+   "role": "Audience questioner the chair recognizes as \"Yes, doctor.\" (54:10) — the following word is heard as \"Serious.\", most likely his garbled surname. Asked the \"essay question\" about test scores, graded the answer \"an A minus\", followed up on the candidate's doctoral dissertation, and asked the closing question on public engagement. Name not recoverable from the recording."
+  },
+  "251": {
+   "name": "Unidentified audience member — addressed as \"Doctor\"",
+   "role": "Audience questioner the chair recognizes as \"Yes, doctor.\" (54:10) — the following word is heard as \"Serious.\", most likely his garbled surname. Asked the \"essay question\" about test scores, graded the answer \"an A minus\", followed up on the candidate's doctoral dissertation, and asked the closing question on public engagement. Name not recoverable from the recording."
+  },
+  "261": {
+   "name": "David (surname not stated)",
+   "role": "Audience participant recognized by the chair as \"David\" — mid-sentence fragment clipped into a neighbouring cluster (\"So part of my background / is / involved with...\"; \"I do like / a lot of your answers...\")."
+  }
+ }
+}

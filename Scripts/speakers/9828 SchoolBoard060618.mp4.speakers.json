@@ -1,0 +1,460 @@
+{
+ "Speaker 1": {
+  "name": "Frank Sprague",
+  "role": "Claremont School Board Chair (calls meeting to order [0], runs agenda and votes; 'My name is Frank as well' [130]; addressed 'Frank' [205], [902])"
+ },
+ "Speaker 2": {
+  "name": "Unidentified",
+  "role": "Unidentified - cluster of short interjections, recognitions and roll responses from several voices"
+ },
+ "Speaker 3": {
+  "name": "Steven Horsky",
+  "role": "Claremont School Board member (self-ID 'Steven. Ward two' speaking as a parent [31]; recognized 'Steve' [57], [107], [182], [404]; Pierce 'thank you, Steve' for the head lice policy he drafted [918])"
+ },
+ "Speaker 4": {
+  "name": "Carolyn Towle",
+  "role": "Claremont School Board member (recognized 'Carolyn' [94], [270], [359], [835]; Horsky 'I agree with Carolyn' [237], [840]; volunteers to contact Mark Chase [643-654])"
+ },
+ "Speaker 5": {
+  "name": "Middleton McGoodwin",
+  "role": "Superintendent, SAU 6 (chair asks 'Doctor McGlynn/Goodwin' [9], [65]; superintendent's report [23-28]; 'over my seven years' [50])"
+ },
+ "Speaker 6": {
+  "name": "Jason Benware",
+  "role": "Claremont School Board member (recognized 'Jason and Michelle' [333] -> [334]; 'Jason.' [548] -> [549]; 'Jason and then' [604] -> [608] rebutting Horsky's description of 'Jason's idea' [586]; 'Jason.' [871] -> [872]); cluster also carries CMS music teacher Tom Smith, see overrides"
+ },
+ "Speaker 7": {
+  "name": "Michelle Pierce",
+  "role": "Claremont School Board member (recognized 'Michelle and Steve' [98] -> [99]; 'thank you for sharing that. Michelle' [216]; 'Michelle.' [239], [558]; Zullo 'I agree with you, Michelle' [419])"
+ },
+ "Speaker 8": {
+  "name": "Unidentified",
+  "role": "Unidentified - short fragments"
+ },
+ "Speaker 9": {
+  "name": "Rebecca Zullo",
+  "role": "Claremont School Board Vice Chair (Horsky 'I agree with Carolyn and Rebecca' [237] after [232-235]; superintendent says 'Rebecca asked that this topic [school security] be put on the agenda' [503], she presents it [504-547]; 'Miss Mary' [731])"
+ },
+ "Speaker 10": {
+  "name": "Frank Romeo",
+  "role": "Nominee and incoming principal, Claremont Middle School; currently vice principal and athletic director in South Royalton (introduced 'Mr. Frank Romeo' [71]; [76-140]); later segments in this cluster are other voices, see overrides"
+ },
+ "Speaker 11": {
+  "name": "Frank Romeo",
+  "role": "Nominee and incoming principal, Claremont Middle School; currently vice principal and athletic director in South Royalton (introduced 'Mr. Frank Romeo' [71]; [76-140]); later segments in this cluster are other voices, see overrides"
+ },
+ "Speaker 12": {
+  "name": "Paulette Gerald",
+  "role": "Outgoing Claremont Middle School principal, leaving for the Concord School District (superintendent: 'Paul Gerald accepted the position of the Concord School District' [66]; 'Paul. Gerald, is here ... And Paulette, welcome' [146]; chair 'good luck in Concord' [204]; name per ASR, spelling uncertain); presents GEAR UP summer pilot [148-198]"
+ },
+ "Speaker 13": {
+  "name": "Paulette Gerald",
+  "role": "Outgoing Claremont Middle School principal, leaving for the Concord School District (superintendent: 'Paul Gerald accepted the position of the Concord School District' [66]; 'Paul. Gerald, is here ... And Paulette, welcome' [146]; chair 'good luck in Concord' [204]; name per ASR, spelling uncertain); presents GEAR UP summer pilot [148-198]"
+ },
+ "Speaker 14": {
+  "name": "Unidentified",
+  "role": "Unidentified - Claremont School Board member asking about GEAR UP selection criteria [170-179]; not Sprague, Horsky, Towle, Benware, Pierce or Zullo, whose clusters are separate; possibly Michael Petrin if present (roll [7] reads 'Michael.' with no audible answer); uncertain"
+ },
+ "Speaker 15": {
+  "name": "Michael O'Neill",
+  "role": "Business Administrator, SAU 6 (superintendent 'Expenditures and revenue. Mike.' [276]; presents budget report [277-353]; surname not spoken on this recording, per roster)"
+ },
+ "Speaker 16": {
+  "name": "Mary Woodman",
+  "role": "School district clerk / board recording secretary (asked for roll call [4]; addressed 'Miss Mary' [731] after checking the motion [727-729])"
+ },
+ "__overrides__": {
+  "1": {
+   "name": "Unidentified",
+   "role": "Group recitation of the Pledge of Allegiance"
+  },
+  "20": {
+   "name": "Unidentified",
+   "role": "Group voice vote"
+  },
+  "6": {
+   "name": "Unidentified",
+   "role": "Unidentified - roll-call responses"
+  },
+  "7": {
+   "name": "Mary Woodman"
+  },
+  "8": {
+   "name": "Mary Woodman"
+  },
+  "35": {
+   "name": "Tom Smith",
+   "role": "Public commenter; music teacher, Claremont Middle School (self-ID 'my name is Tom Smith. I'm the music teacher over at CMS' [36])"
+  },
+  "36": {
+   "name": "Tom Smith"
+  },
+  "37": {
+   "name": "Tom Smith"
+  },
+  "38": {
+   "name": "Tom Smith"
+  },
+  "39": {
+   "name": "Tom Smith"
+  },
+  "40": {
+   "name": "Tom Smith"
+  },
+  "45": {
+   "name": "Tom Smith"
+  },
+  "56": {
+   "name": "Tom Smith"
+  },
+  "62": {
+   "name": "Tom Smith"
+  },
+  "64": {
+   "name": "Tom Smith"
+  },
+  "245": {
+   "name": "Michelle Pierce"
+  },
+  "169": {
+   "name": "Unidentified",
+   "role": "Unidentified - Claremont School Board member asking about GEAR UP selection criteria [170-179]; not Sprague, Horsky, Towle, Benware, Pierce or Zullo, whose clusters are separate; possibly Michael Petrin if present (roll [7] reads 'Michael.' with no audible answer); uncertain"
+  },
+  "141": {
+   "name": "Unidentified",
+   "role": "Unidentified - short interjection"
+  },
+  "122": {
+   "name": "Unidentified",
+   "role": "Unidentified - board member seconding the principal nomination"
+  },
+  "128": {
+   "name": "Unidentified",
+   "role": "Unidentified - short interjection"
+  },
+  "139": {
+   "name": "Unidentified",
+   "role": "Unidentified - short interjection"
+  },
+  "172": {
+   "name": "Unidentified",
+   "role": "Unidentified - short fragments from several voices diarized with Frank Romeo's cluster after he left the table"
+  },
+  "188": {
+   "name": "Unidentified",
+   "role": "Unidentified - short fragments from several voices diarized with Frank Romeo's cluster after he left the table"
+  },
+  "299": {
+   "name": "Unidentified",
+   "role": "Unidentified - short fragments from several voices diarized with Frank Romeo's cluster after he left the table"
+  },
+  "308": {
+   "name": "Unidentified",
+   "role": "Unidentified - short fragments from several voices diarized with Frank Romeo's cluster after he left the table"
+  },
+  "325": {
+   "name": "Unidentified",
+   "role": "Unidentified - short fragments from several voices diarized with Frank Romeo's cluster after he left the table"
+  },
+  "328": {
+   "name": "Unidentified",
+   "role": "Unidentified - short fragments from several voices diarized with Frank Romeo's cluster after he left the table"
+  },
+  "381": {
+   "name": "Unidentified",
+   "role": "Unidentified - short fragments from several voices diarized with Frank Romeo's cluster after he left the table"
+  },
+  "459": {
+   "name": "Unidentified",
+   "role": "Unidentified - short fragments from several voices diarized with Frank Romeo's cluster after he left the table"
+  },
+  "593": {
+   "name": "Unidentified",
+   "role": "Unidentified - short fragments from several voices diarized with Frank Romeo's cluster after he left the table"
+  },
+  "605": {
+   "name": "Unidentified",
+   "role": "Unidentified - short fragments from several voices diarized with Frank Romeo's cluster after he left the table"
+  },
+  "607": {
+   "name": "Unidentified",
+   "role": "Unidentified - short fragments from several voices diarized with Frank Romeo's cluster after he left the table"
+  },
+  "647": {
+   "name": "Unidentified",
+   "role": "Unidentified - short fragments from several voices diarized with Frank Romeo's cluster after he left the table"
+  },
+  "688": {
+   "name": "Unidentified",
+   "role": "Unidentified - short fragments from several voices diarized with Frank Romeo's cluster after he left the table"
+  },
+  "701": {
+   "name": "Unidentified",
+   "role": "Unidentified - short fragments from several voices diarized with Frank Romeo's cluster after he left the table"
+  },
+  "706": {
+   "name": "Unidentified",
+   "role": "Unidentified - short fragments from several voices diarized with Frank Romeo's cluster after he left the table"
+  },
+  "733": {
+   "name": "Unidentified",
+   "role": "Unidentified - short fragments from several voices diarized with Frank Romeo's cluster after he left the table"
+  },
+  "737": {
+   "name": "Unidentified",
+   "role": "Unidentified - short fragments from several voices diarized with Frank Romeo's cluster after he left the table"
+  },
+  "742": {
+   "name": "Unidentified",
+   "role": "Unidentified - short fragments from several voices diarized with Frank Romeo's cluster after he left the table"
+  },
+  "747": {
+   "name": "Unidentified",
+   "role": "Unidentified - short fragments from several voices diarized with Frank Romeo's cluster after he left the table"
+  },
+  "751": {
+   "name": "Unidentified",
+   "role": "Unidentified - short fragments from several voices diarized with Frank Romeo's cluster after he left the table"
+  },
+  "756": {
+   "name": "Unidentified",
+   "role": "Unidentified - short fragments from several voices diarized with Frank Romeo's cluster after he left the table"
+  },
+  "775": {
+   "name": "Unidentified",
+   "role": "Unidentified - short fragments from several voices diarized with Frank Romeo's cluster after he left the table"
+  },
+  "778": {
+   "name": "Unidentified",
+   "role": "Unidentified - short fragments from several voices diarized with Frank Romeo's cluster after he left the table"
+  },
+  "780": {
+   "name": "Unidentified",
+   "role": "Unidentified - short fragments from several voices diarized with Frank Romeo's cluster after he left the table"
+  },
+  "782": {
+   "name": "Unidentified",
+   "role": "Unidentified - short fragments from several voices diarized with Frank Romeo's cluster after he left the table"
+  },
+  "786": {
+   "name": "Unidentified",
+   "role": "Unidentified - short fragments from several voices diarized with Frank Romeo's cluster after he left the table"
+  },
+  "792": {
+   "name": "Unidentified",
+   "role": "Unidentified - short fragments from several voices diarized with Frank Romeo's cluster after he left the table"
+  },
+  "794": {
+   "name": "Unidentified",
+   "role": "Unidentified - short fragments from several voices diarized with Frank Romeo's cluster after he left the table"
+  },
+  "800": {
+   "name": "Unidentified",
+   "role": "Unidentified - short fragments from several voices diarized with Frank Romeo's cluster after he left the table"
+  },
+  "819": {
+   "name": "Unidentified",
+   "role": "Unidentified - short fragments from several voices diarized with Frank Romeo's cluster after he left the table"
+  },
+  "821": {
+   "name": "Unidentified",
+   "role": "Unidentified - short fragments from several voices diarized with Frank Romeo's cluster after he left the table"
+  },
+  "823": {
+   "name": "Unidentified",
+   "role": "Unidentified - short fragments from several voices diarized with Frank Romeo's cluster after he left the table"
+  },
+  "827": {
+   "name": "Unidentified",
+   "role": "Unidentified - short fragments from several voices diarized with Frank Romeo's cluster after he left the table"
+  },
+  "829": {
+   "name": "Unidentified",
+   "role": "Unidentified - short fragments from several voices diarized with Frank Romeo's cluster after he left the table"
+  },
+  "831": {
+   "name": "Unidentified",
+   "role": "Unidentified - short fragments from several voices diarized with Frank Romeo's cluster after he left the table"
+  },
+  "833": {
+   "name": "Unidentified",
+   "role": "Unidentified - short fragments from several voices diarized with Frank Romeo's cluster after he left the table"
+  },
+  "839": {
+   "name": "Unidentified",
+   "role": "Unidentified - short fragments from several voices diarized with Frank Romeo's cluster after he left the table"
+  },
+  "843": {
+   "name": "Unidentified",
+   "role": "Unidentified - short fragments from several voices diarized with Frank Romeo's cluster after he left the table"
+  },
+  "848": {
+   "name": "Unidentified",
+   "role": "Unidentified - short fragments from several voices diarized with Frank Romeo's cluster after he left the table"
+  },
+  "853": {
+   "name": "Unidentified",
+   "role": "Unidentified - short fragments from several voices diarized with Frank Romeo's cluster after he left the table"
+  },
+  "858": {
+   "name": "Unidentified",
+   "role": "Unidentified - short fragments from several voices diarized with Frank Romeo's cluster after he left the table"
+  },
+  "861": {
+   "name": "Unidentified",
+   "role": "Unidentified - short fragments from several voices diarized with Frank Romeo's cluster after he left the table"
+  },
+  "863": {
+   "name": "Unidentified",
+   "role": "Unidentified - short fragments from several voices diarized with Frank Romeo's cluster after he left the table"
+  },
+  "867": {
+   "name": "Unidentified",
+   "role": "Unidentified - short fragments from several voices diarized with Frank Romeo's cluster after he left the table"
+  },
+  "873": {
+   "name": "Unidentified",
+   "role": "Unidentified - short fragments from several voices diarized with Frank Romeo's cluster after he left the table"
+  },
+  "876": {
+   "name": "Unidentified",
+   "role": "Unidentified - short fragments from several voices diarized with Frank Romeo's cluster after he left the table"
+  },
+  "878": {
+   "name": "Unidentified",
+   "role": "Unidentified - short fragments from several voices diarized with Frank Romeo's cluster after he left the table"
+  },
+  "879": {
+   "name": "Unidentified",
+   "role": "Unidentified - short fragments from several voices diarized with Frank Romeo's cluster after he left the table"
+  },
+  "881": {
+   "name": "Unidentified",
+   "role": "Unidentified - short fragments from several voices diarized with Frank Romeo's cluster after he left the table"
+  },
+  "889": {
+   "name": "Unidentified",
+   "role": "Unidentified - short fragments from several voices diarized with Frank Romeo's cluster after he left the table"
+  },
+  "891": {
+   "name": "Unidentified",
+   "role": "Unidentified - short fragments from several voices diarized with Frank Romeo's cluster after he left the table"
+  },
+  "893": {
+   "name": "Unidentified",
+   "role": "Unidentified - short fragments from several voices diarized with Frank Romeo's cluster after he left the table"
+  },
+  "896": {
+   "name": "Unidentified",
+   "role": "Unidentified - short fragments from several voices diarized with Frank Romeo's cluster after he left the table"
+  },
+  "899": {
+   "name": "Unidentified",
+   "role": "Unidentified - short fragments from several voices diarized with Frank Romeo's cluster after he left the table"
+  },
+  "904": {
+   "name": "Unidentified",
+   "role": "Unidentified - short fragments from several voices diarized with Frank Romeo's cluster after he left the table"
+  },
+  "906": {
+   "name": "Unidentified",
+   "role": "Unidentified - short fragments from several voices diarized with Frank Romeo's cluster after he left the table"
+  },
+  "909": {
+   "name": "Unidentified",
+   "role": "Unidentified - short fragments from several voices diarized with Frank Romeo's cluster after he left the table"
+  },
+  "911": {
+   "name": "Unidentified",
+   "role": "Unidentified - short fragments from several voices diarized with Frank Romeo's cluster after he left the table"
+  },
+  "914": {
+   "name": "Unidentified",
+   "role": "Unidentified - short fragments from several voices diarized with Frank Romeo's cluster after he left the table"
+  },
+  "917": {
+   "name": "Unidentified",
+   "role": "Unidentified - short fragments from several voices diarized with Frank Romeo's cluster after he left the table"
+  },
+  "920": {
+   "name": "Unidentified",
+   "role": "Unidentified - short fragments from several voices diarized with Frank Romeo's cluster after he left the table"
+  },
+  "922": {
+   "name": "Unidentified",
+   "role": "Unidentified - short fragments from several voices diarized with Frank Romeo's cluster after he left the table"
+  },
+  "924": {
+   "name": "Unidentified",
+   "role": "Unidentified - short fragments from several voices diarized with Frank Romeo's cluster after he left the table"
+  },
+  "926": {
+   "name": "Unidentified",
+   "role": "Unidentified - short fragments from several voices diarized with Frank Romeo's cluster after he left the table"
+  },
+  "928": {
+   "name": "Unidentified",
+   "role": "Unidentified - short fragments from several voices diarized with Frank Romeo's cluster after he left the table"
+  },
+  "930": {
+   "name": "Unidentified",
+   "role": "Unidentified - short fragments from several voices diarized with Frank Romeo's cluster after he left the table"
+  },
+  "932": {
+   "name": "Unidentified",
+   "role": "Unidentified - short fragments from several voices diarized with Frank Romeo's cluster after he left the table"
+  },
+  "938": {
+   "name": "Unidentified",
+   "role": "Unidentified - short fragments from several voices diarized with Frank Romeo's cluster after he left the table"
+  },
+  "941": {
+   "name": "Unidentified",
+   "role": "Unidentified - short fragments from several voices diarized with Frank Romeo's cluster after he left the table"
+  },
+  "944": {
+   "name": "Unidentified",
+   "role": "Unidentified - short fragments from several voices diarized with Frank Romeo's cluster after he left the table"
+  },
+  "960": {
+   "name": "Unidentified",
+   "role": "Unidentified - short fragments from several voices diarized with Frank Romeo's cluster after he left the table"
+  },
+  "963": {
+   "name": "Unidentified",
+   "role": "Unidentified - short fragments from several voices diarized with Frank Romeo's cluster after he left the table"
+  },
+  "971": {
+   "name": "Unidentified",
+   "role": "Unidentified - short fragments from several voices diarized with Frank Romeo's cluster after he left the table"
+  },
+  "976": {
+   "name": "Unidentified",
+   "role": "Unidentified - short fragments from several voices diarized with Frank Romeo's cluster after he left the table"
+  },
+  "978": {
+   "name": "Unidentified",
+   "role": "Unidentified - short fragments from several voices diarized with Frank Romeo's cluster after he left the table"
+  },
+  "984": {
+   "name": "Unidentified",
+   "role": "Unidentified - short fragments from several voices diarized with Frank Romeo's cluster after he left the table"
+  },
+  "987": {
+   "name": "Unidentified",
+   "role": "Unidentified - short fragments from several voices diarized with Frank Romeo's cluster after he left the table"
+  },
+  "989": {
+   "name": "Unidentified",
+   "role": "Unidentified - short fragments from several voices diarized with Frank Romeo's cluster after he left the table"
+  },
+  "995": {
+   "name": "Unidentified",
+   "role": "Unidentified - short fragments from several voices diarized with Frank Romeo's cluster after he left the table"
+  },
+  "997": {
+   "name": "Unidentified",
+   "role": "Unidentified - short fragments from several voices diarized with Frank Romeo's cluster after he left the table"
+  }
+ }
+}

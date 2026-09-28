@@ -1,0 +1,308 @@
+{
+ "Speaker 2": {
+  "name": "Michael Petrin",
+  "role": "SAU 6 Board Chair (Claremont member); presides (calls meeting to order [1], runs agenda and roll calls; 'Mike was going to take' the superintendent evaluations [215]-[216], chair asks members to 'email those to me' [222]); cluster also absorbs other members' voices, see overrides"
+ },
+ "Speaker 1": {
+  "name": "Unidentified",
+  "role": "Unidentified - cluster mixes the clerk's opening roll call, Heather Whitney's Claremont update and short replies; see overrides"
+ },
+ "Speaker 4": {
+  "name": "Unidentified",
+  "role": "Unidentified - cluster mixes clerk Mary Woodman's roll calls, Unity chair Marjorie Erickson and other female voices; see overrides"
+ },
+ "Speaker 3": {
+  "name": "Unidentified",
+  "role": "Unidentified - remote-audio cluster of short replies and votes from members on the call"
+ },
+ "Speaker 5": {
+  "name": "Unidentified",
+  "role": "Unidentified - short replies (one 'Yes' follows the call of Frank Sprague [146])"
+ },
+ "Speaker 6": {
+  "name": "Shannon Popescu",
+  "role": "SAU 6 Board member (Unity) (uncertain - sports update right after Erickson says 'Shannon might be able to say more about that' [46]-[50]; not named at the mic)"
+ },
+ "Speaker 7": {
+  "name": "Michael Tempesta",
+  "role": "Superintendent, SAU 6"
+ },
+ "Speaker 8": {
+  "name": "Frank Sprague",
+  "role": "SAU 6 Board member (Claremont School Board Chair), remote"
+ },
+ "Speaker 9": {
+  "name": "Unidentified",
+  "role": "Unidentified - answers that the drug-free workplace policy is an SAU 6 policy (possibly staff)"
+ },
+ "Speaker 10": {
+  "name": "Unidentified",
+  "role": "Unidentified - single reply"
+ },
+ "Speaker 11": {
+  "name": "Rebecca Zullo",
+  "role": "SAU 6 Board member (Claremont)"
+ },
+ "Speaker 12": {
+  "name": "Unidentified",
+  "role": "Unidentified - technician confirming streaming is off for nonpublic session"
+ },
+ "Speaker 13": {
+  "name": "Unidentified",
+  "role": "Unidentified - short fragment"
+ },
+ "Speaker 14": {
+  "name": "Unidentified",
+  "role": "Unidentified - short fragment"
+ },
+ "__overrides__": {
+  "2": {
+   "name": "Mary Woodman",
+   "role": "School district clerk and SAU 6 recording secretary (takes roll)"
+  },
+  "3": {
+   "name": "Mary Woodman",
+   "role": "School district clerk and SAU 6 recording secretary (takes roll)"
+  },
+  "4": {
+   "name": "Mary Woodman",
+   "role": "School district clerk and SAU 6 recording secretary (takes roll)"
+  },
+  "5": {
+   "name": "Mary Woodman",
+   "role": "School district clerk and SAU 6 recording secretary (takes roll)"
+  },
+  "7": {
+   "name": "Mary Woodman",
+   "role": "School district clerk and SAU 6 recording secretary (takes roll)"
+  },
+  "10": {
+   "name": "Mary Woodman",
+   "role": "School district clerk and SAU 6 recording secretary (takes roll)"
+  },
+  "119": {
+   "name": "Mary Woodman",
+   "role": "School district clerk and SAU 6 recording secretary (takes roll; segment may include a member's brief reply)"
+  },
+  "120": {
+   "name": "Mary Woodman",
+   "role": "School district clerk and SAU 6 recording secretary (takes roll; segment may include a member's brief reply)"
+  },
+  "122": {
+   "name": "Mary Woodman",
+   "role": "School district clerk and SAU 6 recording secretary (takes roll; segment may include a member's brief reply)"
+  },
+  "124": {
+   "name": "Mary Woodman",
+   "role": "School district clerk and SAU 6 recording secretary (takes roll; segment may include a member's brief reply)"
+  },
+  "127": {
+   "name": "Mary Woodman",
+   "role": "School district clerk and SAU 6 recording secretary (takes roll; segment may include a member's brief reply)"
+  },
+  "135": {
+   "name": "Mary Woodman",
+   "role": "School district clerk and SAU 6 recording secretary (takes roll; segment may include a member's brief reply)"
+  },
+  "136": {
+   "name": "Mary Woodman",
+   "role": "School district clerk and SAU 6 recording secretary (takes roll; segment may include a member's brief reply)"
+  },
+  "141": {
+   "name": "Mary Woodman",
+   "role": "School district clerk and SAU 6 recording secretary (takes roll; segment may include a member's brief reply)"
+  },
+  "143": {
+   "name": "Mary Woodman",
+   "role": "School district clerk and SAU 6 recording secretary (takes roll; segment may include a member's brief reply)"
+  },
+  "145": {
+   "name": "Mary Woodman",
+   "role": "School district clerk and SAU 6 recording secretary (takes roll; segment may include a member's brief reply)"
+  },
+  "147": {
+   "name": "Mary Woodman",
+   "role": "School district clerk and SAU 6 recording secretary (takes roll; segment may include a member's brief reply)"
+  },
+  "149": {
+   "name": "Mary Woodman",
+   "role": "School district clerk and SAU 6 recording secretary (takes roll; segment may include a member's brief reply)"
+  },
+  "152": {
+   "name": "Mary Woodman",
+   "role": "School district clerk and SAU 6 recording secretary (takes roll; segment may include a member's brief reply)"
+  },
+  "154": {
+   "name": "Mary Woodman",
+   "role": "School district clerk and SAU 6 recording secretary (takes roll; segment may include a member's brief reply)"
+  },
+  "155": {
+   "name": "Mary Woodman",
+   "role": "School district clerk and SAU 6 recording secretary (takes roll; segment may include a member's brief reply)"
+  },
+  "161": {
+   "name": "Mary Woodman",
+   "role": "School district clerk and SAU 6 recording secretary (takes roll; segment may include a member's brief reply)"
+  },
+  "163": {
+   "name": "Mary Woodman",
+   "role": "School district clerk and SAU 6 recording secretary (takes roll; segment may include a member's brief reply)"
+  },
+  "181": {
+   "name": "Mary Woodman",
+   "role": "School district clerk and SAU 6 recording secretary (takes roll; segment may include a member's brief reply)"
+  },
+  "183": {
+   "name": "Mary Woodman",
+   "role": "School district clerk and SAU 6 recording secretary (takes roll; segment may include a member's brief reply)"
+  },
+  "185": {
+   "name": "Mary Woodman",
+   "role": "School district clerk and SAU 6 recording secretary (takes roll; segment may include a member's brief reply)"
+  },
+  "187": {
+   "name": "Mary Woodman",
+   "role": "School district clerk and SAU 6 recording secretary (takes roll; segment may include a member's brief reply)"
+  },
+  "188": {
+   "name": "Mary Woodman",
+   "role": "School district clerk and SAU 6 recording secretary (takes roll; segment may include a member's brief reply)"
+  },
+  "194": {
+   "name": "Mary Woodman",
+   "role": "School district clerk and SAU 6 recording secretary (takes roll; segment may include a member's brief reply)"
+  },
+  "195": {
+   "name": "Mary Woodman",
+   "role": "School district clerk and SAU 6 recording secretary (takes roll; segment may include a member's brief reply)"
+  },
+  "197": {
+   "name": "Mary Woodman",
+   "role": "School district clerk and SAU 6 recording secretary (takes roll; segment may include a member's brief reply)"
+  },
+  "30": {
+   "name": "Heather Whitney",
+   "role": "SAU 6 Board member (Claremont School Board Vice Chair)"
+  },
+  "32": {
+   "name": "Heather Whitney",
+   "role": "SAU 6 Board member (Claremont School Board Vice Chair)"
+  },
+  "34": {
+   "name": "Heather Whitney",
+   "role": "SAU 6 Board member (Claremont School Board Vice Chair)"
+  },
+  "79": {
+   "name": "Heather Whitney",
+   "role": "SAU 6 Board member (Claremont School Board Vice Chair)"
+  },
+  "38": {
+   "name": "Marjorie Erickson",
+   "role": "SAU 6 Board member (Unity School Board Chair)"
+  },
+  "39": {
+   "name": "Marjorie Erickson",
+   "role": "SAU 6 Board member (Unity School Board Chair)"
+  },
+  "42": {
+   "name": "Marjorie Erickson",
+   "role": "SAU 6 Board member (Unity School Board Chair)"
+  },
+  "43": {
+   "name": "Marjorie Erickson",
+   "role": "SAU 6 Board member (Unity School Board Chair)"
+  },
+  "44": {
+   "name": "Marjorie Erickson",
+   "role": "SAU 6 Board member (Unity School Board Chair)"
+  },
+  "46": {
+   "name": "Marjorie Erickson",
+   "role": "SAU 6 Board member (Unity School Board Chair)"
+  },
+  "247": {
+   "name": "Marjorie Erickson",
+   "role": "SAU 6 Board member (Unity School Board Chair)"
+  },
+  "71": {
+   "name": "Jason Benware",
+   "role": "SAU 6 Board member (Claremont)"
+  },
+  "72": {
+   "name": "Jason Benware",
+   "role": "SAU 6 Board member (Claremont)"
+  },
+  "73": {
+   "name": "Jason Benware",
+   "role": "SAU 6 Board member (Claremont)"
+  },
+  "87": {
+   "name": "Jason Benware",
+   "role": "SAU 6 Board member (Claremont)"
+  },
+  "75": {
+   "name": "Rob Lovett Jr.",
+   "role": "SAU 6 Board member (Claremont)"
+  },
+  "76": {
+   "name": "Rob Lovett Jr.",
+   "role": "SAU 6 Board member (Claremont)"
+  },
+  "77": {
+   "name": "Rob Lovett Jr.",
+   "role": "SAU 6 Board member (Claremont)"
+  },
+  "78": {
+   "name": "Rob Lovett Jr.",
+   "role": "SAU 6 Board member (Claremont)"
+  },
+  "12": {
+   "name": "Unidentified",
+   "role": "Pledge of Allegiance, group recitation"
+  },
+  "121": {
+   "name": "Unidentified",
+   "role": "Roll-call reply (answering member not separable; see Diarized As)"
+  },
+  "123": {
+   "name": "Unidentified",
+   "role": "Roll-call reply (answering member not separable; see Diarized As)"
+  },
+  "142": {
+   "name": "Unidentified",
+   "role": "Roll-call reply (answering member not separable; see Diarized As)"
+  },
+  "144": {
+   "name": "Unidentified",
+   "role": "Roll-call reply (answering member not separable; see Diarized As)"
+  },
+  "150": {
+   "name": "Unidentified",
+   "role": "Roll-call reply (answering member not separable; see Diarized As)"
+  },
+  "182": {
+   "name": "Unidentified",
+   "role": "Roll-call reply (answering member not separable; see Diarized As)"
+  },
+  "184": {
+   "name": "Unidentified",
+   "role": "Roll-call reply (answering member not separable; see Diarized As)"
+  },
+  "189": {
+   "name": "Unidentified",
+   "role": "Roll-call reply (answering member not separable; see Diarized As)"
+  },
+  "196": {
+   "name": "Unidentified",
+   "role": "Roll-call reply (answering member not separable; see Diarized As)"
+  },
+  "198": {
+   "name": "Unidentified",
+   "role": "Roll-call reply (answering member not separable; see Diarized As)"
+  },
+  "281": {
+   "name": "Unidentified",
+   "role": "Roll-call reply (answering member not separable; see Diarized As)"
+  }
+ }
+}

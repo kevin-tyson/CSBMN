@@ -1,0 +1,56 @@
+Source: NH General Court, SB 586 (2026) bill text, FINAL VERSION
+URL: https://gc.nh.gov/bill_status/legacy/bs2016/billText.aspx?sy=2026&id=1298&txtFormat=html
+Retrieved: 2026-09-25, via the Claude desktop browser pane (page text, verbatim)
+
+CHAPTER 272
+
+SB 586-FN - FINAL VERSION
+
+03/05/2026   0772s
+23Apr2026... 1500h
+06/04/2026   2121EBA
+
+2026 SESSION
+26-2110
+07/05
+
+SENATE BILL 586-FN
+
+AN ACT requiring chartered public schools, school administrative units, and cities or school districts not audited under RSA 671:5 to be audited by an independent public accountant after the end of the fiscal year and requiring the results of such audits to be made available to the public.
+
+SPONSORS: Sen. Murphy, Dist 16; Sen. Gannon, Dist 23; Sen. Pearl, Dist 17; Sen. Sullivan, Dist 18; Sen. Innis, Dist 7; Sen. Avard, Dist 12; Sen. Ward, Dist 8; Sen. Birdsell, Dist 19; Sen. Carson, Dist 14
+
+COMMITTEE: Election Law and Municipal Affairs
+
+AMENDED ANALYSIS
+
+This bill requires chartered public schools, school administrative units, and cities or school districts not audited under RSA 671:5 to be audited by an independent public accountant after the end of the fiscal year and for the results of such audits to be made available to the public.
+
+Be it Enacted by the Senate and House of Representatives in General Court convened:
+
+272:1  Education; District Taxes; Reports Required; Cities, School Districts, and School Administrative Units.  RSA 198:4-d is repealed and reenacted to read as follows:
+
+198:4-d  Reports Required; Cities, School Districts, and School Administrative Units.  The governing body of each city, school district, chartered public school, and school administrative unit shall submit to the commissioner of the department of education in a searchable electronic format the following reports pursuant to rules adopted under RSA 541-A by the commissioner of revenue administration which establish the form and content of such reports:
+
+I.  A report filed by the governing body of each city, school district, and chartered public school shall certify the appropriations voted by the meeting of the appropriate legislative body, whether city council, mayor and council, or mayor and board of aldermen, or by each annual or special school district meeting, along with estimated revenues.  This report shall be filed within 20 days of the close of the meeting.
+
+II.  A report filed by the governing body of each city, school district, and chartered public school shall revise all the estimated revenues for the year.  This report shall be filed by September 1 of each year.  The revised estimates by school districts for the adequate education grants calculated under RSA 198:41 shall be considered the most accurate within 5 percent of the amount estimated pursuant to RSA 198:40-a.
+
+III.  A financial report for each city, school district, and chartered public school shall be filed showing the summary of receipts and expenditures, according to uniform classifications, during the preceding fiscal year, and a balance sheet showing assets and liabilities at the close of the year.  This report shall be submitted on or before September 1 of each year.  Each statistical report submitted under this section shall include a certification signed by the chairperson of the school district's governing body or the chairperson of the board of trustees of approved public academies that states:  "I certify, under the pains and penalties of perjury, to the best of my knowledge and belief, that all of the information contained in this document is true, accurate and complete."
+
+IV.  The department of education and the department of revenue administration together shall develop and maintain school accounting standards which shall be used by districts, chartered public schools, and school administrative units for financial reporting purposes.
+
+V.  The budget committee in school districts operating under the municipal budget law shall file the budget within 20 days of the close of the annual or special meeting.
+
+VI.  Chartered public schools, school administrative units, and cities or school districts not audited under RSA 671:5, shall be audited by an independent public accountant in accordance with RSA 21-J:19, II.
+
+VII.  If a city or school district is audited under RSA 671:5, the procedures in RSA 41:31-a through 41:31-d shall be followed.
+
+VIII.  Audit reports created under paragraphs VI and VII shall include balance sheets; a breakdown of revenue sources; an itemized list of all employees or staff on payroll and their pay, benefits, other post-employment benefits and pension liabilities; and an itemized list of assets, debts, bonds, lease agreements, and capital improvement investment projects.  The audit report for the last completed fiscal year shall be submitted to the department within 9 months of the end of the fiscal year.  The commissioner of the department of education shall verify that the report appears complete within 3 months of receipt, comparing it against those submitted in prior years.  The department may grant extensions as needed to address any disputed items.  Deficiencies shall be corrected no later than 12 months from the date of the submission.  The commissioner shall withhold state grant funding, not including RSA 198:40-a funding, allocated to any non-compliant city, school district, chartered public school, or school administrative unit until the audit or financial report is completed and submitted to the department, and any questions are answered to the commissioner's satisfaction.
+
+IX.  The department of education and reporting entities shall make reports filed under this section available to the public on their websites in a searchable electronic format.
+
+272:2  Effective Date.  This act shall take effect July 1, 2026.
+
+Approved: July 02, 2026
+Effective Date: July 01, 2026

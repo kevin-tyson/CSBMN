@@ -1,0 +1,268 @@
+{
+ "Speaker 1": {
+  "name": "Brian Rapp",
+  "role": "Claremont School Board Chair"
+ },
+ "Speaker 2": {
+  "name": "Rebecca Zullo",
+  "role": "Claremont School Board member"
+ },
+ "Speaker 3": {
+  "name": "Middleton McGoodwin",
+  "role": "Superintendent, SAU 6"
+ },
+ "Speaker 4": {
+  "name": "Frank Sprague",
+  "role": "Claremont School Board member"
+ },
+ "Speaker 5": {
+  "name": "Cory LeClair",
+  "role": "Assistant Superintendent, SAU 6"
+ },
+ "Speaker 6": {
+  "name": "Josh Malloy",
+  "role": "SAU 6 technology director (named 'Josh Malloy' on record; roster title Director of Instructional Technology)"
+ },
+ "Speaker 7": {
+  "name": "Unidentified",
+  "role": "Unidentified - mixed cluster (student representative, a robotics student and short onsets of several speakers); see overrides"
+ },
+ "Speaker 8": {
+  "name": "Unidentified",
+  "role": "Robotics club (Rogue Robotics) adult mentor, parent of a team member; name not stated"
+ },
+ "Speaker 9": {
+  "name": "Steven",
+  "role": "Rogue Robotics Sea Perch team member, Stevens High School senior (first name only on record)"
+ },
+ "Speaker 10": {
+  "name": "Matt",
+  "role": "Rogue Robotics Sea Perch team member, senior (first name only on record)"
+ },
+ "Speaker 11": {
+  "name": "Allison",
+  "role": "Rogue Robotics Sea Perch team member (first name only on record)"
+ },
+ "Speaker 12": {
+  "name": "Chris Irish",
+  "role": "Claremont School Board Vice Chair"
+ },
+ "Speaker 13": {
+  "name": "Melanie Williams",
+  "role": "Clinical supervisor, TLC Family Resource Center (name as self-stated)"
+ },
+ "Speaker 14": {
+  "name": "Patrick Adrian",
+  "role": "Claremont School Board member"
+ },
+ "Speaker 15": {
+  "name": "Michelle Pierce",
+  "role": "Claremont School Board member"
+ },
+ "Speaker 16": {
+  "name": "Unidentified",
+  "role": "Unidentified - mixed short interjections, including the nonpublic roll-call responses"
+ },
+ "Speaker 17": {
+  "name": "Chris",
+  "role": "Special education director, SAU 6 (surname unclear; ASR 'Chris Bezos', 'Chris Bezel')"
+ },
+ "Speaker 18": {
+  "name": "Unidentified",
+  "role": "Unidentified - mixed short interjections from presenters and members"
+ },
+ "Speaker 19": {
+  "name": "Charlie Gessner",
+  "role": "Technology integrationist, SAU 6 (ASR 'Charlie Gessner', spelling unverified)"
+ },
+ "Speaker 20": {
+  "name": "Unidentified",
+  "role": "Unidentified - single 'Thank you'"
+ },
+ "Speaker 21": {
+  "name": "Patricia Barry",
+  "role": "Principal, Stevens High School"
+ },
+ "Speaker 22": {
+  "name": "Michael Petrin",
+  "role": "Claremont School Board member (attribution by elimination - 'Michael' answers roll call [4]; all other members placed)"
+ },
+ "Speaker 23": {
+  "name": "Unidentified",
+  "role": "Unidentified - board member moving to accept resignations"
+ },
+ "__overrides__": {
+  "4": {
+   "name": "Unidentified",
+   "role": "Unidentified - roll-call responses from several members (Pierce, Sprague, Rapp named)"
+  },
+  "99": {
+   "name": "Unidentified",
+   "role": "Unidentified - Rogue Robotics team member"
+  },
+  "109": {
+   "name": "Unidentified",
+   "role": "Unidentified - Rogue Robotics team member"
+  },
+  "136": {
+   "name": "Melanie Williams"
+  },
+  "135": {
+   "name": "Melanie Williams"
+  },
+  "777": {
+   "name": "Cory LeClair"
+  },
+  "768": {
+   "name": "Cory LeClair"
+  },
+  "814": {
+   "name": "Cory LeClair"
+  },
+  "25": {
+   "name": "Mary Ann Lovett",
+   "role": "Student representative to the school board (addressed as 'Marion'; named 'Marion Lovett' by superintendent)"
+  },
+  "26": {
+   "name": "Mary Ann Lovett",
+   "role": "Student representative to the school board (addressed as 'Marion'; named 'Marion Lovett' by superintendent)"
+  },
+  "27": {
+   "name": "Mary Ann Lovett",
+   "role": "Student representative to the school board (addressed as 'Marion'; named 'Marion Lovett' by superintendent)"
+  },
+  "28": {
+   "name": "Mary Ann Lovett",
+   "role": "Student representative to the school board (addressed as 'Marion'; named 'Marion Lovett' by superintendent)"
+  },
+  "29": {
+   "name": "Mary Ann Lovett",
+   "role": "Student representative to the school board (addressed as 'Marion'; named 'Marion Lovett' by superintendent)"
+  },
+  "30": {
+   "name": "Mary Ann Lovett",
+   "role": "Student representative to the school board (addressed as 'Marion'; named 'Marion Lovett' by superintendent)"
+  },
+  "31": {
+   "name": "Mary Ann Lovett",
+   "role": "Student representative to the school board (addressed as 'Marion'; named 'Marion Lovett' by superintendent)"
+  },
+  "32": {
+   "name": "Mary Ann Lovett",
+   "role": "Student representative to the school board (addressed as 'Marion'; named 'Marion Lovett' by superintendent)"
+  },
+  "312": {
+   "name": "Mary Ann Lovett",
+   "role": "Student representative to the school board (addressed as 'Marion'; named 'Marion Lovett' by superintendent)"
+  },
+  "62": {
+   "name": "Josh",
+   "role": "Rogue Robotics Sea Perch team member, middle school (first name only on record)"
+  },
+  "63": {
+   "name": "Josh",
+   "role": "Rogue Robotics Sea Perch team member, middle school (first name only on record)"
+  },
+  "64": {
+   "name": "Josh",
+   "role": "Rogue Robotics Sea Perch team member, middle school (first name only on record)"
+  },
+  "85": {
+   "name": "Allison"
+  },
+  "91": {
+   "name": "Rebecca Zullo"
+  },
+  "93": {
+   "name": "Rebecca Zullo"
+  },
+  "154": {
+   "name": "Rebecca Zullo"
+  },
+  "331": {
+   "name": "Rebecca Zullo"
+  },
+  "333": {
+   "name": "Rebecca Zullo"
+  },
+  "477": {
+   "name": "Rebecca Zullo"
+  },
+  "628": {
+   "name": "Rebecca Zullo"
+  },
+  "692": {
+   "name": "Rebecca Zullo"
+  },
+  "321": {
+   "name": "Unidentified",
+   "role": "Unidentified - nonpublic roll-call responses"
+  },
+  "586": {
+   "name": "Patricia Barry"
+  },
+  "528": {
+   "name": "Patricia Barry"
+  },
+  "529": {
+   "name": "Patricia Barry"
+  },
+  "541": {
+   "name": "Patricia Barry"
+  },
+  "351": {
+   "name": "Chris Irish"
+  },
+  "537": {
+   "name": "Frank Sprague"
+  },
+  "187": {
+   "name": "Middleton McGoodwin"
+  },
+  "189": {
+   "name": "Middleton McGoodwin"
+  },
+  "571": {
+   "name": "Chris"
+  },
+  "572": {
+   "name": "Chris"
+  },
+  "114": {
+   "name": "Unidentified",
+   "role": "Unidentified - Rogue Robotics club member or mentor"
+  },
+  "122": {
+   "name": "Unidentified",
+   "role": "Unidentified - Rogue Robotics club member or mentor"
+  },
+  "427": {
+   "name": "Charlie Gessner"
+  },
+  "428": {
+   "name": "Charlie Gessner"
+  },
+  "429": {
+   "name": "Charlie Gessner"
+  },
+  "430": {
+   "name": "Charlie Gessner"
+  },
+  "431": {
+   "name": "Charlie Gessner"
+  },
+  "460": {
+   "name": "Charlie Gessner"
+  },
+  "720": {
+   "name": "Brian Rapp"
+  },
+  "555": {
+   "name": "Patrick Adrian"
+  },
+  "12": {
+   "name": "Unidentified",
+   "role": "Unidentified - reply to LeClair's agenda request (possibly the chair)"
+  }
+ }
+}

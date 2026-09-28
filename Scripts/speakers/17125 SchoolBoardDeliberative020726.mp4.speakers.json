@@ -1,0 +1,2252 @@
+{
+ "Speaker 1": {
+  "name": "Tracy Pope",
+  "role": "Moderator (the approved 2/1/25 minutes spell her 'Tracey'; the Rules of Procedure she signed spell it 'Tracy')"
+ },
+ "Speaker 2": {
+  "name": "Tracy Pope",
+  "role": "Moderator (the approved 2/1/25 minutes spell her 'Tracey'; the Rules of Procedure she signed spell it 'Tracy')"
+ },
+ "Speaker 3": {
+  "name": "Unidentified",
+  "role": "Diarizer artifact cluster - every segment reassigned"
+ },
+ "Speaker 4": {
+  "name": "Candace Crawford",
+  "role": "School Board Member; Finance Committee Chair"
+ },
+ "Speaker 5": {
+  "name": "Candace Crawford",
+  "role": "School Board Member; Finance Committee Chair"
+ },
+ "Speaker 6": {
+  "name": "Unidentified",
+  "role": "Merged cluster of many male voices - presenters, counsel and voters from the floor (name not stated)"
+ },
+ "Speaker 7": {
+  "name": "Unidentified",
+  "role": "Diarizer artifact cluster - every segment reassigned"
+ },
+ "Speaker 8": {
+  "name": "Unidentified",
+  "role": "Voter from the floor (name not stated)"
+ },
+ "Speaker 9": {
+  "name": "Unidentified",
+  "role": "Voter from the floor (name not stated)"
+ },
+ "Speaker 10": {
+  "name": "Tracy Pope",
+  "role": "Moderator (the approved 2/1/25 minutes spell her 'Tracey'; the Rules of Procedure she signed spell it 'Tracy')"
+ },
+ "Speaker 11": {
+  "name": "Unidentified",
+  "role": "Voter from the floor (name not stated)"
+ },
+ "Speaker 12": {
+  "name": "Unidentified",
+  "role": "Voter from the floor (name not stated)"
+ },
+ "Speaker 13": {
+  "name": "Unidentified",
+  "role": "Voter from the floor (name not stated)"
+ },
+ "Speaker 14": {
+  "name": "Unidentified",
+  "role": "Voter from the floor (name not stated)"
+ },
+ "Speaker 15": {
+  "name": "Unidentified",
+  "role": "Voice from the floor / crosstalk during ballot counting (name not stated)"
+ },
+ "Speaker 16": {
+  "name": "Unidentified",
+  "role": "Voter from the floor (name not stated)"
+ },
+ "Speaker 17": {
+  "name": "Unidentified",
+  "role": "Voter from the floor (name not stated)"
+ },
+ "Speaker 18": {
+  "name": "Tracy Pope",
+  "role": "Moderator (the approved 2/1/25 minutes spell her 'Tracey'; the Rules of Procedure she signed spell it 'Tracy')"
+ },
+ "Speaker 19": {
+  "name": "Unidentified",
+  "role": "Voter from the floor (name not stated)"
+ },
+ "Speaker 20": {
+  "name": "Unidentified",
+  "role": "Voter from the floor (name not stated)"
+ },
+ "Speaker 21": {
+  "name": "Tracy Pope",
+  "role": "Moderator (the approved 2/1/25 minutes spell her 'Tracey'; the Rules of Procedure she signed spell it 'Tracy')"
+ },
+ "Speaker 22": {
+  "name": "Tracy Pope",
+  "role": "Moderator (the approved 2/1/25 minutes spell her 'Tracey'; the Rules of Procedure she signed spell it 'Tracy')"
+ },
+ "Speaker 23": {
+  "name": "Unidentified",
+  "role": "Voter from the floor (name not stated)"
+ },
+ "Speaker 24": {
+  "name": "Tracy Pope",
+  "role": "Moderator (the approved 2/1/25 minutes spell her 'Tracey'; the Rules of Procedure she signed spell it 'Tracy')"
+ },
+ "Speaker 25": {
+  "name": "Unidentified",
+  "role": "Voter from the floor (name not stated)"
+ },
+ "Speaker 26": {
+  "name": "John Gavin",
+  "role": "Stevens High School student, Ward 3 (self-identified; a minor - the meeting voted to let him speak)"
+ },
+ "Speaker 27": {
+  "name": "Richard",
+  "role": "Voter, Ward 1 (self-identified by first name only)"
+ },
+ "Speaker 28": {
+  "name": "Emily Sandblade",
+  "role": "Primary petitioner for Article 8, Ward 3 (self-identified)"
+ },
+ "__overrides__": {
+  "6": {
+   "name": "Heather Whitney",
+   "role": "School Board Chair (leads the Pledge of Allegiance; group recitation captured as one voice)"
+  },
+  "7": {
+   "name": "Heather Whitney",
+   "role": "School Board Chair (leads the Pledge of Allegiance; group recitation captured as one voice)"
+  },
+  "9": {
+   "name": "Kerry Kennedy",
+   "role": "Interim Superintendent, SAU 6"
+  },
+  "10": {
+   "name": "Kerry Kennedy",
+   "role": "Interim Superintendent, SAU 6"
+  },
+  "11": {
+   "name": "Kerry Kennedy",
+   "role": "Interim Superintendent, SAU 6"
+  },
+  "12": {
+   "name": "Kerry Kennedy",
+   "role": "Interim Superintendent, SAU 6"
+  },
+  "13": {
+   "name": "Kerry Kennedy",
+   "role": "Interim Superintendent, SAU 6"
+  },
+  "15": {
+   "name": "Heather Whitney",
+   "role": "School Board Chair"
+  },
+  "16": {
+   "name": "Heather Whitney",
+   "role": "School Board Chair"
+  },
+  "17": {
+   "name": "Heather Whitney",
+   "role": "School Board Chair"
+  },
+  "36": {
+   "name": "Michael Petrin",
+   "role": "School Board Vice Chair; Capital Improvement Committee Chair (moves approval of the 2/1/25 minutes; the moderator recognizes him by name in the next segment)"
+  },
+  "38": {
+   "name": "Michael Petrin",
+   "role": "School Board Vice Chair; Capital Improvement Committee Chair"
+  },
+  "54": {
+   "name": "Matt Angell",
+   "role": "Interim Business Administrator, SAU 6"
+  },
+  "55": {
+   "name": "Matt Angell",
+   "role": "Interim Business Administrator, SAU 6"
+  },
+  "56": {
+   "name": "Matt Angell",
+   "role": "Interim Business Administrator, SAU 6"
+  },
+  "57": {
+   "name": "Matt Angell",
+   "role": "Interim Business Administrator, SAU 6"
+  },
+  "59": {
+   "name": "Matt Angell",
+   "role": "Interim Business Administrator, SAU 6"
+  },
+  "60": {
+   "name": "Matt Angell",
+   "role": "Interim Business Administrator, SAU 6"
+  },
+  "61": {
+   "name": "Matt Angell",
+   "role": "Interim Business Administrator, SAU 6"
+  },
+  "62": {
+   "name": "Matt Angell",
+   "role": "Interim Business Administrator, SAU 6"
+  },
+  "63": {
+   "name": "Matt Angell",
+   "role": "Interim Business Administrator, SAU 6"
+  },
+  "64": {
+   "name": "Matt Angell",
+   "role": "Interim Business Administrator, SAU 6"
+  },
+  "65": {
+   "name": "Matt Angell",
+   "role": "Interim Business Administrator, SAU 6"
+  },
+  "66": {
+   "name": "Matt Angell",
+   "role": "Interim Business Administrator, SAU 6"
+  },
+  "67": {
+   "name": "Candace Crawford",
+   "role": "School Board Member; Finance Committee Chair (onset of her prepared statement, clipped into a neighbouring cluster)"
+  },
+  "83": {
+   "name": "Unidentified",
+   "role": "Voter or board member asking to move to restrict reconsideration (name not stated; the moderator then recognizes Chair Whitney to make the motion)"
+  },
+  "84": {
+   "name": "Unidentified",
+   "role": "Second from the floor (name not stated)"
+  },
+  "86": {
+   "name": "Unidentified",
+   "role": "Voter or board member asking to move to restrict reconsideration (name not stated; the moderator then recognizes Chair Whitney to make the motion)"
+  },
+  "88": {
+   "name": "Heather Whitney",
+   "role": "School Board Chair (moves to restrict reconsideration of Articles 1 and 2)"
+  },
+  "89": {
+   "name": "Brian Rapp",
+   "role": "Voter from the floor (not self-identified; the moderator announces 'Second by Brian Wrap')"
+  },
+  "92": {
+   "name": "Arlene Hawkins",
+   "role": "School Board Member; SAU 6 Board Chair; Policy Committee Chair"
+  },
+  "93": {
+   "name": "Arlene Hawkins",
+   "role": "School Board Member; SAU 6 Board Chair; Policy Committee Chair"
+  },
+  "94": {
+   "name": "Arlene Hawkins",
+   "role": "School Board Member; SAU 6 Board Chair; Policy Committee Chair"
+  },
+  "96": {
+   "name": "Arlene Hawkins",
+   "role": "School Board Member; SAU 6 Board Chair; Policy Committee Chair"
+  },
+  "98": {
+   "name": "Arlene Hawkins",
+   "role": "School Board Member; SAU 6 Board Chair; Policy Committee Chair"
+  },
+  "99": {
+   "name": "Arlene Hawkins",
+   "role": "School Board Member; SAU 6 Board Chair; Policy Committee Chair"
+  },
+  "100": {
+   "name": "Arlene Hawkins",
+   "role": "School Board Member; SAU 6 Board Chair; Policy Committee Chair"
+  },
+  "101": {
+   "name": "Arlene Hawkins",
+   "role": "School Board Member; SAU 6 Board Chair; Policy Committee Chair"
+  },
+  "102": {
+   "name": "Arlene Hawkins",
+   "role": "School Board Member; SAU 6 Board Chair; Policy Committee Chair"
+  },
+  "103": {
+   "name": "Arlene Hawkins",
+   "role": "School Board Member; SAU 6 Board Chair; Policy Committee Chair"
+  },
+  "105": {
+   "name": "Mike Myers",
+   "role": "Voter, Ward 3 (self-identified); also named as an assistant moderator at the opening"
+  },
+  "106": {
+   "name": "Mike Myers",
+   "role": "Voter, Ward 3 (self-identified); also named as an assistant moderator at the opening"
+  },
+  "107": {
+   "name": "Mike Myers",
+   "role": "Voter, Ward 3 (self-identified); also named as an assistant moderator at the opening"
+  },
+  "108": {
+   "name": "Mike Myers",
+   "role": "Voter, Ward 3 (self-identified); also named as an assistant moderator at the opening"
+  },
+  "109": {
+   "name": "Mike Myers",
+   "role": "Voter, Ward 3 (self-identified); also named as an assistant moderator at the opening"
+  },
+  "114": {
+   "name": "Sonya Stephan",
+   "role": "Voter, Ward 1 (self-identified; the moderator thanks 'Miss Stack')"
+  },
+  "115": {
+   "name": "Sonya Stephan",
+   "role": "Voter, Ward 1 (self-identified; the moderator thanks 'Miss Stack')"
+  },
+  "116": {
+   "name": "Sonya Stephan",
+   "role": "Voter, Ward 1 (self-identified; the moderator thanks 'Miss Stack')"
+  },
+  "117": {
+   "name": "Sonya Stephan",
+   "role": "Voter, Ward 1 (self-identified; the moderator thanks 'Miss Stack')"
+  },
+  "118": {
+   "name": "Sonya Stephan",
+   "role": "Voter, Ward 1 (self-identified; the moderator thanks 'Miss Stack')"
+  },
+  "119": {
+   "name": "Sonya Stephan",
+   "role": "Voter, Ward 1 (self-identified; the moderator thanks 'Miss Stack')"
+  },
+  "120": {
+   "name": "Sonya Stephan",
+   "role": "Voter, Ward 1 (self-identified; the moderator thanks 'Miss Stack')"
+  },
+  "121": {
+   "name": "Sonya Stephan",
+   "role": "Voter, Ward 1 (self-identified; the moderator thanks 'Miss Stack')"
+  },
+  "122": {
+   "name": "Sonya Stephan",
+   "role": "Voter, Ward 1 (self-identified; the moderator thanks 'Miss Stack')"
+  },
+  "123": {
+   "name": "Sonya Stephan",
+   "role": "Voter, Ward 1 (self-identified; the moderator thanks 'Miss Stack')"
+  },
+  "124": {
+   "name": "Sonya Stephan",
+   "role": "Voter, Ward 1 (self-identified; the moderator thanks 'Miss Stack')"
+  },
+  "125": {
+   "name": "Sonya Stephan",
+   "role": "Voter, Ward 1 (self-identified; the moderator thanks 'Miss Stack')"
+  },
+  "133": {
+   "name": "Arlene Hawkins",
+   "role": "School Board Member; SAU 6 Board Chair; Policy Committee Chair"
+  },
+  "135": {
+   "name": "Arlene Hawkins",
+   "role": "School Board Member; SAU 6 Board Chair; Policy Committee Chair"
+  },
+  "137": {
+   "name": "Arlene Hawkins",
+   "role": "School Board Member; SAU 6 Board Chair; Policy Committee Chair"
+  },
+  "138": {
+   "name": "Arlene Hawkins",
+   "role": "School Board Member; SAU 6 Board Chair; Policy Committee Chair"
+  },
+  "140": {
+   "name": "James O'Shaughnessy",
+   "role": "District legal counsel, Drummond Woodsum"
+  },
+  "146": {
+   "name": "Patrick Adrian",
+   "role": "Voter, Ward 1 (self-identified; the moderator first says 'Patrick Ahern' then corrects to Adrian)"
+  },
+  "147": {
+   "name": "Patrick Adrian",
+   "role": "Voter, Ward 1 (self-identified; the moderator first says 'Patrick Ahern' then corrects to Adrian)"
+  },
+  "148": {
+   "name": "Patrick Adrian",
+   "role": "Voter, Ward 1 (self-identified; the moderator first says 'Patrick Ahern' then corrects to Adrian)"
+  },
+  "149": {
+   "name": "Patrick Adrian",
+   "role": "Voter, Ward 1 (self-identified; the moderator first says 'Patrick Ahern' then corrects to Adrian)"
+  },
+  "150": {
+   "name": "Patrick Adrian",
+   "role": "Voter, Ward 1 (self-identified; the moderator first says 'Patrick Ahern' then corrects to Adrian)"
+  },
+  "152": {
+   "name": "James O'Shaughnessy",
+   "role": "District legal counsel, Drummond Woodsum"
+  },
+  "153": {
+   "name": "James O'Shaughnessy",
+   "role": "District legal counsel, Drummond Woodsum"
+  },
+  "154": {
+   "name": "James O'Shaughnessy",
+   "role": "District legal counsel, Drummond Woodsum"
+  },
+  "155": {
+   "name": "James O'Shaughnessy",
+   "role": "District legal counsel, Drummond Woodsum"
+  },
+  "170": {
+   "name": "Michael Petrin",
+   "role": "School Board Vice Chair; Capital Improvement Committee Chair (reads Article 5, sale or lease of Bluff Elementary School)"
+  },
+  "171": {
+   "name": "Michael Petrin",
+   "role": "School Board Vice Chair; Capital Improvement Committee Chair (reads Article 5, sale or lease of Bluff Elementary School)"
+  },
+  "172": {
+   "name": "Michael Petrin",
+   "role": "School Board Vice Chair; Capital Improvement Committee Chair (reads Article 5, sale or lease of Bluff Elementary School)"
+  },
+  "173": {
+   "name": "Michael Petrin",
+   "role": "School Board Vice Chair; Capital Improvement Committee Chair (reads Article 5, sale or lease of Bluff Elementary School)"
+  },
+  "174": {
+   "name": "Michael Petrin",
+   "role": "School Board Vice Chair; Capital Improvement Committee Chair (reads Article 5, sale or lease of Bluff Elementary School)"
+  },
+  "175": {
+   "name": "Michael Petrin",
+   "role": "School Board Vice Chair; Capital Improvement Committee Chair (reads Article 5, sale or lease of Bluff Elementary School)"
+  },
+  "176": {
+   "name": "Michael Petrin",
+   "role": "School Board Vice Chair; Capital Improvement Committee Chair (reads Article 5, sale or lease of Bluff Elementary School)"
+  },
+  "177": {
+   "name": "Michael Petrin",
+   "role": "School Board Vice Chair; Capital Improvement Committee Chair (reads Article 5, sale or lease of Bluff Elementary School)"
+  },
+  "181": {
+   "name": "Kevin Tyson",
+   "role": "Voter, Ward 2 (self-identified)"
+  },
+  "182": {
+   "name": "Kevin Tyson",
+   "role": "Voter, Ward 2 (self-identified)"
+  },
+  "184": {
+   "name": "Tracy Pope",
+   "role": "Moderator (the approved 2/1/25 minutes spell her 'Tracey'; the Rules of Procedure she signed spell it 'Tracy')"
+  },
+  "185": {
+   "name": "Kevin Tyson",
+   "role": "Voter, Ward 2 (self-identified)"
+  },
+  "186": {
+   "name": "Unidentified",
+   "role": "Second from the floor (name not stated)"
+  },
+  "188": {
+   "name": "Tracy Pope",
+   "role": "Moderator (the approved 2/1/25 minutes spell her 'Tracey'; the Rules of Procedure she signed spell it 'Tracy')"
+  },
+  "190": {
+   "name": "Chris",
+   "role": "Voter, Ward 3 (self-identified by first name only)"
+  },
+  "191": {
+   "name": "Chris",
+   "role": "Voter, Ward 3 (self-identified by first name only)"
+  },
+  "192": {
+   "name": "Chris",
+   "role": "Voter, Ward 3 (self-identified by first name only)"
+  },
+  "193": {
+   "name": "Chris",
+   "role": "Voter, Ward 3 (self-identified by first name only)"
+  },
+  "194": {
+   "name": "Chris",
+   "role": "Voter, Ward 3 (self-identified by first name only)"
+  },
+  "195": {
+   "name": "Chris",
+   "role": "Voter, Ward 3 (self-identified by first name only)"
+  },
+  "199": {
+   "name": "Jason Benoit",
+   "role": "Voter, Ward 1 (self-identified)"
+  },
+  "201": {
+   "name": "Jason Benoit",
+   "role": "Voter, Ward 1 (self-identified)"
+  },
+  "202": {
+   "name": "Jason Benoit",
+   "role": "Voter, Ward 1 (self-identified)"
+  },
+  "203": {
+   "name": "Jason Benoit",
+   "role": "Voter, Ward 1 (self-identified)"
+  },
+  "206": {
+   "name": "Unidentified",
+   "role": "Voter from the floor speaking against the amendment to strike 'or lease' (name not stated)"
+  },
+  "207": {
+   "name": "Unidentified",
+   "role": "Voter from the floor speaking against the amendment to strike 'or lease' (name not stated)"
+  },
+  "208": {
+   "name": "Unidentified",
+   "role": "Voter from the floor speaking against the amendment to strike 'or lease' (name not stated)"
+  },
+  "209": {
+   "name": "Unidentified",
+   "role": "Voter from the floor speaking against the amendment to strike 'or lease' (name not stated)"
+  },
+  "210": {
+   "name": "Unidentified",
+   "role": "Voter from the floor speaking against the amendment to strike 'or lease' (name not stated)"
+  },
+  "211": {
+   "name": "Unidentified",
+   "role": "Voter from the floor speaking against the amendment to strike 'or lease' (name not stated)"
+  },
+  "212": {
+   "name": "Unidentified",
+   "role": "Voter from the floor speaking against the amendment to strike 'or lease' (name not stated)"
+  },
+  "213": {
+   "name": "Unidentified",
+   "role": "Voter from the floor speaking against the amendment to strike 'or lease' (name not stated)"
+  },
+  "214": {
+   "name": "Unidentified",
+   "role": "Voter from the floor speaking against the amendment to strike 'or lease' (name not stated)"
+  },
+  "215": {
+   "name": "Unidentified",
+   "role": "Voter from the floor speaking against the amendment to strike 'or lease' (name not stated)"
+  },
+  "216": {
+   "name": "Unidentified",
+   "role": "Voter from the floor speaking against the amendment to strike 'or lease' (name not stated)"
+  },
+  "217": {
+   "name": "Unidentified",
+   "role": "Voter from the floor speaking against the amendment to strike 'or lease' (name not stated)"
+  },
+  "220": {
+   "name": "Unidentified",
+   "role": "Speaker from the floor asking to speak a second time (name not stated)"
+  },
+  "222": {
+   "name": "Ben Nelson",
+   "role": "Voter, Ward 2 (self-identified)"
+  },
+  "223": {
+   "name": "Ben Nelson",
+   "role": "Voter, Ward 2 (self-identified)"
+  },
+  "224": {
+   "name": "Ben Nelson",
+   "role": "Voter, Ward 2 (self-identified)"
+  },
+  "225": {
+   "name": "Ben Nelson",
+   "role": "Voter, Ward 2 (self-identified)"
+  },
+  "226": {
+   "name": "Ben Nelson",
+   "role": "Voter, Ward 2 (self-identified)"
+  },
+  "227": {
+   "name": "Ben Nelson",
+   "role": "Voter, Ward 2 (self-identified)"
+  },
+  "228": {
+   "name": "Ben Nelson",
+   "role": "Voter, Ward 2 (self-identified)"
+  },
+  "229": {
+   "name": "Ben Nelson",
+   "role": "Voter, Ward 2 (self-identified)"
+  },
+  "230": {
+   "name": "Ben Nelson",
+   "role": "Voter, Ward 2 (self-identified)"
+  },
+  "232": {
+   "name": "Gerard",
+   "role": "Voter, Ward 2 (self-identified; surname as heard, first name not stated)"
+  },
+  "233": {
+   "name": "Gerard",
+   "role": "Voter, Ward 2 (self-identified; surname as heard, first name not stated)"
+  },
+  "234": {
+   "name": "Gerard",
+   "role": "Voter, Ward 2 (self-identified; surname as heard, first name not stated)"
+  },
+  "237": {
+   "name": "Patrick Adrian",
+   "role": "Voter, Ward 1 (the moderator thanks 'Mister Adrian' at the close of this turn)"
+  },
+  "238": {
+   "name": "Patrick Adrian",
+   "role": "Voter, Ward 1 (the moderator thanks 'Mister Adrian' at the close of this turn)"
+  },
+  "239": {
+   "name": "Patrick Adrian",
+   "role": "Voter, Ward 1 (the moderator thanks 'Mister Adrian' at the close of this turn)"
+  },
+  "240": {
+   "name": "Patrick Adrian",
+   "role": "Voter, Ward 1 (the moderator thanks 'Mister Adrian' at the close of this turn)"
+  },
+  "241": {
+   "name": "Patrick Adrian",
+   "role": "Voter, Ward 1 (the moderator thanks 'Mister Adrian' at the close of this turn)"
+  },
+  "244": {
+   "name": "Stapleton",
+   "role": "Voter, Ward 3 (self-identified; surname only)"
+  },
+  "245": {
+   "name": "Stapleton",
+   "role": "Voter, Ward 3 (self-identified; surname only)"
+  },
+  "246": {
+   "name": "Stapleton",
+   "role": "Voter, Ward 3 (self-identified; surname only)"
+  },
+  "247": {
+   "name": "Stapleton",
+   "role": "Voter, Ward 3 (self-identified; surname only)"
+  },
+  "249": {
+   "name": "James O'Shaughnessy",
+   "role": "District legal counsel, Drummond Woodsum"
+  },
+  "250": {
+   "name": "James O'Shaughnessy",
+   "role": "District legal counsel, Drummond Woodsum"
+  },
+  "251": {
+   "name": "James O'Shaughnessy",
+   "role": "District legal counsel, Drummond Woodsum"
+  },
+  "254": {
+   "name": "Unidentified",
+   "role": "Voter from the floor, in favour of the amendment (name not stated)"
+  },
+  "255": {
+   "name": "Unidentified",
+   "role": "Voter from the floor, in favour of the amendment (name not stated)"
+  },
+  "256": {
+   "name": "Unidentified",
+   "role": "Voter from the floor, in favour of the amendment (name not stated)"
+  },
+  "257": {
+   "name": "Unidentified",
+   "role": "Voter from the floor, in favour of the amendment (name not stated)"
+  },
+  "260": {
+   "name": "Unidentified",
+   "role": "Voter from the floor (name not stated)"
+  },
+  "261": {
+   "name": "Unidentified",
+   "role": "Voter from the floor (name not stated)"
+  },
+  "262": {
+   "name": "Unidentified",
+   "role": "Voter from the floor (name not stated)"
+  },
+  "263": {
+   "name": "Unidentified",
+   "role": "Voter from the floor (name not stated)"
+  },
+  "264": {
+   "name": "Unidentified",
+   "role": "Voter from the floor (name not stated)"
+  },
+  "265": {
+   "name": "Unidentified",
+   "role": "Voter from the floor (name not stated)"
+  },
+  "266": {
+   "name": "Unidentified",
+   "role": "Voter from the floor (name not stated)"
+  },
+  "272": {
+   "name": "Jason Benoit",
+   "role": "Voter, Ward 1 (self-identified; ASR renders the surname 'Bender' here and 'Spencer' when the next speaker cites him)"
+  },
+  "273": {
+   "name": "Jason Benoit",
+   "role": "Voter, Ward 1 (self-identified; ASR renders the surname 'Bender' here and 'Spencer' when the next speaker cites him)"
+  },
+  "274": {
+   "name": "Jason Benoit",
+   "role": "Voter, Ward 1 (self-identified; ASR renders the surname 'Bender' here and 'Spencer' when the next speaker cites him)"
+  },
+  "276": {
+   "name": "Unidentified",
+   "role": "School board member speaking to the Bluff School amendment (self-identifies as a board member - 'us as a board'; not named)"
+  },
+  "277": {
+   "name": "Unidentified",
+   "role": "School board member speaking to the Bluff School amendment (self-identifies as a board member - 'us as a board'; not named)"
+  },
+  "278": {
+   "name": "Unidentified",
+   "role": "School board member speaking to the Bluff School amendment (self-identifies as a board member - 'us as a board'; not named)"
+  },
+  "279": {
+   "name": "Unidentified",
+   "role": "School board member speaking to the Bluff School amendment (self-identifies as a board member - 'us as a board'; not named)"
+  },
+  "280": {
+   "name": "Unidentified",
+   "role": "School board member speaking to the Bluff School amendment (self-identifies as a board member - 'us as a board'; not named)"
+  },
+  "281": {
+   "name": "Unidentified",
+   "role": "School board member speaking to the Bluff School amendment (self-identifies as a board member - 'us as a board'; not named)"
+  },
+  "282": {
+   "name": "Unidentified",
+   "role": "School board member speaking to the Bluff School amendment (self-identifies as a board member - 'us as a board'; not named)"
+  },
+  "283": {
+   "name": "Unidentified",
+   "role": "School board member speaking to the Bluff School amendment (self-identifies as a board member - 'us as a board'; not named)"
+  },
+  "288": {
+   "name": "Unidentified",
+   "role": "Voter from the floor moving to call the question on the amendment (name not stated)"
+  },
+  "290": {
+   "name": "Unidentified",
+   "role": "Voter from the floor moving to call the question on the amendment (name not stated)"
+  },
+  "291": {
+   "name": "Unidentified",
+   "role": "Voter from the floor moving to call the question on the amendment (name not stated)"
+  },
+  "294": {
+   "name": "Unidentified",
+   "role": "Voter, Ward 3, requesting a ballot vote (gives his first name as 'John'; surname not intelligible)"
+  },
+  "295": {
+   "name": "Unidentified",
+   "role": "Voter, Ward 3, requesting a ballot vote (gives his first name as 'John'; surname not intelligible)"
+  },
+  "307": {
+   "name": "James O'Shaughnessy",
+   "role": "District legal counsel, Drummond Woodsum"
+  },
+  "308": {
+   "name": "James O'Shaughnessy",
+   "role": "District legal counsel, Drummond Woodsum"
+  },
+  "310": {
+   "name": "James O'Shaughnessy",
+   "role": "District legal counsel, Drummond Woodsum"
+  },
+  "319": {
+   "name": "Unidentified",
+   "role": "Crosstalk during the standing vote count (name not stated)"
+  },
+  "320": {
+   "name": "Unidentified",
+   "role": "Crosstalk during the standing vote count (name not stated)"
+  },
+  "321": {
+   "name": "Unidentified",
+   "role": "Crosstalk during the standing vote count (name not stated)"
+  },
+  "322": {
+   "name": "Unidentified",
+   "role": "Crosstalk during the standing vote count (name not stated)"
+  },
+  "330": {
+   "name": "James O'Shaughnessy",
+   "role": "District legal counsel, Drummond Woodsum"
+  },
+  "331": {
+   "name": "James O'Shaughnessy",
+   "role": "District legal counsel, Drummond Woodsum"
+  },
+  "333": {
+   "name": "Michael Petrin",
+   "role": "School Board Vice Chair; Capital Improvement Committee Chair (reads Article 6, 52 Maple Avenue; uncertain - the moderator's recognition is garbled as 'Mr. Brad', attribution rests on the presenter order and the same opening as Article 5)"
+  },
+  "334": {
+   "name": "Michael Petrin",
+   "role": "School Board Vice Chair; Capital Improvement Committee Chair (reads Article 6, 52 Maple Avenue; uncertain - the moderator's recognition is garbled as 'Mr. Brad', attribution rests on the presenter order and the same opening as Article 5)"
+  },
+  "335": {
+   "name": "Michael Petrin",
+   "role": "School Board Vice Chair; Capital Improvement Committee Chair (reads Article 6, 52 Maple Avenue; uncertain - the moderator's recognition is garbled as 'Mr. Brad', attribution rests on the presenter order and the same opening as Article 5)"
+  },
+  "336": {
+   "name": "Michael Petrin",
+   "role": "School Board Vice Chair; Capital Improvement Committee Chair (reads Article 6, 52 Maple Avenue; uncertain - the moderator's recognition is garbled as 'Mr. Brad', attribution rests on the presenter order and the same opening as Article 5)"
+  },
+  "337": {
+   "name": "Michael Petrin",
+   "role": "School Board Vice Chair; Capital Improvement Committee Chair (reads Article 6, 52 Maple Avenue; uncertain - the moderator's recognition is garbled as 'Mr. Brad', attribution rests on the presenter order and the same opening as Article 5)"
+  },
+  "338": {
+   "name": "Michael Petrin",
+   "role": "School Board Vice Chair; Capital Improvement Committee Chair (reads Article 6, 52 Maple Avenue; uncertain - the moderator's recognition is garbled as 'Mr. Brad', attribution rests on the presenter order and the same opening as Article 5)"
+  },
+  "339": {
+   "name": "Michael Petrin",
+   "role": "School Board Vice Chair; Capital Improvement Committee Chair (reads Article 6, 52 Maple Avenue; uncertain - the moderator's recognition is garbled as 'Mr. Brad', attribution rests on the presenter order and the same opening as Article 5)"
+  },
+  "341": {
+   "name": "Michael Petrin",
+   "role": "School Board Vice Chair; Capital Improvement Committee Chair (uncertain - see the Article 6 reading)"
+  },
+  "343": {
+   "name": "Kevin Tyson",
+   "role": "Voter, Ward 2 (uncertain - not self-identified here; the moderator refers to 'Kevin' when restating this amendment)"
+  },
+  "345": {
+   "name": "Unidentified",
+   "role": "Second from the floor (name not stated)"
+  },
+  "352": {
+   "name": "Unidentified",
+   "role": "Voice from the floor (name not stated)"
+  },
+  "357": {
+   "name": "Unidentified",
+   "role": "Voice from the floor (name not stated)"
+  },
+  "359": {
+   "name": "James O'Shaughnessy",
+   "role": "District legal counsel, Drummond Woodsum"
+  },
+  "360": {
+   "name": "James O'Shaughnessy",
+   "role": "District legal counsel, Drummond Woodsum"
+  },
+  "361": {
+   "name": "Unidentified",
+   "role": "Voice from the floor (name not stated)"
+  },
+  "362": {
+   "name": "James O'Shaughnessy",
+   "role": "District legal counsel, Drummond Woodsum"
+  },
+  "367": {
+   "name": "Heather Whitney",
+   "role": "School Board Chair (moves to restrict reconsideration of Articles 3, 4, 5 and 6)"
+  },
+  "369": {
+   "name": "William 'Bill' Madden",
+   "role": "School Board Member (seconds; the moderator thanks 'Mr. Madden' in the next segment)"
+  },
+  "375": {
+   "name": "Candace Crawford",
+   "role": "School Board Member; Finance Committee Chair"
+  },
+  "377": {
+   "name": "Candace Crawford",
+   "role": "School Board Member; Finance Committee Chair"
+  },
+  "379": {
+   "name": "Candace Crawford",
+   "role": "School Board Member; Finance Committee Chair"
+  },
+  "381": {
+   "name": "Candace Crawford",
+   "role": "School Board Member; Finance Committee Chair"
+  },
+  "383": {
+   "name": "Candace Crawford",
+   "role": "School Board Member; Finance Committee Chair"
+  },
+  "385": {
+   "name": "Candace Crawford",
+   "role": "School Board Member; Finance Committee Chair"
+  },
+  "387": {
+   "name": "Candace Crawford",
+   "role": "School Board Member; Finance Committee Chair"
+  },
+  "389": {
+   "name": "Candace Crawford",
+   "role": "School Board Member; Finance Committee Chair"
+  },
+  "402": {
+   "name": "Unidentified",
+   "role": "Voter from the floor asking whether the 0% limit covers students the district places out of Claremont (name not stated)"
+  },
+  "403": {
+   "name": "Unidentified",
+   "role": "Voter from the floor asking whether the 0% limit covers students the district places out of Claremont (name not stated)"
+  },
+  "404": {
+   "name": "Unidentified",
+   "role": "Voter from the floor asking whether the 0% limit covers students the district places out of Claremont (name not stated)"
+  },
+  "405": {
+   "name": "Unidentified",
+   "role": "Voter from the floor asking whether the 0% limit covers students the district places out of Claremont (name not stated)"
+  },
+  "407": {
+   "name": "Zachary Wood",
+   "role": "Voter, Ward 2 (self-identified)"
+  },
+  "408": {
+   "name": "Zachary Wood",
+   "role": "Voter, Ward 2 (self-identified)"
+  },
+  "411": {
+   "name": "Unidentified",
+   "role": "New Hampshire state representative for Claremont, Ward 1 (self-identified as one of Claremont's five state reps; name not intelligible)"
+  },
+  "412": {
+   "name": "Unidentified",
+   "role": "New Hampshire state representative for Claremont, Ward 1 (self-identified as one of Claremont's five state reps; name not intelligible)"
+  },
+  "413": {
+   "name": "Unidentified",
+   "role": "New Hampshire state representative for Claremont, Ward 1 (self-identified as one of Claremont's five state reps; name not intelligible)"
+  },
+  "414": {
+   "name": "Unidentified",
+   "role": "New Hampshire state representative for Claremont, Ward 1 (self-identified as one of Claremont's five state reps; name not intelligible)"
+  },
+  "418": {
+   "name": "Unidentified",
+   "role": "Voter from the floor, in favour of open enrollment (name not stated)"
+  },
+  "419": {
+   "name": "Unidentified",
+   "role": "Voter from the floor, in favour of open enrollment (name not stated)"
+  },
+  "421": {
+   "name": "April Woodman",
+   "role": "Voter, Ward 3 (self-identified)"
+  },
+  "422": {
+   "name": "April Woodman",
+   "role": "Voter, Ward 3 (self-identified)"
+  },
+  "423": {
+   "name": "Kerry Kennedy",
+   "role": "Interim Superintendent, SAU 6 (the moderator's handoff is captured at the head of this segment)"
+  },
+  "424": {
+   "name": "April Woodman",
+   "role": "Voter, Ward 3 (self-identified)"
+  },
+  "425": {
+   "name": "James O'Shaughnessy",
+   "role": "District legal counsel, Drummond Woodsum"
+  },
+  "426": {
+   "name": "James O'Shaughnessy",
+   "role": "District legal counsel, Drummond Woodsum"
+  },
+  "427": {
+   "name": "April Woodman",
+   "role": "Voter, Ward 3 (self-identified)"
+  },
+  "428": {
+   "name": "Kerry Kennedy",
+   "role": "Interim Superintendent, SAU 6"
+  },
+  "429": {
+   "name": "Kerry Kennedy",
+   "role": "Interim Superintendent, SAU 6"
+  },
+  "430": {
+   "name": "April Woodman",
+   "role": "Voter, Ward 3 (uncertain - the moderator's words are mixed into the same segment)"
+  },
+  "432": {
+   "name": "Candace Crawford",
+   "role": "School Board Member; Finance Committee Chair (one answer shredded across clusters; counsel addresses her as 'candy' immediately afterwards)"
+  },
+  "433": {
+   "name": "Candace Crawford",
+   "role": "School Board Member; Finance Committee Chair (one answer shredded across clusters; counsel addresses her as 'candy' immediately afterwards)"
+  },
+  "434": {
+   "name": "Candace Crawford",
+   "role": "School Board Member; Finance Committee Chair (one answer shredded across clusters; counsel addresses her as 'candy' immediately afterwards)"
+  },
+  "435": {
+   "name": "Candace Crawford",
+   "role": "School Board Member; Finance Committee Chair (one answer shredded across clusters; counsel addresses her as 'candy' immediately afterwards)"
+  },
+  "436": {
+   "name": "Candace Crawford",
+   "role": "School Board Member; Finance Committee Chair (one answer shredded across clusters; counsel addresses her as 'candy' immediately afterwards)"
+  },
+  "437": {
+   "name": "Candace Crawford",
+   "role": "School Board Member; Finance Committee Chair (one answer shredded across clusters; counsel addresses her as 'candy' immediately afterwards)"
+  },
+  "438": {
+   "name": "Candace Crawford",
+   "role": "School Board Member; Finance Committee Chair (one answer shredded across clusters; counsel addresses her as 'candy' immediately afterwards)"
+  },
+  "439": {
+   "name": "Candace Crawford",
+   "role": "School Board Member; Finance Committee Chair (one answer shredded across clusters; counsel addresses her as 'candy' immediately afterwards)"
+  },
+  "440": {
+   "name": "Candace Crawford",
+   "role": "School Board Member; Finance Committee Chair (one answer shredded across clusters; counsel addresses her as 'candy' immediately afterwards)"
+  },
+  "441": {
+   "name": "Candace Crawford",
+   "role": "School Board Member; Finance Committee Chair (one answer shredded across clusters; counsel addresses her as 'candy' immediately afterwards)"
+  },
+  "442": {
+   "name": "Candace Crawford",
+   "role": "School Board Member; Finance Committee Chair (one answer shredded across clusters; counsel addresses her as 'candy' immediately afterwards)"
+  },
+  "443": {
+   "name": "Candace Crawford",
+   "role": "School Board Member; Finance Committee Chair (one answer shredded across clusters; counsel addresses her as 'candy' immediately afterwards)"
+  },
+  "444": {
+   "name": "Candace Crawford",
+   "role": "School Board Member; Finance Committee Chair (one answer shredded across clusters; counsel addresses her as 'candy' immediately afterwards)"
+  },
+  "445": {
+   "name": "Candace Crawford",
+   "role": "School Board Member; Finance Committee Chair (one answer shredded across clusters; counsel addresses her as 'candy' immediately afterwards)"
+  },
+  "446": {
+   "name": "James O'Shaughnessy",
+   "role": "District legal counsel, Drummond Woodsum"
+  },
+  "447": {
+   "name": "Unidentified",
+   "role": "Voter from the floor arguing against sending Claremont students out of district (name not stated)"
+  },
+  "448": {
+   "name": "Unidentified",
+   "role": "Voter from the floor arguing against sending Claremont students out of district (name not stated)"
+  },
+  "450": {
+   "name": "Unidentified",
+   "role": "Parent from the floor with three children in the district (name not stated)"
+  },
+  "451": {
+   "name": "Unidentified",
+   "role": "Parent from the floor with three children in the district (name not stated)"
+  },
+  "452": {
+   "name": "Unidentified",
+   "role": "Parent from the floor with three children in the district (name not stated)"
+  },
+  "453": {
+   "name": "Unidentified",
+   "role": "Parent from the floor with three children in the district (name not stated)"
+  },
+  "454": {
+   "name": "Unidentified",
+   "role": "Parent from the floor with three children in the district (name not stated)"
+  },
+  "457": {
+   "name": "Joe Carrier",
+   "role": "Voter from the floor (self-identified; ward not stated)"
+  },
+  "458": {
+   "name": "Joe Carrier",
+   "role": "Voter from the floor (self-identified; ward not stated)"
+  },
+  "459": {
+   "name": "Candace Crawford",
+   "role": "School Board Member; Finance Committee Chair"
+  },
+  "461": {
+   "name": "Candace Crawford",
+   "role": "School Board Member; Finance Committee Chair"
+  },
+  "467": {
+   "name": "Sherry Williams",
+   "role": "Voter, Ward 1 (self-identified; the 8/5/26 draft minutes spell it 'Sherri')"
+  },
+  "468": {
+   "name": "Sherry Williams",
+   "role": "Voter, Ward 1 (self-identified; the 8/5/26 draft minutes spell it 'Sherri')"
+  },
+  "469": {
+   "name": "Sherry Williams",
+   "role": "Voter, Ward 1 (self-identified; the 8/5/26 draft minutes spell it 'Sherri')"
+  },
+  "471": {
+   "name": "Kerry Kennedy",
+   "role": "Interim Superintendent, SAU 6"
+  },
+  "472": {
+   "name": "Kerry Kennedy",
+   "role": "Interim Superintendent, SAU 6"
+  },
+  "473": {
+   "name": "Kerry Kennedy",
+   "role": "Interim Superintendent, SAU 6"
+  },
+  "478": {
+   "name": "Unidentified",
+   "role": "Voice from the floor (name not stated)"
+  },
+  "480": {
+   "name": "Unidentified",
+   "role": "Voter from the floor restating the article's effect (name not stated)"
+  },
+  "481": {
+   "name": "Unidentified",
+   "role": "Voter from the floor restating the article's effect (name not stated)"
+  },
+  "482": {
+   "name": "Kerry Kennedy",
+   "role": "Interim Superintendent, SAU 6"
+  },
+  "483": {
+   "name": "James O'Shaughnessy",
+   "role": "District legal counsel, Drummond Woodsum"
+  },
+  "484": {
+   "name": "James O'Shaughnessy",
+   "role": "District legal counsel, Drummond Woodsum"
+  },
+  "485": {
+   "name": "James O'Shaughnessy",
+   "role": "District legal counsel, Drummond Woodsum"
+  },
+  "488": {
+   "name": "Maggie",
+   "role": "Voter, Ward 1 (self-identified by first name only)"
+  },
+  "489": {
+   "name": "Maggie",
+   "role": "Voter, Ward 1 (self-identified by first name only)"
+  },
+  "490": {
+   "name": "Maggie",
+   "role": "Voter, Ward 1 (self-identified by first name only)"
+  },
+  "492": {
+   "name": "Unidentified",
+   "role": "Voice from the floor (name not stated)"
+  },
+  "493": {
+   "name": "Unidentified",
+   "role": "Voice from the floor (name not stated)"
+  },
+  "494": {
+   "name": "Unidentified",
+   "role": "Voter from the floor speaking on open enrollment (name not stated)"
+  },
+  "495": {
+   "name": "Unidentified",
+   "role": "Voter from the floor speaking on open enrollment (name not stated)"
+  },
+  "496": {
+   "name": "Unidentified",
+   "role": "Voter from the floor speaking on open enrollment (name not stated)"
+  },
+  "497": {
+   "name": "Unidentified",
+   "role": "Voter from the floor speaking on open enrollment (name not stated)"
+  },
+  "498": {
+   "name": "Unidentified",
+   "role": "Voter from the floor speaking on open enrollment (name not stated)"
+  },
+  "499": {
+   "name": "Unidentified",
+   "role": "Voter from the floor speaking on open enrollment (name not stated)"
+  },
+  "500": {
+   "name": "Unidentified",
+   "role": "Voter from the floor speaking on open enrollment (name not stated)"
+  },
+  "501": {
+   "name": "Unidentified",
+   "role": "Voter from the floor speaking on open enrollment (name not stated)"
+  },
+  "503": {
+   "name": "Unidentified",
+   "role": "Voice from the floor (name not stated)"
+  },
+  "505": {
+   "name": "Unidentified",
+   "role": "Voice from the floor (name not stated)"
+  },
+  "506": {
+   "name": "Unidentified",
+   "role": "Speaker from the floor identifying himself as president of Unity (name not stated; not a Claremont voter - the meeting voted to let him speak)"
+  },
+  "507": {
+   "name": "Unidentified",
+   "role": "Speaker from the floor identifying himself as president of Unity (name not stated; not a Claremont voter - the meeting voted to let him speak)"
+  },
+  "508": {
+   "name": "Unidentified",
+   "role": "Speaker from the floor identifying himself as president of Unity (name not stated; not a Claremont voter - the meeting voted to let him speak)"
+  },
+  "509": {
+   "name": "Unidentified",
+   "role": "Speaker from the floor identifying himself as president of Unity (name not stated; not a Claremont voter - the meeting voted to let him speak)"
+  },
+  "510": {
+   "name": "Unidentified",
+   "role": "Speaker from the floor identifying himself as president of Unity (name not stated; not a Claremont voter - the meeting voted to let him speak)"
+  },
+  "512": {
+   "name": "James O'Shaughnessy",
+   "role": "District legal counsel, Drummond Woodsum"
+  },
+  "513": {
+   "name": "Unidentified",
+   "role": "Voice from the floor (name not stated)"
+  },
+  "514": {
+   "name": "Luke Diamond",
+   "role": "Voter, Ward 3 (self-identified as 'Diamond, Ward three'; first name from his later turn)"
+  },
+  "515": {
+   "name": "Unidentified",
+   "role": "Second from the floor (name not stated)"
+  },
+  "517": {
+   "name": "Hope Damon",
+   "role": "New Hampshire State Representative, Croydon (self-identified; House Education Funding Committee)"
+  },
+  "518": {
+   "name": "Hope Damon",
+   "role": "New Hampshire State Representative, Croydon (self-identified; House Education Funding Committee)"
+  },
+  "519": {
+   "name": "Hope Damon",
+   "role": "New Hampshire State Representative, Croydon (self-identified; House Education Funding Committee)"
+  },
+  "520": {
+   "name": "Hope Damon",
+   "role": "New Hampshire State Representative, Croydon (self-identified; House Education Funding Committee)"
+  },
+  "521": {
+   "name": "Hope Damon",
+   "role": "New Hampshire State Representative, Croydon (self-identified; House Education Funding Committee)"
+  },
+  "522": {
+   "name": "Hope Damon",
+   "role": "New Hampshire State Representative, Croydon (self-identified; House Education Funding Committee)"
+  },
+  "523": {
+   "name": "Hope Damon",
+   "role": "New Hampshire State Representative, Croydon (self-identified; House Education Funding Committee)"
+  },
+  "524": {
+   "name": "Hope Damon",
+   "role": "New Hampshire State Representative, Croydon (self-identified; House Education Funding Committee)"
+  },
+  "525": {
+   "name": "Hope Damon",
+   "role": "New Hampshire State Representative, Croydon (self-identified; House Education Funding Committee)"
+  },
+  "526": {
+   "name": "Hope Damon",
+   "role": "New Hampshire State Representative, Croydon (self-identified; House Education Funding Committee)"
+  },
+  "527": {
+   "name": "Hope Damon",
+   "role": "New Hampshire State Representative, Croydon (self-identified; House Education Funding Committee)"
+  },
+  "528": {
+   "name": "Hope Damon",
+   "role": "New Hampshire State Representative, Croydon (self-identified; House Education Funding Committee)"
+  },
+  "529": {
+   "name": "Hope Damon",
+   "role": "New Hampshire State Representative, Croydon (self-identified; House Education Funding Committee)"
+  },
+  "530": {
+   "name": "Hope Damon",
+   "role": "New Hampshire State Representative, Croydon (self-identified; House Education Funding Committee)"
+  },
+  "531": {
+   "name": "Hope Damon",
+   "role": "New Hampshire State Representative, Croydon (self-identified; House Education Funding Committee)"
+  },
+  "533": {
+   "name": "Hope Damon",
+   "role": "New Hampshire State Representative, Croydon (self-identified; House Education Funding Committee)"
+  },
+  "534": {
+   "name": "Hope Damon",
+   "role": "New Hampshire State Representative, Croydon (self-identified; House Education Funding Committee)"
+  },
+  "535": {
+   "name": "Hope Damon",
+   "role": "New Hampshire State Representative, Croydon (self-identified; House Education Funding Committee)"
+  },
+  "536": {
+   "name": "Hope Damon",
+   "role": "New Hampshire State Representative, Croydon (self-identified; House Education Funding Committee)"
+  },
+  "537": {
+   "name": "Unidentified",
+   "role": "Voter from the floor asking whether Article 7 can be split into two questions (name not stated; the moderator's words open the first segment)"
+  },
+  "538": {
+   "name": "Unidentified",
+   "role": "Voter from the floor asking whether Article 7 can be split into two questions (name not stated; the moderator's words open the first segment)"
+  },
+  "539": {
+   "name": "Unidentified",
+   "role": "Voter from the floor asking whether Article 7 can be split into two questions (name not stated; the moderator's words open the first segment)"
+  },
+  "540": {
+   "name": "Unidentified",
+   "role": "Voice from the floor (name not stated)"
+  },
+  "541": {
+   "name": "James O'Shaughnessy",
+   "role": "District legal counsel, Drummond Woodsum"
+  },
+  "542": {
+   "name": "James O'Shaughnessy",
+   "role": "District legal counsel, Drummond Woodsum"
+  },
+  "556": {
+   "name": "Frank Sprague",
+   "role": "School Board Member (self-identifies at the podium as a Ward 2 voter) (reads Article 8, the petitioned budget cap, and reports that the board does not recommend it)"
+  },
+  "557": {
+   "name": "Frank Sprague",
+   "role": "School Board Member (self-identifies at the podium as a Ward 2 voter) (reads Article 8, the petitioned budget cap, and reports that the board does not recommend it)"
+  },
+  "558": {
+   "name": "Frank Sprague",
+   "role": "School Board Member (self-identifies at the podium as a Ward 2 voter) (reads Article 8, the petitioned budget cap, and reports that the board does not recommend it)"
+  },
+  "559": {
+   "name": "Frank Sprague",
+   "role": "School Board Member (self-identifies at the podium as a Ward 2 voter) (reads Article 8, the petitioned budget cap, and reports that the board does not recommend it)"
+  },
+  "560": {
+   "name": "Frank Sprague",
+   "role": "School Board Member (self-identifies at the podium as a Ward 2 voter) (reads Article 8, the petitioned budget cap, and reports that the board does not recommend it)"
+  },
+  "561": {
+   "name": "Frank Sprague",
+   "role": "School Board Member (self-identifies at the podium as a Ward 2 voter) (reads Article 8, the petitioned budget cap, and reports that the board does not recommend it)"
+  },
+  "562": {
+   "name": "Frank Sprague",
+   "role": "School Board Member (self-identifies at the podium as a Ward 2 voter) (reads Article 8, the petitioned budget cap, and reports that the board does not recommend it)"
+  },
+  "563": {
+   "name": "Frank Sprague",
+   "role": "School Board Member (self-identifies at the podium as a Ward 2 voter) (reads Article 8, the petitioned budget cap, and reports that the board does not recommend it)"
+  },
+  "564": {
+   "name": "Frank Sprague",
+   "role": "School Board Member (self-identifies at the podium as a Ward 2 voter) (reads Article 8, the petitioned budget cap, and reports that the board does not recommend it)"
+  },
+  "565": {
+   "name": "Frank Sprague",
+   "role": "School Board Member (self-identifies at the podium as a Ward 2 voter) (reads Article 8, the petitioned budget cap, and reports that the board does not recommend it)"
+  },
+  "566": {
+   "name": "Frank Sprague",
+   "role": "School Board Member (self-identifies at the podium as a Ward 2 voter) (reads Article 8, the petitioned budget cap, and reports that the board does not recommend it)"
+  },
+  "567": {
+   "name": "Frank Sprague",
+   "role": "School Board Member (self-identifies at the podium as a Ward 2 voter) (reads Article 8, the petitioned budget cap, and reports that the board does not recommend it)"
+  },
+  "568": {
+   "name": "Frank Sprague",
+   "role": "School Board Member (self-identifies at the podium as a Ward 2 voter) (reads Article 8, the petitioned budget cap, and reports that the board does not recommend it)"
+  },
+  "569": {
+   "name": "Frank Sprague",
+   "role": "School Board Member (self-identifies at the podium as a Ward 2 voter) (reads Article 8, the petitioned budget cap, and reports that the board does not recommend it)"
+  },
+  "570": {
+   "name": "Frank Sprague",
+   "role": "School Board Member (self-identifies at the podium as a Ward 2 voter) (reads Article 8, the petitioned budget cap, and reports that the board does not recommend it)"
+  },
+  "571": {
+   "name": "Frank Sprague",
+   "role": "School Board Member (self-identifies at the podium as a Ward 2 voter) (reads Article 8, the petitioned budget cap, and reports that the board does not recommend it)"
+  },
+  "572": {
+   "name": "Frank Sprague",
+   "role": "School Board Member (self-identifies at the podium as a Ward 2 voter) (reads Article 8, the petitioned budget cap, and reports that the board does not recommend it)"
+  },
+  "573": {
+   "name": "Frank Sprague",
+   "role": "School Board Member (self-identifies at the podium as a Ward 2 voter) (reads Article 8, the petitioned budget cap, and reports that the board does not recommend it)"
+  },
+  "574": {
+   "name": "Frank Sprague",
+   "role": "School Board Member (self-identifies at the podium as a Ward 2 voter) (reads Article 8, the petitioned budget cap, and reports that the board does not recommend it)"
+  },
+  "576": {
+   "name": "Tracy Pope",
+   "role": "Moderator (the approved 2/1/25 minutes spell her 'Tracey'; the Rules of Procedure she signed spell it 'Tracy')"
+  },
+  "578": {
+   "name": "Tracy Pope",
+   "role": "Moderator (the approved 2/1/25 minutes spell her 'Tracey'; the Rules of Procedure she signed spell it 'Tracy')"
+  },
+  "579": {
+   "name": "Emily Sandblade",
+   "role": "Primary petitioner for Article 8, Ward 3 (uncertain - not self-identified in this passage; the petitioner is female per later speakers, Cynthia Howard thanks 'Emily' for putting the article on the ballot, and Frank Sprague thanks her by a garbled 'Sandwich' minutes later)"
+  },
+  "580": {
+   "name": "Emily Sandblade",
+   "role": "Primary petitioner for Article 8, Ward 3 (uncertain - not self-identified in this passage; the petitioner is female per later speakers, Cynthia Howard thanks 'Emily' for putting the article on the ballot, and Frank Sprague thanks her by a garbled 'Sandwich' minutes later)"
+  },
+  "581": {
+   "name": "Emily Sandblade",
+   "role": "Primary petitioner for Article 8, Ward 3 (uncertain - not self-identified in this passage; the petitioner is female per later speakers, Cynthia Howard thanks 'Emily' for putting the article on the ballot, and Frank Sprague thanks her by a garbled 'Sandwich' minutes later)"
+  },
+  "582": {
+   "name": "Emily Sandblade",
+   "role": "Primary petitioner for Article 8, Ward 3 (uncertain - not self-identified in this passage; the petitioner is female per later speakers, Cynthia Howard thanks 'Emily' for putting the article on the ballot, and Frank Sprague thanks her by a garbled 'Sandwich' minutes later)"
+  },
+  "583": {
+   "name": "Emily Sandblade",
+   "role": "Primary petitioner for Article 8, Ward 3 (uncertain - not self-identified in this passage; the petitioner is female per later speakers, Cynthia Howard thanks 'Emily' for putting the article on the ballot, and Frank Sprague thanks her by a garbled 'Sandwich' minutes later)"
+  },
+  "584": {
+   "name": "Emily Sandblade",
+   "role": "Primary petitioner for Article 8, Ward 3 (uncertain - not self-identified in this passage; the petitioner is female per later speakers, Cynthia Howard thanks 'Emily' for putting the article on the ballot, and Frank Sprague thanks her by a garbled 'Sandwich' minutes later)"
+  },
+  "585": {
+   "name": "Emily Sandblade",
+   "role": "Primary petitioner for Article 8, Ward 3 (uncertain - not self-identified in this passage; the petitioner is female per later speakers, Cynthia Howard thanks 'Emily' for putting the article on the ballot, and Frank Sprague thanks her by a garbled 'Sandwich' minutes later)"
+  },
+  "586": {
+   "name": "Emily Sandblade",
+   "role": "Primary petitioner for Article 8, Ward 3 (uncertain - not self-identified in this passage; the petitioner is female per later speakers, Cynthia Howard thanks 'Emily' for putting the article on the ballot, and Frank Sprague thanks her by a garbled 'Sandwich' minutes later)"
+  },
+  "587": {
+   "name": "Emily Sandblade",
+   "role": "Primary petitioner for Article 8, Ward 3 (uncertain - not self-identified in this passage; the petitioner is female per later speakers, Cynthia Howard thanks 'Emily' for putting the article on the ballot, and Frank Sprague thanks her by a garbled 'Sandwich' minutes later)"
+  },
+  "588": {
+   "name": "Emily Sandblade",
+   "role": "Primary petitioner for Article 8, Ward 3 (uncertain - not self-identified in this passage; the petitioner is female per later speakers, Cynthia Howard thanks 'Emily' for putting the article on the ballot, and Frank Sprague thanks her by a garbled 'Sandwich' minutes later)"
+  },
+  "589": {
+   "name": "Emily Sandblade",
+   "role": "Primary petitioner for Article 8, Ward 3 (uncertain - not self-identified in this passage; the petitioner is female per later speakers, Cynthia Howard thanks 'Emily' for putting the article on the ballot, and Frank Sprague thanks her by a garbled 'Sandwich' minutes later)"
+  },
+  "591": {
+   "name": "Emily Sandblade",
+   "role": "Primary petitioner for Article 8, Ward 3 (uncertain - see her Article 8 presentation)"
+  },
+  "592": {
+   "name": "Emily Sandblade",
+   "role": "Primary petitioner for Article 8, Ward 3 (uncertain - see her Article 8 presentation)"
+  },
+  "595": {
+   "name": "Emily Sandblade",
+   "role": "Primary petitioner for Article 8, Ward 3 (self-identified; ASR renders the surname 'Stanway')"
+  },
+  "596": {
+   "name": "Emily Sandblade",
+   "role": "Primary petitioner for Article 8, Ward 3 (self-identified; ASR renders the surname 'Stanway')"
+  },
+  "597": {
+   "name": "Emily Sandblade",
+   "role": "Primary petitioner for Article 8, Ward 3 (self-identified; ASR renders the surname 'Stanway')"
+  },
+  "598": {
+   "name": "Emily Sandblade",
+   "role": "Primary petitioner for Article 8, Ward 3 (self-identified; ASR renders the surname 'Stanway')"
+  },
+  "599": {
+   "name": "Emily Sandblade",
+   "role": "Primary petitioner for Article 8, Ward 3 (self-identified; ASR renders the surname 'Stanway')"
+  },
+  "601": {
+   "name": "Unidentified",
+   "role": "Voice from the floor (name not stated)"
+  },
+  "604": {
+   "name": "Frank Sprague",
+   "role": "School Board Member (self-identifies at the podium as a Ward 2 voter)"
+  },
+  "605": {
+   "name": "Frank Sprague",
+   "role": "School Board Member (self-identifies at the podium as a Ward 2 voter)"
+  },
+  "606": {
+   "name": "Frank Sprague",
+   "role": "School Board Member (self-identifies at the podium as a Ward 2 voter)"
+  },
+  "607": {
+   "name": "Frank Sprague",
+   "role": "School Board Member (self-identifies at the podium as a Ward 2 voter)"
+  },
+  "608": {
+   "name": "Frank Sprague",
+   "role": "School Board Member (self-identifies at the podium as a Ward 2 voter)"
+  },
+  "609": {
+   "name": "Frank Sprague",
+   "role": "School Board Member (self-identifies at the podium as a Ward 2 voter)"
+  },
+  "610": {
+   "name": "Frank Sprague",
+   "role": "School Board Member (self-identifies at the podium as a Ward 2 voter)"
+  },
+  "612": {
+   "name": "Matt Angell",
+   "role": "Interim Business Administrator, SAU 6"
+  },
+  "613": {
+   "name": "Matt Angell",
+   "role": "Interim Business Administrator, SAU 6"
+  },
+  "614": {
+   "name": "Matt Angell",
+   "role": "Interim Business Administrator, SAU 6"
+  },
+  "615": {
+   "name": "Matt Angell",
+   "role": "Interim Business Administrator, SAU 6"
+  },
+  "618": {
+   "name": "James O'Shaughnessy",
+   "role": "District legal counsel, Drummond Woodsum"
+  },
+  "619": {
+   "name": "James O'Shaughnessy",
+   "role": "District legal counsel, Drummond Woodsum"
+  },
+  "620": {
+   "name": "James O'Shaughnessy",
+   "role": "District legal counsel, Drummond Woodsum"
+  },
+  "621": {
+   "name": "James O'Shaughnessy",
+   "role": "District legal counsel, Drummond Woodsum"
+  },
+  "622": {
+   "name": "James O'Shaughnessy",
+   "role": "District legal counsel, Drummond Woodsum"
+  },
+  "623": {
+   "name": "James O'Shaughnessy",
+   "role": "District legal counsel, Drummond Woodsum"
+  },
+  "628": {
+   "name": "Unidentified",
+   "role": "Voice from the floor (name not stated)"
+  },
+  "629": {
+   "name": "Unidentified",
+   "role": "Voice from the floor (name not stated)"
+  },
+  "630": {
+   "name": "Unidentified",
+   "role": "Voice from the floor (name not stated)"
+  },
+  "631": {
+   "name": "Unidentified",
+   "role": "Voter from the floor speaking against the budget cap (name not stated)"
+  },
+  "633": {
+   "name": "Unidentified",
+   "role": "Voter from the floor speaking against the budget cap (name not stated)"
+  },
+  "634": {
+   "name": "Unidentified",
+   "role": "Voter from the floor speaking against the budget cap (name not stated)"
+  },
+  "635": {
+   "name": "Unidentified",
+   "role": "Voter from the floor speaking against the budget cap (name not stated)"
+  },
+  "636": {
+   "name": "Unidentified",
+   "role": "Voter from the floor speaking against the budget cap (name not stated)"
+  },
+  "637": {
+   "name": "Unidentified",
+   "role": "Voter from the floor speaking against the budget cap (name not stated)"
+  },
+  "638": {
+   "name": "Unidentified",
+   "role": "Voter from the floor speaking against the budget cap (name not stated)"
+  },
+  "639": {
+   "name": "Unidentified",
+   "role": "Voter from the floor speaking against the budget cap (name not stated)"
+  },
+  "640": {
+   "name": "Unidentified",
+   "role": "Older voter from the floor speaking on taxes and reassessment (name not stated)"
+  },
+  "641": {
+   "name": "Unidentified",
+   "role": "Older voter from the floor speaking on taxes and reassessment (name not stated)"
+  },
+  "642": {
+   "name": "Unidentified",
+   "role": "Older voter from the floor speaking on taxes and reassessment (name not stated)"
+  },
+  "644": {
+   "name": "Unidentified",
+   "role": "Older voter from the floor speaking on taxes and reassessment (name not stated)"
+  },
+  "645": {
+   "name": "Unidentified",
+   "role": "Older voter from the floor speaking on taxes and reassessment (name not stated)"
+  },
+  "646": {
+   "name": "Unidentified",
+   "role": "Older voter from the floor speaking on taxes and reassessment (name not stated)"
+  },
+  "647": {
+   "name": "Unidentified",
+   "role": "Older voter from the floor speaking on taxes and reassessment (name not stated)"
+  },
+  "648": {
+   "name": "Unidentified",
+   "role": "Older voter from the floor speaking on taxes and reassessment (name not stated)"
+  },
+  "649": {
+   "name": "Unidentified",
+   "role": "Older voter from the floor speaking on taxes and reassessment (name not stated)"
+  },
+  "651": {
+   "name": "Unidentified",
+   "role": "Older voter from the floor speaking on taxes and reassessment (name not stated)"
+  },
+  "652": {
+   "name": "Unidentified",
+   "role": "Older voter from the floor speaking on taxes and reassessment (name not stated)"
+  },
+  "654": {
+   "name": "Unidentified",
+   "role": "Older voter from the floor speaking on taxes and reassessment (name not stated)"
+  },
+  "656": {
+   "name": "Jason Benoit",
+   "role": "Voter, Ward 1 (self-identified)"
+  },
+  "657": {
+   "name": "Jason Benoit",
+   "role": "Voter, Ward 1 (self-identified)"
+  },
+  "659": {
+   "name": "Jason Benoit",
+   "role": "Voter, Ward 1 (self-identified)"
+  },
+  "660": {
+   "name": "Jason Benoit",
+   "role": "Voter, Ward 1 (self-identified)"
+  },
+  "661": {
+   "name": "Jason Benoit",
+   "role": "Voter, Ward 1 (self-identified)"
+  },
+  "662": {
+   "name": "Jason Benoit",
+   "role": "Voter, Ward 1 (self-identified)"
+  },
+  "663": {
+   "name": "Jason Benoit",
+   "role": "Voter, Ward 1 (self-identified)"
+  },
+  "664": {
+   "name": "Jason Benoit",
+   "role": "Voter, Ward 1 (self-identified)"
+  },
+  "665": {
+   "name": "James O'Shaughnessy",
+   "role": "District legal counsel, Drummond Woodsum"
+  },
+  "666": {
+   "name": "James O'Shaughnessy",
+   "role": "District legal counsel, Drummond Woodsum"
+  },
+  "667": {
+   "name": "James O'Shaughnessy",
+   "role": "District legal counsel, Drummond Woodsum"
+  },
+  "668": {
+   "name": "James O'Shaughnessy",
+   "role": "District legal counsel, Drummond Woodsum"
+  },
+  "669": {
+   "name": "James O'Shaughnessy",
+   "role": "District legal counsel, Drummond Woodsum"
+  },
+  "670": {
+   "name": "James O'Shaughnessy",
+   "role": "District legal counsel, Drummond Woodsum"
+  },
+  "671": {
+   "name": "James O'Shaughnessy",
+   "role": "District legal counsel, Drummond Woodsum"
+  },
+  "672": {
+   "name": "James O'Shaughnessy",
+   "role": "District legal counsel, Drummond Woodsum"
+  },
+  "673": {
+   "name": "James O'Shaughnessy",
+   "role": "District legal counsel, Drummond Woodsum"
+  },
+  "674": {
+   "name": "James O'Shaughnessy",
+   "role": "District legal counsel, Drummond Woodsum"
+  },
+  "676": {
+   "name": "Unidentified",
+   "role": "Voice from the floor asking to hear from counsel (name not stated)"
+  },
+  "678": {
+   "name": "Chris",
+   "role": "Voter, Ward 3 (self-identified by first name only earlier; raises a point of order here)"
+  },
+  "679": {
+   "name": "Chris",
+   "role": "Voter, Ward 3 (self-identified by first name only earlier; raises a point of order here)"
+  },
+  "680": {
+   "name": "James O'Shaughnessy",
+   "role": "District legal counsel, Drummond Woodsum"
+  },
+  "681": {
+   "name": "James O'Shaughnessy",
+   "role": "District legal counsel, Drummond Woodsum"
+  },
+  "682": {
+   "name": "James O'Shaughnessy",
+   "role": "District legal counsel, Drummond Woodsum"
+  },
+  "683": {
+   "name": "James O'Shaughnessy",
+   "role": "District legal counsel, Drummond Woodsum"
+  },
+  "685": {
+   "name": "Unidentified",
+   "role": "Voter proposing the amendment to Article 8 to insert a per-pupil dollar figure (name not stated; the moderator refers to her as 'she')"
+  },
+  "686": {
+   "name": "Unidentified",
+   "role": "Voter proposing the amendment to Article 8 to insert a per-pupil dollar figure (name not stated; the moderator refers to her as 'she')"
+  },
+  "687": {
+   "name": "Unidentified",
+   "role": "Voter proposing the amendment to Article 8 to insert a per-pupil dollar figure (name not stated; the moderator refers to her as 'she')"
+  },
+  "688": {
+   "name": "Unidentified",
+   "role": "Voter proposing the amendment to Article 8 to insert a per-pupil dollar figure (name not stated; the moderator refers to her as 'she')"
+  },
+  "689": {
+   "name": "Unidentified",
+   "role": "Voter proposing the amendment to Article 8 to insert a per-pupil dollar figure (name not stated; the moderator refers to her as 'she')"
+  },
+  "690": {
+   "name": "Unidentified",
+   "role": "Voter proposing the amendment to Article 8 to insert a per-pupil dollar figure (name not stated; the moderator refers to her as 'she')"
+  },
+  "691": {
+   "name": "Unidentified",
+   "role": "Voter proposing the amendment to Article 8 to insert a per-pupil dollar figure (name not stated; the moderator refers to her as 'she')"
+  },
+  "692": {
+   "name": "Unidentified",
+   "role": "Voter proposing the amendment to Article 8 to insert a per-pupil dollar figure (name not stated; the moderator refers to her as 'she')"
+  },
+  "693": {
+   "name": "Unidentified",
+   "role": "Voter proposing the amendment to Article 8 to insert a per-pupil dollar figure (name not stated; the moderator refers to her as 'she')"
+  },
+  "694": {
+   "name": "Unidentified",
+   "role": "Voter proposing the amendment to Article 8 to insert a per-pupil dollar figure (name not stated; the moderator refers to her as 'she')"
+  },
+  "700": {
+   "name": "Sonya Stephan",
+   "role": "Voter, Ward 1 (self-identified)"
+  },
+  "701": {
+   "name": "Sonya Stephan",
+   "role": "Voter, Ward 1 (self-identified)"
+  },
+  "702": {
+   "name": "Sonya Stephan",
+   "role": "Voter, Ward 1 (self-identified)"
+  },
+  "703": {
+   "name": "James O'Shaughnessy",
+   "role": "District legal counsel, Drummond Woodsum"
+  },
+  "704": {
+   "name": "James O'Shaughnessy",
+   "role": "District legal counsel, Drummond Woodsum"
+  },
+  "705": {
+   "name": "James O'Shaughnessy",
+   "role": "District legal counsel, Drummond Woodsum"
+  },
+  "709": {
+   "name": "Luke Diamond",
+   "role": "Voter, Ward 3 (self-identified)"
+  },
+  "710": {
+   "name": "Luke Diamond",
+   "role": "Voter, Ward 3 (self-identified)"
+  },
+  "711": {
+   "name": "Luke Diamond",
+   "role": "Voter, Ward 3 (self-identified)"
+  },
+  "713": {
+   "name": "Unidentified",
+   "role": "Voter from the floor speaking for the amendment (name not stated)"
+  },
+  "714": {
+   "name": "Unidentified",
+   "role": "Voter from the floor speaking for the amendment (name not stated)"
+  },
+  "715": {
+   "name": "Unidentified",
+   "role": "Voter from the floor speaking for the amendment (name not stated)"
+  },
+  "717": {
+   "name": "Tracy Pope",
+   "role": "Moderator (the approved 2/1/25 minutes spell her 'Tracey'; the Rules of Procedure she signed spell it 'Tracy')"
+  },
+  "718": {
+   "name": "Unidentified",
+   "role": "Voice from the floor (name not stated)"
+  },
+  "725": {
+   "name": "Multiple",
+   "role": "Voice vote from the floor (chorus captured as one voice)"
+  },
+  "727": {
+   "name": "Multiple",
+   "role": "Voice vote from the floor (chorus captured as one voice)"
+  },
+  "736": {
+   "name": "John Gavin",
+   "role": "Stevens High School student, Ward 3 (self-identified; a minor - the meeting voted to let him speak)"
+  },
+  "737": {
+   "name": "John Gavin",
+   "role": "Stevens High School student, Ward 3 (self-identified; a minor - the meeting voted to let him speak)"
+  },
+  "738": {
+   "name": "John Gavin",
+   "role": "Stevens High School student, Ward 3 (self-identified; a minor - the meeting voted to let him speak)"
+  },
+  "739": {
+   "name": "John Gavin",
+   "role": "Stevens High School student, Ward 3 (self-identified; a minor - the meeting voted to let him speak)"
+  },
+  "741": {
+   "name": "Unidentified",
+   "role": "Voter from the floor speaking on the budget cap (name not stated; the recording renders 'Nick' at the handoff)"
+  },
+  "742": {
+   "name": "Unidentified",
+   "role": "Voter from the floor speaking on the budget cap (name not stated; the recording renders 'Nick' at the handoff)"
+  },
+  "743": {
+   "name": "Unidentified",
+   "role": "Voter from the floor speaking on the budget cap (name not stated; the recording renders 'Nick' at the handoff)"
+  },
+  "744": {
+   "name": "Unidentified",
+   "role": "Voter from the floor speaking on the budget cap (name not stated; the recording renders 'Nick' at the handoff)"
+  },
+  "745": {
+   "name": "Unidentified",
+   "role": "Voter from the floor speaking on the budget cap (name not stated; the recording renders 'Nick' at the handoff)"
+  },
+  "746": {
+   "name": "Unidentified",
+   "role": "Voter from the floor speaking on the budget cap (name not stated; the recording renders 'Nick' at the handoff)"
+  },
+  "747": {
+   "name": "Unidentified",
+   "role": "Voter from the floor speaking on the budget cap (name not stated; the recording renders 'Nick' at the handoff)"
+  },
+  "748": {
+   "name": "Unidentified",
+   "role": "Voter from the floor speaking on the budget cap (name not stated; the recording renders 'Nick' at the handoff)"
+  },
+  "750": {
+   "name": "Richard",
+   "role": "Voter, Ward 1 (self-identified by first name only)"
+  },
+  "753": {
+   "name": "Richard",
+   "role": "Voter, Ward 1 (self-identified by first name only)"
+  },
+  "757": {
+   "name": "Skinner",
+   "role": "Voter, Ward 2 (self-identified; surname only)"
+  },
+  "758": {
+   "name": "Skinner",
+   "role": "Voter, Ward 2 (self-identified; surname only)"
+  },
+  "759": {
+   "name": "Skinner",
+   "role": "Voter, Ward 2 (self-identified; surname only)"
+  },
+  "760": {
+   "name": "Skinner",
+   "role": "Voter, Ward 2 (self-identified; surname only)"
+  },
+  "761": {
+   "name": "Skinner",
+   "role": "Voter, Ward 2 (self-identified; surname only)"
+  },
+  "762": {
+   "name": "Skinner",
+   "role": "Voter, Ward 2 (self-identified; surname only)"
+  },
+  "763": {
+   "name": "Skinner",
+   "role": "Voter, Ward 2 (self-identified; surname only)"
+  },
+  "764": {
+   "name": "Skinner",
+   "role": "Voter, Ward 2 (self-identified; surname only)"
+  },
+  "765": {
+   "name": "Skinner",
+   "role": "Voter, Ward 2 (self-identified; surname only)"
+  },
+  "766": {
+   "name": "Tom Luther",
+   "role": "Voter, Ward 1 (not self-identified intelligibly; Frank Sprague later cites 'Tom Luther's example of the 90 miles an hour on Broad Street' made here)"
+  },
+  "767": {
+   "name": "Tom Luther",
+   "role": "Voter, Ward 1 (not self-identified intelligibly; Frank Sprague later cites 'Tom Luther's example of the 90 miles an hour on Broad Street' made here)"
+  },
+  "768": {
+   "name": "Tom Luther",
+   "role": "Voter, Ward 1 (not self-identified intelligibly; Frank Sprague later cites 'Tom Luther's example of the 90 miles an hour on Broad Street' made here)"
+  },
+  "769": {
+   "name": "Tom Luther",
+   "role": "Voter, Ward 1 (not self-identified intelligibly; Frank Sprague later cites 'Tom Luther's example of the 90 miles an hour on Broad Street' made here)"
+  },
+  "770": {
+   "name": "Unidentified",
+   "role": "Petitioner for the Article 8 budget cap answering on the RSA's mandatory wording (name not stated)"
+  },
+  "771": {
+   "name": "Unidentified",
+   "role": "Petitioner for the Article 8 budget cap answering on the RSA's mandatory wording (name not stated)"
+  },
+  "772": {
+   "name": "Unidentified",
+   "role": "Petitioner for the Article 8 budget cap answering on the RSA's mandatory wording (name not stated)"
+  },
+  "773": {
+   "name": "Unidentified",
+   "role": "Petitioner for the Article 8 budget cap answering on the RSA's mandatory wording (name not stated)"
+  },
+  "774": {
+   "name": "Michelle",
+   "role": "Voter, Ward 2 (self-identified by first name only); speaks for the Article 8 petitioners"
+  },
+  "775": {
+   "name": "Michelle",
+   "role": "Voter, Ward 2 (self-identified by first name only); speaks for the Article 8 petitioners"
+  },
+  "787": {
+   "name": "Unidentified",
+   "role": "Voice from the floor (name not stated)"
+  },
+  "791": {
+   "name": "James O'Shaughnessy",
+   "role": "District legal counsel, Drummond Woodsum"
+  },
+  "792": {
+   "name": "James O'Shaughnessy",
+   "role": "District legal counsel, Drummond Woodsum"
+  },
+  "793": {
+   "name": "Unidentified",
+   "role": "Voter moving to call the question (name not stated)"
+  },
+  "794": {
+   "name": "Unidentified",
+   "role": "Second from the floor (name not stated)"
+  },
+  "796": {
+   "name": "Unidentified",
+   "role": "Voter from the floor speaking against the $50,000 per-pupil amendment (name not stated)"
+  },
+  "797": {
+   "name": "Unidentified",
+   "role": "Voter from the floor speaking against the $50,000 per-pupil amendment (name not stated)"
+  },
+  "798": {
+   "name": "Unidentified",
+   "role": "Voter from the floor speaking against the $50,000 per-pupil amendment (name not stated)"
+  },
+  "799": {
+   "name": "Unidentified",
+   "role": "Voice from the floor (name not stated)"
+  },
+  "800": {
+   "name": "Unidentified",
+   "role": "Voice from the floor (name not stated)"
+  },
+  "802": {
+   "name": "Unidentified",
+   "role": "Voice from the floor (name not stated)"
+  },
+  "805": {
+   "name": "Unidentified",
+   "role": "Voice from the floor (name not stated)"
+  },
+  "807": {
+   "name": "Unidentified",
+   "role": "Voter seconding the motion to call the question (name not stated)"
+  },
+  "820": {
+   "name": "James O'Shaughnessy",
+   "role": "District legal counsel, Drummond Woodsum"
+  },
+  "821": {
+   "name": "James O'Shaughnessy",
+   "role": "District legal counsel, Drummond Woodsum"
+  },
+  "823": {
+   "name": "Unidentified",
+   "role": "Voice from the floor (name not stated)"
+  },
+  "824": {
+   "name": "Tracy Pope",
+   "role": "Moderator (the approved 2/1/25 minutes spell her 'Tracey'; the Rules of Procedure she signed spell it 'Tracy')"
+  },
+  "825": {
+   "name": "Tracy Pope",
+   "role": "Moderator (the approved 2/1/25 minutes spell her 'Tracey'; the Rules of Procedure she signed spell it 'Tracy')"
+  },
+  "826": {
+   "name": "Unidentified",
+   "role": "Crosstalk during the standing vote count (name not stated)"
+  },
+  "827": {
+   "name": "Emily Sandblade",
+   "role": "Primary petitioner for Article 8, Ward 3 (self-identified)"
+  },
+  "831": {
+   "name": "Emily Sandblade",
+   "role": "Primary petitioner for Article 8, Ward 3 (self-identified)"
+  },
+  "833": {
+   "name": "Emily Sandblade",
+   "role": "Primary petitioner for Article 8, Ward 3 (self-identified)"
+  },
+  "837": {
+   "name": "Emily Sandblade",
+   "role": "Primary petitioner for Article 8, Ward 3 (self-identified)"
+  },
+  "839": {
+   "name": "Emily Sandblade",
+   "role": "Primary petitioner for Article 8, Ward 3 (self-identified)"
+  },
+  "842": {
+   "name": "Emily Sandblade",
+   "role": "Primary petitioner for Article 8, Ward 3 (self-identified)"
+  },
+  "846": {
+   "name": "Tracy Pope",
+   "role": "Moderator (the approved 2/1/25 minutes spell her 'Tracey'; the Rules of Procedure she signed spell it 'Tracy')"
+  },
+  "847": {
+   "name": "Tracy Pope",
+   "role": "Moderator (the approved 2/1/25 minutes spell her 'Tracey'; the Rules of Procedure she signed spell it 'Tracy')"
+  },
+  "848": {
+   "name": "Frank Sprague",
+   "role": "School Board Member (self-identifies at the podium as a Ward 2 voter)"
+  },
+  "849": {
+   "name": "Frank Sprague",
+   "role": "School Board Member (self-identifies at the podium as a Ward 2 voter)"
+  },
+  "850": {
+   "name": "Frank Sprague",
+   "role": "School Board Member (self-identifies at the podium as a Ward 2 voter)"
+  },
+  "852": {
+   "name": "Cynthia Howard",
+   "role": "Voter, Ward 2 (self-identified)"
+  },
+  "853": {
+   "name": "Cynthia Howard",
+   "role": "Voter, Ward 2 (self-identified)"
+  },
+  "855": {
+   "name": "Unidentified",
+   "role": "Voter from the floor speaking against the budget cap (name not stated)"
+  },
+  "856": {
+   "name": "Unidentified",
+   "role": "Voter from the floor speaking against the budget cap (name not stated)"
+  },
+  "857": {
+   "name": "Unidentified",
+   "role": "Voter from the floor speaking against the budget cap (name not stated)"
+  },
+  "858": {
+   "name": "Unidentified",
+   "role": "Voter from the floor speaking against the budget cap (name not stated)"
+  },
+  "859": {
+   "name": "Unidentified",
+   "role": "Voter from the floor speaking against the budget cap (name not stated)"
+  },
+  "860": {
+   "name": "Unidentified",
+   "role": "Voter from the floor speaking against the budget cap (name not stated)"
+  },
+  "861": {
+   "name": "Unidentified",
+   "role": "Voter from the floor speaking against the budget cap (name not stated)"
+  },
+  "862": {
+   "name": "Unidentified",
+   "role": "Voice from the floor calling for order (name not stated)"
+  },
+  "863": {
+   "name": "Unidentified",
+   "role": "Voice from the floor calling for order (name not stated)"
+  },
+  "864": {
+   "name": "Unidentified",
+   "role": "Voter from the floor speaking against the budget cap (name not stated)"
+  },
+  "865": {
+   "name": "Unidentified",
+   "role": "Voter from the floor speaking against the budget cap (name not stated)"
+  },
+  "866": {
+   "name": "Unidentified",
+   "role": "Voter from the floor on budget-cap overrides and the Stevens renovation vote (name not stated)"
+  },
+  "867": {
+   "name": "Unidentified",
+   "role": "Voter from the floor on budget-cap overrides and the Stevens renovation vote (name not stated)"
+  },
+  "868": {
+   "name": "Unidentified",
+   "role": "Voter from the floor on budget-cap overrides and the Stevens renovation vote (name not stated)"
+  },
+  "869": {
+   "name": "Unidentified",
+   "role": "Voter from the floor on budget-cap overrides and the Stevens renovation vote (name not stated)"
+  },
+  "873": {
+   "name": "James O'Shaughnessy",
+   "role": "District legal counsel, Drummond Woodsum"
+  },
+  "874": {
+   "name": "James O'Shaughnessy",
+   "role": "District legal counsel, Drummond Woodsum"
+  },
+  "875": {
+   "name": "James O'Shaughnessy",
+   "role": "District legal counsel, Drummond Woodsum"
+  },
+  "876": {
+   "name": "James O'Shaughnessy",
+   "role": "District legal counsel, Drummond Woodsum"
+  },
+  "877": {
+   "name": "Unidentified",
+   "role": "Voice from the floor answering counsel (name not stated)"
+  },
+  "878": {
+   "name": "James O'Shaughnessy",
+   "role": "District legal counsel, Drummond Woodsum"
+  },
+  "879": {
+   "name": "James O'Shaughnessy",
+   "role": "District legal counsel, Drummond Woodsum"
+  },
+  "881": {
+   "name": "Heather Whitney",
+   "role": "School Board Chair (moves to restrict reconsideration of Articles 6, 7 and 8)"
+  },
+  "882": {
+   "name": "Heather Whitney",
+   "role": "School Board Chair (moves to restrict reconsideration of Articles 6, 7 and 8)"
+  },
+  "883": {
+   "name": "Heather Whitney",
+   "role": "School Board Chair (moves to restrict reconsideration of Articles 6, 7 and 8)"
+  },
+  "888": {
+   "name": "Unidentified",
+   "role": "Voice from the floor questioning the restriction motion (name not stated)"
+  },
+  "890": {
+   "name": "Unidentified",
+   "role": "Voice from the floor questioning the restriction motion (name not stated)"
+  },
+  "892": {
+   "name": "James O'Shaughnessy",
+   "role": "District legal counsel, Drummond Woodsum"
+  },
+  "893": {
+   "name": "James O'Shaughnessy",
+   "role": "District legal counsel, Drummond Woodsum"
+  },
+  "895": {
+   "name": "James O'Shaughnessy",
+   "role": "District legal counsel, Drummond Woodsum"
+  },
+  "897": {
+   "name": "James O'Shaughnessy",
+   "role": "District legal counsel, Drummond Woodsum"
+  },
+  "899": {
+   "name": "James O'Shaughnessy",
+   "role": "District legal counsel, Drummond Woodsum"
+  },
+  "903": {
+   "name": "Tracy Pope",
+   "role": "Moderator (the approved 2/1/25 minutes spell her 'Tracey'; the Rules of Procedure she signed spell it 'Tracy')"
+  },
+  "905": {
+   "name": "Tracy Pope",
+   "role": "Moderator (the approved 2/1/25 minutes spell her 'Tracey'; the Rules of Procedure she signed spell it 'Tracy')"
+  }
+ }
+}

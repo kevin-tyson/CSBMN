@@ -1,0 +1,172 @@
+{
+ "Speaker 1": {
+  "name": "Unidentified",
+  "role": "Unidentified - short interjections and audience responses"
+ },
+ "Speaker 2": {
+  "name": "Michael Tempesta",
+  "role": "Superintendent, SAU 6 (delivers the superintendent's report [98-341]; Herzog credits 'Mr. Romeo and Mr. Tempesta' [321]); also presides over the organizational opening until the new chair is seated [6-38] (uncertain for that portion - presiding voice asks 'Frank Sprague to swear in the school board clerk'); cluster absorbs a few of Sprague's lines, see overrides"
+ },
+ "Speaker 3": {
+  "name": "Frank Sprague",
+  "role": "Claremont School Board member, outgoing Chair (new chair thanks 'Frank ... for your years of service as chair' [40]; chair recognizes 'Frank' [645, 774, 793]; recognized as 'Mr. Sprague' to nominate the vice chair [31-32]; former Stevens HS principal speaking on the bowling team [348-349]); cluster also absorbs brief interjections by others"
+ },
+ "Speaker 4": {
+  "name": "Mary Woodman",
+  "role": "School district clerk and board recording secretary (sworn in as 'Mary Woodman ... school district clerk' [10-26]; reads the roll [66-70])"
+ },
+ "Speaker 5": {
+  "name": "Michael Petrin",
+  "role": "Claremont School Board Chair, elected this meeting ('Congratulations, Mr. Patron. You're the new board chair' [31]); runs the meeting from [40]"
+ },
+ "Speaker 6": {
+  "name": "Joshua",
+  "role": "Public commenter, Ward 3 (self-ID 'Joshua Ward three' [79], 'Josh again, Ward three' [448]; surname not given; a different voice from board member Joshua Lambert)"
+ },
+ "Speaker 7": {
+  "name": "Candace Crawford",
+  "role": "Public commenter, Ward 2 (self-ID 'Candace Crawford, Ward two' [85], 'Candy. Crawford, Ward two' [610])"
+ },
+ "Speaker 8": {
+  "name": "Heather Whitney",
+  "role": "Claremont School Board Vice Chair, elected this meeting [32-36] (Skillen: 'I agree with Miss Whitney' [139]; chair: 'Heather first' [217], 'Heather then Josh' [498])"
+ },
+ "Speaker 9": {
+  "name": "Whitney Skillen",
+  "role": "Claremont School Board member, newly elected March 2022 (roll 'Whitney. Skilling' [67]; chair: 'Whitney, did you still' [236], 'Patrick Whitney, and then' [532])"
+ },
+ "Speaker 10": {
+  "name": "Whitney Skillen",
+  "role": "Claremont School Board member, newly elected March 2022 (second cluster: clipped onsets of Skillen's questions at [188-189] and [593-594])"
+ },
+ "Speaker 11": {
+  "name": "Frank Romeo",
+  "role": "Principal, Claremont Middle School (superintendent calls up 'Principal Romeo' [194])"
+ },
+ "Speaker 12": {
+  "name": "Steven Horsky",
+  "role": "Claremont School Board member (chair recognizes 'Steven' before this voice [436-437, 572-573, 643-644, 808-809] and 'Mr. Hauschka' before his adjournment motion [854-855]); cluster also absorbed Herzog's self-introduction, see overrides"
+ },
+ "Speaker 13": {
+  "name": "Patrick Adrian",
+  "role": "Public commenter, Ward 1, former Claremont School Board member (self-ID 'Patrick, Adrian, Ward one' [262, 544])"
+ },
+ "Speaker 14": {
+  "name": "Christopher Pratt",
+  "role": "Assistant Principal, Stevens High School, incoming principal (superintendent introduces 'Christopher Pratt' [160] and calls up 'Mr. Pratt ... Chris' [281])"
+ },
+ "Speaker 15": {
+  "name": "Alex Herzog",
+  "role": "Director, Sugar River Valley Regional Technical Center (self-ID 'I'm Doctor Alex Herzog, I'm the director of the tech center here' [318])"
+ },
+ "Speaker 16": {
+  "name": "Bonnie Miles",
+  "role": "Claremont School Board member, newly elected March 2022 (chair: 'I have Bonnie, then Josh, and then Stephen' [554], this voice answers [555])"
+ },
+ "Speaker 17": {
+  "name": "Jill Thorsten",
+  "role": "Social studies teacher, Stevens High School, and Youth in Government advisor (self-ID 'Hi, I'm Jill Thorsten' [361]; spelling unverified)"
+ },
+ "Speaker 18": {
+  "name": "Unidentified",
+  "role": "Unidentified - brief thanks and reactions"
+ },
+ "Speaker 19": {
+  "name": "Joshua Lambert",
+  "role": "Claremont School Board member (chair: 'I've got Josh' [517] and 'Bonnie, then Josh' [554] before this voice; cites 'my experience next door in Charlestown' where he works in a school [567], matching Lambert's 2/16/2022 remarks)"
+ },
+ "Speaker 20": {
+  "name": "Norm Blue",
+  "role": "Public commenter, Ward 3 (ASR self-ID 'Norm blue in Ward three' [409]; spelling unverified); cluster also holds the onset of Ben Nester's remarks, see overrides"
+ },
+ "Speaker 21": {
+  "name": "Norm Blue",
+  "role": "Public commenter, Ward 3 (continues directly from his self-ID [409-410, 585-586]; spelling unverified)"
+ },
+ "Speaker 22": {
+  "name": "Unidentified",
+  "role": "Unidentified - cluster of short affirmations, chorus votes and cross-talk from several voices"
+ },
+ "Speaker 23": {
+  "name": "Unidentified",
+  "role": "Unidentified - SAU 6 curriculum administrator (curriculum newsletter, Teach United grant [823-829]; teaching English at the high school this semester [580]); possibly the 'Doctor Janeiro' of 2021-22 records, unverified"
+ },
+ "Speaker 24": {
+  "name": "Gary Merchant",
+  "role": "Public commenter, NH State Representative (chair: 'Mister merchant' [845]; Sprague: 'you're a state representative' [850], 'Thanks, Gary' [853])"
+ },
+ "Speaker 25": {
+  "name": "Unidentified",
+  "role": "Unidentified - two-word fragment"
+ },
+ "Speaker 26": {
+  "name": "Ben Nester",
+  "role": "Director of Special Education, SAU 6 (superintendent: 'Ben can talk about another' [836]; presents a special education transition grant for students to age 22 [838-842])"
+ },
+ "Speaker 27": {
+  "name": "Unidentified",
+  "role": "Unidentified - voice vote on adjournment"
+ },
+ "__overrides__": {
+  "11": {
+   "name": "Frank Sprague",
+   "role": "Claremont School Board member, outgoing Chair (new chair thanks 'Frank ... for your years of service as chair' [40]; chair recognizes 'Frank' [645, 774, 793]; recognized as 'Mr. Sprague' to nominate the vice chair [31-32]; former Stevens HS principal speaking on the bowling team [348-349])"
+  },
+  "16": {
+   "name": "Frank Sprague",
+   "role": "Claremont School Board member, outgoing Chair (new chair thanks 'Frank ... for your years of service as chair' [40]; chair recognizes 'Frank' [645, 774, 793]; recognized as 'Mr. Sprague' to nominate the vice chair [31-32]; former Stevens HS principal speaking on the bowling team [348-349])"
+  },
+  "41": {
+   "name": "Frank Sprague",
+   "role": "Claremont School Board member, outgoing Chair (new chair thanks 'Frank ... for your years of service as chair' [40]; chair recognizes 'Frank' [645, 774, 793]; recognized as 'Mr. Sprague' to nominate the vice chair [31-32]; former Stevens HS principal speaking on the bowling team [348-349])"
+  },
+  "64": {
+   "name": "Mary Woodman",
+   "role": "School district clerk and board recording secretary (sworn in as 'Mary Woodman ... school district clerk' [10-26]; reads the roll [66-70])"
+  },
+  "67": {
+   "name": "Mary Woodman",
+   "role": "School district clerk and board recording secretary (sworn in as 'Mary Woodman ... school district clerk' [10-26]; reads the roll [66-70])"
+  },
+  "56": {
+   "name": "Unidentified",
+   "role": "Unidentified - public commenter, Ward 2, asking the purpose of the $8,000 donation at the public hearing [56-62]"
+  },
+  "60": {
+   "name": "Unidentified",
+   "role": "Unidentified - public commenter, Ward 2, asking the purpose of the $8,000 donation at the public hearing [56-62]"
+  },
+  "62": {
+   "name": "Unidentified",
+   "role": "Unidentified - public commenter, Ward 2, asking the purpose of the $8,000 donation at the public hearing [56-62]"
+  },
+  "282": {
+   "name": "Christopher Pratt",
+   "role": "Assistant Principal, Stevens High School, incoming principal (superintendent introduces 'Christopher Pratt' [160] and calls up 'Mr. Pratt ... Chris' [281])"
+  },
+  "283": {
+   "name": "Christopher Pratt",
+   "role": "Assistant Principal, Stevens High School, incoming principal (superintendent introduces 'Christopher Pratt' [160] and calls up 'Mr. Pratt ... Chris' [281])"
+  },
+  "318": {
+   "name": "Alex Herzog",
+   "role": "Director, Sugar River Valley Regional Technical Center (self-ID 'I'm Doctor Alex Herzog, I'm the director of the tech center here' [318])"
+  },
+  "319": {
+   "name": "Alex Herzog",
+   "role": "Director, Sugar River Valley Regional Technical Center (self-ID 'I'm Doctor Alex Herzog, I'm the director of the tech center here' [318])"
+  },
+  "320": {
+   "name": "Alex Herzog",
+   "role": "Director, Sugar River Valley Regional Technical Center (self-ID 'I'm Doctor Alex Herzog, I'm the director of the tech center here' [318])"
+  },
+  "334": {
+   "name": "Alex Herzog",
+   "role": "Director, Sugar River Valley Regional Technical Center (self-ID 'I'm Doctor Alex Herzog, I'm the director of the tech center here' [318])"
+  },
+  "837": {
+   "name": "Ben Nester",
+   "role": "Director of Special Education, SAU 6 (superintendent: 'Ben can talk about another' [836]; presents a special education transition grant for students to age 22 [838-842])"
+  }
+ }
+}

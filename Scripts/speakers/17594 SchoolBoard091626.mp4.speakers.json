@@ -1,0 +1,340 @@
+{
+ "Speaker 1": {
+  "name": "Candace Crawford",
+  "role": "School Board Chair - opens the meeting, runs the agenda; addressed as 'Madam Chair' (023, 062); reports for the Finance Committee (504)"
+ },
+ "Speaker 2": {
+  "name": "Don Lavalette",
+  "role": "School Board member (Policy Subcommittee) - recognized 'Don.' (022, 314) and answers 'Thank you, Madam Chair'; the superintendent calls him 'Mr. Lovell' [Lavalette] (322, 534)"
+ },
+ "Speaker 3": {
+  "name": "Unidentified",
+  "role": "Short interjection in the Speaker 3 catch-all cluster (which also holds student rep Byron DeCamp and Loren Howard); speaker not determinable"
+ },
+ "Speaker 4": {
+  "name": "Unidentified",
+  "role": "Short interjection in the Speaker 4 catch-all cluster (which also holds student rep Faith Norton and Kerry Kennedy onsets); speaker not determinable"
+ },
+ "Speaker 5": {
+  "name": "Tim Broadrick",
+  "role": "Superintendent, SAU 6 - delivers the superintendent's and finance statements; the chair names 'Doctor Broderick' (123, 156, 371, 393)"
+ },
+ "Speaker 6": {
+  "name": "Hope Damon",
+  "role": "State Representative, New Hampshire House (Sullivan County) - citizens' comment; self-identified 'State representative Hope Damon' (040)"
+ },
+ "Speaker 7": {
+  "name": "Luke Diamond",
+  "role": "School District Treasurer - introduced by the chair as 'Mr. Diamond' for the Treasurer's report (046)"
+ },
+ "Speaker 8": {
+  "name": "Brian Rapp",
+  "role": "School Board member (Capital Improvement Subcommittee) - the chair calls 'Brian' before his motion (387) and his 'other business' (516); the superintendent answers 'Mr. Rap' (527)"
+ },
+ "Speaker 9": {
+  "name": "Kerry Kennedy",
+  "role": "Director of Curriculum, Instruction & Assessment, SAU 6 - delivers the curriculum report the chair introduces as 'from Carrie Kennedy' (078)"
+ },
+ "Speaker 10": {
+  "name": "Michelle Herrington",
+  "role": "Principal, Sugar River Valley Regional Technical Center - self-identified 'I'm Michelle Harrington, principal at the tech center' (164; ASR renders the surname 'Harrington'; the agenda and minutes spell it Herrington); not the same person as Dr. Michael Herrington, principal of Stevens High School"
+ },
+ "Speaker 11": {
+  "name": "Heather Whitney",
+  "role": "School Board member (Ad Hoc Reconfiguration Chair; Finance Subcommittee) - attended the finance meeting with Crawford and Lavalette (504, 509); Howard refers to what 'Heather mentioned' (566) and this voice answers (568); addresses Howard as 'Lauren' (538)"
+ },
+ "Speaker 12": {
+  "name": "Michael Petrin",
+  "role": "School Board Vice Chair - the draft minutes attribute to him the mascot point in this cluster's seg 401 ('Michael Petrin noted that the proposal was to go down to elementary schools')"
+ },
+ "Speaker 13": {
+  "name": "William 'Bill' Madden",
+  "role": "School Board member (Capital Improvement Chair) - gives the capital improvements report after the chair's call and is thanked 'Thank you. Bill.' (504)"
+ },
+ "Speaker 14": {
+  "name": "Unidentified",
+  "role": "Single closing fragment, no identifying cue"
+ },
+ "__overrides__": {
+  "1": {
+   "name": "Unidentified",
+   "role": "Group recitation - Pledge of Allegiance (all present)"
+  },
+  "3": {
+   "name": "Unidentified",
+   "role": "Roll-call answers from several members ('Here'); the clerk's reading of names is not in the transcript"
+  },
+  "5": {
+   "name": "Unidentified",
+   "role": "Roll-call answers from several members ('Here'); the clerk's reading of names is not in the transcript"
+  },
+  "9": {
+   "name": "Byron DeCamp",
+   "role": "Student representative to the School Board, Stevens High School senior - introduced by the chair (006) and self-identified 'I'm Byron [De]Camp' (009); name as announced, not checked against a public record"
+  },
+  "11": {
+   "name": "Byron DeCamp",
+   "role": "Student representative to the School Board, Stevens High School senior - introduced by the chair (006) and self-identified 'I'm Byron [De]Camp' (009); name as announced, not checked against a public record"
+  },
+  "19": {
+   "name": "Byron DeCamp",
+   "role": "Student representative to the School Board, Stevens High School senior - introduced by the chair (006) and self-identified 'I'm Byron [De]Camp' (009); name as announced, not checked against a public record"
+  },
+  "13": {
+   "name": "Faith Norton",
+   "role": "Student representative to the School Board, Stevens High School senior - introduced by the chair (006) and addressed 'How about you, Faith?' (012); name as announced, not checked against a public record"
+  },
+  "15": {
+   "name": "Faith Norton",
+   "role": "Student representative to the School Board, Stevens High School senior - introduced by the chair (006) and addressed 'How about you, Faith?' (012); name as announced, not checked against a public record"
+  },
+  "17": {
+   "name": "Faith Norton",
+   "role": "Student representative to the School Board, Stevens High School senior - introduced by the chair (006) and addressed 'How about you, Faith?' (012); name as announced, not checked against a public record"
+  },
+  "35": {
+   "name": "Unidentified",
+   "role": "Answers the chair's question about when minutes are available ('Five business days') - probably the clerk/minute-taker, whom Lavalette addresses as 'Noel' (023); not confirmed"
+  },
+  "37": {
+   "name": "Tim Broadrick",
+   "role": "Superintendent, SAU 6 (onset 'Just for' of his manifests note at 038)"
+  },
+  "73": {
+   "name": "Don Lavalette",
+   "role": "School Board member (Policy Subcommittee) (tail of his own sentence 'already been ... asked and answered')"
+  },
+  "74": {
+   "name": "Brian Rapp",
+   "role": "School Board member (Capital Improvement Subcommittee) (segment opens with the tail of Lavalette's sentence, 'Asked and answered.')"
+  },
+  "79": {
+   "name": "Kerry Kennedy",
+   "role": "Director of Curriculum, Instruction & Assessment, SAU 6 (onset or tail of her own remarks, clipped into the Speaker 4 cluster)"
+  },
+  "575": {
+   "name": "Kerry Kennedy",
+   "role": "Director of Curriculum, Instruction & Assessment, SAU 6 (onset or tail of her own remarks, clipped into the Speaker 4 cluster)"
+  },
+  "577": {
+   "name": "Kerry Kennedy",
+   "role": "Director of Curriculum, Instruction & Assessment, SAU 6 (onset or tail of her own remarks, clipped into the Speaker 4 cluster)"
+  },
+  "150": {
+   "name": "Candace Crawford",
+   "role": "School Board Chair - the 'So moved' of the mover and the 'Second' are inside this segment"
+  },
+  "151": {
+   "name": "Unidentified",
+   "role": "Voice vote - 'Aye' from the board"
+  },
+  "241": {
+   "name": "Candace Crawford",
+   "role": "School Board Chair (fragment of her own sentence, clipped into another cluster)"
+  },
+  "358": {
+   "name": "Candace Crawford",
+   "role": "School Board Chair (fragment of her own sentence, clipped into another cluster)"
+  },
+  "365": {
+   "name": "Candace Crawford",
+   "role": "School Board Chair (fragment of her own sentence, clipped into another cluster)"
+  },
+  "404": {
+   "name": "Candace Crawford",
+   "role": "School Board Chair (fragment of her own sentence, clipped into another cluster)"
+  },
+  "421": {
+   "name": "Candace Crawford",
+   "role": "School Board Chair (fragment of her own sentence, clipped into another cluster)"
+  },
+  "294": {
+   "name": "Candace Crawford",
+   "role": "School Board Chair (fragment of her own sentence, clipped into another cluster)"
+  },
+  "250": {
+   "name": "Heather Whitney",
+   "role": "School Board member (Ad Hoc Reconfiguration Chair; Finance Subcommittee) (fragment of her own sentence, clipped into another cluster)"
+  },
+  "569": {
+   "name": "Heather Whitney",
+   "role": "School Board member (Ad Hoc Reconfiguration Chair; Finance Subcommittee) (fragment of her own sentence, clipped into another cluster)"
+  },
+  "258": {
+   "name": "Tim Broadrick",
+   "role": "Superintendent, SAU 6 (fragment of his own sentence, clipped into another cluster)"
+  },
+  "266": {
+   "name": "Tim Broadrick",
+   "role": "Superintendent, SAU 6 (fragment of his own sentence, clipped into another cluster)"
+  },
+  "270": {
+   "name": "Tim Broadrick",
+   "role": "Superintendent, SAU 6 (fragment of his own sentence, clipped into another cluster)"
+  },
+  "330": {
+   "name": "Tim Broadrick",
+   "role": "Superintendent, SAU 6 (fragment of his own sentence, clipped into another cluster)"
+  },
+  "349": {
+   "name": "Tim Broadrick",
+   "role": "Superintendent, SAU 6 (fragment of his own sentence, clipped into another cluster)"
+  },
+  "487": {
+   "name": "Tim Broadrick",
+   "role": "Superintendent, SAU 6 (fragment of his own sentence, clipped into another cluster)"
+  },
+  "445": {
+   "name": "Loren Howard",
+   "role": "School Board member (Policy Subcommittee Chair) (fragment of his own sentence, clipped into another cluster)"
+  },
+  "417": {
+   "name": "Loren Howard",
+   "role": "School Board member (Policy Subcommittee Chair) - the chair asks 'Lauren' about the policies (416, 435, 442, 561) and this voice answers as the Policy Committee"
+  },
+  "418": {
+   "name": "Loren Howard",
+   "role": "School Board member (Policy Subcommittee Chair) - the chair asks 'Lauren' about the policies (416, 435, 442, 561) and this voice answers as the Policy Committee"
+  },
+  "436": {
+   "name": "Loren Howard",
+   "role": "School Board member (Policy Subcommittee Chair) - the chair asks 'Lauren' about the policies (416, 435, 442, 561) and this voice answers as the Policy Committee"
+  },
+  "437": {
+   "name": "Loren Howard",
+   "role": "School Board member (Policy Subcommittee Chair) - the chair asks 'Lauren' about the policies (416, 435, 442, 561) and this voice answers as the Policy Committee"
+  },
+  "443": {
+   "name": "Loren Howard",
+   "role": "School Board member (Policy Subcommittee Chair) - the chair asks 'Lauren' about the policies (416, 435, 442, 561) and this voice answers as the Policy Committee (the 'Michael' Howard addresses is Dr. Michael Herrington, principal of Stevens High School)"
+  },
+  "444": {
+   "name": "Loren Howard",
+   "role": "School Board member (Policy Subcommittee Chair) - the chair asks 'Lauren' about the policies (416, 435, 442, 561) and this voice answers as the Policy Committee"
+  },
+  "446": {
+   "name": "Loren Howard",
+   "role": "School Board member (Policy Subcommittee Chair) - the chair asks 'Lauren' about the policies (416, 435, 442, 561) and this voice answers as the Policy Committee"
+  },
+  "457": {
+   "name": "Loren Howard",
+   "role": "School Board member (Policy Subcommittee Chair) - the chair asks 'Lauren' about the policies (416, 435, 442, 561) and this voice answers as the Policy Committee"
+  },
+  "460": {
+   "name": "Loren Howard",
+   "role": "School Board member (Policy Subcommittee Chair) - the chair asks 'Lauren' about the policies (416, 435, 442, 561) and this voice answers as the Policy Committee"
+  },
+  "462": {
+   "name": "Loren Howard",
+   "role": "School Board member (Policy Subcommittee Chair) - the chair asks 'Lauren' about the policies (416, 435, 442, 561) and this voice answers as the Policy Committee"
+  },
+  "464": {
+   "name": "Loren Howard",
+   "role": "School Board member (Policy Subcommittee Chair) - the chair asks 'Lauren' about the policies (416, 435, 442, 561) and this voice answers as the Policy Committee"
+  },
+  "471": {
+   "name": "Loren Howard",
+   "role": "School Board member (Policy Subcommittee Chair) - the chair asks 'Lauren' about the policies (416, 435, 442, 561) and this voice answers as the Policy Committee"
+  },
+  "515": {
+   "name": "Loren Howard",
+   "role": "School Board member (Policy Subcommittee Chair) - the chair asks 'Lauren' about the policies (416, 435, 442, 561) and this voice answers as the Policy Committee"
+  },
+  "543": {
+   "name": "Loren Howard",
+   "role": "School Board member (Policy Subcommittee Chair) - the chair asks 'Lauren' about the policies (416, 435, 442, 561) and this voice answers as the Policy Committee"
+  },
+  "544": {
+   "name": "Loren Howard",
+   "role": "School Board member (Policy Subcommittee Chair) - the chair asks 'Lauren' about the policies (416, 435, 442, 561) and this voice answers as the Policy Committee"
+  },
+  "545": {
+   "name": "Loren Howard",
+   "role": "School Board member (Policy Subcommittee Chair) - the chair asks 'Lauren' about the policies (416, 435, 442, 561) and this voice answers as the Policy Committee"
+  },
+  "563": {
+   "name": "Loren Howard",
+   "role": "School Board member (Policy Subcommittee Chair) - the chair asks 'Lauren' about the policies (416, 435, 442, 561) and this voice answers as the Policy Committee"
+  },
+  "564": {
+   "name": "Loren Howard",
+   "role": "School Board member (Policy Subcommittee Chair) - the chair asks 'Lauren' about the policies (416, 435, 442, 561) and this voice answers as the Policy Committee"
+  },
+  "566": {
+   "name": "Loren Howard",
+   "role": "School Board member (Policy Subcommittee Chair) - the chair asks 'Lauren' about the policies (416, 435, 442, 561) and this voice answers as the Policy Committee"
+  },
+  "573": {
+   "name": "Loren Howard",
+   "role": "School Board member (Policy Subcommittee Chair) - the chair asks 'Lauren' about the policies (416, 435, 442, 561) and this voice answers as the Policy Committee"
+  },
+  "448": {
+   "name": "Melissa Lewis",
+   "role": "Principal, Disnard Elementary School - the draft minutes name her ('Melissa Lewis stated that it would be handled differently between the ages...'), matching her 'me with a kindergartner' (450); diarized in Kennedy's cluster"
+  },
+  "450": {
+   "name": "Melissa Lewis",
+   "role": "Principal, Disnard Elementary School - the draft minutes name her ('Melissa Lewis stated that it would be handled differently between the ages...'), matching her 'me with a kindergartner' (450); diarized in Kennedy's cluster"
+  },
+  "451": {
+   "name": "Melissa Lewis",
+   "role": "Principal, Disnard Elementary School - the draft minutes name her ('Melissa Lewis stated that it would be handled differently between the ages...'), matching her 'me with a kindergartner' (450); diarized in Kennedy's cluster"
+  },
+  "452": {
+   "name": "Melissa Lewis",
+   "role": "Principal, Disnard Elementary School - the draft minutes name her ('Melissa Lewis stated that it would be handled differently between the ages...'), matching her 'me with a kindergartner' (450); diarized in Kennedy's cluster"
+  },
+  "453": {
+   "name": "Melissa Lewis",
+   "role": "Principal, Disnard Elementary School - the draft minutes name her ('Melissa Lewis stated that it would be handled differently between the ages...'), matching her 'me with a kindergartner' (450); diarized in Kennedy's cluster"
+  },
+  "466": {
+   "name": "Unidentified",
+   "role": "Short interjection during the call for a second ('Okay. John.'); speaker not determinable"
+  },
+  "467": {
+   "name": "Don Lavalette",
+   "role": "School Board member (Policy Subcommittee) - seconds the JF/JKAA/GBGA adoption; the draft minutes record Lavalette as seconder; diarized in another cluster"
+  },
+  "476": {
+   "name": "Loren Howard",
+   "role": "School Board member (Policy Subcommittee Chair) - seconds the Tibbetts nomination; the draft minutes record 'HW, LH'"
+  },
+  "468": {
+   "name": "Candace Crawford",
+   "role": "School Board Chair - voice vote; other members' 'Aye' answers are inside this segment"
+  },
+  "478": {
+   "name": "Unidentified",
+   "role": "Voice vote response"
+  },
+  "590": {
+   "name": "Unidentified",
+   "role": "Reads the nonpublic-session statute citation ('... column three. Two. Eight.', i.e. RSA 91-A:3, II); speaker not determinable"
+  },
+  "592": {
+   "name": "Unidentified",
+   "role": "Roll-call vote to enter nonpublic session ('Yes'); names are not read in the transcript, so the voter cannot be identified"
+  },
+  "593": {
+   "name": "Unidentified",
+   "role": "Roll-call vote to enter nonpublic session ('Yes'); names are not read in the transcript, so the voter cannot be identified"
+  },
+  "594": {
+   "name": "Unidentified",
+   "role": "Roll-call vote to enter nonpublic session ('Yes'); names are not read in the transcript, so the voter cannot be identified"
+  },
+  "595": {
+   "name": "Unidentified",
+   "role": "Roll-call vote to enter nonpublic session ('Yes'); names are not read in the transcript, so the voter cannot be identified"
+  },
+  "596": {
+   "name": "Unidentified",
+   "role": "Roll-call vote to enter nonpublic session ('Yes'); names are not read in the transcript, so the voter cannot be identified"
+  },
+  "597": {
+   "name": "Candace Crawford",
+   "role": "School Board Chair - roll-call vote, chair votes last, then closes the public session"
+  }
+ }
+}

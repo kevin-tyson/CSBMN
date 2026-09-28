@@ -1,0 +1,136 @@
+{
+ "Speaker 1": {
+  "name": "Frank Sprague",
+  "role": "Board Vice Chair; Finance Committee chair"
+ },
+ "Speaker 2": {
+  "name": "Heather Whitney",
+  "role": "Board Chair"
+ },
+ "Speaker 3": {
+  "name": "Heather Whitney",
+  "role": "Board Chair"
+ },
+ "Speaker 4": {
+  "name": "Tess Nicholson-Powers",
+  "role": "Director, District Management Group (strategic-planning consultant)"
+ },
+ "Speaker 5": {
+  "name": "Melissa Lewis",
+  "role": "Principal, Disnard Elementary School"
+ },
+ "Speaker 6": {
+  "name": "Mike Koski",
+  "role": "Assistant Superintendent, SAU 6"
+ },
+ "Speaker 7": {
+  "name": "Frank Romeo",
+  "role": "Principal, Claremont Middle School"
+ },
+ "Speaker 8": {
+  "name": "Bonnie Miles",
+  "role": "Board member; Capital Improvement Subcommittee representative"
+ },
+ "Speaker 9": {
+  "name": "Michael Petrin",
+  "role": "Board member"
+ },
+ "Speaker 10": {
+  "name": "Mary Henry",
+  "role": "Business Administrator, SAU 6"
+ },
+ "Speaker 11": {
+  "name": "Chris Pratt",
+  "role": "Superintendent, SAU 6"
+ },
+ "__overrides__": {
+  "13": {
+   "name": "Noelle Kronberg",
+   "role": "School Board Clerk (chair's request to call attendance absorbed at the head of this segment)"
+  },
+  "14": {
+   "name": "Noelle Kronberg",
+   "role": "School Board Clerk"
+  },
+  "53": {
+   "name": "Mike Koski"
+  },
+  "58": {
+   "name": "Frank Sprague",
+   "role": "Board Vice Chair (this segment also carries a second board member's 'I'll second that.' at its tail after a 1.1 s pause - the seconder is not named by the chair)"
+  },
+  "68": {
+   "name": "Heather Whitney"
+  },
+  "72": {
+   "name": "Bonnie Miles"
+  },
+  "99": {
+   "name": "Michael Petrin"
+  },
+  "175": {
+   "name": "Bonnie Miles"
+  },
+  "180": {
+   "name": "Mary Henry"
+  },
+  "182": {
+   "name": "Mary Henry"
+  },
+  "189": {
+   "name": "Mary Henry"
+  },
+  "191": {
+   "name": "Mary Henry"
+  },
+  "200": {
+   "name": "Bonnie Miles"
+  },
+  "203": {
+   "name": "Chris Pratt"
+  },
+  "204": {
+   "name": "Bonnie Miles"
+  },
+  "207": {
+   "name": "Heather Whitney"
+  },
+  "212": {
+   "name": "Frank Sprague"
+  },
+  "214": {
+   "name": "Mary Henry"
+  },
+  "222": {
+   "name": "Mary Henry"
+  },
+  "236": {
+   "name": "Mary Henry"
+  },
+  "243": {
+   "name": "Mary Henry"
+  },
+  "251": {
+   "name": "Bonnie Miles"
+  },
+  "266": {
+   "name": "Unidentified",
+   "role": "Unidentified voice at the table - one-word interjection"
+  },
+  "290": {
+   "name": "Heather Whitney"
+  },
+  "292": {
+   "name": "Heather Whitney"
+  },
+  "294": {
+   "name": "Heather Whitney"
+  },
+  "320": {
+   "name": "Heather Whitney"
+  },
+  "329": {
+   "name": "Heather Whitney"
+  }
+ }
+}

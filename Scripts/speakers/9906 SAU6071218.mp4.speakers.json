@@ -1,0 +1,916 @@
+{
+ "Speaker 1": {
+  "name": "Marjorie Erickson",
+  "role": "SAU 6 Board Chair (Unity member) (calls to order, runs agenda; motion credits the evaluation tool she presented [18-28] as 'provided copy by Marjorie' [68]; cluster also carries Cory LeClair's presentations and Sara Lowe's comments, see overrides)"
+ },
+ "Speaker 2": {
+  "name": "Michael Petrin",
+  "role": "SAU 6 Board Vice Chair (Claremont) (Pierce: 'didn't I just hear Michael mentioned' the waiver process [210] said by this cluster [189-191]; Horsky: 'I'm with Mike on this. D' [509] after this cluster's 'I like option D' [466-469]) (uncertain - cluster may also hold other male voices)"
+ },
+ "Speaker 3": {
+  "name": "Unidentified",
+  "role": "Unidentified - two short fragments"
+ },
+ "Speaker 4": {
+  "name": "Rebecca Zullo",
+  "role": "SAU 6 Board member (Claremont) (chair 'Rebecca.' [64] -> [65]; 'Rebecca and Sarah' [217] -> [218]; Pierce 'yield to Rebecca' [515] -> [516])"
+ },
+ "Speaker 5": {
+  "name": "Carolyn Towle",
+  "role": "SAU 6 Board member (Claremont) (chair 'Caroline.' [58] -> [59]; 'Carolyn.' [143] -> [144]; 'only been here for a few months back on this board' [49])"
+ },
+ "Speaker 6": {
+  "name": "Steven Horsky",
+  "role": "SAU 6 Board member (Claremont) ('Steve.' [52,122,343,382,709] each followed by this cluster; his motion [621] called 'the motion that Steve just made' [628])"
+ },
+ "Speaker 7": {
+  "name": "Michelle Pierce",
+  "role": "SAU 6 Board member (Claremont) ('Michelle.' [83,127,180,209] followed by this cluster; answers 'No.' [678] to roll call 'Michelle. Pierce.' [677])"
+ },
+ "Speaker 8": {
+  "name": "Unidentified",
+  "role": "Unidentified - cluster mixes Cory LeClair [130-135] and HR staff member Nate [185-200]; see overrides"
+ },
+ "Speaker 9": {
+  "name": "Marjorie Erickson",
+  "role": "SAU 6 Board Chair (Unity member) (uncertain - recognizes speakers 'Craig.' [448], 'Steve and then Carolyn and then you.' [478], 'Carolyn. And then Michelle.' [510]; also asks questions of Corey [472-502])"
+ },
+ "Speaker 10": {
+  "name": "Unidentified",
+  "role": "Unidentified - short interjections from several voices"
+ },
+ "Speaker 11": {
+  "name": "Marjorie Erickson",
+  "role": "SAU 6 Board Chair (Unity member) (procedural chair remarks on the motion [624-668]; Carolyn Towle's comments [511-513] overridden)"
+ },
+ "Speaker 12": {
+  "name": "Sara Lowe",
+  "role": "SAU 6 Board member, Unity School Board Chair (LeClair answers 'to Sarah's point' [378] this cluster's point on evening meetings [372]; Pierce: 'what I heard with Miss Sarah and Miss Corey' [387]; leads the non-financial part of the interim item [356-409]) (uncertain - floor-control remarks in this cluster may be the chair's)"
+ },
+ "Speaker 13": {
+  "name": "Steven Horsky",
+  "role": "SAU 6 Board member (Claremont) (reply [420] to Zullo's objection to his 'we're here to make a decision' [417])"
+ },
+ "Speaker 14": {
+  "name": "Frank Sprague",
+  "role": "SAU 6 Board member (Claremont), Claremont School Board Chair ('Frank, I haven't heard from Frank yet.' [425] -> [426]; Towle cites 'what Frank was talking about ... line E' [511]; answers 'Yes' [680] to 'Great. Sprite.' [679])"
+ },
+ "Speaker 15": {
+  "name": "Unidentified",
+  "role": "Unidentified - roll-call 'Yes' responses from several members and short remarks"
+ },
+ "Speaker 16": {
+  "name": "Cory LeClair",
+  "role": "Assistant Superintendent, SAU 6 (answer on evening commitments [451], continued by LeClair [452-454])"
+ },
+ "Speaker 17": {
+  "name": "Unidentified",
+  "role": "Unidentified - short remarks"
+ },
+ "Speaker 18": {
+  "name": "Michael O'Neill",
+  "role": "Business Administrator, SAU 6 (Pierce: 'Mike, I'd like to hear what you think' [557] -> [560]; 'option E Mike.' [633] -> recalculated savings [634]; surname per roster, not spoken)"
+ },
+ "Speaker 19": {
+  "name": "Unidentified",
+  "role": "Unidentified - board member summarizing the deficit math [596]"
+ },
+ "Speaker 20": {
+  "name": "Unidentified",
+  "role": "Unidentified - short remarks"
+ },
+ "Speaker 21": {
+  "name": "Carolyn Towle",
+  "role": "SAU 6 Board member (Claremont) (raises the Mark Chase police security date [746]; 'Carolyn,' [765] -> [766]; 'Carolyn.' [785] -> [786]; chair's adjournment remarks overridden)"
+ },
+ "Speaker 22": {
+  "name": "Unidentified",
+  "role": "Unidentified - cluster mixes the roll-call caller (overridden to Mary Woodman) and several short remarks"
+ },
+ "Speaker 23": {
+  "name": "Unidentified",
+  "role": "Unidentified - remarks on distributing the straw man document"
+ },
+ "__overrides__": {
+  "86": {
+   "name": "Cory LeClair",
+   "role": "Assistant Superintendent, SAU 6 (acting in the superintendent's absence)"
+  },
+  "87": {
+   "name": "Cory LeClair",
+   "role": "Assistant Superintendent, SAU 6 (acting in the superintendent's absence)"
+  },
+  "264": {
+   "name": "Cory LeClair",
+   "role": "Assistant Superintendent, SAU 6 (acting in the superintendent's absence)"
+  },
+  "265": {
+   "name": "Cory LeClair",
+   "role": "Assistant Superintendent, SAU 6 (acting in the superintendent's absence)"
+  },
+  "266": {
+   "name": "Cory LeClair",
+   "role": "Assistant Superintendent, SAU 6 (acting in the superintendent's absence)"
+  },
+  "267": {
+   "name": "Cory LeClair",
+   "role": "Assistant Superintendent, SAU 6 (acting in the superintendent's absence)"
+  },
+  "268": {
+   "name": "Cory LeClair",
+   "role": "Assistant Superintendent, SAU 6 (acting in the superintendent's absence)"
+  },
+  "270": {
+   "name": "Cory LeClair",
+   "role": "Assistant Superintendent, SAU 6 (acting in the superintendent's absence)"
+  },
+  "271": {
+   "name": "Cory LeClair",
+   "role": "Assistant Superintendent, SAU 6 (acting in the superintendent's absence)"
+  },
+  "272": {
+   "name": "Cory LeClair",
+   "role": "Assistant Superintendent, SAU 6 (acting in the superintendent's absence)"
+  },
+  "273": {
+   "name": "Cory LeClair",
+   "role": "Assistant Superintendent, SAU 6 (acting in the superintendent's absence)"
+  },
+  "274": {
+   "name": "Cory LeClair",
+   "role": "Assistant Superintendent, SAU 6 (acting in the superintendent's absence)"
+  },
+  "275": {
+   "name": "Cory LeClair",
+   "role": "Assistant Superintendent, SAU 6 (acting in the superintendent's absence)"
+  },
+  "276": {
+   "name": "Cory LeClair",
+   "role": "Assistant Superintendent, SAU 6 (acting in the superintendent's absence)"
+  },
+  "277": {
+   "name": "Cory LeClair",
+   "role": "Assistant Superintendent, SAU 6 (acting in the superintendent's absence)"
+  },
+  "279": {
+   "name": "Cory LeClair",
+   "role": "Assistant Superintendent, SAU 6 (acting in the superintendent's absence)"
+  },
+  "280": {
+   "name": "Cory LeClair",
+   "role": "Assistant Superintendent, SAU 6 (acting in the superintendent's absence)"
+  },
+  "281": {
+   "name": "Cory LeClair",
+   "role": "Assistant Superintendent, SAU 6 (acting in the superintendent's absence)"
+  },
+  "283": {
+   "name": "Cory LeClair",
+   "role": "Assistant Superintendent, SAU 6 (acting in the superintendent's absence)"
+  },
+  "285": {
+   "name": "Cory LeClair",
+   "role": "Assistant Superintendent, SAU 6 (acting in the superintendent's absence)"
+  },
+  "286": {
+   "name": "Cory LeClair",
+   "role": "Assistant Superintendent, SAU 6 (acting in the superintendent's absence)"
+  },
+  "288": {
+   "name": "Cory LeClair",
+   "role": "Assistant Superintendent, SAU 6 (acting in the superintendent's absence)"
+  },
+  "289": {
+   "name": "Cory LeClair",
+   "role": "Assistant Superintendent, SAU 6 (acting in the superintendent's absence)"
+  },
+  "290": {
+   "name": "Cory LeClair",
+   "role": "Assistant Superintendent, SAU 6 (acting in the superintendent's absence)"
+  },
+  "291": {
+   "name": "Cory LeClair",
+   "role": "Assistant Superintendent, SAU 6 (acting in the superintendent's absence)"
+  },
+  "294": {
+   "name": "Cory LeClair",
+   "role": "Assistant Superintendent, SAU 6 (acting in the superintendent's absence)"
+  },
+  "296": {
+   "name": "Cory LeClair",
+   "role": "Assistant Superintendent, SAU 6 (acting in the superintendent's absence)"
+  },
+  "298": {
+   "name": "Cory LeClair",
+   "role": "Assistant Superintendent, SAU 6 (acting in the superintendent's absence)"
+  },
+  "302": {
+   "name": "Cory LeClair",
+   "role": "Assistant Superintendent, SAU 6 (acting in the superintendent's absence)"
+  },
+  "305": {
+   "name": "Cory LeClair",
+   "role": "Assistant Superintendent, SAU 6 (acting in the superintendent's absence)"
+  },
+  "307": {
+   "name": "Cory LeClair",
+   "role": "Assistant Superintendent, SAU 6 (acting in the superintendent's absence)"
+  },
+  "310": {
+   "name": "Cory LeClair",
+   "role": "Assistant Superintendent, SAU 6 (acting in the superintendent's absence)"
+  },
+  "312": {
+   "name": "Cory LeClair",
+   "role": "Assistant Superintendent, SAU 6 (acting in the superintendent's absence)"
+  },
+  "317": {
+   "name": "Cory LeClair",
+   "role": "Assistant Superintendent, SAU 6 (acting in the superintendent's absence)"
+  },
+  "320": {
+   "name": "Cory LeClair",
+   "role": "Assistant Superintendent, SAU 6 (acting in the superintendent's absence)"
+  },
+  "321": {
+   "name": "Cory LeClair",
+   "role": "Assistant Superintendent, SAU 6 (acting in the superintendent's absence)"
+  },
+  "322": {
+   "name": "Cory LeClair",
+   "role": "Assistant Superintendent, SAU 6 (acting in the superintendent's absence)"
+  },
+  "324": {
+   "name": "Cory LeClair",
+   "role": "Assistant Superintendent, SAU 6 (acting in the superintendent's absence)"
+  },
+  "326": {
+   "name": "Cory LeClair",
+   "role": "Assistant Superintendent, SAU 6 (acting in the superintendent's absence)"
+  },
+  "327": {
+   "name": "Cory LeClair",
+   "role": "Assistant Superintendent, SAU 6 (acting in the superintendent's absence)"
+  },
+  "330": {
+   "name": "Cory LeClair",
+   "role": "Assistant Superintendent, SAU 6 (acting in the superintendent's absence)"
+  },
+  "332": {
+   "name": "Cory LeClair",
+   "role": "Assistant Superintendent, SAU 6 (acting in the superintendent's absence)"
+  },
+  "335": {
+   "name": "Cory LeClair",
+   "role": "Assistant Superintendent, SAU 6 (acting in the superintendent's absence)"
+  },
+  "337": {
+   "name": "Cory LeClair",
+   "role": "Assistant Superintendent, SAU 6 (acting in the superintendent's absence)"
+  },
+  "339": {
+   "name": "Cory LeClair",
+   "role": "Assistant Superintendent, SAU 6 (acting in the superintendent's absence)"
+  },
+  "342": {
+   "name": "Cory LeClair",
+   "role": "Assistant Superintendent, SAU 6 (acting in the superintendent's absence)"
+  },
+  "343": {
+   "name": "Cory LeClair",
+   "role": "Assistant Superintendent, SAU 6 (acting in the superintendent's absence)"
+  },
+  "362": {
+   "name": "Cory LeClair",
+   "role": "Assistant Superintendent, SAU 6 (acting in the superintendent's absence)"
+  },
+  "363": {
+   "name": "Cory LeClair",
+   "role": "Assistant Superintendent, SAU 6 (acting in the superintendent's absence)"
+  },
+  "366": {
+   "name": "Cory LeClair",
+   "role": "Assistant Superintendent, SAU 6 (acting in the superintendent's absence)"
+  },
+  "370": {
+   "name": "Cory LeClair",
+   "role": "Assistant Superintendent, SAU 6 (acting in the superintendent's absence)"
+  },
+  "374": {
+   "name": "Cory LeClair",
+   "role": "Assistant Superintendent, SAU 6 (acting in the superintendent's absence)"
+  },
+  "375": {
+   "name": "Cory LeClair",
+   "role": "Assistant Superintendent, SAU 6 (acting in the superintendent's absence)"
+  },
+  "376": {
+   "name": "Cory LeClair",
+   "role": "Assistant Superintendent, SAU 6 (acting in the superintendent's absence)"
+  },
+  "378": {
+   "name": "Cory LeClair",
+   "role": "Assistant Superintendent, SAU 6 (acting in the superintendent's absence)"
+  },
+  "380": {
+   "name": "Cory LeClair",
+   "role": "Assistant Superintendent, SAU 6 (acting in the superintendent's absence)"
+  },
+  "381": {
+   "name": "Cory LeClair",
+   "role": "Assistant Superintendent, SAU 6 (acting in the superintendent's absence)"
+  },
+  "408": {
+   "name": "Cory LeClair",
+   "role": "Assistant Superintendent, SAU 6 (acting in the superintendent's absence)"
+  },
+  "413": {
+   "name": "Cory LeClair",
+   "role": "Assistant Superintendent, SAU 6 (acting in the superintendent's absence)"
+  },
+  "427": {
+   "name": "Cory LeClair",
+   "role": "Assistant Superintendent, SAU 6 (acting in the superintendent's absence)"
+  },
+  "428": {
+   "name": "Cory LeClair",
+   "role": "Assistant Superintendent, SAU 6 (acting in the superintendent's absence)"
+  },
+  "430": {
+   "name": "Cory LeClair",
+   "role": "Assistant Superintendent, SAU 6 (acting in the superintendent's absence)"
+  },
+  "434": {
+   "name": "Cory LeClair",
+   "role": "Assistant Superintendent, SAU 6 (acting in the superintendent's absence)"
+  },
+  "436": {
+   "name": "Cory LeClair",
+   "role": "Assistant Superintendent, SAU 6 (acting in the superintendent's absence)"
+  },
+  "437": {
+   "name": "Cory LeClair",
+   "role": "Assistant Superintendent, SAU 6 (acting in the superintendent's absence)"
+  },
+  "438": {
+   "name": "Cory LeClair",
+   "role": "Assistant Superintendent, SAU 6 (acting in the superintendent's absence)"
+  },
+  "439": {
+   "name": "Cory LeClair",
+   "role": "Assistant Superintendent, SAU 6 (acting in the superintendent's absence)"
+  },
+  "440": {
+   "name": "Cory LeClair",
+   "role": "Assistant Superintendent, SAU 6 (acting in the superintendent's absence)"
+  },
+  "441": {
+   "name": "Cory LeClair",
+   "role": "Assistant Superintendent, SAU 6 (acting in the superintendent's absence)"
+  },
+  "442": {
+   "name": "Cory LeClair",
+   "role": "Assistant Superintendent, SAU 6 (acting in the superintendent's absence)"
+  },
+  "444": {
+   "name": "Cory LeClair",
+   "role": "Assistant Superintendent, SAU 6 (acting in the superintendent's absence)"
+  },
+  "446": {
+   "name": "Cory LeClair",
+   "role": "Assistant Superintendent, SAU 6 (acting in the superintendent's absence)"
+  },
+  "447": {
+   "name": "Cory LeClair",
+   "role": "Assistant Superintendent, SAU 6 (acting in the superintendent's absence)"
+  },
+  "452": {
+   "name": "Cory LeClair",
+   "role": "Assistant Superintendent, SAU 6 (acting in the superintendent's absence)"
+  },
+  "454": {
+   "name": "Cory LeClair",
+   "role": "Assistant Superintendent, SAU 6 (acting in the superintendent's absence)"
+  },
+  "455": {
+   "name": "Cory LeClair",
+   "role": "Assistant Superintendent, SAU 6 (acting in the superintendent's absence)"
+  },
+  "457": {
+   "name": "Cory LeClair",
+   "role": "Assistant Superintendent, SAU 6 (acting in the superintendent's absence)"
+  },
+  "486": {
+   "name": "Cory LeClair",
+   "role": "Assistant Superintendent, SAU 6 (acting in the superintendent's absence)"
+  },
+  "487": {
+   "name": "Cory LeClair",
+   "role": "Assistant Superintendent, SAU 6 (acting in the superintendent's absence)"
+  },
+  "488": {
+   "name": "Cory LeClair",
+   "role": "Assistant Superintendent, SAU 6 (acting in the superintendent's absence)"
+  },
+  "489": {
+   "name": "Cory LeClair",
+   "role": "Assistant Superintendent, SAU 6 (acting in the superintendent's absence)"
+  },
+  "490": {
+   "name": "Cory LeClair",
+   "role": "Assistant Superintendent, SAU 6 (acting in the superintendent's absence)"
+  },
+  "492": {
+   "name": "Cory LeClair",
+   "role": "Assistant Superintendent, SAU 6 (acting in the superintendent's absence)"
+  },
+  "493": {
+   "name": "Cory LeClair",
+   "role": "Assistant Superintendent, SAU 6 (acting in the superintendent's absence)"
+  },
+  "494": {
+   "name": "Cory LeClair",
+   "role": "Assistant Superintendent, SAU 6 (acting in the superintendent's absence)"
+  },
+  "495": {
+   "name": "Cory LeClair",
+   "role": "Assistant Superintendent, SAU 6 (acting in the superintendent's absence)"
+  },
+  "496": {
+   "name": "Cory LeClair",
+   "role": "Assistant Superintendent, SAU 6 (acting in the superintendent's absence)"
+  },
+  "497": {
+   "name": "Cory LeClair",
+   "role": "Assistant Superintendent, SAU 6 (acting in the superintendent's absence)"
+  },
+  "498": {
+   "name": "Cory LeClair",
+   "role": "Assistant Superintendent, SAU 6 (acting in the superintendent's absence)"
+  },
+  "499": {
+   "name": "Cory LeClair",
+   "role": "Assistant Superintendent, SAU 6 (acting in the superintendent's absence)"
+  },
+  "501": {
+   "name": "Cory LeClair",
+   "role": "Assistant Superintendent, SAU 6 (acting in the superintendent's absence)"
+  },
+  "503": {
+   "name": "Cory LeClair",
+   "role": "Assistant Superintendent, SAU 6 (acting in the superintendent's absence)"
+  },
+  "524": {
+   "name": "Cory LeClair",
+   "role": "Assistant Superintendent, SAU 6 (acting in the superintendent's absence)"
+  },
+  "527": {
+   "name": "Cory LeClair",
+   "role": "Assistant Superintendent, SAU 6 (acting in the superintendent's absence)"
+  },
+  "529": {
+   "name": "Cory LeClair",
+   "role": "Assistant Superintendent, SAU 6 (acting in the superintendent's absence)"
+  },
+  "532": {
+   "name": "Cory LeClair",
+   "role": "Assistant Superintendent, SAU 6 (acting in the superintendent's absence)"
+  },
+  "534": {
+   "name": "Cory LeClair",
+   "role": "Assistant Superintendent, SAU 6 (acting in the superintendent's absence)"
+  },
+  "540": {
+   "name": "Cory LeClair",
+   "role": "Assistant Superintendent, SAU 6 (acting in the superintendent's absence)"
+  },
+  "542": {
+   "name": "Cory LeClair",
+   "role": "Assistant Superintendent, SAU 6 (acting in the superintendent's absence)"
+  },
+  "548": {
+   "name": "Cory LeClair",
+   "role": "Assistant Superintendent, SAU 6 (acting in the superintendent's absence)"
+  },
+  "549": {
+   "name": "Cory LeClair",
+   "role": "Assistant Superintendent, SAU 6 (acting in the superintendent's absence)"
+  },
+  "551": {
+   "name": "Cory LeClair",
+   "role": "Assistant Superintendent, SAU 6 (acting in the superintendent's absence)"
+  },
+  "555": {
+   "name": "Cory LeClair",
+   "role": "Assistant Superintendent, SAU 6 (acting in the superintendent's absence)"
+  },
+  "565": {
+   "name": "Cory LeClair",
+   "role": "Assistant Superintendent, SAU 6 (acting in the superintendent's absence)"
+  },
+  "566": {
+   "name": "Cory LeClair",
+   "role": "Assistant Superintendent, SAU 6 (acting in the superintendent's absence)"
+  },
+  "745": {
+   "name": "Cory LeClair",
+   "role": "Assistant Superintendent, SAU 6 (acting in the superintendent's absence)"
+  },
+  "747": {
+   "name": "Cory LeClair",
+   "role": "Assistant Superintendent, SAU 6 (acting in the superintendent's absence)"
+  },
+  "749": {
+   "name": "Cory LeClair",
+   "role": "Assistant Superintendent, SAU 6 (acting in the superintendent's absence)"
+  },
+  "751": {
+   "name": "Cory LeClair",
+   "role": "Assistant Superintendent, SAU 6 (acting in the superintendent's absence)"
+  },
+  "753": {
+   "name": "Cory LeClair",
+   "role": "Assistant Superintendent, SAU 6 (acting in the superintendent's absence)"
+  },
+  "755": {
+   "name": "Cory LeClair",
+   "role": "Assistant Superintendent, SAU 6 (acting in the superintendent's absence)"
+  },
+  "756": {
+   "name": "Cory LeClair",
+   "role": "Assistant Superintendent, SAU 6 (acting in the superintendent's absence)"
+  },
+  "757": {
+   "name": "Cory LeClair",
+   "role": "Assistant Superintendent, SAU 6 (acting in the superintendent's absence)"
+  },
+  "760": {
+   "name": "Cory LeClair",
+   "role": "Assistant Superintendent, SAU 6 (acting in the superintendent's absence)"
+  },
+  "761": {
+   "name": "Cory LeClair",
+   "role": "Assistant Superintendent, SAU 6 (acting in the superintendent's absence)"
+  },
+  "764": {
+   "name": "Cory LeClair",
+   "role": "Assistant Superintendent, SAU 6 (acting in the superintendent's absence)"
+  },
+  "767": {
+   "name": "Cory LeClair",
+   "role": "Assistant Superintendent, SAU 6 (acting in the superintendent's absence)"
+  },
+  "770": {
+   "name": "Cory LeClair",
+   "role": "Assistant Superintendent, SAU 6 (acting in the superintendent's absence)"
+  },
+  "771": {
+   "name": "Cory LeClair",
+   "role": "Assistant Superintendent, SAU 6 (acting in the superintendent's absence)"
+  },
+  "773": {
+   "name": "Cory LeClair",
+   "role": "Assistant Superintendent, SAU 6 (acting in the superintendent's absence)"
+  },
+  "777": {
+   "name": "Cory LeClair",
+   "role": "Assistant Superintendent, SAU 6 (acting in the superintendent's absence)"
+  },
+  "780": {
+   "name": "Cory LeClair",
+   "role": "Assistant Superintendent, SAU 6 (acting in the superintendent's absence)"
+  },
+  "785": {
+   "name": "Cory LeClair",
+   "role": "Assistant Superintendent, SAU 6 (acting in the superintendent's absence)"
+  },
+  "789": {
+   "name": "Cory LeClair",
+   "role": "Assistant Superintendent, SAU 6 (acting in the superintendent's absence)"
+  },
+  "793": {
+   "name": "Cory LeClair",
+   "role": "Assistant Superintendent, SAU 6 (acting in the superintendent's absence)"
+  },
+  "795": {
+   "name": "Cory LeClair",
+   "role": "Assistant Superintendent, SAU 6 (acting in the superintendent's absence)"
+  },
+  "797": {
+   "name": "Cory LeClair",
+   "role": "Assistant Superintendent, SAU 6 (acting in the superintendent's absence)"
+  },
+  "799": {
+   "name": "Cory LeClair",
+   "role": "Assistant Superintendent, SAU 6 (acting in the superintendent's absence)"
+  },
+  "800": {
+   "name": "Cory LeClair",
+   "role": "Assistant Superintendent, SAU 6 (acting in the superintendent's absence)"
+  },
+  "801": {
+   "name": "Cory LeClair",
+   "role": "Assistant Superintendent, SAU 6 (acting in the superintendent's absence)"
+  },
+  "802": {
+   "name": "Cory LeClair",
+   "role": "Assistant Superintendent, SAU 6 (acting in the superintendent's absence)"
+  },
+  "808": {
+   "name": "Cory LeClair",
+   "role": "Assistant Superintendent, SAU 6 (acting in the superintendent's absence)"
+  },
+  "809": {
+   "name": "Cory LeClair",
+   "role": "Assistant Superintendent, SAU 6 (acting in the superintendent's absence)"
+  },
+  "817": {
+   "name": "Cory LeClair",
+   "role": "Assistant Superintendent, SAU 6 (acting in the superintendent's absence)"
+  },
+  "825": {
+   "name": "Cory LeClair",
+   "role": "Assistant Superintendent, SAU 6 (acting in the superintendent's absence)"
+  },
+  "827": {
+   "name": "Cory LeClair",
+   "role": "Assistant Superintendent, SAU 6 (acting in the superintendent's absence)"
+  },
+  "831": {
+   "name": "Cory LeClair",
+   "role": "Assistant Superintendent, SAU 6 (acting in the superintendent's absence)"
+  },
+  "832": {
+   "name": "Cory LeClair",
+   "role": "Assistant Superintendent, SAU 6 (acting in the superintendent's absence)"
+  },
+  "834": {
+   "name": "Cory LeClair",
+   "role": "Assistant Superintendent, SAU 6 (acting in the superintendent's absence)"
+  },
+  "836": {
+   "name": "Cory LeClair",
+   "role": "Assistant Superintendent, SAU 6 (acting in the superintendent's absence)"
+  },
+  "839": {
+   "name": "Cory LeClair",
+   "role": "Assistant Superintendent, SAU 6 (acting in the superintendent's absence)"
+  },
+  "863": {
+   "name": "Cory LeClair",
+   "role": "Assistant Superintendent, SAU 6 (acting in the superintendent's absence)"
+  },
+  "865": {
+   "name": "Cory LeClair",
+   "role": "Assistant Superintendent, SAU 6 (acting in the superintendent's absence)"
+  },
+  "130": {
+   "name": "Cory LeClair",
+   "role": "Assistant Superintendent, SAU 6 (acting in the superintendent's absence)"
+  },
+  "131": {
+   "name": "Cory LeClair",
+   "role": "Assistant Superintendent, SAU 6 (acting in the superintendent's absence)"
+  },
+  "132": {
+   "name": "Cory LeClair",
+   "role": "Assistant Superintendent, SAU 6 (acting in the superintendent's absence)"
+  },
+  "133": {
+   "name": "Cory LeClair",
+   "role": "Assistant Superintendent, SAU 6 (acting in the superintendent's absence)"
+  },
+  "134": {
+   "name": "Cory LeClair",
+   "role": "Assistant Superintendent, SAU 6 (acting in the superintendent's absence)"
+  },
+  "135": {
+   "name": "Cory LeClair",
+   "role": "Assistant Superintendent, SAU 6 (acting in the superintendent's absence)"
+  },
+  "491": {
+   "name": "Cory LeClair",
+   "role": "Assistant Superintendent, SAU 6 (acting in the superintendent's absence)"
+  },
+  "541": {
+   "name": "Cory LeClair",
+   "role": "Assistant Superintendent, SAU 6 (acting in the superintendent's absence)"
+  },
+  "113": {
+   "name": "Sara Lowe",
+   "role": "SAU 6 Board member, Unity School Board Chair (recognized 'Sarah.' [113] and 'Rebecca and Sarah' [217])"
+  },
+  "114": {
+   "name": "Sara Lowe",
+   "role": "SAU 6 Board member, Unity School Board Chair (recognized 'Sarah.' [113] and 'Rebecca and Sarah' [217])"
+  },
+  "115": {
+   "name": "Sara Lowe",
+   "role": "SAU 6 Board member, Unity School Board Chair (recognized 'Sarah.' [113] and 'Rebecca and Sarah' [217])"
+  },
+  "220": {
+   "name": "Sara Lowe",
+   "role": "SAU 6 Board member, Unity School Board Chair (recognized 'Sarah.' [113] and 'Rebecca and Sarah' [217])"
+  },
+  "221": {
+   "name": "Sara Lowe",
+   "role": "SAU 6 Board member, Unity School Board Chair (recognized 'Sarah.' [113] and 'Rebecca and Sarah' [217])"
+  },
+  "27": {
+   "name": "Frank Sprague",
+   "role": "SAU 6 Board member (Claremont), Claremont School Board Chair (Zullo: 'the same word as you, Frank. Sufficient.' [32] answers [29-30])"
+  },
+  "29": {
+   "name": "Frank Sprague",
+   "role": "SAU 6 Board member (Claremont), Claremont School Board Chair (Zullo: 'the same word as you, Frank. Sufficient.' [32] answers [29-30])"
+  },
+  "30": {
+   "name": "Frank Sprague",
+   "role": "SAU 6 Board member (Claremont), Claremont School Board Chair (Zullo: 'the same word as you, Frank. Sufficient.' [32] answers [29-30])"
+  },
+  "553": {
+   "name": "Rebecca Zullo",
+   "role": "SAU 6 Board member (Claremont) (chair 'Rebecca.' [64] -> [65]; 'Rebecca and Sarah' [217] -> [218]; Pierce 'yield to Rebecca' [515] -> [516])"
+  },
+  "590": {
+   "name": "Rebecca Zullo",
+   "role": "SAU 6 Board member (Claremont) (chair 'Rebecca.' [64] -> [65]; 'Rebecca and Sarah' [217] -> [218]; Pierce 'yield to Rebecca' [515] -> [516])"
+  },
+  "592": {
+   "name": "Rebecca Zullo",
+   "role": "SAU 6 Board member (Claremont) (chair 'Rebecca.' [64] -> [65]; 'Rebecca and Sarah' [217] -> [218]; Pierce 'yield to Rebecca' [515] -> [516])"
+  },
+  "539": {
+   "name": "Rebecca Zullo",
+   "role": "SAU 6 Board member (Claremont) (chair 'Rebecca.' [64] -> [65]; 'Rebecca and Sarah' [217] -> [218]; Pierce 'yield to Rebecca' [515] -> [516])"
+  },
+  "163": {
+   "name": "Marjorie Erickson",
+   "role": "SAU 6 Board Chair (Unity member) (fragments of the chair's three-goals request [164-174] split into Speaker 5)"
+  },
+  "165": {
+   "name": "Marjorie Erickson",
+   "role": "SAU 6 Board Chair (Unity member) (fragments of the chair's three-goals request [164-174] split into Speaker 5)"
+  },
+  "167": {
+   "name": "Marjorie Erickson",
+   "role": "SAU 6 Board Chair (Unity member) (fragments of the chair's three-goals request [164-174] split into Speaker 5)"
+  },
+  "169": {
+   "name": "Marjorie Erickson",
+   "role": "SAU 6 Board Chair (Unity member) (fragments of the chair's three-goals request [164-174] split into Speaker 5)"
+  },
+  "171": {
+   "name": "Marjorie Erickson",
+   "role": "SAU 6 Board Chair (Unity member) (fragments of the chair's three-goals request [164-174] split into Speaker 5)"
+  },
+  "765": {
+   "name": "Marjorie Erickson",
+   "role": "SAU 6 Board Chair (Unity member) (recognition absorbed into Speaker 4)"
+  },
+  "185": {
+   "name": "Nate",
+   "role": "SAU 6 staff, human resources (chair: 'Right, Nate.' [184] -> [185]; 'connected with Nathan regarding the HR component' [374]; surname not on this recording)"
+  },
+  "190": {
+   "name": "Nate",
+   "role": "SAU 6 staff, human resources (chair: 'Right, Nate.' [184] -> [185]; 'connected with Nathan regarding the HR component' [374]; surname not on this recording)"
+  },
+  "192": {
+   "name": "Nate",
+   "role": "SAU 6 staff, human resources (chair: 'Right, Nate.' [184] -> [185]; 'connected with Nathan regarding the HR component' [374]; surname not on this recording)"
+  },
+  "194": {
+   "name": "Nate",
+   "role": "SAU 6 staff, human resources (chair: 'Right, Nate.' [184] -> [185]; 'connected with Nathan regarding the HR component' [374]; surname not on this recording)"
+  },
+  "200": {
+   "name": "Nate",
+   "role": "SAU 6 staff, human resources (chair: 'Right, Nate.' [184] -> [185]; 'connected with Nathan regarding the HR component' [374]; surname not on this recording)"
+  },
+  "511": {
+   "name": "Carolyn Towle",
+   "role": "SAU 6 Board member (Claremont)"
+  },
+  "512": {
+   "name": "Carolyn Towle",
+   "role": "SAU 6 Board member (Claremont)"
+  },
+  "513": {
+   "name": "Carolyn Towle",
+   "role": "SAU 6 Board member (Claremont)"
+  },
+  "250": {
+   "name": "Unidentified",
+   "role": "Unidentified - board member expressing confidence in the search committee"
+  },
+  "251": {
+   "name": "Unidentified",
+   "role": "Unidentified - board member expressing confidence in the search committee"
+  },
+  "571": {
+   "name": "Steven Horsky",
+   "role": "SAU 6 Board member (Claremont)"
+  },
+  "573": {
+   "name": "Steven Horsky",
+   "role": "SAU 6 Board member (Claremont)"
+  },
+  "575": {
+   "name": "Steven Horsky",
+   "role": "SAU 6 Board member (Claremont)"
+  },
+  "712": {
+   "name": "Steven Horsky",
+   "role": "SAU 6 Board member (Claremont)"
+  },
+  "449": {
+   "name": "Unidentified",
+   "role": "Unidentified - possibly Craig (Unity), recognized 'Craig.' [448]"
+  },
+  "819": {
+   "name": "Marjorie Erickson",
+   "role": "SAU 6 Board Chair (Unity member) (adjournment procedure absorbed into Speaker 21)"
+  },
+  "874": {
+   "name": "Marjorie Erickson",
+   "role": "SAU 6 Board Chair (Unity member) (adjournment procedure absorbed into Speaker 21)"
+  },
+  "876": {
+   "name": "Marjorie Erickson",
+   "role": "SAU 6 Board Chair (Unity member) (adjournment procedure absorbed into Speaker 21)"
+  },
+  "879": {
+   "name": "Marjorie Erickson",
+   "role": "SAU 6 Board Chair (Unity member) (adjournment procedure absorbed into Speaker 21)"
+  },
+  "881": {
+   "name": "Marjorie Erickson",
+   "role": "SAU 6 Board Chair (Unity member) (adjournment procedure absorbed into Speaker 21)"
+  },
+  "883": {
+   "name": "Marjorie Erickson",
+   "role": "SAU 6 Board Chair (Unity member) (adjournment procedure absorbed into Speaker 21)"
+  },
+  "677": {
+   "name": "Mary Woodman",
+   "role": "Recording secretary (roll call)"
+  },
+  "681": {
+   "name": "Mary Woodman",
+   "role": "Recording secretary (roll call)"
+  },
+  "683": {
+   "name": "Mary Woodman",
+   "role": "Recording secretary (roll call)"
+  },
+  "685": {
+   "name": "Mary Woodman",
+   "role": "Recording secretary (roll call)"
+  },
+  "687": {
+   "name": "Mary Woodman",
+   "role": "Recording secretary (roll call)"
+  },
+  "689": {
+   "name": "Mary Woodman",
+   "role": "Recording secretary (roll call)"
+  },
+  "675": {
+   "name": "Mary Woodman",
+   "role": "Recording secretary (roll call)"
+  },
+  "679": {
+   "name": "Mary Woodman",
+   "role": "Recording secretary (roll call)"
+  },
+  "3": {
+   "name": "Unidentified",
+   "role": "Unidentified - Pledge of Allegiance (group)"
+  },
+  "5": {
+   "name": "Unidentified",
+   "role": "Unidentified - chair's roll request merged with roll call and responses"
+  },
+  "6": {
+   "name": "Unidentified",
+   "role": "Unidentified - roll call and responses"
+  },
+  "7": {
+   "name": "Unidentified",
+   "role": "Unidentified - roll call and responses"
+  },
+  "8": {
+   "name": "Unidentified",
+   "role": "Unidentified - roll call and responses"
+  },
+  "673": {
+   "name": "Unidentified",
+   "role": "Unidentified - chair's roll-call request merged with the clerk's roll call"
+  },
+  "623": {
+   "name": "Unidentified",
+   "role": "Unidentified - second to Horsky's motion"
+  }
+ }
+}

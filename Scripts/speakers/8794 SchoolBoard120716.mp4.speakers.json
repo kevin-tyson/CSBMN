@@ -1,0 +1,100 @@
+{
+ "Speaker 1": {
+  "name": "Unidentified",
+  "role": "Unidentified - Stevens High School student representative reading the schools report [16-23] (name not stated on this recording); cluster also holds roll-call fragments [8, 488, 493]"
+ },
+ "Speaker 2": {
+  "name": "Chris Irish",
+  "role": "Claremont School Board Vice Chair, presiding in the chair's absence ('Brian is out tonight ... you guys are stuck with me tonight' [6]; superintendent 'Mr. Chairman? Vice chairman' [283], 'begin that discussion tonight, Chris' [306]; Adrian: 'You, Chris, you nailed something' [253] after [249-252]; daughter first through Catch the Wave [241])"
+ },
+ "Speaker 3": {
+  "name": "Middleton McGoodwin",
+  "role": "Superintendent, SAU 6 (superintendent's report [27-52]; chair: 'Doctor Goodwin just hit on it' [55]; Sprague: 'Doctor Goodwin' [388])"
+ },
+ "Speaker 4": {
+  "name": "Frank Sprague",
+  "role": "Claremont School Board member (policy motions [355-396]; 'Frank's motion' [409]; 'motion by Mr. Sprague' [476] after [466]; Rafieymehr: 'what Frank said' [228] after [225-227])"
+ },
+ "Speaker 5": {
+  "name": "Chris Irish",
+  "role": "Claremont School Board Vice Chair, presiding in the chair's absence ('Brian is out tonight ... you guys are stuck with me tonight' [6]; superintendent 'Mr. Chairman? Vice chairman' [283], 'begin that discussion tonight, Chris' [306]; Adrian: 'You, Chris, you nailed something' [253] after [249-252]; daughter first through Catch the Wave [241])"
+ },
+ "Speaker 6": {
+  "name": "Unidentified",
+  "role": "Unidentified - single fragment [39]"
+ },
+ "Speaker 7": {
+  "name": "Patricia Barry",
+  "role": "Principal, Stevens High School (superintendent: 'I would ask Doctor Barry, could you come forward' [38] -> [41-49]; 'they give the principal the opportunity to be the one to tell the student' [48]; ASR 'Berry')"
+ },
+ "Speaker 8": {
+  "name": "Unidentified",
+  "role": "Unidentified - cluster mixes brief responses and votes from several people and the roll caller for the nonpublic vote [489-495]"
+ },
+ "Speaker 9": {
+  "name": "Unidentified",
+  "role": "Unidentified - board member (corrects the scholarship to $10,000 [54]; moves to accept the ExxonMobil grants [142])"
+ },
+ "Speaker 10": {
+  "name": "Cory LeClair",
+  "role": "Assistant Superintendent, SAU 6 (Sprague: 'as Corey just said' [227] after [223-224]; board member: 'So, Corey, you're saying' [290] -> [291]; Project Lead the Way and i-Ready items [460-461])"
+ },
+ "Speaker 11": {
+  "name": "Paul Silva",
+  "role": "Head football coach, Stevens High School (chair: 'I also have one for you, Paul' [100]; 'floor is yours' [107] -> [108]; Ayotte letter addressed to 'Coach Paul Silva' [66])"
+ },
+ "Speaker 12": {
+  "name": "Unidentified",
+  "role": "Unidentified - single 'Thank you' [112]"
+ },
+ "Speaker 13": {
+  "name": "Charlene Lovett",
+  "role": "Public commenter, parent of student Marion Lovett (chair: 'Charlene.' [121] -> 'Love it' [122] ASR for Lovett; 'when Marion and I were down at the Department of Education' [124]; Claremont Mayor per roster and 'Mayor Charlene' [336])"
+ },
+ "Speaker 14": {
+  "name": "Ali Rafieymehr",
+  "role": "Vice President of Academic Affairs, River Valley Community College (superintendent introduces 'doctor Ali ... Amir' [133, 147] -> Pathway to Success presentation [152-272]; ASR 'Ali Raff. Amir'; surname spelling uncertain - not confirmed in a record)"
+ },
+ "Speaker 15": {
+  "name": "Patrick Adrian",
+  "role": "Claremont School Board member (superintendent: 'to your point. Thank you. Patrick' [257] after [253]; 'looking over Brett's shoulder at the agenda' [445]) (medium)"
+ },
+ "Speaker 16": {
+  "name": "Unidentified",
+  "role": "Unidentified - board member (cost questions on Pathway to Success [201-207]; 'I'd like to have Mike here' [310]; seconds the policy motion [371])"
+ },
+ "Speaker 17": {
+  "name": "Unidentified",
+  "role": "Unidentified - board member (spirit vs letter of 'equal access' [379-380]; attended the Maple Avenue Title I event with Brian Rapp [464])"
+ },
+ "__overrides__": {
+  "155": {
+   "name": "Alex Herzog",
+   "role": "Claremont School Board member; Vice President for Student and Community Affairs, River Valley Community College (Rafieymehr: 'working with Doctor Herzog' [154] -> 'It's my pleasure' [155]; 'Can I add that, doctor?' on the RVCC computer-build event [175-176]; seconds the nonpublic motion, 'second by Mr. Herzog' [470, 476])"
+  },
+  "175": {
+   "name": "Alex Herzog"
+  },
+  "176": {
+   "name": "Alex Herzog"
+  },
+  "470": {
+   "name": "Alex Herzog"
+  },
+  "197": {
+   "name": "Cory LeClair"
+  },
+  "200": {
+   "name": "Unidentified",
+   "role": "Unidentified - 'Quick question' [200] preceding a board member's cost question"
+  },
+  "28": {
+   "name": "Unidentified",
+   "role": "Unidentified - 'Thank you. Awesome.' after the superintendent praises Michelle Pierce [27-28] (possibly Michelle Pierce, uncertain)"
+  },
+  "491": {
+   "name": "Unidentified",
+   "role": "Unidentified - roll-call fragment [491]"
+  }
+ }
+}

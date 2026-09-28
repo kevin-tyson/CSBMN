@@ -1,0 +1,27 @@
+{
+ "Speaker 1": {"name": "Brian Rapp", "role": "Claremont School Board Chair (runs agenda and votes; superintendent: 'Brian, you're attending' [37], 'if I may, Brian' [488], 'you know, Brian' [471])"},
+ "Speaker 2": {"name": "Unidentified", "role": "Unidentified - Stevens High School student representative (name not stated) [26-32]; cluster also holds roll-call and staff fragments, see overrides"},
+ "Speaker 3": {"name": "Middleton McGoodwin", "role": "Superintendent, SAU 6 (superintendent's report [35-47]; 'Fiscal year 12, my first year' [101]; 'We submit that to you, Middleton' [555] -> 'Yes, please' [556])"},
+ "Speaker 4": {"name": "Frank Sprague", "role": "Claremont School Board member (chair: 'Who wants to get this started, Frank?' [122] -> [123]; O'Neill: 'Frank' [267] -> 'Yes' [268]; makes the CBA ballot motions [75-92])"},
+ "Speaker 5": {"name": "Chris Irish", "role": "Claremont School Board Vice Chair (O'Neill: 'Chris, you said you sent me an email today' [453] -> [454]; answers 'Chris. Irish.' in the nonpublic roll [51-52]; runs the policy vote [552])"},
+ "Speaker 6": {"name": "Patrick Adrian", "role": "Claremont School Board member (abstains when chair calls 'Abstentions. Patrick.' [83-85]; asks O'Neill the question O'Neill later credits to Patrick [192], [434]) (medium - diarization flaps)"},
+ "Speaker 7": {"name": "Cory LeClair", "role": "Assistant Superintendent, SAU 6 (superintendent: 'Corey has something.' [526] -> [527]; explains CBA size factor [260] and Medicaid billing [298])"},
+ "Speaker 8": {"name": "Unidentified", "role": "Unidentified - roll caller for the nonpublic-session vote [51-57] (likely the recording secretary; not named on this recording)"},
+ "Speaker 9": {"name": "Michael O'Neill", "role": "Business Administrator, SAU 6 (superintendent: 'Mike, could you explain the three documents' [181] -> [182]; budget report and warrant article explanations throughout)"},
+ "Speaker 10": {"name": "Unidentified", "role": "Unidentified - short board-member question on salaries by school [314,316] (addressed 'Alex' [319], possibly Alex Herzog, uncertain) plus backchannel fragments; clear continuations of O'Neill's sentences reassigned in overrides"},
+ "Speaker 11": {"name": "Unidentified", "role": "Unidentified - SAU 6 technology director (O'Neill: 'the technology director could speak to that' [493] -> [495-503]; name not on this recording)"},
+ "Speaker 12": {"name": "Unidentified", "role": "Unidentified - brief remarks at adjournment [583,585]"},
+ "__overrides__": {
+  "3": {"name": "Unidentified", "role": "Unidentified - roll caller at opening roll call [3,5] (likely the recording secretary; not named on this recording)"},
+  "5": {"name": "Unidentified", "role": "Unidentified - roll caller at opening roll call [3,5] (likely the recording secretary; not named on this recording)"},
+  "172": {"name": "Unidentified", "role": "Unidentified - staff voice on budgeting software [172,174]"},
+  "174": {"name": "Unidentified", "role": "Unidentified - staff voice on budgeting software [172,174]"},
+  "319": {"name": "Unidentified", "role": "Unidentified - voice recognizing 'Alex' [319]"},
+  "54": {"name": "Patrick Adrian"},
+  "56": {"name": "Alex Herzog", "role": "Claremont School Board member (answers 'Here. Yes.' when 'Herzog' is called in the nonpublic roll [55-56]) (medium - single roll-call answer)"},
+  "352": {"name": "Michael O'Neill"},
+  "431": {"name": "Michael O'Neill"},
+  "437": {"name": "Michael O'Neill"},
+  "442": {"name": "Michael O'Neill"}
+ }
+}

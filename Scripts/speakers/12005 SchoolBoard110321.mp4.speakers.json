@@ -1,0 +1,420 @@
+{
+ "Speaker 1": {
+  "name": "Michael Tempesta",
+  "role": "Superintendent, SAU 6 - cluster also carries the chair's opening business and later scheduling remarks, see overrides"
+ },
+ "Speaker 2": {
+  "name": "Frank Sprague",
+  "role": "Claremont School Board Chair - runs the meeting from the superintendent's report onward"
+ },
+ "Speaker 3": {
+  "name": "Heather Whitney",
+  "role": "Claremont School Board member - cluster also carries the clerk's roll call, see overrides"
+ },
+ "Speaker 4": {
+  "name": "Rob Lovett Jr.",
+  "role": "Claremont School Board member"
+ },
+ "Speaker 5": {
+  "name": "Joshua Lambert",
+  "role": "Claremont School Board member"
+ },
+ "Speaker 6": {
+  "name": "Michael Petrin",
+  "role": "Claremont School Board member; SAU 6 Board Chair"
+ },
+ "Speaker 7": {
+  "name": "Jason Benware",
+  "role": "Public commenter, Ward 1; former Claremont School Board member (ASR 'Jason. Ben. Where?')"
+ },
+ "Speaker 8": {
+  "name": "Unidentified",
+  "role": "Unidentified - Stevens High School student representative to the board (name not stated on the record)"
+ },
+ "Speaker 9": {
+  "name": "Michael Tempesta",
+  "role": "Superintendent, SAU 6 - clipped fragments inside his remarks"
+ },
+ "Speaker 10": {
+  "name": "Ben Nester",
+  "role": "Director of Special Education, SAU 6 (medium - answers the pre-K / Head Start question after 'Ben can speak to the exact'); cluster also holds fragments of others, see overrides"
+ },
+ "Speaker 11": {
+  "name": "Steven Horsky",
+  "role": "Claremont School Board member"
+ },
+ "Speaker 12": {
+  "name": "Steven Horsky",
+  "role": "Claremont School Board member"
+ },
+ "Speaker 13": {
+  "name": "Ben Nester",
+  "role": "Director of Special Education, SAU 6"
+ },
+ "Speaker 14": {
+  "name": "Nicholas Stone",
+  "role": "Claremont School Board member"
+ },
+ "Speaker 15": {
+  "name": "Frank Sprague",
+  "role": "Claremont School Board Chair - second cluster; also carries Richard Seaman's capital reserve explanation, see overrides"
+ },
+ "__overrides__": {
+  "0": {
+   "name": "Frank Sprague",
+   "role": "Claremont School Board Chair"
+  },
+  "1": {
+   "name": "Unidentified",
+   "role": "Unidentified - group recitation of the Pledge of Allegiance"
+  },
+  "2": {
+   "name": "Frank Sprague",
+   "role": "Claremont School Board Chair"
+  },
+  "3": {
+   "name": "Frank Sprague",
+   "role": "Claremont School Board Chair"
+  },
+  "4": {
+   "name": "Mary Woodman",
+   "role": "School district clerk and recording secretary"
+  },
+  "5": {
+   "name": "Heather Whitney",
+   "role": "Claremont School Board member"
+  },
+  "6": {
+   "name": "Mary Woodman",
+   "role": "School district clerk and recording secretary"
+  },
+  "7": {
+   "name": "Mary Woodman",
+   "role": "School district clerk and recording secretary"
+  },
+  "8": {
+   "name": "Rob Lovett Jr.",
+   "role": "Claremont School Board member"
+  },
+  "9": {
+   "name": "Mary Woodman",
+   "role": "School district clerk and recording secretary"
+  },
+  "10": {
+   "name": "Michael Petrin",
+   "role": "Claremont School Board member; SAU 6 Board Chair"
+  },
+  "11": {
+   "name": "Mary Woodman",
+   "role": "School district clerk and recording secretary"
+  },
+  "12": {
+   "name": "Frank Sprague",
+   "role": "Claremont School Board Chair"
+  },
+  "14": {
+   "name": "Frank Sprague",
+   "role": "Claremont School Board Chair"
+  },
+  "15": {
+   "name": "Frank Sprague",
+   "role": "Claremont School Board Chair"
+  },
+  "17": {
+   "name": "Frank Sprague",
+   "role": "Claremont School Board Chair"
+  },
+  "18": {
+   "name": "Mary Woodman",
+   "role": "School district clerk and recording secretary"
+  },
+  "19": {
+   "name": "Frank Sprague",
+   "role": "Claremont School Board Chair"
+  },
+  "20": {
+   "name": "Mary Woodman",
+   "role": "School district clerk and recording secretary"
+  },
+  "22": {
+   "name": "Frank Sprague",
+   "role": "Claremont School Board Chair"
+  },
+  "23": {
+   "name": "Mary Woodman",
+   "role": "School district clerk and recording secretary"
+  },
+  "24": {
+   "name": "Frank Sprague",
+   "role": "Claremont School Board Chair"
+  },
+  "26": {
+   "name": "Frank Sprague",
+   "role": "Claremont School Board Chair"
+  },
+  "32": {
+   "name": "Frank Sprague",
+   "role": "Claremont School Board Chair"
+  },
+  "35": {
+   "name": "Frank Sprague",
+   "role": "Claremont School Board Chair"
+  },
+  "36": {
+   "name": "Unidentified",
+   "role": "Unidentified - voice vote 'aye'"
+  },
+  "37": {
+   "name": "Frank Sprague",
+   "role": "Claremont School Board Chair"
+  },
+  "53": {
+   "name": "Jason Benware",
+   "role": "Public commenter, Ward 1; former Claremont School Board member (ASR 'Jason. Ben. Where?')"
+  },
+  "54": {
+   "name": "Frank Sprague",
+   "role": "Claremont School Board Chair"
+  },
+  "55": {
+   "name": "Jason Benware",
+   "role": "Public commenter, Ward 1; former Claremont School Board member (ASR 'Jason. Ben. Where?')"
+  },
+  "56": {
+   "name": "Frank Sprague",
+   "role": "Claremont School Board Chair"
+  },
+  "59": {
+   "name": "Frank Sprague",
+   "role": "Claremont School Board Chair"
+  },
+  "62": {
+   "name": "Frank Sprague",
+   "role": "Claremont School Board Chair"
+  },
+  "63": {
+   "name": "Frank Sprague",
+   "role": "Claremont School Board Chair"
+  },
+  "64": {
+   "name": "Michael Tempesta",
+   "role": "Superintendent, SAU 6"
+  },
+  "149": {
+   "name": "Unidentified",
+   "role": "Unidentified - brief remark"
+  },
+  "207": {
+   "name": "Dr. Janeiro",
+   "role": "Curriculum administrator, SAU 6 (ASR 'doctor Gennaro'; surname spelling and first name unverified)"
+  },
+  "208": {
+   "name": "Dr. Janeiro",
+   "role": "Curriculum administrator, SAU 6 (ASR 'doctor Gennaro'; surname spelling and first name unverified)"
+  },
+  "210": {
+   "name": "Heather Whitney",
+   "role": "Claremont School Board member"
+  },
+  "254": {
+   "name": "Heather Whitney",
+   "role": "Claremont School Board member"
+  },
+  "257": {
+   "name": "Heather Whitney",
+   "role": "Claremont School Board member"
+  },
+  "260": {
+   "name": "Heather Whitney",
+   "role": "Claremont School Board member"
+  },
+  "313": {
+   "name": "Frank Sprague",
+   "role": "Claremont School Board Chair"
+  },
+  "331": {
+   "name": "Unidentified",
+   "role": "Unidentified - administrator giving tech-center enrollment (about 100 students a day)"
+  },
+  "358": {
+   "name": "Heather Whitney",
+   "role": "Claremont School Board member"
+  },
+  "390": {
+   "name": "Richard Seaman",
+   "role": "Assistant Superintendent for Finance, SAU 6"
+  },
+  "391": {
+   "name": "Richard Seaman",
+   "role": "Assistant Superintendent for Finance, SAU 6"
+  },
+  "413": {
+   "name": "Frank Sprague",
+   "role": "Claremont School Board Chair (uncertain - 'I'll second' diarized with Lovett, but the chair then records 'Frank seconds')"
+  },
+  "424": {
+   "name": "Richard Seaman",
+   "role": "Assistant Superintendent for Finance, SAU 6"
+  },
+  "425": {
+   "name": "Richard Seaman",
+   "role": "Assistant Superintendent for Finance, SAU 6"
+  },
+  "426": {
+   "name": "Richard Seaman",
+   "role": "Assistant Superintendent for Finance, SAU 6"
+  },
+  "427": {
+   "name": "Richard Seaman",
+   "role": "Assistant Superintendent for Finance, SAU 6"
+  },
+  "428": {
+   "name": "Richard Seaman",
+   "role": "Assistant Superintendent for Finance, SAU 6"
+  },
+  "429": {
+   "name": "Richard Seaman",
+   "role": "Assistant Superintendent for Finance, SAU 6"
+  },
+  "430": {
+   "name": "Richard Seaman",
+   "role": "Assistant Superintendent for Finance, SAU 6"
+  },
+  "431": {
+   "name": "Richard Seaman",
+   "role": "Assistant Superintendent for Finance, SAU 6"
+  },
+  "432": {
+   "name": "Richard Seaman",
+   "role": "Assistant Superintendent for Finance, SAU 6"
+  },
+  "433": {
+   "name": "Richard Seaman",
+   "role": "Assistant Superintendent for Finance, SAU 6"
+  },
+  "434": {
+   "name": "Richard Seaman",
+   "role": "Assistant Superintendent for Finance, SAU 6"
+  },
+  "435": {
+   "name": "Richard Seaman",
+   "role": "Assistant Superintendent for Finance, SAU 6"
+  },
+  "436": {
+   "name": "Richard Seaman",
+   "role": "Assistant Superintendent for Finance, SAU 6"
+  },
+  "437": {
+   "name": "Richard Seaman",
+   "role": "Assistant Superintendent for Finance, SAU 6"
+  },
+  "438": {
+   "name": "Richard Seaman",
+   "role": "Assistant Superintendent for Finance, SAU 6"
+  },
+  "440": {
+   "name": "Richard Seaman",
+   "role": "Assistant Superintendent for Finance, SAU 6"
+  },
+  "442": {
+   "name": "Richard Seaman",
+   "role": "Assistant Superintendent for Finance, SAU 6"
+  },
+  "444": {
+   "name": "Richard Seaman",
+   "role": "Assistant Superintendent for Finance, SAU 6"
+  },
+  "449": {
+   "name": "Frank Sprague",
+   "role": "Claremont School Board Chair"
+  },
+  "450": {
+   "name": "Frank Sprague",
+   "role": "Claremont School Board Chair"
+  },
+  "451": {
+   "name": "Frank Sprague",
+   "role": "Claremont School Board Chair"
+  },
+  "454": {
+   "name": "Frank Sprague",
+   "role": "Claremont School Board Chair"
+  },
+  "457": {
+   "name": "Frank Sprague",
+   "role": "Claremont School Board Chair"
+  },
+  "459": {
+   "name": "Frank Sprague",
+   "role": "Claremont School Board Chair"
+  },
+  "461": {
+   "name": "Frank Sprague",
+   "role": "Claremont School Board Chair"
+  },
+  "465": {
+   "name": "Frank Sprague",
+   "role": "Claremont School Board Chair"
+  },
+  "516": {
+   "name": "Frank Sprague",
+   "role": "Claremont School Board Chair"
+  },
+  "518": {
+   "name": "Frank Sprague",
+   "role": "Claremont School Board Chair"
+  },
+  "520": {
+   "name": "Frank Sprague",
+   "role": "Claremont School Board Chair"
+  },
+  "530": {
+   "name": "Frank Sprague",
+   "role": "Claremont School Board Chair"
+  },
+  "532": {
+   "name": "Frank Sprague",
+   "role": "Claremont School Board Chair"
+  },
+  "536": {
+   "name": "Frank Sprague",
+   "role": "Claremont School Board Chair"
+  },
+  "555": {
+   "name": "Unidentified",
+   "role": "Unidentified - brief remark"
+  },
+  "563": {
+   "name": "Richard Seaman",
+   "role": "Assistant Superintendent for Finance, SAU 6"
+  },
+  "565": {
+   "name": "Richard Seaman",
+   "role": "Assistant Superintendent for Finance, SAU 6"
+  },
+  "571": {
+   "name": "Frank Sprague",
+   "role": "Claremont School Board Chair"
+  },
+  "582": {
+   "name": "Frank Sprague",
+   "role": "Claremont School Board Chair"
+  },
+  "583": {
+   "name": "Frank Sprague",
+   "role": "Claremont School Board Chair"
+  },
+  "604": {
+   "name": "Richard Seaman",
+   "role": "Assistant Superintendent for Finance, SAU 6"
+  },
+  "606": {
+   "name": "Frank Sprague",
+   "role": "Claremont School Board Chair"
+  },
+  "608": {
+   "name": "Frank Sprague",
+   "role": "Claremont School Board Chair"
+  }
+ }
+}

@@ -1,0 +1,980 @@
+{
+ "Speaker 1": {
+  "name": "Unidentified",
+  "role": "Unidentified - cluster mixes the chair, Peter Wright, Michael Petrin, student Jesse, Josh Malloy and others; identifiable segments reassigned in overrides"
+ },
+ "Speaker 2": {
+  "name": "Unidentified",
+  "role": "Unidentified - short remarks, mixed voices; roll-call and principal fragments reassigned in overrides"
+ },
+ "Speaker 3": {
+  "name": "Prescott Herzog",
+  "role": "Student representative, Stevens High School (self-identified 'Prescott Herzog, ward two' [24])"
+ },
+ "Speaker 4": {
+  "name": "Frank Sprague",
+  "role": "Claremont School Board Chair (presiding; addressed as 'chairman of the board, Mr. Sprague' [25] and 'Frank' [385],[458]); cluster also carries the superintendent's report and nominations, see overrides"
+ },
+ "Speaker 5": {
+  "name": "Frank Sprague",
+  "role": "Claremont School Board Chair (presiding; addressed as 'chairman of the board, Mr. Sprague' [25] and 'Frank' [385],[458])"
+ },
+ "Speaker 6": {
+  "name": "Rebecca Zullo",
+  "role": "Claremont School Board Vice Chair (chair: 'Rebecca. Seconded' [1019] for the second in [1018]); cluster also carries some LeClair and Towle turns, see overrides (medium confidence)"
+ },
+ "Speaker 7": {
+  "name": "Susan Mason",
+  "role": "Public commenter, Claremont resident (self-identified [29])"
+ },
+ "Speaker 8": {
+  "name": "Cory LeClair",
+  "role": "Assistant Superintendent, SAU 6 (named 'Corey' by Horsky [115], [802] and by Petrin [737]); Laura Byrne's remarks in this cluster are reassigned"
+ },
+ "Speaker 9": {
+  "name": "Unidentified",
+  "role": "Unidentified board member ('I wasn't going to answer any if it was before I was on the board' [75]; possibly Rebecca Zullo or Michael Petrin - uncertain)"
+ },
+ "Speaker 10": {
+  "name": "Michael O'Neill",
+  "role": "Business Administrator, SAU 6 (LeClair: 'Mike can answer' [55]; explains audit backlog and fund balance [94]-[139]; surname per roster)"
+ },
+ "Speaker 11": {
+  "name": "Michelle Pierce",
+  "role": "Claremont School Board member (roll-call 'Michelle Pierce. Yes' [409]; chair 'Michelle' [394],[636]; 'Shelly' [747])"
+ },
+ "Speaker 12": {
+  "name": "Steven Horsky",
+  "role": "Claremont School Board member (recognized as 'Steve'/'Stephen' [149],[161],[234],[452])"
+ },
+ "Speaker 13": {
+  "name": "Jason Benware",
+  "role": "Claremont School Board member (recognized as 'Jason' [145],[484]); cluster also carries Chief Chase, Michael Petrin and student Jesse, see overrides"
+ },
+ "Speaker 14": {
+  "name": "Peter Wright",
+  "role": "President and CEO, Valley Regional Healthcare (self-identified [210], ASR 'Pete, right')"
+ },
+ "Speaker 15": {
+  "name": "Ashley Greenfield",
+  "role": "Greater Sullivan County Public Health Network (self-identified [226])"
+ },
+ "Speaker 16": {
+  "name": "Carolyn Towle",
+  "role": "Claremont School Board member (recognized as 'Carolyn' [68],[118],[330]; 'Miss Toll' [608])"
+ },
+ "Speaker 17": {
+  "name": "Cory LeClair",
+  "role": "Assistant Superintendent, SAU 6 (named 'Corey' by Horsky [115], [802] and by Petrin [737]) (presents opioid suit, donation and warning-cost items [705]-[919])"
+ },
+ "Speaker 18": {
+  "name": "Melissa Lewis",
+  "role": "Principal, Disnard Elementary School (chair 'Melissa' [387]; ASR 'Mr. Lewis' [385]; surname per roster)"
+ },
+ "Speaker 19": {
+  "name": "Frank Sprague",
+  "role": "Claremont School Board Chair (presiding; addressed as 'chairman of the board, Mr. Sprague' [25] and 'Frank' [385],[458]); runs the opioid-suit vote [747]-[783]; cluster also carries some superintendent remarks, see overrides (medium confidence)"
+ },
+ "Speaker 20": {
+  "name": "Patricia Barry",
+  "role": "Principal, Stevens High School ('since I've been at Stevens as a principal' [588]; chair 'Thank you. Pat.' [691]; surname per roster)"
+ },
+ "Speaker 21": {
+  "name": "Mary Woodman",
+  "role": "School district clerk / recording secretary (chair: 'Mrs. Woodman, I'd like to do a roll call' [400]; 'Mary' [803]) ('Tell us what you got, Miss Mary' [666] -> [668])"
+ },
+ "Speaker 22": {
+  "name": "Unidentified",
+  "role": "Unidentified board member (question on legal warning requirements)"
+ },
+ "__overrides__": {
+  "0": {
+   "name": "Jesse",
+   "role": "Student representative to the board, Stevens High School (first name only; chair 'Welcome aboard, Jesse and Preston' [14], 'Just Jesse' [594])"
+  },
+  "1": {
+   "name": "Jesse",
+   "role": "Student representative to the board, Stevens High School (first name only; chair 'Welcome aboard, Jesse and Preston' [14], 'Just Jesse' [594])"
+  },
+  "2": {
+   "name": "Jesse",
+   "role": "Student representative to the board, Stevens High School (first name only; chair 'Welcome aboard, Jesse and Preston' [14], 'Just Jesse' [594])"
+  },
+  "4": {
+   "name": "Jesse",
+   "role": "Student representative to the board, Stevens High School (first name only; chair 'Welcome aboard, Jesse and Preston' [14], 'Just Jesse' [594])"
+  },
+  "6": {
+   "name": "Jesse",
+   "role": "Student representative to the board, Stevens High School (first name only; chair 'Welcome aboard, Jesse and Preston' [14], 'Just Jesse' [594])"
+  },
+  "7": {
+   "name": "Jesse",
+   "role": "Student representative to the board, Stevens High School (first name only; chair 'Welcome aboard, Jesse and Preston' [14], 'Just Jesse' [594])"
+  },
+  "8": {
+   "name": "Jesse",
+   "role": "Student representative to the board, Stevens High School (first name only; chair 'Welcome aboard, Jesse and Preston' [14], 'Just Jesse' [594])"
+  },
+  "9": {
+   "name": "Jesse",
+   "role": "Student representative to the board, Stevens High School (first name only; chair 'Welcome aboard, Jesse and Preston' [14], 'Just Jesse' [594])"
+  },
+  "10": {
+   "name": "Jesse",
+   "role": "Student representative to the board, Stevens High School (first name only; chair 'Welcome aboard, Jesse and Preston' [14], 'Just Jesse' [594])"
+  },
+  "13": {
+   "name": "Jesse",
+   "role": "Student representative to the board, Stevens High School (first name only; chair 'Welcome aboard, Jesse and Preston' [14], 'Just Jesse' [594])"
+  },
+  "595": {
+   "name": "Jesse",
+   "role": "Student representative to the board, Stevens High School (first name only; chair 'Welcome aboard, Jesse and Preston' [14], 'Just Jesse' [594])"
+  },
+  "638": {
+   "name": "Jesse",
+   "role": "Student representative to the board, Stevens High School (first name only; chair 'Welcome aboard, Jesse and Preston' [14], 'Just Jesse' [594])"
+  },
+  "639": {
+   "name": "Jesse",
+   "role": "Student representative to the board, Stevens High School (first name only; chair 'Welcome aboard, Jesse and Preston' [14], 'Just Jesse' [594])"
+  },
+  "640": {
+   "name": "Jesse",
+   "role": "Student representative to the board, Stevens High School (first name only; chair 'Welcome aboard, Jesse and Preston' [14], 'Just Jesse' [594])"
+  },
+  "641": {
+   "name": "Jesse",
+   "role": "Student representative to the board, Stevens High School (first name only; chair 'Welcome aboard, Jesse and Preston' [14], 'Just Jesse' [594])"
+  },
+  "642": {
+   "name": "Jesse",
+   "role": "Student representative to the board, Stevens High School (first name only; chair 'Welcome aboard, Jesse and Preston' [14], 'Just Jesse' [594])"
+  },
+  "643": {
+   "name": "Jesse",
+   "role": "Student representative to the board, Stevens High School (first name only; chair 'Welcome aboard, Jesse and Preston' [14], 'Just Jesse' [594])"
+  },
+  "644": {
+   "name": "Jesse",
+   "role": "Student representative to the board, Stevens High School (first name only; chair 'Welcome aboard, Jesse and Preston' [14], 'Just Jesse' [594])"
+  },
+  "46": {
+   "name": "Michael Petrin",
+   "role": "Claremont School Board member (chair: 'I don't think Mike has either' [297], then Towle 'Mike covered it' [331] and Zullo 'like Mike said' [346]; Horsky 'sitting there with Mike' [726]) (turn diarized into another cluster)"
+  },
+  "47": {
+   "name": "Michael Petrin",
+   "role": "Claremont School Board member (chair: 'I don't think Mike has either' [297], then Towle 'Mike covered it' [331] and Zullo 'like Mike said' [346]; Horsky 'sitting there with Mike' [726]) (turn diarized into another cluster)"
+  },
+  "48": {
+   "name": "Michael Petrin",
+   "role": "Claremont School Board member (chair: 'I don't think Mike has either' [297], then Towle 'Mike covered it' [331] and Zullo 'like Mike said' [346]; Horsky 'sitting there with Mike' [726]) (turn diarized into another cluster)"
+  },
+  "49": {
+   "name": "Michael Petrin",
+   "role": "Claremont School Board member (chair: 'I don't think Mike has either' [297], then Towle 'Mike covered it' [331] and Zullo 'like Mike said' [346]; Horsky 'sitting there with Mike' [726]) (turn diarized into another cluster)"
+  },
+  "721": {
+   "name": "Michael Petrin",
+   "role": "Claremont School Board member (chair: 'I don't think Mike has either' [297], then Towle 'Mike covered it' [331] and Zullo 'like Mike said' [346]; Horsky 'sitting there with Mike' [726]) (turn diarized into another cluster)"
+  },
+  "723": {
+   "name": "Michael Petrin",
+   "role": "Claremont School Board member (chair: 'I don't think Mike has either' [297], then Towle 'Mike covered it' [331] and Zullo 'like Mike said' [346]; Horsky 'sitting there with Mike' [726]) (turn diarized into another cluster)"
+  },
+  "725": {
+   "name": "Michael Petrin",
+   "role": "Claremont School Board member (chair: 'I don't think Mike has either' [297], then Towle 'Mike covered it' [331] and Zullo 'like Mike said' [346]; Horsky 'sitting there with Mike' [726]) (turn diarized into another cluster)"
+  },
+  "299": {
+   "name": "Michael Petrin",
+   "role": "Claremont School Board member (chair: 'I don't think Mike has either' [297], then Towle 'Mike covered it' [331] and Zullo 'like Mike said' [346]; Horsky 'sitting there with Mike' [726]) (turn diarized into another cluster)"
+  },
+  "300": {
+   "name": "Michael Petrin",
+   "role": "Claremont School Board member (chair: 'I don't think Mike has either' [297], then Towle 'Mike covered it' [331] and Zullo 'like Mike said' [346]; Horsky 'sitting there with Mike' [726]) (turn diarized into another cluster)"
+  },
+  "301": {
+   "name": "Michael Petrin",
+   "role": "Claremont School Board member (chair: 'I don't think Mike has either' [297], then Towle 'Mike covered it' [331] and Zullo 'like Mike said' [346]; Horsky 'sitting there with Mike' [726]) (turn diarized into another cluster)"
+  },
+  "302": {
+   "name": "Michael Petrin",
+   "role": "Claremont School Board member (chair: 'I don't think Mike has either' [297], then Towle 'Mike covered it' [331] and Zullo 'like Mike said' [346]; Horsky 'sitting there with Mike' [726]) (turn diarized into another cluster)"
+  },
+  "303": {
+   "name": "Michael Petrin",
+   "role": "Claremont School Board member (chair: 'I don't think Mike has either' [297], then Towle 'Mike covered it' [331] and Zullo 'like Mike said' [346]; Horsky 'sitting there with Mike' [726]) (turn diarized into another cluster)"
+  },
+  "304": {
+   "name": "Michael Petrin",
+   "role": "Claremont School Board member (chair: 'I don't think Mike has either' [297], then Towle 'Mike covered it' [331] and Zullo 'like Mike said' [346]; Horsky 'sitting there with Mike' [726]) (turn diarized into another cluster)"
+  },
+  "305": {
+   "name": "Michael Petrin",
+   "role": "Claremont School Board member (chair: 'I don't think Mike has either' [297], then Towle 'Mike covered it' [331] and Zullo 'like Mike said' [346]; Horsky 'sitting there with Mike' [726]) (turn diarized into another cluster)"
+  },
+  "306": {
+   "name": "Michael Petrin",
+   "role": "Claremont School Board member (chair: 'I don't think Mike has either' [297], then Towle 'Mike covered it' [331] and Zullo 'like Mike said' [346]; Horsky 'sitting there with Mike' [726]) (turn diarized into another cluster)"
+  },
+  "307": {
+   "name": "Michael Petrin",
+   "role": "Claremont School Board member (chair: 'I don't think Mike has either' [297], then Towle 'Mike covered it' [331] and Zullo 'like Mike said' [346]; Horsky 'sitting there with Mike' [726]) (turn diarized into another cluster)"
+  },
+  "308": {
+   "name": "Michael Petrin",
+   "role": "Claremont School Board member (chair: 'I don't think Mike has either' [297], then Towle 'Mike covered it' [331] and Zullo 'like Mike said' [346]; Horsky 'sitting there with Mike' [726]) (turn diarized into another cluster)"
+  },
+  "309": {
+   "name": "Michael Petrin",
+   "role": "Claremont School Board member (chair: 'I don't think Mike has either' [297], then Towle 'Mike covered it' [331] and Zullo 'like Mike said' [346]; Horsky 'sitting there with Mike' [726]) (turn diarized into another cluster)"
+  },
+  "310": {
+   "name": "Michael Petrin",
+   "role": "Claremont School Board member (chair: 'I don't think Mike has either' [297], then Towle 'Mike covered it' [331] and Zullo 'like Mike said' [346]; Horsky 'sitting there with Mike' [726]) (turn diarized into another cluster)"
+  },
+  "311": {
+   "name": "Michael Petrin",
+   "role": "Claremont School Board member (chair: 'I don't think Mike has either' [297], then Towle 'Mike covered it' [331] and Zullo 'like Mike said' [346]; Horsky 'sitting there with Mike' [726]) (turn diarized into another cluster)"
+  },
+  "313": {
+   "name": "Michael Petrin",
+   "role": "Claremont School Board member (chair: 'I don't think Mike has either' [297], then Towle 'Mike covered it' [331] and Zullo 'like Mike said' [346]; Horsky 'sitting there with Mike' [726]) (turn diarized into another cluster)"
+  },
+  "314": {
+   "name": "Michael Petrin",
+   "role": "Claremont School Board member (chair: 'I don't think Mike has either' [297], then Towle 'Mike covered it' [331] and Zullo 'like Mike said' [346]; Horsky 'sitting there with Mike' [726]) (turn diarized into another cluster)"
+  },
+  "315": {
+   "name": "Michael Petrin",
+   "role": "Claremont School Board member (chair: 'I don't think Mike has either' [297], then Towle 'Mike covered it' [331] and Zullo 'like Mike said' [346]; Horsky 'sitting there with Mike' [726]) (turn diarized into another cluster)"
+  },
+  "322": {
+   "name": "Michael Petrin",
+   "role": "Claremont School Board member (chair: 'I don't think Mike has either' [297], then Towle 'Mike covered it' [331] and Zullo 'like Mike said' [346]; Horsky 'sitting there with Mike' [726]) (turn diarized into another cluster)"
+  },
+  "323": {
+   "name": "Michael Petrin",
+   "role": "Claremont School Board member (chair: 'I don't think Mike has either' [297], then Towle 'Mike covered it' [331] and Zullo 'like Mike said' [346]; Horsky 'sitting there with Mike' [726]) (turn diarized into another cluster)"
+  },
+  "324": {
+   "name": "Michael Petrin",
+   "role": "Claremont School Board member (chair: 'I don't think Mike has either' [297], then Towle 'Mike covered it' [331] and Zullo 'like Mike said' [346]; Horsky 'sitting there with Mike' [726]) (turn diarized into another cluster)"
+  },
+  "325": {
+   "name": "Michael Petrin",
+   "role": "Claremont School Board member (chair: 'I don't think Mike has either' [297], then Towle 'Mike covered it' [331] and Zullo 'like Mike said' [346]; Horsky 'sitting there with Mike' [726]) (turn diarized into another cluster)"
+  },
+  "326": {
+   "name": "Michael Petrin",
+   "role": "Claremont School Board member (chair: 'I don't think Mike has either' [297], then Towle 'Mike covered it' [331] and Zullo 'like Mike said' [346]; Horsky 'sitting there with Mike' [726]) (turn diarized into another cluster)"
+  },
+  "140": {
+   "name": "Frank Sprague",
+   "role": "Claremont School Board Chair (presiding; addressed as 'chairman of the board, Mr. Sprague' [25] and 'Frank' [385],[458]) (chair turn diarized into a mixed cluster)"
+  },
+  "143": {
+   "name": "Frank Sprague",
+   "role": "Claremont School Board Chair (presiding; addressed as 'chairman of the board, Mr. Sprague' [25] and 'Frank' [385],[458]) (chair turn diarized into a mixed cluster)"
+  },
+  "144": {
+   "name": "Frank Sprague",
+   "role": "Claremont School Board Chair (presiding; addressed as 'chairman of the board, Mr. Sprague' [25] and 'Frank' [385],[458]) (chair turn diarized into a mixed cluster)"
+  },
+  "145": {
+   "name": "Frank Sprague",
+   "role": "Claremont School Board Chair (presiding; addressed as 'chairman of the board, Mr. Sprague' [25] and 'Frank' [385],[458]) (chair turn diarized into a mixed cluster)"
+  },
+  "149": {
+   "name": "Frank Sprague",
+   "role": "Claremont School Board Chair (presiding; addressed as 'chairman of the board, Mr. Sprague' [25] and 'Frank' [385],[458]) (chair turn diarized into a mixed cluster)"
+  },
+  "161": {
+   "name": "Frank Sprague",
+   "role": "Claremont School Board Chair (presiding; addressed as 'chairman of the board, Mr. Sprague' [25] and 'Frank' [385],[458]) (chair turn diarized into a mixed cluster)"
+  },
+  "165": {
+   "name": "Frank Sprague",
+   "role": "Claremont School Board Chair (presiding; addressed as 'chairman of the board, Mr. Sprague' [25] and 'Frank' [385],[458]) (chair turn diarized into a mixed cluster)"
+  },
+  "167": {
+   "name": "Frank Sprague",
+   "role": "Claremont School Board Chair (presiding; addressed as 'chairman of the board, Mr. Sprague' [25] and 'Frank' [385],[458]) (chair turn diarized into a mixed cluster)"
+  },
+  "169": {
+   "name": "Frank Sprague",
+   "role": "Claremont School Board Chair (presiding; addressed as 'chairman of the board, Mr. Sprague' [25] and 'Frank' [385],[458]) (chair turn diarized into a mixed cluster)"
+  },
+  "171": {
+   "name": "Frank Sprague",
+   "role": "Claremont School Board Chair (presiding; addressed as 'chairman of the board, Mr. Sprague' [25] and 'Frank' [385],[458]) (chair turn diarized into a mixed cluster)"
+  },
+  "172": {
+   "name": "Frank Sprague",
+   "role": "Claremont School Board Chair (presiding; addressed as 'chairman of the board, Mr. Sprague' [25] and 'Frank' [385],[458]) (chair turn diarized into a mixed cluster)"
+  },
+  "174": {
+   "name": "Frank Sprague",
+   "role": "Claremont School Board Chair (presiding; addressed as 'chairman of the board, Mr. Sprague' [25] and 'Frank' [385],[458]) (chair turn diarized into a mixed cluster)"
+  },
+  "176": {
+   "name": "Frank Sprague",
+   "role": "Claremont School Board Chair (presiding; addressed as 'chairman of the board, Mr. Sprague' [25] and 'Frank' [385],[458]) (chair turn diarized into a mixed cluster)"
+  },
+  "178": {
+   "name": "Frank Sprague",
+   "role": "Claremont School Board Chair (presiding; addressed as 'chairman of the board, Mr. Sprague' [25] and 'Frank' [385],[458]) (chair turn diarized into a mixed cluster)"
+  },
+  "180": {
+   "name": "Frank Sprague",
+   "role": "Claremont School Board Chair (presiding; addressed as 'chairman of the board, Mr. Sprague' [25] and 'Frank' [385],[458]) (chair turn diarized into a mixed cluster)"
+  },
+  "187": {
+   "name": "Frank Sprague",
+   "role": "Claremont School Board Chair (presiding; addressed as 'chairman of the board, Mr. Sprague' [25] and 'Frank' [385],[458]) (chair turn diarized into a mixed cluster)"
+  },
+  "189": {
+   "name": "Frank Sprague",
+   "role": "Claremont School Board Chair (presiding; addressed as 'chairman of the board, Mr. Sprague' [25] and 'Frank' [385],[458]) (chair turn diarized into a mixed cluster)"
+  },
+  "191": {
+   "name": "Frank Sprague",
+   "role": "Claremont School Board Chair (presiding; addressed as 'chairman of the board, Mr. Sprague' [25] and 'Frank' [385],[458]) (chair turn diarized into a mixed cluster)"
+  },
+  "202": {
+   "name": "Frank Sprague",
+   "role": "Claremont School Board Chair (presiding; addressed as 'chairman of the board, Mr. Sprague' [25] and 'Frank' [385],[458]) (chair turn diarized into a mixed cluster)"
+  },
+  "204": {
+   "name": "Frank Sprague",
+   "role": "Claremont School Board Chair (presiding; addressed as 'chairman of the board, Mr. Sprague' [25] and 'Frank' [385],[458]) (chair turn diarized into a mixed cluster)"
+  },
+  "205": {
+   "name": "Frank Sprague",
+   "role": "Claremont School Board Chair (presiding; addressed as 'chairman of the board, Mr. Sprague' [25] and 'Frank' [385],[458]) (chair turn diarized into a mixed cluster)"
+  },
+  "207": {
+   "name": "Frank Sprague",
+   "role": "Claremont School Board Chair (presiding; addressed as 'chairman of the board, Mr. Sprague' [25] and 'Frank' [385],[458]) (chair turn diarized into a mixed cluster)"
+  },
+  "234": {
+   "name": "Frank Sprague",
+   "role": "Claremont School Board Chair (presiding; addressed as 'chairman of the board, Mr. Sprague' [25] and 'Frank' [385],[458]) (chair turn diarized into a mixed cluster)"
+  },
+  "276": {
+   "name": "Frank Sprague",
+   "role": "Claremont School Board Chair (presiding; addressed as 'chairman of the board, Mr. Sprague' [25] and 'Frank' [385],[458]) (chair turn diarized into a mixed cluster)"
+  },
+  "278": {
+   "name": "Frank Sprague",
+   "role": "Claremont School Board Chair (presiding; addressed as 'chairman of the board, Mr. Sprague' [25] and 'Frank' [385],[458]) (chair turn diarized into a mixed cluster)"
+  },
+  "280": {
+   "name": "Frank Sprague",
+   "role": "Claremont School Board Chair (presiding; addressed as 'chairman of the board, Mr. Sprague' [25] and 'Frank' [385],[458]) (chair turn diarized into a mixed cluster)"
+  },
+  "282": {
+   "name": "Frank Sprague",
+   "role": "Claremont School Board Chair (presiding; addressed as 'chairman of the board, Mr. Sprague' [25] and 'Frank' [385],[458]) (chair turn diarized into a mixed cluster)"
+  },
+  "284": {
+   "name": "Frank Sprague",
+   "role": "Claremont School Board Chair (presiding; addressed as 'chairman of the board, Mr. Sprague' [25] and 'Frank' [385],[458]) (chair turn diarized into a mixed cluster)"
+  },
+  "787": {
+   "name": "Frank Sprague",
+   "role": "Claremont School Board Chair (presiding; addressed as 'chairman of the board, Mr. Sprague' [25] and 'Frank' [385],[458]) (chair turn diarized into a mixed cluster)"
+  },
+  "789": {
+   "name": "Frank Sprague",
+   "role": "Claremont School Board Chair (presiding; addressed as 'chairman of the board, Mr. Sprague' [25] and 'Frank' [385],[458]) (chair turn diarized into a mixed cluster)"
+  },
+  "791": {
+   "name": "Frank Sprague",
+   "role": "Claremont School Board Chair (presiding; addressed as 'chairman of the board, Mr. Sprague' [25] and 'Frank' [385],[458]) (chair turn diarized into a mixed cluster)"
+  },
+  "803": {
+   "name": "Frank Sprague",
+   "role": "Claremont School Board Chair (presiding; addressed as 'chairman of the board, Mr. Sprague' [25] and 'Frank' [385],[458]) (chair turn diarized into a mixed cluster)"
+  },
+  "814": {
+   "name": "Frank Sprague",
+   "role": "Claremont School Board Chair (presiding; addressed as 'chairman of the board, Mr. Sprague' [25] and 'Frank' [385],[458]) (chair turn diarized into a mixed cluster)"
+  },
+  "819": {
+   "name": "Frank Sprague",
+   "role": "Claremont School Board Chair (presiding; addressed as 'chairman of the board, Mr. Sprague' [25] and 'Frank' [385],[458]) (chair turn diarized into a mixed cluster)"
+  },
+  "825": {
+   "name": "Frank Sprague",
+   "role": "Claremont School Board Chair (presiding; addressed as 'chairman of the board, Mr. Sprague' [25] and 'Frank' [385],[458]) (chair turn diarized into a mixed cluster)"
+  },
+  "883": {
+   "name": "Frank Sprague",
+   "role": "Claremont School Board Chair (presiding; addressed as 'chairman of the board, Mr. Sprague' [25] and 'Frank' [385],[458]) (chair turn diarized into a mixed cluster)"
+  },
+  "886": {
+   "name": "Frank Sprague",
+   "role": "Claremont School Board Chair (presiding; addressed as 'chairman of the board, Mr. Sprague' [25] and 'Frank' [385],[458]) (chair turn diarized into a mixed cluster)"
+  },
+  "986": {
+   "name": "Frank Sprague",
+   "role": "Claremont School Board Chair (presiding; addressed as 'chairman of the board, Mr. Sprague' [25] and 'Frank' [385],[458]) (chair turn diarized into a mixed cluster)"
+  },
+  "1019": {
+   "name": "Frank Sprague",
+   "role": "Claremont School Board Chair (presiding; addressed as 'chairman of the board, Mr. Sprague' [25] and 'Frank' [385],[458]) (chair turn diarized into a mixed cluster)"
+  },
+  "209": {
+   "name": "Peter Wright",
+   "role": "President and CEO, Valley Regional Healthcare (self-identified [210], ASR 'Pete, right')"
+  },
+  "219": {
+   "name": "Peter Wright",
+   "role": "President and CEO, Valley Regional Healthcare (self-identified [210], ASR 'Pete, right')"
+  },
+  "221": {
+   "name": "Peter Wright",
+   "role": "President and CEO, Valley Regional Healthcare (self-identified [210], ASR 'Pete, right')"
+  },
+  "253": {
+   "name": "Peter Wright",
+   "role": "President and CEO, Valley Regional Healthcare (self-identified [210], ASR 'Pete, right')"
+  },
+  "257": {
+   "name": "Peter Wright",
+   "role": "President and CEO, Valley Regional Healthcare (self-identified [210], ASR 'Pete, right')"
+  },
+  "260": {
+   "name": "Peter Wright",
+   "role": "President and CEO, Valley Regional Healthcare (self-identified [210], ASR 'Pete, right')"
+  },
+  "261": {
+   "name": "Peter Wright",
+   "role": "President and CEO, Valley Regional Healthcare (self-identified [210], ASR 'Pete, right')"
+  },
+  "262": {
+   "name": "Peter Wright",
+   "role": "President and CEO, Valley Regional Healthcare (self-identified [210], ASR 'Pete, right')"
+  },
+  "263": {
+   "name": "Peter Wright",
+   "role": "President and CEO, Valley Regional Healthcare (self-identified [210], ASR 'Pete, right')"
+  },
+  "265": {
+   "name": "Peter Wright",
+   "role": "President and CEO, Valley Regional Healthcare (self-identified [210], ASR 'Pete, right')"
+  },
+  "273": {
+   "name": "Peter Wright",
+   "role": "President and CEO, Valley Regional Healthcare (self-identified [210], ASR 'Pete, right')"
+  },
+  "274": {
+   "name": "Peter Wright",
+   "role": "President and CEO, Valley Regional Healthcare (self-identified [210], ASR 'Pete, right')"
+  },
+  "294": {
+   "name": "Peter Wright",
+   "role": "President and CEO, Valley Regional Healthcare (self-identified [210], ASR 'Pete, right')"
+  },
+  "295": {
+   "name": "Peter Wright",
+   "role": "President and CEO, Valley Regional Healthcare (self-identified [210], ASR 'Pete, right')"
+  },
+  "296": {
+   "name": "Peter Wright",
+   "role": "President and CEO, Valley Regional Healthcare (self-identified [210], ASR 'Pete, right')"
+  },
+  "312": {
+   "name": "Peter Wright",
+   "role": "President and CEO, Valley Regional Healthcare (self-identified [210], ASR 'Pete, right')"
+  },
+  "317": {
+   "name": "Peter Wright",
+   "role": "President and CEO, Valley Regional Healthcare (self-identified [210], ASR 'Pete, right')"
+  },
+  "318": {
+   "name": "Peter Wright",
+   "role": "President and CEO, Valley Regional Healthcare (self-identified [210], ASR 'Pete, right')"
+  },
+  "319": {
+   "name": "Peter Wright",
+   "role": "President and CEO, Valley Regional Healthcare (self-identified [210], ASR 'Pete, right')"
+  },
+  "320": {
+   "name": "Peter Wright",
+   "role": "President and CEO, Valley Regional Healthcare (self-identified [210], ASR 'Pete, right')"
+  },
+  "321": {
+   "name": "Peter Wright",
+   "role": "President and CEO, Valley Regional Healthcare (self-identified [210], ASR 'Pete, right')"
+  },
+  "327": {
+   "name": "Peter Wright",
+   "role": "President and CEO, Valley Regional Healthcare (self-identified [210], ASR 'Pete, right')"
+  },
+  "328": {
+   "name": "Peter Wright",
+   "role": "President and CEO, Valley Regional Healthcare (self-identified [210], ASR 'Pete, right')"
+  },
+  "329": {
+   "name": "Peter Wright",
+   "role": "President and CEO, Valley Regional Healthcare (self-identified [210], ASR 'Pete, right')"
+  },
+  "332": {
+   "name": "Peter Wright",
+   "role": "President and CEO, Valley Regional Healthcare (self-identified [210], ASR 'Pete, right')"
+  },
+  "356": {
+   "name": "Peter Wright",
+   "role": "President and CEO, Valley Regional Healthcare (self-identified [210], ASR 'Pete, right')"
+  },
+  "357": {
+   "name": "Peter Wright",
+   "role": "President and CEO, Valley Regional Healthcare (self-identified [210], ASR 'Pete, right')"
+  },
+  "367": {
+   "name": "Peter Wright",
+   "role": "President and CEO, Valley Regional Healthcare (self-identified [210], ASR 'Pete, right')"
+  },
+  "368": {
+   "name": "Peter Wright",
+   "role": "President and CEO, Valley Regional Healthcare (self-identified [210], ASR 'Pete, right')"
+  },
+  "369": {
+   "name": "Peter Wright",
+   "role": "President and CEO, Valley Regional Healthcare (self-identified [210], ASR 'Pete, right')"
+  },
+  "370": {
+   "name": "Peter Wright",
+   "role": "President and CEO, Valley Regional Healthcare (self-identified [210], ASR 'Pete, right')"
+  },
+  "375": {
+   "name": "Peter Wright",
+   "role": "President and CEO, Valley Regional Healthcare (self-identified [210], ASR 'Pete, right')"
+  },
+  "376": {
+   "name": "Peter Wright",
+   "role": "President and CEO, Valley Regional Healthcare (self-identified [210], ASR 'Pete, right')"
+  },
+  "379": {
+   "name": "Peter Wright",
+   "role": "President and CEO, Valley Regional Healthcare (self-identified [210], ASR 'Pete, right')"
+  },
+  "380": {
+   "name": "Peter Wright",
+   "role": "President and CEO, Valley Regional Healthcare (self-identified [210], ASR 'Pete, right')"
+  },
+  "383": {
+   "name": "Peter Wright",
+   "role": "President and CEO, Valley Regional Healthcare (self-identified [210], ASR 'Pete, right')"
+  },
+  "391": {
+   "name": "Peter Wright",
+   "role": "President and CEO, Valley Regional Healthcare (self-identified [210], ASR 'Pete, right')"
+  },
+  "392": {
+   "name": "Peter Wright",
+   "role": "President and CEO, Valley Regional Healthcare (self-identified [210], ASR 'Pete, right')"
+  },
+  "422": {
+   "name": "Peter Wright",
+   "role": "President and CEO, Valley Regional Healthcare (self-identified [210], ASR 'Pete, right')"
+  },
+  "427": {
+   "name": "Peter Wright",
+   "role": "President and CEO, Valley Regional Healthcare (self-identified [210], ASR 'Pete, right')"
+  },
+  "649": {
+   "name": "Josh Malloy",
+   "role": "Director of Instructional Technology, SAU 6 (Pierce: 'Josh, through your servers' [647]; surname and title per roster)"
+  },
+  "650": {
+   "name": "Josh Malloy",
+   "role": "Director of Instructional Technology, SAU 6 (Pierce: 'Josh, through your servers' [647]; surname and title per roster)"
+  },
+  "653": {
+   "name": "Josh Malloy",
+   "role": "Director of Instructional Technology, SAU 6 (Pierce: 'Josh, through your servers' [647]; surname and title per roster)"
+  },
+  "1017": {
+   "name": "Jason Benware",
+   "role": "Claremont School Board member (recognized as 'Jason' [145],[484])"
+  },
+  "679": {
+   "name": "Jason Benware",
+   "role": "Claremont School Board member (recognized as 'Jason' [145],[484])"
+  },
+  "682": {
+   "name": "Jason Benware",
+   "role": "Claremont School Board member (recognized as 'Jason' [145],[484])"
+  },
+  "15": {
+   "name": "Keith Pfeifer",
+   "role": "Interim Superintendent, SAU 6 (thanked as 'Doctor Pfeiffer' after his report [22]) (turn diarized into the chair's cluster)"
+  },
+  "16": {
+   "name": "Keith Pfeifer",
+   "role": "Interim Superintendent, SAU 6 (thanked as 'Doctor Pfeiffer' after his report [22]) (turn diarized into the chair's cluster)"
+  },
+  "17": {
+   "name": "Keith Pfeifer",
+   "role": "Interim Superintendent, SAU 6 (thanked as 'Doctor Pfeiffer' after his report [22]) (turn diarized into the chair's cluster)"
+  },
+  "18": {
+   "name": "Keith Pfeifer",
+   "role": "Interim Superintendent, SAU 6 (thanked as 'Doctor Pfeiffer' after his report [22]) (turn diarized into the chair's cluster)"
+  },
+  "19": {
+   "name": "Keith Pfeifer",
+   "role": "Interim Superintendent, SAU 6 (thanked as 'Doctor Pfeiffer' after his report [22]) (turn diarized into the chair's cluster)"
+  },
+  "20": {
+   "name": "Keith Pfeifer",
+   "role": "Interim Superintendent, SAU 6 (thanked as 'Doctor Pfeiffer' after his report [22]) (turn diarized into the chair's cluster)"
+  },
+  "21": {
+   "name": "Keith Pfeifer",
+   "role": "Interim Superintendent, SAU 6 (thanked as 'Doctor Pfeiffer' after his report [22]) (turn diarized into the chair's cluster)"
+  },
+  "22": {
+   "name": "Keith Pfeifer",
+   "role": "Interim Superintendent, SAU 6 (thanked as 'Doctor Pfeiffer' after his report [22]) (turn diarized into the chair's cluster)"
+  },
+  "188": {
+   "name": "Keith Pfeifer",
+   "role": "Interim Superintendent, SAU 6 (thanked as 'Doctor Pfeiffer' after his report [22]) (turn diarized into the chair's cluster)"
+  },
+  "190": {
+   "name": "Keith Pfeifer",
+   "role": "Interim Superintendent, SAU 6 (thanked as 'Doctor Pfeiffer' after his report [22]) (turn diarized into the chair's cluster)"
+  },
+  "192": {
+   "name": "Keith Pfeifer",
+   "role": "Interim Superintendent, SAU 6 (thanked as 'Doctor Pfeiffer' after his report [22]) (turn diarized into the chair's cluster)"
+  },
+  "194": {
+   "name": "Keith Pfeifer",
+   "role": "Interim Superintendent, SAU 6 (thanked as 'Doctor Pfeiffer' after his report [22]) (turn diarized into the chair's cluster)"
+  },
+  "195": {
+   "name": "Keith Pfeifer",
+   "role": "Interim Superintendent, SAU 6 (thanked as 'Doctor Pfeiffer' after his report [22]) (turn diarized into the chair's cluster)"
+  },
+  "196": {
+   "name": "Keith Pfeifer",
+   "role": "Interim Superintendent, SAU 6 (thanked as 'Doctor Pfeiffer' after his report [22]) (turn diarized into the chair's cluster)"
+  },
+  "197": {
+   "name": "Keith Pfeifer",
+   "role": "Interim Superintendent, SAU 6 (thanked as 'Doctor Pfeiffer' after his report [22]) (turn diarized into the chair's cluster)"
+  },
+  "203": {
+   "name": "Keith Pfeifer",
+   "role": "Interim Superintendent, SAU 6 (thanked as 'Doctor Pfeiffer' after his report [22]) (turn diarized into the chair's cluster)"
+  },
+  "425": {
+   "name": "Keith Pfeifer",
+   "role": "Interim Superintendent, SAU 6 (thanked as 'Doctor Pfeiffer' after his report [22]) (turn diarized into the chair's cluster)"
+  },
+  "426": {
+   "name": "Keith Pfeifer",
+   "role": "Interim Superintendent, SAU 6 (thanked as 'Doctor Pfeiffer' after his report [22]) (turn diarized into the chair's cluster)"
+  },
+  "481": {
+   "name": "Keith Pfeifer",
+   "role": "Interim Superintendent, SAU 6 (thanked as 'Doctor Pfeiffer' after his report [22]) (turn diarized into the chair's cluster)"
+  },
+  "483": {
+   "name": "Keith Pfeifer",
+   "role": "Interim Superintendent, SAU 6 (thanked as 'Doctor Pfeiffer' after his report [22]) (turn diarized into the chair's cluster)"
+  },
+  "576": {
+   "name": "Keith Pfeifer",
+   "role": "Interim Superintendent, SAU 6 (thanked as 'Doctor Pfeiffer' after his report [22]) (turn diarized into the chair's cluster)"
+  },
+  "915": {
+   "name": "Keith Pfeifer",
+   "role": "Interim Superintendent, SAU 6 (thanked as 'Doctor Pfeiffer' after his report [22]) (uncertain - operational remarks on emergency plans, voice in a mixed cluster)"
+  },
+  "918": {
+   "name": "Keith Pfeifer",
+   "role": "Interim Superintendent, SAU 6 (thanked as 'Doctor Pfeiffer' after his report [22]) (uncertain - operational remarks on emergency plans, voice in a mixed cluster)"
+  },
+  "228": {
+   "name": "Laura Byrne",
+   "role": "Syringe service program, HIV/HCV research center at Dartmouth-Hitchcock (self-identified [229]; spelling as heard)"
+  },
+  "229": {
+   "name": "Laura Byrne",
+   "role": "Syringe service program, HIV/HCV research center at Dartmouth-Hitchcock (self-identified [229]; spelling as heard)"
+  },
+  "230": {
+   "name": "Laura Byrne",
+   "role": "Syringe service program, HIV/HCV research center at Dartmouth-Hitchcock (self-identified [229]; spelling as heard)"
+  },
+  "231": {
+   "name": "Laura Byrne",
+   "role": "Syringe service program, HIV/HCV research center at Dartmouth-Hitchcock (self-identified [229]; spelling as heard)"
+  },
+  "232": {
+   "name": "Laura Byrne",
+   "role": "Syringe service program, HIV/HCV research center at Dartmouth-Hitchcock (self-identified [229]; spelling as heard)"
+  },
+  "233": {
+   "name": "Laura Byrne",
+   "role": "Syringe service program, HIV/HCV research center at Dartmouth-Hitchcock (self-identified [229]; spelling as heard)"
+  },
+  "236": {
+   "name": "Laura Byrne",
+   "role": "Syringe service program, HIV/HCV research center at Dartmouth-Hitchcock (self-identified [229]; spelling as heard)"
+  },
+  "237": {
+   "name": "Laura Byrne",
+   "role": "Syringe service program, HIV/HCV research center at Dartmouth-Hitchcock (self-identified [229]; spelling as heard)"
+  },
+  "238": {
+   "name": "Laura Byrne",
+   "role": "Syringe service program, HIV/HCV research center at Dartmouth-Hitchcock (self-identified [229]; spelling as heard)"
+  },
+  "239": {
+   "name": "Laura Byrne",
+   "role": "Syringe service program, HIV/HCV research center at Dartmouth-Hitchcock (self-identified [229]; spelling as heard)"
+  },
+  "240": {
+   "name": "Laura Byrne",
+   "role": "Syringe service program, HIV/HCV research center at Dartmouth-Hitchcock (self-identified [229]; spelling as heard)"
+  },
+  "241": {
+   "name": "Laura Byrne",
+   "role": "Syringe service program, HIV/HCV research center at Dartmouth-Hitchcock (self-identified [229]; spelling as heard)"
+  },
+  "285": {
+   "name": "Marc Chase",
+   "role": "Claremont Police Chief (named by LeClair [206] and by the chair 'chief Chase' [277]; 'I'm in enforcement' [290])"
+  },
+  "286": {
+   "name": "Marc Chase",
+   "role": "Claremont Police Chief (named by LeClair [206] and by the chair 'chief Chase' [277]; 'I'm in enforcement' [290])"
+  },
+  "287": {
+   "name": "Marc Chase",
+   "role": "Claremont Police Chief (named by LeClair [206] and by the chair 'chief Chase' [277]; 'I'm in enforcement' [290])"
+  },
+  "288": {
+   "name": "Marc Chase",
+   "role": "Claremont Police Chief (named by LeClair [206] and by the chair 'chief Chase' [277]; 'I'm in enforcement' [290])"
+  },
+  "289": {
+   "name": "Marc Chase",
+   "role": "Claremont Police Chief (named by LeClair [206] and by the chair 'chief Chase' [277]; 'I'm in enforcement' [290])"
+  },
+  "290": {
+   "name": "Marc Chase",
+   "role": "Claremont Police Chief (named by LeClair [206] and by the chair 'chief Chase' [277]; 'I'm in enforcement' [290])"
+  },
+  "291": {
+   "name": "Marc Chase",
+   "role": "Claremont Police Chief (named by LeClair [206] and by the chair 'chief Chase' [277]; 'I'm in enforcement' [290])"
+  },
+  "292": {
+   "name": "Marc Chase",
+   "role": "Claremont Police Chief (named by LeClair [206] and by the chair 'chief Chase' [277]; 'I'm in enforcement' [290])"
+  },
+  "293": {
+   "name": "Marc Chase",
+   "role": "Claremont Police Chief (named by LeClair [206] and by the chair 'chief Chase' [277]; 'I'm in enforcement' [290])"
+  },
+  "393": {
+   "name": "Marc Chase",
+   "role": "Claremont Police Chief (named by LeClair [206] and by the chair 'chief Chase' [277]; 'I'm in enforcement' [290])"
+  },
+  "386": {
+   "name": "Melissa Lewis",
+   "role": "Principal, Disnard Elementary School (chair 'Melissa' [387]; ASR 'Mr. Lewis' [385]; surname per roster)"
+  },
+  "388": {
+   "name": "Melissa Lewis",
+   "role": "Principal, Disnard Elementary School (chair 'Melissa' [387]; ASR 'Mr. Lewis' [385]; surname per roster)"
+  },
+  "396": {
+   "name": "Melissa Lewis",
+   "role": "Principal, Disnard Elementary School (chair 'Melissa' [387]; ASR 'Mr. Lewis' [385]; surname per roster)"
+  },
+  "467": {
+   "name": "Susan Mason",
+   "role": "Public commenter, Claremont resident (self-identified [29])"
+  },
+  "473": {
+   "name": "Susan Mason",
+   "role": "Public commenter, Claremont resident (self-identified [29])"
+  },
+  "587": {
+   "name": "Patricia Barry",
+   "role": "Principal, Stevens High School ('since I've been at Stevens as a principal' [588]; chair 'Thank you. Pat.' [691]; surname per roster)"
+  },
+  "590": {
+   "name": "Patricia Barry",
+   "role": "Principal, Stevens High School ('since I've been at Stevens as a principal' [588]; chair 'Thank you. Pat.' [691]; surname per roster)"
+  },
+  "592": {
+   "name": "Patricia Barry",
+   "role": "Principal, Stevens High School ('since I've been at Stevens as a principal' [588]; chair 'Thank you. Pat.' [691]; surname per roster)"
+  },
+  "596": {
+   "name": "Patricia Barry",
+   "role": "Principal, Stevens High School ('since I've been at Stevens as a principal' [588]; chair 'Thank you. Pat.' [691]; surname per roster)"
+  },
+  "405": {
+   "name": "Mary Woodman",
+   "role": "School district clerk / recording secretary (chair: 'Mrs. Woodman, I'd like to do a roll call' [400]; 'Mary' [803]) (calls the roll-call vote; members' answers merged)"
+  },
+  "407": {
+   "name": "Mary Woodman",
+   "role": "School district clerk / recording secretary (chair: 'Mrs. Woodman, I'd like to do a roll call' [400]; 'Mary' [803]) (calls the roll-call vote; members' answers merged)"
+  },
+  "409": {
+   "name": "Mary Woodman",
+   "role": "School district clerk / recording secretary (chair: 'Mrs. Woodman, I'd like to do a roll call' [400]; 'Mary' [803]) (calls the roll-call vote; members' answers merged)"
+  },
+  "411": {
+   "name": "Mary Woodman",
+   "role": "School district clerk / recording secretary (chair: 'Mrs. Woodman, I'd like to do a roll call' [400]; 'Mary' [803]) (calls the roll-call vote; members' answers merged)"
+  },
+  "414": {
+   "name": "Mary Woodman",
+   "role": "School district clerk / recording secretary (chair: 'Mrs. Woodman, I'd like to do a roll call' [400]; 'Mary' [803]) (calls the roll-call vote; members' answers merged)"
+  },
+  "268": {
+   "name": "Rebecca Zullo",
+   "role": "Claremont School Board Vice Chair (chair: 'Rebecca. Seconded' [1019] for the second in [1018])"
+  },
+  "182": {
+   "name": "Rebecca Zullo",
+   "role": "Claremont School Board Vice Chair (chair: 'Rebecca. Seconded' [1019] for the second in [1018])"
+  },
+  "184": {
+   "name": "Rebecca Zullo",
+   "role": "Claremont School Board Vice Chair (chair: 'Rebecca. Seconded' [1019] for the second in [1018])"
+  },
+  "71": {
+   "name": "Carolyn Towle",
+   "role": "Claremont School Board member (recognized as 'Carolyn' [68],[118],[330]; 'Miss Toll' [608])"
+  },
+  "72": {
+   "name": "Carolyn Towle",
+   "role": "Claremont School Board member (recognized as 'Carolyn' [68],[118],[330]; 'Miss Toll' [608])"
+  },
+  "116": {
+   "name": "Carolyn Towle",
+   "role": "Claremont School Board member (recognized as 'Carolyn' [68],[118],[330]; 'Miss Toll' [608])"
+  },
+  "70": {
+   "name": "Carolyn Towle",
+   "role": "Claremont School Board member (recognized as 'Carolyn' [68],[118],[330]; 'Miss Toll' [608])"
+  },
+  "951": {
+   "name": "Cory LeClair",
+   "role": "Assistant Superintendent, SAU 6 (named 'Corey' by Horsky [115], [802] and by Petrin [737]) (staff remarks diarized into Zullo's cluster)"
+  },
+  "952": {
+   "name": "Cory LeClair",
+   "role": "Assistant Superintendent, SAU 6 (named 'Corey' by Horsky [115], [802] and by Petrin [737]) (staff remarks diarized into Zullo's cluster)"
+  },
+  "954": {
+   "name": "Cory LeClair",
+   "role": "Assistant Superintendent, SAU 6 (named 'Corey' by Horsky [115], [802] and by Petrin [737]) (staff remarks diarized into Zullo's cluster)"
+  },
+  "956": {
+   "name": "Cory LeClair",
+   "role": "Assistant Superintendent, SAU 6 (named 'Corey' by Horsky [115], [802] and by Petrin [737]) (staff remarks diarized into Zullo's cluster)"
+  },
+  "989": {
+   "name": "Cory LeClair",
+   "role": "Assistant Superintendent, SAU 6 (named 'Corey' by Horsky [115], [802] and by Petrin [737]) (staff remarks diarized into Zullo's cluster)"
+  },
+  "992": {
+   "name": "Cory LeClair",
+   "role": "Assistant Superintendent, SAU 6 (named 'Corey' by Horsky [115], [802] and by Petrin [737]) (staff remarks diarized into Zullo's cluster)"
+  },
+  "994": {
+   "name": "Cory LeClair",
+   "role": "Assistant Superintendent, SAU 6 (named 'Corey' by Horsky [115], [802] and by Petrin [737]) (staff remarks diarized into Zullo's cluster)"
+  },
+  "998": {
+   "name": "Cory LeClair",
+   "role": "Assistant Superintendent, SAU 6 (named 'Corey' by Horsky [115], [802] and by Petrin [737]) (staff remarks diarized into Zullo's cluster)"
+  },
+  "1001": {
+   "name": "Cory LeClair",
+   "role": "Assistant Superintendent, SAU 6 (named 'Corey' by Horsky [115], [802] and by Petrin [737]) (staff remarks diarized into Zullo's cluster)"
+  },
+  "1003": {
+   "name": "Cory LeClair",
+   "role": "Assistant Superintendent, SAU 6 (named 'Corey' by Horsky [115], [802] and by Petrin [737]) (staff remarks diarized into Zullo's cluster)"
+  },
+  "1007": {
+   "name": "Cory LeClair",
+   "role": "Assistant Superintendent, SAU 6 (named 'Corey' by Horsky [115], [802] and by Petrin [737]) (staff remarks diarized into Zullo's cluster)"
+  },
+  "1013": {
+   "name": "Cory LeClair",
+   "role": "Assistant Superintendent, SAU 6 (named 'Corey' by Horsky [115], [802] and by Petrin [737]) (staff remarks diarized into Zullo's cluster)"
+  },
+  "3": {
+   "name": "Unidentified",
+   "role": "Unidentified - corrects the student report's trip date"
+  },
+  "5": {
+   "name": "Unidentified",
+   "role": "Unidentified - corrects the student report's trip date"
+  },
+  "200": {
+   "name": "Unidentified",
+   "role": "Unidentified board member (question on nominees; voice in LeClair's cluster)"
+  },
+  "316": {
+   "name": "Unidentified",
+   "role": "Unidentified - segment mixes Petrin's question and Peter Wright's answer"
+  },
+  "350": {
+   "name": "Unidentified",
+   "role": "Unidentified board member asking for a hard schedule and trial period (Jason Benware or Michael Petrin - uncertain)"
+  },
+  "351": {
+   "name": "Unidentified",
+   "role": "Unidentified board member asking for a hard schedule and trial period (Jason Benware or Michael Petrin - uncertain)"
+  },
+  "352": {
+   "name": "Unidentified",
+   "role": "Unidentified board member asking for a hard schedule and trial period (Jason Benware or Michael Petrin - uncertain)"
+  },
+  "353": {
+   "name": "Unidentified",
+   "role": "Unidentified board member asking for a hard schedule and trial period (Jason Benware or Michael Petrin - uncertain)"
+  },
+  "354": {
+   "name": "Unidentified",
+   "role": "Unidentified board member asking for a hard schedule and trial period (Jason Benware or Michael Petrin - uncertain)"
+  },
+  "355": {
+   "name": "Unidentified",
+   "role": "Unidentified board member asking for a hard schedule and trial period (Jason Benware or Michael Petrin - uncertain)"
+  },
+  "670": {
+   "name": "Unidentified",
+   "role": "Unidentified - short remark, voice grouped with the public commenter"
+  },
+  "699": {
+   "name": "Unidentified",
+   "role": "Unidentified - short remark, voice grouped with the public commenter"
+  },
+  "990": {
+   "name": "Unidentified",
+   "role": "Unidentified - short remark, voice grouped with the public commenter"
+  }
+ }
+}

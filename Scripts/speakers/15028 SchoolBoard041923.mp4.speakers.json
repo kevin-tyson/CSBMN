@@ -1,0 +1,500 @@
+{
+  "Speaker 1": {
+    "name": "Steven Horsky",
+    "role": "Claremont School Board member; SAU 6 Board Chair — facilitates the opening and the nonpublic motion in the Chair's absence"
+  },
+  "Speaker 2": {
+    "name": "Heather Whitney",
+    "role": "Claremont School Board Chair — elected chair 4/5/23; arrives after the nonpublic session and presides from 3:02 on"
+  },
+  "Speaker 3": {
+    "name": "Heather Whitney",
+    "role": "Claremont School Board Chair — elected chair 4/5/23; arrives after the nonpublic session and presides from 3:02 on"
+  },
+  "Speaker 4": {
+    "name": "Frank Romeo",
+    "role": "Principal, Claremont Middle School"
+  },
+  "Speaker 5": {
+    "name": "Sarah Ferland",
+    "role": "School counselor, Claremont Middle School; Claremont resident and parent"
+  },
+  "Speaker 6": {
+    "name": "Michael Tempesta",
+    "role": "Superintendent, SAU 6 — gives the superintendent's report and carries the finance/capital-reserve discussion"
+  },
+  "Speaker 7": {
+    "name": "Sean McCarthy",
+    "role": "Ward 1 resident speaking in citizens' comments"
+  },
+  "Speaker 8": {
+    "name": "Andy",
+    "role": "Ward 3 resident — surname never stated; same first-name-only 'Andy, Ward 3' as the 4/5/23 meeting (vice chair, SRVRTC Visioning Committee)"
+  },
+  "Speaker 9": {
+    "name": "Candace Crawford",
+    "role": "Ward 2 resident speaking from the floor — former Claremont School Board member; not a board member at this date"
+  },
+  "Speaker 10": {
+    "name": "Chris Pratt",
+    "role": "Principal, Stevens High School"
+  },
+  "Speaker 11": {
+    "name": "David",
+    "role": "Seventh-grade dean, Claremont Middle School student center — surname never stated in the record"
+  },
+  "Speaker 12": {
+    "name": "Alex Hill",
+    "role": "Computer teacher, Claremont Middle School; Claremont resident"
+  },
+  "Speaker 13": {
+    "name": "Jennifer Gallagher",
+    "role": "Claremont School Board member, elected 3/14/23 to the one-year seat"
+  },
+  "Speaker 14": {
+    "name": "Bonnie Miles",
+    "role": "Claremont School Board member; incoming Capital Improvement Committee chair — cluster also carries Arlene Hawkins"
+  },
+  "Speaker 15": {
+    "name": "Whitney Skillen",
+    "role": "Claremont School Board member"
+  },
+  "Speaker 16": {
+    "name": "Stephanie",
+    "role": "Curriculum Director, SAU 6 — surname never stated in the record"
+  },
+  "Speaker 17": {
+    "name": "Heather Whitney",
+    "role": "Claremont School Board Chair — elected chair 4/5/23; arrives after the nonpublic session and presides from 3:02 on"
+  },
+  "Speaker 18": {
+    "name": "Unidentified",
+    "role": "School Board member raising an item under new business — by elimination most likely Arlene Hawkins, not established"
+  },
+  "__overrides__": {
+    "2": {
+      "name": "Unidentified",
+      "role": "Those present, reciting the Pledge of Allegiance"
+    },
+    "4": {
+      "name": "Unidentified",
+      "role": "School Board member moving the nonpublic session"
+    },
+    "5": {
+      "name": "Unidentified",
+      "role": "School Board member moving and seconding the nonpublic session"
+    },
+    "7": {
+      "name": "Unidentified",
+      "role": "School Board member asking for a roll call"
+    },
+    "9": {
+      "name": "Ben Nester",
+      "role": "Director of Special Education, SAU 6 — calls the roll; the district clerk seat is vacant in 2023"
+    },
+    "11": {
+      "name": "Unidentified",
+      "role": "Inaudible crosstalk at the board table around the nonpublic session"
+    },
+    "12": {
+      "name": "Unidentified",
+      "role": "Inaudible crosstalk at the board table around the nonpublic session"
+    },
+    "13": {
+      "name": "Unidentified",
+      "role": "Inaudible crosstalk at the board table around the nonpublic session"
+    },
+    "15": {
+      "name": "Unidentified",
+      "role": "Inaudible crosstalk at the board table around the nonpublic session"
+    },
+    "17": {
+      "name": "Unidentified",
+      "role": "Inaudible crosstalk at the board table around the nonpublic session"
+    },
+    "18": {
+      "name": "Unidentified",
+      "role": "Inaudible crosstalk at the board table around the nonpublic session"
+    },
+    "19": {
+      "name": "Unidentified",
+      "role": "Inaudible crosstalk at the board table around the nonpublic session"
+    },
+    "20": {
+      "name": "Steven Horsky",
+      "role": "Claremont School Board member; SAU 6 Board Chair — facilitates the opening and the nonpublic motion in the Chair's absence"
+    },
+    "22": {
+      "name": "Steven Horsky",
+      "role": "Claremont School Board member; SAU 6 Board Chair — facilitates the opening and the nonpublic motion in the Chair's absence"
+    },
+    "24": {
+      "name": "Unidentified",
+      "role": "Inaudible crosstalk at the board table around the nonpublic session"
+    },
+    "26": {
+      "name": "Ben Nester",
+      "role": "Director of Special Education, SAU 6 — calls the roll; the district clerk seat is vacant in 2023"
+    },
+    "27": {
+      "name": "Ben Nester",
+      "role": "Director of Special Education, SAU 6 — calls the roll; the district clerk seat is vacant in 2023"
+    },
+    "28": {
+      "name": "Jennifer Gallagher",
+      "role": "Claremont School Board member, elected 3/14/23 to the one-year seat"
+    },
+    "29": {
+      "name": "Ben Nester",
+      "role": "Director of Special Education, SAU 6 — calls the roll; the district clerk seat is vacant in 2023"
+    },
+    "30": {
+      "name": "Steven Horsky",
+      "role": "Claremont School Board member; SAU 6 Board Chair — facilitates the opening and the nonpublic motion in the Chair's absence"
+    },
+    "31": {
+      "name": "Ben Nester",
+      "role": "Director of Special Education, SAU 6 — calls the roll; the district clerk seat is vacant in 2023"
+    },
+    "36": {
+      "name": "Unidentified",
+      "role": "School Board member moving acceptance of the agenda"
+    },
+    "38": {
+      "name": "Whitney Skillen",
+      "role": "Claremont School Board member"
+    },
+    "39": {
+      "name": "Unidentified",
+      "role": "School Board member seconding"
+    },
+    "41": {
+      "name": "Unidentified",
+      "role": "School Board members voting aye"
+    },
+    "43": {
+      "name": "Frank Sprague",
+      "role": "Claremont School Board Vice Chair — elected vice chair 4/5/23; Budget Committee chair"
+    },
+    "44": {
+      "name": "Frank Sprague",
+      "role": "Claremont School Board Vice Chair — elected vice chair 4/5/23; Budget Committee chair"
+    },
+    "46": {
+      "name": "Unidentified",
+      "role": "School Board members voting aye"
+    },
+    "78": {
+      "name": "Michael Tempesta",
+      "role": "Superintendent, SAU 6 — gives the superintendent's report and carries the finance/capital-reserve discussion"
+    },
+    "82": {
+      "name": "Michael Tempesta",
+      "role": "Superintendent, SAU 6 — gives the superintendent's report and carries the finance/capital-reserve discussion"
+    },
+    "84": {
+      "name": "Michael Tempesta",
+      "role": "Superintendent, SAU 6 — gives the superintendent's report and carries the finance/capital-reserve discussion"
+    },
+    "86": {
+      "name": "Michael Tempesta",
+      "role": "Superintendent, SAU 6 — gives the superintendent's report and carries the finance/capital-reserve discussion"
+    },
+    "89": {
+      "name": "Chris Pratt",
+      "role": "Principal, Stevens High School"
+    },
+    "107": {
+      "name": "Chris Pratt",
+      "role": "Principal, Stevens High School"
+    },
+    "115": {
+      "name": "Chris Pratt",
+      "role": "Principal, Stevens High School"
+    },
+    "136": {
+      "name": "Whitney Skillen",
+      "role": "Claremont School Board member"
+    },
+    "147": {
+      "name": "Frank Sprague",
+      "role": "Claremont School Board Vice Chair — elected vice chair 4/5/23; Budget Committee chair"
+    },
+    "148": {
+      "name": "Frank Sprague",
+      "role": "Claremont School Board Vice Chair — elected vice chair 4/5/23; Budget Committee chair"
+    },
+    "151": {
+      "name": "Frank Sprague",
+      "role": "Claremont School Board Vice Chair — elected vice chair 4/5/23; Budget Committee chair"
+    },
+    "153": {
+      "name": "Frank Sprague",
+      "role": "Claremont School Board Vice Chair — elected vice chair 4/5/23; Budget Committee chair"
+    },
+    "163": {
+      "name": "Unidentified",
+      "role": "Inaudible crosstalk at the board table between presentations"
+    },
+    "164": {
+      "name": "Unidentified",
+      "role": "Inaudible crosstalk at the board table between presentations"
+    },
+    "165": {
+      "name": "Frank Romeo",
+      "role": "Principal, Claremont Middle School"
+    },
+    "169": {
+      "name": "Frank Romeo",
+      "role": "Principal, Claremont Middle School"
+    },
+    "232": {
+      "name": "Frank Romeo",
+      "role": "Principal, Claremont Middle School"
+    },
+    "236": {
+      "name": "Frank Romeo",
+      "role": "Principal, Claremont Middle School"
+    },
+    "238": {
+      "name": "Frank Romeo",
+      "role": "Principal, Claremont Middle School"
+    },
+    "241": {
+      "name": "Alex Hill",
+      "role": "Computer teacher, Claremont Middle School; Claremont resident"
+    },
+    "255": {
+      "name": "Frank Romeo",
+      "role": "Principal, Claremont Middle School"
+    },
+    "258": {
+      "name": "Frank Romeo",
+      "role": "Principal, Claremont Middle School"
+    },
+    "265": {
+      "name": "Frank Romeo",
+      "role": "Principal, Claremont Middle School"
+    },
+    "291": {
+      "name": "Frank Romeo",
+      "role": "Principal, Claremont Middle School"
+    },
+    "303": {
+      "name": "Frank Romeo",
+      "role": "Principal, Claremont Middle School"
+    },
+    "313": {
+      "name": "Frank Romeo",
+      "role": "Principal, Claremont Middle School"
+    },
+    "344": {
+      "name": "Mike Koski",
+      "role": "Assistant Superintendent, SAU 6 (ASR 'Mr. Kosky')"
+    },
+    "345": {
+      "name": "Mike Koski",
+      "role": "Assistant Superintendent, SAU 6 (ASR 'Mr. Kosky')"
+    },
+    "346": {
+      "name": "Mike Koski",
+      "role": "Assistant Superintendent, SAU 6 (ASR 'Mr. Kosky')"
+    },
+    "347": {
+      "name": "Mike Koski",
+      "role": "Assistant Superintendent, SAU 6 (ASR 'Mr. Kosky')"
+    },
+    "348": {
+      "name": "Mike Koski",
+      "role": "Assistant Superintendent, SAU 6 (ASR 'Mr. Kosky')"
+    },
+    "349": {
+      "name": "Mike Koski",
+      "role": "Assistant Superintendent, SAU 6 (ASR 'Mr. Kosky')"
+    },
+    "350": {
+      "name": "Mike Koski",
+      "role": "Assistant Superintendent, SAU 6 (ASR 'Mr. Kosky')"
+    },
+    "352": {
+      "name": "Mike Koski",
+      "role": "Assistant Superintendent, SAU 6 (ASR 'Mr. Kosky')"
+    },
+    "353": {
+      "name": "Mike Koski",
+      "role": "Assistant Superintendent, SAU 6 (ASR 'Mr. Kosky')"
+    },
+    "354": {
+      "name": "Mike Koski",
+      "role": "Assistant Superintendent, SAU 6 (ASR 'Mr. Kosky')"
+    },
+    "355": {
+      "name": "Mike Koski",
+      "role": "Assistant Superintendent, SAU 6 (ASR 'Mr. Kosky')"
+    },
+    "356": {
+      "name": "Mike Koski",
+      "role": "Assistant Superintendent, SAU 6 (ASR 'Mr. Kosky')"
+    },
+    "358": {
+      "name": "Mike Koski",
+      "role": "Assistant Superintendent, SAU 6 (ASR 'Mr. Kosky')"
+    },
+    "359": {
+      "name": "Mike Koski",
+      "role": "Assistant Superintendent, SAU 6 (ASR 'Mr. Kosky')"
+    },
+    "360": {
+      "name": "Mike Koski",
+      "role": "Assistant Superintendent, SAU 6 (ASR 'Mr. Kosky')"
+    },
+    "361": {
+      "name": "Mike Koski",
+      "role": "Assistant Superintendent, SAU 6 (ASR 'Mr. Kosky')"
+    },
+    "362": {
+      "name": "Mike Koski",
+      "role": "Assistant Superintendent, SAU 6 (ASR 'Mr. Kosky')"
+    },
+    "363": {
+      "name": "Mike Koski",
+      "role": "Assistant Superintendent, SAU 6 (ASR 'Mr. Kosky')"
+    },
+    "367": {
+      "name": "Mike Koski",
+      "role": "Assistant Superintendent, SAU 6 (ASR 'Mr. Kosky')"
+    },
+    "369": {
+      "name": "Mike Koski",
+      "role": "Assistant Superintendent, SAU 6 (ASR 'Mr. Kosky')"
+    },
+    "375": {
+      "name": "Frank Sprague",
+      "role": "Claremont School Board Vice Chair — elected vice chair 4/5/23; Budget Committee chair"
+    },
+    "376": {
+      "name": "Frank Sprague",
+      "role": "Claremont School Board Vice Chair — elected vice chair 4/5/23; Budget Committee chair"
+    },
+    "377": {
+      "name": "Frank Sprague",
+      "role": "Claremont School Board Vice Chair — elected vice chair 4/5/23; Budget Committee chair"
+    },
+    "379": {
+      "name": "Unidentified",
+      "role": "School Board member speaking in favor of the ELA purchase — Speaker 14 merges Bonnie Miles and Arlene Hawkins"
+    },
+    "382": {
+      "name": "Unidentified",
+      "role": "School Board member speaking in favor of the ELA purchase — Speaker 14 merges Bonnie Miles and Arlene Hawkins"
+    },
+    "385": {
+      "name": "Unidentified",
+      "role": "School Board member speaking in favor of the ELA purchase — Speaker 14 merges Bonnie Miles and Arlene Hawkins"
+    },
+    "389": {
+      "name": "Whitney Skillen",
+      "role": "Claremont School Board member"
+    },
+    "392": {
+      "name": "Whitney Skillen",
+      "role": "Claremont School Board member"
+    },
+    "394": {
+      "name": "Melissa Lewis",
+      "role": "Principal, Disnard Elementary School"
+    },
+    "397": {
+      "name": "Whitney Skillen",
+      "role": "Claremont School Board member"
+    },
+    "408": {
+      "name": "Jennifer Gallagher",
+      "role": "Claremont School Board member, elected 3/14/23 to the one-year seat"
+    },
+    "415": {
+      "name": "Arlene Hawkins",
+      "role": "Claremont School Board member, elected 3/14/23"
+    },
+    "423": {
+      "name": "Whitney Skillen",
+      "role": "Claremont School Board member"
+    },
+    "429": {
+      "name": "Arlene Hawkins",
+      "role": "Claremont School Board member, elected 3/14/23"
+    },
+    "433": {
+      "name": "Unidentified",
+      "role": "School Board member asking for Steven Horsky to be repeated"
+    },
+    "439": {
+      "name": "Arlene Hawkins",
+      "role": "Claremont School Board member, elected 3/14/23"
+    },
+    "440": {
+      "name": "Heather Whitney",
+      "role": "Claremont School Board Chair — elected chair 4/5/23; arrives after the nonpublic session and presides from 3:02 on"
+    },
+    "470": {
+      "name": "Frank Sprague",
+      "role": "Claremont School Board Vice Chair — elected vice chair 4/5/23; Budget Committee chair"
+    },
+    "472": {
+      "name": "Frank Sprague",
+      "role": "Claremont School Board Vice Chair — elected vice chair 4/5/23; Budget Committee chair"
+    },
+    "490": {
+      "name": "Frank Sprague",
+      "role": "Claremont School Board Vice Chair — elected vice chair 4/5/23; Budget Committee chair"
+    },
+    "492": {
+      "name": "Frank Sprague",
+      "role": "Claremont School Board Vice Chair — elected vice chair 4/5/23; Budget Committee chair"
+    },
+    "496": {
+      "name": "Frank Sprague",
+      "role": "Claremont School Board Vice Chair — elected vice chair 4/5/23; Budget Committee chair"
+    },
+    "505": {
+      "name": "Steven Horsky",
+      "role": "Claremont School Board member; SAU 6 Board Chair — facilitates the opening and the nonpublic motion in the Chair's absence"
+    },
+    "512": {
+      "name": "Frank Sprague",
+      "role": "Claremont School Board Vice Chair — elected vice chair 4/5/23; Budget Committee chair"
+    },
+    "514": {
+      "name": "Unidentified",
+      "role": "School Board member seconding"
+    },
+    "521": {
+      "name": "Steven Horsky",
+      "role": "Claremont School Board member; SAU 6 Board Chair — facilitates the opening and the nonpublic motion in the Chair's absence"
+    },
+    "528": {
+      "name": "Steven Horsky",
+      "role": "Claremont School Board member; SAU 6 Board Chair — facilitates the opening and the nonpublic motion in the Chair's absence"
+    },
+    "535": {
+      "name": "Michael Tempesta",
+      "role": "Superintendent, SAU 6 — gives the superintendent's report and carries the finance/capital-reserve discussion"
+    },
+    "546": {
+      "name": "Unidentified",
+      "role": "School Board members voting aye"
+    },
+    "558": {
+      "name": "Stephanie",
+      "role": "Curriculum Director, SAU 6 — surname never stated in the record"
+    },
+    "564": {
+      "name": "Andy",
+      "role": "Ward 3 resident — surname never stated; same first-name-only 'Andy, Ward 3' as the 4/5/23 meeting (vice chair, SRVRTC Visioning Committee)"
+    },
+    "568": {
+      "name": "Andy",
+      "role": "Ward 3 resident — surname never stated; same first-name-only 'Andy, Ward 3' as the 4/5/23 meeting (vice chair, SRVRTC Visioning Committee)"
+    }
+  }
+}

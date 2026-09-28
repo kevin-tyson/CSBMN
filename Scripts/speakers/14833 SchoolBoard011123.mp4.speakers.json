@@ -1,0 +1,524 @@
+{
+ "Speaker 1": {
+  "name": "Michael Petrin",
+  "role": "Claremont School Board Chair (presides; Frank Sprague: 'I agree with Mike patron' [681]; 'my seat, Frank seat' on the March ballot [743]; his voice is split over clusters 1, 2, 10 and 14 and shares cluster 2 with Steven Horsky)"
+ },
+ "Speaker 2": {
+  "name": "Michael Petrin",
+  "role": "Claremont School Board Chair (presides; Frank Sprague: 'I agree with Mike patron' [681]; 'my seat, Frank seat' on the March ballot [743]; his voice is split over clusters 1, 2, 10 and 14 and shares cluster 2 with Steven Horsky)"
+ },
+ "Speaker 3": {
+  "name": "Hannah Petrin",
+  "role": "Student Representative to the School Board (chair: 'Hello, Hannah' [45]; gives the student report [49-55])"
+ },
+ "Speaker 4": {
+  "name": "Unidentified",
+  "role": "Public commenter, newly seated NH state representative on the House Education Committee representing nine towns, retired dietitian, Croydon budget campaigner (name not captured; self-identification lost at the start of [29])"
+ },
+ "Speaker 5": {
+  "name": "Heather Whitney",
+  "role": "Claremont School Board Vice Chair (recognized as 'Heather' [260, 666]; motions attributed to Heather [22, 27, 818]; cited by the state representative [551] and by Whitney Skillen [502])"
+ },
+ "Speaker 6": {
+  "name": "Richard Seaman",
+  "role": "Assistant Superintendent for Finance and Operations (business administrator), SAU 6 (handed the budget presentation as 'Richard' [110]; addressed as 'Richard' [367, 532]; cluster 6 also carries board members and Ben Nester, reassigned per segment)"
+ },
+ "Speaker 7": {
+  "name": "Steven Horsky",
+  "role": "Claremont School Board member, budget subcommittee (recognized as 'Steve'/'Stephen' [83, 212, 320]; 'dealing with a cold' [85]; 'I came from the tech' [222]; much of his speech is diarized into the chair's cluster 2, reassigned per segment)"
+ },
+ "Speaker 8": {
+  "name": "Frank Sprague",
+  "role": "Claremont School Board member (recognized as 'Frank' [141, 752, 768, 781]; 'as Frank said, to split this position' [343] confirms his half-position math [292-293])"
+ },
+ "Speaker 9": {
+  "name": "Joshua Lambert",
+  "role": "Claremont School Board member, resigning after this meeting (chair: 'I go to Josh' [478], 'Josh is calculating... Joshua' [488]; resignation announced [741-742]; his own statement [773-774])"
+ },
+ "Speaker 10": {
+  "name": "Michael Petrin",
+  "role": "Claremont School Board Chair (presides; Frank Sprague: 'I agree with Mike patron' [681]; 'my seat, Frank seat' on the March ballot [743]; his voice is split over clusters 1, 2, 10 and 14 and shares cluster 2 with Steven Horsky)"
+ },
+ "Speaker 11": {
+  "name": "Whitney Skillen",
+  "role": "Claremont School Board member (Richard Seaman: 'Is that what you came up with, Whitney?' [517] after her $0.93 to $0.94 calculation [459-463]; motion by Whitney [741])"
+ },
+ "Speaker 12": {
+  "name": "Michael Tempesta",
+  "role": "Superintendent, SAU 6 (uncertain - not named on this recording; speaks for the administration on the restructuring and schedule committees and calendar coordination with Newport [634-654]; 'Richard, you can back this up' [344])"
+ },
+ "Speaker 13": {
+  "name": "Unidentified",
+  "role": "Speaker who walked over to consult a former board member about the Fall Mountain collaborative ('my first couple of years at Stevens' [408]); possibly Frank Sprague or Chris Pratt, uncertain"
+ },
+ "Speaker 14": {
+  "name": "Michael Petrin",
+  "role": "Claremont School Board Chair (presides; Frank Sprague: 'I agree with Mike patron' [681]; 'my seat, Frank seat' on the March ballot [743]; his voice is split over clusters 1, 2, 10 and 14 and shares cluster 2 with Steven Horsky)"
+ },
+ "Speaker 15": {
+  "name": "Unidentified",
+  "role": "Claremont School Board member ('I apologize for missing the last meeting' [588]; asks about the retiree list [556]); possibly Bonnie Miles by elimination, uncertain"
+ },
+ "Speaker 16": {
+  "name": "Candace Crawford",
+  "role": "Public commenter (Richard Seaman: 'The candy just laid out' [536] = 'Candy', as the chair calls Candace Crawford on 2/1/2023; medium confidence, she does not state her name on this recording)"
+ },
+ "Speaker 17": {
+  "name": "Unidentified",
+  "role": "Voice at the table on vocational craft committees [710-712]; not named"
+ },
+ "Speaker 18": {
+  "name": "Unidentified",
+  "role": "Claremont School Board member reporting for the capital improvement committee [585-611] and asking about the schedule committee [640-651]; possibly Bonnie Miles by elimination, uncertain"
+ },
+ "Speaker 19": {
+  "name": "Frank Sprague",
+  "role": "Claremont School Board member (recognized as 'Frank' [141, 752, 768, 781]; 'as Frank said, to split this position' [343] confirms his half-position math [292-293])"
+ },
+ "Speaker 20": {
+  "name": "Unidentified",
+  "role": "Voice at the table asking about program advisory committees [718-720]; not named"
+ },
+ "Speaker 21": {
+  "name": "Unidentified",
+  "role": "Brief thanks to Josh Lambert; not named"
+ },
+ "__overrides__": {
+  "0": {
+   "name": "Unidentified",
+   "role": "Pre-meeting remarks before the call to order; not named"
+  },
+  "2": {
+   "name": "Unidentified",
+   "role": "Pre-meeting remarks before the call to order; not named"
+  },
+  "9": {
+   "name": "Unidentified",
+   "role": "Group recitation / roll-call 'here' responses"
+  },
+  "11": {
+   "name": "Unidentified",
+   "role": "Group recitation / roll-call 'here' responses"
+  },
+  "13": {
+   "name": "Unidentified",
+   "role": "Group recitation / roll-call 'here' responses"
+  },
+  "20": {
+   "name": "Steven Horsky"
+  },
+  "21": {
+   "name": "Heather Whitney"
+  },
+  "24": {
+   "name": "Heather Whitney"
+  },
+  "26": {
+   "name": "Heather Whitney"
+  },
+  "36": {
+   "name": "Unidentified",
+   "role": "Board member fragment; not named"
+  },
+  "37": {
+   "name": "Unidentified",
+   "role": "Claremont School Board member on New Hampshire School Boards Association legislative emails; not named"
+  },
+  "38": {
+   "name": "Unidentified",
+   "role": "Claremont School Board member on New Hampshire School Boards Association legislative emails; not named"
+  },
+  "39": {
+   "name": "Unidentified",
+   "role": "Claremont School Board member on New Hampshire School Boards Association legislative emails; not named"
+  },
+  "48": {
+   "name": "Hannah Petrin"
+  },
+  "81": {
+   "name": "Unidentified",
+   "role": "Claremont School Board member of the budget subcommittee (hands off to 'Steve' [83]); not named"
+  },
+  "83": {
+   "name": "Unidentified",
+   "role": "Claremont School Board member of the budget subcommittee (hands off to 'Steve' [83]); not named"
+  },
+  "87": {
+   "name": "Steven Horsky"
+  },
+  "89": {
+   "name": "Steven Horsky"
+  },
+  "91": {
+   "name": "Steven Horsky"
+  },
+  "93": {
+   "name": "Steven Horsky"
+  },
+  "100": {
+   "name": "Steven Horsky"
+  },
+  "101": {
+   "name": "Steven Horsky"
+  },
+  "103": {
+   "name": "Steven Horsky"
+  },
+  "105": {
+   "name": "Steven Horsky"
+  },
+  "106": {
+   "name": "Steven Horsky"
+  },
+  "107": {
+   "name": "Steven Horsky"
+  },
+  "108": {
+   "name": "Unidentified",
+   "role": "Claremont School Board member, 'the third member of the budget subcommittee' [108], who hands off to Richard [110] (segment 110 also carries the start of Richard Seaman's presentation); not named"
+  },
+  "109": {
+   "name": "Unidentified",
+   "role": "Claremont School Board member, 'the third member of the budget subcommittee' [108], who hands off to Richard [110] (segment 110 also carries the start of Richard Seaman's presentation); not named"
+  },
+  "110": {
+   "name": "Unidentified",
+   "role": "Claremont School Board member, 'the third member of the budget subcommittee' [108], who hands off to Richard [110] (segment 110 also carries the start of Richard Seaman's presentation); not named"
+  },
+  "147": {
+   "name": "Richard Seaman"
+  },
+  "159": {
+   "name": "Richard Seaman"
+  },
+  "164": {
+   "name": "Richard Seaman"
+  },
+  "171": {
+   "name": "Richard Seaman"
+  },
+  "178": {
+   "name": "Heather Whitney"
+  },
+  "213": {
+   "name": "Steven Horsky"
+  },
+  "214": {
+   "name": "Steven Horsky"
+  },
+  "215": {
+   "name": "Steven Horsky"
+  },
+  "216": {
+   "name": "Steven Horsky"
+  },
+  "217": {
+   "name": "Steven Horsky"
+  },
+  "219": {
+   "name": "Steven Horsky"
+  },
+  "221": {
+   "name": "Steven Horsky"
+  },
+  "222": {
+   "name": "Steven Horsky"
+  },
+  "223": {
+   "name": "Steven Horsky"
+  },
+  "224": {
+   "name": "Steven Horsky"
+  },
+  "227": {
+   "name": "Chris Pratt"
+  },
+  "229": {
+   "name": "Chris Pratt"
+  },
+  "230": {
+   "name": "Chris Pratt"
+  },
+  "231": {
+   "name": "Chris Pratt"
+  },
+  "233": {
+   "name": "Chris Pratt"
+  },
+  "235": {
+   "name": "Chris Pratt"
+  },
+  "236": {
+   "name": "Frank Sprague",
+   "role": "Claremont School Board member (recognized as 'Frank' [141, 752, 768, 781]; 'as Frank said, to split this position' [343] confirms his half-position math [292-293])"
+  },
+  "237": {
+   "name": "Chris Pratt"
+  },
+  "238": {
+   "name": "Chris Pratt"
+  },
+  "239": {
+   "name": "Chris Pratt"
+  },
+  "240": {
+   "name": "Frank Sprague",
+   "role": "Claremont School Board member (recognized as 'Frank' [141, 752, 768, 781]; 'as Frank said, to split this position' [343] confirms his half-position math [292-293])"
+  },
+  "241": {
+   "name": "Chris Pratt"
+  },
+  "242": {
+   "name": "Frank Sprague",
+   "role": "Claremont School Board member (recognized as 'Frank' [141, 752, 768, 781]; 'as Frank said, to split this position' [343] confirms his half-position math [292-293])"
+  },
+  "243": {
+   "name": "Chris Pratt"
+  },
+  "244": {
+   "name": "Frank Sprague",
+   "role": "Claremont School Board member (recognized as 'Frank' [141, 752, 768, 781]; 'as Frank said, to split this position' [343] confirms his half-position math [292-293])"
+  },
+  "245": {
+   "name": "Chris Pratt"
+  },
+  "246": {
+   "name": "Chris Pratt"
+  },
+  "247": {
+   "name": "Frank Sprague",
+   "role": "Claremont School Board member (recognized as 'Frank' [141, 752, 768, 781]; 'as Frank said, to split this position' [343] confirms his half-position math [292-293])"
+  },
+  "248": {
+   "name": "Chris Pratt"
+  },
+  "249": {
+   "name": "Frank Sprague",
+   "role": "Claremont School Board member (recognized as 'Frank' [141, 752, 768, 781]; 'as Frank said, to split this position' [343] confirms his half-position math [292-293])"
+  },
+  "251": {
+   "name": "Chris Pratt"
+  },
+  "255": {
+   "name": "Steven Horsky"
+  },
+  "256": {
+   "name": "Steven Horsky"
+  },
+  "257": {
+   "name": "Steven Horsky"
+  },
+  "258": {
+   "name": "Steven Horsky"
+  },
+  "264": {
+   "name": "Chris Pratt"
+  },
+  "266": {
+   "name": "Chris Pratt"
+  },
+  "273": {
+   "name": "Steven Horsky"
+  },
+  "274": {
+   "name": "Steven Horsky"
+  },
+  "275": {
+   "name": "Steven Horsky"
+  },
+  "276": {
+   "name": "Steven Horsky"
+  },
+  "277": {
+   "name": "Steven Horsky"
+  },
+  "278": {
+   "name": "Steven Horsky"
+  },
+  "286": {
+   "name": "Steven Horsky"
+  },
+  "292": {
+   "name": "Frank Sprague"
+  },
+  "293": {
+   "name": "Frank Sprague"
+  },
+  "295": {
+   "name": "Frank Sprague"
+  },
+  "298": {
+   "name": "Unidentified",
+   "role": "Short interjection in the student representative's cluster; voice not separable"
+  },
+  "311": {
+   "name": "Richard Seaman"
+  },
+  "318": {
+   "name": "Unidentified",
+   "role": "Short interjection ('That's the working'); voice not separable"
+  },
+  "321": {
+   "name": "Steven Horsky"
+  },
+  "322": {
+   "name": "Steven Horsky"
+  },
+  "324": {
+   "name": "Steven Horsky"
+  },
+  "326": {
+   "name": "Steven Horsky"
+  },
+  "328": {
+   "name": "Steven Horsky"
+  },
+  "329": {
+   "name": "Steven Horsky"
+  },
+  "330": {
+   "name": "Steven Horsky"
+  },
+  "331": {
+   "name": "Steven Horsky"
+  },
+  "332": {
+   "name": "Steven Horsky"
+  },
+  "351": {
+   "name": "Frank Sprague"
+  },
+  "360": {
+   "name": "Frank Sprague"
+  },
+  "361": {
+   "name": "Ben Nester"
+  },
+  "362": {
+   "name": "Frank Sprague"
+  },
+  "363": {
+   "name": "Ben Nester"
+  },
+  "365": {
+   "name": "Ben Nester"
+  },
+  "366": {
+   "name": "Frank Sprague"
+  },
+  "375": {
+   "name": "Unidentified",
+   "role": "Claremont School Board member of the budget committee on the special education reserve; not named"
+  },
+  "377": {
+   "name": "Unidentified",
+   "role": "Claremont School Board member of the budget committee on the special education reserve; not named"
+  },
+  "378": {
+   "name": "Unidentified",
+   "role": "Claremont School Board member of the budget committee on the special education reserve; not named"
+  },
+  "386": {
+   "name": "Ben Nester"
+  },
+  "388": {
+   "name": "Ben Nester"
+  },
+  "390": {
+   "name": "Ben Nester"
+  },
+  "391": {
+   "name": "Ben Nester"
+  },
+  "393": {
+   "name": "Steven Horsky"
+  },
+  "394": {
+   "name": "Steven Horsky"
+  },
+  "395": {
+   "name": "Steven Horsky"
+  },
+  "396": {
+   "name": "Steven Horsky"
+  },
+  "397": {
+   "name": "Steven Horsky"
+  },
+  "398": {
+   "name": "Steven Horsky"
+  },
+  "399": {
+   "name": "Steven Horsky"
+  },
+  "400": {
+   "name": "Steven Horsky"
+  },
+  "401": {
+   "name": "Steven Horsky"
+  },
+  "404": {
+   "name": "Steven Horsky"
+  },
+  "405": {
+   "name": "Steven Horsky"
+  },
+  "406": {
+   "name": "Steven Horsky"
+  },
+  "409": {
+   "name": "Unidentified",
+   "role": "Speaker who walked over to consult a former board member about the Fall Mountain collaborative ('my first couple of years at Stevens' [408]); possibly Frank Sprague or Chris Pratt, uncertain"
+  },
+  "410": {
+   "name": "Unidentified",
+   "role": "Speaker who walked over to consult a former board member about the Fall Mountain collaborative ('my first couple of years at Stevens' [408]); possibly Frank Sprague or Chris Pratt, uncertain"
+  },
+  "412": {
+   "name": "Unidentified",
+   "role": "Board member suggesting public comment ('We do have the option for public comments'); inside the business administrator's cluster, voice not separable"
+  },
+  "435": {
+   "name": "Unidentified",
+   "role": "Board member asking 'Richard, do you have the'; inside the business administrator's cluster, voice not separable"
+  },
+  "479": {
+   "name": "Joshua Lambert"
+  },
+  "485": {
+   "name": "Unidentified",
+   "role": "Board member declining the floor ('I'm good'); not named"
+  },
+  "521": {
+   "name": "Unidentified",
+   "role": "Short interjection in the student representative's cluster; voice not separable"
+  },
+  "531": {
+   "name": "Unidentified",
+   "role": "Short interjection in the student representative's cluster; voice not separable"
+  },
+  "659": {
+   "name": "Unidentified",
+   "role": "Claremont School Board member on the tech center visioning committee who wants it kept ('we're still needed there'); not Heather Whitney, who speaks for the board directing committees [667]; possibly Bonnie Miles, uncertain"
+  },
+  "663": {
+   "name": "Unidentified",
+   "role": "Claremont School Board member on the tech center visioning committee who wants it kept ('we're still needed there'); not Heather Whitney, who speaks for the board directing committees [667]; possibly Bonnie Miles, uncertain"
+  },
+  "670": {
+   "name": "Unidentified",
+   "role": "Claremont School Board member on the tech center visioning committee who wants it kept ('we're still needed there'); not Heather Whitney, who speaks for the board directing committees [667]; possibly Bonnie Miles, uncertain"
+  },
+  "671": {
+   "name": "Unidentified",
+   "role": "Claremont School Board member on the tech center visioning committee who wants it kept ('we're still needed there'); not Heather Whitney, who speaks for the board directing committees [667]; possibly Bonnie Miles, uncertain"
+  },
+  "672": {
+   "name": "Unidentified",
+   "role": "Claremont School Board member on the tech center visioning committee who wants it kept ('we're still needed there'); not Heather Whitney, who speaks for the board directing committees [667]; possibly Bonnie Miles, uncertain"
+  },
+  "677": {
+   "name": "Frank Sprague"
+  }
+ }
+}

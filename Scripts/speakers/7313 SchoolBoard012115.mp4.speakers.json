@@ -1,0 +1,75 @@
+{
+ "Speaker 1": {
+  "name": "Patricia Barry",
+  "role": "Principal, Stevens High School (first name 'Pat' per chair [177]; surname Barry per roster - medium confidence)"
+ },
+ "Speaker 2": {
+  "name": "Unidentified",
+  "role": "Unidentified - cluster of short interjections, acknowledgements and 'aye' votes from several voices"
+ },
+ "Speaker 3": {
+  "name": "Richard Seaman",
+  "role": "Claremont School Board Chair (first name 'Richard' via the superintendent's references to the chair's remarks, 'And Richard said' [150] and 'Richard is right' [660]; calls himself one of 'two financial guys' [711]; surname Seaman per roster - medium confidence)"
+ },
+ "Speaker 4": {
+  "name": "Rebecca Ferland",
+  "role": "Claremont School Board member (addressed as 'Becky' [127], [250], [599], [610]; Becky Ferland per roster)"
+ },
+ "Speaker 5": {
+  "name": "Bob",
+  "role": "Claremont School Board member (addressed as 'Bob' [200], [673], [747], [864]; says he served on the city council about 2008-2009 [384]; surname not on this recording)"
+ },
+ "Speaker 6": {
+  "name": "John",
+  "role": "Claremont School Board member (first name 'John' per chair [52], [566], [609], [645]; surname not on record)"
+ },
+ "Speaker 7": {
+  "name": "Brian Rapp",
+  "role": "Claremont School Board member (first name 'Brian' per chair [586], [694], [909], ASR 'Ryan' [872]; seat on the March 2015 ballot [918]; surname Rapp per roster - uncertain, surname not spoken)"
+ },
+ "Speaker 8": {
+  "name": "Cory LeClair",
+  "role": "SAU 6 administrator (named 'Corey LeClaire' by the superintendent [180]; title not stated on this recording)"
+ },
+ "Speaker 9": {
+  "name": "Richard Madigan",
+  "role": "Claremont School Board member (first name 'Richard' per chair [599], [735], [824]; seat on the March 2015 ballot [918]; called 'Richard Madigan' by a public commenter on the 3/4/15 recording - surname is ASR, unverified)"
+ },
+ "Speaker 10": {
+  "name": "Middleton McGoodwin",
+  "role": "Superintendent, SAU 6 (named 'Middleton' by the business administrator [517] and chair [598])"
+ },
+ "Speaker 11": {
+  "name": "Michelle Johnson",
+  "role": "Director, Early Childhood Education program, Sugar River Valley Regional Technical Center (named 'Michelle Johnson' by the superintendent [180])"
+ },
+ "Speaker 12": {
+  "name": "Unidentified",
+  "role": "Unidentified - cluster of short interjections, acknowledgements and 'aye' votes from several voices"
+ },
+ "Speaker 13": {
+  "name": "Michael O'Neill",
+  "role": "Business Administrator, SAU 6 ('Mike O'Neill' per the superintendent [330])"
+ },
+ "Speaker 14": {
+  "name": "Cory LeClair",
+  "role": "SAU 6 administrator (named 'Corey LeClaire' by the superintendent [180]; title not stated on this recording)"
+ },
+ "Speaker 15": {
+  "name": "Bob",
+  "role": "Claremont School Board member (addressed as 'Bob' [200], [673], [747], [864]; says he served on the city council about 2008-2009 [384]; surname not on this recording)"
+ },
+ "Speaker 16": {
+  "name": "Mary Woodman",
+  "role": "School district clerk / recording secretary (addressed as 'Mary' [833]; surname Woodman per roster; attribution of this short cluster medium confidence)"
+ },
+ "Speaker 17": {
+  "name": "Unidentified",
+  "role": "Unidentified - two short answers about the bus drop-off policy; speaker not identifiable"
+ },
+ "__overrides__": {
+  "18": {
+   "name": "Rebecca Ferland"
+  }
+ }
+}

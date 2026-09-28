@@ -1,0 +1,130 @@
+{
+ "Speaker 1": {
+  "name": "Unidentified",
+  "role": "Unidentified - short interjections from board members (motions, seconds, 'yes') [645,652,665]"
+ },
+ "Speaker 2": {
+  "name": "Brian Rapp",
+  "role": "Claremont School Board Chair (calls the meeting to order [1], runs agenda and votes; 'Brian.' [7] -> 'Wrap here' [8]; 'And Brian.' [129] -> 'Yes' [130]; superintendent 'if I may, Brian' [390], 'You're right Brian' [661])"
+ },
+ "Speaker 3": {
+  "name": "Cory LeClair",
+  "role": "Assistant Superintendent, SAU 6 (chair: 'Thank you. Corey.' [6] -> takes the roll and minutes [7-15]; 'Corey LeClair will explain that during the action portion' [18] -> presents the donations [137-148, 630-643])"
+ },
+ "Speaker 4": {
+  "name": "Alex Herzog",
+  "role": "Claremont School Board member (answers 'Yes' when 'Doctor.' is called in the nonpublic roll [125-126]; chair: 'Thank you Alex' [117] after [114-116], 'Alex.' [208] -> [209]; appointed Nov 2016 per roster) (medium)"
+ },
+ "Speaker 5": {
+  "name": "Frank Sprague",
+  "role": "Claremont School Board member (chair: 'Yeah. Frank.' [42] -> [43]; superintendent: 'What you're saying, Frank' [390] re [382-387]; O'Neill: 'Frank, you got a column' [429] re [428])"
+ },
+ "Speaker 6": {
+  "name": "Unidentified",
+  "role": "Unidentified - board member making the minutes motion [31] plus short fragments"
+ },
+ "Speaker 7": {
+  "name": "Marion Lovett",
+  "role": "Stevens High School student representative (superintendent: 'I think Marion Lovett wants to say something' [79] -> [81]; 'Marian Lovett and I were live on WTK' [68]; spelling of first name uncertain - ASR 'Marian'/'Marion')"
+ },
+ "Speaker 8": {
+  "name": "Middleton McGoodwin",
+  "role": "Superintendent, SAU 6 (superintendent's report [63-71]; 'Middleton.' [185] -> [187] 'When I was a building principal'; 'I'm going to defer to Michael O'Neill' [366])"
+ },
+ "Speaker 9": {
+  "name": "Chris Irish",
+  "role": "Claremont School Board Vice Chair (Pierce: 'Straight there, Chris.' [309] -> [314]; asks for the spreadsheets electronically and a tech center cost summary [395-400], as he does on 1/4/17; superintendent credits the athletics list to 'Chris' [64]) (medium - diarization merges him with other male members)"
+ },
+ "Speaker 10": {
+  "name": "Michelle Pierce",
+  "role": "Claremont School Board member (chair: 'Michelle.' [232] -> [233-236]; superintendent: 'That was last year, Michelle' [237]; 'to Michelle's point' [183] re [174]) (Speakers 10 and 12 are both her voice)"
+ },
+ "Speaker 11": {
+  "name": "Michael O'Neill",
+  "role": "Business Administrator, SAU 6 (superintendent: 'I'm going to defer to Michael O'Neill, who has prepared a booklet' [366] -> [367-617]; 'Mike' [226] -> [228])"
+ },
+ "Speaker 12": {
+  "name": "Michelle Pierce",
+  "role": "Claremont School Board member (chair: 'Michelle.' [232] -> [233-236]; superintendent: 'That was last year, Michelle' [237]; 'to Michelle's point' [183] re [174]) (Speakers 10 and 12 are both her voice)"
+ },
+ "Speaker 13": {
+  "name": "Nathan",
+  "role": "SAU 6 human resources staff, new to his position (LeClair: 'You may be able to speak Nathan, to when we actually had the last increase' [212] -> [214]; 'Nathan's new to his position' [224]; surname not on this recording)"
+ },
+ "Speaker 14": {
+  "name": "Patrick Adrian",
+  "role": "Claremont School Board member (superintendent: 'To totally agree, Patrick' [181] after [177-179]; asks for the past budget presentation format [394], which the superintendent then attributes to 'Patrick' [402]) (medium - diarization flaps)"
+ },
+ "Speaker 15": {
+  "name": "Unidentified",
+  "role": "Unidentified - board member (questions on uncompensated sick days [340] and out-of-district costs [423-426]; moves to adjourn [663]); Brent Ferland is the only roll-call member without a firm cluster, uncertain"
+ },
+ "Speaker 16": {
+  "name": "Unidentified",
+  "role": "Unidentified - short responses and votes"
+ },
+ "Speaker 17": {
+  "name": "Unidentified",
+  "role": "Unidentified - single interjection [537]"
+ },
+ "Speaker 18": {
+  "name": "Unidentified",
+  "role": "Unidentified - board member (asks whether to email budget requests to O'Neill [620-626]; seconds the donation motion [646]; 'They're all third reads, right?' [656])"
+ },
+ "__overrides__": {
+  "52": {
+   "name": "Chris Irish"
+  },
+  "54": {
+   "name": "Chris Irish"
+  },
+  "55": {
+   "name": "Chris Irish"
+  },
+  "56": {
+   "name": "Chris Irish"
+  },
+  "57": {
+   "name": "Chris Irish"
+  },
+  "59": {
+   "name": "Chris Irish"
+  },
+  "60": {
+   "name": "Chris Irish"
+  },
+  "61": {
+   "name": "Chris Irish"
+  },
+  "177": {
+   "name": "Patrick Adrian"
+  },
+  "178": {
+   "name": "Patrick Adrian"
+  },
+  "179": {
+   "name": "Patrick Adrian"
+  },
+  "205": {
+   "name": "Patrick Adrian"
+  },
+  "206": {
+   "name": "Patrick Adrian"
+  },
+  "207": {
+   "name": "Patrick Adrian"
+  },
+  "34": {
+   "name": "Marion Lovett"
+  },
+  "18": {
+   "name": "Middleton McGoodwin"
+  },
+  "21": {
+   "name": "Middleton McGoodwin"
+  },
+  "24": {
+   "name": "Middleton McGoodwin"
+  }
+ }
+}

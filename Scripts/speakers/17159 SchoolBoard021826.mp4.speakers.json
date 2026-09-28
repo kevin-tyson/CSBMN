@@ -1,0 +1,698 @@
+{
+ "Speaker 1": {
+  "name": "Kerry Kennedy",
+  "role": "Interim Superintendent, SAU 6"
+ },
+ "Speaker 2": {
+  "name": "Gary Merchant",
+  "role": "Citizen commenter, Ward 2; former state representative (self-identified; corrects himself from 'Ward one' to 'Ward two'); Stevens High School class of 1971"
+ },
+ "Speaker 3": {
+  "name": "Candace Crawford",
+  "role": "School Board Member; Finance Subcommittee Chair"
+ },
+ "Speaker 4": {
+  "name": "Wayne Hemingway",
+  "role": "State Representative, Sullivan District 6; citizen commenter, Ward 1 (self-identified at segs 18 and 94)"
+ },
+ "Speaker 5": {
+  "name": "Ken Lownie",
+  "role": "Citizen commenter, Ward 2 (self-identified; ASR 'Ken Louny')"
+ },
+ "Speaker 6": {
+  "name": "Hope Damon",
+  "role": "State Representative (Croydon); House Education Funding Committee (self-identified at seg 30)"
+ },
+ "Speaker 7": {
+  "name": "Matt Bean",
+  "role": "Citizen commenter, Ward 1; teacher in Vermont (self-identified; ASR 'Matt Beam, board one')"
+ },
+ "Speaker 8": {
+  "name": "Sherry Williams",
+  "role": "Citizen commenter, Ward 1 (self-identified at segs 241 and 358)"
+ },
+ "Speaker 9": {
+  "name": "Kyle Mercier",
+  "role": "Citizen commenter, Ward 1 (self-identified; rendered 'Kyle Messier' on this recording and in some district minutes)"
+ },
+ "Speaker 10": {
+  "name": "Heather Whitney",
+  "role": "School Board Chair"
+ },
+ "Speaker 11": {
+  "name": "Tom Luther",
+  "role": "Citizen commenter, Ward 1 (self-identification clipped into the preceding cluster at seg 107)"
+ },
+ "Speaker 12": {
+  "name": "Noah Bosch",
+  "role": "Citizen commenter, Ward 3; Stevens High School senior (self-identified as 'Noah' at seg 115; surname rendered 'Nora Shane' by the ASR at seg 246)"
+ },
+ "Speaker 13": {
+  "name": "Rebecca",
+  "role": "Citizen commenter, Ward 1; parent (self-identified as 'Rebecca Van...' — surname clipped, low ASR confidence; likely Rebecca Vinduska, rendered 'von Duska'/'Vindeska' elsewhere in this corpus)"
+ },
+ "Speaker 14": {
+  "name": "April Woodman",
+  "role": "Citizen commenter (self-identified at seg 141); declared write-in candidate for School District Moderator"
+ },
+ "Speaker 15": {
+  "name": "Arlene Hawkins",
+  "role": "School Board Member; Policy Subcommittee Chair"
+ },
+ "Speaker 16": {
+  "name": "Matt Angell",
+  "role": "Interim Business Administrator, SAU 6"
+ },
+ "Speaker 17": {
+  "name": "Frank Sprague",
+  "role": "School Board Member (recognized by the Chair as 'Mr. Sprague' at segs 667 and 771 and addressed as 'Frank' at seg 734; merged male cluster — Chamberlain, Lavalette and Madden segments reassigned by override)"
+ },
+ "Speaker 18": {
+  "name": "Kiran Adrian",
+  "role": "Citizen commenter, Ward 1; Stevens High School senior and two-year All-State musician (self-identified; first name rendered 'Kiran' at the mic and 'Kieran' by the Superintendent at seg 265)"
+ },
+ "Speaker 19": {
+  "name": "Loren Howard",
+  "role": "School Board Member"
+ },
+ "Speaker 20": {
+  "name": "Unidentified public commenter",
+  "role": "Citizen commenter — single mother of a Sugar River Valley Regional Technical Center student; self-identification rendered by the ASR as 'January king' and not verifiable"
+ },
+ "Speaker 21": {
+  "name": "Leslie Peabody",
+  "role": "Citizen commenter, Ward 1; science teacher at Stevens High School (self-identified at seg 199)"
+ },
+ "Speaker 22": {
+  "name": "Camron Lownie",
+  "role": "Citizen commenter, Ward 2; teacher and taxpayer (self-identified; ASR 'Cameron Lonnie')"
+ },
+ "Speaker 23": {
+  "name": "Heather Whitney",
+  "role": "School Board Chair"
+ },
+ "Speaker 24": {
+  "name": "Hope Damon",
+  "role": "State Representative (Croydon); House Education Funding Committee (second turn; recognized by the Chair as 'Miss Damon' in the preceding segment)"
+ },
+ "Speaker 25": {
+  "name": "Bonnie Miles",
+  "role": "Citizen commenter, Ward 2; former School Board member (self-identified at seg 304)"
+ },
+ "Speaker 26": {
+  "name": "Noelle Kronberg",
+  "role": "School Board Clerk"
+ },
+ "Speaker 27": {
+  "name": "Unidentified board member",
+  "role": "School Board Member — moves to seal the nonpublic minutes and seconds two policy motions, so a seated member of the seven-member board; never named, self-identified or recognized on the recording (by elimination the likeliest fit is Vice Chair Michael Petrin, the only member with no other cluster, but nothing in the record anchors it)"
+ },
+ "Speaker 28": {
+  "name": "Noelle Kronberg",
+  "role": "School Board Clerk (sentence continuation of seg 480 — zero-gap split across clusters)"
+ },
+ "__overrides__": {
+  "0": {
+   "name": "Heather Whitney"
+  },
+  "1": {
+   "name": "Multiple",
+   "role": "Pledge of Allegiance — group recitation captured as one voice"
+  },
+  "2": {
+   "name": "Heather Whitney",
+   "role": "School Board Chair (asks the clerk to call the roll; the members' 'here' responses are merged into this segment)"
+  },
+  "3": {
+   "name": "Heather Whitney"
+  },
+  "4": {
+   "name": "Heather Whitney"
+  },
+  "5": {
+   "name": "Heather Whitney"
+  },
+  "7": {
+   "name": "Heather Whitney"
+  },
+  "9": {
+   "name": "Heather Whitney"
+  },
+  "17": {
+   "name": "Heather Whitney"
+  },
+  "25": {
+   "name": "Heather Whitney"
+  },
+  "26": {
+   "name": "Matt Bean",
+   "role": "Citizen commenter, Ward 1 (offers his place in the queue; Rep. Hemingway answers 'Thank you, Matt' in the next segment — medium confidence)"
+  },
+  "28": {
+   "name": "Matt Bean",
+   "role": "Citizen commenter, Ward 1 (offers his place in the queue; Rep. Hemingway answers 'Thank you, Matt' in the next segment — medium confidence)"
+  },
+  "29": {
+   "name": "Hope Damon"
+  },
+  "37": {
+   "name": "Heather Whitney"
+  },
+  "39": {
+   "name": "Unidentified",
+   "role": "Crosstalk from the floor during a point of order; voice not distinguishable"
+  },
+  "40": {
+   "name": "Unidentified",
+   "role": "Crosstalk from the floor during a point of order; voice not distinguishable"
+  },
+  "41": {
+   "name": "Heather Whitney"
+  },
+  "43": {
+   "name": "Heather Whitney"
+  },
+  "47": {
+   "name": "Matt Bean"
+  },
+  "49": {
+   "name": "Heather Whitney"
+  },
+  "50": {
+   "name": "Sherry Williams",
+   "role": "Citizen commenter, Ward 1 (self-identification clipped into the Chair's cluster)"
+  },
+  "54": {
+   "name": "Heather Whitney"
+  },
+  "55": {
+   "name": "John Cloutier",
+   "role": "State Representative; citizen commenter, Ward 1; Claremont native and Stevens High School class of 1975 (self-identified; ASR 'John Claudia')"
+  },
+  "56": {
+   "name": "John Cloutier",
+   "role": "State Representative; citizen commenter, Ward 1; Claremont native and Stevens High School class of 1975 (self-identified; ASR 'John Claudia')"
+  },
+  "57": {
+   "name": "John Cloutier",
+   "role": "State Representative; citizen commenter, Ward 1; Claremont native and Stevens High School class of 1975 (self-identified; ASR 'John Claudia')"
+  },
+  "58": {
+   "name": "John Cloutier",
+   "role": "State Representative; citizen commenter, Ward 1; Claremont native and Stevens High School class of 1975 (self-identified; ASR 'John Claudia')"
+  },
+  "59": {
+   "name": "John Cloutier",
+   "role": "State Representative; citizen commenter, Ward 1; Claremont native and Stevens High School class of 1975 (self-identified; ASR 'John Claudia')"
+  },
+  "60": {
+   "name": "Heather Whitney"
+  },
+  "65": {
+   "name": "Heather Whitney"
+  },
+  "67": {
+   "name": "Heather Whitney"
+  },
+  "69": {
+   "name": "Heather Whitney"
+  },
+  "71": {
+   "name": "Heather Whitney"
+  },
+  "73": {
+   "name": "Heather Whitney"
+  },
+  "74": {
+   "name": "Heather Whitney"
+  },
+  "75": {
+   "name": "Heather Whitney"
+  },
+  "76": {
+   "name": "Heather Whitney"
+  },
+  "82": {
+   "name": "Heather Whitney"
+  },
+  "84": {
+   "name": "Heather Whitney"
+  },
+  "86": {
+   "name": "Heather Whitney"
+  },
+  "88": {
+   "name": "Heather Whitney"
+  },
+  "90": {
+   "name": "Heather Whitney"
+  },
+  "92": {
+   "name": "Unidentified",
+   "role": "Brief reply from the floor when the Chair asks for further speakers; voice not distinguishable"
+  },
+  "99": {
+   "name": "Heather Whitney"
+  },
+  "107": {
+   "name": "Tom Luther"
+  },
+  "118": {
+   "name": "Heather Whitney"
+  },
+  "120": {
+   "name": "Heather Whitney"
+  },
+  "126": {
+   "name": "Heather Whitney"
+  },
+  "127": {
+   "name": "Heather Whitney"
+  },
+  "133": {
+   "name": "Rebecca",
+   "role": "Citizen commenter, Ward 1; parent (sentence continuation — 'and that's not the — I love the diversity in our schools')"
+  },
+  "136": {
+   "name": "Heather Whitney"
+  },
+  "137": {
+   "name": "Heather Whitney"
+  },
+  "139": {
+   "name": "Heather Whitney"
+  },
+  "140": {
+   "name": "April Woodman",
+   "role": "Citizen commenter (0.4s onset fragment 80ms before her self-identification in seg 141)"
+  },
+  "146": {
+   "name": "Heather Whitney"
+  },
+  "147": {
+   "name": "Heather Whitney"
+  },
+  "149": {
+   "name": "Heather Whitney"
+  },
+  "150": {
+   "name": "Heather Whitney"
+  },
+  "151": {
+   "name": "Heather Whitney"
+  },
+  "152": {
+   "name": "Heather Whitney"
+  },
+  "153": {
+   "name": "Heather Whitney"
+  },
+  "154": {
+   "name": "Heather Whitney"
+  },
+  "155": {
+   "name": "Heather Whitney"
+  },
+  "156": {
+   "name": "Heather Whitney"
+  },
+  "157": {
+   "name": "Heather Whitney"
+  },
+  "158": {
+   "name": "Heather Whitney"
+  },
+  "159": {
+   "name": "Heather Whitney"
+  },
+  "160": {
+   "name": "Heather Whitney"
+  },
+  "161": {
+   "name": "Heather Whitney"
+  },
+  "166": {
+   "name": "Kerry Kennedy",
+   "role": "Interim Superintendent, SAU 6 (sentence onset clipped into a commenter's cluster; continues in seg 167 — Rep. Cloutier refers back to it at seg 294 as 'Superintendent Kennedy alluded to it')"
+  },
+  "170": {
+   "name": "Heather Whitney"
+  },
+  "171": {
+   "name": "Mark Chamberlain",
+   "role": "Citizen commenter, Ward 1; retired banking professional and Stevens alumni-association fundraising volunteer (self-identified at seg 172; 0.32s onset fragment 40ms before that self-identification)"
+  },
+  "172": {
+   "name": "Mark Chamberlain",
+   "role": "Citizen commenter, Ward 1; retired banking professional and Stevens alumni-association fundraising volunteer (self-identified at seg 172)"
+  },
+  "173": {
+   "name": "Mark Chamberlain",
+   "role": "Citizen commenter, Ward 1; retired banking professional and Stevens alumni-association fundraising volunteer (self-identified at seg 172)"
+  },
+  "174": {
+   "name": "Mark Chamberlain",
+   "role": "Citizen commenter, Ward 1; retired banking professional and Stevens alumni-association fundraising volunteer (self-identified at seg 172)"
+  },
+  "175": {
+   "name": "Mark Chamberlain",
+   "role": "Citizen commenter, Ward 1; retired banking professional and Stevens alumni-association fundraising volunteer (self-identified at seg 172)"
+  },
+  "176": {
+   "name": "Mark Chamberlain",
+   "role": "Citizen commenter, Ward 1; retired banking professional and Stevens alumni-association fundraising volunteer (self-identified at seg 172)"
+  },
+  "177": {
+   "name": "Mark Chamberlain",
+   "role": "Citizen commenter, Ward 1; retired banking professional and Stevens alumni-association fundraising volunteer (self-identified at seg 172)"
+  },
+  "178": {
+   "name": "Mark Chamberlain",
+   "role": "Citizen commenter, Ward 1; retired banking professional and Stevens alumni-association fundraising volunteer (self-identified at seg 172)"
+  },
+  "179": {
+   "name": "Mark Chamberlain",
+   "role": "Citizen commenter, Ward 1; retired banking professional and Stevens alumni-association fundraising volunteer (self-identified at seg 172)"
+  },
+  "180": {
+   "name": "Mark Chamberlain",
+   "role": "Citizen commenter, Ward 1; retired banking professional and Stevens alumni-association fundraising volunteer (self-identified at seg 172)"
+  },
+  "181": {
+   "name": "Mark Chamberlain",
+   "role": "Citizen commenter, Ward 1; retired banking professional and Stevens alumni-association fundraising volunteer (self-identified at seg 172)"
+  },
+  "182": {
+   "name": "Mark Chamberlain",
+   "role": "Citizen commenter, Ward 1; retired banking professional and Stevens alumni-association fundraising volunteer (self-identified at seg 172)"
+  },
+  "183": {
+   "name": "Heather Whitney"
+  },
+  "184": {
+   "name": "Heather Whitney"
+  },
+  "193": {
+   "name": "Heather Whitney"
+  },
+  "194": {
+   "name": "Heather Whitney"
+  },
+  "195": {
+   "name": "Heather Whitney"
+  },
+  "198": {
+   "name": "Heather Whitney"
+  },
+  "199": {
+   "name": "Leslie Peabody"
+  },
+  "202": {
+   "name": "Leslie Peabody"
+  },
+  "203": {
+   "name": "Leslie Peabody"
+  },
+  "204": {
+   "name": "Heather Whitney"
+  },
+  "205": {
+   "name": "Heather Whitney"
+  },
+  "214": {
+   "name": "Heather Whitney"
+  },
+  "220": {
+   "name": "Heather Whitney",
+   "role": "School Board Chair (asks the speaker at the podium to use the microphone; clipped into a commenter's cluster)"
+  },
+  "222": {
+   "name": "Heather Whitney",
+   "role": "School Board Chair (asks the speaker at the podium to use the microphone; clipped into a commenter's cluster)"
+  },
+  "223": {
+   "name": "Heather Whitney"
+  },
+  "224": {
+   "name": "Ken Lownie",
+   "role": "Citizen commenter, Ward 2 (segment opens with the Chair's clipped words 'audience TV' before his reply)"
+  },
+  "229": {
+   "name": "Heather Whitney"
+  },
+  "235": {
+   "name": "Unidentified public commenter",
+   "role": "Citizen commenter — asks the board to bring the fair-school-funding presenters back to Claremont and to post the consequences of a $9M cut; no self-identification captured (voice clipped into the Chair's cluster)"
+  },
+  "236": {
+   "name": "Unidentified public commenter",
+   "role": "Citizen commenter — asks the board to bring the fair-school-funding presenters back to Claremont and to post the consequences of a $9M cut; no self-identification captured (voice clipped into the Chair's cluster)"
+  },
+  "237": {
+   "name": "Unidentified public commenter",
+   "role": "Citizen commenter — asks the board to bring the fair-school-funding presenters back to Claremont and to post the consequences of a $9M cut; no self-identification captured (voice clipped into the Chair's cluster)"
+  },
+  "238": {
+   "name": "Unidentified public commenter",
+   "role": "Citizen commenter — asks the board to bring the fair-school-funding presenters back to Claremont and to post the consequences of a $9M cut; no self-identification captured (voice clipped into the Chair's cluster)"
+  },
+  "239": {
+   "name": "Heather Whitney"
+  },
+  "260": {
+   "name": "Loren Howard",
+   "role": "School Board Member (sentence onset clipped into a commenter's cluster — 'What was the vote?')"
+  },
+  "273": {
+   "name": "Gary Merchant",
+   "role": "Citizen commenter, Ward 2; former state representative (sentence continuation — '50% of my tax bill is the school')"
+  },
+  "279": {
+   "name": "Unidentified",
+   "role": "Brief interjection from the board table during Mr. Merchant's remarks ('One of your classmates'); voice not distinguishable"
+  },
+  "286": {
+   "name": "John Cloutier",
+   "role": "State Representative; citizen commenter, Ward 1; Claremont native and Stevens High School class of 1975 (self-identified; ASR 'John Claudia')"
+  },
+  "287": {
+   "name": "John Cloutier",
+   "role": "State Representative; citizen commenter, Ward 1; Claremont native and Stevens High School class of 1975 (self-identified; ASR 'John Claudia')"
+  },
+  "288": {
+   "name": "John Cloutier",
+   "role": "State Representative; citizen commenter, Ward 1; Claremont native and Stevens High School class of 1975 (self-identified; ASR 'John Claudia')"
+  },
+  "289": {
+   "name": "John Cloutier",
+   "role": "State Representative; citizen commenter, Ward 1; Claremont native and Stevens High School class of 1975 (self-identified; ASR 'John Claudia')"
+  },
+  "290": {
+   "name": "John Cloutier",
+   "role": "State Representative; citizen commenter, Ward 1; Claremont native and Stevens High School class of 1975 (self-identified; ASR 'John Claudia')"
+  },
+  "291": {
+   "name": "John Cloutier",
+   "role": "State Representative; citizen commenter, Ward 1; Claremont native and Stevens High School class of 1975 (self-identified; ASR 'John Claudia')"
+  },
+  "292": {
+   "name": "John Cloutier",
+   "role": "State Representative; citizen commenter, Ward 1; Claremont native and Stevens High School class of 1975 (self-identified; ASR 'John Claudia')"
+  },
+  "293": {
+   "name": "John Cloutier",
+   "role": "State Representative; citizen commenter, Ward 1; Claremont native and Stevens High School class of 1975 (self-identified; ASR 'John Claudia')"
+  },
+  "294": {
+   "name": "John Cloutier",
+   "role": "State Representative; citizen commenter, Ward 1; Claremont native and Stevens High School class of 1975 (self-identified; ASR 'John Claudia')"
+  },
+  "295": {
+   "name": "John Cloutier",
+   "role": "State Representative; citizen commenter, Ward 1; Claremont native and Stevens High School class of 1975 (self-identified; ASR 'John Claudia')"
+  },
+  "296": {
+   "name": "John Cloutier",
+   "role": "State Representative; citizen commenter, Ward 1; Claremont native and Stevens High School class of 1975 (self-identified; ASR 'John Claudia')"
+  },
+  "297": {
+   "name": "John Cloutier",
+   "role": "State Representative; citizen commenter, Ward 1; Claremont native and Stevens High School class of 1975 (self-identified; ASR 'John Claudia')"
+  },
+  "298": {
+   "name": "John Cloutier",
+   "role": "State Representative; citizen commenter, Ward 1; Claremont native and Stevens High School class of 1975 (self-identified; ASR 'John Claudia')"
+  },
+  "299": {
+   "name": "John Cloutier",
+   "role": "State Representative; citizen commenter, Ward 1; Claremont native and Stevens High School class of 1975 (self-identified; ASR 'John Claudia')"
+  },
+  "300": {
+   "name": "John Cloutier",
+   "role": "State Representative; citizen commenter, Ward 1; Claremont native and Stevens High School class of 1975 (self-identified; ASR 'John Claudia')"
+  },
+  "301": {
+   "name": "John Cloutier",
+   "role": "State Representative; citizen commenter, Ward 1; Claremont native and Stevens High School class of 1975 (self-identified; ASR 'John Claudia')"
+  },
+  "302": {
+   "name": "John Cloutier",
+   "role": "State Representative; citizen commenter, Ward 1; Claremont native and Stevens High School class of 1975 (self-identified; ASR 'John Claudia')"
+  },
+  "323": {
+   "name": "Arlene Hawkins",
+   "role": "School Board Member; Policy Subcommittee Chair (her agenda-amendment request, split across three clusters)"
+  },
+  "325": {
+   "name": "Arlene Hawkins",
+   "role": "School Board Member; Policy Subcommittee Chair (her agenda-amendment request, split across three clusters)"
+  },
+  "326": {
+   "name": "Arlene Hawkins",
+   "role": "School Board Member; Policy Subcommittee Chair (her agenda-amendment request, split across three clusters)"
+  },
+  "328": {
+   "name": "Arlene Hawkins",
+   "role": "School Board Member; Policy Subcommittee Chair (her agenda-amendment request, split across three clusters)"
+  },
+  "331": {
+   "name": "Arlene Hawkins",
+   "role": "School Board Member; Policy Subcommittee Chair (her agenda-amendment request, split across three clusters)"
+  },
+  "333": {
+   "name": "Arlene Hawkins",
+   "role": "School Board Member; Policy Subcommittee Chair (her agenda-amendment request, split across three clusters)"
+  },
+  "335": {
+   "name": "Arlene Hawkins",
+   "role": "School Board Member; Policy Subcommittee Chair (her agenda-amendment request, split across three clusters)"
+  },
+  "342": {
+   "name": "Heather Whitney"
+  },
+  "351": {
+   "name": "Don Lavalette",
+   "role": "Citizen commenter, Ward 2 (self-identified; ASR 'Don level at Ward two')"
+  },
+  "352": {
+   "name": "Don Lavalette",
+   "role": "Citizen commenter, Ward 2 (self-identified; ASR 'Don level at Ward two')"
+  },
+  "353": {
+   "name": "Don Lavalette",
+   "role": "Citizen commenter, Ward 2 (self-identified; ASR 'Don level at Ward two')"
+  },
+  "355": {
+   "name": "Don Lavalette",
+   "role": "Citizen commenter, Ward 2 (self-identified; ASR 'Don level at Ward two')"
+  },
+  "380": {
+   "name": "Matt Angell"
+  },
+  "383": {
+   "name": "Matt Angell"
+  },
+  "387": {
+   "name": "Candace Crawford"
+  },
+  "391": {
+   "name": "Matt Angell"
+  },
+  "393": {
+   "name": "Candace Crawford"
+  },
+  "395": {
+   "name": "Matt Angell"
+  },
+  "399": {
+   "name": "Candace Crawford"
+  },
+  "401": {
+   "name": "Matt Angell"
+  },
+  "406": {
+   "name": "Matt Angell"
+  },
+  "410": {
+   "name": "Arlene Hawkins"
+  },
+  "413": {
+   "name": "Matt Angell"
+  },
+  "416": {
+   "name": "Matt Angell"
+  },
+  "423": {
+   "name": "Matt Angell"
+  },
+  "429": {
+   "name": "Matt Angell"
+  },
+  "434": {
+   "name": "Heather Whitney"
+  },
+  "439": {
+   "name": "Matt Angell"
+  },
+  "444": {
+   "name": "Heather Whitney"
+  },
+  "460": {
+   "name": "Multiple",
+   "role": "Roll-call vote responses (several board members answering 'yes')"
+  },
+  "462": {
+   "name": "Unidentified board member",
+   "role": "School Board Member (seconds the motion to return to public session; voice not distinguishable)"
+  },
+  "476": {
+   "name": "Heather Whitney"
+  },
+  "516": {
+   "name": "Heather Whitney"
+  },
+  "565": {
+   "name": "Noelle Kronberg"
+  },
+  "582": {
+   "name": "Heather Whitney"
+  },
+  "603": {
+   "name": "Kerry Kennedy"
+  },
+  "617": {
+   "name": "Arlene Hawkins"
+  },
+  "694": {
+   "name": "Heather Whitney"
+  },
+  "754": {
+   "name": "Heather Whitney"
+  },
+  "792": {
+   "name": "William 'Bill' Madden",
+   "role": "School Board Member (recognized by the Chair at seg 791 — 'business Office update. Mr. Madden'; his voice sits inside Mr. Sprague's cluster)"
+  },
+  "793": {
+   "name": "William 'Bill' Madden",
+   "role": "School Board Member (recognized by the Chair at seg 791 — 'business Office update. Mr. Madden'; his voice sits inside Mr. Sprague's cluster)"
+  },
+  "794": {
+   "name": "William 'Bill' Madden",
+   "role": "School Board Member (recognized by the Chair at seg 791 — 'business Office update. Mr. Madden'; his voice sits inside Mr. Sprague's cluster)"
+  },
+  "862": {
+   "name": "Arlene Hawkins"
+  },
+  "864": {
+   "name": "Arlene Hawkins"
+  },
+  "865": {
+   "name": "Arlene Hawkins"
+  },
+  "876": {
+   "name": "Candace Crawford",
+   "role": "School Board Member; Finance Subcommittee Chair (sentence continuation — 'I will promote this center every opportunity I can')"
+  }
+ }
+}

@@ -1,0 +1,276 @@
+{
+ "Speaker 1": {
+  "name": "Frank Sprague",
+  "role": "Claremont School Board Chair"
+ },
+ "Speaker 2": {
+  "name": "Cory LeClair",
+  "role": "Acting Superintendent, SAU 6 (Assistant Superintendent)"
+ },
+ "Speaker 3": {
+  "name": "Rob Lovett Jr.",
+  "role": "Claremont School Board member (uncertain - identified from the chair's 'piggybacking on Rob's comment' after his question; mostly short interjections)"
+ },
+ "Speaker 4": {
+  "name": "Nancy Lewis",
+  "role": "Teacher and student council advisor, Stevens High School (self-identified)"
+ },
+ "Speaker 5": {
+  "name": "Prescott Herzog",
+  "role": "Student representative to the board, Stevens High School"
+ },
+ "Speaker 6": {
+  "name": "Jason Benware",
+  "role": "Claremont School Board member"
+ },
+ "Speaker 7": {
+  "name": "Leah McCarthy",
+  "role": "Stevens High School senior; student council secretary and senior class president (self-ID 'Leah McCarthy'; ASR also 'liane', 'Leann')"
+ },
+ "Speaker 8": {
+  "name": "Carolyn Towle",
+  "role": "Claremont School Board member"
+ },
+ "Speaker 9": {
+  "name": "Emily Perez",
+  "role": "Stevens High School student council vice president (self-identified)"
+ },
+ "Speaker 10": {
+  "name": "Jennifer Ferland",
+  "role": "Registrar, cheer coach and senior class advisor, Stevens High School (self-identified)"
+ },
+ "Speaker 11": {
+  "name": "Michelle Pierce",
+  "role": "Claremont School Board member"
+ },
+ "Speaker 12": {
+  "name": "Rebecca Zullo",
+  "role": "Claremont School Board Vice Chair; superintendent search committee member"
+ },
+ "Speaker 13": {
+  "name": "Cory LeClair",
+  "role": "Acting Superintendent, SAU 6 (Assistant Superintendent)"
+ },
+ "Speaker 14": {
+  "name": "Michael O'Neill",
+  "role": "Business Administrator, SAU 6"
+ },
+ "__overrides__": {
+  "186": {
+   "name": "Susan Taylor",
+   "role": "School counselor, Claremont Middle School (introduced by the chair as 'Sue Taylor'; ASR self-ID 'sutler')"
+  },
+  "187": {
+   "name": "Susan Taylor",
+   "role": "School counselor, Claremont Middle School (introduced by the chair as 'Sue Taylor'; ASR self-ID 'sutler')"
+  },
+  "188": {
+   "name": "Susan Taylor",
+   "role": "School counselor, Claremont Middle School (introduced by the chair as 'Sue Taylor'; ASR self-ID 'sutler')"
+  },
+  "189": {
+   "name": "Susan Taylor",
+   "role": "School counselor, Claremont Middle School (introduced by the chair as 'Sue Taylor'; ASR self-ID 'sutler')"
+  },
+  "190": {
+   "name": "Susan Taylor",
+   "role": "School counselor, Claremont Middle School (introduced by the chair as 'Sue Taylor'; ASR self-ID 'sutler')"
+  },
+  "191": {
+   "name": "Susan Taylor",
+   "role": "School counselor, Claremont Middle School (introduced by the chair as 'Sue Taylor'; ASR self-ID 'sutler')"
+  },
+  "194": {
+   "name": "Susan Taylor",
+   "role": "School counselor, Claremont Middle School (introduced by the chair as 'Sue Taylor'; ASR self-ID 'sutler')"
+  },
+  "195": {
+   "name": "Susan Taylor",
+   "role": "School counselor, Claremont Middle School (introduced by the chair as 'Sue Taylor'; ASR self-ID 'sutler')"
+  },
+  "197": {
+   "name": "Susan Taylor",
+   "role": "School counselor, Claremont Middle School (introduced by the chair as 'Sue Taylor'; ASR self-ID 'sutler')"
+  },
+  "199": {
+   "name": "Susan Taylor",
+   "role": "School counselor, Claremont Middle School (introduced by the chair as 'Sue Taylor'; ASR self-ID 'sutler')"
+  },
+  "202": {
+   "name": "Susan Taylor",
+   "role": "School counselor, Claremont Middle School (introduced by the chair as 'Sue Taylor'; ASR self-ID 'sutler')"
+  },
+  "219": {
+   "name": "Susan Taylor",
+   "role": "School counselor, Claremont Middle School (introduced by the chair as 'Sue Taylor'; ASR self-ID 'sutler')"
+  },
+  "227": {
+   "name": "Susan Taylor",
+   "role": "School counselor, Claremont Middle School (introduced by the chair as 'Sue Taylor'; ASR self-ID 'sutler')"
+  },
+  "235": {
+   "name": "Susan Taylor",
+   "role": "School counselor, Claremont Middle School (introduced by the chair as 'Sue Taylor'; ASR self-ID 'sutler')"
+  },
+  "237": {
+   "name": "Susan Taylor",
+   "role": "School counselor, Claremont Middle School (introduced by the chair as 'Sue Taylor'; ASR self-ID 'sutler')"
+  },
+  "240": {
+   "name": "Susan Taylor",
+   "role": "School counselor, Claremont Middle School (introduced by the chair as 'Sue Taylor'; ASR self-ID 'sutler')"
+  },
+  "241": {
+   "name": "Susan Taylor",
+   "role": "School counselor, Claremont Middle School (introduced by the chair as 'Sue Taylor'; ASR self-ID 'sutler')"
+  },
+  "243": {
+   "name": "Susan Taylor",
+   "role": "School counselor, Claremont Middle School (introduced by the chair as 'Sue Taylor'; ASR self-ID 'sutler')"
+  },
+  "259": {
+   "name": "Susan Taylor",
+   "role": "School counselor, Claremont Middle School (introduced by the chair as 'Sue Taylor'; ASR self-ID 'sutler')"
+  },
+  "264": {
+   "name": "Susan Taylor",
+   "role": "School counselor, Claremont Middle School (introduced by the chair as 'Sue Taylor'; ASR self-ID 'sutler')"
+  },
+  "278": {
+   "name": "Susan Taylor",
+   "role": "School counselor, Claremont Middle School (introduced by the chair as 'Sue Taylor'; ASR self-ID 'sutler')"
+  },
+  "284": {
+   "name": "Susan Taylor",
+   "role": "School counselor, Claremont Middle School (introduced by the chair as 'Sue Taylor'; ASR self-ID 'sutler')"
+  },
+  "286": {
+   "name": "Susan Taylor",
+   "role": "School counselor, Claremont Middle School (introduced by the chair as 'Sue Taylor'; ASR self-ID 'sutler')"
+  },
+  "288": {
+   "name": "Susan Taylor",
+   "role": "School counselor, Claremont Middle School (introduced by the chair as 'Sue Taylor'; ASR self-ID 'sutler')"
+  },
+  "299": {
+   "name": "Susan Taylor",
+   "role": "School counselor, Claremont Middle School (introduced by the chair as 'Sue Taylor'; ASR self-ID 'sutler')"
+  },
+  "302": {
+   "name": "Susan Taylor",
+   "role": "School counselor, Claremont Middle School (introduced by the chair as 'Sue Taylor'; ASR self-ID 'sutler')"
+  },
+  "44": {
+   "name": "Kara Gilson",
+   "role": "English teacher, Stevens High School (self-ID 'Kara gilson'; spelling uncertain)"
+  },
+  "71": {
+   "name": "Kara Gilson",
+   "role": "English teacher, Stevens High School (self-ID 'Kara gilson'; spelling uncertain)"
+  },
+  "54": {
+   "name": "Leah McCarthy",
+   "role": "Stevens High School senior; student council secretary and senior class president (self-ID 'Leah McCarthy'; ASR also 'liane', 'Leann')"
+  },
+  "90": {
+   "name": "Leah McCarthy",
+   "role": "Stevens High School senior; student council secretary and senior class president (self-ID 'Leah McCarthy'; ASR also 'liane', 'Leann')"
+  },
+  "93": {
+   "name": "Leah McCarthy",
+   "role": "Stevens High School senior; student council secretary and senior class president (self-ID 'Leah McCarthy'; ASR also 'liane', 'Leann')"
+  },
+  "95": {
+   "name": "Leah McCarthy",
+   "role": "Stevens High School senior; student council secretary and senior class president (self-ID 'Leah McCarthy'; ASR also 'liane', 'Leann')"
+  },
+  "97": {
+   "name": "Leah McCarthy",
+   "role": "Stevens High School senior; student council secretary and senior class president (self-ID 'Leah McCarthy'; ASR also 'liane', 'Leann')"
+  },
+  "99": {
+   "name": "Leah McCarthy",
+   "role": "Stevens High School senior; student council secretary and senior class president (self-ID 'Leah McCarthy'; ASR also 'liane', 'Leann')"
+  },
+  "92": {
+   "name": "Leah McCarthy",
+   "role": "Stevens High School senior; student council secretary and senior class president (self-ID 'Leah McCarthy'; ASR also 'liane', 'Leann')"
+  },
+  "57": {
+   "name": "Audrey Paxton",
+   "role": "Stevens High School senior; student council vice president (self-identified)"
+  },
+  "58": {
+   "name": "Audrey Paxton",
+   "role": "Stevens High School senior; student council vice president (self-identified)"
+  },
+  "60": {
+   "name": "Audrey Paxton",
+   "role": "Stevens High School senior; student council vice president (self-identified)"
+  },
+  "115": {
+   "name": "Jennifer Ferland",
+   "role": "Registrar, cheer coach and senior class advisor, Stevens High School (self-identified)"
+  },
+  "117": {
+   "name": "Jennifer Ferland",
+   "role": "Registrar, cheer coach and senior class advisor, Stevens High School (self-identified)"
+  },
+  "119": {
+   "name": "Jennifer Ferland",
+   "role": "Registrar, cheer coach and senior class advisor, Stevens High School (self-identified)"
+  },
+  "121": {
+   "name": "Jennifer Ferland",
+   "role": "Registrar, cheer coach and senior class advisor, Stevens High School (self-identified)"
+  },
+  "156": {
+   "name": "Unidentified",
+   "role": "Stevens High School youth and government student (not named)"
+  },
+  "75": {
+   "name": "Unidentified",
+   "role": "Board member, female voice (welcomes the student council; not separable among Towle, Zullo, Pierce)"
+  },
+  "77": {
+   "name": "Unidentified",
+   "role": "Board member, female voice (welcomes the student council; not separable among Towle, Zullo, Pierce)"
+  },
+  "80": {
+   "name": "Unidentified",
+   "role": "Board member, female voice (welcomes the student council; not separable among Towle, Zullo, Pierce)"
+  },
+  "8": {
+   "name": "Unidentified",
+   "role": "Board member moving the minutes (voice merged into the teacher's cluster)"
+  },
+  "10": {
+   "name": "Unidentified",
+   "role": "Board member moving the minutes (voice merged into the teacher's cluster)"
+  },
+  "12": {
+   "name": "Carolyn Towle",
+   "role": "Claremont School Board member"
+  },
+  "163": {
+   "name": "Carolyn Towle",
+   "role": "Claremont School Board member"
+  },
+  "165": {
+   "name": "Carolyn Towle",
+   "role": "Claremont School Board member"
+  },
+  "3": {
+   "name": "Unidentified",
+   "role": "Roll-call answers (several members)"
+  },
+  "466": {
+   "name": "Cory LeClair",
+   "role": "Acting Superintendent, SAU 6 (Assistant Superintendent)"
+  },
+  "500": {
+   "name": "Cory LeClair",
+   "role": "Acting Superintendent, SAU 6 (Assistant Superintendent)"
+  }
+ }
+}

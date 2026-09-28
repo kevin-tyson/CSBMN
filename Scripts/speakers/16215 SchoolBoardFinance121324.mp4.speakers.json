@@ -1,0 +1,1132 @@
+{
+ "Speaker 1": {
+  "name": "Chris Pratt",
+  "role": "Superintendent, SAU 6"
+ },
+ "Speaker 2": {
+  "name": "Heather Whitney",
+  "role": "Finance Committee member; School Board Chair"
+ },
+ "Speaker 3": {
+  "name": "Candace Crawford",
+  "role": "Finance Committee member; Capital Improvements chair; SRVRTC Visioning chair"
+ },
+ "Speaker 4": {
+  "name": "Mary Henry",
+  "role": "Business Administrator, SAU 6"
+ },
+ "Speaker 5": {
+  "name": "Frank Sprague",
+  "role": "Finance Committee Chair; School Board Vice Chair"
+ },
+ "Speaker 6": {
+  "name": "Mike McCosker",
+  "role": "Director of Student Services, SAU 6"
+ },
+ "Speaker 7": {
+  "name": "Mary Henry",
+  "role": "Business Administrator, SAU 6"
+ },
+ "Speaker 8": {
+  "name": "Heather Whitney",
+  "role": "Finance Committee member; School Board Chair"
+ },
+ "Speaker 9": {
+  "name": "Mary Henry",
+  "role": "Business Administrator, SAU 6"
+ },
+ "Speaker 10": {
+  "name": "Candace Crawford",
+  "role": "Finance Committee member; Capital Improvements chair; SRVRTC Visioning chair"
+ },
+ "__overrides__": {
+  "0": {
+   "name": "Frank Sprague",
+   "role": "Finance Committee Chair; School Board Vice Chair"
+  },
+  "1": {
+   "name": "Frank Sprague",
+   "role": "Finance Committee Chair; School Board Vice Chair"
+  },
+  "2": {
+   "name": "Frank Sprague",
+   "role": "Finance Committee Chair; School Board Vice Chair"
+  },
+  "3": {
+   "name": "Frank Sprague",
+   "role": "Finance Committee Chair; School Board Vice Chair"
+  },
+  "4": {
+   "name": "Frank Sprague",
+   "role": "Finance Committee Chair; School Board Vice Chair"
+  },
+  "6": {
+   "name": "Frank Sprague",
+   "role": "Finance Committee Chair; School Board Vice Chair"
+  },
+  "7": {
+   "name": "Frank Sprague",
+   "role": "Finance Committee Chair; School Board Vice Chair"
+  },
+  "8": {
+   "name": "Frank Sprague",
+   "role": "Finance Committee Chair; School Board Vice Chair"
+  },
+  "9": {
+   "name": "Frank Sprague",
+   "role": "Finance Committee Chair; School Board Vice Chair"
+  },
+  "11": {
+   "name": "Frank Sprague",
+   "role": "Finance Committee Chair; School Board Vice Chair"
+  },
+  "17": {
+   "name": "Candace Crawford",
+   "role": "Finance Committee member; Capital Improvements chair; SRVRTC Visioning chair"
+  },
+  "20": {
+   "name": "Frank Sprague",
+   "role": "Finance Committee Chair; School Board Vice Chair"
+  },
+  "21": {
+   "name": "Frank Sprague",
+   "role": "Finance Committee Chair; School Board Vice Chair"
+  },
+  "25": {
+   "name": "Frank Sprague",
+   "role": "Finance Committee Chair; School Board Vice Chair"
+  },
+  "26": {
+   "name": "Frank Sprague",
+   "role": "Finance Committee Chair; School Board Vice Chair"
+  },
+  "27": {
+   "name": "Frank Sprague",
+   "role": "Finance Committee Chair; School Board Vice Chair"
+  },
+  "28": {
+   "name": "Mary Henry",
+   "role": "Business Administrator, SAU 6"
+  },
+  "30": {
+   "name": "Frank Sprague",
+   "role": "Finance Committee Chair; School Board Vice Chair"
+  },
+  "36": {
+   "name": "Frank Sprague",
+   "role": "Finance Committee Chair; School Board Vice Chair"
+  },
+  "38": {
+   "name": "Frank Sprague",
+   "role": "Finance Committee Chair; School Board Vice Chair"
+  },
+  "39": {
+   "name": "Mary Henry",
+   "role": "Business Administrator, SAU 6"
+  },
+  "50": {
+   "name": "Frank Sprague",
+   "role": "Finance Committee Chair; School Board Vice Chair"
+  },
+  "52": {
+   "name": "Frank Sprague",
+   "role": "Finance Committee Chair; School Board Vice Chair"
+  },
+  "53": {
+   "name": "Frank Sprague",
+   "role": "Finance Committee Chair; School Board Vice Chair"
+  },
+  "54": {
+   "name": "Frank Sprague",
+   "role": "Finance Committee Chair; School Board Vice Chair"
+  },
+  "55": {
+   "name": "Frank Sprague",
+   "role": "Finance Committee Chair; School Board Vice Chair"
+  },
+  "65": {
+   "name": "Frank Sprague",
+   "role": "Finance Committee Chair; School Board Vice Chair"
+  },
+  "87": {
+   "name": "Frank Sprague",
+   "role": "Finance Committee Chair; School Board Vice Chair"
+  },
+  "93": {
+   "name": "Frank Sprague",
+   "role": "Finance Committee Chair; School Board Vice Chair"
+  },
+  "94": {
+   "name": "Candace Crawford",
+   "role": "Finance Committee member; Capital Improvements chair; SRVRTC Visioning chair"
+  },
+  "105": {
+   "name": "Mary Henry",
+   "role": "Business Administrator, SAU 6"
+  },
+  "187": {
+   "name": "Heather Whitney",
+   "role": "Finance Committee member; School Board Chair"
+  },
+  "189": {
+   "name": "Heather Whitney",
+   "role": "Finance Committee member; School Board Chair"
+  },
+  "190": {
+   "name": "Heather Whitney",
+   "role": "Finance Committee member; School Board Chair"
+  },
+  "193": {
+   "name": "Heather Whitney",
+   "role": "Finance Committee member; School Board Chair"
+  },
+  "196": {
+   "name": "Heather Whitney",
+   "role": "Finance Committee member; School Board Chair"
+  },
+  "198": {
+   "name": "Heather Whitney",
+   "role": "Finance Committee member; School Board Chair"
+  },
+  "200": {
+   "name": "Heather Whitney",
+   "role": "Finance Committee member; School Board Chair"
+  },
+  "201": {
+   "name": "Heather Whitney",
+   "role": "Finance Committee member; School Board Chair"
+  },
+  "202": {
+   "name": "Heather Whitney",
+   "role": "Finance Committee member; School Board Chair"
+  },
+  "204": {
+   "name": "Heather Whitney",
+   "role": "Finance Committee member; School Board Chair"
+  },
+  "206": {
+   "name": "Heather Whitney",
+   "role": "Finance Committee member; School Board Chair"
+  },
+  "208": {
+   "name": "Heather Whitney",
+   "role": "Finance Committee member; School Board Chair"
+  },
+  "210": {
+   "name": "Heather Whitney",
+   "role": "Finance Committee member; School Board Chair"
+  },
+  "212": {
+   "name": "Heather Whitney",
+   "role": "Finance Committee member; School Board Chair"
+  },
+  "214": {
+   "name": "Heather Whitney",
+   "role": "Finance Committee member; School Board Chair"
+  },
+  "216": {
+   "name": "Heather Whitney",
+   "role": "Finance Committee member; School Board Chair"
+  },
+  "217": {
+   "name": "Heather Whitney",
+   "role": "Finance Committee member; School Board Chair"
+  },
+  "219": {
+   "name": "Heather Whitney",
+   "role": "Finance Committee member; School Board Chair"
+  },
+  "247": {
+   "name": "Chris Pratt",
+   "role": "Superintendent, SAU 6"
+  },
+  "264": {
+   "name": "Heather Whitney",
+   "role": "Finance Committee member; School Board Chair"
+  },
+  "266": {
+   "name": "Heather Whitney",
+   "role": "Finance Committee member; School Board Chair"
+  },
+  "268": {
+   "name": "Heather Whitney",
+   "role": "Finance Committee member; School Board Chair"
+  },
+  "272": {
+   "name": "Candace Crawford",
+   "role": "Finance Committee member; Capital Improvements chair; SRVRTC Visioning chair"
+  },
+  "275": {
+   "name": "Heather Whitney",
+   "role": "Finance Committee member; School Board Chair"
+  },
+  "277": {
+   "name": "Heather Whitney",
+   "role": "Finance Committee member; School Board Chair"
+  },
+  "279": {
+   "name": "Heather Whitney",
+   "role": "Finance Committee member; School Board Chair"
+  },
+  "281": {
+   "name": "Heather Whitney",
+   "role": "Finance Committee member; School Board Chair"
+  },
+  "283": {
+   "name": "Heather Whitney",
+   "role": "Finance Committee member; School Board Chair"
+  },
+  "285": {
+   "name": "Heather Whitney",
+   "role": "Finance Committee member; School Board Chair"
+  },
+  "287": {
+   "name": "Heather Whitney",
+   "role": "Finance Committee member; School Board Chair"
+  },
+  "289": {
+   "name": "Heather Whitney",
+   "role": "Finance Committee member; School Board Chair"
+  },
+  "291": {
+   "name": "Heather Whitney",
+   "role": "Finance Committee member; School Board Chair"
+  },
+  "293": {
+   "name": "Heather Whitney",
+   "role": "Finance Committee member; School Board Chair"
+  },
+  "295": {
+   "name": "Heather Whitney",
+   "role": "Finance Committee member; School Board Chair"
+  },
+  "297": {
+   "name": "Heather Whitney",
+   "role": "Finance Committee member; School Board Chair"
+  },
+  "302": {
+   "name": "Heather Whitney",
+   "role": "Finance Committee member; School Board Chair"
+  },
+  "304": {
+   "name": "Heather Whitney",
+   "role": "Finance Committee member; School Board Chair"
+  },
+  "305": {
+   "name": "Heather Whitney",
+   "role": "Finance Committee member; School Board Chair"
+  },
+  "308": {
+   "name": "Heather Whitney",
+   "role": "Finance Committee member; School Board Chair"
+  },
+  "310": {
+   "name": "Frank Sprague",
+   "role": "Finance Committee Chair; School Board Vice Chair"
+  },
+  "312": {
+   "name": "Heather Whitney",
+   "role": "Finance Committee member; School Board Chair"
+  },
+  "314": {
+   "name": "Heather Whitney",
+   "role": "Finance Committee member; School Board Chair"
+  },
+  "317": {
+   "name": "Heather Whitney",
+   "role": "Finance Committee member; School Board Chair"
+  },
+  "322": {
+   "name": "Heather Whitney",
+   "role": "Finance Committee member; School Board Chair"
+  },
+  "324": {
+   "name": "Heather Whitney",
+   "role": "Finance Committee member; School Board Chair"
+  },
+  "326": {
+   "name": "Heather Whitney",
+   "role": "Finance Committee member; School Board Chair"
+  },
+  "328": {
+   "name": "Heather Whitney",
+   "role": "Finance Committee member; School Board Chair"
+  },
+  "330": {
+   "name": "Heather Whitney",
+   "role": "Finance Committee member; School Board Chair"
+  },
+  "332": {
+   "name": "Heather Whitney",
+   "role": "Finance Committee member; School Board Chair"
+  },
+  "334": {
+   "name": "Heather Whitney",
+   "role": "Finance Committee member; School Board Chair"
+  },
+  "336": {
+   "name": "Heather Whitney",
+   "role": "Finance Committee member; School Board Chair"
+  },
+  "338": {
+   "name": "Heather Whitney",
+   "role": "Finance Committee member; School Board Chair"
+  },
+  "342": {
+   "name": "Heather Whitney",
+   "role": "Finance Committee member; School Board Chair"
+  },
+  "345": {
+   "name": "Heather Whitney",
+   "role": "Finance Committee member; School Board Chair"
+  },
+  "347": {
+   "name": "Heather Whitney",
+   "role": "Finance Committee member; School Board Chair"
+  },
+  "350": {
+   "name": "Heather Whitney",
+   "role": "Finance Committee member; School Board Chair"
+  },
+  "412": {
+   "name": "Heather Whitney",
+   "role": "Finance Committee member; School Board Chair"
+  },
+  "414": {
+   "name": "Heather Whitney",
+   "role": "Finance Committee member; School Board Chair"
+  },
+  "416": {
+   "name": "Heather Whitney",
+   "role": "Finance Committee member; School Board Chair"
+  },
+  "420": {
+   "name": "Heather Whitney",
+   "role": "Finance Committee member; School Board Chair"
+  },
+  "423": {
+   "name": "Heather Whitney",
+   "role": "Finance Committee member; School Board Chair"
+  },
+  "426": {
+   "name": "Heather Whitney",
+   "role": "Finance Committee member; School Board Chair"
+  },
+  "440": {
+   "name": "Heather Whitney",
+   "role": "Finance Committee member; School Board Chair"
+  },
+  "442": {
+   "name": "Heather Whitney",
+   "role": "Finance Committee member; School Board Chair"
+  },
+  "444": {
+   "name": "Heather Whitney",
+   "role": "Finance Committee member; School Board Chair"
+  },
+  "448": {
+   "name": "Chris Pratt",
+   "role": "Superintendent, SAU 6"
+  },
+  "487": {
+   "name": "Heather Whitney",
+   "role": "Finance Committee member; School Board Chair"
+  },
+  "491": {
+   "name": "Heather Whitney",
+   "role": "Finance Committee member; School Board Chair"
+  },
+  "493": {
+   "name": "Heather Whitney",
+   "role": "Finance Committee member; School Board Chair"
+  },
+  "497": {
+   "name": "Heather Whitney",
+   "role": "Finance Committee member; School Board Chair"
+  },
+  "499": {
+   "name": "Heather Whitney",
+   "role": "Finance Committee member; School Board Chair"
+  },
+  "502": {
+   "name": "Heather Whitney",
+   "role": "Finance Committee member; School Board Chair"
+  },
+  "503": {
+   "name": "Heather Whitney",
+   "role": "Finance Committee member; School Board Chair"
+  },
+  "510": {
+   "name": "Heather Whitney",
+   "role": "Finance Committee member; School Board Chair"
+  },
+  "511": {
+   "name": "Heather Whitney",
+   "role": "Finance Committee member; School Board Chair"
+  },
+  "512": {
+   "name": "Heather Whitney",
+   "role": "Finance Committee member; School Board Chair"
+  },
+  "514": {
+   "name": "Heather Whitney",
+   "role": "Finance Committee member; School Board Chair"
+  },
+  "516": {
+   "name": "Heather Whitney",
+   "role": "Finance Committee member; School Board Chair"
+  },
+  "518": {
+   "name": "Heather Whitney",
+   "role": "Finance Committee member; School Board Chair"
+  },
+  "520": {
+   "name": "Heather Whitney",
+   "role": "Finance Committee member; School Board Chair"
+  },
+  "522": {
+   "name": "Heather Whitney",
+   "role": "Finance Committee member; School Board Chair"
+  },
+  "524": {
+   "name": "Heather Whitney",
+   "role": "Finance Committee member; School Board Chair"
+  },
+  "526": {
+   "name": "Heather Whitney",
+   "role": "Finance Committee member; School Board Chair"
+  },
+  "528": {
+   "name": "Heather Whitney",
+   "role": "Finance Committee member; School Board Chair"
+  },
+  "529": {
+   "name": "Heather Whitney",
+   "role": "Finance Committee member; School Board Chair"
+  },
+  "533": {
+   "name": "Heather Whitney",
+   "role": "Finance Committee member; School Board Chair"
+  },
+  "534": {
+   "name": "Heather Whitney",
+   "role": "Finance Committee member; School Board Chair"
+  },
+  "536": {
+   "name": "Heather Whitney",
+   "role": "Finance Committee member; School Board Chair"
+  },
+  "537": {
+   "name": "Heather Whitney",
+   "role": "Finance Committee member; School Board Chair"
+  },
+  "540": {
+   "name": "Heather Whitney",
+   "role": "Finance Committee member; School Board Chair"
+  },
+  "542": {
+   "name": "Heather Whitney",
+   "role": "Finance Committee member; School Board Chair"
+  },
+  "544": {
+   "name": "Heather Whitney",
+   "role": "Finance Committee member; School Board Chair"
+  },
+  "546": {
+   "name": "Heather Whitney",
+   "role": "Finance Committee member; School Board Chair"
+  },
+  "548": {
+   "name": "Heather Whitney",
+   "role": "Finance Committee member; School Board Chair"
+  },
+  "550": {
+   "name": "Heather Whitney",
+   "role": "Finance Committee member; School Board Chair"
+  },
+  "554": {
+   "name": "Candace Crawford",
+   "role": "Finance Committee member; Capital Improvements chair; SRVRTC Visioning chair"
+  },
+  "556": {
+   "name": "Candace Crawford",
+   "role": "Finance Committee member; Capital Improvements chair; SRVRTC Visioning chair"
+  },
+  "557": {
+   "name": "Candace Crawford",
+   "role": "Finance Committee member; Capital Improvements chair; SRVRTC Visioning chair"
+  },
+  "558": {
+   "name": "Candace Crawford",
+   "role": "Finance Committee member; Capital Improvements chair; SRVRTC Visioning chair"
+  },
+  "559": {
+   "name": "Candace Crawford",
+   "role": "Finance Committee member; Capital Improvements chair; SRVRTC Visioning chair"
+  },
+  "560": {
+   "name": "Candace Crawford",
+   "role": "Finance Committee member; Capital Improvements chair; SRVRTC Visioning chair"
+  },
+  "564": {
+   "name": "Candace Crawford",
+   "role": "Finance Committee member; Capital Improvements chair; SRVRTC Visioning chair"
+  },
+  "566": {
+   "name": "Candace Crawford",
+   "role": "Finance Committee member; Capital Improvements chair; SRVRTC Visioning chair"
+  },
+  "568": {
+   "name": "Candace Crawford",
+   "role": "Finance Committee member; Capital Improvements chair; SRVRTC Visioning chair"
+  },
+  "571": {
+   "name": "Candace Crawford",
+   "role": "Finance Committee member; Capital Improvements chair; SRVRTC Visioning chair"
+  },
+  "572": {
+   "name": "Candace Crawford",
+   "role": "Finance Committee member; Capital Improvements chair; SRVRTC Visioning chair"
+  },
+  "574": {
+   "name": "Candace Crawford",
+   "role": "Finance Committee member; Capital Improvements chair; SRVRTC Visioning chair"
+  },
+  "576": {
+   "name": "Candace Crawford",
+   "role": "Finance Committee member; Capital Improvements chair; SRVRTC Visioning chair"
+  },
+  "579": {
+   "name": "Candace Crawford",
+   "role": "Finance Committee member; Capital Improvements chair; SRVRTC Visioning chair"
+  },
+  "581": {
+   "name": "Candace Crawford",
+   "role": "Finance Committee member; Capital Improvements chair; SRVRTC Visioning chair"
+  },
+  "583": {
+   "name": "Candace Crawford",
+   "role": "Finance Committee member; Capital Improvements chair; SRVRTC Visioning chair"
+  },
+  "586": {
+   "name": "Candace Crawford",
+   "role": "Finance Committee member; Capital Improvements chair; SRVRTC Visioning chair"
+  },
+  "588": {
+   "name": "Candace Crawford",
+   "role": "Finance Committee member; Capital Improvements chair; SRVRTC Visioning chair"
+  },
+  "591": {
+   "name": "Candace Crawford",
+   "role": "Finance Committee member; Capital Improvements chair; SRVRTC Visioning chair"
+  },
+  "592": {
+   "name": "Mary Henry",
+   "role": "Business Administrator, SAU 6"
+  },
+  "593": {
+   "name": "Candace Crawford",
+   "role": "Finance Committee member; Capital Improvements chair; SRVRTC Visioning chair"
+  },
+  "594": {
+   "name": "Mary Henry",
+   "role": "Business Administrator, SAU 6"
+  },
+  "596": {
+   "name": "Candace Crawford",
+   "role": "Finance Committee member; Capital Improvements chair; SRVRTC Visioning chair"
+  },
+  "599": {
+   "name": "Candace Crawford",
+   "role": "Finance Committee member; Capital Improvements chair; SRVRTC Visioning chair"
+  },
+  "600": {
+   "name": "Mary Henry",
+   "role": "Business Administrator, SAU 6"
+  },
+  "601": {
+   "name": "Candace Crawford",
+   "role": "Finance Committee member; Capital Improvements chair; SRVRTC Visioning chair"
+  },
+  "603": {
+   "name": "Candace Crawford",
+   "role": "Finance Committee member; Capital Improvements chair; SRVRTC Visioning chair"
+  },
+  "605": {
+   "name": "Candace Crawford",
+   "role": "Finance Committee member; Capital Improvements chair; SRVRTC Visioning chair"
+  },
+  "606": {
+   "name": "Mary Henry",
+   "role": "Business Administrator, SAU 6"
+  },
+  "607": {
+   "name": "Candace Crawford",
+   "role": "Finance Committee member; Capital Improvements chair; SRVRTC Visioning chair"
+  },
+  "608": {
+   "name": "Candace Crawford",
+   "role": "Finance Committee member; Capital Improvements chair; SRVRTC Visioning chair"
+  },
+  "610": {
+   "name": "Candace Crawford",
+   "role": "Finance Committee member; Capital Improvements chair; SRVRTC Visioning chair"
+  },
+  "611": {
+   "name": "Mary Henry",
+   "role": "Business Administrator, SAU 6"
+  },
+  "614": {
+   "name": "Candace Crawford",
+   "role": "Finance Committee member; Capital Improvements chair; SRVRTC Visioning chair"
+  },
+  "615": {
+   "name": "Mary Henry",
+   "role": "Business Administrator, SAU 6"
+  },
+  "616": {
+   "name": "Candace Crawford",
+   "role": "Finance Committee member; Capital Improvements chair; SRVRTC Visioning chair"
+  },
+  "617": {
+   "name": "Mary Henry",
+   "role": "Business Administrator, SAU 6"
+  },
+  "621": {
+   "name": "Candace Crawford",
+   "role": "Finance Committee member; Capital Improvements chair; SRVRTC Visioning chair"
+  },
+  "625": {
+   "name": "Candace Crawford",
+   "role": "Finance Committee member; Capital Improvements chair; SRVRTC Visioning chair"
+  },
+  "626": {
+   "name": "Mary Henry",
+   "role": "Business Administrator, SAU 6"
+  },
+  "627": {
+   "name": "Candace Crawford",
+   "role": "Finance Committee member; Capital Improvements chair; SRVRTC Visioning chair"
+  },
+  "628": {
+   "name": "Candace Crawford",
+   "role": "Finance Committee member; Capital Improvements chair; SRVRTC Visioning chair"
+  },
+  "629": {
+   "name": "Candace Crawford",
+   "role": "Finance Committee member; Capital Improvements chair; SRVRTC Visioning chair"
+  },
+  "630": {
+   "name": "Candace Crawford",
+   "role": "Finance Committee member; Capital Improvements chair; SRVRTC Visioning chair"
+  },
+  "631": {
+   "name": "Candace Crawford",
+   "role": "Finance Committee member; Capital Improvements chair; SRVRTC Visioning chair"
+  },
+  "632": {
+   "name": "Candace Crawford",
+   "role": "Finance Committee member; Capital Improvements chair; SRVRTC Visioning chair"
+  },
+  "633": {
+   "name": "Candace Crawford",
+   "role": "Finance Committee member; Capital Improvements chair; SRVRTC Visioning chair"
+  },
+  "634": {
+   "name": "Candace Crawford",
+   "role": "Finance Committee member; Capital Improvements chair; SRVRTC Visioning chair"
+  },
+  "635": {
+   "name": "Candace Crawford",
+   "role": "Finance Committee member; Capital Improvements chair; SRVRTC Visioning chair"
+  },
+  "641": {
+   "name": "Candace Crawford",
+   "role": "Finance Committee member; Capital Improvements chair; SRVRTC Visioning chair"
+  },
+  "642": {
+   "name": "Mary Henry",
+   "role": "Business Administrator, SAU 6"
+  },
+  "643": {
+   "name": "Candace Crawford",
+   "role": "Finance Committee member; Capital Improvements chair; SRVRTC Visioning chair"
+  },
+  "645": {
+   "name": "Candace Crawford",
+   "role": "Finance Committee member; Capital Improvements chair; SRVRTC Visioning chair"
+  },
+  "647": {
+   "name": "Candace Crawford",
+   "role": "Finance Committee member; Capital Improvements chair; SRVRTC Visioning chair"
+  },
+  "648": {
+   "name": "Candace Crawford",
+   "role": "Finance Committee member; Capital Improvements chair; SRVRTC Visioning chair"
+  },
+  "649": {
+   "name": "Candace Crawford",
+   "role": "Finance Committee member; Capital Improvements chair; SRVRTC Visioning chair"
+  },
+  "650": {
+   "name": "Candace Crawford",
+   "role": "Finance Committee member; Capital Improvements chair; SRVRTC Visioning chair"
+  },
+  "651": {
+   "name": "Mary Henry",
+   "role": "Business Administrator, SAU 6"
+  },
+  "652": {
+   "name": "Candace Crawford",
+   "role": "Finance Committee member; Capital Improvements chair; SRVRTC Visioning chair"
+  },
+  "654": {
+   "name": "Candace Crawford",
+   "role": "Finance Committee member; Capital Improvements chair; SRVRTC Visioning chair"
+  },
+  "656": {
+   "name": "Candace Crawford",
+   "role": "Finance Committee member; Capital Improvements chair; SRVRTC Visioning chair"
+  },
+  "657": {
+   "name": "Candace Crawford",
+   "role": "Finance Committee member; Capital Improvements chair; SRVRTC Visioning chair"
+  },
+  "658": {
+   "name": "Candace Crawford",
+   "role": "Finance Committee member; Capital Improvements chair; SRVRTC Visioning chair"
+  },
+  "660": {
+   "name": "Candace Crawford",
+   "role": "Finance Committee member; Capital Improvements chair; SRVRTC Visioning chair"
+  },
+  "663": {
+   "name": "Candace Crawford",
+   "role": "Finance Committee member; Capital Improvements chair; SRVRTC Visioning chair"
+  },
+  "675": {
+   "name": "Candace Crawford",
+   "role": "Finance Committee member; Capital Improvements chair; SRVRTC Visioning chair"
+  },
+  "681": {
+   "name": "Heather Whitney",
+   "role": "Finance Committee member; School Board Chair"
+  },
+  "695": {
+   "name": "Heather Whitney",
+   "role": "Finance Committee member; School Board Chair"
+  },
+  "735": {
+   "name": "Heather Whitney",
+   "role": "Finance Committee member; School Board Chair"
+  },
+  "737": {
+   "name": "Candace Crawford",
+   "role": "Finance Committee member; Capital Improvements chair; SRVRTC Visioning chair"
+  },
+  "739": {
+   "name": "Candace Crawford",
+   "role": "Finance Committee member; Capital Improvements chair; SRVRTC Visioning chair"
+  },
+  "752": {
+   "name": "Candace Crawford",
+   "role": "Finance Committee member; Capital Improvements chair; SRVRTC Visioning chair"
+  },
+  "754": {
+   "name": "Candace Crawford",
+   "role": "Finance Committee member; Capital Improvements chair; SRVRTC Visioning chair"
+  },
+  "760": {
+   "name": "Candace Crawford",
+   "role": "Finance Committee member; Capital Improvements chair; SRVRTC Visioning chair"
+  },
+  "762": {
+   "name": "Candace Crawford",
+   "role": "Finance Committee member; Capital Improvements chair; SRVRTC Visioning chair"
+  },
+  "767": {
+   "name": "Candace Crawford",
+   "role": "Finance Committee member; Capital Improvements chair; SRVRTC Visioning chair"
+  },
+  "778": {
+   "name": "Candace Crawford",
+   "role": "Finance Committee member; Capital Improvements chair; SRVRTC Visioning chair"
+  },
+  "784": {
+   "name": "Candace Crawford",
+   "role": "Finance Committee member; Capital Improvements chair; SRVRTC Visioning chair"
+  },
+  "787": {
+   "name": "Candace Crawford",
+   "role": "Finance Committee member; Capital Improvements chair; SRVRTC Visioning chair"
+  },
+  "789": {
+   "name": "Candace Crawford",
+   "role": "Finance Committee member; Capital Improvements chair; SRVRTC Visioning chair"
+  },
+  "795": {
+   "name": "Candace Crawford",
+   "role": "Finance Committee member; Capital Improvements chair; SRVRTC Visioning chair"
+  },
+  "797": {
+   "name": "Candace Crawford",
+   "role": "Finance Committee member; Capital Improvements chair; SRVRTC Visioning chair"
+  },
+  "800": {
+   "name": "Candace Crawford",
+   "role": "Finance Committee member; Capital Improvements chair; SRVRTC Visioning chair"
+  },
+  "802": {
+   "name": "Candace Crawford",
+   "role": "Finance Committee member; Capital Improvements chair; SRVRTC Visioning chair"
+  },
+  "805": {
+   "name": "Candace Crawford",
+   "role": "Finance Committee member; Capital Improvements chair; SRVRTC Visioning chair"
+  },
+  "812": {
+   "name": "Candace Crawford",
+   "role": "Finance Committee member; Capital Improvements chair; SRVRTC Visioning chair"
+  },
+  "817": {
+   "name": "Candace Crawford",
+   "role": "Finance Committee member; Capital Improvements chair; SRVRTC Visioning chair"
+  },
+  "824": {
+   "name": "Candace Crawford",
+   "role": "Finance Committee member; Capital Improvements chair; SRVRTC Visioning chair"
+  },
+  "825": {
+   "name": "Candace Crawford",
+   "role": "Finance Committee member; Capital Improvements chair; SRVRTC Visioning chair"
+  },
+  "828": {
+   "name": "Candace Crawford",
+   "role": "Finance Committee member; Capital Improvements chair; SRVRTC Visioning chair"
+  },
+  "830": {
+   "name": "Candace Crawford",
+   "role": "Finance Committee member; Capital Improvements chair; SRVRTC Visioning chair"
+  },
+  "841": {
+   "name": "Mary Henry",
+   "role": "Business Administrator, SAU 6"
+  },
+  "843": {
+   "name": "Frank Sprague",
+   "role": "Finance Committee Chair; School Board Vice Chair"
+  },
+  "845": {
+   "name": "Frank Sprague",
+   "role": "Finance Committee Chair; School Board Vice Chair"
+  },
+  "847": {
+   "name": "Mary Henry",
+   "role": "Business Administrator, SAU 6"
+  },
+  "849": {
+   "name": "Mary Henry",
+   "role": "Business Administrator, SAU 6"
+  },
+  "851": {
+   "name": "Mary Henry",
+   "role": "Business Administrator, SAU 6"
+  },
+  "852": {
+   "name": "Candace Crawford",
+   "role": "Finance Committee member; Capital Improvements chair; SRVRTC Visioning chair"
+  },
+  "855": {
+   "name": "Mary Henry",
+   "role": "Business Administrator, SAU 6"
+  },
+  "856": {
+   "name": "Candace Crawford",
+   "role": "Finance Committee member; Capital Improvements chair; SRVRTC Visioning chair"
+  },
+  "858": {
+   "name": "Candace Crawford",
+   "role": "Finance Committee member; Capital Improvements chair; SRVRTC Visioning chair"
+  },
+  "860": {
+   "name": "Candace Crawford",
+   "role": "Finance Committee member; Capital Improvements chair; SRVRTC Visioning chair"
+  },
+  "862": {
+   "name": "Candace Crawford",
+   "role": "Finance Committee member; Capital Improvements chair; SRVRTC Visioning chair"
+  },
+  "864": {
+   "name": "Candace Crawford",
+   "role": "Finance Committee member; Capital Improvements chair; SRVRTC Visioning chair"
+  },
+  "865": {
+   "name": "Candace Crawford",
+   "role": "Finance Committee member; Capital Improvements chair; SRVRTC Visioning chair"
+  },
+  "867": {
+   "name": "Candace Crawford",
+   "role": "Finance Committee member; Capital Improvements chair; SRVRTC Visioning chair"
+  },
+  "869": {
+   "name": "Candace Crawford",
+   "role": "Finance Committee member; Capital Improvements chair; SRVRTC Visioning chair"
+  },
+  "871": {
+   "name": "Candace Crawford",
+   "role": "Finance Committee member; Capital Improvements chair; SRVRTC Visioning chair"
+  },
+  "873": {
+   "name": "Candace Crawford",
+   "role": "Finance Committee member; Capital Improvements chair; SRVRTC Visioning chair"
+  },
+  "875": {
+   "name": "Candace Crawford",
+   "role": "Finance Committee member; Capital Improvements chair; SRVRTC Visioning chair"
+  },
+  "876": {
+   "name": "Candace Crawford",
+   "role": "Finance Committee member; Capital Improvements chair; SRVRTC Visioning chair"
+  },
+  "877": {
+   "name": "Mary Henry",
+   "role": "Business Administrator, SAU 6"
+  },
+  "879": {
+   "name": "Mary Henry",
+   "role": "Business Administrator, SAU 6"
+  },
+  "880": {
+   "name": "Candace Crawford",
+   "role": "Finance Committee member; Capital Improvements chair; SRVRTC Visioning chair"
+  },
+  "881": {
+   "name": "Mary Henry",
+   "role": "Business Administrator, SAU 6"
+  },
+  "882": {
+   "name": "Candace Crawford",
+   "role": "Finance Committee member; Capital Improvements chair; SRVRTC Visioning chair"
+  },
+  "883": {
+   "name": "Mary Henry",
+   "role": "Business Administrator, SAU 6"
+  },
+  "884": {
+   "name": "Candace Crawford",
+   "role": "Finance Committee member; Capital Improvements chair; SRVRTC Visioning chair"
+  },
+  "885": {
+   "name": "Mary Henry",
+   "role": "Business Administrator, SAU 6"
+  },
+  "886": {
+   "name": "Candace Crawford",
+   "role": "Finance Committee member; Capital Improvements chair; SRVRTC Visioning chair"
+  },
+  "888": {
+   "name": "Candace Crawford",
+   "role": "Finance Committee member; Capital Improvements chair; SRVRTC Visioning chair"
+  },
+  "889": {
+   "name": "Mary Henry",
+   "role": "Business Administrator, SAU 6"
+  },
+  "890": {
+   "name": "Candace Crawford",
+   "role": "Finance Committee member; Capital Improvements chair; SRVRTC Visioning chair"
+  },
+  "891": {
+   "name": "Mary Henry",
+   "role": "Business Administrator, SAU 6"
+  },
+  "892": {
+   "name": "Candace Crawford",
+   "role": "Finance Committee member; Capital Improvements chair; SRVRTC Visioning chair"
+  },
+  "893": {
+   "name": "Mary Henry",
+   "role": "Business Administrator, SAU 6"
+  },
+  "894": {
+   "name": "Candace Crawford",
+   "role": "Finance Committee member; Capital Improvements chair; SRVRTC Visioning chair"
+  },
+  "895": {
+   "name": "Mary Henry",
+   "role": "Business Administrator, SAU 6"
+  },
+  "896": {
+   "name": "Candace Crawford",
+   "role": "Finance Committee member; Capital Improvements chair; SRVRTC Visioning chair"
+  },
+  "898": {
+   "name": "Candace Crawford",
+   "role": "Finance Committee member; Capital Improvements chair; SRVRTC Visioning chair"
+  },
+  "900": {
+   "name": "Heather Whitney",
+   "role": "Finance Committee member; School Board Chair"
+  },
+  "901": {
+   "name": "Heather Whitney",
+   "role": "Finance Committee member; School Board Chair"
+  },
+  "903": {
+   "name": "Heather Whitney",
+   "role": "Finance Committee member; School Board Chair"
+  },
+  "904": {
+   "name": "Heather Whitney",
+   "role": "Finance Committee member; School Board Chair"
+  },
+  "905": {
+   "name": "Heather Whitney",
+   "role": "Finance Committee member; School Board Chair"
+  },
+  "906": {
+   "name": "Heather Whitney",
+   "role": "Finance Committee member; School Board Chair"
+  },
+  "908": {
+   "name": "Chris Pratt",
+   "role": "Superintendent, SAU 6"
+  },
+  "913": {
+   "name": "Heather Whitney",
+   "role": "Finance Committee member; School Board Chair"
+  },
+  "915": {
+   "name": "Candace Crawford",
+   "role": "Finance Committee member; Capital Improvements chair; SRVRTC Visioning chair"
+  },
+  "917": {
+   "name": "Heather Whitney",
+   "role": "Finance Committee member; School Board Chair"
+  },
+  "918": {
+   "name": "Heather Whitney",
+   "role": "Finance Committee member; School Board Chair"
+  },
+  "919": {
+   "name": "Heather Whitney",
+   "role": "Finance Committee member; School Board Chair"
+  },
+  "920": {
+   "name": "Heather Whitney",
+   "role": "Finance Committee member; School Board Chair"
+  },
+  "935": {
+   "name": "Frank Sprague",
+   "role": "Finance Committee Chair; School Board Vice Chair"
+  },
+  "939": {
+   "name": "Unidentified",
+   "role": "Unidentified Finance Committee member - Heather Whitney or Candace Crawford"
+  },
+  "941": {
+   "name": "Unidentified",
+   "role": "Unidentified Finance Committee member - Heather Whitney or Candace Crawford"
+  }
+ }
+}

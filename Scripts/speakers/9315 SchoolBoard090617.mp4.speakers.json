@@ -1,0 +1,32 @@
+{
+ "Speaker 1": {"name": "Brian Rapp", "role": "Claremont School Board Chair (runs the agenda, calls votes; addressed as 'Brian' in reply to his requests [250,277,939])"},
+ "Speaker 2": {"name": "Mary Woodman", "role": "School District Clerk and recording secretary (calls the roll [3]; 'Mary's having a rough night already' [12] follows her roll-call stumble [10])"},
+ "Speaker 3": {"name": "Middleton McGoodwin", "role": "Superintendent, SAU 6 (addressed as 'doctor Goodwin' [5] and 'Middleton' [890,900]; gives the superintendent's report)"},
+ "Speaker 4": {"name": "Frank Sprague", "role": "Claremont School Board member (Superintendent replies 'Frank is right' [106] and 'Frank, could you please help me where you are' [874] to this voice)"},
+ "Speaker 5": {"name": "Patrick Adrian", "role": "Claremont School Board member (recognized as 'Patrick' [140,256] and answers; 'You're good with the 30th, Patrick' [431-432])"},
+ "Speaker 6": {"name": "Cory LeClair", "role": "Assistant Superintendent, SAU 6 (Superintendent asks 'Corey' to take over the calendar item [471] and this voice answers 'it was my error, not Middleton's' [472])"},
+ "Speaker 7": {"name": "Chris Irish", "role": "Claremont School Board Vice Chair (Superintendent: 'if I may, Chris, you'll get back to me regarding location' [463] after this voice offers to book the room [461]; 'more granular than Chris was' [183])"},
+ "Speaker 8": {"name": "Unidentified", "role": "Unidentified - short acknowledgements, seconds and fragments from several voices"},
+ "Speaker 9": {"name": "Rebecca Zullo", "role": "Claremont School Board member, first-year ('newbie' [164-166]; recognized as 'Rebecca' [129,699,727] and 'Becky' [342,786]) (short cluster of her clipped onsets)"},
+ "Speaker 10": {"name": "Rebecca Zullo", "role": "Claremont School Board member, first-year ('newbie' [164-166]; recognized as 'Rebecca' [129,699,727] and 'Becky' [342,786])"},
+ "Speaker 11": {"name": "Michael O'Neill", "role": "Business Administrator, SAU 6 (addressed as 'Mike' [158] and answers on budget timing and card-processing fees; surname per roster, not said on this recording)"},
+ "Speaker 12": {"name": "Unidentified", "role": "Unidentified - two fragments"},
+ "Speaker 13": {"name": "Unidentified", "role": "Unidentified - short interjections from several voices"},
+ "Speaker 14": {"name": "Michael Petrin", "role": "Claremont School Board member (uncertain - attribution by elimination: Pierce appears not to answer the roll [3], and Irish's 'My year. Quiet. What do you think?' [356] likely asks 'Mike' before this voice answers [357]; Superintendent replies 'Yes, sir' [951])"},
+ "Speaker 15": {"name": "Rebecca Zullo", "role": "Claremont School Board member, first-year ('newbie' [164-166]; recognized as 'Rebecca' [129,699,727] and 'Becky' [342,786]) (short cluster of her clipped onsets)"},
+ "Speaker 16": {"name": "Rebecca Zullo", "role": "Claremont School Board member, first-year ('newbie' [164-166]; recognized as 'Rebecca' [129,699,727] and 'Becky' [342,786]) (short cluster of her clipped onsets)"},
+ "__overrides__": {
+  "1": {"name": "Unidentified", "role": "Unidentified - group recitation of the Pledge of Allegiance"},
+  "87": {"name": "Michael O'Neill"},
+  "189": {"name": "Unidentified", "role": "Unidentified - two fragments"},
+  "196": {"name": "Middleton McGoodwin"},
+  "199": {"name": "Cory LeClair"},
+  "203": {"name": "Chris Irish"},
+  "234": {"name": "Cory LeClair"},
+  "364": {"name": "Cory LeClair"},
+  "477": {"name": "Cory LeClair"},
+  "570": {"name": "Cory LeClair"},
+  "612": {"name": "Unidentified", "role": "Unidentified - short acknowledgements, seconds and fragments from several voices"},
+  "950": {"name": "Michael Petrin"}
+ }
+}

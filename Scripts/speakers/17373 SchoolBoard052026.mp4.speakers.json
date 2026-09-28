@@ -1,0 +1,452 @@
+{
+ "Speaker 1": {
+  "name": "Candace Crawford",
+  "role": "School Board Chair (presides; calls the meeting to order, controls the floor and announces every vote result)"
+ },
+ "Speaker 2": {
+  "name": "Don Lavalette",
+  "role": "School Board Member (Policy, Curriculum and Finance subcommittees; retired Claremont teacher and former SREA president - the 'a constituent asked me' / 'for the public' framing and the teacher-vs-bus-driver salary comparison run through this cluster)"
+ },
+ "Speaker 3": {
+  "name": "Taylor Trudeau",
+  "role": "Music teacher/director, Stevens High School (introduced by the Interim Superintendent as 'Mrs. Taylor Trudeau'; presents the music department recognition)"
+ },
+ "Speaker 4": {
+  "name": "Heather Whitney",
+  "role": "School Board Member; Finance Subcommittee; chair of the ad hoc School Reconfiguration Exploratory Committee (identification rests on content and idiolect rather than a spoken recognition - the Chair's 'Yes, sir.' at 832s is unexplained counter-evidence; see the run report)"
+ },
+ "Speaker 5": {
+  "name": "Unidentified",
+  "role": "Unidentified board member - three short procedural fragments the diarizer split into their own cluster"
+ },
+ "Speaker 6": {
+  "name": "Kerry Kennedy",
+  "role": "Interim Superintendent, SAU 6 (delivers the superintendent's report)"
+ },
+ "Speaker 7": {
+  "name": "Unidentified",
+  "role": "Unidentified - crosstalk cluster; every segment is a sub-second fragment, most of them pieces of a neighbouring speaker's sentence (see per-segment reassignments)"
+ },
+ "Speaker 8": {
+  "name": "Matt Angell",
+  "role": "Interim Business Administrator, SAU 6 (delivers the monthly finance report and all four procurement items)"
+ },
+ "Speaker 9": {
+  "name": "Brian Rapp",
+  "role": "School Board Member (Capital Improvement and Policy subcommittees; deputy fire chief - addressed by name as 'Brian' by the Chair at 1684s and by Arlene Hawkins at 6369s, and as 'Mr. Rep[p]' by the Chair at 3842s)"
+ },
+ "Speaker 10": {
+  "name": "Noelle Kronberg",
+  "role": "School Board Clerk (reads every roll call and keeps the minutes; the members' answers are merged into her roll-call segments)"
+ },
+ "Speaker 11": {
+  "name": "Matt Angell",
+  "role": "Interim Business Administrator, SAU 6 (same voice as Speaker 8 - the diarizer split the finance report mid-delivery)"
+ },
+ "Speaker 12": {
+  "name": "Unidentified",
+  "role": "Unidentified - mixed cluster: the Butler Bus Service representative's turns plus short crosstalk from the board table (see per-segment reassignments)"
+ },
+ "Speaker 13": {
+  "name": "Loren Howard",
+  "role": "School Board Member; Policy Subcommittee Chair; ad hoc communications point person (the Chair's recognition 'Mr. Howard' is absorbed into this cluster's onset at 4292s)"
+ },
+ "Speaker 14": {
+  "name": "Arlene Hawkins",
+  "role": "Public commenter, Ward 3; former School Board member and former Policy Subcommittee chair (self-identified: 'Arlene Hawkins, Ward three is the former policy chair')"
+ },
+ "Speaker 15": {
+  "name": "Unidentified",
+  "role": "Unidentified - two short fragments the diarizer split into their own cluster"
+ },
+ "Speaker 16": {
+  "name": "William 'Bill' Madden",
+  "role": "School Board Member; Capital Improvement Subcommittee Chair; Curriculum Subcommittee (the Chair's recognition 'Yes. Bill.' immediately precedes this segment)"
+ },
+ "Speaker 17": {
+  "name": "Unidentified",
+  "role": "Stevens High School student, Ward 3 - announced the Mary Poppins Jr. production and the collage concert and is the concert's emcee; opened with 'You all know me' and never gave a name"
+ },
+ "__overrides__": {
+  "2": {
+   "name": "Unidentified",
+   "role": "All present - the Pledge of Allegiance recited in unison (the diarizer assigned the group recitation to one cluster)"
+  },
+  "4": {
+   "name": "Noelle Kronberg",
+   "role": "School Board Clerk - opening roll call; the reader's names and each member's 'here' answer are merged into the same segment"
+  },
+  "5": {
+   "name": "Noelle Kronberg",
+   "role": "School Board Clerk - opening roll call; the reader's names and each member's 'here' answer are merged into the same segment"
+  },
+  "6": {
+   "name": "Noelle Kronberg",
+   "role": "School Board Clerk - opening roll call; the reader's names and each member's 'here' answer are merged into the same segment"
+  },
+  "7": {
+   "name": "Noelle Kronberg",
+   "role": "School Board Clerk - opening roll call; the reader's names and each member's 'here' answer are merged into the same segment"
+  },
+  "14": {
+   "name": "Noelle Kronberg",
+   "role": "School Board Clerk (responding on the corrections to the 5/6/26 minutes - 'I didn't have those documents'; reasoned from role, no spoken anchor)"
+  },
+  "16": {
+   "name": "Noelle Kronberg",
+   "role": "School Board Clerk (responding on the corrections to the 5/6/26 minutes - 'I didn't have those documents'; reasoned from role, no spoken anchor)"
+  },
+  "23": {
+   "name": "Kerry Kennedy",
+   "role": "Interim Superintendent, SAU 6 (delivers the superintendent's report)"
+  },
+  "53": {
+   "name": "Hope Damon",
+   "role": "State Representative, New Hampshire House - Croydon/Sullivan County (self-identified: 'I'm state rep. Hope Damon, for the record'); citizens' comment, legislative update"
+  },
+  "54": {
+   "name": "Hope Damon",
+   "role": "State Representative, New Hampshire House - Croydon/Sullivan County (self-identified: 'I'm state rep. Hope Damon, for the record'); citizens' comment, legislative update"
+  },
+  "55": {
+   "name": "Hope Damon",
+   "role": "State Representative, New Hampshire House - Croydon/Sullivan County (self-identified: 'I'm state rep. Hope Damon, for the record'); citizens' comment, legislative update"
+  },
+  "56": {
+   "name": "Hope Damon",
+   "role": "State Representative, New Hampshire House - Croydon/Sullivan County (self-identified: 'I'm state rep. Hope Damon, for the record'); citizens' comment, legislative update"
+  },
+  "57": {
+   "name": "Hope Damon",
+   "role": "State Representative, New Hampshire House - Croydon/Sullivan County (self-identified: 'I'm state rep. Hope Damon, for the record'); citizens' comment, legislative update"
+  },
+  "58": {
+   "name": "Hope Damon",
+   "role": "State Representative, New Hampshire House - Croydon/Sullivan County (self-identified: 'I'm state rep. Hope Damon, for the record'); citizens' comment, legislative update"
+  },
+  "59": {
+   "name": "Hope Damon",
+   "role": "State Representative, New Hampshire House - Croydon/Sullivan County (self-identified: 'I'm state rep. Hope Damon, for the record'); citizens' comment, legislative update"
+  },
+  "60": {
+   "name": "Hope Damon",
+   "role": "State Representative, New Hampshire House - Croydon/Sullivan County (self-identified: 'I'm state rep. Hope Damon, for the record'); citizens' comment, legislative update"
+  },
+  "61": {
+   "name": "Hope Damon",
+   "role": "State Representative, New Hampshire House - Croydon/Sullivan County (self-identified: 'I'm state rep. Hope Damon, for the record'); citizens' comment, legislative update"
+  },
+  "62": {
+   "name": "Hope Damon",
+   "role": "State Representative, New Hampshire House - Croydon/Sullivan County (self-identified: 'I'm state rep. Hope Damon, for the record'); citizens' comment, legislative update"
+  },
+  "67": {
+   "name": "Hope Damon",
+   "role": "State Representative, New Hampshire House - Croydon/Sullivan County (self-identified: 'I'm state rep. Hope Damon, for the record'); citizens' comment, legislative update"
+  },
+  "68": {
+   "name": "Hope Damon",
+   "role": "State Representative, New Hampshire House - Croydon/Sullivan County (self-identified: 'I'm state rep. Hope Damon, for the record'); citizens' comment, legislative update"
+  },
+  "71": {
+   "name": "Hope Damon",
+   "role": "State Representative, New Hampshire House - Croydon/Sullivan County (self-identified: 'I'm state rep. Hope Damon, for the record'); citizens' comment, legislative update"
+  },
+  "73": {
+   "name": "Hope Damon",
+   "role": "State Representative, New Hampshire House - Croydon/Sullivan County (self-identified: 'I'm state rep. Hope Damon, for the record'); citizens' comment, legislative update"
+  },
+  "76": {
+   "name": "Hope Damon",
+   "role": "State Representative, New Hampshire House - Croydon/Sullivan County (self-identified: 'I'm state rep. Hope Damon, for the record'); citizens' comment, legislative update"
+  },
+  "78": {
+   "name": "Hope Damon",
+   "role": "State Representative, New Hampshire House - Croydon/Sullivan County (self-identified: 'I'm state rep. Hope Damon, for the record'); citizens' comment, legislative update"
+  },
+  "80": {
+   "name": "Hope Damon",
+   "role": "State Representative, New Hampshire House - Croydon/Sullivan County (self-identified: 'I'm state rep. Hope Damon, for the record'); citizens' comment, legislative update"
+  },
+  "82": {
+   "name": "Candace Crawford",
+   "role": "School Board Chair (presides; calls the meeting to order, controls the floor and announces every vote result)"
+  },
+  "127": {
+   "name": "Brian Rapp",
+   "role": "School Board Member (Capital Improvement and Policy subcommittees; deputy fire chief - addressed by name as 'Brian' by the Chair at 1684s and by Arlene Hawkins at 6369s, and as 'Mr. Rep[p]' by the Chair at 3842s)"
+  },
+  "146": {
+   "name": "Candace Crawford",
+   "role": "School Board Chair (presides; calls the meeting to order, controls the floor and announces every vote result)"
+  },
+  "149": {
+   "name": "Brian Rapp",
+   "role": "School Board Member (Capital Improvement and Policy subcommittees; deputy fire chief - addressed by name as 'Brian' by the Chair at 1684s and by Arlene Hawkins at 6369s, and as 'Mr. Rep[p]' by the Chair at 3842s)"
+  },
+  "154": {
+   "name": "Kerry Kennedy",
+   "role": "Interim Superintendent, SAU 6 (delivers the superintendent's report)"
+  },
+  "158": {
+   "name": "Heather Whitney",
+   "role": "School Board Member; Finance Subcommittee; chair of the ad hoc School Reconfiguration Exploratory Committee (identification rests on content and idiolect rather than a spoken recognition - the Chair's 'Yes, sir.' at 832s is unexplained counter-evidence; see the run report)"
+  },
+  "174": {
+   "name": "Kerry Kennedy",
+   "role": "Interim Superintendent, SAU 6 (delivers the superintendent's report)"
+  },
+  "209": {
+   "name": "Candace Crawford",
+   "role": "School Board Chair (presides; calls the meeting to order, controls the floor and announces every vote result)"
+  },
+  "212": {
+   "name": "Brian Rapp",
+   "role": "School Board Member (Capital Improvement and Policy subcommittees; deputy fire chief - addressed by name as 'Brian' by the Chair at 1684s and by Arlene Hawkins at 6369s, and as 'Mr. Rep[p]' by the Chair at 3842s)"
+  },
+  "223": {
+   "name": "Heather Whitney",
+   "role": "School Board Member; Finance Subcommittee; chair of the ad hoc School Reconfiguration Exploratory Committee (identification rests on content and idiolect rather than a spoken recognition - the Chair's 'Yes, sir.' at 832s is unexplained counter-evidence; see the run report)"
+  },
+  "230": {
+   "name": "Heather Whitney",
+   "role": "School Board Member; Finance Subcommittee; chair of the ad hoc School Reconfiguration Exploratory Committee (identification rests on content and idiolect rather than a spoken recognition - the Chair's 'Yes, sir.' at 832s is unexplained counter-evidence; see the run report)"
+  },
+  "239": {
+   "name": "Heather Whitney",
+   "role": "School Board Member; Finance Subcommittee; chair of the ad hoc School Reconfiguration Exploratory Committee (identification rests on content and idiolect rather than a spoken recognition - the Chair's 'Yes, sir.' at 832s is unexplained counter-evidence; see the run report)"
+  },
+  "241": {
+   "name": "Heather Whitney",
+   "role": "School Board Member; Finance Subcommittee; chair of the ad hoc School Reconfiguration Exploratory Committee (identification rests on content and idiolect rather than a spoken recognition - the Chair's 'Yes, sir.' at 832s is unexplained counter-evidence; see the run report)"
+  },
+  "246": {
+   "name": "Heather Whitney",
+   "role": "School Board Member; Finance Subcommittee; chair of the ad hoc School Reconfiguration Exploratory Committee (identification rests on content and idiolect rather than a spoken recognition - the Chair's 'Yes, sir.' at 832s is unexplained counter-evidence; see the run report)"
+  },
+  "248": {
+   "name": "Heather Whitney",
+   "role": "School Board Member; Finance Subcommittee; chair of the ad hoc School Reconfiguration Exploratory Committee (identification rests on content and idiolect rather than a spoken recognition - the Chair's 'Yes, sir.' at 832s is unexplained counter-evidence; see the run report)"
+  },
+  "278": {
+   "name": "Unidentified",
+   "role": "Board members' voice vote (spoken in unison; the diarizer assigns the chorus to a single cluster)"
+  },
+  "288": {
+   "name": "Matt Angell",
+   "role": "Interim Business Administrator, SAU 6 (delivers the monthly finance report and all four procurement items)"
+  },
+  "299": {
+   "name": "Unidentified",
+   "role": "Vice President of Operations, Butler Bus Service of Northern New England - self-identified by title at the podium, name never stated"
+  },
+  "302": {
+   "name": "Unidentified",
+   "role": "Vice President of Operations, Butler Bus Service of Northern New England - self-identified by title at the podium, name never stated"
+  },
+  "304": {
+   "name": "Unidentified",
+   "role": "Vice President of Operations, Butler Bus Service of Northern New England - self-identified by title at the podium, name never stated"
+  },
+  "305": {
+   "name": "Unidentified",
+   "role": "Vice President of Operations, Butler Bus Service of Northern New England - self-identified by title at the podium, name never stated"
+  },
+  "318": {
+   "name": "Unidentified",
+   "role": "Unidentified respondent during the bus contract discussion (answers Mr. Rapp's bargaining-unit question; could be the Business Administrator or the Butler representative)"
+  },
+  "322": {
+   "name": "Brian Rapp",
+   "role": "School Board Member (Capital Improvement and Policy subcommittees; deputy fire chief - addressed by name as 'Brian' by the Chair at 1684s and by Arlene Hawkins at 6369s, and as 'Mr. Rep[p]' by the Chair at 3842s)"
+  },
+  "329": {
+   "name": "Candace Crawford",
+   "role": "School Board Chair (presides; calls the meeting to order, controls the floor and announces every vote result)"
+  },
+  "334": {
+   "name": "Loren Howard",
+   "role": "School Board Member; Policy Subcommittee Chair; ad hoc communications point person (the Chair's recognition 'Mr. Howard' is absorbed into this cluster's onset at 4292s)"
+  },
+  "369": {
+   "name": "Heather Whitney",
+   "role": "School Board Member; Finance Subcommittee; chair of the ad hoc School Reconfiguration Exploratory Committee (identification rests on content and idiolect rather than a spoken recognition - the Chair's 'Yes, sir.' at 832s is unexplained counter-evidence; see the run report)"
+  },
+  "372": {
+   "name": "Heather Whitney",
+   "role": "School Board Member; Finance Subcommittee; chair of the ad hoc School Reconfiguration Exploratory Committee (identification rests on content and idiolect rather than a spoken recognition - the Chair's 'Yes, sir.' at 832s is unexplained counter-evidence; see the run report)"
+  },
+  "382": {
+   "name": "Don Lavalette",
+   "role": "School Board Member (Policy, Curriculum and Finance subcommittees; retired Claremont teacher and former SREA president - the 'a constituent asked me' / 'for the public' framing and the teacher-vs-bus-driver salary comparison run through this cluster)"
+  },
+  "384": {
+   "name": "Matt Angell",
+   "role": "Interim Business Administrator, SAU 6 (delivers the monthly finance report and all four procurement items)"
+  },
+  "420": {
+   "name": "Don Lavalette",
+   "role": "School Board Member (Policy, Curriculum and Finance subcommittees; retired Claremont teacher and former SREA president - the 'a constituent asked me' / 'for the public' framing and the teacher-vs-bus-driver salary comparison run through this cluster)"
+  },
+  "441": {
+   "name": "Candace Crawford",
+   "role": "School Board Chair (presides; calls the meeting to order, controls the floor and announces every vote result)"
+  },
+  "477": {
+   "name": "Unidentified",
+   "role": "Board members' voice vote (spoken in unison; the diarizer assigns the chorus to a single cluster)"
+  },
+  "479": {
+   "name": "Unidentified",
+   "role": "Unidentified board member - the lone 'no' in the 6-1 vote on the food service contract"
+  },
+  "502": {
+   "name": "Brian Rapp",
+   "role": "School Board Member (Capital Improvement and Policy subcommittees; deputy fire chief - addressed by name as 'Brian' by the Chair at 1684s and by Arlene Hawkins at 6369s, and as 'Mr. Rep[p]' by the Chair at 3842s)"
+  },
+  "508": {
+   "name": "Brian Rapp",
+   "role": "School Board Member (Capital Improvement and Policy subcommittees; deputy fire chief - addressed by name as 'Brian' by the Chair at 1684s and by Arlene Hawkins at 6369s, and as 'Mr. Rep[p]' by the Chair at 3842s)"
+  },
+  "511": {
+   "name": "Unidentified",
+   "role": "Unidentified board member - one-word reaction during the school photo contract discussion"
+  },
+  "516": {
+   "name": "Unidentified",
+   "role": "Board members' voice vote (spoken in unison; the diarizer assigns the chorus to a single cluster)"
+  },
+  "534": {
+   "name": "Candace Crawford",
+   "role": "School Board Chair (presides; calls the meeting to order, controls the floor and announces every vote result)"
+  },
+  "536": {
+   "name": "Unidentified",
+   "role": "Unidentified board member seconding the motion to enter nonpublic session"
+  },
+  "563": {
+   "name": "Michael Petrin",
+   "role": "School Board Vice Chair; Sugar River Valley Regional Technical Center Subcommittee Chair (delivers the SRVRTC subcommittee report the Chair asks for; committee chairmanship read into the record 3/18/26)"
+  },
+  "566": {
+   "name": "William 'Bill' Madden",
+   "role": "School Board Member; Capital Improvement Subcommittee Chair; Curriculum Subcommittee (the Chair's recognition 'Yes. Bill.' immediately precedes this segment)"
+  },
+  "602": {
+   "name": "Unidentified",
+   "role": "Board members' voice vote (spoken in unison; the diarizer assigns the chorus to a single cluster)"
+  },
+  "618": {
+   "name": "Unidentified",
+   "role": "Board members' voice vote (spoken in unison; the diarizer assigns the chorus to a single cluster)"
+  },
+  "640": {
+   "name": "Unidentified",
+   "role": "Board members' voice vote (spoken in unison; the diarizer assigns the chorus to a single cluster)"
+  },
+  "663": {
+   "name": "Don Lavalette",
+   "role": "School Board Member (Policy, Curriculum and Finance subcommittees; retired Claremont teacher and former SREA president - the 'a constituent asked me' / 'for the public' framing and the teacher-vs-bus-driver salary comparison run through this cluster)"
+  },
+  "685": {
+   "name": "Arlene Hawkins",
+   "role": "Public commenter, Ward 3; former School Board member and former Policy Subcommittee chair (asking the Chair for the floor immediately before she identifies herself)"
+  },
+  "688": {
+   "name": "Arlene Hawkins",
+   "role": "Public commenter, Ward 3; former School Board member and former Policy Subcommittee chair (asking the Chair for the floor immediately before she identifies herself)"
+  },
+  "692": {
+   "name": "Candace Crawford",
+   "role": "School Board Chair (presides; calls the meeting to order, controls the floor and announces every vote result)"
+  },
+  "703": {
+   "name": "Heather Whitney",
+   "role": "School Board Member; Finance Subcommittee; chair of the ad hoc School Reconfiguration Exploratory Committee (identification rests on content and idiolect rather than a spoken recognition - the Chair's 'Yes, sir.' at 832s is unexplained counter-evidence; see the run report)"
+  },
+  "712": {
+   "name": "Brian Rapp",
+   "role": "School Board Member (Capital Improvement and Policy subcommittees; deputy fire chief - addressed by name as 'Brian' by the Chair at 1684s and by Arlene Hawkins at 6369s, and as 'Mr. Rep[p]' by the Chair at 3842s)"
+  },
+  "719": {
+   "name": "Candace Crawford",
+   "role": "School Board Chair (presides; calls the meeting to order, controls the floor and announces every vote result)"
+  },
+  "721": {
+   "name": "Candace Crawford",
+   "role": "School Board Chair (presides; calls the meeting to order, controls the floor and announces every vote result)"
+  },
+  "726": {
+   "name": "Brian Rapp",
+   "role": "School Board Member (Capital Improvement and Policy subcommittees; deputy fire chief - addressed by name as 'Brian' by the Chair at 1684s and by Arlene Hawkins at 6369s, and as 'Mr. Rep[p]' by the Chair at 3842s)"
+  },
+  "739": {
+   "name": "Don Lavalette",
+   "role": "School Board Member (Policy, Curriculum and Finance subcommittees; retired Claremont teacher and former SREA president - the 'a constituent asked me' / 'for the public' framing and the teacher-vs-bus-driver salary comparison run through this cluster)"
+  },
+  "750": {
+   "name": "Loren Howard",
+   "role": "School Board Member; Policy Subcommittee Chair; ad hoc communications point person (the Chair's recognition 'Mr. Howard' is absorbed into this cluster's onset at 4292s)"
+  },
+  "768": {
+   "name": "Candace Crawford",
+   "role": "School Board Chair (presides; calls the meeting to order, controls the floor and announces every vote result)"
+  },
+  "773": {
+   "name": "Loren Howard",
+   "role": "School Board Member; Policy Subcommittee Chair; ad hoc communications point person (the Chair's recognition 'Mr. Howard' is absorbed into this cluster's onset at 4292s)"
+  },
+  "783": {
+   "name": "Unidentified",
+   "role": "Board members' voice vote (spoken in unison; the diarizer assigns the chorus to a single cluster)"
+  },
+  "788": {
+   "name": "Candace Crawford",
+   "role": "School Board Chair (presides; calls the meeting to order, controls the floor and announces every vote result)"
+  },
+  "805": {
+   "name": "Candace Crawford",
+   "role": "School Board Chair (presides; calls the meeting to order, controls the floor and announces every vote result)"
+  },
+  "828": {
+   "name": "Don Lavalette",
+   "role": "School Board Member (Policy, Curriculum and Finance subcommittees; retired Claremont teacher and former SREA president - the 'a constituent asked me' / 'for the public' framing and the teacher-vs-bus-driver salary comparison run through this cluster)"
+  },
+  "830": {
+   "name": "Candace Crawford",
+   "role": "School Board Chair (presides; calls the meeting to order, controls the floor and announces every vote result)"
+  },
+  "832": {
+   "name": "Candace Crawford",
+   "role": "School Board Chair (presides; calls the meeting to order, controls the floor and announces every vote result)"
+  },
+  "834": {
+   "name": "Candace Crawford",
+   "role": "School Board Chair (presides; calls the meeting to order, controls the floor and announces every vote result)"
+  },
+  "836": {
+   "name": "William 'Bill' Madden",
+   "role": "School Board Member; Capital Improvement Subcommittee Chair; Curriculum Subcommittee (the Chair's recognition 'Yes. Bill.' immediately precedes this segment)"
+  },
+  "842": {
+   "name": "Unidentified",
+   "role": "Stevens High School student, Ward 3 - her onset ('You all know me') with the Chair's 'Okay.' clipped in ahead of it"
+  },
+  "847": {
+   "name": "Candace Crawford",
+   "role": "School Board Chair (presides; calls the meeting to order, controls the floor and announces every vote result)"
+  },
+  "850": {
+   "name": "Unidentified",
+   "role": "Stevens High School student, Ward 3 - announced the Mary Poppins Jr. production and the collage concert and is the concert's emcee; opened with 'You all know me' and never gave a name"
+  },
+  "852": {
+   "name": "Candace Crawford",
+   "role": "School Board Chair (presides; calls the meeting to order, controls the floor and announces every vote result)"
+  },
+  "855": {
+   "name": "Candace Crawford",
+   "role": "School Board Chair (presides; calls the meeting to order, controls the floor and announces every vote result)"
+  }
+ }
+}

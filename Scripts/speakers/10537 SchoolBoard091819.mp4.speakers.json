@@ -1,0 +1,223 @@
+{
+ "Speaker 1": {
+  "name": "Unidentified",
+  "role": "Unidentified - pre-meeting remark"
+ },
+ "Speaker 2": {
+  "name": "Michael Tempesta",
+  "role": "Superintendent, SAU 6"
+ },
+ "Speaker 3": {
+  "name": "Steve Moss",
+  "role": "Curriculum specialist, grades 6-12, SAU 6 (self-identified [149]; ASR also 'Steve Morse')"
+ },
+ "Speaker 4": {
+  "name": "Rebecca Zullo",
+  "role": "Claremont School Board member (Vice Chair per roster; not stated on this recording)"
+ },
+ "Speaker 5": {
+  "name": "Mary Woodman",
+  "role": "School district clerk and board recording secretary"
+ },
+ "Speaker 6": {
+  "name": "Unidentified",
+  "role": "Unidentified - board-side interjections and questions (Medicaid, class rank) not tied to a name"
+ },
+ "Speaker 7": {
+  "name": "Michael Petrin",
+  "role": "Claremont School Board member"
+ },
+ "Speaker 8": {
+  "name": "Heather Whitney",
+  "role": "Claremont School Board member (medium - by content: policy committee update, not Carolyn)"
+ },
+ "Speaker 9": {
+  "name": "Tyler Sullivan",
+  "role": "Student representative to the school board, Stevens High School"
+ },
+ "Speaker 10": {
+  "name": "Carolyn Towle",
+  "role": "Claremont School Board member"
+ },
+ "Speaker 11": {
+  "name": "Frank Sprague",
+  "role": "Claremont School Board Chair"
+ },
+ "Speaker 12": {
+  "name": "Jason Benware",
+  "role": "Claremont School Board member"
+ },
+ "Speaker 13": {
+  "name": "Audra Buckland",
+  "role": "Assistant (vice) principal, Claremont Middle School"
+ },
+ "Speaker 14": {
+  "name": "Unidentified",
+  "role": "Unidentified - short interjections and vote responses"
+ },
+ "__overrides__": {
+  "1": {
+   "name": "Frank Sprague"
+  },
+  "2": {
+   "name": "Frank Sprague"
+  },
+  "3": {
+   "name": "Frank Sprague"
+  },
+  "5": {
+   "name": "Frank Sprague"
+  },
+  "7": {
+   "name": "Frank Sprague"
+  },
+  "9": {
+   "name": "Frank Sprague"
+  },
+  "11": {
+   "name": "Frank Sprague"
+  },
+  "14": {
+   "name": "Frank Sprague"
+  },
+  "15": {
+   "name": "Frank Sprague"
+  },
+  "16": {
+   "name": "Frank Sprague"
+  },
+  "18": {
+   "name": "Frank Sprague"
+  },
+  "20": {
+   "name": "Frank Sprague"
+  },
+  "21": {
+   "name": "Frank Sprague"
+  },
+  "25": {
+   "name": "Frank Sprague"
+  },
+  "27": {
+   "name": "Frank Sprague"
+  },
+  "28": {
+   "name": "Frank Sprague"
+  },
+  "31": {
+   "name": "Frank Sprague"
+  },
+  "33": {
+   "name": "Frank Sprague"
+  },
+  "35": {
+   "name": "Frank Sprague"
+  },
+  "36": {
+   "name": "Frank Sprague"
+  },
+  "38": {
+   "name": "Frank Sprague"
+  },
+  "51": {
+   "name": "Frank Sprague"
+  },
+  "53": {
+   "name": "Frank Sprague"
+  },
+  "63": {
+   "name": "Frank Sprague"
+  },
+  "64": {
+   "name": "Frank Sprague"
+  },
+  "65": {
+   "name": "Frank Sprague"
+  },
+  "52": {
+   "name": "Frank Sprague"
+  },
+  "57": {
+   "name": "Frank Sprague"
+  },
+  "117": {
+   "name": "Frank Sprague"
+  },
+  "4": {
+   "name": "Unidentified",
+   "role": "Unidentified - group response or short fragment"
+  },
+  "6": {
+   "name": "Unidentified",
+   "role": "Unidentified - group response or short fragment"
+  },
+  "22": {
+   "name": "Unidentified",
+   "role": "Unidentified - group response or short fragment"
+  },
+  "26": {
+   "name": "Unidentified",
+   "role": "Unidentified - group response or short fragment"
+  },
+  "69": {
+   "name": "Unidentified",
+   "role": "Unidentified - group response or short fragment"
+  },
+  "76": {
+   "name": "Unidentified",
+   "role": "Unidentified - group response or short fragment"
+  },
+  "107": {
+   "name": "Unidentified",
+   "role": "Unidentified - group response or short fragment"
+  },
+  "113": {
+   "name": "Unidentified",
+   "role": "Unidentified - group response or short fragment"
+  },
+  "119": {
+   "name": "Unidentified",
+   "role": "Unidentified - group response or short fragment"
+  },
+  "126": {
+   "name": "Unidentified",
+   "role": "Unidentified - group response or short fragment"
+  },
+  "129": {
+   "name": "Unidentified",
+   "role": "Unidentified - group response or short fragment"
+  },
+  "135": {
+   "name": "Unidentified",
+   "role": "Unidentified - group response or short fragment"
+  },
+  "137": {
+   "name": "Unidentified",
+   "role": "Unidentified - group response or short fragment"
+  },
+  "147": {
+   "name": "Unidentified",
+   "role": "Unidentified - group response or short fragment"
+  },
+  "102": {
+   "name": "Unidentified",
+   "role": "Unidentified board member (question on state funding numbers)"
+  },
+  "104": {
+   "name": "Unidentified",
+   "role": "Unidentified board member (question on state funding numbers)"
+  },
+  "191": {
+   "name": "Jason Benware"
+  },
+  "193": {
+   "name": "Jason Benware"
+  },
+  "195": {
+   "name": "Jason Benware"
+  },
+  "332": {
+   "name": "Tyler Sullivan"
+  }
+ }
+}

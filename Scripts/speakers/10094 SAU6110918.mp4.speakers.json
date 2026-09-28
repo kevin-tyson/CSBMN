@@ -1,0 +1,125 @@
+{
+ "Speaker 1": {
+  "name": "Keith Pfeifer",
+  "role": "Interim Superintendent, SAU 6 (chair: 'Doctor Pfeiffer has a slideshow' [45] before his budget presentation [46-61]; addressed 'Doctor Pfeiffer' [62]; gives the superintendent's report [161])"
+ },
+ "Speaker 2": {
+  "name": "Michael Petrin",
+  "role": "SAU 6 Board Vice Chair (Claremont member), presiding (calls the meeting to order [2], runs agenda, public hearing and votes; answers 'Yes' when the roll vote calls 'Michael?' [208-209]; the 12/13/2018 SAU minutes correction describes Mike Petrin as vice chair at this meeting)"
+ },
+ "Speaker 3": {
+  "name": "Unidentified",
+  "role": "Unidentified - cluster mixes the pledge, roll-call calls and short interjections; the nonpublic roll call [208-210] is likely the recording secretary (Mary Woodman, asked to take roll at [7])"
+ },
+ "Speaker 4": {
+  "name": "Carolyn Towle",
+  "role": "Claremont School Board member, SAU 6 Board member (recognized 'Charlie.' [23] = Carolyn before her minutes correction [24]; 'Carolyn's amendment' [36]; 'Carolyn, do you want to do that' [176] before her search-committee update [180])"
+ },
+ "Speaker 5": {
+  "name": "Unidentified",
+  "role": "Unidentified - short acknowledgements"
+ },
+ "Speaker 6": {
+  "name": "Unidentified",
+  "role": "Unidentified - board member (moves the agenda [17], minutes typo [29], asks about Unity revenue [62]); possibly Frank Sprague, whom O'Neill addresses at [143]"
+ },
+ "Speaker 7": {
+  "name": "Michael O'Neill",
+  "role": "Business Administrator, SAU 6 (Pfeifer: 'Mike, do you want to talk about that?' [103] before his health-insurance update [105-146])"
+ },
+ "Speaker 8": {
+  "name": "Unidentified",
+  "role": "Unidentified - cluster mixes Assistant Superintendent Cory LeClair [65-73] and a board member [150-197]; see overrides"
+ },
+ "Speaker 9": {
+  "name": "Michelle Pierce",
+  "role": "Claremont School Board member, SAU 6 Board member (recognized 'Michelle and Sarah' [70] and 'Michelle, did you have' [97] before this cluster speaks)"
+ },
+ "Speaker 10": {
+  "name": "Sara Lowe",
+  "role": "SAU 6 Board member (Unity) (uncertain - chair recognizes 'Michelle and Sarah' [70]; this speaker refers to 'Corey' in the third person [81], so is not LeClair; long board tenure implied [155])"
+ },
+ "__overrides__": {
+  "10": {
+   "name": "Unidentified",
+   "role": "Unidentified - roll-call response"
+  },
+  "11": {
+   "name": "Unidentified",
+   "role": "Unidentified - roll-call response ('Sarah. Here.')"
+  },
+  "14": {
+   "name": "Unidentified",
+   "role": "Unidentified - roll-call response"
+  },
+  "12": {
+   "name": "Unidentified",
+   "role": "Unidentified - roll-call call"
+  },
+  "41": {
+   "name": "Unidentified",
+   "role": "Unidentified - board member seconding the minutes motion; diarized with Pfeifer"
+  },
+  "65": {
+   "name": "Cory LeClair",
+   "role": "Assistant Superintendent, SAU 6 (uncertain - explains SAU revenue [65-66] and 'those responsibilities are being filled by our curriculum specialists in the Claremont district and myself' [73]; not named at her turn)"
+  },
+  "66": {
+   "name": "Cory LeClair"
+  },
+  "69": {
+   "name": "Cory LeClair"
+  },
+  "73": {
+   "name": "Cory LeClair"
+  },
+  "76": {
+   "name": "Sara Lowe",
+   "role": "SAU 6 Board member (Unity) (uncertain - chair recognizes 'Michelle and Sarah' [70]; this speaker refers to 'Corey' in the third person [81], so is not LeClair; long board tenure implied [155])"
+  },
+  "78": {
+   "name": "Sara Lowe",
+   "role": "SAU 6 Board member (Unity) (uncertain - chair recognizes 'Michelle and Sarah' [70]; this speaker refers to 'Corey' in the third person [81], so is not LeClair; long board tenure implied [155])"
+  },
+  "80": {
+   "name": "Sara Lowe",
+   "role": "SAU 6 Board member (Unity) (uncertain - chair recognizes 'Michelle and Sarah' [70]; this speaker refers to 'Corey' in the third person [81], so is not LeClair; long board tenure implied [155])"
+  },
+  "82": {
+   "name": "Sara Lowe",
+   "role": "SAU 6 Board member (Unity) (uncertain - chair recognizes 'Michelle and Sarah' [70]; this speaker refers to 'Corey' in the third person [81], so is not LeClair; long board tenure implied [155])"
+  },
+  "84": {
+   "name": "Sara Lowe",
+   "role": "SAU 6 Board member (Unity) (uncertain - chair recognizes 'Michelle and Sarah' [70]; this speaker refers to 'Corey' in the third person [81], so is not LeClair; long board tenure implied [155])"
+  },
+  "86": {
+   "name": "Sara Lowe",
+   "role": "SAU 6 Board member (Unity) (uncertain - chair recognizes 'Michelle and Sarah' [70]; this speaker refers to 'Corey' in the third person [81], so is not LeClair; long board tenure implied [155])"
+  },
+  "88": {
+   "name": "Sara Lowe",
+   "role": "SAU 6 Board member (Unity) (uncertain - chair recognizes 'Michelle and Sarah' [70]; this speaker refers to 'Corey' in the third person [81], so is not LeClair; long board tenure implied [155])"
+  },
+  "90": {
+   "name": "Sara Lowe",
+   "role": "SAU 6 Board member (Unity) (uncertain - chair recognizes 'Michelle and Sarah' [70]; this speaker refers to 'Corey' in the third person [81], so is not LeClair; long board tenure implied [155])"
+  },
+  "92": {
+   "name": "Sara Lowe",
+   "role": "SAU 6 Board member (Unity) (uncertain - chair recognizes 'Michelle and Sarah' [70]; this speaker refers to 'Corey' in the third person [81], so is not LeClair; long board tenure implied [155])"
+  },
+  "155": {
+   "name": "Sara Lowe",
+   "role": "SAU 6 Board member (Unity) (uncertain - chair recognizes 'Michelle and Sarah' [70]; this speaker refers to 'Corey' in the third person [81], so is not LeClair; long board tenure implied [155])"
+  },
+  "156": {
+   "name": "Sara Lowe",
+   "role": "SAU 6 Board member (Unity) (uncertain - chair recognizes 'Michelle and Sarah' [70]; this speaker refers to 'Corey' in the third person [81], so is not LeClair; long board tenure implied [155])"
+  },
+  "158": {
+   "name": "Sara Lowe",
+   "role": "SAU 6 Board member (Unity) (uncertain - chair recognizes 'Michelle and Sarah' [70]; this speaker refers to 'Corey' in the third person [81], so is not LeClair; long board tenure implied [155])"
+  }
+ }
+}

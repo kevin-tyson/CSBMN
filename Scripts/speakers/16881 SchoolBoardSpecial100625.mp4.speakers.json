@@ -1,0 +1,38 @@
+{
+  "Speaker 1": {
+    "name": "Kerry Kennedy",
+    "role": "Interim Superintendent, SAU 6 (presents the substitute-secretary request and the staff resignations; the chair's and Arlene Hawkins's voices are merged into this cluster - see per-segment roles)"
+  },
+  "Speaker 2": {
+    "name": "Unidentified",
+    "role": "Unnamed voice at the table - quip right after the Pledge of Allegiance; its opening words 'You really' are clipped onto the end of the chair's preceding segment. Single diarized segment, never named or roll-called on the recording"
+  },
+  "Speaker 3": {
+    "name": "Arlene Hawkins",
+    "role": "Claremont School Board Member; SAU 6 Board Chair (questions the superintendent and makes the motion - the chair puts 'the motion as described by Miss Hawkins' at 0:06:35)"
+  },
+  "Speaker 4": {
+    "name": "Unidentified board member",
+    "role": "Board member, single diarized segment - asks whether the board needs to meet before November; never named or roll-called on the recording"
+  },
+  "__overrides__": {
+    "0": {"name": "Heather Whitney", "role": "Claremont School Board Chair (presiding; calls the October 6, 2025 special meeting to order and leads the Pledge of Allegiance - the trailing 'You really' is the next speaker's onset clipped in)"},
+    "2": {"name": "Heather Whitney", "role": "Claremont School Board Chair (presiding; states the single agenda item - 'Miss Kennedy called me shortly after our last meeting')"},
+    "3": {"name": "Heather Whitney", "role": "Claremont School Board Chair (presiding; takes the roll herself - the board clerk is on maternity leave - then yields the floor to Superintendent Kennedy, whose explanation begins mid-segment at about 1:07)"},
+    "27": {"name": "Arlene Hawkins", "role": "Claremont School Board Member; SAU 6 Board Chair (the chair's recognition 'Yeah. Miss Hawkins' is absorbed into the head of this segment)"},
+    "31": {"name": "Arlene Hawkins", "role": "Claremont School Board Member; SAU 6 Board Chair (moves the motion; the chair's recognition 'Miss Hawkins' is absorbed mid-segment after a 2.4s pause)"},
+    "41": {"name": "Heather Whitney", "role": "Claremont School Board Chair (presiding; calls for discussion and accepts the friendly amendment - Hawkins amending her own motion, 'So I am[end] my motion to include...', is merged into the middle of this segment)"},
+    "42": {"name": "Heather Whitney", "role": "Claremont School Board Chair (presiding; voice vote on the amended motion - no tally and no roll call recorded)"},
+    "47": {"name": "Arlene Hawkins", "role": "Claremont School Board Member; SAU 6 Board Chair (asks what administrative staff remain; Superintendent Kennedy's short answers are merged into this segment. Medium confidence - the questioner could be the chair)"},
+    "48": {"name": "Arlene Hawkins", "role": "Claremont School Board Member; SAU 6 Board Chair (proposes contracting SAU administrative services for the rest of the year; the opening reply 'Correct... we can put them on the agenda for the next [meeting]' is another voice - superintendent or chair - merged into the head)"},
+    "49": {"name": "Arlene Hawkins", "role": "Claremont School Board Member; SAU 6 Board Chair (continues her own 'what I'm wondering is the possibility' thread; a two-to-three voice exchange is merged into this one segment and the closing sentences may be the superintendent or the chair - low confidence after about 0:09:20)"},
+    "51": {"name": "Arlene Hawkins", "role": "Claremont School Board Member; SAU 6 Board Chair (asks whether a modified assistant-superintendent job description will come back to SAU 6; Kennedy's one-word replies are merged in)"},
+    "52": {"name": "Arlene Hawkins", "role": "Claremont School Board Member; SAU 6 Board Chair (SAU must approve the job description until it becomes Claremont's on June 30; Kennedy's replies merged in)"},
+    "54": {"name": "Arlene Hawkins", "role": "Claremont School Board Member; SAU 6 Board Chair (answers segment 53 - 'we can talk about [it in] 30 minutes, 15 minutes', i.e. at the SAU 6 special meeting held later the same evening)"},
+    "55": {"name": "Arlene Hawkins", "role": "Claremont School Board Member; SAU 6 Board Chair (undertakes to add the item to the SAU 6 agenda 'under other business' by friendly amendment - she does exactly that at the SAU 6 meeting, show 16882, later the same evening; Kennedy's assents are merged in)"},
+    "56": {"name": "Arlene Hawkins", "role": "Claremont School Board Member; SAU 6 Board Chair (insists the SAU item be discussion only, matching her SAU 6 agenda amendment the same evening; the garbled closing aside may be another voice)"},
+    "57": {"name": "Heather Whitney", "role": "Claremont School Board Chair (presiding; invites items for coming agendas - Kennedy's 'right now I think that's it' is merged in)"},
+    "58": {"name": "Heather Whitney", "role": "Claremont School Board Chair (presiding; previews coming agenda items - metal detectors, the Maple Avenue Masonic Temple building, Bluff utilization, budget on the 15th)"},
+    "59": {"name": "Heather Whitney", "role": "Claremont School Board Chair (presiding; adjourns using the same formula she uses on 10/1/25 - 'if there is no other discussion... meeting adjourned')"}
+  }
+}

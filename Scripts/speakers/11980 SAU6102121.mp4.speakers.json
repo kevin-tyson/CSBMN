@@ -1,0 +1,176 @@
+{
+ "Speaker 1": {
+  "name": "Michael Tempesta",
+  "role": "Superintendent, SAU 6"
+ },
+ "Speaker 2": {
+  "name": "Frank Sprague",
+  "role": "SAU 6 Board member (Claremont); Claremont School Board Chair - raises the merit-pay questions; cluster also carries the chair's opening, see overrides"
+ },
+ "Speaker 3": {
+  "name": "Unidentified",
+  "role": "Unidentified - cluster mixes several voices (a roll-call answer, a member noting a misspelled name in the minutes, short procedural remarks)"
+ },
+ "Speaker 4": {
+  "name": "Richard Seaman",
+  "role": "Assistant Superintendent for Finance, SAU 6"
+ },
+ "Speaker 5": {
+  "name": "Unidentified",
+  "role": "Unidentified - brief remarks"
+ },
+ "Speaker 6": {
+  "name": "Nicholas Stone",
+  "role": "SAU 6 Board member (Claremont)"
+ },
+ "Speaker 7": {
+  "name": "Ben Nester",
+  "role": "Director of Special Education, SAU 6 (medium - recounts the merit-pay evaluation tool from when he came on in 2018-19; 11/18/21 SAU meeting credits 'Ben' with finding those documents)"
+ },
+ "Speaker 8": {
+  "name": "Steven Horsky",
+  "role": "SAU 6 Board member (Claremont)"
+ },
+ "Speaker 9": {
+  "name": "Marjorie Erickson",
+  "role": "SAU 6 Board member (Unity) (medium - long-serving member recalling the merit-pay intent; Horsky: 'Marjorie spoke to it')"
+ },
+ "Speaker 10": {
+  "name": "Michael Petrin",
+  "role": "SAU 6 Board Chair (Claremont member) - presides from the merit-pay vote onward; recognizes Steven, Nick, Heather"
+ },
+ "Speaker 11": {
+  "name": "Heather Whitney",
+  "role": "SAU 6 Board member (Claremont)"
+ },
+ "Speaker 12": {
+  "name": "Unidentified",
+  "role": "Unidentified - brief remark"
+ },
+ "Speaker 13": {
+  "name": "Steven Horsky",
+  "role": "SAU 6 Board member (Claremont)"
+ },
+ "Speaker 14": {
+  "name": "Richard Seaman",
+  "role": "Assistant Superintendent for Finance, SAU 6"
+ },
+ "__overrides__": {
+  "2": {
+   "name": "Michael Petrin",
+   "role": "SAU 6 Board Chair (Claremont member)"
+  },
+  "3": {
+   "name": "Michael Petrin",
+   "role": "SAU 6 Board Chair (Claremont member)"
+  },
+  "4": {
+   "name": "Unidentified",
+   "role": "Unidentified - roll-call answer"
+  },
+  "5": {
+   "name": "Unidentified",
+   "role": "Unidentified - roll-call answer"
+  },
+  "7": {
+   "name": "Unidentified",
+   "role": "Unidentified - roll-call answer"
+  },
+  "8": {
+   "name": "Michael Petrin",
+   "role": "SAU 6 Board Chair (Claremont member)"
+  },
+  "9": {
+   "name": "Michael Petrin",
+   "role": "SAU 6 Board Chair (Claremont member)"
+  },
+  "10": {
+   "name": "Michael Petrin",
+   "role": "SAU 6 Board Chair (Claremont member)"
+  },
+  "11": {
+   "name": "Michael Petrin",
+   "role": "SAU 6 Board Chair (Claremont member)"
+  },
+  "12": {
+   "name": "Frank Sprague",
+   "role": "SAU 6 Board member (Claremont); Claremont School Board Chair"
+  },
+  "13": {
+   "name": "Michael Petrin",
+   "role": "SAU 6 Board Chair (Claremont member)"
+  },
+  "16": {
+   "name": "Frank Sprague",
+   "role": "SAU 6 Board member (Claremont); Claremont School Board Chair"
+  },
+  "17": {
+   "name": "Michael Petrin",
+   "role": "SAU 6 Board Chair (Claremont member)"
+  },
+  "19": {
+   "name": "Michael Tempesta",
+   "role": "Superintendent, SAU 6"
+  },
+  "38": {
+   "name": "Michael Petrin",
+   "role": "SAU 6 Board Chair (Claremont member)"
+  },
+  "39": {
+   "name": "Michael Petrin",
+   "role": "SAU 6 Board Chair (Claremont member)"
+  },
+  "40": {
+   "name": "Michael Petrin",
+   "role": "SAU 6 Board Chair (Claremont member)"
+  },
+  "112": {
+   "name": "Michael Petrin",
+   "role": "SAU 6 Board Chair (Claremont member)"
+  },
+  "123": {
+   "name": "Michael Petrin",
+   "role": "SAU 6 Board Chair (Claremont member)"
+  },
+  "134": {
+   "name": "Michael Petrin",
+   "role": "SAU 6 Board Chair (Claremont member)"
+  },
+  "137": {
+   "name": "Michael Petrin",
+   "role": "SAU 6 Board Chair (Claremont member)"
+  },
+  "204": {
+   "name": "Unidentified",
+   "role": "Unidentified - board member asking about outsourcing accounts payable (refers to a conference with attorney Matt Upton; possibly Frank Sprague, uncertain)"
+  },
+  "205": {
+   "name": "Unidentified",
+   "role": "Unidentified - board member asking about outsourcing accounts payable (refers to a conference with attorney Matt Upton; possibly Frank Sprague, uncertain)"
+  },
+  "206": {
+   "name": "Unidentified",
+   "role": "Unidentified - board member asking about outsourcing accounts payable (refers to a conference with attorney Matt Upton; possibly Frank Sprague, uncertain)"
+  },
+  "207": {
+   "name": "Unidentified",
+   "role": "Unidentified - board member asking about outsourcing accounts payable (refers to a conference with attorney Matt Upton; possibly Frank Sprague, uncertain)"
+  },
+  "208": {
+   "name": "Unidentified",
+   "role": "Unidentified - board member asking about outsourcing accounts payable (refers to a conference with attorney Matt Upton; possibly Frank Sprague, uncertain)"
+  },
+  "209": {
+   "name": "Unidentified",
+   "role": "Unidentified - board member asking about outsourcing accounts payable (refers to a conference with attorney Matt Upton; possibly Frank Sprague, uncertain)"
+  },
+  "213": {
+   "name": "Unidentified",
+   "role": "Unidentified - board member asking about outsourcing accounts payable (refers to a conference with attorney Matt Upton; possibly Frank Sprague, uncertain)"
+  },
+  "216": {
+   "name": "Unidentified",
+   "role": "Unidentified - board member asking about outsourcing accounts payable (refers to a conference with attorney Matt Upton; possibly Frank Sprague, uncertain)"
+  }
+ }
+}

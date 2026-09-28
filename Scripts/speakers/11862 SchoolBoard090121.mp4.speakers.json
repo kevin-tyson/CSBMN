@@ -1,0 +1,176 @@
+{
+ "Speaker 1": {
+  "name": "Frank Sprague",
+  "role": "Claremont School Board Chair (presides; addressed as 'Frank' [584]; calls himself the 'frugal Yankee' [531-533])"
+ },
+ "Speaker 2": {
+  "name": "Heather Whitney",
+  "role": "Claremont School Board member (Ronnie refers to 'the pooling that Heather is talking about' [112]; chair: 'Heather' [253], 'Thank you. Heather.' [491])"
+ },
+ "Speaker 3": {
+  "name": "Michael Tempesta",
+  "role": "Superintendent, SAU 6 (delivers the superintendent's report [36-59]; staffing nominations 'for Mike Tempesta' [505])"
+ },
+ "Speaker 4": {
+  "name": "Unidentified",
+  "role": "Unidentified - cluster of short fragments, seconds, recognitions and roll-call answers from several voices; see overrides"
+ },
+ "Speaker 5": {
+  "name": "Steven Horsky",
+  "role": "Claremont School Board member (chair's 'Steve' [117], [211], [604] precede this voice; 'Thanks, Steve' after his motion [188])"
+ },
+ "Speaker 6": {
+  "name": "Michael Demers",
+  "role": "Public commenter, Ward 3 (states 'Michael. Ward three' [29]; surname from his self-identification 'Michael Demers, Ward three' at the 9/15/2021 meeting on the same citizens-comment topic)"
+ },
+ "Speaker 7": {
+  "name": "Ronnie",
+  "role": "Lead nurse, Claremont School District (self-identified as lead nurse [80]; addressed as 'Ronnie' [132]; surname not stated)"
+ },
+ "Speaker 8": {
+  "name": "Melissa Lewis",
+  "role": "Principal, Disnard Elementary School (self-identified [231], ASR 'I love Melissa Lewis, the principal at Dinard')"
+ },
+ "Speaker 16": {
+  "name": "Melissa Lewis",
+  "role": "Principal, Disnard Elementary School (uncertain - short onsets interleaved with her remarks at [385-388])"
+ },
+ "Speaker 9": {
+  "name": "Michael Petrin",
+  "role": "Claremont School Board member (chair: 'Were you going to, Mike?' [347]; answers roll after 'Michael' [438])"
+ },
+ "Speaker 10": {
+  "name": "Joshua Lambert",
+  "role": "Claremont School Board member (chair: 'Josh.' [140], [294]; 'Thanks, Josh' [240])"
+ },
+ "Speaker 11": {
+  "name": "Unidentified",
+  "role": "Unidentified - single 'Thank you'"
+ },
+ "Speaker 12": {
+  "name": "Patricia Barry",
+  "role": "Principal, Stevens High School (introduced as 'Principal Barry' [11]; chair: 'Thank you. Pat.' [221], 'Okay, Pat.' [315])"
+ },
+ "Speaker 15": {
+  "name": "Patricia Barry",
+  "role": "Principal, Stevens High School (introduced as 'Principal Barry' [11]; chair: 'Thank you. Pat.' [221], 'Okay, Pat.' [315])"
+ },
+ "Speaker 13": {
+  "name": "Nicholas Stone",
+  "role": "Claremont School Board member (chair: 'push back on you on that one, Nick' [300]; speaking order 'Josh, Nick, Rob, Heather' [337])"
+ },
+ "Speaker 14": {
+  "name": "Rob Lovett Jr.",
+  "role": "Claremont School Board member (chair: 'Rob.' [343]; Horsky: 'I respect Rob's opinion' [328])"
+ },
+ "Speaker 17": {
+  "name": "Unidentified",
+  "role": "Unidentified - staff member (possibly an elementary principal) remark [425]"
+ },
+ "Speaker 18": {
+  "name": "Mary Woodman",
+  "role": "School district clerk and board recording secretary (takes the roll at the chair's request [3], [427])"
+ },
+ "Speaker 19": {
+  "name": "Jeff Small",
+  "role": "Director of Technology, SAU 6 (chair: 'this is a Jeff Small question' [525]; answers on Chromebooks and Wi-Fi)"
+ },
+ "Speaker 20": {
+  "name": "Unidentified",
+  "role": "Unidentified - asks the chair for the meeting date [584]"
+ },
+ "__overrides__": {
+  "4": {
+   "name": "Mary Woodman",
+   "role": "School district clerk and board recording secretary (takes the roll at the chair's request [3], [427])"
+  },
+  "5": {
+   "name": "Mary Woodman",
+   "role": "School district clerk and board recording secretary (takes the roll at the chair's request [3], [427])"
+  },
+  "7": {
+   "name": "Mary Woodman",
+   "role": "School district clerk and board recording secretary (takes the roll at the chair's request [3], [427])"
+  },
+  "6": {
+   "name": "Michael Petrin",
+   "role": "Claremont School Board member (uncertain - roll-call answer after 'Michael. Peter.' [5], diarized with the chair)"
+  },
+  "15": {
+   "name": "Steven Horsky",
+   "role": "Claremont School Board member (chair's 'Steve' [117], [211], [604] precede this voice; 'Thanks, Steve' after his motion [188])"
+  },
+  "431": {
+   "name": "Steven Horsky",
+   "role": "Claremont School Board member (chair's 'Steve' [117], [211], [604] precede this voice; 'Thanks, Steve' after his motion [188])"
+  },
+  "436": {
+   "name": "Rob Lovett Jr.",
+   "role": "Claremont School Board member (chair: 'Rob.' [343]; Horsky: 'I respect Rob's opinion' [328])"
+  },
+  "443": {
+   "name": "Frank Sprague",
+   "role": "Claremont School Board Chair (presides; addressed as 'Frank' [584]; calls himself the 'frugal Yankee' [531-533])"
+  },
+  "164": {
+   "name": "Frank Sprague",
+   "role": "Claremont School Board Chair (presides; addressed as 'Frank' [584]; calls himself the 'frugal Yankee' [531-533])"
+  },
+  "236": {
+   "name": "Frank Sprague",
+   "role": "Claremont School Board Chair (presides; addressed as 'Frank' [584]; calls himself the 'frugal Yankee' [531-533])"
+  },
+  "340": {
+   "name": "Frank Sprague",
+   "role": "Claremont School Board Chair (presides; addressed as 'Frank' [584]; calls himself the 'frugal Yankee' [531-533])"
+  },
+  "343": {
+   "name": "Frank Sprague",
+   "role": "Claremont School Board Chair (presides; addressed as 'Frank' [584]; calls himself the 'frugal Yankee' [531-533])"
+  },
+  "524": {
+   "name": "Patricia Barry",
+   "role": "Principal, Stevens High School (uncertain - high school enrollment and summer credit-recovery figures diarized with the clerk's cluster; attributed by content)"
+  },
+  "623": {
+   "name": "Patricia Barry",
+   "role": "Principal, Stevens High School (uncertain - high school enrollment and summer credit-recovery figures diarized with the clerk's cluster; attributed by content)"
+  },
+  "625": {
+   "name": "Patricia Barry",
+   "role": "Principal, Stevens High School (uncertain - high school enrollment and summer credit-recovery figures diarized with the clerk's cluster; attributed by content)"
+  },
+  "629": {
+   "name": "Patricia Barry",
+   "role": "Principal, Stevens High School (uncertain - high school enrollment and summer credit-recovery figures diarized with the clerk's cluster; attributed by content)"
+  },
+  "631": {
+   "name": "Patricia Barry",
+   "role": "Principal, Stevens High School (uncertain - high school enrollment and summer credit-recovery figures diarized with the clerk's cluster; attributed by content)"
+  },
+  "624": {
+   "name": "Patricia Barry",
+   "role": "Principal, Stevens High School (uncertain - high school enrollment and summer credit-recovery figures diarized with the clerk's cluster; attributed by content)"
+  },
+  "626": {
+   "name": "Patricia Barry",
+   "role": "Principal, Stevens High School (uncertain - high school enrollment and summer credit-recovery figures diarized with the clerk's cluster; attributed by content)"
+  },
+  "628": {
+   "name": "Patricia Barry",
+   "role": "Principal, Stevens High School (uncertain - high school enrollment and summer credit-recovery figures diarized with the clerk's cluster; attributed by content)"
+  },
+  "479": {
+   "name": "Unidentified",
+   "role": "Unidentified - fragment diarized with the clerk"
+  },
+  "559": {
+   "name": "Unidentified",
+   "role": "Unidentified - fragment diarized with the clerk"
+  },
+  "595": {
+   "name": "Unidentified",
+   "role": "Unidentified - fragment diarized with the clerk"
+  }
+ }
+}

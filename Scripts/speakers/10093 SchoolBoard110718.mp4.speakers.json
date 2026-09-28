@@ -1,0 +1,160 @@
+{
+ "Speaker 1": {
+  "name": "Michelle Pierce",
+  "role": "Claremont School Board member (self-ID 'My name is Michelle Pierce' [73, 140]; 'Michelle' recognitions [397, 464, 719, 735]; answers 'Michelle Pierce' in roll-call vote [230-231])"
+ },
+ "Speaker 2": {
+  "name": "Frank Sprague",
+  "role": "Claremont School Board Chair (self-ID 'I'm Frank Sprague' [89, 159]; calls meeting to order [1], runs agenda, hearing and votes; addressed 'Mister chair' [171], 'Mr. Sprague' [291])"
+ },
+ "Speaker 3": {
+  "name": "Unidentified",
+  "role": "Unidentified - board member beginning the agenda motion [18]"
+ },
+ "Speaker 4": {
+  "name": "Jason Benware",
+  "role": "Claremont School Board member (chair: 'Jason and Michelle want to make...' [532] -> [533]; 'Okay, Jason' [593] -> [596]; first in roll-call vote order [228]; budget subcommittee member with Sprague and Petrin [584])"
+ },
+ "Speaker 5": {
+  "name": "Unidentified",
+  "role": "Unidentified - cluster mixes short interjections from several board members and others; see overrides"
+ },
+ "Speaker 6": {
+  "name": "Keith Pfeifer",
+  "role": "Interim Superintendent, SAU 6 (gives the superintendent's report [37-41] when the chair calls it [35]; chair thanks 'Doctor Pfeiffer' [99]; speaks for 'administration' [631])"
+ },
+ "Speaker 7": {
+  "name": "Sally Bouchard",
+  "role": "Candidate for school board vacancy, executive director of Community Dental Care (self-ID 'I'm Sally Bouchard' [63]; addressed 'Hi, Sally' [77])"
+ },
+ "Speaker 8": {
+  "name": "Carolyn Towle",
+  "role": "Claremont School Board member (self-ID 'I'm Carolyn Toll' [78], 'I'm Carol' [145]; answers 'Carolyn Tull' in roll-call vote [232-233]; search-committee update [284-286])"
+ },
+ "Speaker 9": {
+  "name": "Michael Petrin",
+  "role": "Claremont School Board member (self-ID 'I'm Mike patron' [153]; chair: 'Mike, you haven't spoken' [661] -> [662]; 'Mike.' [725] -> [726])"
+ },
+ "Speaker 10": {
+  "name": "Sultana",
+  "role": "Candidate for school board vacancy, Unity parent (self-ID 'My name is Sultana' [132]; also heard as 'Ezeiza, Missouri' [116], 'Ezeiza' [118], last name 'Wilton' [120]; surname not recoverable from ASR)"
+ },
+ "Speaker 11": {
+  "name": "Unidentified",
+  "role": "Unidentified - comment on the third candidate's written responses [184]"
+ },
+ "Speaker 12": {
+  "name": "Mary Woodman",
+  "role": "School District Clerk and recording secretary (chair asks 'Mrs. Goodman' for roll [13] and 'Mrs. Woodman' for the roll-call vote [224] -> calls names [227-240]; as clerk offers to swear in the new member [265-281])"
+ },
+ "Speaker 13": {
+  "name": "Alex Herzog",
+  "role": "Director, Sugar River Valley Regional Technical Center of Claremont (setup remarks during his presentation [291, 352, 356])"
+ },
+ "Speaker 14": {
+  "name": "Alex Herzog",
+  "role": "Director, Sugar River Valley Regional Technical Center of Claremont (self-ID 'I'm doctor Alex Herzog. I am the director of the sugar River Valley Regional Technical Center' [303])"
+ },
+ "Speaker 15": {
+  "name": "Cory LeClair",
+  "role": "Assistant Superintendent, SAU 6 (Herzog: 'Corey, can you' [336] -> [337]; introduces the special-education director [501]; lunch-debt figures [609-612]; scheduling [688-730])"
+ },
+ "Speaker 16": {
+  "name": "Ben",
+  "role": "Director of Special Education, SAU 6 (LeClair: 'So Ben is here. Our director of special education' [501] -> explains the model [519-547]; surname not on this recording; possibly Ben Nester, who holds the post from 2019 per roster - H)"
+ },
+ "Speaker 17": {
+  "name": "Unidentified",
+  "role": "Unidentified - two-word interjection [577]"
+ },
+ "Speaker 18": {
+  "name": "Unidentified",
+  "role": "Unidentified - cluster mixes short responses from several board members late in the meeting"
+ },
+ "Speaker 19": {
+  "name": "Unidentified",
+  "role": "Unidentified - board member objecting to a Thanksgiving-eve meeting [693-697]"
+ },
+ "Speaker 20": {
+  "name": "Unidentified",
+  "role": "Unidentified - short remark about a Unity budget committee [710]"
+ },
+ "__overrides__": {
+  "306": {
+   "name": "Alex Herzog",
+   "role": "Director, Sugar River Valley Regional Technical Center of Claremont (self-ID 'I'm doctor Alex Herzog. I am the director of the sugar River Valley Regional Technical Center' [303])"
+  },
+  "311": {
+   "name": "Alex Herzog",
+   "role": "Director, Sugar River Valley Regional Technical Center of Claremont (self-ID 'I'm doctor Alex Herzog. I am the director of the sugar River Valley Regional Technical Center' [303])"
+  },
+  "358": {
+   "name": "Alex Herzog",
+   "role": "Director, Sugar River Valley Regional Technical Center of Claremont (self-ID 'I'm doctor Alex Herzog. I am the director of the sugar River Valley Regional Technical Center' [303])"
+  },
+  "377": {
+   "name": "Alex Herzog",
+   "role": "Director, Sugar River Valley Regional Technical Center of Claremont (self-ID 'I'm doctor Alex Herzog. I am the director of the sugar River Valley Regional Technical Center' [303])"
+  },
+  "379": {
+   "name": "Alex Herzog",
+   "role": "Director, Sugar River Valley Regional Technical Center of Claremont (self-ID 'I'm doctor Alex Herzog. I am the director of the sugar River Valley Regional Technical Center' [303])"
+  },
+  "381": {
+   "name": "Alex Herzog",
+   "role": "Director, Sugar River Valley Regional Technical Center of Claremont (self-ID 'I'm doctor Alex Herzog. I am the director of the sugar River Valley Regional Technical Center' [303])"
+  },
+  "392": {
+   "name": "Alex Herzog",
+   "role": "Director, Sugar River Valley Regional Technical Center of Claremont (self-ID 'I'm doctor Alex Herzog. I am the director of the sugar River Valley Regional Technical Center' [303])"
+  },
+  "394": {
+   "name": "Alex Herzog",
+   "role": "Director, Sugar River Valley Regional Technical Center of Claremont (self-ID 'I'm doctor Alex Herzog. I am the director of the sugar River Valley Regional Technical Center' [303])"
+  },
+  "410": {
+   "name": "Alex Herzog",
+   "role": "Director, Sugar River Valley Regional Technical Center of Claremont (self-ID 'I'm doctor Alex Herzog. I am the director of the sugar River Valley Regional Technical Center' [303])"
+  },
+  "414": {
+   "name": "Alex Herzog",
+   "role": "Director, Sugar River Valley Regional Technical Center of Claremont (self-ID 'I'm doctor Alex Herzog. I am the director of the sugar River Valley Regional Technical Center' [303])"
+  },
+  "416": {
+   "name": "Alex Herzog",
+   "role": "Director, Sugar River Valley Regional Technical Center of Claremont (self-ID 'I'm doctor Alex Herzog. I am the director of the sugar River Valley Regional Technical Center' [303])"
+  },
+  "431": {
+   "name": "Alex Herzog",
+   "role": "Director, Sugar River Valley Regional Technical Center of Claremont (self-ID 'I'm doctor Alex Herzog. I am the director of the sugar River Valley Regional Technical Center' [303])"
+  },
+  "433": {
+   "name": "Alex Herzog",
+   "role": "Director, Sugar River Valley Regional Technical Center of Claremont (self-ID 'I'm doctor Alex Herzog. I am the director of the sugar River Valley Regional Technical Center' [303])"
+  },
+  "435": {
+   "name": "Alex Herzog",
+   "role": "Director, Sugar River Valley Regional Technical Center of Claremont (self-ID 'I'm doctor Alex Herzog. I am the director of the sugar River Valley Regional Technical Center' [303])"
+  },
+  "437": {
+   "name": "Alex Herzog",
+   "role": "Director, Sugar River Valley Regional Technical Center of Claremont (self-ID 'I'm doctor Alex Herzog. I am the director of the sugar River Valley Regional Technical Center' [303])"
+  },
+  "235": {
+   "name": "Frank Sprague",
+   "role": "Claremont School Board Chair (self-ID 'I'm Frank Sprague' [89, 159]; calls meeting to order [1], runs agenda, hearing and votes; addressed 'Mister chair' [171], 'Mr. Sprague' [291])"
+  },
+  "241": {
+   "name": "Frank Sprague",
+   "role": "Claremont School Board Chair (self-ID 'I'm Frank Sprague' [89, 159]; calls meeting to order [1], runs agenda, hearing and votes; addressed 'Mister chair' [171], 'Mr. Sprague' [291])"
+  },
+  "229": {
+   "name": "Michael Petrin",
+   "role": "Claremont School Board member (self-ID 'I'm Mike patron' [153]; chair: 'Mike, you haven't spoken' [661] -> [662]; 'Mike.' [725] -> [726])"
+  },
+  "619": {
+   "name": "Unidentified",
+   "role": "Unidentified - board member seconding the donations motion; diarized with the clerk"
+  }
+ }
+}

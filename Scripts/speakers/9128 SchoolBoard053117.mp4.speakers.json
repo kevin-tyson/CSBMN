@@ -1,0 +1,360 @@
+{
+ "Speaker 1": {
+  "name": "Unidentified",
+  "role": "Unidentified - two brief 'Okay' interjections"
+ },
+ "Speaker 2": {
+  "name": "Chris Farrow",
+  "role": "Director of Operations, Fresh Picks Cafe (Cafe Services), food service bidder (name as self-stated, ASR 'Chris Farrow')"
+ },
+ "Speaker 3": {
+  "name": "Middleton McGoodwin",
+  "role": "Superintendent, SAU 6"
+ },
+ "Speaker 4": {
+  "name": "Mary Ann Lovett",
+  "role": "Student representative to the school board (ASR 'Mary Ann love it', 'Marion Lovett')"
+ },
+ "Speaker 5": {
+  "name": "Scott",
+  "role": "Vice President of Operations, The Abbey Group, food service bidder (first name only on record)"
+ },
+ "Speaker 6": {
+  "name": "Rebecca Zullo",
+  "role": "Claremont School Board member (addressed as 'Becky'/'Becca' by the chair; uncertain - address cue only)"
+ },
+ "Speaker 7": {
+  "name": "Unidentified",
+  "role": "Unidentified - board member (asks about students without lunch money [145]; cannot attend graduation [59])"
+ },
+ "Speaker 8": {
+  "name": "Michelle Pierce",
+  "role": "Claremont School Board member"
+ },
+ "Speaker 9": {
+  "name": "Unidentified",
+  "role": "Public commenter on alumni weekend (ASR self-ID 'my name is Gary'; chair replies 'Thank you Mary')"
+ },
+ "Speaker 10": {
+  "name": "Michael O'Neill",
+  "role": "Business Administrator, SAU 6 (spelling unverified)"
+ },
+ "Speaker 11": {
+  "name": "Scott",
+  "role": "Vice President of Operations, The Abbey Group, food service bidder (first name only on record)"
+ },
+ "Speaker 12": {
+  "name": "Nina Hansen",
+  "role": "School nutrition specialist, The Abbey Group (name as self-stated)"
+ },
+ "Speaker 13": {
+  "name": "Patrick Adrian",
+  "role": "Claremont School Board member (uncertain - superintendent at [684] credits 'Patrick' with the earlier charging-protocol question, best matched to [158-162])"
+ },
+ "Speaker 14": {
+  "name": "Frank Sprague",
+  "role": "Claremont School Board member"
+ },
+ "Speaker 15": {
+  "name": "Jason Hughes",
+  "role": "Food service director, The Abbey Group (name as self-stated; spelling unverified)"
+ },
+ "Speaker 16": {
+  "name": "Michelle Pierce",
+  "role": "Claremont School Board member (uncertain - secondary cluster; [264-265] follow chair's 'Michelle' recognition and run into her Speaker 8 turn)"
+ },
+ "Speaker 17": {
+  "name": "Unidentified",
+  "role": "Unidentified - board member on free and reduced lunch rates [212-220]; the cell phone policy answer [678-680] may be an administrator"
+ },
+ "Speaker 18": {
+  "name": "Matt Pearce",
+  "role": "Executive chef, Fresh Picks Cafe (introduced by Farrow; ASR 'Matt Pearce', spelling unverified)"
+ },
+ "Speaker 19": {
+  "name": "Chris Cantillon",
+  "role": "District manager, Fresh Picks Cafe (attribution by elimination; ASR 'Chris Canton'/'Chris Cantillon', spelling unverified)"
+ },
+ "Speaker 20": {
+  "name": "Chris Irish",
+  "role": "Claremont School Board Vice Chair, presiding in Chair Brian Rapp's absence"
+ },
+ "Speaker 21": {
+  "name": "Unidentified",
+  "role": "Unidentified - cluster of short interjections from several people"
+ },
+ "Speaker 22": {
+  "name": "Chris Irish",
+  "role": "Claremont School Board Vice Chair, presiding in Chair Brian Rapp's absence (uncertain - repeats the Rapp question the chair relayed at [128])"
+ },
+ "Speaker 23": {
+  "name": "Unidentified",
+  "role": "Unidentified - brief interjections"
+ },
+ "Speaker 24": {
+  "name": "Michelle Pierce",
+  "role": "Claremont School Board member (uncertain - fragments adjoining her Speaker 8 turns)"
+ },
+ "Speaker 25": {
+  "name": "Unidentified",
+  "role": "Unidentified - one remark during Fresh Picks presentation"
+ },
+ "Speaker 26": {
+  "name": "Middleton McGoodwin",
+  "role": "Superintendent, SAU 6"
+ },
+ "Speaker 27": {
+  "name": "Mary Ann Lovett",
+  "role": "Student representative to the school board (ASR 'Mary Ann love it', 'Marion Lovett')"
+ },
+ "__overrides__": {
+  "1": {
+   "name": "Chris Irish"
+  },
+  "2": {
+   "name": "Chris Irish"
+  },
+  "3": {
+   "name": "Chris Irish"
+  },
+  "4": {
+   "name": "Chris Irish"
+  },
+  "5": {
+   "name": "Chris Irish"
+  },
+  "6": {
+   "name": "Chris Irish"
+  },
+  "7": {
+   "name": "Chris Irish"
+  },
+  "8": {
+   "name": "Chris Irish"
+  },
+  "9": {
+   "name": "Chris Irish"
+  },
+  "10": {
+   "name": "Chris Irish"
+  },
+  "11": {
+   "name": "Chris Irish"
+  },
+  "13": {
+   "name": "Chris Irish"
+  },
+  "15": {
+   "name": "Chris Irish"
+  },
+  "17": {
+   "name": "Chris Irish"
+  },
+  "19": {
+   "name": "Chris Irish"
+  },
+  "20": {
+   "name": "Chris Irish"
+  },
+  "22": {
+   "name": "Chris Irish"
+  },
+  "43": {
+   "name": "Chris Irish"
+  },
+  "46": {
+   "name": "Chris Irish"
+  },
+  "51": {
+   "name": "Chris Irish"
+  },
+  "52": {
+   "name": "Chris Irish"
+  },
+  "55": {
+   "name": "Chris Irish"
+  },
+  "56": {
+   "name": "Chris Irish"
+  },
+  "58": {
+   "name": "Chris Irish"
+  },
+  "60": {
+   "name": "Chris Irish"
+  },
+  "61": {
+   "name": "Chris Irish"
+  },
+  "70": {
+   "name": "Chris Irish"
+  },
+  "71": {
+   "name": "Chris Irish"
+  },
+  "73": {
+   "name": "Chris Irish"
+  },
+  "75": {
+   "name": "Chris Irish"
+  },
+  "87": {
+   "name": "Chris Irish"
+  },
+  "128": {
+   "name": "Chris Irish"
+  },
+  "130": {
+   "name": "Chris Irish"
+  },
+  "135": {
+   "name": "Chris Irish"
+  },
+  "141": {
+   "name": "Chris Irish"
+  },
+  "143": {
+   "name": "Chris Irish"
+  },
+  "153": {
+   "name": "Chris Irish"
+  },
+  "161": {
+   "name": "Chris Irish"
+  },
+  "165": {
+   "name": "Chris Irish"
+  },
+  "167": {
+   "name": "Chris Irish"
+  },
+  "169": {
+   "name": "Chris Irish"
+  },
+  "171": {
+   "name": "Chris Irish"
+  },
+  "176": {
+   "name": "Chris Irish"
+  },
+  "177": {
+   "name": "Chris Irish"
+  },
+  "189": {
+   "name": "Chris Irish"
+  },
+  "200": {
+   "name": "Chris Irish"
+  },
+  "202": {
+   "name": "Chris Irish"
+  },
+  "211": {
+   "name": "Chris Irish"
+  },
+  "226": {
+   "name": "Chris Irish"
+  },
+  "246": {
+   "name": "Chris Irish"
+  },
+  "263": {
+   "name": "Chris Irish"
+  },
+  "284": {
+   "name": "Chris Irish"
+  },
+  "286": {
+   "name": "Chris Irish"
+  },
+  "288": {
+   "name": "Chris Irish"
+  },
+  "290": {
+   "name": "Chris Irish"
+  },
+  "292": {
+   "name": "Chris Irish"
+  },
+  "294": {
+   "name": "Chris Irish"
+  },
+  "295": {
+   "name": "Chris Irish"
+  },
+  "297": {
+   "name": "Chris Farrow"
+  },
+  "299": {
+   "name": "Chris Farrow"
+  },
+  "301": {
+   "name": "Chris Farrow"
+  },
+  "303": {
+   "name": "Chris Farrow"
+  },
+  "305": {
+   "name": "Chris Farrow"
+  },
+  "307": {
+   "name": "Chris Farrow"
+  },
+  "309": {
+   "name": "Chris Farrow"
+  },
+  "16": {
+   "name": "Unidentified",
+   "role": "Unidentified - board member seconding the agenda (absorbed into superintendent cluster)"
+  },
+  "41": {
+   "name": "Rebecca Zullo"
+  },
+  "74": {
+   "name": "Unidentified",
+   "role": "Public commenter on alumni weekend (ASR self-ID 'my name is Gary'; chair replies 'Thank you Mary')"
+  },
+  "90": {
+   "name": "Scott"
+  },
+  "228": {
+   "name": "Scott"
+  },
+  "231": {
+   "name": "Scott"
+  },
+  "233": {
+   "name": "Scott"
+  },
+  "270": {
+   "name": "Scott"
+  },
+  "255": {
+   "name": "Unidentified",
+   "role": "Unidentified - recognition of the student representative; speaker unclear"
+  },
+  "269": {
+   "name": "Unidentified",
+   "role": "Unidentified - vendor-side reply during Abbey Group Q and A"
+  },
+  "285": {
+   "name": "Unidentified",
+   "role": "Unidentified - thanks to Abbey Group presenters"
+  },
+  "437": {
+   "name": "Rebecca Zullo"
+  },
+  "637": {
+   "name": "Rebecca Zullo"
+  },
+  "588": {
+   "name": "Middleton McGoodwin"
+  },
+  "608": {
+   "name": "Middleton McGoodwin"
+  },
+  "612": {
+   "name": "Middleton McGoodwin"
+  }
+ }
+}

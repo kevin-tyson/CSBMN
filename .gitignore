@@ -1,0 +1,84 @@
+# ---------------------------------------------------------------------------
+# Source media. NEVER COMMIT.
+# Input/Videos is roughly 237 GB. GitHub blocks files over 100 MiB, warns over
+# 50 MiB, and recommends repositories stay under 1 GB. Git LFS does not rescue
+# this at this scale. Recordings live in Claremont Community Television's
+# Cablecast gallery and are linked from MAP.md and from every generated page.
+# ---------------------------------------------------------------------------
+Input/Videos/
+*.mp4
+*.mov
+*.m4v
+*.mp3
+*.wav
+*.m4a
+
+# ---------------------------------------------------------------------------
+# Third-party public records. Linked, not mirrored.
+# See LICENSE-DATA, "what this license does NOT cover", item 3.
+# ---------------------------------------------------------------------------
+Input/Minutes/
+Input/Agendas/
+
+# ---------------------------------------------------------------------------
+# Environments, editors, OS cruft
+# ---------------------------------------------------------------------------
+.venv/
+venv/
+env/
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+.ipynb_checkpoints/
+
+.idea/
+.vscode/
+
+.DS_Store
+._*
+.Spotlight-V100
+.Trashes
+Thumbs.db
+desktop.ini
+
+# Microsoft Office lock files
+~$*
+
+# ---------------------------------------------------------------------------
+# Generated bundles and archives.
+# Regenerable from Scripts/. Attach to a GitHub Release instead of committing;
+# the PDF alone is ~53 MB, past GitHub's 50 MiB warning threshold.
+# ---------------------------------------------------------------------------
+Output/CSBMN-*.DOCX
+Output/CSBMN-*.docx
+Output/CSBMN-*.pdf
+Output/CSBMN-*.PDF
+*.zip
+
+# ---------------------------------------------------------------------------
+# Scratch, snapshots and working directories
+# ---------------------------------------------------------------------------
+Output/_to_delete
+Output/_wtest
+Output/HTML 2/
+Output/HTML-*/
+Scripts/backup_prenorm/
+/tmp/
+
+# Extensionless scratch dumps produced by earlier runs
+Output/zi*
+
+# ---------------------------------------------------------------------------
+# Superseded inputs
+# ---------------------------------------------------------------------------
+Input/SupportingDocuments/MAP-old.md
+
+# ---------------------------------------------------------------------------
+# Anything that must never be published
+# ---------------------------------------------------------------------------
+*.env
+.env.*
+credentials.json
+token.json
+*-service-account*.json

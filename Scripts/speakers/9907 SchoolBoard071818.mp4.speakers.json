@@ -1,0 +1,276 @@
+{
+ "Speaker 1": {
+  "name": "Frank Sprague",
+  "role": "Claremont School Board Chair (calls meeting to order [0], asks Mrs. Woodman for roll [1], runs agenda; cluster also carries presenter Mike Kell, see overrides)"
+ },
+ "Speaker 2": {
+  "name": "Mary Woodman",
+  "role": "School District Clerk / recording secretary (asked 'Mrs. Woodman, could you do roll call' [1], calls roll [2-3])"
+ },
+ "Speaker 3": {
+  "name": "Unidentified",
+  "role": "Unidentified - a second [6] and a side remark [36]"
+ },
+ "Speaker 4": {
+  "name": "Jason Benware",
+  "role": "Claremont School Board member (asks whether the program can expand [69], later cited as 'Jason's point of how this can expand' [130]; 'To Jason's point, they signed it' [351] after his handbook comments [307-310])"
+ },
+ "Speaker 5": {
+  "name": "Unidentified",
+  "role": "Unidentified - seconds and short acknowledgements"
+ },
+ "Speaker 6": {
+  "name": "Michael O'Neill",
+  "role": "Business Administrator, SAU 6 (chair: 'Mike, are we doing a superintendents report' [12]; presents the Bridges cost model 'can I talk about the money' [102-112]; ASR spelling O'Neil per roster, surname not spoken on this recording)"
+ },
+ "Speaker 7": {
+  "name": "Ben",
+  "role": "SAU 6 special education administrator, new role from July 2, 2018 (introduces the Bridges program [50-55]; former school psychologist [169]; surname not on this recording - possibly Ben Nester, uncertain)"
+ },
+ "Speaker 8": {
+  "name": "Steven Horsky",
+  "role": "Claremont School Board member ('Steve, do you feel like your questions were answered?' [148] answered by this cluster [149]; recognized 'Steve.' [254,287,363] before this cluster speaks)"
+ },
+ "Speaker 9": {
+  "name": "Frank Sprague",
+  "role": "Claremont School Board Chair ('I guess I don't have to recognize [79] myself' then speaks of working at the high school [80]; recognizes speakers and calls votes [113,147,177,187,192])"
+ },
+ "Speaker 10": {
+  "name": "Rebecca Zullo",
+  "role": "Claremont School Board Vice Chair (recognized 'Rebecca and Steve' [113] then speaks [114]; chair 'Becca.' [269] answered 'Sorry. You can go.' [271]; arrived late [88], no response at roll [2])"
+ },
+ "Speaker 11": {
+  "name": "Unidentified",
+  "role": "Unidentified - cluster mixes chair recognitions, votes and onsets of other speakers; see overrides"
+ },
+ "Speaker 12": {
+  "name": "Carolyn Towle",
+  "role": "Claremont School Board member (onsets of the cell-phone comments after chair recognizes 'Carolyn.' [280,344]; cluster continues into Speaker 13)"
+ },
+ "Speaker 13": {
+  "name": "Carolyn Towle",
+  "role": "Claremont School Board member (chair 'Carolyn.' [280] then cell phone policy [282-284]; 'Carolyn.' [344] then senior luncheon remark [346-348]; also the NHSBA seminar remarks [247-253], uncertain)"
+ },
+ "Speaker 14": {
+  "name": "Unidentified",
+  "role": "Unidentified - one short interjection"
+ },
+ "__overrides__": {
+  "56": {
+   "name": "Mike Kell",
+   "role": "Bridges Program / Meadows School, Brattleboro Retreat, presenter (self-ID 'I am Mike Cal' [56]; introduced as 'Mr. Kell' [51,54]; surname spelling uncertain - ASR 'Cal', 'Kell', 'Kelly')"
+  },
+  "57": {
+   "name": "Mike Kell",
+   "role": "Bridges Program / Meadows School, Brattleboro Retreat, presenter (self-ID 'I am Mike Cal' [56]; introduced as 'Mr. Kell' [51,54]; surname spelling uncertain - ASR 'Cal', 'Kell', 'Kelly')"
+  },
+  "58": {
+   "name": "Mike Kell",
+   "role": "Bridges Program / Meadows School, Brattleboro Retreat, presenter (self-ID 'I am Mike Cal' [56]; introduced as 'Mr. Kell' [51,54]; surname spelling uncertain - ASR 'Cal', 'Kell', 'Kelly')"
+  },
+  "59": {
+   "name": "Mike Kell",
+   "role": "Bridges Program / Meadows School, Brattleboro Retreat, presenter (self-ID 'I am Mike Cal' [56]; introduced as 'Mr. Kell' [51,54]; surname spelling uncertain - ASR 'Cal', 'Kell', 'Kelly')"
+  },
+  "60": {
+   "name": "Mike Kell",
+   "role": "Bridges Program / Meadows School, Brattleboro Retreat, presenter (self-ID 'I am Mike Cal' [56]; introduced as 'Mr. Kell' [51,54]; surname spelling uncertain - ASR 'Cal', 'Kell', 'Kelly')"
+  },
+  "61": {
+   "name": "Mike Kell",
+   "role": "Bridges Program / Meadows School, Brattleboro Retreat, presenter (self-ID 'I am Mike Cal' [56]; introduced as 'Mr. Kell' [51,54]; surname spelling uncertain - ASR 'Cal', 'Kell', 'Kelly')"
+  },
+  "62": {
+   "name": "Mike Kell",
+   "role": "Bridges Program / Meadows School, Brattleboro Retreat, presenter (self-ID 'I am Mike Cal' [56]; introduced as 'Mr. Kell' [51,54]; surname spelling uncertain - ASR 'Cal', 'Kell', 'Kelly')"
+  },
+  "63": {
+   "name": "Mike Kell",
+   "role": "Bridges Program / Meadows School, Brattleboro Retreat, presenter (self-ID 'I am Mike Cal' [56]; introduced as 'Mr. Kell' [51,54]; surname spelling uncertain - ASR 'Cal', 'Kell', 'Kelly')"
+  },
+  "64": {
+   "name": "Mike Kell",
+   "role": "Bridges Program / Meadows School, Brattleboro Retreat, presenter (self-ID 'I am Mike Cal' [56]; introduced as 'Mr. Kell' [51,54]; surname spelling uncertain - ASR 'Cal', 'Kell', 'Kelly')"
+  },
+  "65": {
+   "name": "Mike Kell",
+   "role": "Bridges Program / Meadows School, Brattleboro Retreat, presenter (self-ID 'I am Mike Cal' [56]; introduced as 'Mr. Kell' [51,54]; surname spelling uncertain - ASR 'Cal', 'Kell', 'Kelly')"
+  },
+  "66": {
+   "name": "Mike Kell",
+   "role": "Bridges Program / Meadows School, Brattleboro Retreat, presenter (self-ID 'I am Mike Cal' [56]; introduced as 'Mr. Kell' [51,54]; surname spelling uncertain - ASR 'Cal', 'Kell', 'Kelly')"
+  },
+  "67": {
+   "name": "Mike Kell",
+   "role": "Bridges Program / Meadows School, Brattleboro Retreat, presenter (self-ID 'I am Mike Cal' [56]; introduced as 'Mr. Kell' [51,54]; surname spelling uncertain - ASR 'Cal', 'Kell', 'Kelly')"
+  },
+  "68": {
+   "name": "Mike Kell",
+   "role": "Bridges Program / Meadows School, Brattleboro Retreat, presenter (self-ID 'I am Mike Cal' [56]; introduced as 'Mr. Kell' [51,54]; surname spelling uncertain - ASR 'Cal', 'Kell', 'Kelly')"
+  },
+  "81": {
+   "name": "Mike Kell",
+   "role": "Bridges Program / Meadows School, Brattleboro Retreat, presenter (self-ID 'I am Mike Cal' [56]; introduced as 'Mr. Kell' [51,54]; surname spelling uncertain - ASR 'Cal', 'Kell', 'Kelly')"
+  },
+  "82": {
+   "name": "Mike Kell",
+   "role": "Bridges Program / Meadows School, Brattleboro Retreat, presenter (self-ID 'I am Mike Cal' [56]; introduced as 'Mr. Kell' [51,54]; surname spelling uncertain - ASR 'Cal', 'Kell', 'Kelly')"
+  },
+  "83": {
+   "name": "Mike Kell",
+   "role": "Bridges Program / Meadows School, Brattleboro Retreat, presenter (self-ID 'I am Mike Cal' [56]; introduced as 'Mr. Kell' [51,54]; surname spelling uncertain - ASR 'Cal', 'Kell', 'Kelly')"
+  },
+  "84": {
+   "name": "Mike Kell",
+   "role": "Bridges Program / Meadows School, Brattleboro Retreat, presenter (self-ID 'I am Mike Cal' [56]; introduced as 'Mr. Kell' [51,54]; surname spelling uncertain - ASR 'Cal', 'Kell', 'Kelly')"
+  },
+  "85": {
+   "name": "Mike Kell",
+   "role": "Bridges Program / Meadows School, Brattleboro Retreat, presenter (self-ID 'I am Mike Cal' [56]; introduced as 'Mr. Kell' [51,54]; surname spelling uncertain - ASR 'Cal', 'Kell', 'Kelly')"
+  },
+  "86": {
+   "name": "Mike Kell",
+   "role": "Bridges Program / Meadows School, Brattleboro Retreat, presenter (self-ID 'I am Mike Cal' [56]; introduced as 'Mr. Kell' [51,54]; surname spelling uncertain - ASR 'Cal', 'Kell', 'Kelly')"
+  },
+  "89": {
+   "name": "Mike Kell",
+   "role": "Bridges Program / Meadows School, Brattleboro Retreat, presenter (self-ID 'I am Mike Cal' [56]; introduced as 'Mr. Kell' [51,54]; surname spelling uncertain - ASR 'Cal', 'Kell', 'Kelly')"
+  },
+  "90": {
+   "name": "Mike Kell",
+   "role": "Bridges Program / Meadows School, Brattleboro Retreat, presenter (self-ID 'I am Mike Cal' [56]; introduced as 'Mr. Kell' [51,54]; surname spelling uncertain - ASR 'Cal', 'Kell', 'Kelly')"
+  },
+  "94": {
+   "name": "Mike Kell",
+   "role": "Bridges Program / Meadows School, Brattleboro Retreat, presenter (self-ID 'I am Mike Cal' [56]; introduced as 'Mr. Kell' [51,54]; surname spelling uncertain - ASR 'Cal', 'Kell', 'Kelly')"
+  },
+  "95": {
+   "name": "Mike Kell",
+   "role": "Bridges Program / Meadows School, Brattleboro Retreat, presenter (self-ID 'I am Mike Cal' [56]; introduced as 'Mr. Kell' [51,54]; surname spelling uncertain - ASR 'Cal', 'Kell', 'Kelly')"
+  },
+  "136": {
+   "name": "Mike Kell",
+   "role": "Bridges Program / Meadows School, Brattleboro Retreat, presenter (self-ID 'I am Mike Cal' [56]; introduced as 'Mr. Kell' [51,54]; surname spelling uncertain - ASR 'Cal', 'Kell', 'Kelly')"
+  },
+  "138": {
+   "name": "Mike Kell",
+   "role": "Bridges Program / Meadows School, Brattleboro Retreat, presenter (self-ID 'I am Mike Cal' [56]; introduced as 'Mr. Kell' [51,54]; surname spelling uncertain - ASR 'Cal', 'Kell', 'Kelly')"
+  },
+  "140": {
+   "name": "Mike Kell",
+   "role": "Bridges Program / Meadows School, Brattleboro Retreat, presenter (self-ID 'I am Mike Cal' [56]; introduced as 'Mr. Kell' [51,54]; surname spelling uncertain - ASR 'Cal', 'Kell', 'Kelly')"
+  },
+  "141": {
+   "name": "Mike Kell",
+   "role": "Bridges Program / Meadows School, Brattleboro Retreat, presenter (self-ID 'I am Mike Cal' [56]; introduced as 'Mr. Kell' [51,54]; surname spelling uncertain - ASR 'Cal', 'Kell', 'Kelly')"
+  },
+  "142": {
+   "name": "Mike Kell",
+   "role": "Bridges Program / Meadows School, Brattleboro Retreat, presenter (self-ID 'I am Mike Cal' [56]; introduced as 'Mr. Kell' [51,54]; surname spelling uncertain - ASR 'Cal', 'Kell', 'Kelly')"
+  },
+  "143": {
+   "name": "Mike Kell",
+   "role": "Bridges Program / Meadows School, Brattleboro Retreat, presenter (self-ID 'I am Mike Cal' [56]; introduced as 'Mr. Kell' [51,54]; surname spelling uncertain - ASR 'Cal', 'Kell', 'Kelly')"
+  },
+  "144": {
+   "name": "Mike Kell",
+   "role": "Bridges Program / Meadows School, Brattleboro Retreat, presenter (self-ID 'I am Mike Cal' [56]; introduced as 'Mr. Kell' [51,54]; surname spelling uncertain - ASR 'Cal', 'Kell', 'Kelly')"
+  },
+  "163": {
+   "name": "Mike Kell",
+   "role": "Bridges Program / Meadows School, Brattleboro Retreat, presenter (self-ID 'I am Mike Cal' [56]; introduced as 'Mr. Kell' [51,54]; surname spelling uncertain - ASR 'Cal', 'Kell', 'Kelly')"
+  },
+  "164": {
+   "name": "Mike Kell",
+   "role": "Bridges Program / Meadows School, Brattleboro Retreat, presenter (self-ID 'I am Mike Cal' [56]; introduced as 'Mr. Kell' [51,54]; surname spelling uncertain - ASR 'Cal', 'Kell', 'Kelly')"
+  },
+  "165": {
+   "name": "Mike Kell",
+   "role": "Bridges Program / Meadows School, Brattleboro Retreat, presenter (self-ID 'I am Mike Cal' [56]; introduced as 'Mr. Kell' [51,54]; surname spelling uncertain - ASR 'Cal', 'Kell', 'Kelly')"
+  },
+  "166": {
+   "name": "Mike Kell",
+   "role": "Bridges Program / Meadows School, Brattleboro Retreat, presenter (self-ID 'I am Mike Cal' [56]; introduced as 'Mr. Kell' [51,54]; surname spelling uncertain - ASR 'Cal', 'Kell', 'Kelly')"
+  },
+  "137": {
+   "name": "Mike Kell",
+   "role": "Bridges Program / Meadows School, Brattleboro Retreat, presenter (self-ID 'I am Mike Cal' [56]; introduced as 'Mr. Kell' [51,54]; surname spelling uncertain - ASR 'Cal', 'Kell', 'Kelly')"
+  },
+  "203": {
+   "name": "Kathleen Bunnell",
+   "role": "Maple Avenue School principal nominee, SAU 6 curriculum coordinator (nominated by name [195-197]; ASR 'Kathleen Bonnell', 'Miss Pinnell')"
+  },
+  "205": {
+   "name": "Kathleen Bunnell",
+   "role": "Maple Avenue School principal nominee, SAU 6 curriculum coordinator (nominated by name [195-197]; ASR 'Kathleen Bonnell', 'Miss Pinnell')"
+  },
+  "207": {
+   "name": "Kathleen Bunnell",
+   "role": "Maple Avenue School principal nominee, SAU 6 curriculum coordinator (nominated by name [195-197]; ASR 'Kathleen Bonnell', 'Miss Pinnell')"
+  },
+  "46": {
+   "name": "Ben",
+   "role": "SAU 6 special education administrator, new role from July 2, 2018 (introduces the Bridges program [50-55]; former school psychologist [169]; surname not on this recording - possibly Ben Nester, uncertain)"
+  },
+  "49": {
+   "name": "Ben",
+   "role": "SAU 6 special education administrator, new role from July 2, 2018 (introduces the Bridges program [50-55]; former school psychologist [169]; surname not on this recording - possibly Ben Nester, uncertain)"
+  },
+  "124": {
+   "name": "Ben",
+   "role": "SAU 6 special education administrator, new role from July 2, 2018 (introduces the Bridges program [50-55]; former school psychologist [169]; surname not on this recording - possibly Ben Nester, uncertain)"
+  },
+  "73": {
+   "name": "Michael O'Neill",
+   "role": "Business Administrator, SAU 6 (chair: 'Mike, are we doing a superintendents report' [12]; presents the Bridges cost model 'can I talk about the money' [102-112]; ASR spelling O'Neil per roster, surname not spoken on this recording)"
+  },
+  "216": {
+   "name": "Steven Horsky",
+   "role": "Claremont School Board member ('Steve, do you feel like your questions were answered?' [148] answered by this cluster [149]; recognized 'Steve.' [254,287,363] before this cluster speaks)"
+  },
+  "227": {
+   "name": "Steven Horsky",
+   "role": "Claremont School Board member ('Steve, do you feel like your questions were answered?' [148] answered by this cluster [149]; recognized 'Steve.' [254,287,363] before this cluster speaks)"
+  },
+  "365": {
+   "name": "Steven Horsky",
+   "role": "Claremont School Board member ('Steve, do you feel like your questions were answered?' [148] answered by this cluster [149]; recognized 'Steve.' [254,287,363] before this cluster speaks)"
+  },
+  "254": {
+   "name": "Frank Sprague",
+   "role": "Claremont School Board Chair (recognition absorbed into Speaker 11)"
+  },
+  "287": {
+   "name": "Frank Sprague",
+   "role": "Claremont School Board Chair (recognition absorbed into Speaker 11)"
+  },
+  "344": {
+   "name": "Frank Sprague",
+   "role": "Claremont School Board Chair (recognition absorbed into Speaker 11)"
+  },
+  "349": {
+   "name": "Frank Sprague",
+   "role": "Claremont School Board Chair (recognition absorbed into Speaker 11)"
+  },
+  "363": {
+   "name": "Frank Sprague",
+   "role": "Claremont School Board Chair (recognition absorbed into Speaker 11)"
+  },
+  "40": {
+   "name": "Unidentified",
+   "role": "Unidentified - short remark in the recording secretary's cluster"
+  },
+  "178": {
+   "name": "Unidentified",
+   "role": "Unidentified - short remark in the recording secretary's cluster"
+  },
+  "160": {
+   "name": "Unidentified",
+   "role": "Unidentified - short onset in Carolyn Towle's cluster, voice not established"
+  },
+  "200": {
+   "name": "Unidentified",
+   "role": "Unidentified - short onset in Carolyn Towle's cluster, voice not established"
+  }
+ }
+}

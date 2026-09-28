@@ -1,0 +1,144 @@
+{
+ "Speaker 1": {
+  "name": "Brian Rapp",
+  "role": "Claremont School Board Chair (presides; answers roll as 'Brian Rath' [4]; addressed 'Brian' by the superintendent [387], [429], [672], [902])"
+ },
+ "Speaker 2": {
+  "name": "Paula Fitzgerald",
+  "role": "Principal, Claremont Middle School (introduced by the superintendent [35])"
+ },
+ "Speaker 3": {
+  "name": "Frank Sprague",
+  "role": "Claremont School Board member (addressed 'Frank' [47], [410], [416])"
+ },
+ "Speaker 4": {
+  "name": "Middleton McGoodwin",
+  "role": "Superintendent, SAU 6 (gives the superintendent's report [15-22])"
+ },
+ "Speaker 7": {
+  "name": "Cory LeClair",
+  "role": "Assistant Superintendent, SAU 6 (introduced 'Corey LeClaire is going to make a presentation' [78])"
+ },
+ "Speaker 9": {
+  "name": "Dan",
+  "role": "Elementary school principal, apparently Maple Avenue per [174] (first name per [113], [189]; surname not on this recording)"
+ },
+ "Speaker 10": {
+  "name": "Patrick Adrian",
+  "role": "Claremont School Board member (recognized 'Patrick' [150]; 'Patrick's question' [167], [425])"
+ },
+ "Speaker 12": {
+  "name": "Michelle Pierce",
+  "role": "Claremont School Board member (recognized 'Michelle' [172], [293], [439]; food service committee member [448])"
+ },
+ "Speaker 13": {
+  "name": "Rebecca Zullo",
+  "role": "Claremont School Board member (recognized 'Rebecca' [185], [431])"
+ },
+ "Speaker 14": {
+  "name": "Chris Irish",
+  "role": "Claremont School Board Vice Chair (arrives late [5]; recognized 'Michelle. And then Chris.' [439] and 'Chris.' [696])"
+ },
+ "Speaker 15": {
+  "name": "Patricia Barry",
+  "role": "Principal, Stevens High School (referred to as 'Pat' [101], [323]; presents high school i-Ready data [336-375])"
+ },
+ "Speaker 17": {
+  "name": "Michael Petrin",
+  "role": "Claremont School Board member (recognized 'Hey, Mike, you got something' [372]; moves the food service award [528])"
+ },
+ "Speaker 19": {
+  "name": "Michael O'Neill",
+  "role": "Business Administrator, SAU 6 (addressed 'Mike' [507], [531]; presents food service budgets; surname per roster, not on this recording)"
+ },
+ "Speaker 5": {
+  "name": "Unidentified",
+  "role": "Unidentified - catch-all cluster of short acknowledgements and clipped onsets from several voices"
+ },
+ "Speaker 6": {
+  "name": "Unidentified",
+  "role": "Unidentified - short acknowledgements [45], [68], [74]"
+ },
+ "Speaker 8": {
+  "name": "Unidentified",
+  "role": "Unidentified - short acknowledgements during the i-Ready presentation"
+ },
+ "Speaker 11": {
+  "name": "Unidentified",
+  "role": "Unidentified - teacher who speaks on i-Ready [168-170] and as a food service committee member [488-496]; not named on this recording"
+ },
+ "Speaker 16": {
+  "name": "Unidentified",
+  "role": "Unidentified - single clipped fragment [366]"
+ },
+ "Speaker 18": {
+  "name": "Unidentified",
+  "role": "Unidentified - cluster mixes the roll-call reader for the nonpublic vote [396-397], group 'aye' responses and short interjections from several voices"
+ },
+ "Speaker 20": {
+  "name": "Unidentified",
+  "role": "Unidentified - cluster of short interjections from several voices, possibly including the superintendent [663-667]; not separable"
+ },
+ "Speaker 21": {
+  "name": "Unidentified",
+  "role": "Unidentified - short member interjections [635], [643], [878]; possibly Patrick Adrian (uncertain - the superintendent's 'Patrick is right' [638] may refer to his earlier point [619])"
+ },
+ "Speaker 22": {
+  "name": "Unidentified",
+  "role": "Unidentified - single reply [905]"
+ },
+ "Speaker 23": {
+  "name": "Unidentified",
+  "role": "Unidentified - procedural comments on readings [907] and meeting time [925]; possibly the recording secretary (uncertain - not named)"
+ },
+ "__overrides__": {
+  "4": {
+   "name": "Unidentified",
+   "role": "Unidentified - roll-call responses from several members ('Michelle Pierce here. Frank Sprague here and Brian Rath here.')"
+  },
+  "8": {
+   "name": "Unidentified",
+   "role": "Unidentified - board member moving to accept the agenda"
+  },
+  "173": {
+   "name": "Michelle Pierce",
+   "role": "Claremont School Board member (recognized 'Michelle' [172], [293], [439]; food service committee member [448])"
+  },
+  "240": {
+   "name": "Paula Fitzgerald",
+   "role": "Principal, Claremont Middle School (introduced by the superintendent [35])"
+  },
+  "365": {
+   "name": "Patricia Barry",
+   "role": "Principal, Stevens High School (referred to as 'Pat' [101], [323]; presents high school i-Ready data [336-375])"
+  },
+  "366": {
+   "name": "Patricia Barry",
+   "role": "Principal, Stevens High School (referred to as 'Pat' [101], [323]; presents high school i-Ready data [336-375])"
+  },
+  "311": {
+   "name": "Chris Irish",
+   "role": "Claremont School Board Vice Chair (arrives late [5]; recognized 'Michelle. And then Chris.' [439] and 'Chris.' [696])"
+  },
+  "312": {
+   "name": "Chris Irish",
+   "role": "Claremont School Board Vice Chair (arrives late [5]; recognized 'Michelle. And then Chris.' [439] and 'Chris.' [696])"
+  },
+  "313": {
+   "name": "Chris Irish",
+   "role": "Claremont School Board Vice Chair (arrives late [5]; recognized 'Michelle. And then Chris.' [439] and 'Chris.' [696])"
+  },
+  "314": {
+   "name": "Chris Irish",
+   "role": "Claremont School Board Vice Chair (arrives late [5]; recognized 'Michelle. And then Chris.' [439] and 'Chris.' [696])"
+  },
+  "640": {
+   "name": "Frank Sprague",
+   "role": "Claremont School Board member (addressed 'Frank' [47], [410], [416])"
+  },
+  "675": {
+   "name": "Middleton McGoodwin",
+   "role": "Superintendent, SAU 6 (gives the superintendent's report [15-22])"
+  }
+ }
+}

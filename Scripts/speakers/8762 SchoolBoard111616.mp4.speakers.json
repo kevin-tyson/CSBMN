@@ -1,0 +1,84 @@
+{
+ "Speaker 1": {
+  "name": "Brian Rapp",
+  "role": "Claremont School Board Chair (runs agenda, votes and citizens comments; superintendent: 'if I may, Brian' [261, 266], 'So may I go on Brian?' [566]; 'Brian Brown here' in roll call [2])"
+ },
+ "Speaker 2": {
+  "name": "Unidentified",
+  "role": "Unidentified - cluster mixes the roll caller [2] with short interjections, seconds and votes from several board members"
+ },
+ "Speaker 3": {
+  "name": "Middleton McGoodwin",
+  "role": "Superintendent, SAU 6 (superintendent's report [47-63]; Sprague: 'Middleton is the Vista involvement' [57] -> [58]; Irish: 'Middleton, do you know' [65] -> [66]; 'I agree with Middleton' [520] re [519])"
+ },
+ "Speaker 4": {
+  "name": "Norm St. Alban",
+  "role": "Public commenter, snowplow contractor (self-identifies 'My name is Norm, Saint Alban ... I'm 85 years old' [93]; surname spelling as heard, ASR 'Saint Alban', unverified)"
+ },
+ "Speaker 5": {
+  "name": "Frank Sprague",
+  "role": "Claremont School Board member (superintendent: 'Frank.' [58] answering [57]; recounts the Gideons arriving at Stevens High School [409]; policy questions [333-334, 387-399])"
+ },
+ "Speaker 6": {
+  "name": "Marion Lovett",
+  "role": "Stevens High School student representative (chair: 'Barron [Marion], you're up' [33] -> student report [34-40]; superintendent: 'Have you heard anything, Marion' [66] -> [67]; surname from files 8794/8815 and the 'Marian Lovett' field hockey mention [36]; first-name spelling uncertain)"
+ },
+ "Speaker 7": {
+  "name": "Chris Irish",
+  "role": "Claremont School Board Vice Chair (Adrian: 'I agree with Chris' [544] after Speaker 7's argument against 'equal' access [466-549]; same position he takes as presiding vice chair on 12/7/16) (medium)"
+ },
+ "Speaker 8": {
+  "name": "Cory LeClair",
+  "role": "Assistant Superintendent, SAU 6 (superintendent: 'I asked Corey LeClaire to provide an overview ... Corey has prepared a handout' [230-231] -> [232-242]; chair: 'Corey, you've been doing a great job' [270])"
+ },
+ "Speaker 9": {
+  "name": "Michael O'Neill",
+  "role": "Business Administrator, SAU 6 (chair: 'Mike, do you want to talk about that?' [111] -> snowplow bid results [115-153]; superintendent: 'to Michael O'Neill's point' [225] re [205-207])"
+ },
+ "Speaker 10": {
+  "name": "Patrick Adrian",
+  "role": "Claremont School Board member (chair: 'dead on Patrick' [259-260] after [247-257]; Irish: 'speaks to Patrick's point' [274]; LeClair: 'Patrick and I looked at that' [377] -> [379]) (medium)"
+ },
+ "Speaker 11": {
+  "name": "Unidentified",
+  "role": "Unidentified - single interjection [423]"
+ },
+ "Speaker 12": {
+  "name": "Unidentified",
+  "role": "Unidentified - board member on flier-policy wording [425-441]"
+ },
+ "Speaker 13": {
+  "name": "Unidentified",
+  "role": "Unidentified - cluster of short board-member remarks, seconds and votes, possibly several voices"
+ },
+ "Speaker 14": {
+  "name": "Unidentified",
+  "role": "Unidentified - short remarks [443, 457, 502]"
+ },
+ "Speaker 15": {
+  "name": "Unidentified",
+  "role": "Unidentified - single remark [534]"
+ },
+ "Speaker 16": {
+  "name": "Unidentified",
+  "role": "Unidentified - board member who asks why 'equal' belongs in the policy and leaves early [546-565]"
+ },
+ "Speaker 17": {
+  "name": "Unidentified",
+  "role": "Unidentified - short remarks [557, 564]"
+ },
+ "__overrides__": {
+  "244": {
+   "name": "Patrick Adrian"
+  },
+  "245": {
+   "name": "Patrick Adrian"
+  },
+  "246": {
+   "name": "Patrick Adrian"
+  },
+  "314": {
+   "name": "Brian Rapp"
+  }
+ }
+}

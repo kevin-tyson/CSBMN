@@ -1,0 +1,214 @@
+{
+  "Speaker 1": {
+    "name": "Marjorie Erickson",
+    "role": "Chair, Unity School Board - guest presenter on the Claremont/Unity anchor-school tuition agreement; named by the chair at segment 5 ('LED by Marjorie Erickson, the chair of the Unity School Board', conf 0.83/0.90, and 'Miss Erickson' conf 1.00). This cluster also carries the roll-call reader at segment 2 - see overrides"
+  },
+  "Speaker 2": {
+    "name": "Heather Whitney",
+    "role": "Chair, Claremont School Board (re-elected chair 3/20/2024). She calls the meeting to order (1), runs the consent agenda and citizens' comments (3-4), introduces both presenters (5, 31), rules on the motion ('No, I'm not seconding', 17; 'So [Petrin]'s seconding', 19) and recognizes members ('Yes. Mr. Sprague.', 119). DIARIZER SPLIT: her voice moves out of this cluster into Speaker 7 at ~1512 s, after which this cluster carries Arlene Hawkins - see overrides"
+  },
+  "Speaker 3": {
+    "name": "Frank Sprague",
+    "role": "Vice chair, Claremont School Board; chair of the Finance Committee; NHSBA delegate. Recognized by the chair at 119 ('Yes. Mr. Sprague.', conf 1.00) and 191 ('Next item on the agenda, Mr. Sprague', conf 1.00); self-identifies as the delegate at 192; states at 275 that he is not on the policy subcommittee. This cluster also carries Michael Petrin - see overrides"
+  },
+  "Speaker 4": {
+    "name": "Mimi Rhines",
+    "role": "School counselor, Stevens High School; coordinator of the summer school / credit-recovery program. Introduced by the chair at 31 as 'Miss Rhymes... the Stevens High school school counselor' (ASR conf 0.43 on the surname; 'Ryan's'/'Rhymes' is the standing ASR family for Rhines in this corpus) and self-identifies at 32 and 78 ('I'm one person right now. I'm the only school counselor')"
+  },
+  "Speaker 5": {
+    "name": "Candace Crawford",
+    "role": "Claremont School Board member (Capital Improvement; SRVRTC Visioning subcommittee). Self-identifies at 87 ('my [SAU] email address... there's already a C Crawford in the [SAU]... People send emails to [C] Crawford, and I never get them', 'Crawford' conf 1.00 twice); addressed as 'Candy' by Whitney (224, 301) and by Skillen (320), and called on as 'Miss Crawford' for capital improvement (261)"
+  },
+  "Speaker 6": {
+    "name": "Frank Sprague",
+    "role": "Vice chair, Claremont School Board; chair of the Finance Committee; NHSBA delegate. FRAGMENT CLUSTER: segments 152-164 are a rapid mid-sentence flap of the Speaker 3 voice ('So seniors that / are going through school and reaching that / senior stage'; 'It seems like a pretty steep / penalty. For messing / up such a small portion / of your high school career'). Segments 104 and 141 are attributed here by cluster affinity and content (competency-recovery mechanics; summer-school grant funding), not by a spoken anchor"
+  },
+  "Speaker 7": {
+    "name": "Heather Whitney",
+    "role": "Chair, Claremont School Board (re-elected chair 3/20/2024). From ~1512 s she runs the agenda in this cluster: calls the NHSBA item and recognizes Mr. Sprague (191), calls the subcommittee round (261-305), grants the floor (339) and adjourns (354-356). NAME ANCHOR: Sprague, closing the NHSBA item, asks for a motion 'with Heather Whitney's noted' (245, 'Heather' conf 1.00) - and the two objections being noted are this speaker's own (202, 205, 218, 239)"
+  },
+  "Speaker 8": {
+    "name": "Whitney Skillen",
+    "role": "Claremont School Board member; chair of the Policy Subcommittee. She delivers the policy subcommittee report and sets its meeting schedule (266, 269, 271), directs Chelsea on committee membership and calendaring (276, 281). ROLE ANCHOR: at the 9/30/2024 joint session two days earlier the chair says of the absent member 'Miss Skilling... She's the chair of the policy committee'; no name is spoken in this recording"
+  },
+  "Speaker 9": {
+    "name": "Unidentified",
+    "role": "Unidentified voice in the room - two brief utterances only ('All right.' at 2644.16 s, inside the chair's turn, and 'Thank you. Thank you. Thank you.' at adjournment). No anchor of any kind. Bonnie Miles is the one seated member never heard in this recording, but that is elimination reasoning only and is NOT asserted"
+  },
+  "__overrides__": {
+    "0": {
+      "name": "Unidentified",
+      "role": "Unidentified - pre-gavel fragment 1.8 s before the chair calls the meeting to order; unintelligible ('From like relief.')"
+    },
+    "2": {
+      "name": "Noelle Kronberg",
+      "role": "School Board Clerk, Claremont School District (appointed 11/15/2023) - reads the roll call of attendance. MEDIUM CONFIDENCE, identified by function, not by name: the chair's address to her at segment 1 survives only as 'This.' (conf 0.75) in the name slot, and this voice speaks nowhere else in the recording. The clerk reads the roll at every Claremont board meeting in this era and the chair names her in the identical formula two weeks later on 10/16/2024 ('Miss Kronborg, would you please roll call for attendance?'). CAVEAT: she was absent from nearby meetings (Crawford read the roll on 9/18/2024; 'Miss Cronenberg is not here tonight' on 11/14/2024)"
+    },
+    "16": {
+      "name": "Unidentified",
+      "role": "Unidentified crosstalk - overlapping offers of a second and a question during the tuition-agreement motion ('A second one, one question. Second. And then I'll second.'); two or more voices in one segment, not separable"
+    },
+    "21": {
+      "name": "Marjorie Erickson"
+    },
+    "23": {
+      "name": "Marjorie Erickson"
+    },
+    "103": {
+      "name": "Frank Sprague"
+    },
+    "183": {
+      "name": "Mimi Rhines"
+    },
+    "190": {
+      "name": "Arlene Hawkins",
+      "role": "Claremont School Board member; chair of the SAU 6 board; the board's representative to the Curriculum Committee and a member of the Policy Subcommittee. ROLE-BASED IDENTIFICATION, no name spoken for her in this recording: she answers for the curriculum subcommittee ('We don't have anything to report', 286) and adds to the policy subcommittee report comparing the [SAU]-level policy process (268). Heather Whitney's 1/21/2025 reading of the assignments gives Arlene alone the Curriculum Committee board representative seat. From ~1536 s she occupies the Speaker 2 cluster that Heather Whitney's voice vacated at ~1512 s"
+    },
+    "206": {
+      "name": "Arlene Hawkins",
+      "role": "Claremont School Board member; chair of the SAU 6 board; the board's representative to the Curriculum Committee and a member of the Policy Subcommittee. ROLE-BASED IDENTIFICATION, no name spoken for her in this recording: she answers for the curriculum subcommittee ('We don't have anything to report', 286) and adds to the policy subcommittee report comparing the [SAU]-level policy process (268). Heather Whitney's 1/21/2025 reading of the assignments gives Arlene alone the Curriculum Committee board representative seat. From ~1536 s she occupies the Speaker 2 cluster that Heather Whitney's voice vacated at ~1512 s"
+    },
+    "213": {
+      "name": "Frank Sprague"
+    },
+    "215": {
+      "name": "Arlene Hawkins",
+      "role": "Claremont School Board member; chair of the SAU 6 board; the board's representative to the Curriculum Committee and a member of the Policy Subcommittee. ROLE-BASED IDENTIFICATION, no name spoken for her in this recording: she answers for the curriculum subcommittee ('We don't have anything to report', 286) and adds to the policy subcommittee report comparing the [SAU]-level policy process (268). Heather Whitney's 1/21/2025 reading of the assignments gives Arlene alone the Curriculum Committee board representative seat. From ~1536 s she occupies the Speaker 2 cluster that Heather Whitney's voice vacated at ~1512 s"
+    },
+    "229": {
+      "name": "Arlene Hawkins",
+      "role": "Claremont School Board member; chair of the SAU 6 board; the board's representative to the Curriculum Committee and a member of the Policy Subcommittee. ROLE-BASED IDENTIFICATION, no name spoken for her in this recording: she answers for the curriculum subcommittee ('We don't have anything to report', 286) and adds to the policy subcommittee report comparing the [SAU]-level policy process (268). Heather Whitney's 1/21/2025 reading of the assignments gives Arlene alone the Curriculum Committee board representative seat. From ~1536 s she occupies the Speaker 2 cluster that Heather Whitney's voice vacated at ~1512 s"
+    },
+    "230": {
+      "name": "Arlene Hawkins",
+      "role": "Claremont School Board member; chair of the SAU 6 board; the board's representative to the Curriculum Committee and a member of the Policy Subcommittee. ROLE-BASED IDENTIFICATION, no name spoken for her in this recording: she answers for the curriculum subcommittee ('We don't have anything to report', 286) and adds to the policy subcommittee report comparing the [SAU]-level policy process (268). Heather Whitney's 1/21/2025 reading of the assignments gives Arlene alone the Curriculum Committee board representative seat. From ~1536 s she occupies the Speaker 2 cluster that Heather Whitney's voice vacated at ~1512 s"
+    },
+    "231": {
+      "name": "Arlene Hawkins",
+      "role": "Claremont School Board member; chair of the SAU 6 board; the board's representative to the Curriculum Committee and a member of the Policy Subcommittee. ROLE-BASED IDENTIFICATION, no name spoken for her in this recording: she answers for the curriculum subcommittee ('We don't have anything to report', 286) and adds to the policy subcommittee report comparing the [SAU]-level policy process (268). Heather Whitney's 1/21/2025 reading of the assignments gives Arlene alone the Curriculum Committee board representative seat. From ~1536 s she occupies the Speaker 2 cluster that Heather Whitney's voice vacated at ~1512 s"
+    },
+    "234": {
+      "name": "Arlene Hawkins",
+      "role": "Claremont School Board member; chair of the SAU 6 board; the board's representative to the Curriculum Committee and a member of the Policy Subcommittee. ROLE-BASED IDENTIFICATION, no name spoken for her in this recording: she answers for the curriculum subcommittee ('We don't have anything to report', 286) and adds to the policy subcommittee report comparing the [SAU]-level policy process (268). Heather Whitney's 1/21/2025 reading of the assignments gives Arlene alone the Curriculum Committee board representative seat. From ~1536 s she occupies the Speaker 2 cluster that Heather Whitney's voice vacated at ~1512 s"
+    },
+    "238": {
+      "name": "Arlene Hawkins",
+      "role": "Claremont School Board member; chair of the SAU 6 board; the board's representative to the Curriculum Committee and a member of the Policy Subcommittee. ROLE-BASED IDENTIFICATION, no name spoken for her in this recording: she answers for the curriculum subcommittee ('We don't have anything to report', 286) and adds to the policy subcommittee report comparing the [SAU]-level policy process (268). Heather Whitney's 1/21/2025 reading of the assignments gives Arlene alone the Curriculum Committee board representative seat. From ~1536 s she occupies the Speaker 2 cluster that Heather Whitney's voice vacated at ~1512 s"
+    },
+    "241": {
+      "name": "Michael Petrin",
+      "role": "Claremont School Board member (returned as a write-in, March 2024); chair of the ad hoc Communications Subcommittee. He refers to Frank Sprague in the third person while reporting for that subcommittee ('Frank has done the lion's share of the work... Frank is carrying most of that load right now', 306, conf 1.00) and again at 241; the subcommittee's only two members are Sprague and Petrin (Whitney's 1/21/2025 reading: 'Mike... the chair of the ad hoc communications subcommittee'), and Petrin is the only other man on the board"
+    },
+    "244": {
+      "name": "Arlene Hawkins",
+      "role": "Claremont School Board member; chair of the SAU 6 board; the board's representative to the Curriculum Committee and a member of the Policy Subcommittee. ROLE-BASED IDENTIFICATION, no name spoken for her in this recording: she answers for the curriculum subcommittee ('We don't have anything to report', 286) and adds to the policy subcommittee report comparing the [SAU]-level policy process (268). Heather Whitney's 1/21/2025 reading of the assignments gives Arlene alone the Curriculum Committee board representative seat. From ~1536 s she occupies the Speaker 2 cluster that Heather Whitney's voice vacated at ~1512 s"
+    },
+    "250": {
+      "name": "Arlene Hawkins",
+      "role": "Claremont School Board member; chair of the SAU 6 board; the board's representative to the Curriculum Committee and a member of the Policy Subcommittee. ROLE-BASED IDENTIFICATION, no name spoken for her in this recording: she answers for the curriculum subcommittee ('We don't have anything to report', 286) and adds to the policy subcommittee report comparing the [SAU]-level policy process (268). Heather Whitney's 1/21/2025 reading of the assignments gives Arlene alone the Curriculum Committee board representative seat. From ~1536 s she occupies the Speaker 2 cluster that Heather Whitney's voice vacated at ~1512 s"
+    },
+    "253": {
+      "name": "Arlene Hawkins",
+      "role": "Claremont School Board member; chair of the SAU 6 board; the board's representative to the Curriculum Committee and a member of the Policy Subcommittee. ROLE-BASED IDENTIFICATION, no name spoken for her in this recording: she answers for the curriculum subcommittee ('We don't have anything to report', 286) and adds to the policy subcommittee report comparing the [SAU]-level policy process (268). Heather Whitney's 1/21/2025 reading of the assignments gives Arlene alone the Curriculum Committee board representative seat. From ~1536 s she occupies the Speaker 2 cluster that Heather Whitney's voice vacated at ~1512 s"
+    },
+    "255": {
+      "name": "Arlene Hawkins",
+      "role": "Claremont School Board member; chair of the SAU 6 board; the board's representative to the Curriculum Committee and a member of the Policy Subcommittee. ROLE-BASED IDENTIFICATION, no name spoken for her in this recording: she answers for the curriculum subcommittee ('We don't have anything to report', 286) and adds to the policy subcommittee report comparing the [SAU]-level policy process (268). Heather Whitney's 1/21/2025 reading of the assignments gives Arlene alone the Curriculum Committee board representative seat. From ~1536 s she occupies the Speaker 2 cluster that Heather Whitney's voice vacated at ~1512 s"
+    },
+    "268": {
+      "name": "Arlene Hawkins",
+      "role": "Claremont School Board member; chair of the SAU 6 board; the board's representative to the Curriculum Committee and a member of the Policy Subcommittee. ROLE-BASED IDENTIFICATION, no name spoken for her in this recording: she answers for the curriculum subcommittee ('We don't have anything to report', 286) and adds to the policy subcommittee report comparing the [SAU]-level policy process (268). Heather Whitney's 1/21/2025 reading of the assignments gives Arlene alone the Curriculum Committee board representative seat. From ~1536 s she occupies the Speaker 2 cluster that Heather Whitney's voice vacated at ~1512 s"
+    },
+    "279": {
+      "name": "Arlene Hawkins",
+      "role": "Claremont School Board member; chair of the SAU 6 board; the board's representative to the Curriculum Committee and a member of the Policy Subcommittee. ROLE-BASED IDENTIFICATION, no name spoken for her in this recording: she answers for the curriculum subcommittee ('We don't have anything to report', 286) and adds to the policy subcommittee report comparing the [SAU]-level policy process (268). Heather Whitney's 1/21/2025 reading of the assignments gives Arlene alone the Curriculum Committee board representative seat. From ~1536 s she occupies the Speaker 2 cluster that Heather Whitney's voice vacated at ~1512 s"
+    },
+    "286": {
+      "name": "Arlene Hawkins",
+      "role": "Claremont School Board member; chair of the SAU 6 board; the board's representative to the Curriculum Committee and a member of the Policy Subcommittee. ROLE-BASED IDENTIFICATION, no name spoken for her in this recording: she answers for the curriculum subcommittee ('We don't have anything to report', 286) and adds to the policy subcommittee report comparing the [SAU]-level policy process (268). Heather Whitney's 1/21/2025 reading of the assignments gives Arlene alone the Curriculum Committee board representative seat. From ~1536 s she occupies the Speaker 2 cluster that Heather Whitney's voice vacated at ~1512 s"
+    },
+    "295": {
+      "name": "Arlene Hawkins",
+      "role": "Claremont School Board member; chair of the SAU 6 board; the board's representative to the Curriculum Committee and a member of the Policy Subcommittee. ROLE-BASED IDENTIFICATION, no name spoken for her in this recording: she answers for the curriculum subcommittee ('We don't have anything to report', 286) and adds to the policy subcommittee report comparing the [SAU]-level policy process (268). Heather Whitney's 1/21/2025 reading of the assignments gives Arlene alone the Curriculum Committee board representative seat. From ~1536 s she occupies the Speaker 2 cluster that Heather Whitney's voice vacated at ~1512 s"
+    },
+    "297": {
+      "name": "Arlene Hawkins",
+      "role": "Claremont School Board member; chair of the SAU 6 board; the board's representative to the Curriculum Committee and a member of the Policy Subcommittee. ROLE-BASED IDENTIFICATION, no name spoken for her in this recording: she answers for the curriculum subcommittee ('We don't have anything to report', 286) and adds to the policy subcommittee report comparing the [SAU]-level policy process (268). Heather Whitney's 1/21/2025 reading of the assignments gives Arlene alone the Curriculum Committee board representative seat. From ~1536 s she occupies the Speaker 2 cluster that Heather Whitney's voice vacated at ~1512 s"
+    },
+    "306": {
+      "name": "Michael Petrin",
+      "role": "Claremont School Board member (returned as a write-in, March 2024); chair of the ad hoc Communications Subcommittee. He refers to Frank Sprague in the third person while reporting for that subcommittee ('Frank has done the lion's share of the work... Frank is carrying most of that load right now', 306, conf 1.00) and again at 241; the subcommittee's only two members are Sprague and Petrin (Whitney's 1/21/2025 reading: 'Mike... the chair of the ad hoc communications subcommittee'), and Petrin is the only other man on the board"
+    },
+    "307": {
+      "name": "Michael Petrin",
+      "role": "Claremont School Board member (returned as a write-in, March 2024); chair of the ad hoc Communications Subcommittee. He refers to Frank Sprague in the third person while reporting for that subcommittee ('Frank has done the lion's share of the work... Frank is carrying most of that load right now', 306, conf 1.00) and again at 241; the subcommittee's only two members are Sprague and Petrin (Whitney's 1/21/2025 reading: 'Mike... the chair of the ad hoc communications subcommittee'), and Petrin is the only other man on the board"
+    },
+    "308": {
+      "name": "Michael Petrin",
+      "role": "Claremont School Board member (returned as a write-in, March 2024); chair of the ad hoc Communications Subcommittee. He refers to Frank Sprague in the third person while reporting for that subcommittee ('Frank has done the lion's share of the work... Frank is carrying most of that load right now', 306, conf 1.00) and again at 241; the subcommittee's only two members are Sprague and Petrin (Whitney's 1/21/2025 reading: 'Mike... the chair of the ad hoc communications subcommittee'), and Petrin is the only other man on the board"
+    },
+    "311": {
+      "name": "Arlene Hawkins",
+      "role": "Claremont School Board member; chair of the SAU 6 board; the board's representative to the Curriculum Committee and a member of the Policy Subcommittee. ROLE-BASED IDENTIFICATION, no name spoken for her in this recording: she answers for the curriculum subcommittee ('We don't have anything to report', 286) and adds to the policy subcommittee report comparing the [SAU]-level policy process (268). Heather Whitney's 1/21/2025 reading of the assignments gives Arlene alone the Curriculum Committee board representative seat. From ~1536 s she occupies the Speaker 2 cluster that Heather Whitney's voice vacated at ~1512 s"
+    },
+    "317": {
+      "name": "Arlene Hawkins",
+      "role": "Claremont School Board member; chair of the SAU 6 board; the board's representative to the Curriculum Committee and a member of the Policy Subcommittee. ROLE-BASED IDENTIFICATION, no name spoken for her in this recording: she answers for the curriculum subcommittee ('We don't have anything to report', 286) and adds to the policy subcommittee report comparing the [SAU]-level policy process (268). Heather Whitney's 1/21/2025 reading of the assignments gives Arlene alone the Curriculum Committee board representative seat. From ~1536 s she occupies the Speaker 2 cluster that Heather Whitney's voice vacated at ~1512 s"
+    },
+    "319": {
+      "name": "Candace Crawford"
+    },
+    "321": {
+      "name": "Arlene Hawkins",
+      "role": "Claremont School Board member; chair of the SAU 6 board; the board's representative to the Curriculum Committee and a member of the Policy Subcommittee. ROLE-BASED IDENTIFICATION, no name spoken for her in this recording: she answers for the curriculum subcommittee ('We don't have anything to report', 286) and adds to the policy subcommittee report comparing the [SAU]-level policy process (268). Heather Whitney's 1/21/2025 reading of the assignments gives Arlene alone the Curriculum Committee board representative seat. From ~1536 s she occupies the Speaker 2 cluster that Heather Whitney's voice vacated at ~1512 s"
+    },
+    "325": {
+      "name": "Arlene Hawkins",
+      "role": "Claremont School Board member; chair of the SAU 6 board; the board's representative to the Curriculum Committee and a member of the Policy Subcommittee. ROLE-BASED IDENTIFICATION, no name spoken for her in this recording: she answers for the curriculum subcommittee ('We don't have anything to report', 286) and adds to the policy subcommittee report comparing the [SAU]-level policy process (268). Heather Whitney's 1/21/2025 reading of the assignments gives Arlene alone the Curriculum Committee board representative seat. From ~1536 s she occupies the Speaker 2 cluster that Heather Whitney's voice vacated at ~1512 s"
+    },
+    "327": {
+      "name": "Arlene Hawkins",
+      "role": "Claremont School Board member; chair of the SAU 6 board; the board's representative to the Curriculum Committee and a member of the Policy Subcommittee. ROLE-BASED IDENTIFICATION, no name spoken for her in this recording: she answers for the curriculum subcommittee ('We don't have anything to report', 286) and adds to the policy subcommittee report comparing the [SAU]-level policy process (268). Heather Whitney's 1/21/2025 reading of the assignments gives Arlene alone the Curriculum Committee board representative seat. From ~1536 s she occupies the Speaker 2 cluster that Heather Whitney's voice vacated at ~1512 s"
+    },
+    "333": {
+      "name": "Michael Petrin",
+      "role": "Claremont School Board member (returned as a write-in, March 2024); chair of the ad hoc Communications Subcommittee. He refers to Frank Sprague in the third person while reporting for that subcommittee ('Frank has done the lion's share of the work... Frank is carrying most of that load right now', 306, conf 1.00) and again at 241; the subcommittee's only two members are Sprague and Petrin (Whitney's 1/21/2025 reading: 'Mike... the chair of the ad hoc communications subcommittee'), and Petrin is the only other man on the board"
+    },
+    "335": {
+      "name": "Michael Petrin",
+      "role": "Claremont School Board member (returned as a write-in, March 2024); chair of the ad hoc Communications Subcommittee. He refers to Frank Sprague in the third person while reporting for that subcommittee ('Frank has done the lion's share of the work... Frank is carrying most of that load right now', 306, conf 1.00) and again at 241; the subcommittee's only two members are Sprague and Petrin (Whitney's 1/21/2025 reading: 'Mike... the chair of the ad hoc communications subcommittee'), and Petrin is the only other man on the board"
+    },
+    "338": {
+      "name": "Arlene Hawkins",
+      "role": "Claremont School Board member; chair of the SAU 6 board; the board's representative to the Curriculum Committee and a member of the Policy Subcommittee. ROLE-BASED IDENTIFICATION, no name spoken for her in this recording: she answers for the curriculum subcommittee ('We don't have anything to report', 286) and adds to the policy subcommittee report comparing the [SAU]-level policy process (268). Heather Whitney's 1/21/2025 reading of the assignments gives Arlene alone the Curriculum Committee board representative seat. From ~1536 s she occupies the Speaker 2 cluster that Heather Whitney's voice vacated at ~1512 s"
+    },
+    "340": {
+      "name": "Arlene Hawkins",
+      "role": "Claremont School Board member; chair of the SAU 6 board; the board's representative to the Curriculum Committee and a member of the Policy Subcommittee. ROLE-BASED IDENTIFICATION, no name spoken for her in this recording: she answers for the curriculum subcommittee ('We don't have anything to report', 286) and adds to the policy subcommittee report comparing the [SAU]-level policy process (268). Heather Whitney's 1/21/2025 reading of the assignments gives Arlene alone the Curriculum Committee board representative seat. From ~1536 s she occupies the Speaker 2 cluster that Heather Whitney's voice vacated at ~1512 s"
+    },
+    "342": {
+      "name": "Arlene Hawkins",
+      "role": "Claremont School Board member; chair of the SAU 6 board; the board's representative to the Curriculum Committee and a member of the Policy Subcommittee. ROLE-BASED IDENTIFICATION, no name spoken for her in this recording: she answers for the curriculum subcommittee ('We don't have anything to report', 286) and adds to the policy subcommittee report comparing the [SAU]-level policy process (268). Heather Whitney's 1/21/2025 reading of the assignments gives Arlene alone the Curriculum Committee board representative seat. From ~1536 s she occupies the Speaker 2 cluster that Heather Whitney's voice vacated at ~1512 s"
+    },
+    "344": {
+      "name": "Arlene Hawkins",
+      "role": "Claremont School Board member; chair of the SAU 6 board; the board's representative to the Curriculum Committee and a member of the Policy Subcommittee. ROLE-BASED IDENTIFICATION, no name spoken for her in this recording: she answers for the curriculum subcommittee ('We don't have anything to report', 286) and adds to the policy subcommittee report comparing the [SAU]-level policy process (268). Heather Whitney's 1/21/2025 reading of the assignments gives Arlene alone the Curriculum Committee board representative seat. From ~1536 s she occupies the Speaker 2 cluster that Heather Whitney's voice vacated at ~1512 s"
+    },
+    "347": {
+      "name": "Arlene Hawkins",
+      "role": "Claremont School Board member; chair of the SAU 6 board; the board's representative to the Curriculum Committee and a member of the Policy Subcommittee. ROLE-BASED IDENTIFICATION, no name spoken for her in this recording: she answers for the curriculum subcommittee ('We don't have anything to report', 286) and adds to the policy subcommittee report comparing the [SAU]-level policy process (268). Heather Whitney's 1/21/2025 reading of the assignments gives Arlene alone the Curriculum Committee board representative seat. From ~1536 s she occupies the Speaker 2 cluster that Heather Whitney's voice vacated at ~1512 s"
+    },
+    "349": {
+      "name": "Arlene Hawkins",
+      "role": "Claremont School Board member; chair of the SAU 6 board; the board's representative to the Curriculum Committee and a member of the Policy Subcommittee. ROLE-BASED IDENTIFICATION, no name spoken for her in this recording: she answers for the curriculum subcommittee ('We don't have anything to report', 286) and adds to the policy subcommittee report comparing the [SAU]-level policy process (268). Heather Whitney's 1/21/2025 reading of the assignments gives Arlene alone the Curriculum Committee board representative seat. From ~1536 s she occupies the Speaker 2 cluster that Heather Whitney's voice vacated at ~1512 s"
+    },
+    "351": {
+      "name": "Arlene Hawkins",
+      "role": "Claremont School Board member; chair of the SAU 6 board; the board's representative to the Curriculum Committee and a member of the Policy Subcommittee. ROLE-BASED IDENTIFICATION, no name spoken for her in this recording: she answers for the curriculum subcommittee ('We don't have anything to report', 286) and adds to the policy subcommittee report comparing the [SAU]-level policy process (268). Heather Whitney's 1/21/2025 reading of the assignments gives Arlene alone the Curriculum Committee board representative seat. From ~1536 s she occupies the Speaker 2 cluster that Heather Whitney's voice vacated at ~1512 s"
+    },
+    "353": {
+      "name": "Arlene Hawkins",
+      "role": "Claremont School Board member; chair of the SAU 6 board; the board's representative to the Curriculum Committee and a member of the Policy Subcommittee. ROLE-BASED IDENTIFICATION, no name spoken for her in this recording: she answers for the curriculum subcommittee ('We don't have anything to report', 286) and adds to the policy subcommittee report comparing the [SAU]-level policy process (268). Heather Whitney's 1/21/2025 reading of the assignments gives Arlene alone the Curriculum Committee board representative seat. From ~1536 s she occupies the Speaker 2 cluster that Heather Whitney's voice vacated at ~1512 s"
+    }
+  }
+}

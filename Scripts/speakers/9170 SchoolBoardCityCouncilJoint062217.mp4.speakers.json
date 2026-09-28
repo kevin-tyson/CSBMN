@@ -1,0 +1,516 @@
+{
+ "Speaker 1": {
+  "name": "Brian Rapp",
+  "role": "Claremont School Board Chair (co-presides; 'Chair Wrap' [4], 'That's up to Brian' [65])"
+ },
+ "Speaker 21": {
+  "name": "Brian Rapp",
+  "role": "Claremont School Board Chair (co-presides; 'Chair Wrap' [4], 'That's up to Brian' [65])"
+ },
+ "Speaker 2": {
+  "name": "Charlene Lovett",
+  "role": "Mayor, City of Claremont (co-presides; addressed as 'Charlene' [265]; runs city announcements and scheduling)"
+ },
+ "Speaker 19": {
+  "name": "Charlene Lovett",
+  "role": "Mayor, City of Claremont (co-presides; addressed as 'Charlene' [265]; runs city announcements and scheduling)"
+ },
+ "Speaker 3": {
+  "name": "Middleton McGoodwin",
+  "role": "Superintendent, SAU 6"
+ },
+ "Speaker 4": {
+  "name": "Cory LeClair",
+  "role": "Assistant Superintendent, SAU 6 (addressed 'Corey' [20] and 'miss LeClair' [487])"
+ },
+ "Speaker 6": {
+  "name": "Bernie Fulton",
+  "role": "Public commenter, Ward 3 (ASR 'Bernie Falta' [50], 'Bernie Fulton' [270], 'Mr. Fulton' [667]; surname spelling uncertain)"
+ },
+ "Speaker 7": {
+  "name": "Rebecca Zullo",
+  "role": "Claremont School Board member (recognized 'Rebecca' [69] and 'Missoula' = Miss Zullo [634])"
+ },
+ "Speaker 8": {
+  "name": "Patrick Adrian",
+  "role": "Claremont School Board member (recognized 'Patrick' [73]; speaks as a school board member [75])"
+ },
+ "Speaker 10": {
+  "name": "Kristen Parks",
+  "role": "Vice President of Programs, Green Dot, etc. (presenter; self-ID [82], [93])"
+ },
+ "Speaker 9": {
+  "name": "Kristen Parks",
+  "role": "Vice President of Programs, Green Dot, etc. (presenter; self-ID [82], [93])"
+ },
+ "Speaker 15": {
+  "name": "Kristen Parks",
+  "role": "Vice President of Programs, Green Dot, etc. (presenter; self-ID [82], [93])"
+ },
+ "Speaker 13": {
+  "name": "Melanie Williams",
+  "role": "Staff member, TLC (named by the judge [464]; recognized 'Melanie' [606])"
+ },
+ "Speaker 17": {
+  "name": "Allen Damren",
+  "role": "Claremont City Councilor (recognized 'Councilor Damron' [615])"
+ },
+ "Speaker 20": {
+  "name": "Ryan McNutt",
+  "role": "City Manager, City of Claremont (recognized 'City manager first' [645]; called 'our city manager' [325])"
+ },
+ "Speaker 25": {
+  "name": "Jack",
+  "role": "Judge of the local court, guest presenter (addressed 'judge' [312], [458], [534]; first name 'Jack' per [548]; surname not on this recording)"
+ },
+ "Speaker 5": {
+  "name": "Unidentified",
+  "role": "Unidentified - cluster mixes the chair's citizens-comment calls and Jason Benware's replies; see overrides"
+ },
+ "Speaker 11": {
+  "name": "Unidentified",
+  "role": "Unidentified - single off-microphone fragment [83]"
+ },
+ "Speaker 12": {
+  "name": "Unidentified",
+  "role": "Unidentified - catch-all cluster mixing many voices (presenters, mayor, audience, clipped onsets); evidenced segments reassigned by override"
+ },
+ "Speaker 14": {
+  "name": "Unidentified",
+  "role": "Unidentified - cluster mixes clipped fragments of several speakers and film audio; evidenced segments reassigned by override"
+ },
+ "Speaker 16": {
+  "name": "Unidentified",
+  "role": "Unidentified - cluster mixes a school board member [378-379, 547-549], a city councilor [277] and clipped onsets; not separable"
+ },
+ "Speaker 18": {
+  "name": "Unidentified",
+  "role": "City Councilor (surname not recoverable; recognized as 'Nicole' [577] and 'Councilor philosophy' [659]; restaurant and bar owner per [293-294]) (uncertain - identity)"
+ },
+ "Speaker 22": {
+  "name": "Unidentified",
+  "role": "Unidentified - woman on the school board side (refers to 'we talked last night' about i-Ready [368-369]; describes herself as a grandmother raising a grandson [534]); not named on this recording"
+ },
+ "Speaker 23": {
+  "name": "Unidentified",
+  "role": "Unidentified - voices in the screened homelessness film (filmmaker ASR 'Diane Nylon' [409])"
+ },
+ "Speaker 24": {
+  "name": "Unidentified",
+  "role": "Unidentified - voices in the screened homelessness film"
+ },
+ "Speaker 26": {
+  "name": "Unidentified",
+  "role": "Unidentified - City Councilor recognized only as 'counselor' [629]; addresses City Manager McNutt [631]"
+ },
+ "__overrides__": {
+  "32": {
+   "name": "Jason Benware",
+   "role": "Public commenter (self-ID 'Jason. Ben. Where?' [32], ward not given; later elected to the School Board in 2018)"
+  },
+  "33": {
+   "name": "Jason Benware",
+   "role": "Public commenter (self-ID 'Jason. Ben. Where?' [32], ward not given; later elected to the School Board in 2018)"
+  },
+  "34": {
+   "name": "Jason Benware",
+   "role": "Public commenter (self-ID 'Jason. Ben. Where?' [32], ward not given; later elected to the School Board in 2018)"
+  },
+  "35": {
+   "name": "Jason Benware",
+   "role": "Public commenter (self-ID 'Jason. Ben. Where?' [32], ward not given; later elected to the School Board in 2018)"
+  },
+  "36": {
+   "name": "Jason Benware",
+   "role": "Public commenter (self-ID 'Jason. Ben. Where?' [32], ward not given; later elected to the School Board in 2018)"
+  },
+  "37": {
+   "name": "Jason Benware",
+   "role": "Public commenter (self-ID 'Jason. Ben. Where?' [32], ward not given; later elected to the School Board in 2018)"
+  },
+  "38": {
+   "name": "Jason Benware",
+   "role": "Public commenter (self-ID 'Jason. Ben. Where?' [32], ward not given; later elected to the School Board in 2018)"
+  },
+  "39": {
+   "name": "Jason Benware",
+   "role": "Public commenter (self-ID 'Jason. Ben. Where?' [32], ward not given; later elected to the School Board in 2018)"
+  },
+  "40": {
+   "name": "Jason Benware",
+   "role": "Public commenter (self-ID 'Jason. Ben. Where?' [32], ward not given; later elected to the School Board in 2018)"
+  },
+  "41": {
+   "name": "Jason Benware",
+   "role": "Public commenter (self-ID 'Jason. Ben. Where?' [32], ward not given; later elected to the School Board in 2018)"
+  },
+  "42": {
+   "name": "Jason Benware",
+   "role": "Public commenter (self-ID 'Jason. Ben. Where?' [32], ward not given; later elected to the School Board in 2018)"
+  },
+  "43": {
+   "name": "Jason Benware",
+   "role": "Public commenter (self-ID 'Jason. Ben. Where?' [32], ward not given; later elected to the School Board in 2018)"
+  },
+  "44": {
+   "name": "Jason Benware",
+   "role": "Public commenter (self-ID 'Jason. Ben. Where?' [32], ward not given; later elected to the School Board in 2018)"
+  },
+  "45": {
+   "name": "Jason Benware",
+   "role": "Public commenter (self-ID 'Jason. Ben. Where?' [32], ward not given; later elected to the School Board in 2018)"
+  },
+  "59": {
+   "name": "Jason Benware",
+   "role": "Public commenter (self-ID 'Jason. Ben. Where?' [32], ward not given; later elected to the School Board in 2018)"
+  },
+  "61": {
+   "name": "Jason Benware",
+   "role": "Public commenter (self-ID 'Jason. Ben. Where?' [32], ward not given; later elected to the School Board in 2018)"
+  },
+  "62": {
+   "name": "Jason Benware",
+   "role": "Public commenter (self-ID 'Jason. Ben. Where?' [32], ward not given; later elected to the School Board in 2018)"
+  },
+  "66": {
+   "name": "Jason Benware",
+   "role": "Public commenter (self-ID 'Jason. Ben. Where?' [32], ward not given; later elected to the School Board in 2018)"
+  },
+  "67": {
+   "name": "Jason Benware",
+   "role": "Public commenter (self-ID 'Jason. Ben. Where?' [32], ward not given; later elected to the School Board in 2018)"
+  },
+  "68": {
+   "name": "Jason Benware",
+   "role": "Public commenter (self-ID 'Jason. Ben. Where?' [32], ward not given; later elected to the School Board in 2018)"
+  },
+  "48": {
+   "name": "Brian Rapp",
+   "role": "Claremont School Board Chair (co-presides; 'Chair Wrap' [4], 'That's up to Brian' [65])"
+  },
+  "49": {
+   "name": "Brian Rapp",
+   "role": "Claremont School Board Chair (co-presides; 'Chair Wrap' [4], 'That's up to Brian' [65])"
+  },
+  "54": {
+   "name": "Brian Rapp",
+   "role": "Claremont School Board Chair (co-presides; 'Chair Wrap' [4], 'That's up to Brian' [65])"
+  },
+  "55": {
+   "name": "Brian Rapp",
+   "role": "Claremont School Board Chair (co-presides; 'Chair Wrap' [4], 'That's up to Brian' [65])"
+  },
+  "336": {
+   "name": "Brian Rapp",
+   "role": "Claremont School Board Chair (co-presides; 'Chair Wrap' [4], 'That's up to Brian' [65])"
+  },
+  "338": {
+   "name": "Brian Rapp",
+   "role": "Claremont School Board Chair (co-presides; 'Chair Wrap' [4], 'That's up to Brian' [65])"
+  },
+  "337": {
+   "name": "Brian Rapp",
+   "role": "Claremont School Board Chair (co-presides; 'Chair Wrap' [4], 'That's up to Brian' [65])"
+  },
+  "339": {
+   "name": "Brian Rapp",
+   "role": "Claremont School Board Chair (co-presides; 'Chair Wrap' [4], 'That's up to Brian' [65])"
+  },
+  "21": {
+   "name": "Cory LeClair",
+   "role": "Assistant Superintendent, SAU 6 (addressed 'Corey' [20] and 'miss LeClair' [487])"
+  },
+  "207": {
+   "name": "Cory LeClair",
+   "role": "Assistant Superintendent, SAU 6 (addressed 'Corey' [20] and 'miss LeClair' [487])"
+  },
+  "212": {
+   "name": "Cory LeClair",
+   "role": "Assistant Superintendent, SAU 6 (addressed 'Corey' [20] and 'miss LeClair' [487])"
+  },
+  "259": {
+   "name": "Cory LeClair",
+   "role": "Assistant Superintendent, SAU 6 (addressed 'Corey' [20] and 'miss LeClair' [487])"
+  },
+  "385": {
+   "name": "Cory LeClair",
+   "role": "Assistant Superintendent, SAU 6 (addressed 'Corey' [20] and 'miss LeClair' [487])"
+  },
+  "399": {
+   "name": "Cory LeClair",
+   "role": "Assistant Superintendent, SAU 6 (addressed 'Corey' [20] and 'miss LeClair' [487])"
+  },
+  "402": {
+   "name": "Cory LeClair",
+   "role": "Assistant Superintendent, SAU 6 (addressed 'Corey' [20] and 'miss LeClair' [487])"
+  },
+  "404": {
+   "name": "Cory LeClair",
+   "role": "Assistant Superintendent, SAU 6 (addressed 'Corey' [20] and 'miss LeClair' [487])"
+  },
+  "408": {
+   "name": "Cory LeClair",
+   "role": "Assistant Superintendent, SAU 6 (addressed 'Corey' [20] and 'miss LeClair' [487])"
+  },
+  "488": {
+   "name": "Cory LeClair",
+   "role": "Assistant Superintendent, SAU 6 (addressed 'Corey' [20] and 'miss LeClair' [487])"
+  },
+  "501": {
+   "name": "Cory LeClair",
+   "role": "Assistant Superintendent, SAU 6 (addressed 'Corey' [20] and 'miss LeClair' [487])"
+  },
+  "514": {
+   "name": "Cory LeClair",
+   "role": "Assistant Superintendent, SAU 6 (addressed 'Corey' [20] and 'miss LeClair' [487])"
+  },
+  "517": {
+   "name": "Cory LeClair",
+   "role": "Assistant Superintendent, SAU 6 (addressed 'Corey' [20] and 'miss LeClair' [487])"
+  },
+  "584": {
+   "name": "Cory LeClair",
+   "role": "Assistant Superintendent, SAU 6 (addressed 'Corey' [20] and 'miss LeClair' [487])"
+  },
+  "589": {
+   "name": "Cory LeClair",
+   "role": "Assistant Superintendent, SAU 6 (addressed 'Corey' [20] and 'miss LeClair' [487])"
+  },
+  "250": {
+   "name": "Deb",
+   "role": "Director, Turning Points Network (self-ID [250]; first name per [188], [283]; surname garbled, ASR 'I, Lawson')"
+  },
+  "251": {
+   "name": "Deb",
+   "role": "Director, Turning Points Network (self-ID [250]; first name per [188], [283]; surname garbled, ASR 'I, Lawson')"
+  },
+  "252": {
+   "name": "Deb",
+   "role": "Director, Turning Points Network (self-ID [250]; first name per [188], [283]; surname garbled, ASR 'I, Lawson')"
+  },
+  "253": {
+   "name": "Deb",
+   "role": "Director, Turning Points Network (self-ID [250]; first name per [188], [283]; surname garbled, ASR 'I, Lawson')"
+  },
+  "254": {
+   "name": "Deb",
+   "role": "Director, Turning Points Network (self-ID [250]; first name per [188], [283]; surname garbled, ASR 'I, Lawson')"
+  },
+  "255": {
+   "name": "Deb",
+   "role": "Director, Turning Points Network (self-ID [250]; first name per [188], [283]; surname garbled, ASR 'I, Lawson')"
+  },
+  "256": {
+   "name": "Deb",
+   "role": "Director, Turning Points Network (self-ID [250]; first name per [188], [283]; surname garbled, ASR 'I, Lawson')"
+  },
+  "257": {
+   "name": "Deb",
+   "role": "Director, Turning Points Network (self-ID [250]; first name per [188], [283]; surname garbled, ASR 'I, Lawson')"
+  },
+  "258": {
+   "name": "Deb",
+   "role": "Director, Turning Points Network (self-ID [250]; first name per [188], [283]; surname garbled, ASR 'I, Lawson')"
+  },
+  "265": {
+   "name": "Deb",
+   "role": "Director, Turning Points Network (self-ID [250]; first name per [188], [283]; surname garbled, ASR 'I, Lawson')"
+  },
+  "267": {
+   "name": "Deb",
+   "role": "Director, Turning Points Network (self-ID [250]; first name per [188], [283]; surname garbled, ASR 'I, Lawson')"
+  },
+  "274": {
+   "name": "Deb",
+   "role": "Director, Turning Points Network (self-ID [250]; first name per [188], [283]; surname garbled, ASR 'I, Lawson')"
+  },
+  "275": {
+   "name": "Deb",
+   "role": "Director, Turning Points Network (self-ID [250]; first name per [188], [283]; surname garbled, ASR 'I, Lawson')"
+  },
+  "305": {
+   "name": "Deb",
+   "role": "Director, Turning Points Network (self-ID [250]; first name per [188], [283]; surname garbled, ASR 'I, Lawson')"
+  },
+  "330": {
+   "name": "Deb",
+   "role": "Director, Turning Points Network (self-ID [250]; first name per [188], [283]; surname garbled, ASR 'I, Lawson')"
+  },
+  "331": {
+   "name": "Deb",
+   "role": "Director, Turning Points Network (self-ID [250]; first name per [188], [283]; surname garbled, ASR 'I, Lawson')"
+  },
+  "306": {
+   "name": "Charlene Lovett",
+   "role": "Mayor, City of Claremont (co-presides; addressed as 'Charlene' [265]; runs city announcements and scheduling)"
+  },
+  "669": {
+   "name": "Charlene Lovett",
+   "role": "Mayor, City of Claremont (co-presides; addressed as 'Charlene' [265]; runs city announcements and scheduling)"
+  },
+  "670": {
+   "name": "Charlene Lovett",
+   "role": "Mayor, City of Claremont (co-presides; addressed as 'Charlene' [265]; runs city announcements and scheduling)"
+  },
+  "297": {
+   "name": "Kristen Parks",
+   "role": "Vice President of Programs, Green Dot, etc. (presenter; self-ID [82], [93])"
+  },
+  "299": {
+   "name": "Kristen Parks",
+   "role": "Vice President of Programs, Green Dot, etc. (presenter; self-ID [82], [93])"
+  },
+  "301": {
+   "name": "Kristen Parks",
+   "role": "Vice President of Programs, Green Dot, etc. (presenter; self-ID [82], [93])"
+  },
+  "314": {
+   "name": "Kristen Parks",
+   "role": "Vice President of Programs, Green Dot, etc. (presenter; self-ID [82], [93])"
+  },
+  "319": {
+   "name": "Kristen Parks",
+   "role": "Vice President of Programs, Green Dot, etc. (presenter; self-ID [82], [93])"
+  },
+  "326": {
+   "name": "Kristen Parks",
+   "role": "Vice President of Programs, Green Dot, etc. (presenter; self-ID [82], [93])"
+  },
+  "199": {
+   "name": "Rebecca Zullo",
+   "role": "Claremont School Board member (recognized 'Rebecca' [69] and 'Missoula' = Miss Zullo [634])"
+  },
+  "269": {
+   "name": "Bernie Fulton",
+   "role": "Public commenter, Ward 3 (ASR 'Bernie Falta' [50], 'Bernie Fulton' [270], 'Mr. Fulton' [667]; surname spelling uncertain)"
+  },
+  "323": {
+   "name": "Patrick Adrian",
+   "role": "Claremont School Board member (recognized 'Patrick' [73]; speaks as a school board member [75])"
+  },
+  "324": {
+   "name": "Patrick Adrian",
+   "role": "Claremont School Board member (recognized 'Patrick' [73]; speaks as a school board member [75])"
+  },
+  "509": {
+   "name": "Jack",
+   "role": "Judge of the local court, guest presenter (addressed 'judge' [312], [458], [534]; first name 'Jack' per [548]; surname not on this recording)"
+  },
+  "603": {
+   "name": "Jack",
+   "role": "Judge of the local court, guest presenter (addressed 'judge' [312], [458], [534]; first name 'Jack' per [548]; surname not on this recording)"
+  },
+  "391": {
+   "name": "Middleton McGoodwin",
+   "role": "Superintendent, SAU 6"
+  },
+  "616": {
+   "name": "Allen Damren",
+   "role": "Claremont City Councilor (recognized 'Councilor Damron' [615])"
+  },
+  "617": {
+   "name": "Allen Damren",
+   "role": "Claremont City Councilor (recognized 'Councilor Damron' [615])"
+  },
+  "618": {
+   "name": "Allen Damren",
+   "role": "Claremont City Councilor (recognized 'Councilor Damron' [615])"
+  },
+  "620": {
+   "name": "Allen Damren",
+   "role": "Claremont City Councilor (recognized 'Councilor Damron' [615])"
+  },
+  "311": {
+   "name": "Ryan McNutt",
+   "role": "City Manager, City of Claremont (recognized 'City manager first' [645]; called 'our city manager' [325])"
+  },
+  "657": {
+   "name": "Ryan McNutt",
+   "role": "City Manager, City of Claremont (recognized 'City manager first' [645]; called 'our city manager' [325])"
+  },
+  "293": {
+   "name": "Unidentified",
+   "role": "City Councilor (surname not recoverable; recognized as 'Nicole' [577] and 'Councilor philosophy' [659]; restaurant and bar owner per [293-294]) (uncertain - identity)"
+  },
+  "595": {
+   "name": "Unidentified",
+   "role": "City Councilor (surname not recoverable; recognized as 'Nicole' [577] and 'Councilor philosophy' [659]; restaurant and bar owner per [293-294]) (uncertain - identity)"
+  },
+  "564": {
+   "name": "Unidentified",
+   "role": "Unidentified - council-side speaker responding to the mayor's plan [572-573]; not recognized by name"
+  },
+  "565": {
+   "name": "Unidentified",
+   "role": "Unidentified - council-side speaker responding to the mayor's plan [572-573]; not recognized by name"
+  },
+  "566": {
+   "name": "Unidentified",
+   "role": "Unidentified - council-side speaker responding to the mayor's plan [572-573]; not recognized by name"
+  },
+  "567": {
+   "name": "Unidentified",
+   "role": "Unidentified - council-side speaker responding to the mayor's plan [572-573]; not recognized by name"
+  },
+  "568": {
+   "name": "Unidentified",
+   "role": "Unidentified - council-side speaker responding to the mayor's plan [572-573]; not recognized by name"
+  },
+  "569": {
+   "name": "Unidentified",
+   "role": "Unidentified - council-side speaker responding to the mayor's plan [572-573]; not recognized by name"
+  },
+  "570": {
+   "name": "Unidentified",
+   "role": "Unidentified - council-side speaker responding to the mayor's plan [572-573]; not recognized by name"
+  },
+  "571": {
+   "name": "Unidentified",
+   "role": "Unidentified - council-side speaker responding to the mayor's plan [572-573]; not recognized by name"
+  },
+  "572": {
+   "name": "Unidentified",
+   "role": "Unidentified - council-side speaker responding to the mayor's plan [572-573]; not recognized by name"
+  },
+  "573": {
+   "name": "Unidentified",
+   "role": "Unidentified - council-side speaker responding to the mayor's plan [572-573]; not recognized by name"
+  },
+  "574": {
+   "name": "Unidentified",
+   "role": "Unidentified - council-side speaker responding to the mayor's plan [572-573]; not recognized by name"
+  },
+  "575": {
+   "name": "Unidentified",
+   "role": "Unidentified - council-side speaker responding to the mayor's plan [572-573]; not recognized by name"
+  },
+  "226": {
+   "name": "Unidentified",
+   "role": "Unidentified - audience member (man) questioning the Green Dot presenter, restates on microphone [236-237]; possibly Jason Benware (his restatement falls in the cluster carrying Benware's earlier comment) (uncertain - not named at this point)"
+  },
+  "227": {
+   "name": "Unidentified",
+   "role": "Unidentified - audience member (man) questioning the Green Dot presenter, restates on microphone [236-237]; possibly Jason Benware (his restatement falls in the cluster carrying Benware's earlier comment) (uncertain - not named at this point)"
+  },
+  "228": {
+   "name": "Unidentified",
+   "role": "Unidentified - audience member (man) questioning the Green Dot presenter, restates on microphone [236-237]; possibly Jason Benware (his restatement falls in the cluster carrying Benware's earlier comment) (uncertain - not named at this point)"
+  },
+  "235": {
+   "name": "Unidentified",
+   "role": "Unidentified - audience member (man) questioning the Green Dot presenter, restates on microphone [236-237]; possibly Jason Benware (his restatement falls in the cluster carrying Benware's earlier comment) (uncertain - not named at this point)"
+  },
+  "236": {
+   "name": "Unidentified",
+   "role": "Unidentified - audience member (man) questioning the Green Dot presenter, restates on microphone [236-237]; possibly Jason Benware (his restatement falls in the cluster carrying Benware's earlier comment) (uncertain - not named at this point)"
+  },
+  "237": {
+   "name": "Unidentified",
+   "role": "Unidentified - audience member (man) questioning the Green Dot presenter, restates on microphone [236-237]; possibly Jason Benware (his restatement falls in the cluster carrying Benware's earlier comment) (uncertain - not named at this point)"
+  },
+  "80": {
+   "name": "Unidentified",
+   "role": "Unidentified - short reply fragment"
+  }
+ }
+}

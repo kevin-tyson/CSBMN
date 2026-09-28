@@ -1,0 +1,456 @@
+{
+  "Speaker 1": {
+    "name": "Unidentified",
+    "role": "Claremont School Board member - by elimination either Bonnie Miles or Candace Crawford, the only two of the seven members not otherwise placed; both answer the roll, neither is named or recognized by name anywhere on this recording, and the four small clusters cannot be split between them, so no name is asserted. Two signals point toward Miles and should be weighed by a reviewer: segment 621 has one of these voices referring to a third member as 'Sandy', most likely the ASR's rendering of Candace 'Candy' Crawford; and in the adjacent 9/6/23 and 10/18/23 recordings the chair and administrators recognize Crawford by name before she speaks, which never happens here even though the chair names Arlene, Frank, Whitney, Jen, Mary and Ben. This cluster tells the chair 'we don't have a copy of that' when she reads the NHSBA continuing resolutions (segments 150-153)"
+  },
+  "Speaker 2": {
+    "name": "Heather Whitney",
+    "role": "Chair, Claremont School Board - calls the 10/4/2023 meeting to order, answers 'Here' to her own name at the head of every roll call (segments 4-5), runs the agenda and is thanked by name as 'Heather' at segment 347"
+  },
+  "Speaker 3": {
+    "name": "Ben Nester",
+    "role": "Director of Special Education, SAU 6; de facto roll-caller while the district clerk seat is vacant - reads all four roll calls; Sprague asks 'Ben, have you seen this?' at segment 318 and he answers at 319; the chair's recognition 'Ben.' opens his turn at segment 479"
+  },
+  "Speaker 4": {
+    "name": "Michael Tempesta",
+    "role": "Superintendent of Schools, SAU 6 - gives the superintendent's report at segments 25-27 (the law conference, the city-manager document sent to attorney Matt Upton, and thanks for support after his mother's death); the chair refers to 'Mr. Tempesta' at segment 450"
+  },
+  "Speaker 5": {
+    "name": "Unidentified",
+    "role": "Sub-second onsets, sentence tails and backchannel clipped out of neighbouring turns at the board table - a catch-all cluster that demonstrably carries Mary Henry, the chair, Whitney Skillen and at least one unnamed member; the fragments that complete an identifiable sentence are reassigned by override, the rest are not separable"
+  },
+  "Speaker 6": {
+    "name": "Mary Henry",
+    "role": "Business Administrator, Claremont School District / SAU 6 - the chair introduces item 3 as 'presentation and discussion led by Mary Henry' at segment 40 and addresses her as 'Mary' at segments 84 and 132; she leads the FY25 budget-process discussion"
+  },
+  "Speaker 7": {
+    "name": "Frank Sprague",
+    "role": "Vice Chair, Claremont School Board; NHSBA delegate - the chair names 'Mr. Sprague' as the New Hampshire School Board Association delegate at segment 132 and he takes over the resolutions item at segment 133; Mary Henry addresses him as 'Frank' at segment 105 and the chair at segment 432"
+  },
+  "Speaker 8": {
+    "name": "Whitney Skillen",
+    "role": "Claremont School Board member; Capital Improvement subcommittee - delivers the capital-improvements report on the Stevens High School tour and the chair thanks her by name, 'Thank you so much, Whitney,' at segment 430; says 'it was me and Candy, Bonnie wasn't able to make it' at segment 379. NOT the chair, who is Heather Whitney"
+  },
+  "Speaker 9": {
+    "name": "Unidentified",
+    "role": "Claremont School Board member - by elimination either Bonnie Miles or Candace Crawford, the only two of the seven members not otherwise placed; both answer the roll, neither is named or recognized by name anywhere on this recording, and the four small clusters cannot be split between them, so no name is asserted. Two signals point toward Miles and should be weighed by a reviewer: segment 621 has one of these voices referring to a third member as 'Sandy', most likely the ASR's rendering of Candace 'Candy' Crawford; and in the adjacent 9/6/23 and 10/18/23 recordings the chair and administrators recognize Crawford by name before she speaks, which never happens here even though the chair names Arlene, Frank, Whitney, Jen, Mary and Ben. This cluster seconds Sprague's motion on NHSBA resolution 11 (segment 233); the seconder is not named"
+  },
+  "Speaker 10": {
+    "name": "Unidentified",
+    "role": "Claremont School Board member - by elimination either Bonnie Miles or Candace Crawford, the only two of the seven members not otherwise placed; both answer the roll, neither is named or recognized by name anywhere on this recording, and the four small clusters cannot be split between them, so no name is asserted. Two signals point toward Miles and should be weighed by a reviewer: segment 621 has one of these voices referring to a third member as 'Sandy', most likely the ASR's rendering of Candace 'Candy' Crawford; and in the adjacent 9/6/23 and 10/18/23 recordings the chair and administrators recognize Crawford by name before she speaks, which never happens here even though the chair names Arlene, Frank, Whitney, Jen, Mary and Ben. This cluster asks whether the reported parent behaviour toward staff is worse at the upper grades or 'across the board' (segments 465-472)"
+  },
+  "Speaker 11": {
+    "name": "Arlene Hawkins",
+    "role": "Claremont School Board member (elected 3/14/2023) and SAU 6 Board chair - Ben Nester addresses her directly, 'I would just mention, Arlene, that we're not a research facility,' at segment 546 and she answers at 547; she recalls asking about the summer program 'last year as a person at the podium' at segment 568"
+  },
+  "Speaker 12": {
+    "name": "Mike Koski",
+    "role": "Assistant Superintendent, SAU 6 - answers Hawkins on the summer-program i-Ready testing window (segments 569-573); the chair says 'we chatted about that, Mike' at segment 639 and lists 'a presentation by Mr. Kosky... about the summer program achievement evaluation' at segment 646"
+  },
+  "Speaker 13": {
+    "name": "Unidentified",
+    "role": "Claremont School Board member - by elimination either Bonnie Miles or Candace Crawford, the only two of the seven members not otherwise placed; both answer the roll, neither is named or recognized by name anywhere on this recording, and the four small clusters cannot be split between them, so no name is asserted. Two signals point toward Miles and should be weighed by a reviewer: segment 621 has one of these voices referring to a third member as 'Sandy', most likely the ASR's rendering of Candace 'Candy' Crawford; and in the adjacent 9/6/23 and 10/18/23 recordings the chair and administrators recognize Crawford by name before she speaks, which never happens here even though the chair names Arlene, Frank, Whitney, Jen, Mary and Ben. This cluster speaks in the Ed 306 listening-session discussion and at segment 621 refers to a third member as 'Sandy' - most likely the ASR's rendering of Candace 'Candy' Crawford, which would make this voice Bonnie Miles, but that rests on one garbled word and is not asserted"
+  },
+  "__overrides__": {
+    "11": {
+      "name": "Frank Sprague",
+      "role": "Vice Chair, Claremont School Board; NHSBA delegate - the chair names 'Mr. Sprague' as the New Hampshire School Board Association delegate at segment 132 and he takes over the resolutions item at segment 133; Mary Henry addresses him as 'Frank' at segment 105 and the chair at segment 432 - moves to enter nonpublic session under RSA 91-A:3, II; the chair's recognition 'Frank.' is absorbed at the head of the segment and the motion is diarized with the superintendent's cluster"
+    },
+    "16": {
+      "name": "Frank Sprague",
+      "role": "Vice Chair, Claremont School Board; NHSBA delegate - the chair names 'Mr. Sprague' as the New Hampshire School Board Association delegate at segment 132 and he takes over the resolutions item at segment 133; Mary Henry addresses him as 'Frank' at segment 105 and the chair at segment 432 - seconds the chair's motion to come out of nonpublic; the seconder is not named aloud, and this is the same voice cluster that carried his motion at segment 11 (medium confidence)"
+    },
+    "20": {
+      "name": "Unidentified",
+      "role": "Claremont School Board member moving to seal the nonpublic minutes - the mover is not named on the recording; the chair seconds in the next segment"
+    },
+    "23": {
+      "name": "Unidentified",
+      "role": "Short assent, thanks or crosstalk at the board table - under two seconds and not attributable to one voice"
+    },
+    "32": {
+      "name": "Heather Whitney",
+      "role": "Chair, Claremont School Board - calls the 10/4/2023 meeting to order, answers 'Here' to her own name at the head of every roll call (segments 4-5), runs the agenda and is thanked by name as 'Heather' at segment 347 - completes her own question, 'would you present it for us?'"
+    },
+    "42": {
+      "name": "Mary Henry",
+      "role": "Business Administrator, Claremont School District / SAU 6 - completes her own sentence, '...what that might look like for you'"
+    },
+    "59": {
+      "name": "Frank Sprague",
+      "role": "Vice Chair, Claremont School Board; NHSBA delegate - the chair names 'Mr. Sprague' as the New Hampshire School Board Association delegate at segment 132 and he takes over the resolutions item at segment 133; Mary Henry addresses him as 'Frank' at segment 105 and the chair at segment 432 - completes his own question, 'how will the district be better if we add that?'"
+    },
+    "64": {
+      "name": "Frank Sprague",
+      "role": "Vice Chair, Claremont School Board; NHSBA delegate - the chair names 'Mr. Sprague' as the New Hampshire School Board Association delegate at segment 132 and he takes over the resolutions item at segment 133; Mary Henry addresses him as 'Frank' at segment 105 and the chair at segment 432 - completes his own phrase, 'or somewhere around'"
+    },
+    "67": {
+      "name": "Mary Henry",
+      "role": "Business Administrator, Claremont School District / SAU 6 - the onset of her own turn, clipped into the neighbouring cluster"
+    },
+    "70": {
+      "name": "Mary Henry",
+      "role": "Business Administrator, Claremont School District / SAU 6 - a fragment inside her own sentence, 'when I sought out the way of doing things'"
+    },
+    "74": {
+      "name": "Whitney Skillen",
+      "role": "Claremont School Board member; Capital Improvement subcommittee - the onset of her own turn, 'So what I would appreciate...'"
+    },
+    "76": {
+      "name": "Michael Tempesta",
+      "role": "Superintendent of Schools, SAU 6 - the onset of his own turn, 'I, I always had to do that as a principal'"
+    },
+    "81": {
+      "name": "Mary Henry",
+      "role": "Business Administrator, Claremont School District / SAU 6 - a fragment inside her own sentence, 'and I'm sure the rest of the administration'"
+    },
+    "83": {
+      "name": "Mary Henry",
+      "role": "Business Administrator, Claremont School District / SAU 6 - the tail of her own turn"
+    },
+    "85": {
+      "name": "Mary Henry",
+      "role": "Business Administrator, Claremont School District / SAU 6 - the onset of her own reply, 'Yeah. We are.'"
+    },
+    "88": {
+      "name": "Unidentified",
+      "role": "Claremont School Board member correcting the chair on the membership of the budget subcommittee - the chair answers 'No, you're 100% right' and adds Candace Crawford to the list; the speaker is not named"
+    },
+    "93": {
+      "name": "Mary Henry",
+      "role": "Business Administrator, Claremont School District / SAU 6 - the onset of her own reply"
+    },
+    "101": {
+      "name": "Unidentified",
+      "role": "Short assent, thanks or crosstalk at the board table - under two seconds and not attributable to one voice"
+    },
+    "104": {
+      "name": "Mary Henry",
+      "role": "Business Administrator, Claremont School District / SAU 6 - the onset of her own question, 'Is there any way, though, prior to that?'"
+    },
+    "106": {
+      "name": "Mary Henry",
+      "role": "Business Administrator, Claremont School District / SAU 6 - a fragment inside her own sentence, 'all three of you being... come to'"
+    },
+    "112": {
+      "name": "Whitney Skillen",
+      "role": "Claremont School Board member; Capital Improvement subcommittee - a fragment inside her own turn"
+    },
+    "117": {
+      "name": "Unidentified",
+      "role": "Short assent, thanks or crosstalk at the board table - under two seconds and not attributable to one voice"
+    },
+    "119": {
+      "name": "Heather Whitney",
+      "role": "Chair, Claremont School Board - calls the 10/4/2023 meeting to order, answers 'Here' to her own name at the head of every roll call (segments 4-5), runs the agenda and is thanked by name as 'Heather' at segment 347 - completes her own sentence, 'Arlene, I know you as a citizen have been...'"
+    },
+    "120": {
+      "name": "Arlene Hawkins",
+      "role": "Claremont School Board member (elected 3/14/2023) and SAU 6 Board chair - Ben Nester addresses her directly, 'I would just mention, Arlene, that we're not a research facility,' at segment 546 and she answers at 547; she recalls asking about the summer program 'last year as a person at the podium' at segment 568 - answering the chair's invitation in segment 118, 'Arlene, I know you as a citizen have been...', with her own experience of asking budget questions from the floor; the diarizer merged her into the chair's cluster here (medium confidence - she is not named inside the passage, and Heather Whitney has sat on this board since before 2023)"
+    },
+    "121": {
+      "name": "Arlene Hawkins",
+      "role": "Claremont School Board member (elected 3/14/2023) and SAU 6 Board chair - Ben Nester addresses her directly, 'I would just mention, Arlene, that we're not a research facility,' at segment 546 and she answers at 547; she recalls asking about the summer program 'last year as a person at the podium' at segment 568 - answering the chair's invitation in segment 118, 'Arlene, I know you as a citizen have been...', with her own experience of asking budget questions from the floor; the diarizer merged her into the chair's cluster here (medium confidence - she is not named inside the passage, and Heather Whitney has sat on this board since before 2023)"
+    },
+    "122": {
+      "name": "Arlene Hawkins",
+      "role": "Claremont School Board member (elected 3/14/2023) and SAU 6 Board chair - Ben Nester addresses her directly, 'I would just mention, Arlene, that we're not a research facility,' at segment 546 and she answers at 547; she recalls asking about the summer program 'last year as a person at the podium' at segment 568 - answering the chair's invitation in segment 118, 'Arlene, I know you as a citizen have been...', with her own experience of asking budget questions from the floor; the diarizer merged her into the chair's cluster here (medium confidence - she is not named inside the passage, and Heather Whitney has sat on this board since before 2023)"
+    },
+    "123": {
+      "name": "Unidentified",
+      "role": "Short assent, thanks or crosstalk at the board table - under two seconds and not attributable to one voice"
+    },
+    "125": {
+      "name": "Mary Henry",
+      "role": "Business Administrator, Claremont School District / SAU 6 - a fragment inside her own sentence, 'you need to understand it to make an educated decision'"
+    },
+    "127": {
+      "name": "Mary Henry",
+      "role": "Business Administrator, Claremont School District / SAU 6 - completes her own sentence, '...on what you want to do'; a second voice's 'Thank you' is absorbed at the tail"
+    },
+    "129": {
+      "name": "Unidentified",
+      "role": "Short assent, thanks or crosstalk at the board table - under two seconds and not attributable to one voice"
+    },
+    "131": {
+      "name": "Heather Whitney",
+      "role": "Chair, Claremont School Board - calls the 10/4/2023 meeting to order, answers 'Here' to her own name at the head of every roll call (segments 4-5), runs the agenda and is thanked by name as 'Heather' at segment 347 - the onset of her own sentence, 'I'm going to move on to item number four'"
+    },
+    "140": {
+      "name": "Heather Whitney",
+      "role": "Chair, Claremont School Board - calls the 10/4/2023 meeting to order, answers 'Here' to her own name at the head of every roll call (segments 4-5), runs the agenda and is thanked by name as 'Heather' at segment 347 - a fragment inside her own sentence, 'I didn't see one through seven'"
+    },
+    "150": {
+      "name": "Unidentified",
+      "role": "Claremont School Board member - by elimination either Bonnie Miles or Candace Crawford, the only two of the seven members not otherwise placed; both answer the roll, neither is named or recognized by name anywhere on this recording, and the four small clusters cannot be split between them, so no name is asserted. Two signals point toward Miles and should be weighed by a reviewer: segment 621 has one of these voices referring to a third member as 'Sandy', most likely the ASR's rendering of Candace 'Candy' Crawford; and in the adjacent 9/6/23 and 10/18/23 recordings the chair and administrators recognize Crawford by name before she speaks, which never happens here even though the chair names Arlene, Frank, Whitney, Jen, Mary and Ben - asking the chair where she is reading the NHSBA continuing resolutions from; the same voice continues in the next segment"
+    },
+    "158": {
+      "name": "Whitney Skillen",
+      "role": "Claremont School Board member; Capital Improvement subcommittee - the onset of her own sentence, 'I also didn't see it when I clicked'"
+    },
+    "160": {
+      "name": "Whitney Skillen",
+      "role": "Claremont School Board member; Capital Improvement subcommittee - the middle of her own sentence, split across three clusters"
+    },
+    "193": {
+      "name": "Whitney Skillen",
+      "role": "Claremont School Board member; Capital Improvement subcommittee - a fragment inside her own sentence, 'It looks like they just kind of removed it from specifically librarians'"
+    },
+    "195": {
+      "name": "Whitney Skillen",
+      "role": "Claremont School Board member; Capital Improvement subcommittee - a fragment inside her own sentence, 'It looks like they just kind of removed it from specifically librarians'"
+    },
+    "199": {
+      "name": "Whitney Skillen",
+      "role": "Claremont School Board member; Capital Improvement subcommittee - completes her own 'Removed... they broadened it'; the chair says the same words in the preceding segment and the two overlap"
+    },
+    "229": {
+      "name": "Whitney Skillen",
+      "role": "Claremont School Board member; Capital Improvement subcommittee - completes her own sentence, 'It looks like they broadened it to include other licensed school staff and not limited to certified teachers'"
+    },
+    "263": {
+      "name": "Whitney Skillen",
+      "role": "Claremont School Board member; Capital Improvement subcommittee - reading the current NHSBA pre-K resolution aloud and contrasting it with the alternative language; the sentence is split across four clusters"
+    },
+    "264": {
+      "name": "Whitney Skillen",
+      "role": "Claremont School Board member; Capital Improvement subcommittee - reading the current NHSBA pre-K resolution aloud and contrasting it with the alternative language; the sentence is split across four clusters"
+    },
+    "265": {
+      "name": "Whitney Skillen",
+      "role": "Claremont School Board member; Capital Improvement subcommittee - reading the current NHSBA pre-K resolution aloud and contrasting it with the alternative language; the sentence is split across four clusters"
+    },
+    "267": {
+      "name": "Whitney Skillen",
+      "role": "Claremont School Board member; Capital Improvement subcommittee - continues her own point that the alternative language is definitive rather than a study"
+    },
+    "187": {
+      "name": "Unidentified",
+      "role": "Claremont School Board members voting aye - the vote is taken by voice and no count or names are recorded"
+    },
+    "271": {
+      "name": "Unidentified",
+      "role": "Claremont School Board members voting aye - the vote is taken by voice and no count or names are recorded"
+    },
+    "278": {
+      "name": "Whitney Skillen",
+      "role": "Claremont School Board member; Capital Improvement subcommittee - a fragment inside her own turn supporting the Manchester sustainability resolution"
+    },
+    "280": {
+      "name": "Whitney Skillen",
+      "role": "Claremont School Board member; Capital Improvement subcommittee - a fragment inside her own turn supporting the Manchester sustainability resolution"
+    },
+    "282": {
+      "name": "Whitney Skillen",
+      "role": "Claremont School Board member; Capital Improvement subcommittee - a fragment inside her own turn supporting the Manchester sustainability resolution"
+    },
+    "284": {
+      "name": "Whitney Skillen",
+      "role": "Claremont School Board member; Capital Improvement subcommittee - a fragment inside her own turn supporting the Manchester sustainability resolution"
+    },
+    "286": {
+      "name": "Heather Whitney",
+      "role": "Chair, Claremont School Board - calls the 10/4/2023 meeting to order, answers 'Here' to her own name at the head of every roll call (segments 4-5), runs the agenda and is thanked by name as 'Heather' at segment 347 - completes her own sentence, 'kids are being sent home early because of excessive heat or flooding concerns in other areas'"
+    },
+    "288": {
+      "name": "Heather Whitney",
+      "role": "Chair, Claremont School Board - calls the 10/4/2023 meeting to order, answers 'Here' to her own name at the head of every roll call (segments 4-5), runs the agenda and is thanked by name as 'Heather' at segment 347 - completes her own sentence, 'kids are being sent home early because of excessive heat or flooding concerns in other areas'"
+    },
+    "290": {
+      "name": "Frank Sprague",
+      "role": "Vice Chair, Claremont School Board; NHSBA delegate - the chair names 'Mr. Sprague' as the New Hampshire School Board Association delegate at segment 132 and he takes over the resolutions item at segment 133; Mary Henry addresses him as 'Frank' at segment 105 and the chair at segment 432 - a fragment inside his own motion, 'Support. Yes.'"
+    },
+    "297": {
+      "name": "Heather Whitney",
+      "role": "Chair, Claremont School Board - calls the 10/4/2023 meeting to order, answers 'Here' to her own name at the head of every roll call (segments 4-5), runs the agenda and is thanked by name as 'Heather' at segment 347 - a fragment inside her own reading of the resolution text"
+    },
+    "308": {
+      "name": "Frank Sprague",
+      "role": "Vice Chair, Claremont School Board; NHSBA delegate - the chair names 'Mr. Sprague' as the New Hampshire School Board Association delegate at segment 132 and he takes over the resolutions item at segment 133; Mary Henry addresses him as 'Frank' at segment 105 and the chair at segment 432 - completes his own declaration, 'The ayes have it'"
+    },
+    "311": {
+      "name": "Frank Sprague",
+      "role": "Vice Chair, Claremont School Board; NHSBA delegate - the chair names 'Mr. Sprague' as the New Hampshire School Board Association delegate at segment 132 and he takes over the resolutions item at segment 133; Mary Henry addresses him as 'Frank' at segment 105 and the chair at segment 432 - a fragment inside his own sentence on Medicaid eligibility"
+    },
+    "314": {
+      "name": "Heather Whitney",
+      "role": "Chair, Claremont School Board - calls the 10/4/2023 meeting to order, answers 'Here' to her own name at the head of every roll call (segments 4-5), runs the agenda and is thanked by name as 'Heather' at segment 347 - a fragment inside her own sentence, 'three separate... points... bullet points'"
+    },
+    "336": {
+      "name": "Frank Sprague",
+      "role": "Vice Chair, Claremont School Board; NHSBA delegate - the chair names 'Mr. Sprague' as the New Hampshire School Board Association delegate at segment 132 and he takes over the resolutions item at segment 133; Mary Henry addresses him as 'Frank' at segment 105 and the chair at segment 432 - the onset of his own reading, 'So the Concord School Board recognized the importance of nutrition...'"
+    },
+    "340": {
+      "name": "Whitney Skillen",
+      "role": "Claremont School Board member; Capital Improvement subcommittee - a fragment inside her own answer, 'Then you could, at the Assembly, you could be part of that vote'"
+    },
+    "342": {
+      "name": "Whitney Skillen",
+      "role": "Claremont School Board member; Capital Improvement subcommittee - a fragment inside her own answer, 'Then you could, at the Assembly, you could be part of that vote'"
+    },
+    "348": {
+      "name": "Heather Whitney",
+      "role": "Chair, Claremont School Board - calls the 10/4/2023 meeting to order, answers 'Here' to her own name at the head of every roll call (segments 4-5), runs the agenda and is thanked by name as 'Heather' at segment 347 - repeating her own objection to the word 'universal'"
+    },
+    "360": {
+      "name": "Unidentified",
+      "role": "Claremont School Board member arguing that the legislature is unlikely to adopt a universal meal program but supporting Sprague's motion anyway - the voice is merged into the business administrator's cluster and cannot be separated from Jennifer Gallagher, who also sits in that cluster"
+    },
+    "362": {
+      "name": "Unidentified",
+      "role": "Claremont School Board member arguing that the legislature is unlikely to adopt a universal meal program but supporting Sprague's motion anyway - the voice is merged into the business administrator's cluster and cannot be separated from Jennifer Gallagher, who also sits in that cluster"
+    },
+    "364": {
+      "name": "Unidentified",
+      "role": "A board member registering a vote against the universal-meals resolution - the chair had just objected to the word 'universal', but no name or count is recorded"
+    },
+    "366": {
+      "name": "Unidentified",
+      "role": "Board-table crosstalk thanking the NHSBA delegate for his walk-through of the resolutions - overlapping voices, not separable"
+    },
+    "367": {
+      "name": "Unidentified",
+      "role": "Board-table crosstalk thanking the NHSBA delegate for his walk-through of the resolutions - overlapping voices, not separable"
+    },
+    "368": {
+      "name": "Unidentified",
+      "role": "Board-table crosstalk thanking the NHSBA delegate for his walk-through of the resolutions - overlapping voices, not separable"
+    },
+    "385": {
+      "name": "Whitney Skillen",
+      "role": "Claremont School Board member; Capital Improvement subcommittee - the onset of her own sentence, 'Yeah. You can tell that it's the window that's bringing all the heat in'"
+    },
+    "387": {
+      "name": "Unidentified",
+      "role": "Board-table voice merged into the business administrator's cluster - either Mary Henry or Jennifer Gallagher, and not separable - suggesting a reflective heat-resistant film for the Stevens High School windows during the capital-improvements report"
+    },
+    "388": {
+      "name": "Unidentified",
+      "role": "Board-table voice merged into the business administrator's cluster - either Mary Henry or Jennifer Gallagher, and not separable - suggesting a reflective heat-resistant film for the Stevens High School windows during the capital-improvements report"
+    },
+    "389": {
+      "name": "Unidentified",
+      "role": "Board-table voice merged into the business administrator's cluster - either Mary Henry or Jennifer Gallagher, and not separable - suggesting a reflective heat-resistant film for the Stevens High School windows during the capital-improvements report"
+    },
+    "390": {
+      "name": "Unidentified",
+      "role": "Board-table voice merged into the business administrator's cluster - either Mary Henry or Jennifer Gallagher, and not separable - suggesting a reflective heat-resistant film for the Stevens High School windows during the capital-improvements report"
+    },
+    "391": {
+      "name": "Unidentified",
+      "role": "Board-table voice merged into the business administrator's cluster - either Mary Henry or Jennifer Gallagher, and not separable - suggesting a reflective heat-resistant film for the Stevens High School windows during the capital-improvements report"
+    },
+    "394": {
+      "name": "Unidentified",
+      "role": "Short assent, thanks or crosstalk at the board table - under two seconds and not attributable to one voice"
+    },
+    "400": {
+      "name": "Whitney Skillen",
+      "role": "Claremont School Board member; Capital Improvement subcommittee - a fragment inside her own sentence about how the building manager tracks temperature"
+    },
+    "402": {
+      "name": "Unidentified",
+      "role": "Board-table voice merged into the business administrator's cluster - either Mary Henry or Jennifer Gallagher, and not separable - suggesting a sign by the light switch to remind staff to close windows"
+    },
+    "411": {
+      "name": "Whitney Skillen",
+      "role": "Claremont School Board member; Capital Improvement subcommittee - a fragment inside her own sentence, 'something I don't know, but if anybody can'"
+    },
+    "413": {
+      "name": "Whitney Skillen",
+      "role": "Claremont School Board member; Capital Improvement subcommittee - a fragment inside her own sentence, 'something I don't know, but if anybody can'"
+    },
+    "421": {
+      "name": "Heather Whitney",
+      "role": "Chair, Claremont School Board - calls the 10/4/2023 meeting to order, answers 'Here' to her own name at the head of every roll call (segments 4-5), runs the agenda and is thanked by name as 'Heather' at segment 347 - acknowledging the capital-improvements report she then questions"
+    },
+    "424": {
+      "name": "Unidentified",
+      "role": "Short assent, thanks or crosstalk at the board table - under two seconds and not attributable to one voice"
+    },
+    "428": {
+      "name": "Whitney Skillen",
+      "role": "Claremont School Board member; Capital Improvement subcommittee - completes her own 'Yeah, I tried, I tried that too'"
+    },
+    "436": {
+      "name": "Whitney Skillen",
+      "role": "Claremont School Board member; Capital Improvement subcommittee - completes her own request, 'Can I add one more thing?'"
+    },
+    "444": {
+      "name": "Unidentified",
+      "role": "The board's 'Aye' on the second read and adoption of policy GB, with the chair's 'Opposed? No opposed' absorbed - no count and no names are recorded"
+    },
+    "454": {
+      "name": "Jennifer Gallagher",
+      "role": "Claremont School Board member (elected 3/14/2023, one-year seat) - the chair introduces the ad hoc disruptive-behavior committee as 'Jen Gallagher and Mr. Nester' at segment 453 and invites its report, which this voice then gives; the diarizer merged her into the business administrator's cluster"
+    },
+    "455": {
+      "name": "Jennifer Gallagher",
+      "role": "Claremont School Board member (elected 3/14/2023, one-year seat) - the chair introduces the ad hoc disruptive-behavior committee as 'Jen Gallagher and Mr. Nester' at segment 453 and invites its report, which this voice then gives; the diarizer merged her into the business administrator's cluster"
+    },
+    "460": {
+      "name": "Jennifer Gallagher",
+      "role": "Claremont School Board member (elected 3/14/2023, one-year seat) - the chair introduces the ad hoc disruptive-behavior committee as 'Jen Gallagher and Mr. Nester' at segment 453 and invites its report, which this voice then gives; the diarizer merged her into the business administrator's cluster (medium confidence on this short segment)"
+    },
+    "477": {
+      "name": "Unidentified",
+      "role": "Claremont School Board member reporting that the curriculum subcommittee has not met - merged into the business administrator's cluster; the speaker is not named and the chair thanks her in the next segment"
+    },
+    "482": {
+      "name": "Arlene Hawkins",
+      "role": "Claremont School Board member (elected 3/14/2023) and SAU 6 Board chair - Ben Nester addresses her directly, 'I would just mention, Arlene, that we're not a research facility,' at segment 546 and she answers at 547; she recalls asking about the summer program 'last year as a person at the podium' at segment 568 - the onset of her own question, 'Do you have your meeting dates established?'"
+    },
+    "493": {
+      "name": "Jennifer Gallagher",
+      "role": "Claremont School Board member (elected 3/14/2023, one-year seat) - the chair introduces the ad hoc disruptive-behavior committee as 'Jen Gallagher and Mr. Nester' at segment 453 and invites its report, which this voice then gives; the diarizer merged her into the business administrator's cluster - describing the mix of buildings and agencies represented on the committee"
+    },
+    "495": {
+      "name": "Jennifer Gallagher",
+      "role": "Claremont School Board member (elected 3/14/2023, one-year seat) - the chair introduces the ad hoc disruptive-behavior committee as 'Jen Gallagher and Mr. Nester' at segment 453 and invites its report, which this voice then gives; the diarizer merged her into the business administrator's cluster - describing the mix of buildings and agencies represented on the committee"
+    },
+    "499": {
+      "name": "Jennifer Gallagher",
+      "role": "Claremont School Board member (elected 3/14/2023, one-year seat) - the chair introduces the ad hoc disruptive-behavior committee as 'Jen Gallagher and Mr. Nester' at segment 453 and invites its report, which this voice then gives; the diarizer merged her into the business administrator's cluster - adding 'and policy recommendations' to Nester's summary"
+    },
+    "507": {
+      "name": "Heather Whitney",
+      "role": "Chair, Claremont School Board - calls the 10/4/2023 meeting to order, answers 'Here' to her own name at the head of every roll call (segments 4-5), runs the agenda and is thanked by name as 'Heather' at segment 347 - a fragment inside her own sentence, 'that would be an initiative from the... kind of like a community conversation about behavior concerns'"
+    },
+    "518": {
+      "name": "Unidentified",
+      "role": "Short assent, thanks or crosstalk at the board table - under two seconds and not attributable to one voice"
+    },
+    "520": {
+      "name": "Unidentified",
+      "role": "Short assent, thanks or crosstalk at the board table - under two seconds and not attributable to one voice"
+    },
+    "532": {
+      "name": "Frank Sprague",
+      "role": "Vice Chair, Claremont School Board; NHSBA delegate - the chair names 'Mr. Sprague' as the New Hampshire School Board Association delegate at segment 132 and he takes over the resolutions item at segment 133; Mary Henry addresses him as 'Frank' at segment 105 and the chair at segment 432 - the onset of his own phrase, 'on the agenda'"
+    },
+    "538": {
+      "name": "Heather Whitney",
+      "role": "Chair, Claremont School Board - calls the 10/4/2023 meeting to order, answers 'Here' to her own name at the head of every roll call (segments 4-5), runs the agenda and is thanked by name as 'Heather' at segment 347 - the onset of her own turn"
+    },
+    "563": {
+      "name": "Heather Whitney",
+      "role": "Chair, Claremont School Board - calls the 10/4/2023 meeting to order, answers 'Here' to her own name at the head of every roll call (segments 4-5), runs the agenda and is thanked by name as 'Heather' at segment 347 - the onset of her own sentence, 'So this... there's this, if we have an improved academic outcome'"
+    },
+    "569": {
+      "name": "Mike Koski",
+      "role": "Assistant Superintendent, SAU 6 - the onset of his own answer on the summer-program scores; he continues without a gap in the next segments"
+    },
+    "570": {
+      "name": "Mike Koski",
+      "role": "Assistant Superintendent, SAU 6 - the onset of his own answer on the summer-program scores; he continues without a gap in the next segments"
+    },
+    "595": {
+      "name": "Unidentified",
+      "role": "Short assent, thanks or crosstalk at the board table - under two seconds and not attributable to one voice"
+    },
+    "597": {
+      "name": "Arlene Hawkins",
+      "role": "Claremont School Board member (elected 3/14/2023) and SAU 6 Board chair - Ben Nester addresses her directly, 'I would just mention, Arlene, that we're not a research facility,' at segment 546 and she answers at 547; she recalls asking about the summer program 'last year as a person at the podium' at segment 568 - completes her own sentence, 'We could have it here televised'"
+    }
+  }
+}

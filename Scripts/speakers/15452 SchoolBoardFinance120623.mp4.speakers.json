@@ -1,0 +1,688 @@
+{
+  "Speaker 1": {
+    "name": "Frank Sprague",
+    "role": "Chair, Claremont School Board finance/budget subcommittee; Vice Chair, Claremont School Board - opens the meeting at segment 0 (\"This is the latest installment of the finance committee meeting. Mrs. Whitney is in Las Vegas getting a well-deserved break. So Mrs. Crawford and I are running the show\"), introduces the administrators at segment 1, runs the page-by-page walk of the FY25 book, and is addressed as \"Frank\" by Mary Henry at segments 235, 468, 669 and 711 and by Ben Nester at segments 321, 336, 343, 397, 598 and 608"
+  },
+  "Speaker 2": {
+    "name": "Candace Crawford",
+    "role": "Claremont School Board member; finance/budget subcommittee - named by Sprague at segment 0 (\"Mrs. Crawford and I are running the show\"); says \"as a school board member, I want to be able to explain where they fit into the budget\" at segment 329; Ben Nester addresses her as \"candy\" (Candace) at segment 562"
+  },
+  "Speaker 3": {
+    "name": "Steve Holt",
+    "role": "Director of Buildings and Grounds, Claremont School District - introduced at segment 0 (\"Steve Holt, who's our building and grounds... I don't know if I'll call you administrator, but chief supervisor. Director, director\"), addressed as \"Steve\" by Mary Henry at segment 161 and by Michael Tempesta at segment 200; answers every school maintenance line through segment 194 and is thanked out of the meeting at segments 200-204"
+  },
+  "Speaker 4": {
+    "name": "Mary Henry",
+    "role": "Business Administrator, Claremont School District / SAU 6 - introduced at segment 1 (\"Mary Henry, who's our business administrator\"), addressed as \"Mary\" by Ben Nester at segment 584, edits the budget file live (\"So I'm removing them right now\", segment 480; \"I did reorganize that\", segment 688), and speaks of Ben Nester in the third person at segment 346"
+  },
+  "Speaker 5": {
+    "name": "Candace Crawford",
+    "role": "Claremont School Board member; finance/budget subcommittee - named by Sprague at segment 0 (\"Mrs. Crawford and I are running the show\"); says \"as a school board member, I want to be able to explain where they fit into the budget\" at segment 329; Ben Nester addresses her as \"candy\" (Candace) at segment 562 - a small backchannel cluster (10 segments, all in the Holt section) that is hers: segment 99 (\"Okay. So. So what are\") runs into her own \"You saying? A new set of doors...\" at segment 100 with a 0.00 s gap, and segments 55, 57 and 77 sit inside her own turns. The two exceptions are reassigned by override"
+  },
+  "Speaker 6": {
+    "name": "Michael Tempesta",
+    "role": "Superintendent of Schools, SAU 6 - introduced at segment 1 (\"Superintendent Michael Tempesta\"); Ben Nester invites him in with \"Mike, feel free to join\" at segment 210 and this voice answers at 214; says \"I'm going to meet with Principal Romeo\" at segment 806 and sets the 12/14 schedule meeting with the union at segment 852. NOT Mike Koski, whom Mary Henry describes in the third person as someone she \"would have to ask\" at segments 681-683"
+  },
+  "Speaker 7": {
+    "name": "Unidentified",
+    "role": "Sub-second onsets, sentence tails and backchannels clipped out of neighbouring turns - a catch-all fragment cluster (160 segments, median duration 0.80 s, 123 of them under 1.5 s, 356 words in total) that demonstrably carries every voice in the room. Fragments that open or complete an identifiable sentence, or that answer the question immediately before them, are reassigned by override; the residue is left unnamed"
+  },
+  "Speaker 8": {
+    "name": "Ben Nester",
+    "role": "Director of Special Education, SAU 6 - Sprague says at segment 1 \"we've invited Ben back to get some specificity\" on special ed; he presents the special-education budget from segment 208; Sprague addresses him as \"Ben\" at segments 616 and 625; Mary Henry names him in the third person at segment 346 (\"if Ben put those numbers in\")"
+  },
+  "Speaker 9": {
+    "name": "Mary Henry",
+    "role": "Business Administrator, Claremont School District / SAU 6 - introduced at segment 1 (\"Mary Henry, who's our business administrator\"), addressed as \"Mary\" by Ben Nester at segment 584, edits the budget file live (\"So I'm removing them right now\", segment 480; \"I did reorganize that\", segment 688), and speaks of Ben Nester in the third person at segment 346 - a six-segment split of her voice: segment 232 (\"Have its own paper\") runs into her own segment 233 about the separate sheet in the binders with a 0.04 s gap, and segments 841, 864 and 884 continue her own line about who may collect the budget books, matching her segments 828, 834 and 849"
+  },
+  "Speaker 10": {
+    "name": "Ben Nester",
+    "role": "Director of Special Education, SAU 6 - Sprague says at segment 1 \"we've invited Ben back to get some specificity\" on special ed; he presents the special-education budget from segment 208; Sprague addresses him as \"Ben\" at segments 616 and 625; Mary Henry names him in the third person at segment 346 (\"if Ben put those numbers in\") - three clipped onsets of his own sentences: 240 into 241, 254 into 255 (\"All the teacher / professional salaries are always covered in a 110 line\") and 257 into 258"
+  },
+  "Speaker 11": {
+    "name": "Ben Nester",
+    "role": "Director of Special Education, SAU 6 - Sprague says at segment 1 \"we've invited Ben back to get some specificity\" on special ed; he presents the special-education budget from segment 208; Sprague addresses him as \"Ben\" at segments 616 and 625; Mary Henry names him in the third person at segment 346 (\"if Ben put those numbers in\") - a single 1.16 s fragment, \"Get the line for you\", inside his own turn (segments 282-284)"
+  },
+  "__overrides__": {
+    "106": {
+      "name": "Frank Sprague",
+      "role": "Chair, Claremont School Board finance/budget subcommittee; Vice Chair, Claremont School Board - opens the meeting at segment 0 (\"This is the latest installment of the finance committee meeting. Mrs. Whitney is in Las Vegas getting a well-deserved break. So Mrs. Crawford and I are running the show\"), introduces the administrators at segment 1, runs the page-by-page walk of the FY25 book, and is addressed as \"Frank\" by Mary Henry at segments 235, 468, 669 and 711 and by Ben Nester at segments 321, 336, 343, 397, 598 and 608 - his own aside inside \"I'm not seeing anything at the tech center. Okay. It jumps.\" (segments 105-107)"
+    },
+    "115": {
+      "name": "Steve Holt",
+      "role": "Director of Buildings and Grounds, Claremont School District - introduced at segment 0 (\"Steve Holt, who's our building and grounds... I don't know if I'll call you administrator, but chief supervisor. Director, director\"), addressed as \"Steve\" by Mary Henry at segment 161 and by Michael Tempesta at segment 200; answers every school maintenance line through segment 194 and is thanked out of the meeting at segments 200-204 - his answer to Sprague's ADA-citation question at segment 114; he carries the same answer on at segment 117"
+    },
+    "168": {
+      "name": "Michael Tempesta",
+      "role": "Superintendent of Schools, SAU 6 - introduced at segment 1 (\"Superintendent Michael Tempesta\"); Ben Nester invites him in with \"Mike, feel free to join\" at segment 210 and this voice answers at 214; says \"I'm going to meet with Principal Romeo\" at segment 806 and sets the 12/14 schedule meeting with the union at segment 852. NOT Mike Koski, whom Mary Henry describes in the third person as someone she \"would have to ask\" at segments 681-683 - 0.06 s micro-fragment inside his own phrase \"On / the / accounting side\" (segments 167-169)"
+    },
+    "204": {
+      "name": "Steve Holt",
+      "role": "Director of Buildings and Grounds, Claremont School District - introduced at segment 0 (\"Steve Holt, who's our building and grounds... I don't know if I'll call you administrator, but chief supervisor. Director, director\"), addressed as \"Steve\" by Mary Henry at segment 161 and by Michael Tempesta at segment 200; answers every school maintenance line through segment 194 and is thanked out of the meeting at segments 200-204 - his reply as the committee thanks him for coming in (segments 199-203); he never speaks again"
+    },
+    "229": {
+      "name": "Ben Nester",
+      "role": "Director of Special Education, SAU 6 - Sprague says at segment 1 \"we've invited Ben back to get some specificity\" on special ed; he presents the special-education budget from segment 208; Sprague addresses him as \"Ben\" at segments 616 and 625; Mary Henry names him in the third person at segment 346 (\"if Ben put those numbers in\") - onset of his own turn at segment 230; Holt had already been thanked out at segments 200-204, so the Speaker 3 label is stale here"
+    },
+    "364": {
+      "name": "Candace Crawford",
+      "role": "Claremont School Board member; finance/budget subcommittee - named by Sprague at segment 0 (\"Mrs. Crawford and I are running the show\"); says \"as a school board member, I want to be able to explain where they fit into the budget\" at segment 329; Ben Nester addresses her as \"candy\" (Candace) at segment 562 - completes her own question, \"...the description of that that you were just talking about\" (segment 363)"
+    },
+    "368": {
+      "name": "Candace Crawford",
+      "role": "Claremont School Board member; finance/budget subcommittee - named by Sprague at segment 0 (\"Mrs. Crawford and I are running the show\"); says \"as a school board member, I want to be able to explain where they fit into the budget\" at segment 329; Ben Nester addresses her as \"candy\" (Candace) at segment 562 - continues her own \"All right. I understand that now\" at segment 367 (medium confidence; Sprague is the alternative)"
+    },
+    "370": {
+      "name": "Frank Sprague",
+      "role": "Chair, Claremont School Board finance/budget subcommittee; Vice Chair, Claremont School Board - opens the meeting at segment 0 (\"This is the latest installment of the finance committee meeting. Mrs. Whitney is in Las Vegas getting a well-deserved break. So Mrs. Crawford and I are running the show\"), introduces the administrators at segment 1, runs the page-by-page walk of the FY25 book, and is addressed as \"Frank\" by Mary Henry at segments 235, 468, 669 and 711 and by Ben Nester at segments 321, 336, 343, 397, 598 and 608 - inside his own turn, \"So special ed coordinator structure. Yes. Now, I thought we had put in LEAs...\" (segments 369-371)"
+    },
+    "372": {
+      "name": "Candace Crawford",
+      "role": "Claremont School Board member; finance/budget subcommittee - named by Sprague at segment 0 (\"Mrs. Crawford and I are running the show\"); says \"as a school board member, I want to be able to explain where they fit into the budget\" at segment 329; Ben Nester addresses her as \"candy\" (Candace) at segment 562 - asks Sprague what LEA means and he answers at segment 373; matches her habit of asking for definitions (e.g. segment 349)"
+    },
+    "383": {
+      "name": "Ben Nester",
+      "role": "Director of Special Education, SAU 6 - Sprague says at segment 1 \"we've invited Ben back to get some specificity\" on special ed; he presents the special-education budget from segment 208; Sprague addresses him as \"Ben\" at segments 616 and 625; Mary Henry names him in the third person at segment 346 (\"if Ben put those numbers in\") - his assent to Crawford's \"It's under the SREA contract\" (segment 382)"
+    },
+    "385": {
+      "name": "Ben Nester",
+      "role": "Director of Special Education, SAU 6 - Sprague says at segment 1 \"we've invited Ben back to get some specificity\" on special ed; he presents the special-education budget from segment 208; Sprague addresses him as \"Ben\" at segments 616 and 625; Mary Henry names him in the third person at segment 346 (\"if Ben put those numbers in\") - his answer to Crawford's question at segment 384"
+    },
+    "391": {
+      "name": "Ben Nester",
+      "role": "Director of Special Education, SAU 6 - Sprague says at segment 1 \"we've invited Ben back to get some specificity\" on special ed; he presents the special-education budget from segment 208; Sprague addresses him as \"Ben\" at segments 616 and 625; Mary Henry names him in the third person at segment 346 (\"if Ben put those numbers in\") - onset of his own turn at segment 392"
+    },
+    "399": {
+      "name": "Ben Nester",
+      "role": "Director of Special Education, SAU 6 - Sprague says at segment 1 \"we've invited Ben back to get some specificity\" on special ed; he presents the special-education budget from segment 208; Sprague addresses him as \"Ben\" at segments 616 and 625; Mary Henry names him in the third person at segment 346 (\"if Ben put those numbers in\") - completes his own sentence \"...carry out the directives of the / office staff\" (segment 397) across Sprague's interjection"
+    },
+    "401": {
+      "name": "Ben Nester",
+      "role": "Director of Special Education, SAU 6 - Sprague says at segment 1 \"we've invited Ben back to get some specificity\" on special ed; he presents the special-education budget from segment 208; Sprague addresses him as \"Ben\" at segments 616 and 625; Mary Henry names him in the third person at segment 346 (\"if Ben put those numbers in\") - onset of his own \"Absolutely\" at segment 402"
+    },
+    "404": {
+      "name": "Ben Nester",
+      "role": "Director of Special Education, SAU 6 - Sprague says at segment 1 \"we've invited Ben back to get some specificity\" on special ed; he presents the special-education budget from segment 208; Sprague addresses him as \"Ben\" at segments 616 and 625; Mary Henry names him in the third person at segment 346 (\"if Ben put those numbers in\") - his answer to Crawford's question at segment 403"
+    },
+    "407": {
+      "name": "Ben Nester",
+      "role": "Director of Special Education, SAU 6 - Sprague says at segment 1 \"we've invited Ben back to get some specificity\" on special ed; he presents the special-education budget from segment 208; Sprague addresses him as \"Ben\" at segments 616 and 625; Mary Henry names him in the third person at segment 346 (\"if Ben put those numbers in\") - inside his own turn (segments 406-408)"
+    },
+    "410": {
+      "name": "Ben Nester",
+      "role": "Director of Special Education, SAU 6 - Sprague says at segment 1 \"we've invited Ben back to get some specificity\" on special ed; he presents the special-education budget from segment 208; Sprague addresses him as \"Ben\" at segments 616 and 625; Mary Henry names him in the third person at segment 346 (\"if Ben put those numbers in\") - his answer to Crawford's \"So there's nothing there now?\" (segment 409)"
+    },
+    "415": {
+      "name": "Frank Sprague",
+      "role": "Chair, Claremont School Board finance/budget subcommittee; Vice Chair, Claremont School Board - opens the meeting at segment 0 (\"This is the latest installment of the finance committee meeting. Mrs. Whitney is in Las Vegas getting a well-deserved break. So Mrs. Crawford and I are running the show\"), introduces the administrators at segment 1, runs the page-by-page walk of the FY25 book, and is addressed as \"Frank\" by Mary Henry at segments 235, 468, 669 and 711 and by Ben Nester at segments 321, 336, 343, 397, 598 and 608 - inside his own two-part question (segments 414-416)"
+    },
+    "418": {
+      "name": "Ben Nester",
+      "role": "Director of Special Education, SAU 6 - Sprague says at segment 1 \"we've invited Ben back to get some specificity\" on special ed; he presents the special-education budget from segment 208; Sprague addresses him as \"Ben\" at segments 616 and 625; Mary Henry names him in the third person at segment 346 (\"if Ben put those numbers in\") - middle of his own answer, \"It would / be / 130 1201 ten\" (segments 417-419)"
+    },
+    "420": {
+      "name": "Ben Nester",
+      "role": "Director of Special Education, SAU 6 - Sprague says at segment 1 \"we've invited Ben back to get some specificity\" on special ed; he presents the special-education budget from segment 208; Sprague addresses him as \"Ben\" at segments 616 and 625; Mary Henry names him in the third person at segment 346 (\"if Ben put those numbers in\") - he repeats the account code he is reading out (segments 419-421)"
+    },
+    "426": {
+      "name": "Candace Crawford",
+      "role": "Claremont School Board member; finance/budget subcommittee - named by Sprague at segment 0 (\"Mrs. Crawford and I are running the show\"); says \"as a school board member, I want to be able to explain where they fit into the budget\" at segment 329; Ben Nester addresses her as \"candy\" (Candace) at segment 562 - her own \"Let me get [to it]\" while she finds the page; matches segments 231 and 532"
+    },
+    "431": {
+      "name": "Candace Crawford",
+      "role": "Claremont School Board member; finance/budget subcommittee - named by Sprague at segment 0 (\"Mrs. Crawford and I are running the show\"); says \"as a school board member, I want to be able to explain where they fit into the budget\" at segment 329; Ben Nester addresses her as \"candy\" (Candace) at segment 562 - onset of her own sentence, \"No, not / actual for 22...\" (segment 432)"
+    },
+    "437": {
+      "name": "Ben Nester",
+      "role": "Director of Special Education, SAU 6 - Sprague says at segment 1 \"we've invited Ben back to get some specificity\" on special ed; he presents the special-education budget from segment 208; Sprague addresses him as \"Ben\" at segments 616 and 625; Mary Henry names him in the third person at segment 346 (\"if Ben put those numbers in\") - onset of his own turn at segment 438"
+    },
+    "443": {
+      "name": "Candace Crawford",
+      "role": "Claremont School Board member; finance/budget subcommittee - named by Sprague at segment 0 (\"Mrs. Crawford and I are running the show\"); says \"as a school board member, I want to be able to explain where they fit into the budget\" at segment 329; Ben Nester addresses her as \"candy\" (Candace) at segment 562 - her echo of the count, completed at segment 444 (\"It's three\")"
+    },
+    "451": {
+      "name": "Mary Henry",
+      "role": "Business Administrator, Claremont School District / SAU 6 - introduced at segment 1 (\"Mary Henry, who's our business administrator\"), addressed as \"Mary\" by Ben Nester at segment 584, edits the budget file live (\"So I'm removing them right now\", segment 480; \"I did reorganize that\", segment 688), and speaks of Ben Nester in the third person at segment 346 - completes her own sentence, \"...that wasn't accounted / for, which\" (segment 450)"
+    },
+    "457": {
+      "name": "Ben Nester",
+      "role": "Director of Special Education, SAU 6 - Sprague says at segment 1 \"we've invited Ben back to get some specificity\" on special ed; he presents the special-education budget from segment 208; Sprague addresses him as \"Ben\" at segments 616 and 625; Mary Henry names him in the third person at segment 346 (\"if Ben put those numbers in\") - onset of his own sentence, \"There is a[n] / increase to the budget based on...\" completed at segment 458"
+    },
+    "463": {
+      "name": "Candace Crawford",
+      "role": "Claremont School Board member; finance/budget subcommittee - named by Sprague at segment 0 (\"Mrs. Crawford and I are running the show\"); says \"as a school board member, I want to be able to explain where they fit into the budget\" at segment 329; Ben Nester addresses her as \"candy\" (Candace) at segment 562 - asks Sprague what page he is on and he answers at segment 464; the same phrasing she uses at segment 745 (\"What do you want, please?\")"
+    },
+    "467": {
+      "name": "Frank Sprague",
+      "role": "Chair, Claremont School Board finance/budget subcommittee; Vice Chair, Claremont School Board - opens the meeting at segment 0 (\"This is the latest installment of the finance committee meeting. Mrs. Whitney is in Las Vegas getting a well-deserved break. So Mrs. Crawford and I are running the show\"), introduces the administrators at segment 1, runs the page-by-page walk of the FY25 book, and is addressed as \"Frank\" by Mary Henry at segments 235, 468, 669 and 711 and by Ben Nester at segments 321, 336, 343, 397, 598 and 608 - completes his own sentence, \"So I'm just curious where that / came from\" (segment 466)"
+    },
+    "472": {
+      "name": "Ben Nester",
+      "role": "Director of Special Education, SAU 6 - Sprague says at segment 1 \"we've invited Ben back to get some specificity\" on special ed; he presents the special-education budget from segment 208; Sprague addresses him as \"Ben\" at segments 616 and 625; Mary Henry names him in the third person at segment 346 (\"if Ben put those numbers in\") - continues the account-code read-back at segments 469-471 (ambiguous between Nester and Sprague - Henry addressed the question to Frank)"
+    },
+    "474": {
+      "name": "Mary Henry",
+      "role": "Business Administrator, Claremont School District / SAU 6 - introduced at segment 1 (\"Mary Henry, who's our business administrator\"), addressed as \"Mary\" by Ben Nester at segment 584, edits the budget file live (\"So I'm removing them right now\", segment 480; \"I did reorganize that\", segment 688), and speaks of Ben Nester in the third person at segment 346 - her thanks, 0.02 s after her own \"Okay\" at segment 473"
+    },
+    "478": {
+      "name": "Frank Sprague",
+      "role": "Chair, Claremont School Board finance/budget subcommittee; Vice Chair, Claremont School Board - opens the meeting at segment 0 (\"This is the latest installment of the finance committee meeting. Mrs. Whitney is in Las Vegas getting a well-deserved break. So Mrs. Crawford and I are running the show\"), introduces the administrators at segment 1, runs the page-by-page walk of the FY25 book, and is addressed as \"Frank\" by Mary Henry at segments 235, 468, 669 and 711 and by Ben Nester at segments 321, 336, 343, 397, 598 and 608 - inside his own turn (segments 477-479); may instead be Henry finishing \"...take those out\" (low confidence)"
+    },
+    "482": {
+      "name": "Candace Crawford",
+      "role": "Claremont School Board member; finance/budget subcommittee - named by Sprague at segment 0 (\"Mrs. Crawford and I are running the show\"); says \"as a school board member, I want to be able to explain where they fit into the budget\" at segment 329; Ben Nester addresses her as \"candy\" (Candace) at segment 562 - onset of her own sentence, \"To / this group for hires\" (segment 483)"
+    },
+    "484": {
+      "name": "Candace Crawford",
+      "role": "Claremont School Board member; finance/budget subcommittee - named by Sprague at segment 0 (\"Mrs. Crawford and I are running the show\"); says \"as a school board member, I want to be able to explain where they fit into the budget\" at segment 329; Ben Nester addresses her as \"candy\" (Candace) at segment 562 - onset of her own turn at segment 485"
+    },
+    "486": {
+      "name": "Ben Nester",
+      "role": "Director of Special Education, SAU 6 - Sprague says at segment 1 \"we've invited Ben back to get some specificity\" on special ed; he presents the special-education budget from segment 208; Sprague addresses him as \"Ben\" at segments 616 and 625; Mary Henry names him in the third person at segment 346 (\"if Ben put those numbers in\") - onset of his own turn at segment 487"
+    },
+    "488": {
+      "name": "Ben Nester",
+      "role": "Director of Special Education, SAU 6 - Sprague says at segment 1 \"we've invited Ben back to get some specificity\" on special ed; he presents the special-education budget from segment 208; Sprague addresses him as \"Ben\" at segments 616 and 625; Mary Henry names him in the third person at segment 346 (\"if Ben put those numbers in\") - completes his own sentence, \"Wanted to / just have that discussion\" (segment 487)"
+    },
+    "495": {
+      "name": "Candace Crawford",
+      "role": "Claremont School Board member; finance/budget subcommittee - named by Sprague at segment 0 (\"Mrs. Crawford and I are running the show\"); says \"as a school board member, I want to be able to explain where they fit into the budget\" at segment 329; Ben Nester addresses her as \"candy\" (Candace) at segment 562 - her follow-up question, answered by Nester at segment 496"
+    },
+    "497": {
+      "name": "Candace Crawford",
+      "role": "Claremont School Board member; finance/budget subcommittee - named by Sprague at segment 0 (\"Mrs. Crawford and I are running the show\"); says \"as a school board member, I want to be able to explain where they fit into the budget\" at segment 329; Ben Nester addresses her as \"candy\" (Candace) at segment 562 - her reaction, continued in her own question at segment 498"
+    },
+    "499": {
+      "name": "Ben Nester",
+      "role": "Director of Special Education, SAU 6 - Sprague says at segment 1 \"we've invited Ben back to get some specificity\" on special ed; he presents the special-education budget from segment 208; Sprague addresses him as \"Ben\" at segments 616 and 625; Mary Henry names him in the third person at segment 346 (\"if Ben put those numbers in\") - his answer to Crawford's question at segment 498"
+    },
+    "504": {
+      "name": "Ben Nester",
+      "role": "Director of Special Education, SAU 6 - Sprague says at segment 1 \"we've invited Ben back to get some specificity\" on special ed; he presents the special-education budget from segment 208; Sprague addresses him as \"Ben\" at segments 616 and 625; Mary Henry names him in the third person at segment 346 (\"if Ben put those numbers in\") - completes his own sentence, \"Just / like bluff does\" (segment 505)"
+    },
+    "506": {
+      "name": "Ben Nester",
+      "role": "Director of Special Education, SAU 6 - Sprague says at segment 1 \"we've invited Ben back to get some specificity\" on special ed; he presents the special-education budget from segment 208; Sprague addresses him as \"Ben\" at segments 616 and 625; Mary Henry names him in the third person at segment 346 (\"if Ben put those numbers in\") - inside his own turn (segments 505-507)"
+    },
+    "508": {
+      "name": "Ben Nester",
+      "role": "Director of Special Education, SAU 6 - Sprague says at segment 1 \"we've invited Ben back to get some specificity\" on special ed; he presents the special-education budget from segment 208; Sprague addresses him as \"Ben\" at segments 616 and 625; Mary Henry names him in the third person at segment 346 (\"if Ben put those numbers in\") - completes his own sentence, \"...director duties that need / to\" (segment 507)"
+    },
+    "511": {
+      "name": "Candace Crawford",
+      "role": "Claremont School Board member; finance/budget subcommittee - named by Sprague at segment 0 (\"Mrs. Crawford and I are running the show\"); says \"as a school board member, I want to be able to explain where they fit into the budget\" at segment 329; Ben Nester addresses her as \"candy\" (Candace) at segment 562 - onset of her own correction, \"No. / He told the two\" (segment 512)"
+    },
+    "514": {
+      "name": "Candace Crawford",
+      "role": "Claremont School Board member; finance/budget subcommittee - named by Sprague at segment 0 (\"Mrs. Crawford and I are running the show\"); says \"as a school board member, I want to be able to explain where they fit into the budget\" at segment 329; Ben Nester addresses her as \"candy\" (Candace) at segment 562 - onset of her own sentence completed at segment 515"
+    },
+    "516": {
+      "name": "Candace Crawford",
+      "role": "Claremont School Board member; finance/budget subcommittee - named by Sprague at segment 0 (\"Mrs. Crawford and I are running the show\"); says \"as a school board member, I want to be able to explain where they fit into the budget\" at segment 329; Ben Nester addresses her as \"candy\" (Candace) at segment 562 - inside her own turn (segments 515-517)"
+    },
+    "518": {
+      "name": "Ben Nester",
+      "role": "Director of Special Education, SAU 6 - Sprague says at segment 1 \"we've invited Ben back to get some specificity\" on special ed; he presents the special-education budget from segment 208; Sprague addresses him as \"Ben\" at segments 616 and 625; Mary Henry names him in the third person at segment 346 (\"if Ben put those numbers in\") - onset of his own answer, \"[Good] question...\" (segment 519)"
+    },
+    "520": {
+      "name": "Candace Crawford",
+      "role": "Claremont School Board member; finance/budget subcommittee - named by Sprague at segment 0 (\"Mrs. Crawford and I are running the show\"); says \"as a school board member, I want to be able to explain where they fit into the budget\" at segment 329; Ben Nester addresses her as \"candy\" (Candace) at segment 562 - her thanks after Nester's answer"
+    },
+    "522": {
+      "name": "Michael Tempesta",
+      "role": "Superintendent of Schools, SAU 6 - introduced at segment 1 (\"Superintendent Michael Tempesta\"); Ben Nester invites him in with \"Mike, feel free to join\" at segment 210 and this voice answers at 214; says \"I'm going to meet with Principal Romeo\" at segment 806 and sets the 12/14 schedule meeting with the union at segment 852. NOT Mike Koski, whom Mary Henry describes in the third person as someone she \"would have to ask\" at segments 681-683 - completes his own sentence at segment 521"
+    },
+    "525": {
+      "name": "Candace Crawford",
+      "role": "Claremont School Board member; finance/budget subcommittee - named by Sprague at segment 0 (\"Mrs. Crawford and I are running the show\"); says \"as a school board member, I want to be able to explain where they fit into the budget\" at segment 329; Ben Nester addresses her as \"candy\" (Candace) at segment 562 - her assent before her own question at segment 526"
+    },
+    "527": {
+      "name": "Ben Nester",
+      "role": "Director of Special Education, SAU 6 - Sprague says at segment 1 \"we've invited Ben back to get some specificity\" on special ed; he presents the special-education budget from segment 208; Sprague addresses him as \"Ben\" at segments 616 and 625; Mary Henry names him in the third person at segment 346 (\"if Ben put those numbers in\") - his answer to Crawford's question at segment 526"
+    },
+    "529": {
+      "name": "Ben Nester",
+      "role": "Director of Special Education, SAU 6 - Sprague says at segment 1 \"we've invited Ben back to get some specificity\" on special ed; he presents the special-education budget from segment 208; Sprague addresses him as \"Ben\" at segments 616 and 625; Mary Henry names him in the third person at segment 346 (\"if Ben put those numbers in\") - his answer to Crawford's \"Where?\" (segment 528)"
+    },
+    "533": {
+      "name": "Candace Crawford",
+      "role": "Claremont School Board member; finance/budget subcommittee - named by Sprague at segment 0 (\"Mrs. Crawford and I are running the show\"); says \"as a school board member, I want to be able to explain where they fit into the budget\" at segment 329; Ben Nester addresses her as \"candy\" (Candace) at segment 562 - completes her own sentence, \"Let me get to that / sheet\" (segment 532)"
+    },
+    "535": {
+      "name": "Candace Crawford",
+      "role": "Claremont School Board member; finance/budget subcommittee - named by Sprague at segment 0 (\"Mrs. Crawford and I are running the show\"); says \"as a school board member, I want to be able to explain where they fit into the budget\" at segment 329; Ben Nester addresses her as \"candy\" (Candace) at segment 562 - she is the one hunting for the handout (segments 532-536)"
+    },
+    "538": {
+      "name": "Candace Crawford",
+      "role": "Claremont School Board member; finance/budget subcommittee - named by Sprague at segment 0 (\"Mrs. Crawford and I are running the show\"); says \"as a school board member, I want to be able to explain where they fit into the budget\" at segment 329; Ben Nester addresses her as \"candy\" (Candace) at segment 562 - onset of her own turn at segment 539"
+    },
+    "540": {
+      "name": "Candace Crawford",
+      "role": "Claremont School Board member; finance/budget subcommittee - named by Sprague at segment 0 (\"Mrs. Crawford and I are running the show\"); says \"as a school board member, I want to be able to explain where they fit into the budget\" at segment 329; Ben Nester addresses her as \"candy\" (Candace) at segment 562 - inside her own turn (segments 539-541)"
+    },
+    "543": {
+      "name": "Ben Nester",
+      "role": "Director of Special Education, SAU 6 - Sprague says at segment 1 \"we've invited Ben back to get some specificity\" on special ed; he presents the special-education budget from segment 208; Sprague addresses him as \"Ben\" at segments 616 and 625; Mary Henry names him in the third person at segment 346 (\"if Ben put those numbers in\") - inside his own sentence, \"That would be / just / the change in personnel\" (segments 542-544)"
+    },
+    "545": {
+      "name": "Candace Crawford",
+      "role": "Claremont School Board member; finance/budget subcommittee - named by Sprague at segment 0 (\"Mrs. Crawford and I are running the show\"); says \"as a school board member, I want to be able to explain where they fit into the budget\" at segment 329; Ben Nester addresses her as \"candy\" (Candace) at segment 562 - onset of her own question at segment 546"
+    },
+    "548": {
+      "name": "Ben Nester",
+      "role": "Director of Special Education, SAU 6 - Sprague says at segment 1 \"we've invited Ben back to get some specificity\" on special ed; he presents the special-education budget from segment 208; Sprague addresses him as \"Ben\" at segments 616 and 625; Mary Henry names him in the third person at segment 346 (\"if Ben put those numbers in\") - continues his own answer at segment 547"
+    },
+    "553": {
+      "name": "Candace Crawford",
+      "role": "Claremont School Board member; finance/budget subcommittee - named by Sprague at segment 0 (\"Mrs. Crawford and I are running the show\"); says \"as a school board member, I want to be able to explain where they fit into the budget\" at segment 329; Ben Nester addresses her as \"candy\" (Candace) at segment 562 - her reply to Nester's \"If you can dig it up, we can look\" (segment 552)"
+    },
+    "555": {
+      "name": "Ben Nester",
+      "role": "Director of Special Education, SAU 6 - Sprague says at segment 1 \"we've invited Ben back to get some specificity\" on special ed; he presents the special-education budget from segment 208; Sprague addresses him as \"Ben\" at segments 616 and 625; Mary Henry names him in the third person at segment 346 (\"if Ben put those numbers in\") - onset of his own turn at segment 556"
+    },
+    "558": {
+      "name": "Ben Nester",
+      "role": "Director of Special Education, SAU 6 - Sprague says at segment 1 \"we've invited Ben back to get some specificity\" on special ed; he presents the special-education budget from segment 208; Sprague addresses him as \"Ben\" at segments 616 and 625; Mary Henry names him in the third person at segment 346 (\"if Ben put those numbers in\") - his agreement with Sprague's point at segment 557"
+    },
+    "559": {
+      "name": "Ben Nester",
+      "role": "Director of Special Education, SAU 6 - Sprague says at segment 1 \"we've invited Ben back to get some specificity\" on special ed; he presents the special-education budget from segment 208; Sprague addresses him as \"Ben\" at segments 616 and 625; Mary Henry names him in the third person at segment 346 (\"if Ben put those numbers in\") - same voice continuing from segment 558"
+    },
+    "563": {
+      "name": "Ben Nester",
+      "role": "Director of Special Education, SAU 6 - Sprague says at segment 1 \"we've invited Ben back to get some specificity\" on special ed; he presents the special-education budget from segment 208; Sprague addresses him as \"Ben\" at segments 616 and 625; Mary Henry names him in the third person at segment 346 (\"if Ben put those numbers in\") - completes his own sentence, \"...paid out / of that?\" (segment 562); Crawford's reply overlaps at the tail"
+    },
+    "566": {
+      "name": "Ben Nester",
+      "role": "Director of Special Education, SAU 6 - Sprague says at segment 1 \"we've invited Ben back to get some specificity\" on special ed; he presents the special-education budget from segment 208; Sprague addresses him as \"Ben\" at segments 616 and 625; Mary Henry names him in the third person at segment 346 (\"if Ben put those numbers in\") - onset of his own answer at segment 567"
+    },
+    "568": {
+      "name": "Ben Nester",
+      "role": "Director of Special Education, SAU 6 - Sprague says at segment 1 \"we've invited Ben back to get some specificity\" on special ed; he presents the special-education budget from segment 208; Sprague addresses him as \"Ben\" at segments 616 and 625; Mary Henry names him in the third person at segment 346 (\"if Ben put those numbers in\") - inside his own turn (segments 567-569)"
+    },
+    "570": {
+      "name": "Ben Nester",
+      "role": "Director of Special Education, SAU 6 - Sprague says at segment 1 \"we've invited Ben back to get some specificity\" on special ed; he presents the special-education budget from segment 208; Sprague addresses him as \"Ben\" at segments 616 and 625; Mary Henry names him in the third person at segment 346 (\"if Ben put those numbers in\") - completes his own sentence at segment 569"
+    },
+    "574": {
+      "name": "Frank Sprague",
+      "role": "Chair, Claremont School Board finance/budget subcommittee; Vice Chair, Claremont School Board - opens the meeting at segment 0 (\"This is the latest installment of the finance committee meeting. Mrs. Whitney is in Las Vegas getting a well-deserved break. So Mrs. Crawford and I are running the show\"), introduces the administrators at segment 1, runs the page-by-page walk of the FY25 book, and is addressed as \"Frank\" by Mary Henry at segments 235, 468, 669 and 711 and by Ben Nester at segments 321, 336, 343, 397, 598 and 608 - completes his own sentence, \"...part of the lack / of what you're\" (segment 573)"
+    },
+    "579": {
+      "name": "Ben Nester",
+      "role": "Director of Special Education, SAU 6 - Sprague says at segment 1 \"we've invited Ben back to get some specificity\" on special ed; he presents the special-education budget from segment 208; Sprague addresses him as \"Ben\" at segments 616 and 625; Mary Henry names him in the third person at segment 346 (\"if Ben put those numbers in\") - completes his own sentence, \"That would / be ideal\" (segment 578)"
+    },
+    "581": {
+      "name": "Frank Sprague",
+      "role": "Chair, Claremont School Board finance/budget subcommittee; Vice Chair, Claremont School Board - opens the meeting at segment 0 (\"This is the latest installment of the finance committee meeting. Mrs. Whitney is in Las Vegas getting a well-deserved break. So Mrs. Crawford and I are running the show\"), introduces the administrators at segment 1, runs the page-by-page walk of the FY25 book, and is addressed as \"Frank\" by Mary Henry at segments 235, 468, 669 and 711 and by Ben Nester at segments 321, 336, 343, 397, 598 and 608 - completes his own sentence, \"...department chair or something / like that\" (segment 580)"
+    },
+    "583": {
+      "name": "Ben Nester",
+      "role": "Director of Special Education, SAU 6 - Sprague says at segment 1 \"we've invited Ben back to get some specificity\" on special ed; he presents the special-education budget from segment 208; Sprague addresses him as \"Ben\" at segments 616 and 625; Mary Henry names him in the third person at segment 346 (\"if Ben put those numbers in\") - onset of his own turn, \"So, / Mary, I'm going to take a stab at this\" (segment 584)"
+    },
+    "589": {
+      "name": "Ben Nester",
+      "role": "Director of Special Education, SAU 6 - Sprague says at segment 1 \"we've invited Ben back to get some specificity\" on special ed; he presents the special-education budget from segment 208; Sprague addresses him as \"Ben\" at segments 616 and 625; Mary Henry names him in the third person at segment 346 (\"if Ben put those numbers in\") - onset of his own turn at segment 590"
+    },
+    "591": {
+      "name": "Ben Nester",
+      "role": "Director of Special Education, SAU 6 - Sprague says at segment 1 \"we've invited Ben back to get some specificity\" on special ed; he presents the special-education budget from segment 208; Sprague addresses him as \"Ben\" at segments 616 and 625; Mary Henry names him in the third person at segment 346 (\"if Ben put those numbers in\") - inside his own sentence, \"We cannot / speak to that on air\" (segments 590-592)"
+    },
+    "593": {
+      "name": "Candace Crawford",
+      "role": "Claremont School Board member; finance/budget subcommittee - named by Sprague at segment 0 (\"Mrs. Crawford and I are running the show\"); says \"as a school board member, I want to be able to explain where they fit into the budget\" at segment 329; Ben Nester addresses her as \"candy\" (Candace) at segment 562 - her assent between Nester's sentences"
+    },
+    "595": {
+      "name": "Candace Crawford",
+      "role": "Claremont School Board member; finance/budget subcommittee - named by Sprague at segment 0 (\"Mrs. Crawford and I are running the show\"); says \"as a school board member, I want to be able to explain where they fit into the budget\" at segment 329; Ben Nester addresses her as \"candy\" (Candace) at segment 562 - her assent before her own \"Thank you\" at segment 596"
+    },
+    "602": {
+      "name": "Candace Crawford",
+      "role": "Claremont School Board member; finance/budget subcommittee - named by Sprague at segment 0 (\"Mrs. Crawford and I are running the show\"); says \"as a school board member, I want to be able to explain where they fit into the budget\" at segment 329; Ben Nester addresses her as \"candy\" (Candace) at segment 562 - onset of her own turn at segment 603"
+    },
+    "606": {
+      "name": "Candace Crawford",
+      "role": "Claremont School Board member; finance/budget subcommittee - named by Sprague at segment 0 (\"Mrs. Crawford and I are running the show\"); says \"as a school board member, I want to be able to explain where they fit into the budget\" at segment 329; Ben Nester addresses her as \"candy\" (Candace) at segment 562 - completes her own sentence, \"...which is on the / next page\" (segment 605)"
+    },
+    "609": {
+      "name": "Ben Nester",
+      "role": "Director of Special Education, SAU 6 - Sprague says at segment 1 \"we've invited Ben back to get some specificity\" on special ed; he presents the special-education budget from segment 208; Sprague addresses him as \"Ben\" at segments 616 and 625; Mary Henry names him in the third person at segment 346 (\"if Ben put those numbers in\") - inside his own sentence (segments 608-612)"
+    },
+    "611": {
+      "name": "Ben Nester",
+      "role": "Director of Special Education, SAU 6 - Sprague says at segment 1 \"we've invited Ben back to get some specificity\" on special ed; he presents the special-education budget from segment 208; Sprague addresses him as \"Ben\" at segments 616 and 625; Mary Henry names him in the third person at segment 346 (\"if Ben put those numbers in\") - inside his own sentence (segments 610-612)"
+    },
+    "613": {
+      "name": "Ben Nester",
+      "role": "Director of Special Education, SAU 6 - Sprague says at segment 1 \"we've invited Ben back to get some specificity\" on special ed; he presents the special-education budget from segment 208; Sprague addresses him as \"Ben\" at segments 616 and 625; Mary Henry names him in the third person at segment 346 (\"if Ben put those numbers in\") - completes his own sentence, \"They'd be paid / out of?\" (segment 612)"
+    },
+    "615": {
+      "name": "Frank Sprague",
+      "role": "Chair, Claremont School Board finance/budget subcommittee; Vice Chair, Claremont School Board - opens the meeting at segment 0 (\"This is the latest installment of the finance committee meeting. Mrs. Whitney is in Las Vegas getting a well-deserved break. So Mrs. Crawford and I are running the show\"), introduces the administrators at segment 1, runs the page-by-page walk of the FY25 book, and is addressed as \"Frank\" by Mary Henry at segments 235, 468, 669 and 711 and by Ben Nester at segments 321, 336, 343, 397, 598 and 608 - onset of his own question at segment 616"
+    },
+    "617": {
+      "name": "Mary Henry",
+      "role": "Business Administrator, Claremont School District / SAU 6 - introduced at segment 1 (\"Mary Henry, who's our business administrator\"), addressed as \"Mary\" by Ben Nester at segment 584, edits the budget file live (\"So I'm removing them right now\", segment 480; \"I did reorganize that\", segment 688), and speaks of Ben Nester in the third person at segment 346 - answers Sprague's question about Nester's salary in the third person (\"He's...\"), so not Nester himself; she is the one who explains the SAU/Claremont split at segments 631 and 635 (medium confidence)"
+    },
+    "620": {
+      "name": "Candace Crawford",
+      "role": "Claremont School Board member; finance/budget subcommittee - named by Sprague at segment 0 (\"Mrs. Crawford and I are running the show\"); says \"as a school board member, I want to be able to explain where they fit into the budget\" at segment 329; Ben Nester addresses her as \"candy\" (Candace) at segment 562 - continues her own page-hunt from segment 619"
+    },
+    "622": {
+      "name": "Frank Sprague",
+      "role": "Chair, Claremont School Board finance/budget subcommittee; Vice Chair, Claremont School Board - opens the meeting at segment 0 (\"This is the latest installment of the finance committee meeting. Mrs. Whitney is in Las Vegas getting a well-deserved break. So Mrs. Crawford and I are running the show\"), introduces the administrators at segment 1, runs the page-by-page walk of the FY25 book, and is addressed as \"Frank\" by Mary Henry at segments 235, 468, 669 and 711 and by Ben Nester at segments 321, 336, 343, 397, 598 and 608 - completes his own sentence at segment 621"
+    },
+    "624": {
+      "name": "Frank Sprague",
+      "role": "Chair, Claremont School Board finance/budget subcommittee; Vice Chair, Claremont School Board - opens the meeting at segment 0 (\"This is the latest installment of the finance committee meeting. Mrs. Whitney is in Las Vegas getting a well-deserved break. So Mrs. Crawford and I are running the show\"), introduces the administrators at segment 1, runs the page-by-page walk of the FY25 book, and is addressed as \"Frank\" by Mary Henry at segments 235, 468, 669 and 711 and by Ben Nester at segments 321, 336, 343, 397, 598 and 608 - onset of his own question at segment 625"
+    },
+    "627": {
+      "name": "Ben Nester",
+      "role": "Director of Special Education, SAU 6 - Sprague says at segment 1 \"we've invited Ben back to get some specificity\" on special ed; he presents the special-education budget from segment 208; Sprague addresses him as \"Ben\" at segments 616 and 625; Mary Henry names him in the third person at segment 346 (\"if Ben put those numbers in\") - completes his own sentence, \"I'm in a[n] S[A]U / budget\" (segment 626)"
+    },
+    "630": {
+      "name": "Mary Henry",
+      "role": "Business Administrator, Claremont School District / SAU 6 - introduced at segment 1 (\"Mary Henry, who's our business administrator\"), addressed as \"Mary\" by Ben Nester at segment 584, edits the budget file live (\"So I'm removing them right now\", segment 480; \"I did reorganize that\", segment 688), and speaks of Ben Nester in the third person at segment 346 - onset of her own answer at segment 631"
+    },
+    "633": {
+      "name": "Frank Sprague",
+      "role": "Chair, Claremont School Board finance/budget subcommittee; Vice Chair, Claremont School Board - opens the meeting at segment 0 (\"This is the latest installment of the finance committee meeting. Mrs. Whitney is in Las Vegas getting a well-deserved break. So Mrs. Crawford and I are running the show\"), introduces the administrators at segment 1, runs the page-by-page walk of the FY25 book, and is addressed as \"Frank\" by Mary Henry at segments 235, 468, 669 and 711 and by Ben Nester at segments 321, 336, 343, 397, 598 and 608 - completes his own sentence, \"We're paying 90% of / the bill\" (segment 632)"
+    },
+    "639": {
+      "name": "Mary Henry",
+      "role": "Business Administrator, Claremont School District / SAU 6 - introduced at segment 1 (\"Mary Henry, who's our business administrator\"), addressed as \"Mary\" by Ben Nester at segment 584, edits the budget file live (\"So I'm removing them right now\", segment 480; \"I did reorganize that\", segment 688), and speaks of Ben Nester in the third person at segment 346 - onset of her own turn at segment 640"
+    },
+    "641": {
+      "name": "Mary Henry",
+      "role": "Business Administrator, Claremont School District / SAU 6 - introduced at segment 1 (\"Mary Henry, who's our business administrator\"), addressed as \"Mary\" by Ben Nester at segment 584, edits the budget file live (\"So I'm removing them right now\", segment 480; \"I did reorganize that\", segment 688), and speaks of Ben Nester in the third person at segment 346 - completes her own sentence, \"So it'd / be it's\" (segment 640)"
+    },
+    "643": {
+      "name": "Candace Crawford",
+      "role": "Claremont School Board member; finance/budget subcommittee - named by Sprague at segment 0 (\"Mrs. Crawford and I are running the show\"); says \"as a school board member, I want to be able to explain where they fit into the budget\" at segment 329; Ben Nester addresses her as \"candy\" (Candace) at segment 562 - completes her own sentence, \"Usually at / the end\" (segment 642)"
+    },
+    "645": {
+      "name": "Candace Crawford",
+      "role": "Claremont School Board member; finance/budget subcommittee - named by Sprague at segment 0 (\"Mrs. Crawford and I are running the show\"); says \"as a school board member, I want to be able to explain where they fit into the budget\" at segment 329; Ben Nester addresses her as \"candy\" (Candace) at segment 562 - onset of her own turn at segment 646"
+    },
+    "648": {
+      "name": "Candace Crawford",
+      "role": "Claremont School Board member; finance/budget subcommittee - named by Sprague at segment 0 (\"Mrs. Crawford and I are running the show\"); says \"as a school board member, I want to be able to explain where they fit into the budget\" at segment 329; Ben Nester addresses her as \"candy\" (Candace) at segment 562 - onset of her own turn at segment 649"
+    },
+    "653": {
+      "name": "Ben Nester",
+      "role": "Director of Special Education, SAU 6 - Sprague says at segment 1 \"we've invited Ben back to get some specificity\" on special ed; he presents the special-education budget from segment 208; Sprague addresses him as \"Ben\" at segments 616 and 625; Mary Henry names him in the third person at segment 346 (\"if Ben put those numbers in\") - onset of his own turn at segment 654"
+    },
+    "657": {
+      "name": "Candace Crawford",
+      "role": "Claremont School Board member; finance/budget subcommittee - named by Sprague at segment 0 (\"Mrs. Crawford and I are running the show\"); says \"as a school board member, I want to be able to explain where they fit into the budget\" at segment 329; Ben Nester addresses her as \"candy\" (Candace) at segment 562 - onset of her own \"Finally. Thank you\" at segment 658"
+    },
+    "659": {
+      "name": "Ben Nester",
+      "role": "Director of Special Education, SAU 6 - Sprague says at segment 1 \"we've invited Ben back to get some specificity\" on special ed; he presents the special-education budget from segment 208; Sprague addresses him as \"Ben\" at segments 616 and 625; Mary Henry names him in the third person at segment 346 (\"if Ben put those numbers in\") - onset of his own sentence, \"But I would like / to get back to the committee\" (segment 660)"
+    },
+    "661": {
+      "name": "Candace Crawford",
+      "role": "Claremont School Board member; finance/budget subcommittee - named by Sprague at segment 0 (\"Mrs. Crawford and I are running the show\"); says \"as a school board member, I want to be able to explain where they fit into the budget\" at segment 329; Ben Nester addresses her as \"candy\" (Candace) at segment 562 - onset of her own question, \"With which / line are you referring to?\" (segment 662)"
+    },
+    "664": {
+      "name": "Ben Nester",
+      "role": "Director of Special Education, SAU 6 - Sprague says at segment 1 \"we've invited Ben back to get some specificity\" on special ed; he presents the special-education budget from segment 208; Sprague addresses him as \"Ben\" at segments 616 and 625; Mary Henry names him in the third person at segment 346 (\"if Ben put those numbers in\") - inside his own turn (segments 663-665)"
+    },
+    "666": {
+      "name": "Candace Crawford",
+      "role": "Claremont School Board member; finance/budget subcommittee - named by Sprague at segment 0 (\"Mrs. Crawford and I are running the show\"); says \"as a school board member, I want to be able to explain where they fit into the budget\" at segment 329; Ben Nester addresses her as \"candy\" (Candace) at segment 562 - onset of her own turn at segment 667"
+    },
+    "673": {
+      "name": "Candace Crawford",
+      "role": "Claremont School Board member; finance/budget subcommittee - named by Sprague at segment 0 (\"Mrs. Crawford and I are running the show\"); says \"as a school board member, I want to be able to explain where they fit into the budget\" at segment 329; Ben Nester addresses her as \"candy\" (Candace) at segment 562 - onset of her own turn at segment 674"
+    },
+    "676": {
+      "name": "Frank Sprague",
+      "role": "Chair, Claremont School Board finance/budget subcommittee; Vice Chair, Claremont School Board - opens the meeting at segment 0 (\"This is the latest installment of the finance committee meeting. Mrs. Whitney is in Las Vegas getting a well-deserved break. So Mrs. Crawford and I are running the show\"), introduces the administrators at segment 1, runs the page-by-page walk of the FY25 book, and is addressed as \"Frank\" by Mary Henry at segments 235, 468, 669 and 711 and by Ben Nester at segments 321, 336, 343, 397, 598 and 608 - completes his own question, \"Is that the / the answer\" (segment 675)"
+    },
+    "678": {
+      "name": "Mary Henry",
+      "role": "Business Administrator, Claremont School District / SAU 6 - introduced at segment 1 (\"Mary Henry, who's our business administrator\"), addressed as \"Mary\" by Ben Nester at segment 584, edits the budget file live (\"So I'm removing them right now\", segment 480; \"I did reorganize that\", segment 688), and speaks of Ben Nester in the third person at segment 346 - inside her own turn as she hunts the account code (segments 677-680)"
+    },
+    "686": {
+      "name": "Candace Crawford",
+      "role": "Claremont School Board member; finance/budget subcommittee - named by Sprague at segment 0 (\"Mrs. Crawford and I are running the show\"); says \"as a school board member, I want to be able to explain where they fit into the budget\" at segment 329; Ben Nester addresses her as \"candy\" (Candace) at segment 562 - inside her own turn (segments 685-687)"
+    },
+    "694": {
+      "name": "Candace Crawford",
+      "role": "Claremont School Board member; finance/budget subcommittee - named by Sprague at segment 0 (\"Mrs. Crawford and I are running the show\"); says \"as a school board member, I want to be able to explain where they fit into the budget\" at segment 329; Ben Nester addresses her as \"candy\" (Candace) at segment 562 - onset of her own turn at segment 695"
+    },
+    "696": {
+      "name": "Candace Crawford",
+      "role": "Claremont School Board member; finance/budget subcommittee - named by Sprague at segment 0 (\"Mrs. Crawford and I are running the show\"); says \"as a school board member, I want to be able to explain where they fit into the budget\" at segment 329; Ben Nester addresses her as \"candy\" (Candace) at segment 562 - continues her own \"So. Yeah. Okay.\" at segment 695"
+    },
+    "698": {
+      "name": "Candace Crawford",
+      "role": "Claremont School Board member; finance/budget subcommittee - named by Sprague at segment 0 (\"Mrs. Crawford and I are running the show\"); says \"as a school board member, I want to be able to explain where they fit into the budget\" at segment 329; Ben Nester addresses her as \"candy\" (Candace) at segment 562 - her assent, answered by Henry's \"Yep\" at segment 699"
+    },
+    "701": {
+      "name": "Frank Sprague",
+      "role": "Chair, Claremont School Board finance/budget subcommittee; Vice Chair, Claremont School Board - opens the meeting at segment 0 (\"This is the latest installment of the finance committee meeting. Mrs. Whitney is in Las Vegas getting a well-deserved break. So Mrs. Crawford and I are running the show\"), introduces the administrators at segment 1, runs the page-by-page walk of the FY25 book, and is addressed as \"Frank\" by Mary Henry at segments 235, 468, 669 and 711 and by Ben Nester at segments 321, 336, 343, 397, 598 and 608 - completes his own sentence at segment 700"
+    },
+    "704": {
+      "name": "Candace Crawford",
+      "role": "Claremont School Board member; finance/budget subcommittee - named by Sprague at segment 0 (\"Mrs. Crawford and I are running the show\"); says \"as a school board member, I want to be able to explain where they fit into the budget\" at segment 329; Ben Nester addresses her as \"candy\" (Candace) at segment 562 - her comment, echoed back by Henry at segment 705 (\"It's close. Yeah.\")"
+    },
+    "707": {
+      "name": "Candace Crawford",
+      "role": "Claremont School Board member; finance/budget subcommittee - named by Sprague at segment 0 (\"Mrs. Crawford and I are running the show\"); says \"as a school board member, I want to be able to explain where they fit into the budget\" at segment 329; Ben Nester addresses her as \"candy\" (Candace) at segment 562 - asks Sprague which page and he answers at segment 708; same pattern as segment 463"
+    },
+    "715": {
+      "name": "Candace Crawford",
+      "role": "Claremont School Board member; finance/budget subcommittee - named by Sprague at segment 0 (\"Mrs. Crawford and I are running the show\"); says \"as a school board member, I want to be able to explain where they fit into the budget\" at segment 329; Ben Nester addresses her as \"candy\" (Candace) at segment 562 - completes her own sentence, \"It's housed at the high / school, but\" (segment 714)"
+    },
+    "719": {
+      "name": "Mary Henry",
+      "role": "Business Administrator, Claremont School District / SAU 6 - introduced at segment 1 (\"Mary Henry, who's our business administrator\"), addressed as \"Mary\" by Ben Nester at segment 584, edits the budget file live (\"So I'm removing them right now\", segment 480; \"I did reorganize that\", segment 688), and speaks of Ben Nester in the third person at segment 346 - her answer, doubled in her own segment 720"
+    },
+    "722": {
+      "name": "Michael Tempesta",
+      "role": "Superintendent of Schools, SAU 6 - introduced at segment 1 (\"Superintendent Michael Tempesta\"); Ben Nester invites him in with \"Mike, feel free to join\" at segment 210 and this voice answers at 214; says \"I'm going to meet with Principal Romeo\" at segment 806 and sets the 12/14 schedule meeting with the union at segment 852. NOT Mike Koski, whom Mary Henry describes in the third person as someone she \"would have to ask\" at segments 681-683 - onset of his own turn at segment 723"
+    },
+    "727": {
+      "name": "Mary Henry",
+      "role": "Business Administrator, Claremont School District / SAU 6 - introduced at segment 1 (\"Mary Henry, who's our business administrator\"), addressed as \"Mary\" by Ben Nester at segment 584, edits the budget file live (\"So I'm removing them right now\", segment 480; \"I did reorganize that\", segment 688), and speaks of Ben Nester in the third person at segment 346 - onset of her own answer at segment 728"
+    },
+    "733": {
+      "name": "Michael Tempesta",
+      "role": "Superintendent of Schools, SAU 6 - introduced at segment 1 (\"Superintendent Michael Tempesta\"); Ben Nester invites him in with \"Mike, feel free to join\" at segment 210 and this voice answers at 214; says \"I'm going to meet with Principal Romeo\" at segment 806 and sets the 12/14 schedule meeting with the union at segment 852. NOT Mike Koski, whom Mary Henry describes in the third person as someone she \"would have to ask\" at segments 681-683 - completes his own sentence, \"I think we / got it\" (segment 732)"
+    },
+    "735": {
+      "name": "Frank Sprague",
+      "role": "Chair, Claremont School Board finance/budget subcommittee; Vice Chair, Claremont School Board - opens the meeting at segment 0 (\"This is the latest installment of the finance committee meeting. Mrs. Whitney is in Las Vegas getting a well-deserved break. So Mrs. Crawford and I are running the show\"), introduces the administrators at segment 1, runs the page-by-page walk of the FY25 book, and is addressed as \"Frank\" by Mary Henry at segments 235, 468, 669 and 711 and by Ben Nester at segments 321, 336, 343, 397, 598 and 608 - his assent; he raised the double-count at segments 726/729 and continues at 737 (medium confidence)"
+    },
+    "738": {
+      "name": "Frank Sprague",
+      "role": "Chair, Claremont School Board finance/budget subcommittee; Vice Chair, Claremont School Board - opens the meeting at segment 0 (\"This is the latest installment of the finance committee meeting. Mrs. Whitney is in Las Vegas getting a well-deserved break. So Mrs. Crawford and I are running the show\"), introduces the administrators at segment 1, runs the page-by-page walk of the FY25 book, and is addressed as \"Frank\" by Mary Henry at segments 235, 468, 669 and 711 and by Ben Nester at segments 321, 336, 343, 397, 598 and 608 - inside his own sentence, \"We picked / up on\" (segments 737-739)"
+    },
+    "742": {
+      "name": "Mary Henry",
+      "role": "Business Administrator, Claremont School District / SAU 6 - introduced at segment 1 (\"Mary Henry, who's our business administrator\"), addressed as \"Mary\" by Ben Nester at segment 584, edits the budget file live (\"So I'm removing them right now\", segment 480; \"I did reorganize that\", segment 688), and speaks of Ben Nester in the third person at segment 346 - her assent before her own \"Thank you\" at segment 743"
+    },
+    "746": {
+      "name": "Ben Nester",
+      "role": "Director of Special Education, SAU 6 - Sprague says at segment 1 \"we've invited Ben back to get some specificity\" on special ed; he presents the special-education budget from segment 208; Sprague addresses him as \"Ben\" at segments 616 and 625; Mary Henry names him in the third person at segment 346 (\"if Ben put those numbers in\") - onset of his own answer, \"Page / four in district wide\" (segment 747)"
+    },
+    "749": {
+      "name": "Ben Nester",
+      "role": "Director of Special Education, SAU 6 - Sprague says at segment 1 \"we've invited Ben back to get some specificity\" on special ed; he presents the special-education budget from segment 208; Sprague addresses him as \"Ben\" at segments 616 and 625; Mary Henry names him in the third person at segment 346 (\"if Ben put those numbers in\") - his confirmation of Sprague's \"This is summer school\" (segment 748)"
+    },
+    "752": {
+      "name": "Ben Nester",
+      "role": "Director of Special Education, SAU 6 - Sprague says at segment 1 \"we've invited Ben back to get some specificity\" on special ed; he presents the special-education budget from segment 208; Sprague addresses him as \"Ben\" at segments 616 and 625; Mary Henry names him in the third person at segment 346 (\"if Ben put those numbers in\") - inside his own sentence (segments 751-753)"
+    },
+    "754": {
+      "name": "Candace Crawford",
+      "role": "Claremont School Board member; finance/budget subcommittee - named by Sprague at segment 0 (\"Mrs. Crawford and I are running the show\"); says \"as a school board member, I want to be able to explain where they fit into the budget\" at segment 329; Ben Nester addresses her as \"candy\" (Candace) at segment 562 - onset of her own turn at segment 755"
+    },
+    "756": {
+      "name": "Candace Crawford",
+      "role": "Claremont School Board member; finance/budget subcommittee - named by Sprague at segment 0 (\"Mrs. Crawford and I are running the show\"); says \"as a school board member, I want to be able to explain where they fit into the budget\" at segment 329; Ben Nester addresses her as \"candy\" (Candace) at segment 562 - continues her own \"This summer\" at segment 755"
+    },
+    "758": {
+      "name": "Mary Henry",
+      "role": "Business Administrator, Claremont School District / SAU 6 - introduced at segment 1 (\"Mary Henry, who's our business administrator\"), addressed as \"Mary\" by Ben Nester at segment 584, edits the budget file live (\"So I'm removing them right now\", segment 480; \"I did reorganize that\", segment 688), and speaks of Ben Nester in the third person at segment 346 - onset of her own turn at segment 759"
+    },
+    "760": {
+      "name": "Mary Henry",
+      "role": "Business Administrator, Claremont School District / SAU 6 - introduced at segment 1 (\"Mary Henry, who's our business administrator\"), addressed as \"Mary\" by Ben Nester at segment 584, edits the budget file live (\"So I'm removing them right now\", segment 480; \"I did reorganize that\", segment 688), and speaks of Ben Nester in the third person at segment 346 - completes her own sentence, \"This is the last summer. We can / do it\" (segment 759)"
+    },
+    "762": {
+      "name": "Candace Crawford",
+      "role": "Claremont School Board member; finance/budget subcommittee - named by Sprague at segment 0 (\"Mrs. Crawford and I are running the show\"); says \"as a school board member, I want to be able to explain where they fit into the budget\" at segment 329; Ben Nester addresses her as \"candy\" (Candace) at segment 562 - continues her own turn at segment 761 (\"ESSER... ESY?\" as the ASR heard it)"
+    },
+    "767": {
+      "name": "Michael Tempesta",
+      "role": "Superintendent of Schools, SAU 6 - introduced at segment 1 (\"Superintendent Michael Tempesta\"); Ben Nester invites him in with \"Mike, feel free to join\" at segment 210 and this voice answers at 214; says \"I'm going to meet with Principal Romeo\" at segment 806 and sets the 12/14 schedule meeting with the union at segment 852. NOT Mike Koski, whom Mary Henry describes in the third person as someone she \"would have to ask\" at segments 681-683 - inside his own definition of ESY (segments 766-768)"
+    },
+    "769": {
+      "name": "Frank Sprague",
+      "role": "Chair, Claremont School Board finance/budget subcommittee; Vice Chair, Claremont School Board - opens the meeting at segment 0 (\"This is the latest installment of the finance committee meeting. Mrs. Whitney is in Las Vegas getting a well-deserved break. So Mrs. Crawford and I are running the show\"), introduces the administrators at segment 1, runs the page-by-page walk of the FY25 book, and is addressed as \"Frank\" by Mary Henry at segments 235, 468, 669 and 711 and by Ben Nester at segments 321, 336, 343, 397, 598 and 608 - his assent before his own long turn at segment 770"
+    },
+    "773": {
+      "name": "Ben Nester",
+      "role": "Director of Special Education, SAU 6 - Sprague says at segment 1 \"we've invited Ben back to get some specificity\" on special ed; he presents the special-education budget from segment 208; Sprague addresses him as \"Ben\" at segments 616 and 625; Mary Henry names him in the third person at segment 346 (\"if Ben put those numbers in\") - onset of his own turn at segment 774"
+    },
+    "776": {
+      "name": "Ben Nester",
+      "role": "Director of Special Education, SAU 6 - Sprague says at segment 1 \"we've invited Ben back to get some specificity\" on special ed; he presents the special-education budget from segment 208; Sprague addresses him as \"Ben\" at segments 616 and 625; Mary Henry names him in the third person at segment 346 (\"if Ben put those numbers in\") - his confirmation of Sprague's \"So special ed teacher\" (segment 775)"
+    },
+    "782": {
+      "name": "Frank Sprague",
+      "role": "Chair, Claremont School Board finance/budget subcommittee; Vice Chair, Claremont School Board - opens the meeting at segment 0 (\"This is the latest installment of the finance committee meeting. Mrs. Whitney is in Las Vegas getting a well-deserved break. So Mrs. Crawford and I are running the show\"), introduces the administrators at segment 1, runs the page-by-page walk of the FY25 book, and is addressed as \"Frank\" by Mary Henry at segments 235, 468, 669 and 711 and by Ben Nester at segments 321, 336, 343, 397, 598 and 608 - his assent before his own \"What else did we have\" at segment 783"
+    },
+    "784": {
+      "name": "Frank Sprague",
+      "role": "Chair, Claremont School Board finance/budget subcommittee; Vice Chair, Claremont School Board - opens the meeting at segment 0 (\"This is the latest installment of the finance committee meeting. Mrs. Whitney is in Las Vegas getting a well-deserved break. So Mrs. Crawford and I are running the show\"), introduces the administrators at segment 1, runs the page-by-page walk of the FY25 book, and is addressed as \"Frank\" by Mary Henry at segments 235, 468, 669 and 711 and by Ben Nester at segments 321, 336, 343, 397, 598 and 608 - completes his own question, \"What else did we have / for today?\" (segment 783)"
+    },
+    "786": {
+      "name": "Candace Crawford",
+      "role": "Claremont School Board member; finance/budget subcommittee - named by Sprague at segment 0 (\"Mrs. Crawford and I are running the show\"); says \"as a school board member, I want to be able to explain where they fit into the budget\" at segment 329; Ben Nester addresses her as \"candy\" (Candace) at segment 562 - completes her own sentence, \"That's all / I had\" (segment 785)"
+    },
+    "788": {
+      "name": "Candace Crawford",
+      "role": "Claremont School Board member; finance/budget subcommittee - named by Sprague at segment 0 (\"Mrs. Crawford and I are running the show\"); says \"as a school board member, I want to be able to explain where they fit into the budget\" at segment 329; Ben Nester addresses her as \"candy\" (Candace) at segment 562 - her reaction to Sprague forgetting his computer (segment 787)"
+    },
+    "790": {
+      "name": "Candace Crawford",
+      "role": "Claremont School Board member; finance/budget subcommittee - named by Sprague at segment 0 (\"Mrs. Crawford and I are running the show\"); says \"as a school board member, I want to be able to explain where they fit into the budget\" at segment 329; Ben Nester addresses her as \"candy\" (Candace) at segment 562 - her assent to Sprague's suggestion at segment 789"
+    },
+    "800": {
+      "name": "Frank Sprague",
+      "role": "Chair, Claremont School Board finance/budget subcommittee; Vice Chair, Claremont School Board - opens the meeting at segment 0 (\"This is the latest installment of the finance committee meeting. Mrs. Whitney is in Las Vegas getting a well-deserved break. So Mrs. Crawford and I are running the show\"), introduces the administrators at segment 1, runs the page-by-page walk of the FY25 book, and is addressed as \"Frank\" by Mary Henry at segments 235, 468, 669 and 711 and by Ben Nester at segments 321, 336, 343, 397, 598 and 608 - completes his own question, \"They took a middle school or / high school?\" (segment 799)"
+    },
+    "808": {
+      "name": "Candace Crawford",
+      "role": "Claremont School Board member; finance/budget subcommittee - named by Sprague at segment 0 (\"Mrs. Crawford and I are running the show\"); says \"as a school board member, I want to be able to explain where they fit into the budget\" at segment 329; Ben Nester addresses her as \"candy\" (Candace) at segment 562 - completes her own sentence, \"if we don't / have\" (segment 807)"
+    },
+    "810": {
+      "name": "Michael Tempesta",
+      "role": "Superintendent of Schools, SAU 6 - introduced at segment 1 (\"Superintendent Michael Tempesta\"); Ben Nester invites him in with \"Mike, feel free to join\" at segment 210 and this voice answers at 214; says \"I'm going to meet with Principal Romeo\" at segment 806 and sets the 12/14 schedule meeting with the union at segment 852. NOT Mike Koski, whom Mary Henry describes in the third person as someone she \"would have to ask\" at segments 681-683 - completes his own sentence, \"...already started all / this stuff\" (segment 809)"
+    },
+    "812": {
+      "name": "Candace Crawford",
+      "role": "Claremont School Board member; finance/budget subcommittee - named by Sprague at segment 0 (\"Mrs. Crawford and I are running the show\"); says \"as a school board member, I want to be able to explain where they fit into the budget\" at segment 329; Ben Nester addresses her as \"candy\" (Candace) at segment 562 - completes her own sentence, \"what that / looks like\" (segment 811)"
+    },
+    "814": {
+      "name": "Frank Sprague",
+      "role": "Chair, Claremont School Board finance/budget subcommittee; Vice Chair, Claremont School Board - opens the meeting at segment 0 (\"This is the latest installment of the finance committee meeting. Mrs. Whitney is in Las Vegas getting a well-deserved break. So Mrs. Crawford and I are running the show\"), introduces the administrators at segment 1, runs the page-by-page walk of the FY25 book, and is addressed as \"Frank\" by Mary Henry at segments 235, 468, 669 and 711 and by Ben Nester at segments 321, 336, 343, 397, 598 and 608 - onset of his own turn at segment 815"
+    },
+    "817": {
+      "name": "Candace Crawford",
+      "role": "Claremont School Board member; finance/budget subcommittee - named by Sprague at segment 0 (\"Mrs. Crawford and I are running the show\"); says \"as a school board member, I want to be able to explain where they fit into the budget\" at segment 329; Ben Nester addresses her as \"candy\" (Candace) at segment 562 - inside her own turn (segments 816-818)"
+    },
+    "820": {
+      "name": "Mary Henry",
+      "role": "Business Administrator, Claremont School District / SAU 6 - introduced at segment 1 (\"Mary Henry, who's our business administrator\"), addressed as \"Mary\" by Ben Nester at segment 584, edits the budget file live (\"So I'm removing them right now\", segment 480; \"I did reorganize that\", segment 688), and speaks of Ben Nester in the third person at segment 346 - onset of her own turn at segment 821"
+    },
+    "824": {
+      "name": "Mary Henry",
+      "role": "Business Administrator, Claremont School District / SAU 6 - introduced at segment 1 (\"Mary Henry, who's our business administrator\"), addressed as \"Mary\" by Ben Nester at segment 584, edits the budget file live (\"So I'm removing them right now\", segment 480; \"I did reorganize that\", segment 688), and speaks of Ben Nester in the third person at segment 346 - completes her own sentence at segment 823"
+    },
+    "827": {
+      "name": "Mary Henry",
+      "role": "Business Administrator, Claremont School District / SAU 6 - introduced at segment 1 (\"Mary Henry, who's our business administrator\"), addressed as \"Mary\" by Ben Nester at segment 584, edits the budget file live (\"So I'm removing them right now\", segment 480; \"I did reorganize that\", segment 688), and speaks of Ben Nester in the third person at segment 346 - onset of her own answer at segment 828"
+    },
+    "829": {
+      "name": "Mary Henry",
+      "role": "Business Administrator, Claremont School District / SAU 6 - introduced at segment 1 (\"Mary Henry, who's our business administrator\"), addressed as \"Mary\" by Ben Nester at segment 584, edits the budget file live (\"So I'm removing them right now\", segment 480; \"I did reorganize that\", segment 688), and speaks of Ben Nester in the third person at segment 346 - completes her own sentence, \"I guess we could / have coming\" (segment 828)"
+    },
+    "832": {
+      "name": "Candace Crawford",
+      "role": "Claremont School Board member; finance/budget subcommittee - named by Sprague at segment 0 (\"Mrs. Crawford and I are running the show\"); says \"as a school board member, I want to be able to explain where they fit into the budget\" at segment 329; Ben Nester addresses her as \"candy\" (Candace) at segment 562 - onset of her own sentence, \"No, no, it's not / on the agenda\" (segment 833)"
+    },
+    "835": {
+      "name": "Candace Crawford",
+      "role": "Claremont School Board member; finance/budget subcommittee - named by Sprague at segment 0 (\"Mrs. Crawford and I are running the show\"); says \"as a school board member, I want to be able to explain where they fit into the budget\" at segment 329; Ben Nester addresses her as \"candy\" (Candace) at segment 562 - onset of her own turn at segment 836"
+    },
+    "839": {
+      "name": "Frank Sprague",
+      "role": "Chair, Claremont School Board finance/budget subcommittee; Vice Chair, Claremont School Board - opens the meeting at segment 0 (\"This is the latest installment of the finance committee meeting. Mrs. Whitney is in Las Vegas getting a well-deserved break. So Mrs. Crawford and I are running the show\"), introduces the administrators at segment 1, runs the page-by-page walk of the FY25 book, and is addressed as \"Frank\" by Mary Henry at segments 235, 468, 669 and 711 and by Ben Nester at segments 321, 336, 343, 397, 598 and 608 - onset of his own sentence, \"I don't want / the perception that we're working in a vacuum\" (segment 840)"
+    },
+    "842": {
+      "name": "Candace Crawford",
+      "role": "Claremont School Board member; finance/budget subcommittee - named by Sprague at segment 0 (\"Mrs. Crawford and I are running the show\"); says \"as a school board member, I want to be able to explain where they fit into the budget\" at segment 329; Ben Nester addresses her as \"candy\" (Candace) at segment 562 - onset of her own turn at segment 843"
+    },
+    "848": {
+      "name": "Candace Crawford",
+      "role": "Claremont School Board member; finance/budget subcommittee - named by Sprague at segment 0 (\"Mrs. Crawford and I are running the show\"); says \"as a school board member, I want to be able to explain where they fit into the budget\" at segment 329; Ben Nester addresses her as \"candy\" (Candace) at segment 562 - her assent between Henry's sentences"
+    },
+    "850": {
+      "name": "Candace Crawford",
+      "role": "Claremont School Board member; finance/budget subcommittee - named by Sprague at segment 0 (\"Mrs. Crawford and I are running the show\"); says \"as a school board member, I want to be able to explain where they fit into the budget\" at segment 329; Ben Nester addresses her as \"candy\" (Candace) at segment 562 - onset of her own \"We understand\" at segment 851"
+    },
+    "853": {
+      "name": "Frank Sprague",
+      "role": "Chair, Claremont School Board finance/budget subcommittee; Vice Chair, Claremont School Board - opens the meeting at segment 0 (\"This is the latest installment of the finance committee meeting. Mrs. Whitney is in Las Vegas getting a well-deserved break. So Mrs. Crawford and I are running the show\"), introduces the administrators at segment 1, runs the page-by-page walk of the FY25 book, and is addressed as \"Frank\" by Mary Henry at segments 235, 468, 669 and 711 and by Ben Nester at segments 321, 336, 343, 397, 598 and 608 - onset of his own turn at segment 854"
+    },
+    "855": {
+      "name": "Frank Sprague",
+      "role": "Chair, Claremont School Board finance/budget subcommittee; Vice Chair, Claremont School Board - opens the meeting at segment 0 (\"This is the latest installment of the finance committee meeting. Mrs. Whitney is in Las Vegas getting a well-deserved break. So Mrs. Crawford and I are running the show\"), introduces the administrators at segment 1, runs the page-by-page walk of the FY25 book, and is addressed as \"Frank\" by Mary Henry at segments 235, 468, 669 and 711 and by Ben Nester at segments 321, 336, 343, 397, 598 and 608 - inside his own sentence, \"...not feeling they're / part / of the process\" (segments 854-856)"
+    },
+    "857": {
+      "name": "Candace Crawford",
+      "role": "Claremont School Board member; finance/budget subcommittee - named by Sprague at segment 0 (\"Mrs. Crawford and I are running the show\"); says \"as a school board member, I want to be able to explain where they fit into the budget\" at segment 329; Ben Nester addresses her as \"candy\" (Candace) at segment 562 - onset of her own turn at segment 858"
+    },
+    "860": {
+      "name": "Frank Sprague",
+      "role": "Chair, Claremont School Board finance/budget subcommittee; Vice Chair, Claremont School Board - opens the meeting at segment 0 (\"This is the latest installment of the finance committee meeting. Mrs. Whitney is in Las Vegas getting a well-deserved break. So Mrs. Crawford and I are running the show\"), introduces the administrators at segment 1, runs the page-by-page walk of the FY25 book, and is addressed as \"Frank\" by Mary Henry at segments 235, 468, 669 and 711 and by Ben Nester at segments 321, 336, 343, 397, 598 and 608 - inside his own turn (segments 859-861)"
+    },
+    "863": {
+      "name": "Mary Henry",
+      "role": "Business Administrator, Claremont School District / SAU 6 - introduced at segment 1 (\"Mary Henry, who's our business administrator\"), addressed as \"Mary\" by Ben Nester at segment 584, edits the budget file live (\"So I'm removing them right now\", segment 480; \"I did reorganize that\", segment 688), and speaks of Ben Nester in the third person at segment 346 - onset of her own turn at segment 864"
+    },
+    "866": {
+      "name": "Michael Tempesta",
+      "role": "Superintendent of Schools, SAU 6 - introduced at segment 1 (\"Superintendent Michael Tempesta\"); Ben Nester invites him in with \"Mike, feel free to join\" at segment 210 and this voice answers at 214; says \"I'm going to meet with Principal Romeo\" at segment 806 and sets the 12/14 schedule meeting with the union at segment 852. NOT Mike Koski, whom Mary Henry describes in the third person as someone she \"would have to ask\" at segments 681-683 - inside his own turn (segments 865-867)"
+    },
+    "868": {
+      "name": "Frank Sprague",
+      "role": "Chair, Claremont School Board finance/budget subcommittee; Vice Chair, Claremont School Board - opens the meeting at segment 0 (\"This is the latest installment of the finance committee meeting. Mrs. Whitney is in Las Vegas getting a well-deserved break. So Mrs. Crawford and I are running the show\"), introduces the administrators at segment 1, runs the page-by-page walk of the FY25 book, and is addressed as \"Frank\" by Mary Henry at segments 235, 468, 669 and 711 and by Ben Nester at segments 321, 336, 343, 397, 598 and 608 - onset of his own sentence, \"I don't / see the. I don't see / the harm in\" (segments 869-870)"
+    },
+    "870": {
+      "name": "Frank Sprague",
+      "role": "Chair, Claremont School Board finance/budget subcommittee; Vice Chair, Claremont School Board - opens the meeting at segment 0 (\"This is the latest installment of the finance committee meeting. Mrs. Whitney is in Las Vegas getting a well-deserved break. So Mrs. Crawford and I are running the show\"), introduces the administrators at segment 1, runs the page-by-page walk of the FY25 book, and is addressed as \"Frank\" by Mary Henry at segments 235, 468, 669 and 711 and by Ben Nester at segments 321, 336, 343, 397, 598 and 608 - completes his own sentence at segment 869; he repeats it at segment 875"
+    },
+    "872": {
+      "name": "Michael Tempesta",
+      "role": "Superintendent of Schools, SAU 6 - introduced at segment 1 (\"Superintendent Michael Tempesta\"); Ben Nester invites him in with \"Mike, feel free to join\" at segment 210 and this voice answers at 214; says \"I'm going to meet with Principal Romeo\" at segment 806 and sets the 12/14 schedule meeting with the union at segment 852. NOT Mike Koski, whom Mary Henry describes in the third person as someone she \"would have to ask\" at segments 681-683 - completes his own sentence, \"There's no / harm in\" (segment 871)"
+    },
+    "876": {
+      "name": "Frank Sprague",
+      "role": "Chair, Claremont School Board finance/budget subcommittee; Vice Chair, Claremont School Board - opens the meeting at segment 0 (\"This is the latest installment of the finance committee meeting. Mrs. Whitney is in Las Vegas getting a well-deserved break. So Mrs. Crawford and I are running the show\"), introduces the administrators at segment 1, runs the page-by-page walk of the FY25 book, and is addressed as \"Frank\" by Mary Henry at segments 235, 468, 669 and 711 and by Ben Nester at segments 321, 336, 343, 397, 598 and 608 - completes his own sentence at segment 875"
+    },
+    "878": {
+      "name": "Frank Sprague",
+      "role": "Chair, Claremont School Board finance/budget subcommittee; Vice Chair, Claremont School Board - opens the meeting at segment 0 (\"This is the latest installment of the finance committee meeting. Mrs. Whitney is in Las Vegas getting a well-deserved break. So Mrs. Crawford and I are running the show\"), introduces the administrators at segment 1, runs the page-by-page walk of the FY25 book, and is addressed as \"Frank\" by Mary Henry at segments 235, 468, 669 and 711 and by Ben Nester at segments 321, 336, 343, 397, 598 and 608 - completes his own sentence, \"I'd rather be corrected / than agreed\" (segment 877)"
+    },
+    "885": {
+      "name": "Mary Henry",
+      "role": "Business Administrator, Claremont School District / SAU 6 - introduced at segment 1 (\"Mary Henry, who's our business administrator\"), addressed as \"Mary\" by Ben Nester at segment 584, edits the budget file live (\"So I'm removing them right now\", segment 480; \"I did reorganize that\", segment 688), and speaks of Ben Nester in the third person at segment 346 - continues her own closing remark at segment 884"
+    }
+  }
+}

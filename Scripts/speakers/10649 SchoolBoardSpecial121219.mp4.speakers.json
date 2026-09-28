@@ -1,0 +1,409 @@
+{
+ "Speaker 1": {
+  "name": "Frank Sprague",
+  "role": "Claremont School Board Chair"
+ },
+ "Speaker 2": {
+  "name": "Unidentified",
+  "role": "Unidentified - cluster mixes several public commenters and a board seconder; see overrides"
+ },
+ "Speaker 3": {
+  "name": "Unidentified",
+  "role": "School District Moderator (presides; not named on the recording)"
+ },
+ "Speaker 4": {
+  "name": "Michael Tempesta",
+  "role": "Superintendent, SAU 6"
+ },
+ "Speaker 5": {
+  "name": "Jason Benware",
+  "role": "Claremont School Board member (speaking from the floor as a Ward 1 resident)"
+ },
+ "Speaker 6": {
+  "name": "Unidentified",
+  "role": "School District Moderator (presides; not named on the recording)"
+ },
+ "Speaker 7": {
+  "name": "Unidentified",
+  "role": "School District Moderator (presides; not named on the recording)"
+ },
+ "Speaker 8": {
+  "name": "Unidentified",
+  "role": "Attendee, not a registered voter (not named)"
+ },
+ "Speaker 9": {
+  "name": "Michael Tempesta",
+  "role": "Superintendent, SAU 6"
+ },
+ "Speaker 10": {
+  "name": "Tom",
+  "role": "Public commenter (first name only, moderator says 'Tom?' at [165]; uncertain)"
+ },
+ "Speaker 11": {
+  "name": "Frank Sprague",
+  "role": "Claremont School Board Chair"
+ },
+ "__overrides__": {
+  "95": {
+   "name": "Cynthia Howard",
+   "role": "Public commenter, Ward 2 (ASR 'Howard Ward two'; full name from the 11/21/2019 meeting, uncertain)"
+  },
+  "96": {
+   "name": "Cynthia Howard",
+   "role": "Public commenter, Ward 2 (ASR 'Howard Ward two'; full name from the 11/21/2019 meeting, uncertain)"
+  },
+  "97": {
+   "name": "Cynthia Howard",
+   "role": "Public commenter, Ward 2 (ASR 'Howard Ward two'; full name from the 11/21/2019 meeting, uncertain)"
+  },
+  "98": {
+   "name": "Cynthia Howard",
+   "role": "Public commenter, Ward 2 (ASR 'Howard Ward two'; full name from the 11/21/2019 meeting, uncertain)"
+  },
+  "102": {
+   "name": "Daryl",
+   "role": "Public commenter, Ward 1, longtime Claremont School District employee (first name only as heard, ASR 'Daryl'; uncertain)"
+  },
+  "104": {
+   "name": "Daryl",
+   "role": "Public commenter, Ward 1, longtime Claremont School District employee (first name only as heard, ASR 'Daryl'; uncertain)"
+  },
+  "117": {
+   "name": "Cassie Burke",
+   "role": "Public commenter, Ward 3, parent (ASR 'Kathy Burke for three'; the same parent spoke as 'Kasey/Cassie Burke' on 12/4/2019; spelling unverified)"
+  },
+  "120": {
+   "name": "Cassie Burke",
+   "role": "Public commenter, Ward 3, parent (ASR 'Kathy Burke for three'; the same parent spoke as 'Kasey/Cassie Burke' on 12/4/2019; spelling unverified)"
+  },
+  "121": {
+   "name": "Cassie Burke",
+   "role": "Public commenter, Ward 3, parent (ASR 'Kathy Burke for three'; the same parent spoke as 'Kasey/Cassie Burke' on 12/4/2019; spelling unverified)"
+  },
+  "122": {
+   "name": "Cassie Burke",
+   "role": "Public commenter, Ward 3, parent (ASR 'Kathy Burke for three'; the same parent spoke as 'Kasey/Cassie Burke' on 12/4/2019; spelling unverified)"
+  },
+  "123": {
+   "name": "Cassie Burke",
+   "role": "Public commenter, Ward 3, parent (ASR 'Kathy Burke for three'; the same parent spoke as 'Kasey/Cassie Burke' on 12/4/2019; spelling unverified)"
+  },
+  "147": {
+   "name": "Unidentified",
+   "role": "Public commenter speaking in favor, before 'Thank you Tracy' (name not audible)"
+  },
+  "148": {
+   "name": "Unidentified",
+   "role": "Public commenter speaking in favor, before 'Thank you Tracy' (name not audible)"
+  },
+  "149": {
+   "name": "Unidentified",
+   "role": "Public commenter speaking in favor, before 'Thank you Tracy' (name not audible)"
+  },
+  "150": {
+   "name": "Unidentified",
+   "role": "Public commenter speaking in favor, before 'Thank you Tracy' (name not audible)"
+  },
+  "151": {
+   "name": "Unidentified",
+   "role": "Public commenter asking about high school vocational and life-skills programs (name not audible)"
+  },
+  "152": {
+   "name": "Unidentified",
+   "role": "Public commenter asking about high school vocational and life-skills programs (name not audible)"
+  },
+  "153": {
+   "name": "Unidentified",
+   "role": "Public commenter asking about high school vocational and life-skills programs (name not audible)"
+  },
+  "155": {
+   "name": "Unidentified",
+   "role": "Public commenter asking about high school vocational and life-skills programs (name not audible)"
+  },
+  "156": {
+   "name": "Unidentified",
+   "role": "Public commenter asking about high school vocational and life-skills programs (name not audible)"
+  },
+  "160": {
+   "name": "Unidentified",
+   "role": "Public commenter asking about high school vocational and life-skills programs (name not audible)"
+  },
+  "162": {
+   "name": "Unidentified",
+   "role": "Public commenter asking about high school vocational and life-skills programs (name not audible)"
+  },
+  "164": {
+   "name": "Unidentified",
+   "role": "Public commenter asking about high school vocational and life-skills programs (name not audible)"
+  },
+  "161": {
+   "name": "Unidentified",
+   "role": "Public commenter asking about high school vocational and life-skills programs (name not audible)"
+  },
+  "36": {
+   "name": "Unidentified",
+   "role": "Unidentified - brief interjection or setup chatter"
+  },
+  "11": {
+   "name": "Frank Sprague"
+  },
+  "12": {
+   "name": "Frank Sprague"
+  },
+  "61": {
+   "name": "Frank Sprague"
+  },
+  "19": {
+   "name": "Matt Upton",
+   "role": "School district attorney, Drummond Woodsum (named by moderator at [18], ASR 'at Upton'; 'Attorney Appleton' at [25])"
+  },
+  "20": {
+   "name": "Matt Upton",
+   "role": "School district attorney, Drummond Woodsum (named by moderator at [18], ASR 'at Upton'; 'Attorney Appleton' at [25])"
+  },
+  "21": {
+   "name": "Matt Upton",
+   "role": "School district attorney, Drummond Woodsum (named by moderator at [18], ASR 'at Upton'; 'Attorney Appleton' at [25])"
+  },
+  "22": {
+   "name": "Matt Upton",
+   "role": "School district attorney, Drummond Woodsum (named by moderator at [18], ASR 'at Upton'; 'Attorney Appleton' at [25])"
+  },
+  "23": {
+   "name": "Matt Upton",
+   "role": "School district attorney, Drummond Woodsum (named by moderator at [18], ASR 'at Upton'; 'Attorney Appleton' at [25])"
+  },
+  "24": {
+   "name": "Matt Upton",
+   "role": "School district attorney, Drummond Woodsum (named by moderator at [18], ASR 'at Upton'; 'Attorney Appleton' at [25])"
+  },
+  "45": {
+   "name": "Unidentified",
+   "role": "Audience member challenging the moderator on questions (not named)"
+  },
+  "87": {
+   "name": "Unidentified",
+   "role": "Audience member challenging the moderator on questions (not named)"
+  },
+  "53": {
+   "name": "Jason Benware"
+  },
+  "54": {
+   "name": "Jason Benware"
+  },
+  "55": {
+   "name": "Jason Benware"
+  },
+  "59": {
+   "name": "Jason Benware"
+  },
+  "69": {
+   "name": "Unidentified",
+   "role": "Public commenter, Ward 3, speaks against (ASR 'wide man. More'; name not recoverable)"
+  },
+  "70": {
+   "name": "Unidentified",
+   "role": "Public commenter, Ward 3, speaks against (ASR 'wide man. More'; name not recoverable)"
+  },
+  "71": {
+   "name": "Unidentified",
+   "role": "Public commenter, Ward 3, speaks against (ASR 'wide man. More'; name not recoverable)"
+  },
+  "72": {
+   "name": "Unidentified",
+   "role": "Public commenter, Ward 3, speaks against (ASR 'wide man. More'; name not recoverable)"
+  },
+  "73": {
+   "name": "Unidentified",
+   "role": "Public commenter, Ward 3, speaks against (ASR 'wide man. More'; name not recoverable)"
+  },
+  "74": {
+   "name": "Unidentified",
+   "role": "Public commenter, Ward 3, speaks against (ASR 'wide man. More'; name not recoverable)"
+  },
+  "75": {
+   "name": "Unidentified",
+   "role": "Public commenter, Ward 3, speaks against (ASR 'wide man. More'; name not recoverable)"
+  },
+  "76": {
+   "name": "Unidentified",
+   "role": "Public commenter, Ward 3, speaks against (ASR 'wide man. More'; name not recoverable)"
+  },
+  "77": {
+   "name": "Unidentified",
+   "role": "Public commenter, Ward 3, speaks against (ASR 'wide man. More'; name not recoverable)"
+  },
+  "78": {
+   "name": "Unidentified",
+   "role": "Public commenter, Ward 3, speaks against (ASR 'wide man. More'; name not recoverable)"
+  },
+  "79": {
+   "name": "Unidentified",
+   "role": "Public commenter, Ward 3, speaks against (ASR 'wide man. More'; name not recoverable)"
+  },
+  "81": {
+   "name": "Unidentified",
+   "role": "Public commenter, Ward 3, speaks against (ASR 'wide man. More'; name not recoverable)"
+  },
+  "130": {
+   "name": "Unidentified",
+   "role": "Public commenter, retired businessman asking about program growth (name not audible)"
+  },
+  "131": {
+   "name": "Unidentified",
+   "role": "Public commenter, retired businessman asking about program growth (name not audible)"
+  },
+  "132": {
+   "name": "Unidentified",
+   "role": "Public commenter, retired businessman asking about program growth (name not audible)"
+  },
+  "133": {
+   "name": "Unidentified",
+   "role": "Public commenter, retired businessman asking about program growth (name not audible)"
+  },
+  "135": {
+   "name": "Unidentified",
+   "role": "Public commenter, retired businessman asking about program growth (name not audible)"
+  },
+  "136": {
+   "name": "Unidentified",
+   "role": "Public commenter, retired businessman asking about program growth (name not audible)"
+  },
+  "137": {
+   "name": "Unidentified",
+   "role": "Public commenter, retired businessman asking about program growth (name not audible)"
+  },
+  "138": {
+   "name": "Unidentified",
+   "role": "Public commenter, retired businessman asking about program growth (name not audible)"
+  },
+  "139": {
+   "name": "Unidentified",
+   "role": "Public commenter, retired businessman asking about program growth (name not audible)"
+  },
+  "171": {
+   "name": "Unidentified",
+   "role": "Board member or administrator answering commenter on budget pressures (uncertain - content parallels Benware at [90] but not identified)"
+  },
+  "173": {
+   "name": "Unidentified",
+   "role": "Board member or administrator answering commenter on budget pressures (uncertain - content parallels Benware at [90] but not identified)"
+  },
+  "174": {
+   "name": "Unidentified",
+   "role": "Board member or administrator answering commenter on budget pressures (uncertain - content parallels Benware at [90] but not identified)"
+  },
+  "175": {
+   "name": "Unidentified",
+   "role": "Board member or administrator answering commenter on budget pressures (uncertain - content parallels Benware at [90] but not identified)"
+  },
+  "177": {
+   "name": "Unidentified",
+   "role": "Board member or administrator answering commenter on budget pressures (uncertain - content parallels Benware at [90] but not identified)"
+  },
+  "178": {
+   "name": "Unidentified",
+   "role": "Board member or administrator answering commenter on budget pressures (uncertain - content parallels Benware at [90] but not identified)"
+  },
+  "0": {
+   "name": "Unidentified",
+   "role": "Unidentified - brief interjection or setup chatter"
+  },
+  "1": {
+   "name": "Unidentified",
+   "role": "Unidentified - brief interjection or setup chatter"
+  },
+  "47": {
+   "name": "Unidentified",
+   "role": "Audience member challenging the moderator on questions (not named)"
+  },
+  "49": {
+   "name": "Unidentified",
+   "role": "Audience member challenging the moderator on questions (not named)"
+  },
+  "51": {
+   "name": "Unidentified",
+   "role": "Audience member challenging the moderator on questions (not named)"
+  },
+  "37": {
+   "name": "Samantha Bailey",
+   "role": "Public commenter, Ward 3 (ASR 'Samantha Bailey and three'; spelling unverified)"
+  },
+  "41": {
+   "name": "Samantha Bailey",
+   "role": "Public commenter, Ward 3 (ASR 'Samantha Bailey and three'; spelling unverified)"
+  },
+  "43": {
+   "name": "Samantha Bailey",
+   "role": "Public commenter, Ward 3 (ASR 'Samantha Bailey and three'; spelling unverified)"
+  },
+  "56": {
+   "name": "Carolyn Towle",
+   "role": "Claremont School Board member (seconder per moderator [57], ASR 'Carolyn Cole')"
+  },
+  "103": {
+   "name": "Daryl",
+   "role": "Public commenter, Ward 1, longtime Claremont School District employee (first name only as heard, ASR 'Daryl'; uncertain)"
+  },
+  "105": {
+   "name": "Daryl",
+   "role": "Public commenter, Ward 1, longtime Claremont School District employee (first name only as heard, ASR 'Daryl'; uncertain)"
+  },
+  "106": {
+   "name": "Daryl",
+   "role": "Public commenter, Ward 1, longtime Claremont School District employee (first name only as heard, ASR 'Daryl'; uncertain)"
+  },
+  "107": {
+   "name": "Daryl",
+   "role": "Public commenter, Ward 1, longtime Claremont School District employee (first name only as heard, ASR 'Daryl'; uncertain)"
+  },
+  "108": {
+   "name": "Daryl",
+   "role": "Public commenter, Ward 1, longtime Claremont School District employee (first name only as heard, ASR 'Daryl'; uncertain)"
+  },
+  "109": {
+   "name": "Daryl",
+   "role": "Public commenter, Ward 1, longtime Claremont School District employee (first name only as heard, ASR 'Daryl'; uncertain)"
+  },
+  "110": {
+   "name": "Daryl",
+   "role": "Public commenter, Ward 1, longtime Claremont School District employee (first name only as heard, ASR 'Daryl'; uncertain)"
+  },
+  "111": {
+   "name": "Daryl",
+   "role": "Public commenter, Ward 1, longtime Claremont School District employee (first name only as heard, ASR 'Daryl'; uncertain)"
+  },
+  "116": {
+   "name": "Cassie Burke",
+   "role": "Public commenter, Ward 3, parent (ASR 'Kathy Burke for three'; the same parent spoke as 'Kasey/Cassie Burke' on 12/4/2019; spelling unverified)"
+  },
+  "118": {
+   "name": "Cassie Burke",
+   "role": "Public commenter, Ward 3, parent (ASR 'Kathy Burke for three'; the same parent spoke as 'Kasey/Cassie Burke' on 12/4/2019; spelling unverified)"
+  },
+  "119": {
+   "name": "Cassie Burke",
+   "role": "Public commenter, Ward 3, parent (ASR 'Kathy Burke for three'; the same parent spoke as 'Kasey/Cassie Burke' on 12/4/2019; spelling unverified)"
+  },
+  "182": {
+   "name": "Unidentified",
+   "role": "Unidentified - voice-vote response"
+  },
+  "184": {
+   "name": "Unidentified",
+   "role": "Unidentified - voice-vote response"
+  },
+  "190": {
+   "name": "Unidentified",
+   "role": "Unidentified - brief interjection or setup chatter"
+  },
+  "191": {
+   "name": "Unidentified",
+   "role": "Unidentified - brief interjection or setup chatter"
+  },
+  "179": {
+   "name": "Unidentified",
+   "role": "Unidentified - moves the question from the floor ('Madam moderator')"
+  }
+ }
+}

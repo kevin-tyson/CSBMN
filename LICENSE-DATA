@@ -1,0 +1,102 @@
+# License for the data and published output
+
+Copyright 2026 Kevin Tyson.
+
+The material described under "Scope" below is licensed under the
+
+    Creative Commons Attribution 4.0 International License (CC BY 4.0)
+
+SPDX-License-Identifier: CC-BY-4.0
+
+Human-readable summary: https://creativecommons.org/licenses/by/4.0/
+Full legal code:        https://creativecommons.org/licenses/by/4.0/legalcode
+
+The full legal code at the URL above is the operative text of this license and
+is incorporated here by reference.
+
+
+## Scope: what this license covers
+
+This license applies to the authored and machine-generated material produced by
+this project, namely:
+
+  * `Output/HTML/`          the per-meeting pages, their summaries, topic
+                            headings, legal-concern flags and source appendices
+  * `Output/HTML/Dialogue/` the speaker-attributed dialogue CSVs, insofar as the
+                            speaker attribution and segmentation are authored
+  * `Input/Transcripts/`    the machine-generated transcript JSON
+  * `Input/SupportingDocuments/MAP.md`
+                            the meeting-to-document map and its narrative
+  * `Scripts/speakers/*.json`  the per-meeting speaker maps, which are data
+                            rather than code despite living under `Scripts/`
+  * `Scripts/*.md`          the build briefings and inventories
+  * project documentation in Markdown other than the software documentation
+    licensed under `LICENSE`
+
+
+## Scope: what this license does NOT cover, and cannot
+
+### 1. Software
+
+Executable code, meaning the `.py` and `.sh` files under `Scripts/` and
+`Output/`, is licensed under the Apache License 2.0. See `LICENSE`. Each such
+file carries an `SPDX-License-Identifier: Apache-2.0` header so the boundary
+survives a script being copied out on its own. The `.json` and `.md` files that
+also live under `Scripts/` are data and documentation, not code, and fall under
+this license instead.
+
+### 2. Facts
+
+Facts are not subject to copyright and are therefore not licensed by anyone,
+here or elsewhere. *Feist Publications, Inc. v. Rural Telephone Service Co.*,
+499 U.S. 340, 344-345 (1991). Meeting dates, roll-call votes, dollar figures,
+motion texts, attendance and the other underlying facts recorded in this
+repository may be used freely and without attribution to this project. What
+this license covers is the original expression layered over those facts: the
+prose, the characterizations, the selection and the arrangement.
+
+### 3. Records and documents created by the District, SAU 6 or other public
+bodies
+
+This project does not own and does not purport to license the agendas, packets,
+minutes, policies, audits, presentations or recordings created by the Claremont
+School District, SAU 6, the City of Claremont, Claremont Community Television or
+any third-party vendor or consultant appearing in those materials. Those
+documents remain under whatever rights their own authors hold.
+
+Note that copyright is not automatically absent from state and municipal
+records. 17 U.S.C. § 105 withdraws copyright only from works of the *United
+States* Government and does not reach the States or their subdivisions. The
+government edicts doctrine confirmed in *Georgia v. Public.Resource.Org, Inc.*,
+590 U.S. 255, 265-268 (2020) removes copyright from works created by officials
+who are empowered to speak with the force of law, acting in that capacity, which
+plausibly reaches an adopted school-board policy and arguably its minutes, but
+which has not been tested against district packet material such as consultant
+reports and vendor presentations. New Hampshire RSA 91-A confers a right of
+access to governmental records and says nothing about downstream reuse rights.
+
+For that reason this repository links to the District's own published copies of
+those documents rather than mirroring them here. Anyone redistributing them does
+so on their own assessment.
+
+### 4. Words spoken by meeting participants
+
+Extemporaneous remarks are not fixed in a tangible medium "by or under the
+authority of the author" within the meaning of 17 U.S.C. § 102(a), so a
+third-party recording of a public meeting does not create a copyright in the
+speaker. Copyright is not the constraint on the transcripts in this repository.
+Defamation, privacy and accuracy are, and no license addresses those. See
+`DISCLAIMER.md`.
+
+
+## Attribution
+
+Attribution satisfying CC BY 4.0 § 3(a) should take the form:
+
+    Government Transparency Project (Kevin Tyson), <URL of the page or file>,
+    licensed CC BY 4.0. AI-generated content from official sources; not
+    warranted for any use.
+
+CC BY 4.0 § 3(a)(1)(D) requires that the notice referring to the disclaimer of
+warranties be retained. The disclaimer is not decorative and is not severable
+from this material.

@@ -1,0 +1,508 @@
+{
+ "Speaker 1": {
+  "name": "Heather Whitney",
+  "role": "Claremont School Board Vice Chair (SAU 6 Board member) - chair recognises her, 'I saw Heather first', immediately before her turn at 2752s; Erickson later credits 'the question that Heather had'"
+ },
+ "Speaker 2": {
+  "name": "Unidentified",
+  "role": "Single-segment cluster - two-word remark before the meeting is called to order; voice not identifiable"
+ },
+ "Speaker 3": {
+  "name": "Heather Whitney",
+  "role": "Claremont School Board Vice Chair (SAU 6 Board member) - chair recognises her, 'I saw Heather first', immediately before her turn at 2752s; Erickson later credits 'the question that Heather had' (sentence fragments split from her main cluster; answers 'Present' to 'Heather Whitney' in the roll call)"
+ },
+ "Speaker 4": {
+  "name": "Michael Tempesta",
+  "role": "Superintendent, SAU 6 - presides over the election of SAU 6 officers, then gives the Superintendent's Report and reads Richard Seaman's retirement letter"
+ },
+ "Speaker 5": {
+  "name": "Unidentified",
+  "role": "Pledge of Allegiance - group recitation captured as one voice"
+ },
+ "Speaker 6": {
+  "name": "Steven Horsky",
+  "role": "SAU 6 Board Chair - elected at this meeting 6-5 over Marjorie Erickson; Claremont School Board member (ASR 'Hauschka' / 'Steve Gorski' elsewhere in this corpus) (cluster also carries Assistant Superintendent Mike Koski's curriculum report; those segments are reassigned)"
+ },
+ "Speaker 7": {
+  "name": "Whitney Skillen",
+  "role": "Claremont School Board member (SAU 6 Board) - chair's recognition 'Whitney.' absorbed beside her turns at 2010s and 7248s"
+ },
+ "Speaker 8": {
+  "name": "Frank Sprague",
+  "role": "Claremont School Board member (SAU 6 Board) - reads the attendance roll call; chair restates his motion as 'motion made by Frank' at 6002s"
+ },
+ "Speaker 9": {
+  "name": "Unidentified",
+  "role": "Teller announcing the paper-ballot result in the SAU 6 chair election ('Vote is six five'); voice not identifiable"
+ },
+ "Speaker 10": {
+  "name": "Marjorie Erickson",
+  "role": "Unity School Board Chair; outgoing SAU 6 Board Chair - presents the SAU 6 meeting calendar and the policy drafts; chair thanks 'the work that you put into this, Marjorie' (cluster also carries Arlene Hawkins; those segments are reassigned)"
+ },
+ "Speaker 11": {
+  "name": "Stephanie",
+  "role": "Curriculum Director, SAU 6 - surname never stated in the record"
+ },
+ "Speaker 12": {
+  "name": "Rocco Ruggeri",
+  "role": "Unity School Board member; re-elected SAU 6 Board Vice Chair at this meeting - Erickson relays 'Rocco's not available on the 27th' immediately after he gives his availability"
+ },
+ "Speaker 13": {
+  "name": "Steven Horsky",
+  "role": "SAU 6 Board Chair - elected at this meeting 6-5 over Marjorie Erickson; Claremont School Board member (ASR 'Hauschka' / 'Steve Gorski' elsewhere in this corpus) (sentence fragments split from his main cluster)"
+ },
+ "Speaker 14": {
+  "name": "Steven Horsky",
+  "role": "SAU 6 Board Chair - elected at this meeting 6-5 over Marjorie Erickson; Claremont School Board member (ASR 'Hauschka' / 'Steve Gorski' elsewhere in this corpus)"
+ },
+ "Speaker 15": {
+  "name": "Jennifer Gallagher",
+  "role": "Claremont School Board member, elected 3/14/23 to the one-year seat (UNCERTAIN - identified by elimination: calls herself 'new at this', tracks the Claremont board's 4/19 meeting date, and is the only newly seated Claremont member not otherwise placed)"
+ },
+ "Speaker 16": {
+  "name": "Jeff Small",
+  "role": "Director of Technology, SAU 6 - Tempesta hands off by name: 'Jeff. Jeff, I'm running out of bits and bytes. Talk if you want to take over.'"
+ },
+ "Speaker 17": {
+  "name": "Unidentified",
+  "role": "SAU 6 Board member, Claremont side - raises a $30,000 city bill, then withdraws it: 'it's a Claremont issue, I should be talking about that'; name not stated"
+ },
+ "Speaker 18": {
+  "name": "Unidentified",
+  "role": "SAU 6 Board member - argues the right-to-know/subcommittee-quorum point and offers to check with the school board association; name not stated"
+ },
+ "Speaker 19": {
+  "name": "Unidentified",
+  "role": "Single-word interjection during the August retreat scheduling; name not stated"
+ },
+ "__overrides__": {
+  "11": {
+   "name": "Unidentified",
+   "role": "SAU 6 Board member seconding the nomination of Marjorie Erickson for chair; voice not identifiable"
+  },
+  "22": {
+   "name": "Unidentified",
+   "role": "SAU 6 Board member speaking in support of Erickson's nomination (merged into the presider's cluster); voice not identifiable"
+  },
+  "25": {
+   "name": "Unidentified",
+   "role": "SAU 6 Board member speaking in support of Erickson's nomination (merged into the presider's cluster); voice not identifiable"
+  },
+  "30": {
+   "name": "Unidentified",
+   "role": "Voice testing the microphone while the paper ballots for chair are collected; name not stated"
+  },
+  "31": {
+   "name": "Unidentified",
+   "role": "Ballot count in the SAU 6 chair election ('Steve has got six' / 'Marge has five'); voice not identifiable"
+  },
+  "32": {
+   "name": "Unidentified",
+   "role": "Ballot count in the SAU 6 chair election ('Steve has got six' / 'Marge has five'); voice not identifiable"
+  },
+  "60": {
+   "name": "Unidentified",
+   "role": "Attendance roll call - Ruggeri's name read and answered; the two voices share one segment"
+  },
+  "62": {
+   "name": "Whitney Skillen",
+   "role": "Claremont School Board member (SAU 6 Board) - chair's recognition 'Whitney.' absorbed beside her turns at 2010s and 7248s (roll-call response to 'Skilling')"
+  },
+  "64": {
+   "name": "Unidentified",
+   "role": "Attendance roll call response following 'Arlene Hawkins. Jennifer Gallagher.'; voice not identifiable"
+  },
+  "66": {
+   "name": "Frank Sprague",
+   "role": "Claremont School Board member (SAU 6 Board) - reads the attendance roll call; chair restates his motion as 'motion made by Frank' at 6002s (reading 'Whitney' in the attendance roll call)"
+  },
+  "91": {
+   "name": "Frank Sprague",
+   "role": "Claremont School Board member (SAU 6 Board) - reads the attendance roll call; chair restates his motion as 'motion made by Frank' at 6002s (chair restates the motion as 'motion by Frank')"
+  },
+  "117": {
+   "name": "Frank Sprague",
+   "role": "Claremont School Board member (SAU 6 Board) - reads the attendance roll call; chair restates his motion as 'motion made by Frank' at 6002s (chair restates the motion as 'motion by Frank')"
+  },
+  "92": {
+   "name": "Heather Whitney",
+   "role": "Claremont School Board Vice Chair (SAU 6 Board member) - chair recognises her, 'I saw Heather first', immediately before her turn at 2752s; Erickson later credits 'the question that Heather had' (chair restates the second as 'seconded by Heather')"
+  },
+  "157": {
+   "name": "Mike Koski",
+   "role": "Assistant Superintendent, SAU 6 - delivers the district-wide curriculum report (Tempesta introduces the item as 'I would start with a mr..'; the ASR renders the surname 'Kosky kosky to skis' at 954s)"
+  },
+  "159": {
+   "name": "Mike Koski",
+   "role": "Assistant Superintendent, SAU 6 - delivers the district-wide curriculum report (Tempesta introduces the item as 'I would start with a mr..'; the ASR renders the surname 'Kosky kosky to skis' at 954s)"
+  },
+  "161": {
+   "name": "Mike Koski",
+   "role": "Assistant Superintendent, SAU 6 - delivers the district-wide curriculum report (Tempesta introduces the item as 'I would start with a mr..'; the ASR renders the surname 'Kosky kosky to skis' at 954s)"
+  },
+  "163": {
+   "name": "Mike Koski",
+   "role": "Assistant Superintendent, SAU 6 - delivers the district-wide curriculum report (Tempesta introduces the item as 'I would start with a mr..'; the ASR renders the surname 'Kosky kosky to skis' at 954s)"
+  },
+  "164": {
+   "name": "Mike Koski",
+   "role": "Assistant Superintendent, SAU 6 - delivers the district-wide curriculum report (Tempesta introduces the item as 'I would start with a mr..'; the ASR renders the surname 'Kosky kosky to skis' at 954s)"
+  },
+  "165": {
+   "name": "Mike Koski",
+   "role": "Assistant Superintendent, SAU 6 - delivers the district-wide curriculum report (Tempesta introduces the item as 'I would start with a mr..'; the ASR renders the surname 'Kosky kosky to skis' at 954s)"
+  },
+  "166": {
+   "name": "Mike Koski",
+   "role": "Assistant Superintendent, SAU 6 - delivers the district-wide curriculum report (Tempesta introduces the item as 'I would start with a mr..'; the ASR renders the surname 'Kosky kosky to skis' at 954s)"
+  },
+  "167": {
+   "name": "Mike Koski",
+   "role": "Assistant Superintendent, SAU 6 - delivers the district-wide curriculum report (Tempesta introduces the item as 'I would start with a mr..'; the ASR renders the surname 'Kosky kosky to skis' at 954s)"
+  },
+  "168": {
+   "name": "Mike Koski",
+   "role": "Assistant Superintendent, SAU 6 - delivers the district-wide curriculum report (Tempesta introduces the item as 'I would start with a mr..'; the ASR renders the surname 'Kosky kosky to skis' at 954s)"
+  },
+  "170": {
+   "name": "Mike Koski",
+   "role": "Assistant Superintendent, SAU 6 - delivers the district-wide curriculum report (Tempesta introduces the item as 'I would start with a mr..'; the ASR renders the surname 'Kosky kosky to skis' at 954s)"
+  },
+  "171": {
+   "name": "Mike Koski",
+   "role": "Assistant Superintendent, SAU 6 - delivers the district-wide curriculum report (Tempesta introduces the item as 'I would start with a mr..'; the ASR renders the surname 'Kosky kosky to skis' at 954s)"
+  },
+  "172": {
+   "name": "Mike Koski",
+   "role": "Assistant Superintendent, SAU 6 - delivers the district-wide curriculum report (Tempesta introduces the item as 'I would start with a mr..'; the ASR renders the surname 'Kosky kosky to skis' at 954s)"
+  },
+  "175": {
+   "name": "Mike Koski",
+   "role": "Assistant Superintendent, SAU 6 - delivers the district-wide curriculum report (Tempesta introduces the item as 'I would start with a mr..'; the ASR renders the surname 'Kosky kosky to skis' at 954s)"
+  },
+  "177": {
+   "name": "Mike Koski",
+   "role": "Assistant Superintendent, SAU 6 - delivers the district-wide curriculum report (Tempesta introduces the item as 'I would start with a mr..'; the ASR renders the surname 'Kosky kosky to skis' at 954s)"
+  },
+  "181": {
+   "name": "Mike Koski",
+   "role": "Assistant Superintendent, SAU 6 - delivers the district-wide curriculum report (Tempesta introduces the item as 'I would start with a mr..'; the ASR renders the surname 'Kosky kosky to skis' at 954s)"
+  },
+  "183": {
+   "name": "Mike Koski",
+   "role": "Assistant Superintendent, SAU 6 - delivers the district-wide curriculum report (Tempesta introduces the item as 'I would start with a mr..'; the ASR renders the surname 'Kosky kosky to skis' at 954s)"
+  },
+  "185": {
+   "name": "Mike Koski",
+   "role": "Assistant Superintendent, SAU 6 - delivers the district-wide curriculum report (Tempesta introduces the item as 'I would start with a mr..'; the ASR renders the surname 'Kosky kosky to skis' at 954s)"
+  },
+  "186": {
+   "name": "Mike Koski",
+   "role": "Assistant Superintendent, SAU 6 - delivers the district-wide curriculum report (Tempesta introduces the item as 'I would start with a mr..'; the ASR renders the surname 'Kosky kosky to skis' at 954s)"
+  },
+  "188": {
+   "name": "Mike Koski",
+   "role": "Assistant Superintendent, SAU 6 - delivers the district-wide curriculum report (Tempesta introduces the item as 'I would start with a mr..'; the ASR renders the surname 'Kosky kosky to skis' at 954s)"
+  },
+  "190": {
+   "name": "Mike Koski",
+   "role": "Assistant Superintendent, SAU 6 - delivers the district-wide curriculum report (Tempesta introduces the item as 'I would start with a mr..'; the ASR renders the surname 'Kosky kosky to skis' at 954s)"
+  },
+  "192": {
+   "name": "Mike Koski",
+   "role": "Assistant Superintendent, SAU 6 - delivers the district-wide curriculum report (Tempesta introduces the item as 'I would start with a mr..'; the ASR renders the surname 'Kosky kosky to skis' at 954s)"
+  },
+  "194": {
+   "name": "Mike Koski",
+   "role": "Assistant Superintendent, SAU 6 - delivers the district-wide curriculum report (Tempesta introduces the item as 'I would start with a mr..'; the ASR renders the surname 'Kosky kosky to skis' at 954s)"
+  },
+  "196": {
+   "name": "Mike Koski",
+   "role": "Assistant Superintendent, SAU 6 - delivers the district-wide curriculum report (Tempesta introduces the item as 'I would start with a mr..'; the ASR renders the surname 'Kosky kosky to skis' at 954s)"
+  },
+  "198": {
+   "name": "Mike Koski",
+   "role": "Assistant Superintendent, SAU 6 - delivers the district-wide curriculum report (Tempesta introduces the item as 'I would start with a mr..'; the ASR renders the surname 'Kosky kosky to skis' at 954s)"
+  },
+  "200": {
+   "name": "Mike Koski",
+   "role": "Assistant Superintendent, SAU 6 - delivers the district-wide curriculum report (Tempesta introduces the item as 'I would start with a mr..'; the ASR renders the surname 'Kosky kosky to skis' at 954s)"
+  },
+  "236": {
+   "name": "Mike Koski",
+   "role": "Assistant Superintendent, SAU 6 - delivers the district-wide curriculum report (Tempesta introduces the item as 'I would start with a mr..'; the ASR renders the surname 'Kosky kosky to skis' at 954s)"
+  },
+  "258": {
+   "name": "Mike Koski",
+   "role": "Assistant Superintendent, SAU 6 - delivers the district-wide curriculum report (Tempesta introduces the item as 'I would start with a mr..'; the ASR renders the surname 'Kosky kosky to skis' at 954s)"
+  },
+  "259": {
+   "name": "Mike Koski",
+   "role": "Assistant Superintendent, SAU 6 - delivers the district-wide curriculum report (Tempesta introduces the item as 'I would start with a mr..'; the ASR renders the surname 'Kosky kosky to skis' at 954s)"
+  },
+  "260": {
+   "name": "Mike Koski",
+   "role": "Assistant Superintendent, SAU 6 - delivers the district-wide curriculum report (Tempesta introduces the item as 'I would start with a mr..'; the ASR renders the surname 'Kosky kosky to skis' at 954s)"
+  },
+  "261": {
+   "name": "Mike Koski",
+   "role": "Assistant Superintendent, SAU 6 - delivers the district-wide curriculum report (Tempesta introduces the item as 'I would start with a mr..'; the ASR renders the surname 'Kosky kosky to skis' at 954s)"
+  },
+  "267": {
+   "name": "Mike Koski",
+   "role": "Assistant Superintendent, SAU 6 - delivers the district-wide curriculum report (Tempesta introduces the item as 'I would start with a mr..'; the ASR renders the surname 'Kosky kosky to skis' at 954s)"
+  },
+  "268": {
+   "name": "Mike Koski",
+   "role": "Assistant Superintendent, SAU 6 - delivers the district-wide curriculum report (Tempesta introduces the item as 'I would start with a mr..'; the ASR renders the surname 'Kosky kosky to skis' at 954s)"
+  },
+  "269": {
+   "name": "Mike Koski",
+   "role": "Assistant Superintendent, SAU 6 - delivers the district-wide curriculum report (Tempesta introduces the item as 'I would start with a mr..'; the ASR renders the surname 'Kosky kosky to skis' at 954s)"
+  },
+  "271": {
+   "name": "Mike Koski",
+   "role": "Assistant Superintendent, SAU 6 - delivers the district-wide curriculum report (Tempesta introduces the item as 'I would start with a mr..'; the ASR renders the surname 'Kosky kosky to skis' at 954s)"
+  },
+  "272": {
+   "name": "Mike Koski",
+   "role": "Assistant Superintendent, SAU 6 - delivers the district-wide curriculum report (Tempesta introduces the item as 'I would start with a mr..'; the ASR renders the surname 'Kosky kosky to skis' at 954s)"
+  },
+  "274": {
+   "name": "Mike Koski",
+   "role": "Assistant Superintendent, SAU 6 - delivers the district-wide curriculum report (Tempesta introduces the item as 'I would start with a mr..'; the ASR renders the surname 'Kosky kosky to skis' at 954s)"
+  },
+  "276": {
+   "name": "Mike Koski",
+   "role": "Assistant Superintendent, SAU 6 - delivers the district-wide curriculum report (Tempesta introduces the item as 'I would start with a mr..'; the ASR renders the surname 'Kosky kosky to skis' at 954s)"
+  },
+  "278": {
+   "name": "Mike Koski",
+   "role": "Assistant Superintendent, SAU 6 - delivers the district-wide curriculum report (Tempesta introduces the item as 'I would start with a mr..'; the ASR renders the surname 'Kosky kosky to skis' at 954s)"
+  },
+  "280": {
+   "name": "Mike Koski",
+   "role": "Assistant Superintendent, SAU 6 - delivers the district-wide curriculum report (Tempesta introduces the item as 'I would start with a mr..'; the ASR renders the surname 'Kosky kosky to skis' at 954s)"
+  },
+  "294": {
+   "name": "Mike Koski",
+   "role": "Assistant Superintendent, SAU 6 - delivers the district-wide curriculum report (Tempesta introduces the item as 'I would start with a mr..'; the ASR renders the surname 'Kosky kosky to skis' at 954s)"
+  },
+  "295": {
+   "name": "Mike Koski",
+   "role": "Assistant Superintendent, SAU 6 - delivers the district-wide curriculum report (Tempesta introduces the item as 'I would start with a mr..'; the ASR renders the surname 'Kosky kosky to skis' at 954s)"
+  },
+  "297": {
+   "name": "Mike Koski",
+   "role": "Assistant Superintendent, SAU 6 - delivers the district-wide curriculum report (Tempesta introduces the item as 'I would start with a mr..'; the ASR renders the surname 'Kosky kosky to skis' at 954s)"
+  },
+  "299": {
+   "name": "Mike Koski",
+   "role": "Assistant Superintendent, SAU 6 - delivers the district-wide curriculum report (Tempesta introduces the item as 'I would start with a mr..'; the ASR renders the surname 'Kosky kosky to skis' at 954s)"
+  },
+  "302": {
+   "name": "Mike Koski",
+   "role": "Assistant Superintendent, SAU 6 - delivers the district-wide curriculum report (Tempesta introduces the item as 'I would start with a mr..'; the ASR renders the surname 'Kosky kosky to skis' at 954s)"
+  },
+  "303": {
+   "name": "Mike Koski",
+   "role": "Assistant Superintendent, SAU 6 - delivers the district-wide curriculum report (Tempesta introduces the item as 'I would start with a mr..'; the ASR renders the surname 'Kosky kosky to skis' at 954s)"
+  },
+  "304": {
+   "name": "Mike Koski",
+   "role": "Assistant Superintendent, SAU 6 - delivers the district-wide curriculum report (Tempesta introduces the item as 'I would start with a mr..'; the ASR renders the surname 'Kosky kosky to skis' at 954s)"
+  },
+  "306": {
+   "name": "Mike Koski",
+   "role": "Assistant Superintendent, SAU 6 - delivers the district-wide curriculum report (Tempesta introduces the item as 'I would start with a mr..'; the ASR renders the surname 'Kosky kosky to skis' at 954s)"
+  },
+  "307": {
+   "name": "Mike Koski",
+   "role": "Assistant Superintendent, SAU 6 - delivers the district-wide curriculum report (Tempesta introduces the item as 'I would start with a mr..'; the ASR renders the surname 'Kosky kosky to skis' at 954s)"
+  },
+  "366": {
+   "name": "Mike Koski",
+   "role": "Assistant Superintendent, SAU 6 - delivers the district-wide curriculum report (Tempesta introduces the item as 'I would start with a mr..'; the ASR renders the surname 'Kosky kosky to skis' at 954s)"
+  },
+  "367": {
+   "name": "Mike Koski",
+   "role": "Assistant Superintendent, SAU 6 - delivers the district-wide curriculum report (Tempesta introduces the item as 'I would start with a mr..'; the ASR renders the surname 'Kosky kosky to skis' at 954s)"
+  },
+  "369": {
+   "name": "Mike Koski",
+   "role": "Assistant Superintendent, SAU 6 - delivers the district-wide curriculum report (Tempesta introduces the item as 'I would start with a mr..'; the ASR renders the surname 'Kosky kosky to skis' at 954s)"
+  },
+  "371": {
+   "name": "Mike Koski",
+   "role": "Assistant Superintendent, SAU 6 - delivers the district-wide curriculum report (Tempesta introduces the item as 'I would start with a mr..'; the ASR renders the surname 'Kosky kosky to skis' at 954s)"
+  },
+  "368": {
+   "name": "Mike Koski",
+   "role": "Assistant Superintendent, SAU 6 - delivers the district-wide curriculum report (Tempesta introduces the item as 'I would start with a mr..'; the ASR renders the surname 'Kosky kosky to skis' at 954s) (sentence continuation - 'it empowers the building level quite a bit more than the way it's done right now')"
+  },
+  "370": {
+   "name": "Mike Koski",
+   "role": "Assistant Superintendent, SAU 6 - delivers the district-wide curriculum report (Tempesta introduces the item as 'I would start with a mr..'; the ASR renders the surname 'Kosky kosky to skis' at 954s) (sentence continuation - 'it empowers the building level quite a bit more than the way it's done right now')"
+  },
+  "232": {
+   "name": "Steven Horsky",
+   "role": "SAU 6 Board Chair - elected at this meeting 6-5 over Marjorie Erickson; Claremont School Board member (ASR 'Hauschka' / 'Steve Gorski' elsewhere in this corpus) (chair's recognition 'Whitney.' clipped into a neighbouring cluster)"
+  },
+  "264": {
+   "name": "Steven Horsky",
+   "role": "SAU 6 Board Chair - elected at this meeting 6-5 over Marjorie Erickson; Claremont School Board member (ASR 'Hauschka' / 'Steve Gorski' elsewhere in this corpus) (sentence continuation of his own question - 'this year compared to')"
+  },
+  "314": {
+   "name": "Jeff Small",
+   "role": "Director of Technology, SAU 6 - Tempesta hands off by name: 'Jeff. Jeff, I'm running out of bits and bytes. Talk if you want to take over.' (onset clip - 'So I know our original website was very...' continues in his next segment)"
+  },
+  "378": {
+   "name": "Arlene Hawkins",
+   "role": "Claremont School Board member, elected 3/14/23 (SAU 6 Board) - Whitney names her: 'when I heard Arlene asking when people can get trained on this'"
+  },
+  "379": {
+   "name": "Arlene Hawkins",
+   "role": "Claremont School Board member, elected 3/14/23 (SAU 6 Board) - Whitney names her: 'when I heard Arlene asking when people can get trained on this'"
+  },
+  "381": {
+   "name": "Arlene Hawkins",
+   "role": "Claremont School Board member, elected 3/14/23 (SAU 6 Board) - Whitney names her: 'when I heard Arlene asking when people can get trained on this'"
+  },
+  "386": {
+   "name": "Arlene Hawkins",
+   "role": "Claremont School Board member, elected 3/14/23 (SAU 6 Board) - Whitney names her: 'when I heard Arlene asking when people can get trained on this'"
+  },
+  "389": {
+   "name": "Arlene Hawkins",
+   "role": "Claremont School Board member, elected 3/14/23 (SAU 6 Board) - Whitney names her: 'when I heard Arlene asking when people can get trained on this'"
+  },
+  "228": {
+   "name": "Arlene Hawkins",
+   "role": "Claremont School Board member, elected 3/14/23 (SAU 6 Board) (UNCERTAIN - merged female cluster with Erickson; same recurring questioner thread as the training questions Whitney attributes to Arlene)"
+  },
+  "229": {
+   "name": "Arlene Hawkins",
+   "role": "Claremont School Board member, elected 3/14/23 (SAU 6 Board) (UNCERTAIN - merged female cluster with Erickson; same recurring questioner thread as the training questions Whitney attributes to Arlene)"
+  },
+  "231": {
+   "name": "Arlene Hawkins",
+   "role": "Claremont School Board member, elected 3/14/23 (SAU 6 Board) (UNCERTAIN - merged female cluster with Erickson; same recurring questioner thread as the training questions Whitney attributes to Arlene)"
+  },
+  "245": {
+   "name": "Arlene Hawkins",
+   "role": "Claremont School Board member, elected 3/14/23 (SAU 6 Board) (UNCERTAIN - merged female cluster with Erickson; same recurring questioner thread as the training questions Whitney attributes to Arlene)"
+  },
+  "247": {
+   "name": "Arlene Hawkins",
+   "role": "Claremont School Board member, elected 3/14/23 (SAU 6 Board) (UNCERTAIN - merged female cluster with Erickson; same recurring questioner thread as the training questions Whitney attributes to Arlene)"
+  },
+  "254": {
+   "name": "Arlene Hawkins",
+   "role": "Claremont School Board member, elected 3/14/23 (SAU 6 Board) (UNCERTAIN - merged female cluster with Erickson; same recurring questioner thread as the training questions Whitney attributes to Arlene)"
+  },
+  "292": {
+   "name": "Arlene Hawkins",
+   "role": "Claremont School Board member, elected 3/14/23 (SAU 6 Board) (UNCERTAIN - merged female cluster with Erickson; same recurring questioner thread as the training questions Whitney attributes to Arlene)"
+  },
+  "300": {
+   "name": "Arlene Hawkins",
+   "role": "Claremont School Board member, elected 3/14/23 (SAU 6 Board) (UNCERTAIN - merged female cluster with Erickson; same recurring questioner thread as the training questions Whitney attributes to Arlene)"
+  },
+  "301": {
+   "name": "Arlene Hawkins",
+   "role": "Claremont School Board member, elected 3/14/23 (SAU 6 Board) (UNCERTAIN - merged female cluster with Erickson; same recurring questioner thread as the training questions Whitney attributes to Arlene)"
+  },
+  "305": {
+   "name": "Arlene Hawkins",
+   "role": "Claremont School Board member, elected 3/14/23 (SAU 6 Board) (UNCERTAIN - merged female cluster with Erickson; same recurring questioner thread as the training questions Whitney attributes to Arlene)"
+  },
+  "322": {
+   "name": "Arlene Hawkins",
+   "role": "Claremont School Board member, elected 3/14/23 (SAU 6 Board) (UNCERTAIN - merged female cluster with Erickson; same recurring questioner thread as the training questions Whitney attributes to Arlene)"
+  },
+  "325": {
+   "name": "Arlene Hawkins",
+   "role": "Claremont School Board member, elected 3/14/23 (SAU 6 Board) (UNCERTAIN - merged female cluster with Erickson; same recurring questioner thread as the training questions Whitney attributes to Arlene)"
+  },
+  "329": {
+   "name": "Arlene Hawkins",
+   "role": "Claremont School Board member, elected 3/14/23 (SAU 6 Board) (UNCERTAIN - merged female cluster with Erickson; same recurring questioner thread as the training questions Whitney attributes to Arlene)"
+  },
+  "400": {
+   "name": "Michael Tempesta",
+   "role": "Superintendent, SAU 6 - presides over the election of SAU 6 officers, then gives the Superintendent's Report and reads Richard Seaman's retirement letter (sentence continuation - 'So we've had... we've had meetings on that')"
+  },
+  "406": {
+   "name": "Heather Whitney",
+   "role": "Claremont School Board Vice Chair (SAU 6 Board member) - chair recognises her, 'I saw Heather first', immediately before her turn at 2752s; Erickson later credits 'the question that Heather had' (sentence continuation of her question about approving the software purchase)"
+  },
+  "409": {
+   "name": "Heather Whitney",
+   "role": "Claremont School Board Vice Chair (SAU 6 Board member) - chair recognises her, 'I saw Heather first', immediately before her turn at 2752s; Erickson later credits 'the question that Heather had' (sentence continuation of her question about approving the software purchase)"
+  },
+  "421": {
+   "name": "Marjorie Erickson",
+   "role": "Unity School Board Chair; outgoing SAU 6 Board Chair - presents the SAU 6 meeting calendar and the policy drafts; chair thanks 'the work that you put into this, Marjorie' (sentence continuation clipped into a neighbouring cluster)"
+  },
+  "469": {
+   "name": "Marjorie Erickson",
+   "role": "Unity School Board Chair; outgoing SAU 6 Board Chair - presents the SAU 6 meeting calendar and the policy drafts; chair thanks 'the work that you put into this, Marjorie' (sentence continuation clipped into a neighbouring cluster)"
+  },
+  "654": {
+   "name": "Marjorie Erickson",
+   "role": "Unity School Board Chair; outgoing SAU 6 Board Chair - presents the SAU 6 meeting calendar and the policy drafts; chair thanks 'the work that you put into this, Marjorie' (sentence continuation clipped into a neighbouring cluster)"
+  },
+  "455": {
+   "name": "Steven Horsky",
+   "role": "SAU 6 Board Chair - elected at this meeting 6-5 over Marjorie Erickson; Claremont School Board member (ASR 'Hauschka' / 'Steve Gorski' elsewhere in this corpus) (Erickson yields mid-sentence - 'Sorry, Steve' - and he completes the thought about time-driven policies)"
+  },
+  "456": {
+   "name": "Steven Horsky",
+   "role": "SAU 6 Board Chair - elected at this meeting 6-5 over Marjorie Erickson; Claremont School Board member (ASR 'Hauschka' / 'Steve Gorski' elsewhere in this corpus) (Erickson yields mid-sentence - 'Sorry, Steve' - and he completes the thought about time-driven policies)"
+  },
+  "457": {
+   "name": "Steven Horsky",
+   "role": "SAU 6 Board Chair - elected at this meeting 6-5 over Marjorie Erickson; Claremont School Board member (ASR 'Hauschka' / 'Steve Gorski' elsewhere in this corpus) (Erickson yields mid-sentence - 'Sorry, Steve' - and he completes the thought about time-driven policies)"
+  },
+  "458": {
+   "name": "Steven Horsky",
+   "role": "SAU 6 Board Chair - elected at this meeting 6-5 over Marjorie Erickson; Claremont School Board member (ASR 'Hauschka' / 'Steve Gorski' elsewhere in this corpus) (Erickson yields mid-sentence - 'Sorry, Steve' - and he completes the thought about time-driven policies)"
+  },
+  "460": {
+   "name": "Steven Horsky",
+   "role": "SAU 6 Board Chair - elected at this meeting 6-5 over Marjorie Erickson; Claremont School Board member (ASR 'Hauschka' / 'Steve Gorski' elsewhere in this corpus) (Erickson yields mid-sentence - 'Sorry, Steve' - and he completes the thought about time-driven policies)"
+  },
+  "461": {
+   "name": "Steven Horsky",
+   "role": "SAU 6 Board Chair - elected at this meeting 6-5 over Marjorie Erickson; Claremont School Board member (ASR 'Hauschka' / 'Steve Gorski' elsewhere in this corpus) (Erickson yields mid-sentence - 'Sorry, Steve' - and he completes the thought about time-driven policies)"
+  },
+  "462": {
+   "name": "Steven Horsky",
+   "role": "SAU 6 Board Chair - elected at this meeting 6-5 over Marjorie Erickson; Claremont School Board member (ASR 'Hauschka' / 'Steve Gorski' elsewhere in this corpus) (Erickson yields mid-sentence - 'Sorry, Steve' - and he completes the thought about time-driven policies)"
+  },
+  "514": {
+   "name": "Rocco Ruggeri",
+   "role": "Unity School Board member; re-elected SAU 6 Board Vice Chair at this meeting - Erickson relays 'Rocco's not available on the 27th' immediately after he gives his availability (seconds the policy-subcommittee motion; the chair immediately names 'Marjorie and Rocco')"
+  },
+  "600": {
+   "name": "Michael Tempesta",
+   "role": "Superintendent, SAU 6 - presides over the election of SAU 6 officers, then gives the Superintendent's Report and reads Richard Seaman's retirement letter (sentence continuation clipped into a neighbouring cluster)"
+  },
+  "640": {
+   "name": "Michael Tempesta",
+   "role": "Superintendent, SAU 6 - presides over the election of SAU 6 officers, then gives the Superintendent's Report and reads Richard Seaman's retirement letter (sentence continuation clipped into a neighbouring cluster)"
+  },
+  "797": {
+   "name": "Steven Horsky",
+   "role": "SAU 6 Board Chair - elected at this meeting 6-5 over Marjorie Erickson; Claremont School Board member (ASR 'Hauschka' / 'Steve Gorski' elsewhere in this corpus) (answers Skillen's 'will that be enough time for you to get here from work'; his own 'crapshoot with some of our professions' follows)"
+  },
+  "799": {
+   "name": "Steven Horsky",
+   "role": "SAU 6 Board Chair - elected at this meeting 6-5 over Marjorie Erickson; Claremont School Board member (ASR 'Hauschka' / 'Steve Gorski' elsewhere in this corpus) (answers Skillen's 'will that be enough time for you to get here from work'; his own 'crapshoot with some of our professions' follows)"
+  },
+  "801": {
+   "name": "Steven Horsky",
+   "role": "SAU 6 Board Chair - elected at this meeting 6-5 over Marjorie Erickson; Claremont School Board member (ASR 'Hauschka' / 'Steve Gorski' elsewhere in this corpus) (answers Skillen's 'will that be enough time for you to get here from work'; his own 'crapshoot with some of our professions' follows)"
+  }
+ }
+}

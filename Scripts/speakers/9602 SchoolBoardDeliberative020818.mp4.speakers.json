@@ -1,0 +1,1124 @@
+{
+ "Speaker 1": {
+  "name": "Tracy Pope",
+  "role": "School District Moderator (addressed 'Tracy' [257, 293]; surname Pope per roster, which confirms Tracy Pope as moderator in 2023 and 'Mrs. Pope' in 2021; uncertain for 2018 - surname not on this recording)"
+ },
+ "Speaker 2": {
+  "name": "Unidentified",
+  "role": "Unidentified - short remarks and name calls from several voices"
+ },
+ "Speaker 3": {
+  "name": "Unidentified",
+  "role": "Unidentified - cluster merges the superintendent, the board chair, board members and several public commenters; see overrides"
+ },
+ "Speaker 4": {
+  "name": "Michelle Pierce",
+  "role": "Claremont School Board member (self-identifies 'Michelle ... school board member for two years' [228]; moderator recognizes 'school board member Michelle' for article 4 [428])"
+ },
+ "Speaker 5": {
+  "name": "Unidentified",
+  "role": "Public commenter who moves to add $307,153 to article 2 [96-101]; name not audible (moderator's 'Mr. Denver' [91] may refer to him; uncertain); cluster also holds stray fragments"
+ },
+ "Speaker 6": {
+  "name": "Unidentified",
+  "role": "Public commenter asking about enrollment trends [111-113]; name not audible"
+ },
+ "Speaker 7": {
+  "name": "Unidentified",
+  "role": "Unidentified - single 'Thank you' [115]"
+ },
+ "Speaker 8": {
+  "name": "Middleton McGoodwin",
+  "role": "Superintendent, SAU 6 (introduces the administrative team and is thanked 'Doctor' by the moderator [4-8]; presents the budget PowerPoint [23-78]; the moderator introduces 'Superintendent Doctor Middleton, the Goodman' [23])"
+ },
+ "Speaker 9": {
+  "name": "Unidentified",
+  "role": "Public commenter opposing the amendment ('largest employer', [163-164]); name not audible; cluster also holds short remarks"
+ },
+ "Speaker 10": {
+  "name": "Unidentified",
+  "role": "Public commenter, Ward 3, supporting the amendment [157-162] (ASR self-ID 'Andy, your friend here for three' [157]; name unresolved); see overrides"
+ },
+ "Speaker 11": {
+  "name": "Tracy Pope",
+  "role": "School District Moderator (addressed 'Tracy' [257, 293]; surname Pope per roster, which confirms Tracy Pope as moderator in 2023 and 'Mrs. Pope' in 2021; uncertain for 2018 - surname not on this recording)"
+ },
+ "Speaker 12": {
+  "name": "Tracy Pope",
+  "role": "School District Moderator (addressed 'Tracy' [257, 293]; surname Pope per roster, which confirms Tracy Pope as moderator in 2023 and 'Mrs. Pope' in 2021; uncertain for 2018 - surname not on this recording)"
+ },
+ "Speaker 13": {
+  "name": "Tracy Pope",
+  "role": "School District Moderator (addressed 'Tracy' [257, 293]; surname Pope per roster, which confirms Tracy Pope as moderator in 2023 and 'Mrs. Pope' in 2021; uncertain for 2018 - surname not on this recording)"
+ },
+ "Speaker 14": {
+  "name": "Chris Irish",
+  "role": "Claremont School Board Vice Chair until 1/31/2018, board member (self-identifies 'Chris Irish, Ward three' [311]; moderator recognizes 'school board member Chris Irish' for article 3 [360])"
+ },
+ "Speaker 15": {
+  "name": "Josh Malloy",
+  "role": "Director of Instructional Technology, SAU 6 (answers the camera privacy questions after 'the technology director' is asked to answer [395-399]; introduced by the superintendent [5]); see overrides"
+ },
+ "Speaker 16": {
+  "name": "Michelle Pierce",
+  "role": "Claremont School Board member (self-identifies 'Michelle ... school board member for two years' [228]; moderator recognizes 'school board member Michelle' for article 4 [428])"
+ },
+ "__overrides__": {
+  "4": {
+   "name": "Middleton McGoodwin",
+   "role": "Superintendent, SAU 6 (introduces the administrative team and is thanked 'Doctor' by the moderator [4-8]; presents the budget PowerPoint [23-78]; the moderator introduces 'Superintendent Doctor Middleton, the Goodman' [23])"
+  },
+  "5": {
+   "name": "Middleton McGoodwin",
+   "role": "Superintendent, SAU 6 (introduces the administrative team and is thanked 'Doctor' by the moderator [4-8]; presents the budget PowerPoint [23-78]; the moderator introduces 'Superintendent Doctor Middleton, the Goodman' [23])"
+  },
+  "6": {
+   "name": "Middleton McGoodwin",
+   "role": "Superintendent, SAU 6 (introduces the administrative team and is thanked 'Doctor' by the moderator [4-8]; presents the budget PowerPoint [23-78]; the moderator introduces 'Superintendent Doctor Middleton, the Goodman' [23])"
+  },
+  "7": {
+   "name": "Middleton McGoodwin",
+   "role": "Superintendent, SAU 6 (introduces the administrative team and is thanked 'Doctor' by the moderator [4-8]; presents the budget PowerPoint [23-78]; the moderator introduces 'Superintendent Doctor Middleton, the Goodman' [23])"
+  },
+  "24": {
+   "name": "Middleton McGoodwin",
+   "role": "Superintendent, SAU 6 (introduces the administrative team and is thanked 'Doctor' by the moderator [4-8]; presents the budget PowerPoint [23-78]; the moderator introduces 'Superintendent Doctor Middleton, the Goodman' [23])"
+  },
+  "25": {
+   "name": "Middleton McGoodwin",
+   "role": "Superintendent, SAU 6 (introduces the administrative team and is thanked 'Doctor' by the moderator [4-8]; presents the budget PowerPoint [23-78]; the moderator introduces 'Superintendent Doctor Middleton, the Goodman' [23])"
+  },
+  "26": {
+   "name": "Middleton McGoodwin",
+   "role": "Superintendent, SAU 6 (introduces the administrative team and is thanked 'Doctor' by the moderator [4-8]; presents the budget PowerPoint [23-78]; the moderator introduces 'Superintendent Doctor Middleton, the Goodman' [23])"
+  },
+  "27": {
+   "name": "Middleton McGoodwin",
+   "role": "Superintendent, SAU 6 (introduces the administrative team and is thanked 'Doctor' by the moderator [4-8]; presents the budget PowerPoint [23-78]; the moderator introduces 'Superintendent Doctor Middleton, the Goodman' [23])"
+  },
+  "28": {
+   "name": "Middleton McGoodwin",
+   "role": "Superintendent, SAU 6 (introduces the administrative team and is thanked 'Doctor' by the moderator [4-8]; presents the budget PowerPoint [23-78]; the moderator introduces 'Superintendent Doctor Middleton, the Goodman' [23])"
+  },
+  "29": {
+   "name": "Middleton McGoodwin",
+   "role": "Superintendent, SAU 6 (introduces the administrative team and is thanked 'Doctor' by the moderator [4-8]; presents the budget PowerPoint [23-78]; the moderator introduces 'Superintendent Doctor Middleton, the Goodman' [23])"
+  },
+  "30": {
+   "name": "Middleton McGoodwin",
+   "role": "Superintendent, SAU 6 (introduces the administrative team and is thanked 'Doctor' by the moderator [4-8]; presents the budget PowerPoint [23-78]; the moderator introduces 'Superintendent Doctor Middleton, the Goodman' [23])"
+  },
+  "31": {
+   "name": "Middleton McGoodwin",
+   "role": "Superintendent, SAU 6 (introduces the administrative team and is thanked 'Doctor' by the moderator [4-8]; presents the budget PowerPoint [23-78]; the moderator introduces 'Superintendent Doctor Middleton, the Goodman' [23])"
+  },
+  "32": {
+   "name": "Middleton McGoodwin",
+   "role": "Superintendent, SAU 6 (introduces the administrative team and is thanked 'Doctor' by the moderator [4-8]; presents the budget PowerPoint [23-78]; the moderator introduces 'Superintendent Doctor Middleton, the Goodman' [23])"
+  },
+  "33": {
+   "name": "Middleton McGoodwin",
+   "role": "Superintendent, SAU 6 (introduces the administrative team and is thanked 'Doctor' by the moderator [4-8]; presents the budget PowerPoint [23-78]; the moderator introduces 'Superintendent Doctor Middleton, the Goodman' [23])"
+  },
+  "34": {
+   "name": "Middleton McGoodwin",
+   "role": "Superintendent, SAU 6 (introduces the administrative team and is thanked 'Doctor' by the moderator [4-8]; presents the budget PowerPoint [23-78]; the moderator introduces 'Superintendent Doctor Middleton, the Goodman' [23])"
+  },
+  "35": {
+   "name": "Middleton McGoodwin",
+   "role": "Superintendent, SAU 6 (introduces the administrative team and is thanked 'Doctor' by the moderator [4-8]; presents the budget PowerPoint [23-78]; the moderator introduces 'Superintendent Doctor Middleton, the Goodman' [23])"
+  },
+  "36": {
+   "name": "Middleton McGoodwin",
+   "role": "Superintendent, SAU 6 (introduces the administrative team and is thanked 'Doctor' by the moderator [4-8]; presents the budget PowerPoint [23-78]; the moderator introduces 'Superintendent Doctor Middleton, the Goodman' [23])"
+  },
+  "37": {
+   "name": "Middleton McGoodwin",
+   "role": "Superintendent, SAU 6 (introduces the administrative team and is thanked 'Doctor' by the moderator [4-8]; presents the budget PowerPoint [23-78]; the moderator introduces 'Superintendent Doctor Middleton, the Goodman' [23])"
+  },
+  "38": {
+   "name": "Middleton McGoodwin",
+   "role": "Superintendent, SAU 6 (introduces the administrative team and is thanked 'Doctor' by the moderator [4-8]; presents the budget PowerPoint [23-78]; the moderator introduces 'Superintendent Doctor Middleton, the Goodman' [23])"
+  },
+  "39": {
+   "name": "Middleton McGoodwin",
+   "role": "Superintendent, SAU 6 (introduces the administrative team and is thanked 'Doctor' by the moderator [4-8]; presents the budget PowerPoint [23-78]; the moderator introduces 'Superintendent Doctor Middleton, the Goodman' [23])"
+  },
+  "40": {
+   "name": "Middleton McGoodwin",
+   "role": "Superintendent, SAU 6 (introduces the administrative team and is thanked 'Doctor' by the moderator [4-8]; presents the budget PowerPoint [23-78]; the moderator introduces 'Superintendent Doctor Middleton, the Goodman' [23])"
+  },
+  "41": {
+   "name": "Middleton McGoodwin",
+   "role": "Superintendent, SAU 6 (introduces the administrative team and is thanked 'Doctor' by the moderator [4-8]; presents the budget PowerPoint [23-78]; the moderator introduces 'Superintendent Doctor Middleton, the Goodman' [23])"
+  },
+  "42": {
+   "name": "Middleton McGoodwin",
+   "role": "Superintendent, SAU 6 (introduces the administrative team and is thanked 'Doctor' by the moderator [4-8]; presents the budget PowerPoint [23-78]; the moderator introduces 'Superintendent Doctor Middleton, the Goodman' [23])"
+  },
+  "43": {
+   "name": "Middleton McGoodwin",
+   "role": "Superintendent, SAU 6 (introduces the administrative team and is thanked 'Doctor' by the moderator [4-8]; presents the budget PowerPoint [23-78]; the moderator introduces 'Superintendent Doctor Middleton, the Goodman' [23])"
+  },
+  "44": {
+   "name": "Middleton McGoodwin",
+   "role": "Superintendent, SAU 6 (introduces the administrative team and is thanked 'Doctor' by the moderator [4-8]; presents the budget PowerPoint [23-78]; the moderator introduces 'Superintendent Doctor Middleton, the Goodman' [23])"
+  },
+  "45": {
+   "name": "Middleton McGoodwin",
+   "role": "Superintendent, SAU 6 (introduces the administrative team and is thanked 'Doctor' by the moderator [4-8]; presents the budget PowerPoint [23-78]; the moderator introduces 'Superintendent Doctor Middleton, the Goodman' [23])"
+  },
+  "46": {
+   "name": "Middleton McGoodwin",
+   "role": "Superintendent, SAU 6 (introduces the administrative team and is thanked 'Doctor' by the moderator [4-8]; presents the budget PowerPoint [23-78]; the moderator introduces 'Superintendent Doctor Middleton, the Goodman' [23])"
+  },
+  "47": {
+   "name": "Middleton McGoodwin",
+   "role": "Superintendent, SAU 6 (introduces the administrative team and is thanked 'Doctor' by the moderator [4-8]; presents the budget PowerPoint [23-78]; the moderator introduces 'Superintendent Doctor Middleton, the Goodman' [23])"
+  },
+  "48": {
+   "name": "Middleton McGoodwin",
+   "role": "Superintendent, SAU 6 (introduces the administrative team and is thanked 'Doctor' by the moderator [4-8]; presents the budget PowerPoint [23-78]; the moderator introduces 'Superintendent Doctor Middleton, the Goodman' [23])"
+  },
+  "49": {
+   "name": "Middleton McGoodwin",
+   "role": "Superintendent, SAU 6 (introduces the administrative team and is thanked 'Doctor' by the moderator [4-8]; presents the budget PowerPoint [23-78]; the moderator introduces 'Superintendent Doctor Middleton, the Goodman' [23])"
+  },
+  "50": {
+   "name": "Middleton McGoodwin",
+   "role": "Superintendent, SAU 6 (introduces the administrative team and is thanked 'Doctor' by the moderator [4-8]; presents the budget PowerPoint [23-78]; the moderator introduces 'Superintendent Doctor Middleton, the Goodman' [23])"
+  },
+  "51": {
+   "name": "Middleton McGoodwin",
+   "role": "Superintendent, SAU 6 (introduces the administrative team and is thanked 'Doctor' by the moderator [4-8]; presents the budget PowerPoint [23-78]; the moderator introduces 'Superintendent Doctor Middleton, the Goodman' [23])"
+  },
+  "52": {
+   "name": "Middleton McGoodwin",
+   "role": "Superintendent, SAU 6 (introduces the administrative team and is thanked 'Doctor' by the moderator [4-8]; presents the budget PowerPoint [23-78]; the moderator introduces 'Superintendent Doctor Middleton, the Goodman' [23])"
+  },
+  "53": {
+   "name": "Middleton McGoodwin",
+   "role": "Superintendent, SAU 6 (introduces the administrative team and is thanked 'Doctor' by the moderator [4-8]; presents the budget PowerPoint [23-78]; the moderator introduces 'Superintendent Doctor Middleton, the Goodman' [23])"
+  },
+  "54": {
+   "name": "Middleton McGoodwin",
+   "role": "Superintendent, SAU 6 (introduces the administrative team and is thanked 'Doctor' by the moderator [4-8]; presents the budget PowerPoint [23-78]; the moderator introduces 'Superintendent Doctor Middleton, the Goodman' [23])"
+  },
+  "55": {
+   "name": "Middleton McGoodwin",
+   "role": "Superintendent, SAU 6 (introduces the administrative team and is thanked 'Doctor' by the moderator [4-8]; presents the budget PowerPoint [23-78]; the moderator introduces 'Superintendent Doctor Middleton, the Goodman' [23])"
+  },
+  "56": {
+   "name": "Middleton McGoodwin",
+   "role": "Superintendent, SAU 6 (introduces the administrative team and is thanked 'Doctor' by the moderator [4-8]; presents the budget PowerPoint [23-78]; the moderator introduces 'Superintendent Doctor Middleton, the Goodman' [23])"
+  },
+  "57": {
+   "name": "Middleton McGoodwin",
+   "role": "Superintendent, SAU 6 (introduces the administrative team and is thanked 'Doctor' by the moderator [4-8]; presents the budget PowerPoint [23-78]; the moderator introduces 'Superintendent Doctor Middleton, the Goodman' [23])"
+  },
+  "58": {
+   "name": "Middleton McGoodwin",
+   "role": "Superintendent, SAU 6 (introduces the administrative team and is thanked 'Doctor' by the moderator [4-8]; presents the budget PowerPoint [23-78]; the moderator introduces 'Superintendent Doctor Middleton, the Goodman' [23])"
+  },
+  "59": {
+   "name": "Middleton McGoodwin",
+   "role": "Superintendent, SAU 6 (introduces the administrative team and is thanked 'Doctor' by the moderator [4-8]; presents the budget PowerPoint [23-78]; the moderator introduces 'Superintendent Doctor Middleton, the Goodman' [23])"
+  },
+  "60": {
+   "name": "Middleton McGoodwin",
+   "role": "Superintendent, SAU 6 (introduces the administrative team and is thanked 'Doctor' by the moderator [4-8]; presents the budget PowerPoint [23-78]; the moderator introduces 'Superintendent Doctor Middleton, the Goodman' [23])"
+  },
+  "61": {
+   "name": "Middleton McGoodwin",
+   "role": "Superintendent, SAU 6 (introduces the administrative team and is thanked 'Doctor' by the moderator [4-8]; presents the budget PowerPoint [23-78]; the moderator introduces 'Superintendent Doctor Middleton, the Goodman' [23])"
+  },
+  "62": {
+   "name": "Middleton McGoodwin",
+   "role": "Superintendent, SAU 6 (introduces the administrative team and is thanked 'Doctor' by the moderator [4-8]; presents the budget PowerPoint [23-78]; the moderator introduces 'Superintendent Doctor Middleton, the Goodman' [23])"
+  },
+  "63": {
+   "name": "Middleton McGoodwin",
+   "role": "Superintendent, SAU 6 (introduces the administrative team and is thanked 'Doctor' by the moderator [4-8]; presents the budget PowerPoint [23-78]; the moderator introduces 'Superintendent Doctor Middleton, the Goodman' [23])"
+  },
+  "64": {
+   "name": "Middleton McGoodwin",
+   "role": "Superintendent, SAU 6 (introduces the administrative team and is thanked 'Doctor' by the moderator [4-8]; presents the budget PowerPoint [23-78]; the moderator introduces 'Superintendent Doctor Middleton, the Goodman' [23])"
+  },
+  "65": {
+   "name": "Middleton McGoodwin",
+   "role": "Superintendent, SAU 6 (introduces the administrative team and is thanked 'Doctor' by the moderator [4-8]; presents the budget PowerPoint [23-78]; the moderator introduces 'Superintendent Doctor Middleton, the Goodman' [23])"
+  },
+  "66": {
+   "name": "Middleton McGoodwin",
+   "role": "Superintendent, SAU 6 (introduces the administrative team and is thanked 'Doctor' by the moderator [4-8]; presents the budget PowerPoint [23-78]; the moderator introduces 'Superintendent Doctor Middleton, the Goodman' [23])"
+  },
+  "67": {
+   "name": "Middleton McGoodwin",
+   "role": "Superintendent, SAU 6 (introduces the administrative team and is thanked 'Doctor' by the moderator [4-8]; presents the budget PowerPoint [23-78]; the moderator introduces 'Superintendent Doctor Middleton, the Goodman' [23])"
+  },
+  "68": {
+   "name": "Middleton McGoodwin",
+   "role": "Superintendent, SAU 6 (introduces the administrative team and is thanked 'Doctor' by the moderator [4-8]; presents the budget PowerPoint [23-78]; the moderator introduces 'Superintendent Doctor Middleton, the Goodman' [23])"
+  },
+  "69": {
+   "name": "Middleton McGoodwin",
+   "role": "Superintendent, SAU 6 (introduces the administrative team and is thanked 'Doctor' by the moderator [4-8]; presents the budget PowerPoint [23-78]; the moderator introduces 'Superintendent Doctor Middleton, the Goodman' [23])"
+  },
+  "70": {
+   "name": "Middleton McGoodwin",
+   "role": "Superintendent, SAU 6 (introduces the administrative team and is thanked 'Doctor' by the moderator [4-8]; presents the budget PowerPoint [23-78]; the moderator introduces 'Superintendent Doctor Middleton, the Goodman' [23])"
+  },
+  "71": {
+   "name": "Middleton McGoodwin",
+   "role": "Superintendent, SAU 6 (introduces the administrative team and is thanked 'Doctor' by the moderator [4-8]; presents the budget PowerPoint [23-78]; the moderator introduces 'Superintendent Doctor Middleton, the Goodman' [23])"
+  },
+  "72": {
+   "name": "Middleton McGoodwin",
+   "role": "Superintendent, SAU 6 (introduces the administrative team and is thanked 'Doctor' by the moderator [4-8]; presents the budget PowerPoint [23-78]; the moderator introduces 'Superintendent Doctor Middleton, the Goodman' [23])"
+  },
+  "73": {
+   "name": "Middleton McGoodwin",
+   "role": "Superintendent, SAU 6 (introduces the administrative team and is thanked 'Doctor' by the moderator [4-8]; presents the budget PowerPoint [23-78]; the moderator introduces 'Superintendent Doctor Middleton, the Goodman' [23])"
+  },
+  "74": {
+   "name": "Middleton McGoodwin",
+   "role": "Superintendent, SAU 6 (introduces the administrative team and is thanked 'Doctor' by the moderator [4-8]; presents the budget PowerPoint [23-78]; the moderator introduces 'Superintendent Doctor Middleton, the Goodman' [23])"
+  },
+  "75": {
+   "name": "Middleton McGoodwin",
+   "role": "Superintendent, SAU 6 (introduces the administrative team and is thanked 'Doctor' by the moderator [4-8]; presents the budget PowerPoint [23-78]; the moderator introduces 'Superintendent Doctor Middleton, the Goodman' [23])"
+  },
+  "76": {
+   "name": "Middleton McGoodwin",
+   "role": "Superintendent, SAU 6 (introduces the administrative team and is thanked 'Doctor' by the moderator [4-8]; presents the budget PowerPoint [23-78]; the moderator introduces 'Superintendent Doctor Middleton, the Goodman' [23])"
+  },
+  "77": {
+   "name": "Middleton McGoodwin",
+   "role": "Superintendent, SAU 6 (introduces the administrative team and is thanked 'Doctor' by the moderator [4-8]; presents the budget PowerPoint [23-78]; the moderator introduces 'Superintendent Doctor Middleton, the Goodman' [23])"
+  },
+  "78": {
+   "name": "Middleton McGoodwin",
+   "role": "Superintendent, SAU 6 (introduces the administrative team and is thanked 'Doctor' by the moderator [4-8]; presents the budget PowerPoint [23-78]; the moderator introduces 'Superintendent Doctor Middleton, the Goodman' [23])"
+  },
+  "133": {
+   "name": "Middleton McGoodwin",
+   "role": "Superintendent, SAU 6 (introduces the administrative team and is thanked 'Doctor' by the moderator [4-8]; presents the budget PowerPoint [23-78]; the moderator introduces 'Superintendent Doctor Middleton, the Goodman' [23])"
+  },
+  "134": {
+   "name": "Middleton McGoodwin",
+   "role": "Superintendent, SAU 6 (introduces the administrative team and is thanked 'Doctor' by the moderator [4-8]; presents the budget PowerPoint [23-78]; the moderator introduces 'Superintendent Doctor Middleton, the Goodman' [23])"
+  },
+  "136": {
+   "name": "Middleton McGoodwin",
+   "role": "Superintendent, SAU 6 (introduces the administrative team and is thanked 'Doctor' by the moderator [4-8]; presents the budget PowerPoint [23-78]; the moderator introduces 'Superintendent Doctor Middleton, the Goodman' [23])"
+  },
+  "137": {
+   "name": "Middleton McGoodwin",
+   "role": "Superintendent, SAU 6 (introduces the administrative team and is thanked 'Doctor' by the moderator [4-8]; presents the budget PowerPoint [23-78]; the moderator introduces 'Superintendent Doctor Middleton, the Goodman' [23])"
+  },
+  "139": {
+   "name": "Middleton McGoodwin",
+   "role": "Superintendent, SAU 6 (introduces the administrative team and is thanked 'Doctor' by the moderator [4-8]; presents the budget PowerPoint [23-78]; the moderator introduces 'Superintendent Doctor Middleton, the Goodman' [23])"
+  },
+  "141": {
+   "name": "Middleton McGoodwin",
+   "role": "Superintendent, SAU 6 (introduces the administrative team and is thanked 'Doctor' by the moderator [4-8]; presents the budget PowerPoint [23-78]; the moderator introduces 'Superintendent Doctor Middleton, the Goodman' [23])"
+  },
+  "143": {
+   "name": "Middleton McGoodwin",
+   "role": "Superintendent, SAU 6 (introduces the administrative team and is thanked 'Doctor' by the moderator [4-8]; presents the budget PowerPoint [23-78]; the moderator introduces 'Superintendent Doctor Middleton, the Goodman' [23])"
+  },
+  "144": {
+   "name": "Middleton McGoodwin",
+   "role": "Superintendent, SAU 6 (introduces the administrative team and is thanked 'Doctor' by the moderator [4-8]; presents the budget PowerPoint [23-78]; the moderator introduces 'Superintendent Doctor Middleton, the Goodman' [23])"
+  },
+  "145": {
+   "name": "Middleton McGoodwin",
+   "role": "Superintendent, SAU 6 (introduces the administrative team and is thanked 'Doctor' by the moderator [4-8]; presents the budget PowerPoint [23-78]; the moderator introduces 'Superintendent Doctor Middleton, the Goodman' [23])"
+  },
+  "146": {
+   "name": "Middleton McGoodwin",
+   "role": "Superintendent, SAU 6 (introduces the administrative team and is thanked 'Doctor' by the moderator [4-8]; presents the budget PowerPoint [23-78]; the moderator introduces 'Superintendent Doctor Middleton, the Goodman' [23])"
+  },
+  "284": {
+   "name": "Middleton McGoodwin",
+   "role": "Superintendent, SAU 6 (introduces the administrative team and is thanked 'Doctor' by the moderator [4-8]; presents the budget PowerPoint [23-78]; the moderator introduces 'Superintendent Doctor Middleton, the Goodman' [23])"
+  },
+  "286": {
+   "name": "Middleton McGoodwin",
+   "role": "Superintendent, SAU 6 (introduces the administrative team and is thanked 'Doctor' by the moderator [4-8]; presents the budget PowerPoint [23-78]; the moderator introduces 'Superintendent Doctor Middleton, the Goodman' [23])"
+  },
+  "287": {
+   "name": "Middleton McGoodwin",
+   "role": "Superintendent, SAU 6 (introduces the administrative team and is thanked 'Doctor' by the moderator [4-8]; presents the budget PowerPoint [23-78]; the moderator introduces 'Superintendent Doctor Middleton, the Goodman' [23])"
+  },
+  "288": {
+   "name": "Middleton McGoodwin",
+   "role": "Superintendent, SAU 6 (introduces the administrative team and is thanked 'Doctor' by the moderator [4-8]; presents the budget PowerPoint [23-78]; the moderator introduces 'Superintendent Doctor Middleton, the Goodman' [23])"
+  },
+  "289": {
+   "name": "Middleton McGoodwin",
+   "role": "Superintendent, SAU 6 (introduces the administrative team and is thanked 'Doctor' by the moderator [4-8]; presents the budget PowerPoint [23-78]; the moderator introduces 'Superintendent Doctor Middleton, the Goodman' [23])"
+  },
+  "135": {
+   "name": "Middleton McGoodwin",
+   "role": "Superintendent, SAU 6 (introduces the administrative team and is thanked 'Doctor' by the moderator [4-8]; presents the budget PowerPoint [23-78]; the moderator introduces 'Superintendent Doctor Middleton, the Goodman' [23])"
+  },
+  "285": {
+   "name": "Middleton McGoodwin",
+   "role": "Superintendent, SAU 6 (introduces the administrative team and is thanked 'Doctor' by the moderator [4-8]; presents the budget PowerPoint [23-78]; the moderator introduces 'Superintendent Doctor Middleton, the Goodman' [23])"
+  },
+  "9": {
+   "name": "Frank Sprague",
+   "role": "Claremont School Board Chair (moderator asks 'Chairman ... Frank Sprague' to introduce the board [8] and thanks 'Chairman Sprague' [13]; presents article 2 [85-89]; moves to restrict reconsideration after the moderator recognizes 'Chairman Sprague' [245-246]; cited as 'Frank's point' on cameras [415])"
+  },
+  "10": {
+   "name": "Frank Sprague",
+   "role": "Claremont School Board Chair (moderator asks 'Chairman ... Frank Sprague' to introduce the board [8] and thanks 'Chairman Sprague' [13]; presents article 2 [85-89]; moves to restrict reconsideration after the moderator recognizes 'Chairman Sprague' [245-246]; cited as 'Frank's point' on cameras [415])"
+  },
+  "11": {
+   "name": "Frank Sprague",
+   "role": "Claremont School Board Chair (moderator asks 'Chairman ... Frank Sprague' to introduce the board [8] and thanks 'Chairman Sprague' [13]; presents article 2 [85-89]; moves to restrict reconsideration after the moderator recognizes 'Chairman Sprague' [245-246]; cited as 'Frank's point' on cameras [415])"
+  },
+  "12": {
+   "name": "Frank Sprague",
+   "role": "Claremont School Board Chair (moderator asks 'Chairman ... Frank Sprague' to introduce the board [8] and thanks 'Chairman Sprague' [13]; presents article 2 [85-89]; moves to restrict reconsideration after the moderator recognizes 'Chairman Sprague' [245-246]; cited as 'Frank's point' on cameras [415])"
+  },
+  "85": {
+   "name": "Frank Sprague",
+   "role": "Claremont School Board Chair (moderator asks 'Chairman ... Frank Sprague' to introduce the board [8] and thanks 'Chairman Sprague' [13]; presents article 2 [85-89]; moves to restrict reconsideration after the moderator recognizes 'Chairman Sprague' [245-246]; cited as 'Frank's point' on cameras [415])"
+  },
+  "86": {
+   "name": "Frank Sprague",
+   "role": "Claremont School Board Chair (moderator asks 'Chairman ... Frank Sprague' to introduce the board [8] and thanks 'Chairman Sprague' [13]; presents article 2 [85-89]; moves to restrict reconsideration after the moderator recognizes 'Chairman Sprague' [245-246]; cited as 'Frank's point' on cameras [415])"
+  },
+  "87": {
+   "name": "Frank Sprague",
+   "role": "Claremont School Board Chair (moderator asks 'Chairman ... Frank Sprague' to introduce the board [8] and thanks 'Chairman Sprague' [13]; presents article 2 [85-89]; moves to restrict reconsideration after the moderator recognizes 'Chairman Sprague' [245-246]; cited as 'Frank's point' on cameras [415])"
+  },
+  "88": {
+   "name": "Frank Sprague",
+   "role": "Claremont School Board Chair (moderator asks 'Chairman ... Frank Sprague' to introduce the board [8] and thanks 'Chairman Sprague' [13]; presents article 2 [85-89]; moves to restrict reconsideration after the moderator recognizes 'Chairman Sprague' [245-246]; cited as 'Frank's point' on cameras [415])"
+  },
+  "89": {
+   "name": "Frank Sprague",
+   "role": "Claremont School Board Chair (moderator asks 'Chairman ... Frank Sprague' to introduce the board [8] and thanks 'Chairman Sprague' [13]; presents article 2 [85-89]; moves to restrict reconsideration after the moderator recognizes 'Chairman Sprague' [245-246]; cited as 'Frank's point' on cameras [415])"
+  },
+  "171": {
+   "name": "Frank Sprague",
+   "role": "Claremont School Board Chair (moderator asks 'Chairman ... Frank Sprague' to introduce the board [8] and thanks 'Chairman Sprague' [13]; presents article 2 [85-89]; moves to restrict reconsideration after the moderator recognizes 'Chairman Sprague' [245-246]; cited as 'Frank's point' on cameras [415])"
+  },
+  "172": {
+   "name": "Frank Sprague",
+   "role": "Claremont School Board Chair (moderator asks 'Chairman ... Frank Sprague' to introduce the board [8] and thanks 'Chairman Sprague' [13]; presents article 2 [85-89]; moves to restrict reconsideration after the moderator recognizes 'Chairman Sprague' [245-246]; cited as 'Frank's point' on cameras [415])"
+  },
+  "173": {
+   "name": "Frank Sprague",
+   "role": "Claremont School Board Chair (moderator asks 'Chairman ... Frank Sprague' to introduce the board [8] and thanks 'Chairman Sprague' [13]; presents article 2 [85-89]; moves to restrict reconsideration after the moderator recognizes 'Chairman Sprague' [245-246]; cited as 'Frank's point' on cameras [415])"
+  },
+  "246": {
+   "name": "Frank Sprague",
+   "role": "Claremont School Board Chair (moderator asks 'Chairman ... Frank Sprague' to introduce the board [8] and thanks 'Chairman Sprague' [13]; presents article 2 [85-89]; moves to restrict reconsideration after the moderator recognizes 'Chairman Sprague' [245-246]; cited as 'Frank's point' on cameras [415])"
+  },
+  "248": {
+   "name": "Frank Sprague",
+   "role": "Claremont School Board Chair (moderator asks 'Chairman ... Frank Sprague' to introduce the board [8] and thanks 'Chairman Sprague' [13]; presents article 2 [85-89]; moves to restrict reconsideration after the moderator recognizes 'Chairman Sprague' [245-246]; cited as 'Frank's point' on cameras [415])"
+  },
+  "402": {
+   "name": "Frank Sprague",
+   "role": "Claremont School Board Chair (moderator asks 'Chairman ... Frank Sprague' to introduce the board [8] and thanks 'Chairman Sprague' [13]; presents article 2 [85-89]; moves to restrict reconsideration after the moderator recognizes 'Chairman Sprague' [245-246]; cited as 'Frank's point' on cameras [415])"
+  },
+  "404": {
+   "name": "Frank Sprague",
+   "role": "Claremont School Board Chair (moderator asks 'Chairman ... Frank Sprague' to introduce the board [8] and thanks 'Chairman Sprague' [13]; presents article 2 [85-89]; moves to restrict reconsideration after the moderator recognizes 'Chairman Sprague' [245-246]; cited as 'Frank's point' on cameras [415])"
+  },
+  "406": {
+   "name": "Frank Sprague",
+   "role": "Claremont School Board Chair (moderator asks 'Chairman ... Frank Sprague' to introduce the board [8] and thanks 'Chairman Sprague' [13]; presents article 2 [85-89]; moves to restrict reconsideration after the moderator recognizes 'Chairman Sprague' [245-246]; cited as 'Frank's point' on cameras [415])"
+  },
+  "407": {
+   "name": "Frank Sprague",
+   "role": "Claremont School Board Chair (moderator asks 'Chairman ... Frank Sprague' to introduce the board [8] and thanks 'Chairman Sprague' [13]; presents article 2 [85-89]; moves to restrict reconsideration after the moderator recognizes 'Chairman Sprague' [245-246]; cited as 'Frank's point' on cameras [415])"
+  },
+  "122": {
+   "name": "Cory LeClair",
+   "role": "Assistant Superintendent, SAU 6 (a commenter asks to hear from the administration, ASR 'Doctor. Croydon. Claire' [121]; answers on the curriculum positions [122-131]; introduced by the superintendent [5])"
+  },
+  "123": {
+   "name": "Cory LeClair",
+   "role": "Assistant Superintendent, SAU 6 (a commenter asks to hear from the administration, ASR 'Doctor. Croydon. Claire' [121]; answers on the curriculum positions [122-131]; introduced by the superintendent [5])"
+  },
+  "124": {
+   "name": "Cory LeClair",
+   "role": "Assistant Superintendent, SAU 6 (a commenter asks to hear from the administration, ASR 'Doctor. Croydon. Claire' [121]; answers on the curriculum positions [122-131]; introduced by the superintendent [5])"
+  },
+  "125": {
+   "name": "Cory LeClair",
+   "role": "Assistant Superintendent, SAU 6 (a commenter asks to hear from the administration, ASR 'Doctor. Croydon. Claire' [121]; answers on the curriculum positions [122-131]; introduced by the superintendent [5])"
+  },
+  "126": {
+   "name": "Cory LeClair",
+   "role": "Assistant Superintendent, SAU 6 (a commenter asks to hear from the administration, ASR 'Doctor. Croydon. Claire' [121]; answers on the curriculum positions [122-131]; introduced by the superintendent [5])"
+  },
+  "127": {
+   "name": "Cory LeClair",
+   "role": "Assistant Superintendent, SAU 6 (a commenter asks to hear from the administration, ASR 'Doctor. Croydon. Claire' [121]; answers on the curriculum positions [122-131]; introduced by the superintendent [5])"
+  },
+  "128": {
+   "name": "Cory LeClair",
+   "role": "Assistant Superintendent, SAU 6 (a commenter asks to hear from the administration, ASR 'Doctor. Croydon. Claire' [121]; answers on the curriculum positions [122-131]; introduced by the superintendent [5])"
+  },
+  "129": {
+   "name": "Cory LeClair",
+   "role": "Assistant Superintendent, SAU 6 (a commenter asks to hear from the administration, ASR 'Doctor. Croydon. Claire' [121]; answers on the curriculum positions [122-131]; introduced by the superintendent [5])"
+  },
+  "130": {
+   "name": "Cory LeClair",
+   "role": "Assistant Superintendent, SAU 6 (a commenter asks to hear from the administration, ASR 'Doctor. Croydon. Claire' [121]; answers on the curriculum positions [122-131]; introduced by the superintendent [5])"
+  },
+  "131": {
+   "name": "Cory LeClair",
+   "role": "Assistant Superintendent, SAU 6 (a commenter asks to hear from the administration, ASR 'Doctor. Croydon. Claire' [121]; answers on the curriculum positions [122-131]; introduced by the superintendent [5])"
+  },
+  "104": {
+   "name": "Lois Cahill",
+   "role": "Public commenter, Ward 2 (self-identified, ASR 'Lois Cahill or two' [104])"
+  },
+  "105": {
+   "name": "Lois Cahill",
+   "role": "Public commenter, Ward 2 (self-identified, ASR 'Lois Cahill or two' [104])"
+  },
+  "150": {
+   "name": "George",
+   "role": "Public commenter (first name from the next speaker's 'echo the sentiments of George' [157]; ASR self-ID 'Judge 1 or 2' [149]; returns with the same '13 years' theme [298])"
+  },
+  "151": {
+   "name": "George",
+   "role": "Public commenter (first name from the next speaker's 'echo the sentiments of George' [157]; ASR self-ID 'Judge 1 or 2' [149]; returns with the same '13 years' theme [298])"
+  },
+  "152": {
+   "name": "George",
+   "role": "Public commenter (first name from the next speaker's 'echo the sentiments of George' [157]; ASR self-ID 'Judge 1 or 2' [149]; returns with the same '13 years' theme [298])"
+  },
+  "153": {
+   "name": "George",
+   "role": "Public commenter (first name from the next speaker's 'echo the sentiments of George' [157]; ASR self-ID 'Judge 1 or 2' [149]; returns with the same '13 years' theme [298])"
+  },
+  "154": {
+   "name": "George",
+   "role": "Public commenter (first name from the next speaker's 'echo the sentiments of George' [157]; ASR self-ID 'Judge 1 or 2' [149]; returns with the same '13 years' theme [298])"
+  },
+  "149": {
+   "name": "George",
+   "role": "Public commenter (first name from the next speaker's 'echo the sentiments of George' [157]; ASR self-ID 'Judge 1 or 2' [149]; returns with the same '13 years' theme [298])"
+  },
+  "296": {
+   "name": "George",
+   "role": "Public commenter (first name from the next speaker's 'echo the sentiments of George' [157]; ASR self-ID 'Judge 1 or 2' [149]; returns with the same '13 years' theme [298])"
+  },
+  "297": {
+   "name": "George",
+   "role": "Public commenter (first name from the next speaker's 'echo the sentiments of George' [157]; ASR self-ID 'Judge 1 or 2' [149]; returns with the same '13 years' theme [298])"
+  },
+  "298": {
+   "name": "George",
+   "role": "Public commenter (first name from the next speaker's 'echo the sentiments of George' [157]; ASR self-ID 'Judge 1 or 2' [149]; returns with the same '13 years' theme [298])"
+  },
+  "299": {
+   "name": "George",
+   "role": "Public commenter (first name from the next speaker's 'echo the sentiments of George' [157]; ASR self-ID 'Judge 1 or 2' [149]; returns with the same '13 years' theme [298])"
+  },
+  "300": {
+   "name": "George",
+   "role": "Public commenter (first name from the next speaker's 'echo the sentiments of George' [157]; ASR self-ID 'Judge 1 or 2' [149]; returns with the same '13 years' theme [298])"
+  },
+  "213": {
+   "name": "Chris Irish",
+   "role": "Claremont School Board Vice Chair until 1/31/2018, board member (self-identifies 'Chris Irish, Ward three' [311]; moderator recognizes 'school board member Chris Irish' for article 3 [360])"
+  },
+  "214": {
+   "name": "Chris Irish",
+   "role": "Claremont School Board Vice Chair until 1/31/2018, board member (self-identifies 'Chris Irish, Ward three' [311]; moderator recognizes 'school board member Chris Irish' for article 3 [360])"
+  },
+  "215": {
+   "name": "Chris Irish",
+   "role": "Claremont School Board Vice Chair until 1/31/2018, board member (self-identifies 'Chris Irish, Ward three' [311]; moderator recognizes 'school board member Chris Irish' for article 3 [360])"
+  },
+  "216": {
+   "name": "Chris Irish",
+   "role": "Claremont School Board Vice Chair until 1/31/2018, board member (self-identifies 'Chris Irish, Ward three' [311]; moderator recognizes 'school board member Chris Irish' for article 3 [360])"
+  },
+  "361": {
+   "name": "Chris Irish",
+   "role": "Claremont School Board Vice Chair until 1/31/2018, board member (self-identifies 'Chris Irish, Ward three' [311]; moderator recognizes 'school board member Chris Irish' for article 3 [360])"
+  },
+  "362": {
+   "name": "Chris Irish",
+   "role": "Claremont School Board Vice Chair until 1/31/2018, board member (self-identifies 'Chris Irish, Ward three' [311]; moderator recognizes 'school board member Chris Irish' for article 3 [360])"
+  },
+  "363": {
+   "name": "Chris Irish",
+   "role": "Claremont School Board Vice Chair until 1/31/2018, board member (self-identifies 'Chris Irish, Ward three' [311]; moderator recognizes 'school board member Chris Irish' for article 3 [360])"
+  },
+  "364": {
+   "name": "Chris Irish",
+   "role": "Claremont School Board Vice Chair until 1/31/2018, board member (self-identifies 'Chris Irish, Ward three' [311]; moderator recognizes 'school board member Chris Irish' for article 3 [360])"
+  },
+  "365": {
+   "name": "Chris Irish",
+   "role": "Claremont School Board Vice Chair until 1/31/2018, board member (self-identifies 'Chris Irish, Ward three' [311]; moderator recognizes 'school board member Chris Irish' for article 3 [360])"
+  },
+  "366": {
+   "name": "Chris Irish",
+   "role": "Claremont School Board Vice Chair until 1/31/2018, board member (self-identifies 'Chris Irish, Ward three' [311]; moderator recognizes 'school board member Chris Irish' for article 3 [360])"
+  },
+  "367": {
+   "name": "Chris Irish",
+   "role": "Claremont School Board Vice Chair until 1/31/2018, board member (self-identifies 'Chris Irish, Ward three' [311]; moderator recognizes 'school board member Chris Irish' for article 3 [360])"
+  },
+  "368": {
+   "name": "Chris Irish",
+   "role": "Claremont School Board Vice Chair until 1/31/2018, board member (self-identifies 'Chris Irish, Ward three' [311]; moderator recognizes 'school board member Chris Irish' for article 3 [360])"
+  },
+  "369": {
+   "name": "Chris Irish",
+   "role": "Claremont School Board Vice Chair until 1/31/2018, board member (self-identifies 'Chris Irish, Ward three' [311]; moderator recognizes 'school board member Chris Irish' for article 3 [360])"
+  },
+  "371": {
+   "name": "Chris Irish",
+   "role": "Claremont School Board Vice Chair until 1/31/2018, board member (self-identifies 'Chris Irish, Ward three' [311]; moderator recognizes 'school board member Chris Irish' for article 3 [360])"
+  },
+  "373": {
+   "name": "Chris Irish",
+   "role": "Claremont School Board Vice Chair until 1/31/2018, board member (self-identifies 'Chris Irish, Ward three' [311]; moderator recognizes 'school board member Chris Irish' for article 3 [360])"
+  },
+  "375": {
+   "name": "Chris Irish",
+   "role": "Claremont School Board Vice Chair until 1/31/2018, board member (self-identifies 'Chris Irish, Ward three' [311]; moderator recognizes 'school board member Chris Irish' for article 3 [360])"
+  },
+  "376": {
+   "name": "Chris Irish",
+   "role": "Claremont School Board Vice Chair until 1/31/2018, board member (self-identifies 'Chris Irish, Ward three' [311]; moderator recognizes 'school board member Chris Irish' for article 3 [360])"
+  },
+  "217": {
+   "name": "Jason Benware",
+   "role": "Ward 1 resident and school board candidate, elected 3/13/2018 (self-identifies 'Jason Ventura, Ward one' [217] and 'Jason Ben Ward one' [386]; named as a vote counter 'Jason Benwell' [80])"
+  },
+  "218": {
+   "name": "Jason Benware",
+   "role": "Ward 1 resident and school board candidate, elected 3/13/2018 (self-identifies 'Jason Ventura, Ward one' [217] and 'Jason Ben Ward one' [386]; named as a vote counter 'Jason Benwell' [80])"
+  },
+  "219": {
+   "name": "Jason Benware",
+   "role": "Ward 1 resident and school board candidate, elected 3/13/2018 (self-identifies 'Jason Ventura, Ward one' [217] and 'Jason Ben Ward one' [386]; named as a vote counter 'Jason Benwell' [80])"
+  },
+  "221": {
+   "name": "Jason Benware",
+   "role": "Ward 1 resident and school board candidate, elected 3/13/2018 (self-identifies 'Jason Ventura, Ward one' [217] and 'Jason Ben Ward one' [386]; named as a vote counter 'Jason Benwell' [80])"
+  },
+  "222": {
+   "name": "Jason Benware",
+   "role": "Ward 1 resident and school board candidate, elected 3/13/2018 (self-identifies 'Jason Ventura, Ward one' [217] and 'Jason Ben Ward one' [386]; named as a vote counter 'Jason Benwell' [80])"
+  },
+  "224": {
+   "name": "Jason Benware",
+   "role": "Ward 1 resident and school board candidate, elected 3/13/2018 (self-identifies 'Jason Ventura, Ward one' [217] and 'Jason Ben Ward one' [386]; named as a vote counter 'Jason Benwell' [80])"
+  },
+  "274": {
+   "name": "Jason Benware",
+   "role": "Ward 1 resident and school board candidate, elected 3/13/2018 (self-identifies 'Jason Ventura, Ward one' [217] and 'Jason Ben Ward one' [386]; named as a vote counter 'Jason Benwell' [80])"
+  },
+  "275": {
+   "name": "Jason Benware",
+   "role": "Ward 1 resident and school board candidate, elected 3/13/2018 (self-identifies 'Jason Ventura, Ward one' [217] and 'Jason Ben Ward one' [386]; named as a vote counter 'Jason Benwell' [80])"
+  },
+  "276": {
+   "name": "Jason Benware",
+   "role": "Ward 1 resident and school board candidate, elected 3/13/2018 (self-identifies 'Jason Ventura, Ward one' [217] and 'Jason Ben Ward one' [386]; named as a vote counter 'Jason Benwell' [80])"
+  },
+  "277": {
+   "name": "Jason Benware",
+   "role": "Ward 1 resident and school board candidate, elected 3/13/2018 (self-identifies 'Jason Ventura, Ward one' [217] and 'Jason Ben Ward one' [386]; named as a vote counter 'Jason Benwell' [80])"
+  },
+  "278": {
+   "name": "Jason Benware",
+   "role": "Ward 1 resident and school board candidate, elected 3/13/2018 (self-identifies 'Jason Ventura, Ward one' [217] and 'Jason Ben Ward one' [386]; named as a vote counter 'Jason Benwell' [80])"
+  },
+  "386": {
+   "name": "Jason Benware",
+   "role": "Ward 1 resident and school board candidate, elected 3/13/2018 (self-identifies 'Jason Ventura, Ward one' [217] and 'Jason Ben Ward one' [386]; named as a vote counter 'Jason Benwell' [80])"
+  },
+  "387": {
+   "name": "Jason Benware",
+   "role": "Ward 1 resident and school board candidate, elected 3/13/2018 (self-identifies 'Jason Ventura, Ward one' [217] and 'Jason Ben Ward one' [386]; named as a vote counter 'Jason Benwell' [80])"
+  },
+  "388": {
+   "name": "Jason Benware",
+   "role": "Ward 1 resident and school board candidate, elected 3/13/2018 (self-identifies 'Jason Ventura, Ward one' [217] and 'Jason Ben Ward one' [386]; named as a vote counter 'Jason Benwell' [80])"
+  },
+  "223": {
+   "name": "Michael O'Neill",
+   "role": "Business Administrator, SAU 6 (introduced by the moderator [23]; Benware thanks 'Mike' after this answer [224]; clarification requested 'from Mike' [336]; Rapp credits 'Mike O'Neill' with the roofing plan [442]; uncertain - attribution by these cues)"
+  },
+  "342": {
+   "name": "Michael O'Neill",
+   "role": "Business Administrator, SAU 6 (introduced by the moderator [23]; Benware thanks 'Mike' after this answer [224]; clarification requested 'from Mike' [336]; Rapp credits 'Mike O'Neill' with the roofing plan [442]; uncertain - attribution by these cues)"
+  },
+  "461": {
+   "name": "Michael O'Neill",
+   "role": "Business Administrator, SAU 6 (introduced by the moderator [23]; Benware thanks 'Mike' after this answer [224]; clarification requested 'from Mike' [336]; Rapp credits 'Mike O'Neill' with the roofing plan [442]; uncertain - attribution by these cues)"
+  },
+  "462": {
+   "name": "Michael O'Neill",
+   "role": "Business Administrator, SAU 6 (introduced by the moderator [23]; Benware thanks 'Mike' after this answer [224]; clarification requested 'from Mike' [336]; Rapp credits 'Mike O'Neill' with the roofing plan [442]; uncertain - attribution by these cues)"
+  },
+  "464": {
+   "name": "Michael O'Neill",
+   "role": "Business Administrator, SAU 6 (introduced by the moderator [23]; Benware thanks 'Mike' after this answer [224]; clarification requested 'from Mike' [336]; Rapp credits 'Mike O'Neill' with the roofing plan [442]; uncertain - attribution by these cues)"
+  },
+  "280": {
+   "name": "David Putnam",
+   "role": "Public commenter, Ward 2 (self-identified 'David Putnam, Ward two' [280]; moderator 'I'm going to let David speak' [418] before [419])"
+  },
+  "281": {
+   "name": "David Putnam",
+   "role": "Public commenter, Ward 2 (self-identified 'David Putnam, Ward two' [280]; moderator 'I'm going to let David speak' [418] before [419])"
+  },
+  "282": {
+   "name": "David Putnam",
+   "role": "Public commenter, Ward 2 (self-identified 'David Putnam, Ward two' [280]; moderator 'I'm going to let David speak' [418] before [419])"
+  },
+  "419": {
+   "name": "David Putnam",
+   "role": "Public commenter, Ward 2 (self-identified 'David Putnam, Ward two' [280]; moderator 'I'm going to let David speak' [418] before [419])"
+  },
+  "420": {
+   "name": "David Putnam",
+   "role": "Public commenter, Ward 2 (self-identified 'David Putnam, Ward two' [280]; moderator 'I'm going to let David speak' [418] before [419])"
+  },
+  "421": {
+   "name": "David Putnam",
+   "role": "Public commenter, Ward 2 (self-identified 'David Putnam, Ward two' [280]; moderator 'I'm going to let David speak' [418] before [419])"
+  },
+  "391": {
+   "name": "Cynthia Howard",
+   "role": "Public commenter, Ward 2 (self-identified, ASR 'Cynthia Howard. More to.' [391-392])"
+  },
+  "392": {
+   "name": "Cynthia Howard",
+   "role": "Public commenter, Ward 2 (self-identified, ASR 'Cynthia Howard. More to.' [391-392])"
+  },
+  "393": {
+   "name": "Cynthia Howard",
+   "role": "Public commenter, Ward 2 (self-identified, ASR 'Cynthia Howard. More to.' [391-392])"
+  },
+  "394": {
+   "name": "Cynthia Howard",
+   "role": "Public commenter, Ward 2 (self-identified, ASR 'Cynthia Howard. More to.' [391-392])"
+  },
+  "395": {
+   "name": "Cynthia Howard",
+   "role": "Public commenter, Ward 2 (self-identified, ASR 'Cynthia Howard. More to.' [391-392])"
+  },
+  "397": {
+   "name": "Cynthia Howard",
+   "role": "Public commenter, Ward 2 (self-identified, ASR 'Cynthia Howard. More to.' [391-392])"
+  },
+  "400": {
+   "name": "Cynthia Howard",
+   "role": "Public commenter, Ward 2 (self-identified, ASR 'Cynthia Howard. More to.' [391-392])"
+  },
+  "439": {
+   "name": "Brian Rapp",
+   "role": "Claremont School Board member (moderator recognizes 'Brian rack, board member' for article 5 [438])"
+  },
+  "440": {
+   "name": "Brian Rapp",
+   "role": "Claremont School Board member (moderator recognizes 'Brian rack, board member' for article 5 [438])"
+  },
+  "441": {
+   "name": "Brian Rapp",
+   "role": "Claremont School Board member (moderator recognizes 'Brian rack, board member' for article 5 [438])"
+  },
+  "442": {
+   "name": "Brian Rapp",
+   "role": "Claremont School Board member (moderator recognizes 'Brian rack, board member' for article 5 [438])"
+  },
+  "443": {
+   "name": "Brian Rapp",
+   "role": "Claremont School Board member (moderator recognizes 'Brian rack, board member' for article 5 [438])"
+  },
+  "108": {
+   "name": "Unidentified",
+   "role": "Public commenter asking about enrollment trends [111-113]; name not audible"
+  },
+  "110": {
+   "name": "Unidentified",
+   "role": "Public commenter asking about enrollment trends [111-113]; name not audible"
+  },
+  "114": {
+   "name": "Unidentified",
+   "role": "Public commenter asking about enrollment trends [111-113]; name not audible"
+  },
+  "164": {
+   "name": "Unidentified",
+   "role": "Public commenter opposing the amendment ('largest employer', [163-164]); name not audible; cluster also holds short remarks"
+  },
+  "120": {
+   "name": "Unidentified",
+   "role": "Public commenter, Ward 2, asking the administration about the positions [121]; name not audible"
+  },
+  "121": {
+   "name": "Unidentified",
+   "role": "Public commenter, Ward 2, asking the administration about the positions [121]; name not audible"
+  },
+  "167": {
+   "name": "Unidentified",
+   "role": "Public commenter, Ward 1, Stevens High School alumna supporting the amendment [167-169]; name not audible"
+  },
+  "168": {
+   "name": "Unidentified",
+   "role": "Public commenter, Ward 1, Stevens High School alumna supporting the amendment [167-169]; name not audible"
+  },
+  "169": {
+   "name": "Unidentified",
+   "role": "Public commenter, Ward 1, Stevens High School alumna supporting the amendment [167-169]; name not audible"
+  },
+  "177": {
+   "name": "Unidentified",
+   "role": "Public commenter, Ward 3, asking whether an amendment can be amended (ASR 'Richard Steven' [176]; possibly Richard Seaman, unverified)"
+  },
+  "179": {
+   "name": "Unidentified",
+   "role": "Public commenter, Ward 3, asking whether an amendment can be amended (ASR 'Richard Steven' [176]; possibly Richard Seaman, unverified)"
+  },
+  "181": {
+   "name": "Unidentified",
+   "role": "Public commenter, Ward 3, asking whether an amendment can be amended (ASR 'Richard Steven' [176]; possibly Richard Seaman, unverified)"
+  },
+  "184": {
+   "name": "Tracy Pope",
+   "role": "School District Moderator (addressed 'Tracy' [257, 293]; surname Pope per roster, which confirms Tracy Pope as moderator in 2023 and 'Mrs. Pope' in 2021; uncertain for 2018 - surname not on this recording)"
+  },
+  "187": {
+   "name": "Unidentified",
+   "role": "Public commenter, Ward 1, district staff member (ASR 'Amelia Ryan for one' [187] and 'My name is Mary' [188]; name unresolved)"
+  },
+  "188": {
+   "name": "Unidentified",
+   "role": "Public commenter, Ward 1, district staff member (ASR 'Amelia Ryan for one' [187] and 'My name is Mary' [188]; name unresolved)"
+  },
+  "189": {
+   "name": "Unidentified",
+   "role": "Public commenter, Ward 1, district staff member (ASR 'Amelia Ryan for one' [187] and 'My name is Mary' [188]; name unresolved)"
+  },
+  "190": {
+   "name": "Unidentified",
+   "role": "Public commenter, Ward 1, district staff member (ASR 'Amelia Ryan for one' [187] and 'My name is Mary' [188]; name unresolved)"
+  },
+  "191": {
+   "name": "Unidentified",
+   "role": "Public commenter, Ward 1, district staff member (ASR 'Amelia Ryan for one' [187] and 'My name is Mary' [188]; name unresolved)"
+  },
+  "192": {
+   "name": "Unidentified",
+   "role": "Public commenter, Ward 1, district staff member (ASR 'Amelia Ryan for one' [187] and 'My name is Mary' [188]; name unresolved)"
+  },
+  "194": {
+   "name": "Unidentified",
+   "role": "Public commenter, Ward 3, supporting the amendment (ASR 'Patrick. Worth three' [194]; name unresolved)"
+  },
+  "195": {
+   "name": "Unidentified",
+   "role": "Public commenter, Ward 3, supporting the amendment (ASR 'Patrick. Worth three' [194]; name unresolved)"
+  },
+  "196": {
+   "name": "Unidentified",
+   "role": "Public commenter, Ward 3, supporting the amendment (ASR 'Patrick. Worth three' [194]; name unresolved)"
+  },
+  "197": {
+   "name": "Unidentified",
+   "role": "Public commenter, Ward 3, arguing taxes deter young families [198-202]; name not audible"
+  },
+  "198": {
+   "name": "Unidentified",
+   "role": "Public commenter, Ward 3, arguing taxes deter young families [198-202]; name not audible"
+  },
+  "199": {
+   "name": "Unidentified",
+   "role": "Public commenter, Ward 3, arguing taxes deter young families [198-202]; name not audible"
+  },
+  "200": {
+   "name": "Unidentified",
+   "role": "Public commenter, Ward 3, arguing taxes deter young families [198-202]; name not audible"
+  },
+  "201": {
+   "name": "Unidentified",
+   "role": "Public commenter, Ward 3, arguing taxes deter young families [198-202]; name not audible"
+  },
+  "202": {
+   "name": "Unidentified",
+   "role": "Public commenter, Ward 3, arguing taxes deter young families [198-202]; name not audible"
+  },
+  "203": {
+   "name": "Unidentified",
+   "role": "Public commenter supporting technology and teacher pay [204-210]; name not audible"
+  },
+  "204": {
+   "name": "Unidentified",
+   "role": "Public commenter supporting technology and teacher pay [204-210]; name not audible"
+  },
+  "205": {
+   "name": "Unidentified",
+   "role": "Public commenter supporting technology and teacher pay [204-210]; name not audible"
+  },
+  "206": {
+   "name": "Unidentified",
+   "role": "Public commenter supporting technology and teacher pay [204-210]; name not audible"
+  },
+  "207": {
+   "name": "Unidentified",
+   "role": "Public commenter supporting technology and teacher pay [204-210]; name not audible"
+  },
+  "208": {
+   "name": "Unidentified",
+   "role": "Public commenter supporting technology and teacher pay [204-210]; name not audible"
+  },
+  "209": {
+   "name": "Unidentified",
+   "role": "Public commenter supporting technology and teacher pay [204-210]; name not audible"
+  },
+  "210": {
+   "name": "Unidentified",
+   "role": "Public commenter supporting technology and teacher pay [204-210]; name not audible"
+  },
+  "252": {
+   "name": "Unidentified",
+   "role": "Unidentified - voice advising the moderator on reconsideration ('I'm not the moderator' [257]); possibly district counsel, uncertain"
+  },
+  "253": {
+   "name": "Unidentified",
+   "role": "Unidentified - voice advising the moderator on reconsideration ('I'm not the moderator' [257]); possibly district counsel, uncertain"
+  },
+  "255": {
+   "name": "Unidentified",
+   "role": "Unidentified - voice advising the moderator on reconsideration ('I'm not the moderator' [257]); possibly district counsel, uncertain"
+  },
+  "257": {
+   "name": "Unidentified",
+   "role": "Unidentified - voice advising the moderator on reconsideration ('I'm not the moderator' [257]); possibly district counsel, uncertain"
+  },
+  "258": {
+   "name": "Unidentified",
+   "role": "Unidentified - voice advising the moderator on reconsideration ('I'm not the moderator' [257]); possibly district counsel, uncertain"
+  },
+  "268": {
+   "name": "Unidentified",
+   "role": "Public commenter, Ward 3, former school board member, moves the $175,000 technology amendment [268-272]; name not audible"
+  },
+  "269": {
+   "name": "Unidentified",
+   "role": "Public commenter, Ward 3, former school board member, moves the $175,000 technology amendment [268-272]; name not audible"
+  },
+  "270": {
+   "name": "Unidentified",
+   "role": "Public commenter, Ward 3, former school board member, moves the $175,000 technology amendment [268-272]; name not audible"
+  },
+  "271": {
+   "name": "Unidentified",
+   "role": "Public commenter, Ward 3, former school board member, moves the $175,000 technology amendment [268-272]; name not audible"
+  },
+  "272": {
+   "name": "Unidentified",
+   "role": "Public commenter, Ward 3, former school board member, moves the $175,000 technology amendment [268-272]; name not audible"
+  },
+  "302": {
+   "name": "Unidentified",
+   "role": "Public commenter, Claremont Middle School technology staff member, supporting the technology amendment [302-308]; name not audible"
+  },
+  "303": {
+   "name": "Unidentified",
+   "role": "Public commenter, Claremont Middle School technology staff member, supporting the technology amendment [302-308]; name not audible"
+  },
+  "304": {
+   "name": "Unidentified",
+   "role": "Public commenter, Claremont Middle School technology staff member, supporting the technology amendment [302-308]; name not audible"
+  },
+  "305": {
+   "name": "Unidentified",
+   "role": "Public commenter, Claremont Middle School technology staff member, supporting the technology amendment [302-308]; name not audible"
+  },
+  "307": {
+   "name": "Unidentified",
+   "role": "Public commenter, Claremont Middle School technology staff member, supporting the technology amendment [302-308]; name not audible"
+  },
+  "308": {
+   "name": "Unidentified",
+   "role": "Public commenter, Claremont Middle School technology staff member, supporting the technology amendment [302-308]; name not audible"
+  },
+  "320": {
+   "name": "Unidentified",
+   "role": "Public commenter supporting the technology amendment; works with students; children graduated from Stevens [320-333]; name not audible"
+  },
+  "322": {
+   "name": "Unidentified",
+   "role": "Public commenter supporting the technology amendment; works with students; children graduated from Stevens [320-333]; name not audible"
+  },
+  "324": {
+   "name": "Unidentified",
+   "role": "Public commenter supporting the technology amendment; works with students; children graduated from Stevens [320-333]; name not audible"
+  },
+  "326": {
+   "name": "Unidentified",
+   "role": "Public commenter supporting the technology amendment; works with students; children graduated from Stevens [320-333]; name not audible"
+  },
+  "328": {
+   "name": "Unidentified",
+   "role": "Public commenter supporting the technology amendment; works with students; children graduated from Stevens [320-333]; name not audible"
+  },
+  "330": {
+   "name": "Unidentified",
+   "role": "Public commenter supporting the technology amendment; works with students; children graduated from Stevens [320-333]; name not audible"
+  },
+  "332": {
+   "name": "Unidentified",
+   "role": "Public commenter supporting the technology amendment; works with students; children graduated from Stevens [320-333]; name not audible"
+  },
+  "333": {
+   "name": "Unidentified",
+   "role": "Public commenter supporting the technology amendment; works with students; children graduated from Stevens [320-333]; name not audible"
+  },
+  "321": {
+   "name": "Unidentified",
+   "role": "Public commenter supporting the technology amendment; works with students; children graduated from Stevens [320-333]; name not audible"
+  },
+  "323": {
+   "name": "Unidentified",
+   "role": "Public commenter supporting the technology amendment; works with students; children graduated from Stevens [320-333]; name not audible"
+  },
+  "325": {
+   "name": "Unidentified",
+   "role": "Public commenter supporting the technology amendment; works with students; children graduated from Stevens [320-333]; name not audible"
+  },
+  "327": {
+   "name": "Unidentified",
+   "role": "Public commenter supporting the technology amendment; works with students; children graduated from Stevens [320-333]; name not audible"
+  },
+  "329": {
+   "name": "Unidentified",
+   "role": "Public commenter supporting the technology amendment; works with students; children graduated from Stevens [320-333]; name not audible"
+  },
+  "331": {
+   "name": "Unidentified",
+   "role": "Public commenter supporting the technology amendment; works with students; children graduated from Stevens [320-333]; name not audible"
+  },
+  "378": {
+   "name": "Unidentified",
+   "role": "Public commenter, Ward 1, questioning the security upgrades ('trombone case') [380-384]; name not audible"
+  },
+  "380": {
+   "name": "Unidentified",
+   "role": "Public commenter, Ward 1, questioning the security upgrades ('trombone case') [380-384]; name not audible"
+  },
+  "383": {
+   "name": "Unidentified",
+   "role": "Public commenter, Ward 1, questioning the security upgrades ('trombone case') [380-384]; name not audible"
+  },
+  "384": {
+   "name": "Unidentified",
+   "role": "Public commenter, Ward 1, questioning the security upgrades ('trombone case') [380-384]; name not audible"
+  },
+  "412": {
+   "name": "Unidentified",
+   "role": "Public commenter questioning cameras [412, 416]; name not audible"
+  },
+  "416": {
+   "name": "Unidentified",
+   "role": "Public commenter questioning cameras [412, 416]; name not audible"
+  },
+  "413": {
+   "name": "Unidentified",
+   "role": "School staff member who was in the lockdown the previous week and maintains his school's cameras [413-417]; name not audible"
+  },
+  "414": {
+   "name": "Unidentified",
+   "role": "School staff member who was in the lockdown the previous week and maintains his school's cameras [413-417]; name not audible"
+  },
+  "415": {
+   "name": "Unidentified",
+   "role": "School staff member who was in the lockdown the previous week and maintains his school's cameras [413-417]; name not audible"
+  },
+  "417": {
+   "name": "Unidentified",
+   "role": "School staff member who was in the lockdown the previous week and maintains his school's cameras [413-417]; name not audible"
+  },
+  "460": {
+   "name": "Unidentified",
+   "role": "Public commenter asking about the roof bid [460-465]; name not audible"
+  },
+  "463": {
+   "name": "Unidentified",
+   "role": "Public commenter asking about the roof bid [460-465]; name not audible"
+  },
+  "465": {
+   "name": "Unidentified",
+   "role": "Public commenter asking about the roof bid [460-465]; name not audible"
+  },
+  "19": {
+   "name": "Unidentified",
+   "role": "Unidentified - short procedural remarks, motions or audience interjections not attributable on this recording"
+  },
+  "263": {
+   "name": "Unidentified",
+   "role": "Unidentified - short procedural remarks, motions or audience interjections not attributable on this recording"
+  },
+  "336": {
+   "name": "Unidentified",
+   "role": "Unidentified - short procedural remarks, motions or audience interjections not attributable on this recording"
+  },
+  "338": {
+   "name": "Unidentified",
+   "role": "Unidentified - short procedural remarks, motions or audience interjections not attributable on this recording"
+  },
+  "339": {
+   "name": "Unidentified",
+   "role": "Unidentified - short procedural remarks, motions or audience interjections not attributable on this recording"
+  },
+  "341": {
+   "name": "Unidentified",
+   "role": "Unidentified - short procedural remarks, motions or audience interjections not attributable on this recording"
+  },
+  "357": {
+   "name": "Unidentified",
+   "role": "Unidentified - short procedural remarks, motions or audience interjections not attributable on this recording"
+  },
+  "390": {
+   "name": "Unidentified",
+   "role": "Unidentified - short procedural remarks, motions or audience interjections not attributable on this recording"
+  },
+  "335": {
+   "name": "Unidentified",
+   "role": "Unidentified - short procedural remarks, motions or audience interjections not attributable on this recording"
+  },
+  "178": {
+   "name": "Unidentified",
+   "role": "Unidentified - short procedural remarks, motions or audience interjections not attributable on this recording"
+  },
+  "250": {
+   "name": "Unidentified",
+   "role": "Unidentified - short procedural remarks, motions or audience interjections not attributable on this recording"
+  },
+  "293": {
+   "name": "Unidentified",
+   "role": "Unidentified - short procedural remarks, motions or audience interjections not attributable on this recording"
+  },
+  "370": {
+   "name": "Unidentified",
+   "role": "Unidentified - short procedural remarks, motions or audience interjections not attributable on this recording"
+  },
+  "379": {
+   "name": "Unidentified",
+   "role": "Unidentified - short procedural remarks, motions or audience interjections not attributable on this recording"
+  }
+ }
+}

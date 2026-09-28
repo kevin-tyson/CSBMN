@@ -1,0 +1,237 @@
+{
+ "Speaker 1": {
+  "name": "Unidentified",
+  "role": "Unidentified - two short remarks"
+ },
+ "Speaker 2": {
+  "name": "Frank Sprague",
+  "role": "Claremont School Board Chair"
+ },
+ "Speaker 3": {
+  "name": "Unidentified",
+  "role": "School district moderator for the 5/15/2019 special district meeting (addressed as 'Madam moderator'; name not stated on this recording)"
+ },
+ "Speaker 4": {
+  "name": "Carolyn Towle",
+  "role": "Claremont School Board member"
+ },
+ "Speaker 5": {
+  "name": "Cory LeClair",
+  "role": "Acting Superintendent, SAU 6"
+ },
+ "Speaker 6": {
+  "name": "Lisa Holtz",
+  "role": "Third grade teacher, Maple Avenue Elementary School"
+ },
+ "Speaker 7": {
+  "name": "Rob Lovett Jr.",
+  "role": "Claremont School Board member"
+ },
+ "Speaker 8": {
+  "name": "Prescott Herzog",
+  "role": "Student representative to the Claremont School Board"
+ },
+ "Speaker 9": {
+  "name": "Ms. Chastain",
+  "role": "Stevens High School youth-in-government and student council advisor (surname as heard: 'Miss Chastain' [65], 'Miss Chesney' [119], 'Miss Chastain's group' [237]; spelling uncertain)"
+ },
+ "Speaker 10": {
+  "name": "Riley",
+  "role": "Stevens High School student, youth in government (first name only, self-introduced [74])"
+ },
+ "Speaker 11": {
+  "name": "Alicia Webster",
+  "role": "Stevens High School student, student council (self-introduced [78])"
+ },
+ "Speaker 12": {
+  "name": "Michael Petrin",
+  "role": "Claremont School Board member; SAU 6 Board Chair"
+ },
+ "Speaker 13": {
+  "name": "Melissa Lewis",
+  "role": "Principal, Disnard Elementary School (uncertain - introduced by LeClair as 'Melissa Lewis from dinner[Disnard]' [140] immediately before this voice)"
+ },
+ "Speaker 14": {
+  "name": "Unidentified",
+  "role": "Unidentified - elementary educator addressed as 'Lisa' [143] who describes Forest Fridays in Windsor; possibly Lisa Holtz or another principal (uncertain)"
+ },
+ "Speaker 15": {
+  "name": "Unidentified",
+  "role": "Unidentified - elementary school administrator supporting outdoor education"
+ },
+ "Speaker 16": {
+  "name": "Cory LeClair",
+  "role": "Acting Superintendent, SAU 6"
+ },
+ "Speaker 17": {
+  "name": "Michelle Bian",
+  "role": "Parent, Ward 2 (self-introduced; ASR 'Michelle Bian', LeClair's intro 'Michelle beaten'; spelling uncertain)"
+ },
+ "Speaker 18": {
+  "name": "Unidentified",
+  "role": "Unidentified - third grade teacher at Maple Avenue and parent (name not stated)"
+ },
+ "Speaker 19": {
+  "name": "Heather Whitney",
+  "role": "Claremont School Board member"
+ },
+ "Speaker 20": {
+  "name": "Cory LeClair",
+  "role": "Acting Superintendent, SAU 6"
+ },
+ "Speaker 21": {
+  "name": "Unidentified",
+  "role": "Unidentified - end-of-meeting remarks from several voices"
+ },
+ "__overrides__": {
+  "23": {
+   "name": "Mary Woodman",
+   "role": "School district clerk"
+  },
+  "25": {
+   "name": "Mary Woodman",
+   "role": "School district clerk"
+  },
+  "27": {
+   "name": "Mary Woodman",
+   "role": "School district clerk"
+  },
+  "50": {
+   "name": "Carolyn Towle"
+  },
+  "74": {
+   "name": "Riley"
+  },
+  "75": {
+   "name": "Riley"
+  },
+  "78": {
+   "name": "Alicia Webster"
+  },
+  "151": {
+   "name": "Lisa Holtz",
+   "role": "Third grade teacher, Maple Avenue Elementary School"
+  },
+  "154": {
+   "name": "Lisa Holtz",
+   "role": "Third grade teacher, Maple Avenue Elementary School"
+  },
+  "176": {
+   "name": "Lisa Holtz",
+   "role": "Third grade teacher, Maple Avenue Elementary School"
+  },
+  "226": {
+   "name": "Lisa Holtz",
+   "role": "Third grade teacher, Maple Avenue Elementary School"
+  },
+  "67": {
+   "name": "Ms. Chastain"
+  },
+  "84": {
+   "name": "Ms. Chastain"
+  },
+  "86": {
+   "name": "Ms. Chastain"
+  },
+  "88": {
+   "name": "Ms. Chastain"
+  },
+  "123": {
+   "name": "Ms. Chastain"
+  },
+  "37": {
+   "name": "Unidentified",
+   "role": "Unidentified - short remark absorbed into another speaker's cluster"
+  },
+  "94": {
+   "name": "Unidentified",
+   "role": "Unidentified - short remark absorbed into another speaker's cluster"
+  },
+  "96": {
+   "name": "Unidentified",
+   "role": "Unidentified - short remark absorbed into another speaker's cluster"
+  },
+  "99": {
+   "name": "Unidentified",
+   "role": "Unidentified - short remark absorbed into another speaker's cluster"
+  },
+  "101": {
+   "name": "Unidentified",
+   "role": "Unidentified - short remark absorbed into another speaker's cluster"
+  },
+  "188": {
+   "name": "Unidentified",
+   "role": "Unidentified - short remark absorbed into another speaker's cluster"
+  },
+  "196": {
+   "name": "Unidentified",
+   "role": "Unidentified - short remark absorbed into another speaker's cluster"
+  },
+  "29": {
+   "name": "Cory LeClair",
+   "role": "Acting Superintendent, SAU 6"
+  },
+  "53": {
+   "name": "Cory LeClair",
+   "role": "Acting Superintendent, SAU 6"
+  },
+  "55": {
+   "name": "Cory LeClair",
+   "role": "Acting Superintendent, SAU 6"
+  },
+  "56": {
+   "name": "Cory LeClair",
+   "role": "Acting Superintendent, SAU 6"
+  },
+  "57": {
+   "name": "Cory LeClair",
+   "role": "Acting Superintendent, SAU 6"
+  },
+  "58": {
+   "name": "Cory LeClair",
+   "role": "Acting Superintendent, SAU 6"
+  },
+  "59": {
+   "name": "Cory LeClair",
+   "role": "Acting Superintendent, SAU 6"
+  },
+  "61": {
+   "name": "Cory LeClair",
+   "role": "Acting Superintendent, SAU 6"
+  },
+  "65": {
+   "name": "Cory LeClair",
+   "role": "Acting Superintendent, SAU 6"
+  },
+  "66": {
+   "name": "Cory LeClair",
+   "role": "Acting Superintendent, SAU 6"
+  },
+  "402": {
+   "name": "Cory LeClair",
+   "role": "Acting Superintendent, SAU 6"
+  },
+  "405": {
+   "name": "Cory LeClair",
+   "role": "Acting Superintendent, SAU 6"
+  },
+  "131": {
+   "name": "Michael Petrin"
+  },
+  "301": {
+   "name": "Frank Sprague"
+  },
+  "387": {
+   "name": "Carolyn Towle"
+  },
+  "392": {
+   "name": "Carolyn Towle"
+  },
+  "337": {
+   "name": "Carolyn Towle"
+  },
+  "341": {
+   "name": "Heather Whitney"
+  }
+ }
+}

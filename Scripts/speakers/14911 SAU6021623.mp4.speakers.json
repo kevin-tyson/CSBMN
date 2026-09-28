@@ -1,0 +1,336 @@
+{
+  "Speaker 1": {
+    "name": "Marjorie Erickson",
+    "role": "SAU 6 Board Chair (presiding); Unity School Board Chair"
+  },
+  "Speaker 2": {
+    "name": "Michael Tempesta",
+    "role": "Superintendent of Schools, SAU 6"
+  },
+  "Speaker 3": {
+    "name": "Stephanie Hurst",
+    "role": "Curriculum Director, SAU 6 (named 'Stephanie' on the recording; surname from the board's later account)"
+  },
+  "Speaker 4": {
+    "name": "Frank Sprague",
+    "role": "SAU 6 Board Member (Claremont)"
+  },
+  "Speaker 5": {
+    "name": "Michael Tempesta",
+    "role": "Superintendent of Schools, SAU 6"
+  },
+  "Speaker 6": {
+    "name": "Steven Horsky",
+    "role": "SAU 6 Board Member (Claremont)"
+  },
+  "Speaker 7": {
+    "name": "Michael Tempesta",
+    "role": "Superintendent of Schools, SAU 6"
+  },
+  "Speaker 8": {
+    "name": "Whitney Skillen",
+    "role": "SAU 6 Board Member (Claremont)"
+  },
+  "Speaker 9": {
+    "name": "Bonnie Miles",
+    "role": "SAU 6 Board Member (Claremont)"
+  },
+  "Speaker 10": {
+    "name": "Marjorie Erickson",
+    "role": "SAU 6 Board Chair (presiding); Unity School Board Chair"
+  },
+  "Speaker 11": {
+    "name": "Marjorie Erickson",
+    "role": "SAU 6 Board Chair (presiding); Unity School Board Chair"
+  },
+  "Speaker 12": {
+    "name": "Marjorie Erickson",
+    "role": "SAU 6 Board Chair (presiding); Unity School Board Chair"
+  },
+  "Speaker 13": {
+    "name": "Heather Whitney",
+    "role": "SAU 6 Board Member (Claremont School Board Vice Chair)"
+  },
+  "Speaker 14": {
+    "name": "Unidentified",
+    "role": "Board member, female voice -- addresses the chair as \"Marge\"; not matched to a named member"
+  },
+  "Speaker 15": {
+    "name": "Michael Petrin",
+    "role": "SAU 6 Board Member (Claremont School Board Chair)"
+  },
+  "__overrides__": {
+    "8": {
+      "name": "Bonnie Miles",
+      "role": "SAU 6 Board Member (Claremont)"
+    },
+    "41": {
+      "name": "Michael Petrin",
+      "role": "SAU 6 Board Member (Claremont School Board Chair)"
+    },
+    "43": {
+      "name": "Michael Petrin",
+      "role": "SAU 6 Board Member (Claremont School Board Chair)"
+    },
+    "48": {
+      "name": "Michael Petrin",
+      "role": "SAU 6 Board Member (Claremont School Board Chair)"
+    },
+    "49": {
+      "name": "Michael Petrin",
+      "role": "SAU 6 Board Member (Claremont School Board Chair)"
+    },
+    "61": {
+      "name": "Michael Tempesta",
+      "role": "Superintendent of Schools, SAU 6"
+    },
+    "62": {
+      "name": "Michael Tempesta",
+      "role": "Superintendent of Schools, SAU 6"
+    },
+    "73": {
+      "name": "Michael Tempesta",
+      "role": "Superintendent of Schools, SAU 6"
+    },
+    "75": {
+      "name": "Michael Tempesta",
+      "role": "Superintendent of Schools, SAU 6"
+    },
+    "77": {
+      "name": "Michael Tempesta",
+      "role": "Superintendent of Schools, SAU 6"
+    },
+    "87": {
+      "name": "Michael Petrin",
+      "role": "SAU 6 Board Member (Claremont School Board Chair)"
+    },
+    "91": {
+      "name": "Michael Petrin",
+      "role": "SAU 6 Board Member (Claremont School Board Chair)"
+    },
+    "92": {
+      "name": "Michael Petrin",
+      "role": "SAU 6 Board Member (Claremont School Board Chair)"
+    },
+    "93": {
+      "name": "Heather Whitney",
+      "role": "SAU 6 Board Member (Claremont School Board Vice Chair)"
+    },
+    "97": {
+      "name": "Marjorie Erickson",
+      "role": "SAU 6 Board Chair (presiding); Unity School Board Chair"
+    },
+    "131": {
+      "name": "Heather Whitney",
+      "role": "SAU 6 Board Member (Claremont School Board Vice Chair)"
+    },
+    "133": {
+      "name": "Whitney Skillen",
+      "role": "SAU 6 Board Member (Claremont)"
+    },
+    "136": {
+      "name": "Rocco Ruggeri",
+      "role": "SAU 6 Board Member (Unity)"
+    },
+    "157": {
+      "name": "Michael Petrin",
+      "role": "SAU 6 Board Member (Claremont School Board Chair)"
+    },
+    "159": {
+      "name": "Michael Petrin",
+      "role": "SAU 6 Board Member (Claremont School Board Chair)"
+    },
+    "175": {
+      "name": "Michael Petrin",
+      "role": "SAU 6 Board Member (Claremont School Board Chair)"
+    },
+    "176": {
+      "name": "Michael Petrin",
+      "role": "SAU 6 Board Member (Claremont School Board Chair)"
+    },
+    "177": {
+      "name": "Michael Petrin",
+      "role": "SAU 6 Board Member (Claremont School Board Chair)"
+    },
+    "181": {
+      "name": "Marjorie Erickson",
+      "role": "SAU 6 Board Chair (presiding); Unity School Board Chair"
+    },
+    "186": {
+      "name": "Heather Whitney",
+      "role": "SAU 6 Board Member (Claremont School Board Vice Chair)"
+    },
+    "193": {
+      "name": "Atonya Hart",
+      "role": "SAU 6 Board Member (Unity) -- called 'Tanya' in the roll call"
+    },
+    "229": {
+      "name": "Rocco Ruggeri",
+      "role": "SAU 6 Board Member (Unity)"
+    },
+    "231": {
+      "name": "Rocco Ruggeri",
+      "role": "SAU 6 Board Member (Unity)"
+    },
+    "234": {
+      "name": "Rocco Ruggeri",
+      "role": "SAU 6 Board Member (Unity)"
+    },
+    "235": {
+      "name": "Rocco Ruggeri",
+      "role": "SAU 6 Board Member (Unity)"
+    },
+    "236": {
+      "name": "Rocco Ruggeri",
+      "role": "SAU 6 Board Member (Unity)"
+    },
+    "237": {
+      "name": "Rocco Ruggeri",
+      "role": "SAU 6 Board Member (Unity)"
+    },
+    "239": {
+      "name": "Michael Petrin",
+      "role": "SAU 6 Board Member (Claremont School Board Chair)"
+    },
+    "240": {
+      "name": "Michael Petrin",
+      "role": "SAU 6 Board Member (Claremont School Board Chair)"
+    },
+    "241": {
+      "name": "Michael Petrin",
+      "role": "SAU 6 Board Member (Claremont School Board Chair)"
+    },
+    "243": {
+      "name": "Michael Petrin",
+      "role": "SAU 6 Board Member (Claremont School Board Chair)"
+    },
+    "253": {
+      "name": "Marjorie Erickson",
+      "role": "SAU 6 Board Chair (presiding); Unity School Board Chair"
+    },
+    "278": {
+      "name": "Rocco Ruggeri",
+      "role": "SAU 6 Board Member (Unity)"
+    },
+    "279": {
+      "name": "Rocco Ruggeri",
+      "role": "SAU 6 Board Member (Unity)"
+    },
+    "281": {
+      "name": "Michael Petrin",
+      "role": "SAU 6 Board Member (Claremont School Board Chair)"
+    },
+    "282": {
+      "name": "Michael Petrin",
+      "role": "SAU 6 Board Member (Claremont School Board Chair)"
+    },
+    "287": {
+      "name": "Heather Whitney",
+      "role": "SAU 6 Board Member (Claremont School Board Vice Chair)"
+    },
+    "288": {
+      "name": "Heather Whitney",
+      "role": "SAU 6 Board Member (Claremont School Board Vice Chair)"
+    },
+    "295": {
+      "name": "Heather Whitney",
+      "role": "SAU 6 Board Member (Claremont School Board Vice Chair)"
+    },
+    "297": {
+      "name": "Heather Whitney",
+      "role": "SAU 6 Board Member (Claremont School Board Vice Chair)"
+    },
+    "299": {
+      "name": "Heather Whitney",
+      "role": "SAU 6 Board Member (Claremont School Board Vice Chair)"
+    },
+    "308": {
+      "name": "Unidentified",
+      "role": "Board member -- single \"Aye\" in a voice vote"
+    },
+    "332": {
+      "name": "Marjorie Erickson",
+      "role": "SAU 6 Board Chair (presiding); Unity School Board Chair"
+    },
+    "339": {
+      "name": "Marjorie Erickson",
+      "role": "SAU 6 Board Chair (presiding); Unity School Board Chair"
+    },
+    "345": {
+      "name": "Michael Tempesta",
+      "role": "Superintendent of Schools, SAU 6"
+    },
+    "350": {
+      "name": "Michael Tempesta",
+      "role": "Superintendent of Schools, SAU 6"
+    },
+    "352": {
+      "name": "Michael Tempesta",
+      "role": "Superintendent of Schools, SAU 6"
+    },
+    "359": {
+      "name": "Bonnie Miles",
+      "role": "SAU 6 Board Member (Claremont)"
+    },
+    "361": {
+      "name": "Bonnie Miles",
+      "role": "SAU 6 Board Member (Claremont)"
+    },
+    "364": {
+      "name": "Bonnie Miles",
+      "role": "SAU 6 Board Member (Claremont)"
+    },
+    "386": {
+      "name": "Michael Petrin",
+      "role": "SAU 6 Board Member (Claremont School Board Chair)"
+    },
+    "389": {
+      "name": "Marjorie Erickson",
+      "role": "SAU 6 Board Chair (presiding); Unity School Board Chair"
+    },
+    "406": {
+      "name": "Heather Whitney",
+      "role": "SAU 6 Board Member (Claremont School Board Vice Chair)"
+    },
+    "422": {
+      "name": "Heather Whitney",
+      "role": "SAU 6 Board Member (Claremont School Board Vice Chair)"
+    },
+    "437": {
+      "name": "Bonnie Miles",
+      "role": "SAU 6 Board Member (Claremont)"
+    },
+    "447": {
+      "name": "Steven Horsky",
+      "role": "SAU 6 Board Member (Claremont)"
+    },
+    "452": {
+      "name": "Michael Petrin",
+      "role": "SAU 6 Board Member (Claremont School Board Chair)"
+    },
+    "459": {
+      "name": "Rocco Ruggeri",
+      "role": "SAU 6 Board Member (Unity)"
+    },
+    "472": {
+      "name": "Frank Sprague",
+      "role": "SAU 6 Board Member (Claremont)"
+    },
+    "485": {
+      "name": "Michael Petrin",
+      "role": "SAU 6 Board Member (Claremont School Board Chair)"
+    },
+    "487": {
+      "name": "Steven Horsky",
+      "role": "SAU 6 Board Member (Claremont)"
+    },
+    "500": {
+      "name": "Rocco Ruggeri",
+      "role": "SAU 6 Board Member (Unity)"
+    },
+    "512": {
+      "name": "Unidentified",
+      "role": "Board member -- the lone \"No\" on the HR director nomination"
+    }
+  }
+}

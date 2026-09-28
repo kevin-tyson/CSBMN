@@ -1,0 +1,528 @@
+{
+ "Speaker 2": {
+  "name": "Frank Sprague",
+  "role": "Claremont School Board Chair (calls meeting to order, takes his own roll 'Frank Sprague chair is present' [7]; cluster also carries attorney Matt Upton, see overrides)"
+ },
+ "Speaker 4": {
+  "name": "Frank Sprague",
+  "role": "Claremont School Board Chair (runs the agenda from [329]; cluster also carries the superintendent's report and Michael Petrin, see overrides)"
+ },
+ "Speaker 3": {
+  "name": "Heather Whitney",
+  "role": "Claremont School Board member"
+ },
+ "Speaker 9": {
+  "name": "Rebecca Zullo",
+  "role": "Claremont School Board member"
+ },
+ "Speaker 5": {
+  "name": "Carolyn Towle",
+  "role": "Claremont School Board member"
+ },
+ "Speaker 11": {
+  "name": "Rob Lovett Jr.",
+  "role": "Claremont School Board member"
+ },
+ "Speaker 7": {
+  "name": "Richard Seaman",
+  "role": "Business Administrator, SAU 6 (introduced as 'Assistant Superintendent Seaman' [188]; presents the food-service item)"
+ },
+ "Speaker 12": {
+  "name": "Michael Tempesta",
+  "role": "Superintendent, SAU 6 (addressed as Mike on teacher nominations and subcommittees [330]-[336])"
+ },
+ "Speaker 8": {
+  "name": "Donna Magoon",
+  "role": "Assistant Superintendent, SAU 6 (addressed as Donna [243], [354], [396])"
+ },
+ "Speaker 10": {
+  "name": "Ben Nester",
+  "role": "Director of Special Education, SAU 6 (ASR 'Mr. Nestor')"
+ },
+ "Speaker 6": {
+  "name": "Tyler",
+  "role": "Student representative to the Claremont School Board, Stevens High School class of 2020 (surname not stated)"
+ },
+ "Speaker 1": {
+  "name": "Unidentified",
+  "role": "Unidentified - meeting host on the remote platform (two short remarks)"
+ },
+ "__overrides__": {
+  "97": {
+   "name": "Matt Upton",
+   "role": "District attorney, Drummond Woodsum"
+  },
+  "101": {
+   "name": "Matt Upton",
+   "role": "District attorney, Drummond Woodsum"
+  },
+  "102": {
+   "name": "Matt Upton",
+   "role": "District attorney, Drummond Woodsum"
+  },
+  "103": {
+   "name": "Matt Upton",
+   "role": "District attorney, Drummond Woodsum"
+  },
+  "105": {
+   "name": "Matt Upton",
+   "role": "District attorney, Drummond Woodsum"
+  },
+  "107": {
+   "name": "Matt Upton",
+   "role": "District attorney, Drummond Woodsum"
+  },
+  "108": {
+   "name": "Matt Upton",
+   "role": "District attorney, Drummond Woodsum"
+  },
+  "112": {
+   "name": "Matt Upton",
+   "role": "District attorney, Drummond Woodsum"
+  },
+  "114": {
+   "name": "Matt Upton",
+   "role": "District attorney, Drummond Woodsum"
+  },
+  "116": {
+   "name": "Matt Upton",
+   "role": "District attorney, Drummond Woodsum"
+  },
+  "119": {
+   "name": "Matt Upton",
+   "role": "District attorney, Drummond Woodsum"
+  },
+  "120": {
+   "name": "Matt Upton",
+   "role": "District attorney, Drummond Woodsum"
+  },
+  "121": {
+   "name": "Matt Upton",
+   "role": "District attorney, Drummond Woodsum"
+  },
+  "122": {
+   "name": "Matt Upton",
+   "role": "District attorney, Drummond Woodsum"
+  },
+  "123": {
+   "name": "Matt Upton",
+   "role": "District attorney, Drummond Woodsum"
+  },
+  "125": {
+   "name": "Matt Upton",
+   "role": "District attorney, Drummond Woodsum"
+  },
+  "128": {
+   "name": "Matt Upton",
+   "role": "District attorney, Drummond Woodsum"
+  },
+  "129": {
+   "name": "Matt Upton",
+   "role": "District attorney, Drummond Woodsum"
+  },
+  "134": {
+   "name": "Matt Upton",
+   "role": "District attorney, Drummond Woodsum"
+  },
+  "136": {
+   "name": "Matt Upton",
+   "role": "District attorney, Drummond Woodsum"
+  },
+  "137": {
+   "name": "Matt Upton",
+   "role": "District attorney, Drummond Woodsum"
+  },
+  "158": {
+   "name": "Matt Upton",
+   "role": "District attorney, Drummond Woodsum"
+  },
+  "159": {
+   "name": "Matt Upton",
+   "role": "District attorney, Drummond Woodsum"
+  },
+  "172": {
+   "name": "Matt Upton",
+   "role": "District attorney, Drummond Woodsum"
+  },
+  "201": {
+   "name": "Ben Nester",
+   "role": "Director of Special Education, SAU 6 (ASR 'Mr. Nestor')"
+  },
+  "200": {
+   "name": "Ben Nester",
+   "role": "Director of Special Education, SAU 6 (ASR 'Mr. Nestor')"
+  },
+  "205": {
+   "name": "Michael Tempesta",
+   "role": "Superintendent, SAU 6"
+  },
+  "8": {
+   "name": "Michael Petrin",
+   "role": "Claremont School Board member"
+  },
+  "67": {
+   "name": "Michael Petrin",
+   "role": "Claremont School Board member"
+  },
+  "312": {
+   "name": "Michael Petrin",
+   "role": "Claremont School Board member"
+  },
+  "313": {
+   "name": "Michael Petrin",
+   "role": "Claremont School Board member"
+  },
+  "319": {
+   "name": "Michael Petrin",
+   "role": "Claremont School Board member"
+  },
+  "321": {
+   "name": "Michael Petrin",
+   "role": "Claremont School Board member"
+  },
+  "143": {
+   "name": "Michael Tempesta",
+   "role": "Superintendent, SAU 6"
+  },
+  "144": {
+   "name": "Michael Tempesta",
+   "role": "Superintendent, SAU 6"
+  },
+  "145": {
+   "name": "Michael Tempesta",
+   "role": "Superintendent, SAU 6"
+  },
+  "150": {
+   "name": "Michael Tempesta",
+   "role": "Superintendent, SAU 6"
+  },
+  "151": {
+   "name": "Michael Tempesta",
+   "role": "Superintendent, SAU 6"
+  },
+  "152": {
+   "name": "Michael Tempesta",
+   "role": "Superintendent, SAU 6"
+  },
+  "153": {
+   "name": "Michael Tempesta",
+   "role": "Superintendent, SAU 6"
+  },
+  "154": {
+   "name": "Michael Tempesta",
+   "role": "Superintendent, SAU 6"
+  },
+  "176": {
+   "name": "Michael Tempesta",
+   "role": "Superintendent, SAU 6"
+  },
+  "177": {
+   "name": "Michael Tempesta",
+   "role": "Superintendent, SAU 6"
+  },
+  "178": {
+   "name": "Michael Tempesta",
+   "role": "Superintendent, SAU 6"
+  },
+  "180": {
+   "name": "Michael Tempesta",
+   "role": "Superintendent, SAU 6"
+  },
+  "181": {
+   "name": "Michael Tempesta",
+   "role": "Superintendent, SAU 6"
+  },
+  "182": {
+   "name": "Michael Tempesta",
+   "role": "Superintendent, SAU 6"
+  },
+  "183": {
+   "name": "Michael Tempesta",
+   "role": "Superintendent, SAU 6"
+  },
+  "184": {
+   "name": "Michael Tempesta",
+   "role": "Superintendent, SAU 6"
+  },
+  "185": {
+   "name": "Michael Tempesta",
+   "role": "Superintendent, SAU 6"
+  },
+  "186": {
+   "name": "Michael Tempesta",
+   "role": "Superintendent, SAU 6"
+  },
+  "187": {
+   "name": "Michael Tempesta",
+   "role": "Superintendent, SAU 6"
+  },
+  "188": {
+   "name": "Michael Tempesta",
+   "role": "Superintendent, SAU 6"
+  },
+  "189": {
+   "name": "Michael Tempesta",
+   "role": "Superintendent, SAU 6"
+  },
+  "191": {
+   "name": "Michael Tempesta",
+   "role": "Superintendent, SAU 6"
+  },
+  "192": {
+   "name": "Michael Tempesta",
+   "role": "Superintendent, SAU 6"
+  },
+  "193": {
+   "name": "Michael Tempesta",
+   "role": "Superintendent, SAU 6"
+  },
+  "194": {
+   "name": "Michael Tempesta",
+   "role": "Superintendent, SAU 6"
+  },
+  "195": {
+   "name": "Michael Tempesta",
+   "role": "Superintendent, SAU 6"
+  },
+  "198": {
+   "name": "Michael Tempesta",
+   "role": "Superintendent, SAU 6"
+  },
+  "199": {
+   "name": "Michael Tempesta",
+   "role": "Superintendent, SAU 6"
+  },
+  "207": {
+   "name": "Michael Tempesta",
+   "role": "Superintendent, SAU 6"
+  },
+  "208": {
+   "name": "Michael Tempesta",
+   "role": "Superintendent, SAU 6"
+  },
+  "209": {
+   "name": "Michael Tempesta",
+   "role": "Superintendent, SAU 6"
+  },
+  "210": {
+   "name": "Michael Tempesta",
+   "role": "Superintendent, SAU 6"
+  },
+  "211": {
+   "name": "Michael Tempesta",
+   "role": "Superintendent, SAU 6"
+  },
+  "212": {
+   "name": "Michael Tempesta",
+   "role": "Superintendent, SAU 6"
+  },
+  "215": {
+   "name": "Michael Tempesta",
+   "role": "Superintendent, SAU 6"
+  },
+  "216": {
+   "name": "Michael Tempesta",
+   "role": "Superintendent, SAU 6"
+  },
+  "217": {
+   "name": "Michael Tempesta",
+   "role": "Superintendent, SAU 6"
+  },
+  "220": {
+   "name": "Michael Tempesta",
+   "role": "Superintendent, SAU 6"
+  },
+  "225": {
+   "name": "Michael Tempesta",
+   "role": "Superintendent, SAU 6"
+  },
+  "226": {
+   "name": "Michael Tempesta",
+   "role": "Superintendent, SAU 6"
+  },
+  "227": {
+   "name": "Michael Tempesta",
+   "role": "Superintendent, SAU 6"
+  },
+  "228": {
+   "name": "Michael Tempesta",
+   "role": "Superintendent, SAU 6"
+  },
+  "229": {
+   "name": "Michael Tempesta",
+   "role": "Superintendent, SAU 6"
+  },
+  "233": {
+   "name": "Michael Tempesta",
+   "role": "Superintendent, SAU 6"
+  },
+  "234": {
+   "name": "Michael Tempesta",
+   "role": "Superintendent, SAU 6"
+  },
+  "242": {
+   "name": "Michael Tempesta",
+   "role": "Superintendent, SAU 6"
+  },
+  "243": {
+   "name": "Michael Tempesta",
+   "role": "Superintendent, SAU 6"
+  },
+  "250": {
+   "name": "Michael Tempesta",
+   "role": "Superintendent, SAU 6"
+  },
+  "251": {
+   "name": "Michael Tempesta",
+   "role": "Superintendent, SAU 6"
+  },
+  "252": {
+   "name": "Michael Tempesta",
+   "role": "Superintendent, SAU 6"
+  },
+  "253": {
+   "name": "Michael Tempesta",
+   "role": "Superintendent, SAU 6"
+  },
+  "257": {
+   "name": "Michael Tempesta",
+   "role": "Superintendent, SAU 6"
+  },
+  "258": {
+   "name": "Michael Tempesta",
+   "role": "Superintendent, SAU 6"
+  },
+  "261": {
+   "name": "Michael Tempesta",
+   "role": "Superintendent, SAU 6"
+  },
+  "262": {
+   "name": "Michael Tempesta",
+   "role": "Superintendent, SAU 6"
+  },
+  "263": {
+   "name": "Michael Tempesta",
+   "role": "Superintendent, SAU 6"
+  },
+  "264": {
+   "name": "Michael Tempesta",
+   "role": "Superintendent, SAU 6"
+  },
+  "265": {
+   "name": "Michael Tempesta",
+   "role": "Superintendent, SAU 6"
+  },
+  "266": {
+   "name": "Michael Tempesta",
+   "role": "Superintendent, SAU 6"
+  },
+  "267": {
+   "name": "Michael Tempesta",
+   "role": "Superintendent, SAU 6"
+  },
+  "275": {
+   "name": "Michael Tempesta",
+   "role": "Superintendent, SAU 6"
+  },
+  "277": {
+   "name": "Michael Tempesta",
+   "role": "Superintendent, SAU 6"
+  },
+  "142": {
+   "name": "Michael Tempesta",
+   "role": "Superintendent, SAU 6"
+  },
+  "326": {
+   "name": "Richard Seaman",
+   "role": "Business Administrator, SAU 6 (introduced as 'Assistant Superintendent Seaman' [188]; presents the food-service item)"
+  },
+  "327": {
+   "name": "Richard Seaman",
+   "role": "Business Administrator, SAU 6 (introduced as 'Assistant Superintendent Seaman' [188]; presents the food-service item)"
+  },
+  "328": {
+   "name": "Richard Seaman",
+   "role": "Business Administrator, SAU 6 (introduced as 'Assistant Superintendent Seaman' [188]; presents the food-service item)"
+  },
+  "58": {
+   "name": "Unidentified",
+   "role": "Unidentified - reminder to attest to being alone in the room; not the chair, who answers it"
+  },
+  "20": {
+   "name": "Rob Lovett Jr.",
+   "role": "Claremont School Board member"
+  },
+  "28": {
+   "name": "Rob Lovett Jr.",
+   "role": "Claremont School Board member"
+  },
+  "39": {
+   "name": "Rob Lovett Jr.",
+   "role": "Claremont School Board member"
+  },
+  "45": {
+   "name": "Rob Lovett Jr.",
+   "role": "Claremont School Board member"
+  },
+  "65": {
+   "name": "Rob Lovett Jr.",
+   "role": "Claremont School Board member"
+  },
+  "196": {
+   "name": "Frank Sprague",
+   "role": "Claremont School Board Chair"
+  },
+  "213": {
+   "name": "Frank Sprague",
+   "role": "Claremont School Board Chair"
+  },
+  "214": {
+   "name": "Frank Sprague",
+   "role": "Claremont School Board Chair"
+  },
+  "218": {
+   "name": "Frank Sprague",
+   "role": "Claremont School Board Chair"
+  },
+  "222": {
+   "name": "Frank Sprague",
+   "role": "Claremont School Board Chair"
+  },
+  "236": {
+   "name": "Frank Sprague",
+   "role": "Claremont School Board Chair"
+  },
+  "249": {
+   "name": "Frank Sprague",
+   "role": "Claremont School Board Chair"
+  },
+  "254": {
+   "name": "Frank Sprague",
+   "role": "Claremont School Board Chair"
+  },
+  "256": {
+   "name": "Frank Sprague",
+   "role": "Claremont School Board Chair"
+  },
+  "278": {
+   "name": "Frank Sprague",
+   "role": "Claremont School Board Chair"
+  },
+  "100": {
+   "name": "Unidentified",
+   "role": "Unidentified - short fragment in a mixed cluster"
+  },
+  "146": {
+   "name": "Unidentified",
+   "role": "Unidentified - short fragment in a mixed cluster"
+  },
+  "232": {
+   "name": "Unidentified",
+   "role": "Unidentified - short fragment in a mixed cluster"
+  },
+  "241": {
+   "name": "Unidentified",
+   "role": "Unidentified - short fragment in a mixed cluster"
+  }
+ }
+}

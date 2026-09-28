@@ -1,0 +1,608 @@
+{
+ "Speaker 1": {
+  "name": "Frank Sprague",
+  "role": "Claremont School Board Chair (calls meeting to order, asks Mrs. Woodman for roll call, answers to 'Frank spread' at roll)"
+ },
+ "Speaker 15": {
+  "name": "Frank Sprague",
+  "role": "Claremont School Board Chair (addressed as Frank [723]; 'the chair doesn't usually make motions' [929]; quoted by commenter [797])"
+ },
+ "Speaker 8": {
+  "name": "Frank Sprague",
+  "role": "Claremont School Board Chair (cluster also catches onsets of other speakers; see overrides)"
+ },
+ "Speaker 2": {
+  "name": "Mary Woodman",
+  "role": "School district clerk and board recording secretary (called on for roll by the chair [7])"
+ },
+ "Speaker 3": {
+  "name": "Carolyn Towle",
+  "role": "Claremont School Board member (participating by phone)"
+ },
+ "Speaker 7": {
+  "name": "Carolyn Towle",
+  "role": "Claremont School Board member (participating by phone; uncertain - single short segment answered by chair as Carolyn)"
+ },
+ "Speaker 26": {
+  "name": "Carolyn Towle",
+  "role": "Claremont School Board member (participating by phone)"
+ },
+ "Speaker 27": {
+  "name": "Carolyn Towle",
+  "role": "Claremont School Board member (participating by phone)"
+ },
+ "Speaker 5": {
+  "name": "Michael Tempesta",
+  "role": "Superintendent, SAU 6 (addressed as 'Mr. Dempster' [744] and 'Mr. Tempesta' [911])"
+ },
+ "Speaker 10": {
+  "name": "Donna Magoon",
+  "role": "Assistant Superintendent, SAU 6 (ASR 'McGowan'; cluster also carries Heather Whitney later in the meeting; see overrides)"
+ },
+ "Speaker 9": {
+  "name": "Jason Benware",
+  "role": "Claremont School Board member (recognized as Jason repeatedly; cluster also carries Rob Lovett Jr. at times; see overrides)"
+ },
+ "Speaker 12": {
+  "name": "Rebecca Zullo",
+  "role": "Claremont School Board member"
+ },
+ "Speaker 13": {
+  "name": "Heather Whitney",
+  "role": "Claremont School Board member"
+ },
+ "Speaker 17": {
+  "name": "Michael Petrin",
+  "role": "Claremont School Board member"
+ },
+ "Speaker 24": {
+  "name": "Rob Lovett Jr.",
+  "role": "Claremont School Board member"
+ },
+ "Speaker 19": {
+  "name": "Matt Upton",
+  "role": "District attorney, Drummond Woodsum"
+ },
+ "Speaker 22": {
+  "name": "Patrick Adrian",
+  "role": "Public commenter by phone, Ward 1 (former Claremont School Board member)"
+ },
+ "Speaker 23": {
+  "name": "James Ward",
+  "role": "Public commenter by phone"
+ },
+ "Speaker 28": {
+  "name": "Patricia Barry",
+  "role": "Principal, Stevens High School (by phone; ASR 'Principal Bailey', 'Patricia Berry')"
+ },
+ "Speaker 20": {
+  "name": "Jeff Small",
+  "role": "Director of Technology, SAU 6 (uncertain - runs the phone and remote-audio line; chair: 'Jeff, you can help me with this' [779])"
+ },
+ "Speaker 21": {
+  "name": "Jeff Small",
+  "role": "Director of Technology, SAU 6 (uncertain - runs the phone and remote-audio line; chair: 'Jeff, you can help me with this' [779])"
+ },
+ "Speaker 4": {
+  "name": "Unidentified",
+  "role": "Unidentified - single short remark during roll-call audio check"
+ },
+ "Speaker 6": {
+  "name": "Unidentified",
+  "role": "Unidentified - short remarks, reads a question from the chat; voice not named"
+ },
+ "Speaker 11": {
+  "name": "Unidentified",
+  "role": "Unidentified - cluster mixes a tech operator (see overrides to Jeff Small) and clipped fragments of others"
+ },
+ "Speaker 14": {
+  "name": "Unidentified",
+  "role": "Unidentified - backchannel cluster ('Yeah', 'Yes') mixing several voices"
+ },
+ "Speaker 16": {
+  "name": "Unidentified",
+  "role": "Unidentified - single two-word interjection"
+ },
+ "Speaker 18": {
+  "name": "Unidentified",
+  "role": "Unidentified - single fragment before attorney's liability answer"
+ },
+ "Speaker 25": {
+  "name": "Unidentified",
+  "role": "Unidentified - backchannel cluster mixing several voices; see overrides"
+ },
+ "Speaker 29": {
+  "name": "Unidentified",
+  "role": "Unidentified - procedural questions during the roll-call votes; voice not named"
+ },
+ "__overrides__": {
+  "22": {
+   "name": "Jason Benware",
+   "role": "Claremont School Board member"
+  },
+  "26": {
+   "name": "Jason Benware",
+   "role": "Claremont School Board member"
+  },
+  "36": {
+   "name": "Michael Tempesta",
+   "role": "Superintendent, SAU 6"
+  },
+  "38": {
+   "name": "Michael Tempesta",
+   "role": "Superintendent, SAU 6"
+  },
+  "40": {
+   "name": "Michael Tempesta",
+   "role": "Superintendent, SAU 6"
+  },
+  "8": {
+   "name": "Unidentified",
+   "role": "Unidentified - roll-call response before the clerk's first audible name (probably Heather Whitney, name clipped)"
+  },
+  "124": {
+   "name": "Heather Whitney",
+   "role": "Claremont School Board member"
+  },
+  "984": {
+   "name": "Heather Whitney",
+   "role": "Claremont School Board member"
+  },
+  "988": {
+   "name": "Heather Whitney",
+   "role": "Claremont School Board member"
+  },
+  "126": {
+   "name": "Heather Whitney",
+   "role": "Claremont School Board member"
+  },
+  "653": {
+   "name": "Rob Lovett Jr.",
+   "role": "Claremont School Board member"
+  },
+  "654": {
+   "name": "Rob Lovett Jr.",
+   "role": "Claremont School Board member"
+  },
+  "655": {
+   "name": "Rob Lovett Jr.",
+   "role": "Claremont School Board member"
+  },
+  "656": {
+   "name": "Rob Lovett Jr.",
+   "role": "Claremont School Board member"
+  },
+  "658": {
+   "name": "Rob Lovett Jr.",
+   "role": "Claremont School Board member"
+  },
+  "659": {
+   "name": "Rob Lovett Jr.",
+   "role": "Claremont School Board member"
+  },
+  "1066": {
+   "name": "Rob Lovett Jr.",
+   "role": "Claremont School Board member"
+  },
+  "1118": {
+   "name": "Rob Lovett Jr.",
+   "role": "Claremont School Board member"
+  },
+  "841": {
+   "name": "Rob Lovett Jr.",
+   "role": "Claremont School Board member"
+  },
+  "936": {
+   "name": "Rob Lovett Jr.",
+   "role": "Claremont School Board member"
+  },
+  "590": {
+   "name": "Michael Tempesta",
+   "role": "Superintendent, SAU 6"
+  },
+  "1001": {
+   "name": "Richard Seaman",
+   "role": "Business Administrator, SAU 6 (named by others: 'Richard's questions' [1007], 'the point that Richard brought up' [1037])"
+  },
+  "1002": {
+   "name": "Richard Seaman",
+   "role": "Business Administrator, SAU 6 (named by others: 'Richard's questions' [1007], 'the point that Richard brought up' [1037])"
+  },
+  "1003": {
+   "name": "Richard Seaman",
+   "role": "Business Administrator, SAU 6 (named by others: 'Richard's questions' [1007], 'the point that Richard brought up' [1037])"
+  },
+  "1038": {
+   "name": "Richard Seaman",
+   "role": "Business Administrator, SAU 6 (named by others: 'Richard's questions' [1007], 'the point that Richard brought up' [1037])"
+  },
+  "1040": {
+   "name": "Richard Seaman",
+   "role": "Business Administrator, SAU 6 (named by others: 'Richard's questions' [1007], 'the point that Richard brought up' [1037])"
+  },
+  "1042": {
+   "name": "Richard Seaman",
+   "role": "Business Administrator, SAU 6 (named by others: 'Richard's questions' [1007], 'the point that Richard brought up' [1037])"
+  },
+  "1012": {
+   "name": "Rebecca Zullo",
+   "role": "Claremont School Board member"
+  },
+  "1068": {
+   "name": "Michael Petrin",
+   "role": "Claremont School Board member"
+  },
+  "652": {
+   "name": "Rob Lovett Jr.",
+   "role": "Claremont School Board member"
+  },
+  "693": {
+   "name": "Jason Benware",
+   "role": "Claremont School Board member"
+  },
+  "695": {
+   "name": "Jason Benware",
+   "role": "Claremont School Board member"
+  },
+  "697": {
+   "name": "Jason Benware",
+   "role": "Claremont School Board member"
+  },
+  "699": {
+   "name": "Jason Benware",
+   "role": "Claremont School Board member"
+  },
+  "701": {
+   "name": "Jason Benware",
+   "role": "Claremont School Board member"
+  },
+  "845": {
+   "name": "Frank Sprague",
+   "role": "Claremont School Board Chair"
+  },
+  "1102": {
+   "name": "Frank Sprague",
+   "role": "Claremont School Board Chair"
+  },
+  "547": {
+   "name": "Unidentified",
+   "role": "Unidentified - short remarks before the attorney's liability answer; voice not named"
+  },
+  "549": {
+   "name": "Unidentified",
+   "role": "Unidentified - short remarks before the attorney's liability answer; voice not named"
+  },
+  "551": {
+   "name": "Unidentified",
+   "role": "Unidentified - short remarks before the attorney's liability answer; voice not named"
+  },
+  "571": {
+   "name": "Jason Benware",
+   "role": "Claremont School Board member"
+  },
+  "573": {
+   "name": "Jason Benware",
+   "role": "Claremont School Board member"
+  },
+  "578": {
+   "name": "Jason Benware",
+   "role": "Claremont School Board member"
+  },
+  "691": {
+   "name": "Jason Benware",
+   "role": "Claremont School Board member"
+  },
+  "749": {
+   "name": "Jason Benware",
+   "role": "Claremont School Board member"
+  },
+  "889": {
+   "name": "Jason Benware",
+   "role": "Claremont School Board member"
+  },
+  "581": {
+   "name": "Heather Whitney",
+   "role": "Claremont School Board member"
+  },
+  "587": {
+   "name": "Michael Tempesta",
+   "role": "Superintendent, SAU 6"
+  },
+  "610": {
+   "name": "Michael Tempesta",
+   "role": "Superintendent, SAU 6"
+  },
+  "667": {
+   "name": "Michael Tempesta",
+   "role": "Superintendent, SAU 6"
+  },
+  "828": {
+   "name": "Michael Tempesta",
+   "role": "Superintendent, SAU 6"
+  },
+  "637": {
+   "name": "Rebecca Zullo",
+   "role": "Claremont School Board member"
+  },
+  "639": {
+   "name": "Rebecca Zullo",
+   "role": "Claremont School Board member"
+  },
+  "657": {
+   "name": "Rob Lovett Jr.",
+   "role": "Claremont School Board member"
+  },
+  "686": {
+   "name": "Michael Petrin",
+   "role": "Claremont School Board member"
+  },
+  "486": {
+   "name": "Donna Magoon",
+   "role": "Assistant Superintendent, SAU 6 (ASR 'McGowan')"
+  },
+  "767": {
+   "name": "Donna Magoon",
+   "role": "Assistant Superintendent, SAU 6 (ASR 'McGowan')"
+  },
+  "638": {
+   "name": "Rebecca Zullo",
+   "role": "Claremont School Board member"
+  },
+  "640": {
+   "name": "Rebecca Zullo",
+   "role": "Claremont School Board member"
+  },
+  "643": {
+   "name": "Rebecca Zullo",
+   "role": "Claremont School Board member"
+  },
+  "815": {
+   "name": "Heather Whitney",
+   "role": "Claremont School Board member"
+  },
+  "816": {
+   "name": "Heather Whitney",
+   "role": "Claremont School Board member"
+  },
+  "817": {
+   "name": "Heather Whitney",
+   "role": "Claremont School Board member"
+  },
+  "819": {
+   "name": "Heather Whitney",
+   "role": "Claremont School Board member"
+  },
+  "820": {
+   "name": "Heather Whitney",
+   "role": "Claremont School Board member"
+  },
+  "821": {
+   "name": "Heather Whitney",
+   "role": "Claremont School Board member"
+  },
+  "822": {
+   "name": "Heather Whitney",
+   "role": "Claremont School Board member"
+  },
+  "823": {
+   "name": "Heather Whitney",
+   "role": "Claremont School Board member"
+  },
+  "824": {
+   "name": "Heather Whitney",
+   "role": "Claremont School Board member"
+  },
+  "825": {
+   "name": "Heather Whitney",
+   "role": "Claremont School Board member"
+  },
+  "826": {
+   "name": "Heather Whitney",
+   "role": "Claremont School Board member"
+  },
+  "827": {
+   "name": "Heather Whitney",
+   "role": "Claremont School Board member"
+  },
+  "856": {
+   "name": "Heather Whitney",
+   "role": "Claremont School Board member"
+  },
+  "857": {
+   "name": "Heather Whitney",
+   "role": "Claremont School Board member"
+  },
+  "858": {
+   "name": "Heather Whitney",
+   "role": "Claremont School Board member"
+  },
+  "861": {
+   "name": "Heather Whitney",
+   "role": "Claremont School Board member"
+  },
+  "907": {
+   "name": "Heather Whitney",
+   "role": "Claremont School Board member"
+  },
+  "908": {
+   "name": "Heather Whitney",
+   "role": "Claremont School Board member"
+  },
+  "911": {
+   "name": "Heather Whitney",
+   "role": "Claremont School Board member"
+  },
+  "912": {
+   "name": "Heather Whitney",
+   "role": "Claremont School Board member"
+  },
+  "925": {
+   "name": "Heather Whitney",
+   "role": "Claremont School Board member"
+  },
+  "957": {
+   "name": "Heather Whitney",
+   "role": "Claremont School Board member"
+  },
+  "961": {
+   "name": "Heather Whitney",
+   "role": "Claremont School Board member"
+  },
+  "965": {
+   "name": "Heather Whitney",
+   "role": "Claremont School Board member"
+  },
+  "968": {
+   "name": "Heather Whitney",
+   "role": "Claremont School Board member"
+  },
+  "977": {
+   "name": "Heather Whitney",
+   "role": "Claremont School Board member"
+  },
+  "980": {
+   "name": "Heather Whitney",
+   "role": "Claremont School Board member"
+  },
+  "982": {
+   "name": "Heather Whitney",
+   "role": "Claremont School Board member"
+  },
+  "985": {
+   "name": "Heather Whitney",
+   "role": "Claremont School Board member"
+  },
+  "987": {
+   "name": "Heather Whitney",
+   "role": "Claremont School Board member"
+  },
+  "989": {
+   "name": "Heather Whitney",
+   "role": "Claremont School Board member"
+  },
+  "991": {
+   "name": "Heather Whitney",
+   "role": "Claremont School Board member"
+  },
+  "992": {
+   "name": "Heather Whitney",
+   "role": "Claremont School Board member"
+  },
+  "993": {
+   "name": "Heather Whitney",
+   "role": "Claremont School Board member"
+  },
+  "994": {
+   "name": "Heather Whitney",
+   "role": "Claremont School Board member"
+  },
+  "995": {
+   "name": "Heather Whitney",
+   "role": "Claremont School Board member"
+  },
+  "1060": {
+   "name": "Heather Whitney",
+   "role": "Claremont School Board member"
+  },
+  "1093": {
+   "name": "Heather Whitney",
+   "role": "Claremont School Board member"
+  },
+  "661": {
+   "name": "Heather Whitney",
+   "role": "Claremont School Board member"
+  },
+  "85": {
+   "name": "Jeff Small",
+   "role": "Director of Technology, SAU 6 (uncertain - runs the phone and remote-audio line; chair: 'Jeff, you can help me with this' [779])"
+  },
+  "87": {
+   "name": "Jeff Small",
+   "role": "Director of Technology, SAU 6 (uncertain - runs the phone and remote-audio line; chair: 'Jeff, you can help me with this' [779])"
+  },
+  "182": {
+   "name": "Jeff Small",
+   "role": "Director of Technology, SAU 6 (uncertain - runs the phone and remote-audio line; chair: 'Jeff, you can help me with this' [779])"
+  },
+  "190": {
+   "name": "Jeff Small",
+   "role": "Director of Technology, SAU 6 (uncertain - runs the phone and remote-audio line; chair: 'Jeff, you can help me with this' [779])"
+  },
+  "191": {
+   "name": "Jeff Small",
+   "role": "Director of Technology, SAU 6 (uncertain - runs the phone and remote-audio line; chair: 'Jeff, you can help me with this' [779])"
+  },
+  "518": {
+   "name": "Jason Benware",
+   "role": "Claremont School Board member"
+  },
+  "586": {
+   "name": "Michael Tempesta",
+   "role": "Superintendent, SAU 6"
+  },
+  "612": {
+   "name": "Michael Tempesta",
+   "role": "Superintendent, SAU 6"
+  },
+  "614": {
+   "name": "Michael Tempesta",
+   "role": "Superintendent, SAU 6"
+  },
+  "371": {
+   "name": "Michael Tempesta",
+   "role": "Superintendent, SAU 6"
+  },
+  "373": {
+   "name": "Michael Tempesta",
+   "role": "Superintendent, SAU 6"
+  },
+  "893": {
+   "name": "Patricia Barry",
+   "role": "Principal, Stevens High School (by phone; ASR 'Principal Bailey', 'Patricia Berry')"
+  },
+  "859": {
+   "name": "Rebecca Zullo",
+   "role": "Claremont School Board member"
+  },
+  "1013": {
+   "name": "Rebecca Zullo",
+   "role": "Claremont School Board member"
+  },
+  "1062": {
+   "name": "Rebecca Zullo",
+   "role": "Claremont School Board member"
+  },
+  "986": {
+   "name": "Heather Whitney",
+   "role": "Claremont School Board member"
+  },
+  "990": {
+   "name": "Heather Whitney",
+   "role": "Claremont School Board member"
+  },
+  "1134": {
+   "name": "Donna Magoon",
+   "role": "Assistant Superintendent, SAU 6 (ASR 'McGowan')"
+  },
+  "1136": {
+   "name": "Donna Magoon",
+   "role": "Assistant Superintendent, SAU 6 (ASR 'McGowan')"
+  },
+  "1138": {
+   "name": "Donna Magoon",
+   "role": "Assistant Superintendent, SAU 6 (ASR 'McGowan')"
+  },
+  "1140": {
+   "name": "Donna Magoon",
+   "role": "Assistant Superintendent, SAU 6 (ASR 'McGowan')"
+  },
+  "1143": {
+   "name": "Donna Magoon",
+   "role": "Assistant Superintendent, SAU 6 (ASR 'McGowan')"
+  },
+  "1156": {
+   "name": "Donna Magoon",
+   "role": "Assistant Superintendent, SAU 6 (ASR 'McGowan')"
+  }
+ }
+}

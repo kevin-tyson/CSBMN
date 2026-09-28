@@ -1,0 +1,106 @@
+{
+ "Speaker 1": {
+  "name": "Frank Sprague",
+  "role": "Claremont School Board Chair (co-presiding at joint meeting)"
+ },
+ "Speaker 2": {
+  "name": "Allen Damren",
+  "role": "Assistant Mayor, Claremont City Council"
+ },
+ "Speaker 3": {
+  "name": "Charlene Lovett",
+  "role": "Mayor, City of Claremont (co-presiding at joint meeting)"
+ },
+ "Speaker 4": {
+  "name": "Michael Petrin",
+  "role": "Claremont School Board member; SAU 6 Board Chair"
+ },
+ "Speaker 5": {
+  "name": "Unidentified",
+  "role": "Unidentified - two short remarks; [59] reassigned to Caitlin Bartley"
+ },
+ "Speaker 6": {
+  "name": "Caitlin Bartley",
+  "role": "Resource worker, NH DCYF Claremont District Office"
+ },
+ "Speaker 7": {
+  "name": "Carolyn Towle",
+  "role": "Claremont School Board member"
+ },
+ "Speaker 8": {
+  "name": "Heather Whitney",
+  "role": "Claremont School Board member (uncertain - answers 'Say you' to the chair's policy-committee question [386]-[387], and Sprague named Whitney and himself as the SAU policy committee on 5/15/19; Rebecca Zullo not excluded)"
+ },
+ "Speaker 9": {
+  "name": "Unidentified",
+  "role": "Unidentified - syringe service program (Project 439) representative; name not captured by ASR (self-introduction clipped at [184])"
+ },
+ "Speaker 10": {
+  "name": "Unidentified",
+  "role": "Unidentified - syringe service program (Project 439) representative; name not captured by ASR (self-introduction clipped at [184])"
+ },
+ "Speaker 11": {
+  "name": "Unidentified",
+  "role": "Unidentified - syringe service program (Project 439) representative; name not captured by ASR (self-introduction clipped at [184])"
+ },
+ "Speaker 12": {
+  "name": "Unidentified",
+  "role": "Unidentified - participant commenting on election publicity [327],[329]"
+ },
+ "Speaker 13": {
+  "name": "Unidentified",
+  "role": "Unidentified - short acknowledgements from several voices"
+ },
+ "Speaker 14": {
+  "name": "Unidentified",
+  "role": "Unidentified - participant [366],[468]"
+ },
+ "Speaker 15": {
+  "name": "Jonathan Stone",
+  "role": "Claremont City Councilor (uncertain - mayor recognizes 'Councilor.' [442]; Stone and Damren are the only councilors in the roll [9], Damren is Speaker 2)"
+ },
+ "Speaker 16": {
+  "name": "Unidentified",
+  "role": "Unidentified - short acknowledgements"
+ },
+ "__overrides__": {
+  "4": {
+   "name": "Mary Woodman",
+   "role": "School district clerk (roll call of the school board and city councilors)"
+  },
+  "6": {
+   "name": "Mary Woodman",
+   "role": "School district clerk (roll call of the school board and city councilors)"
+  },
+  "8": {
+   "name": "Mary Woodman",
+   "role": "School district clerk (roll call of the school board and city councilors)"
+  },
+  "9": {
+   "name": "Mary Woodman",
+   "role": "School district clerk (roll call of the school board and city councilors)"
+  },
+  "10": {
+   "name": "Mary Woodman",
+   "role": "School district clerk (roll call of the school board and city councilors)"
+  },
+  "183": {
+   "name": "Laura Sagen",
+   "role": "Executive Director, HIV/HCV Resource Center (ASR 'Laura Sagen' [206]; spelling unverified)"
+  },
+  "185": {
+   "name": "Laura Sagen",
+   "role": "Executive Director, HIV/HCV Resource Center (ASR 'Laura Sagen' [206]; spelling unverified)"
+  },
+  "190": {
+   "name": "Laura Sagen",
+   "role": "Executive Director, HIV/HCV Resource Center (ASR 'Laura Sagen' [206]; spelling unverified)"
+  },
+  "59": {
+   "name": "Caitlin Bartley"
+  },
+  "417": {
+   "name": "Jonathan Stone"
+  }
+ }
+}

@@ -1,0 +1,316 @@
+{
+ "Speaker 1": {
+  "name": "Chris Pratt",
+  "role": "Interim Superintendent, SAU 6 (presides over the officer election)"
+ },
+ "Speaker 2": {
+  "name": "Heather Whitney",
+  "role": "Chair, Claremont School Board"
+ },
+ "Speaker 3": {
+  "name": "Mark Blount",
+  "role": "Principal, Maple Avenue Elementary School"
+ },
+ "Speaker 4": {
+  "name": "Candace Crawford",
+  "role": "Claremont School Board member"
+ },
+ "Speaker 5": {
+  "name": "Noelle Kronberg",
+  "role": "Claremont School Board clerk"
+ },
+ "Speaker 6": {
+  "name": "Mike Koski",
+  "role": "Assistant Superintendent, SAU 6"
+ },
+ "Speaker 7": {
+  "name": "Michael Petrin",
+  "role": "Claremont School Board member (returning, elected 3/12/2024 as a write-in)"
+ },
+ "Speaker 8": {
+  "name": "Arlene Hawkins",
+  "role": "Claremont School Board member; SAU 6 board chair (cluster also carries Bonnie Miles - see overrides)"
+ },
+ "Speaker 9": {
+  "name": "Christine Baker",
+  "role": "Principal, Bluff Elementary School"
+ },
+ "Speaker 10": {
+  "name": "Christine Baker",
+  "role": "Principal, Bluff Elementary School"
+ },
+ "Speaker 11": {
+  "name": "Christine Baker",
+  "role": "Principal, Bluff Elementary School"
+ },
+ "Speaker 12": {
+  "name": "Frank Sprague",
+  "role": "Vice chair, Claremont School Board"
+ },
+ "Speaker 13": {
+  "name": "Mary Henry",
+  "role": "Business Administrator, SAU 6"
+ },
+ "Speaker 14": {
+  "name": "Unidentified",
+  "role": "Unidentified voice in the room - two short interjections, no anchor"
+ },
+ "Speaker 15": {
+  "name": "Arlene Hawkins",
+  "role": "Claremont School Board member; SAU 6 board chair"
+ },
+ "__overrides__": {
+  "3": {
+   "name": "Frank Sprague"
+  },
+  "4": {
+   "name": "Unidentified",
+   "role": "Claremont School Board member seconding the nomination of Heather Whitney as chair - voice not separable"
+  },
+  "6": {
+   "name": "Frank Sprague"
+  },
+  "8": {
+   "name": "Chris Pratt"
+  },
+  "21": {
+   "name": "Bonnie Miles",
+   "role": "Claremont School Board member"
+  },
+  "23": {
+   "name": "Michael Petrin"
+  },
+  "33": {
+   "name": "Jeff Small",
+   "role": "Director of Technology, SAU 6"
+  },
+  "35": {
+   "name": "Jeff Small",
+   "role": "Director of Technology, SAU 6"
+  },
+  "37": {
+   "name": "Jeff Small",
+   "role": "Director of Technology, SAU 6"
+  },
+  "44": {
+   "name": "Frank Sprague"
+  },
+  "45": {
+   "name": "Bonnie Miles",
+   "role": "Claremont School Board member"
+  },
+  "46": {
+   "name": "Frank Sprague"
+  },
+  "50": {
+   "name": "Michael Petrin"
+  },
+  "52": {
+   "name": "Michael Petrin"
+  },
+  "54": {
+   "name": "Jeff Small",
+   "role": "Director of Technology, SAU 6"
+  },
+  "55": {
+   "name": "Jeff Small",
+   "role": "Director of Technology, SAU 6"
+  },
+  "57": {
+   "name": "Arlene Hawkins"
+  },
+  "93": {
+   "name": "Frank Sprague"
+  },
+  "126": {
+   "name": "Frank Sprague"
+  },
+  "128": {
+   "name": "Frank Sprague"
+  },
+  "130": {
+   "name": "Frank Sprague"
+  },
+  "144": {
+   "name": "Christine Baker"
+  },
+  "145": {
+   "name": "Christine Baker"
+  },
+  "146": {
+   "name": "Christine Baker"
+  },
+  "179": {
+   "name": "Christine Baker"
+  },
+  "196": {
+   "name": "Frank Sprague"
+  },
+  "199": {
+   "name": "Frank Sprague"
+  },
+  "221": {
+   "name": "Christine Baker"
+  },
+  "231": {
+   "name": "Christine Baker"
+  },
+  "245": {
+   "name": "Mark Blount"
+  },
+  "247": {
+   "name": "Mark Blount"
+  },
+  "249": {
+   "name": "Mark Blount"
+  },
+  "252": {
+   "name": "Mark Blount"
+  },
+  "254": {
+   "name": "Mark Blount"
+  },
+  "266": {
+   "name": "Mark Blount"
+  },
+  "276": {
+   "name": "Frank Sprague"
+  },
+  "277": {
+   "name": "Frank Sprague"
+  },
+  "278": {
+   "name": "Frank Sprague"
+  },
+  "279": {
+   "name": "Frank Sprague"
+  },
+  "280": {
+   "name": "Frank Sprague"
+  },
+  "286": {
+   "name": "Heather Whitney"
+  },
+  "312": {
+   "name": "Candace Crawford"
+  },
+  "316": {
+   "name": "Candace Crawford"
+  },
+  "320": {
+   "name": "Mark Blount"
+  },
+  "323": {
+   "name": "Candace Crawford"
+  },
+  "325": {
+   "name": "Candace Crawford"
+  },
+  "329": {
+   "name": "Candace Crawford"
+  },
+  "331": {
+   "name": "Candace Crawford"
+  },
+  "335": {
+   "name": "Frank Sprague"
+  },
+  "337": {
+   "name": "Frank Sprague"
+  },
+  "341": {
+   "name": "Bonnie Miles",
+   "role": "Claremont School Board member"
+  },
+  "342": {
+   "name": "Bonnie Miles",
+   "role": "Claremont School Board member"
+  },
+  "344": {
+   "name": "Bonnie Miles",
+   "role": "Claremont School Board member"
+  },
+  "346": {
+   "name": "Bonnie Miles",
+   "role": "Claremont School Board member"
+  },
+  "349": {
+   "name": "Christine Baker"
+  },
+  "351": {
+   "name": "Christine Baker"
+  },
+  "353": {
+   "name": "Heather Whitney"
+  },
+  "356": {
+   "name": "Heather Whitney"
+  },
+  "360": {
+   "name": "Heather Whitney"
+  },
+  "367": {
+   "name": "Mark Blount"
+  },
+  "383": {
+   "name": "Arlene Hawkins"
+  },
+  "399": {
+   "name": "Michael Petrin"
+  },
+  "401": {
+   "name": "Michael Petrin"
+  },
+  "403": {
+   "name": "Michael Petrin"
+  },
+  "405": {
+   "name": "Michael Petrin"
+  },
+  "425": {
+   "name": "Heather Whitney"
+  },
+  "430": {
+   "name": "Michael Petrin"
+  },
+  "432": {
+   "name": "Michael Petrin"
+  },
+  "436": {
+   "name": "Michael Petrin"
+  },
+  "438": {
+   "name": "Michael Petrin"
+  },
+  "440": {
+   "name": "Michael Petrin"
+  },
+  "442": {
+   "name": "Michael Petrin"
+  },
+  "445": {
+   "name": "Michael Petrin"
+  },
+  "447": {
+   "name": "Michael Petrin"
+  },
+  "505": {
+   "name": "Heather Whitney"
+  },
+  "544": {
+   "name": "Candace Crawford"
+  },
+  "610": {
+   "name": "Candace Crawford"
+  },
+  "640": {
+   "name": "Heather Whitney"
+  },
+  "642": {
+   "name": "Heather Whitney"
+  },
+  "653": {
+   "name": "Heather Whitney"
+  }
+ }
+}

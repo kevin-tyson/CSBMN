@@ -1,0 +1,934 @@
+{
+ "Speaker 1": {
+  "name": "Unidentified",
+  "role": "Unattributed fragment - diarizer catch-all for clipped sentence onsets, backchannels and crosstalk"
+ },
+ "Speaker 2": {
+  "name": "Michael Petrin",
+  "role": "School Board Chair (ASR: 'Michael Patron'/'Patrone')"
+ },
+ "Speaker 3": {
+  "name": "Frank Sprague",
+  "role": "School Board member"
+ },
+ "Speaker 4": {
+  "name": "Heather Whitney",
+  "role": "School Board Vice Chair"
+ },
+ "Speaker 5": {
+  "name": "Arlene Hawkins",
+  "role": "Ward 3 resident, 592 Redwater Brook Road; citizens' comments (elected to the board 3/14/23 - not a member on this date)"
+ },
+ "Speaker 6": {
+  "name": "Unidentified",
+  "role": "Unattributed fragment - shared cluster of clipped speech onsets"
+ },
+ "Speaker 7": {
+  "name": "Chris Pratt",
+  "role": "Principal, Stevens High School"
+ },
+ "Speaker 8": {
+  "name": "Michael Tempesta",
+  "role": "Superintendent of Schools, SAU 6"
+ },
+ "Speaker 9": {
+  "name": "Bonnie Miles",
+  "role": "School Board member (identified by elimination among the six sitting members; not named on this recording)"
+ },
+ "Speaker 10": {
+  "name": "Mike Koski",
+  "role": "Assistant Superintendent, SAU 6 (ASR: 'Mr. Kosky')"
+ },
+ "Speaker 11": {
+  "name": "Whitney Skillen",
+  "role": "School Board member (ASR: 'Skillet'/'Skilling')"
+ },
+ "Speaker 12": {
+  "name": "Melissa Lewis",
+  "role": "Elementary school principal, Disnard (first name spoken here; surname from later 2023-24 records)"
+ },
+ "Speaker 13": {
+  "name": "Christina",
+  "role": "Preschool / early childhood program director, Tech Center site (surname not spoken on this recording)"
+ },
+ "Speaker 14": {
+  "name": "Ben Nester",
+  "role": "Director of Special Education, SAU 6"
+ },
+ "Speaker 15": {
+  "name": "Christine Baker",
+  "role": "Principal, Bluff Elementary School (post identified from the recording; name from later 2023 records - not spoken here)"
+ },
+ "Speaker 16": {
+  "name": "Frank Romeo",
+  "role": "Principal, Claremont Middle School"
+ },
+ "Speaker 17": {
+  "name": "Steven Horsky",
+  "role": "School Board member (ASR: 'Hauschka'/'Steve Gorski')"
+ },
+ "Speaker 18": {
+  "name": "Richard Seaman",
+  "role": "Business Administrator / Assistant Superintendent for Finance and Operations"
+ },
+ "Speaker 19": {
+  "name": "David Putnam",
+  "role": "Ward 2 resident; citizens' comments"
+ },
+ "Speaker 20": {
+  "name": "Mimi Rhines",
+  "role": "Ward 1; Stevens High School staff member (school counselor in later records; ASR: 'Mimi Ryan's', 'Meeting your eyes')"
+ },
+ "Speaker 21": {
+  "name": "Candace Crawford",
+  "role": "Ward 2 resident; citizens' comments (not a board member on this date - appointed 7/19/23)"
+ },
+ "Speaker 22": {
+  "name": "Lisa Holtz",
+  "role": "Claremont resident and elementary school teacher; citizens' comments"
+ },
+ "Speaker 23": {
+  "name": "Jennifer Austin",
+  "role": "Claremont parent; citizens' comments"
+ },
+ "Speaker 24": {
+  "name": "Raquel",
+  "role": "Ward 2; PTO president at Maple Avenue School (surname not captured by the ASR)"
+ },
+ "Speaker 25": {
+  "name": "Ann Fine",
+  "role": "Ward 2, 101 Ledgewood Road; retired educator (self-ID heard only as 'an fine' - name spelling unverified)"
+ },
+ "Speaker 26": {
+  "name": "Marian Lovett",
+  "role": "Ward 2; Stevens High School class of 2017 graduate (heard 'Mary and Lovett'/'Mary Lovett'/'Ann loves to'; Marian vs. Mary Ann unresolved)"
+ },
+ "Speaker 27": {
+  "name": "Laura Snelling",
+  "role": "Ward 3; school nurse at Maple Avenue School"
+ },
+ "Speaker 28": {
+  "name": "Michelle",
+  "role": "Ward 2 resident; three years on the district restructuring committees (surname garbled - heard 'Michelle be in Ward two')"
+ },
+ "Speaker 29": {
+  "name": "Nicholas Stone",
+  "role": "Ward 3; 2023 school board candidate (self-ID heard only as 'Next on Ward three' - identification is inferential)"
+ },
+ "Speaker 30": {
+  "name": "Cassandra Edwards",
+  "role": "Ward 3; parent and teacher at Disnard Elementary School"
+ },
+ "Speaker 31": {
+  "name": "Andy",
+  "role": "Tech Center (SRVRTC) Visioning Committee member and spokesman (surname unresolved in the corpus: 'Andy Bernier' 2/8/23, 'Andy LaFrance' 12/1/23)"
+ },
+ "Speaker 32": {
+  "name": "Unidentified",
+  "role": "District administrator answering for the administration - Tempesta or Koski; both transcription passes isolate this voice from either"
+ },
+ "Speaker 33": {
+  "name": "Unidentified",
+  "role": "Unattributed brief remark from the board table"
+ },
+ "Speaker 34": {
+  "name": "Jennifer Austin",
+  "role": "Claremont parent; citizens' comments"
+ },
+ "__overrides__": {
+  "3": {
+   "name": "Unidentified",
+   "role": "Assembly reciting the Pledge of Allegiance"
+  },
+  "5": {
+   "name": "Unidentified",
+   "role": "Assembly reciting the Pledge of Allegiance"
+  },
+  "8": {
+   "name": "Ben Nester",
+   "role": "Director of Special Education, SAU 6; calls the roll at the chair's request (the names he read were not transcribed)"
+  },
+  "9": {
+   "name": "Unidentified",
+   "role": "Roll call - name called and member answering 'Here'; voices not separable"
+  },
+  "10": {
+   "name": "Unidentified",
+   "role": "Roll call - name called and member answering 'Here'; voices not separable"
+  },
+  "11": {
+   "name": "Unidentified",
+   "role": "Roll call - name called and member answering 'Here'; voices not separable"
+  },
+  "12": {
+   "name": "Unidentified",
+   "role": "Roll call - 'Thanks, Greg' is the roll-caller acknowledging Frank Sprague; voices not separable"
+  },
+  "13": {
+   "name": "Unidentified",
+   "role": "Roll call - Whitney Skillen's name being called"
+  },
+  "14": {
+   "name": "Unidentified",
+   "role": "Roll call - Whitney Skillen's name called ('Skillet') and answered"
+  },
+  "17": {
+   "name": "Frank Sprague"
+  },
+  "19": {
+   "name": "Unidentified",
+   "role": "Second to the motion - the chair says he could not tell whether it was Bonnie Miles or Whitney Skillen"
+  },
+  "26": {
+   "name": "Michael Petrin"
+  },
+  "44": {
+   "name": "Michael Petrin"
+  },
+  "49": {
+   "name": "Chris Pratt"
+  },
+  "53": {
+   "name": "Michael Petrin"
+  },
+  "56": {
+   "name": "Frank Sprague"
+  },
+  "60": {
+   "name": "Heather Whitney"
+  },
+  "63": {
+   "name": "Unidentified",
+   "role": "Board members voting aye"
+  },
+  "65": {
+   "name": "Michael Petrin"
+  },
+  "67": {
+   "name": "Michael Petrin"
+  },
+  "113": {
+   "name": "Bonnie Miles"
+  },
+  "120": {
+   "name": "Frank Sprague"
+  },
+  "122": {
+   "name": "Frank Sprague"
+  },
+  "128": {
+   "name": "Mike Koski"
+  },
+  "169": {
+   "name": "Michael Tempesta"
+  },
+  "171": {
+   "name": "Michael Tempesta"
+  },
+  "186": {
+   "name": "Michael Petrin"
+  },
+  "200": {
+   "name": "Ben Nester"
+  },
+  "201": {
+   "name": "Ben Nester"
+  },
+  "202": {
+   "name": "Ben Nester"
+  },
+  "207": {
+   "name": "Ben Nester"
+  },
+  "228": {
+   "name": "Frank Romeo"
+  },
+  "229": {
+   "name": "Frank Romeo"
+  },
+  "235": {
+   "name": "Michael Petrin"
+  },
+  "237": {
+   "name": "Whitney Skillen"
+  },
+  "245": {
+   "name": "Michael Petrin"
+  },
+  "249": {
+   "name": "Michael Petrin"
+  },
+  "264": {
+   "name": "Michael Petrin"
+  },
+  "271": {
+   "name": "Michael Petrin"
+  },
+  "273": {
+   "name": "Steven Horsky"
+  },
+  "274": {
+   "name": "Steven Horsky"
+  },
+  "296": {
+   "name": "Mike Koski"
+  },
+  "305": {
+   "name": "Michael Petrin"
+  },
+  "306": {
+   "name": "Michael Petrin"
+  },
+  "308": {
+   "name": "Richard Seaman"
+  },
+  "309": {
+   "name": "Richard Seaman"
+  },
+  "310": {
+   "name": "Richard Seaman"
+  },
+  "311": {
+   "name": "Richard Seaman"
+  },
+  "312": {
+   "name": "Richard Seaman"
+  },
+  "313": {
+   "name": "Richard Seaman"
+  },
+  "315": {
+   "name": "Richard Seaman"
+  },
+  "322": {
+   "name": "David Putnam"
+  },
+  "323": {
+   "name": "David Putnam"
+  },
+  "324": {
+   "name": "David Putnam"
+  },
+  "329": {
+   "name": "Michael Tempesta"
+  },
+  "330": {
+   "name": "Michael Tempesta"
+  },
+  "358": {
+   "name": "Steven Horsky"
+  },
+  "372": {
+   "name": "Michael Petrin"
+  },
+  "374": {
+   "name": "Michael Petrin"
+  },
+  "386": {
+   "name": "Michael Petrin"
+  },
+  "40": {
+   "name": "Hannah Petrin",
+   "role": "Student representative to the school board (surname not spoken here; the corpus renders it 'Hannah Patron')"
+  },
+  "41": {
+   "name": "Hannah Petrin",
+   "role": "Student representative to the school board (surname not spoken here; the corpus renders it 'Hannah Patron')"
+  },
+  "42": {
+   "name": "Hannah Petrin",
+   "role": "Student representative to the school board (surname not spoken here; the corpus renders it 'Hannah Patron')"
+  },
+  "43": {
+   "name": "Hannah Petrin",
+   "role": "Student representative to the school board (surname not spoken here; the corpus renders it 'Hannah Patron')"
+  },
+  "47": {
+   "name": "Hannah Petrin",
+   "role": "Student representative to the school board (surname not spoken here; the corpus renders it 'Hannah Patron')"
+  },
+  "144": {
+   "name": "Whitney Skillen"
+  },
+  "351": {
+   "name": "Mimi Rhines"
+  },
+  "435": {
+   "name": "Jennifer Austin"
+  },
+  "450": {
+   "name": "Heather Whitney"
+  },
+  "455": {
+   "name": "Raquel"
+  },
+  "476": {
+   "name": "Marian Lovett"
+  },
+  "478": {
+   "name": "Marian Lovett"
+  },
+  "489": {
+   "name": "Jenna Gage",
+   "role": "Second-grade teacher at Maple Avenue School; Claremont resident off Washington Street"
+  },
+  "621": {
+   "name": "Raquel"
+  },
+  "653": {
+   "name": "Marian Lovett"
+  },
+  "654": {
+   "name": "Marian Lovett"
+  },
+  "655": {
+   "name": "Marian Lovett"
+  },
+  "656": {
+   "name": "Marian Lovett"
+  },
+  "657": {
+   "name": "Marian Lovett"
+  },
+  "658": {
+   "name": "Marian Lovett"
+  },
+  "30": {
+   "name": "Unidentified",
+   "role": "Citizens' comments - first speaker; the ASR captured only the closing sentence and dropped the self-identification"
+  },
+  "458": {
+   "name": "Raquel"
+  },
+  "461": {
+   "name": "Raquel"
+  },
+  "686": {
+   "name": "Bonnie Miles"
+  },
+  "688": {
+   "name": "Bonnie Miles"
+  },
+  "431": {
+   "name": "Michael Petrin"
+  },
+  "433": {
+   "name": "Michael Petrin"
+  },
+  "434": {
+   "name": "Michael Petrin"
+  },
+  "448": {
+   "name": "Michael Petrin"
+  },
+  "451": {
+   "name": "Heather Whitney"
+  },
+  "456": {
+   "name": "Raquel"
+  },
+  "457": {
+   "name": "Raquel"
+  },
+  "459": {
+   "name": "Raquel"
+  },
+  "471": {
+   "name": "Michael Petrin"
+  },
+  "475": {
+   "name": "Michael Petrin"
+  },
+  "477": {
+   "name": "Marian Lovett"
+  },
+  "488": {
+   "name": "Michael Petrin"
+  },
+  "490": {
+   "name": "Jenna Gage",
+   "role": "Second-grade teacher at Maple Avenue School; Claremont resident off Washington Street"
+  },
+  "491": {
+   "name": "Jenna Gage",
+   "role": "Second-grade teacher at Maple Avenue School; Claremont resident off Washington Street"
+  },
+  "492": {
+   "name": "Jenna Gage",
+   "role": "Second-grade teacher at Maple Avenue School; Claremont resident off Washington Street"
+  },
+  "493": {
+   "name": "Jenna Gage",
+   "role": "Second-grade teacher at Maple Avenue School; Claremont resident off Washington Street"
+  },
+  "494": {
+   "name": "Jenna Gage",
+   "role": "Second-grade teacher at Maple Avenue School; Claremont resident off Washington Street"
+  },
+  "495": {
+   "name": "Jenna Gage",
+   "role": "Second-grade teacher at Maple Avenue School; Claremont resident off Washington Street"
+  },
+  "496": {
+   "name": "Jenna Gage",
+   "role": "Second-grade teacher at Maple Avenue School; Claremont resident off Washington Street"
+  },
+  "497": {
+   "name": "Jenna Gage",
+   "role": "Second-grade teacher at Maple Avenue School; Claremont resident off Washington Street"
+  },
+  "498": {
+   "name": "Jenna Gage",
+   "role": "Second-grade teacher at Maple Avenue School; Claremont resident off Washington Street"
+  },
+  "499": {
+   "name": "Jenna Gage",
+   "role": "Second-grade teacher at Maple Avenue School; Claremont resident off Washington Street"
+  },
+  "500": {
+   "name": "Jenna Gage",
+   "role": "Second-grade teacher at Maple Avenue School; Claremont resident off Washington Street"
+  },
+  "501": {
+   "name": "Jenna Gage",
+   "role": "Second-grade teacher at Maple Avenue School; Claremont resident off Washington Street"
+  },
+  "502": {
+   "name": "Jenna Gage",
+   "role": "Second-grade teacher at Maple Avenue School; Claremont resident off Washington Street"
+  },
+  "503": {
+   "name": "Jenna Gage",
+   "role": "Second-grade teacher at Maple Avenue School; Claremont resident off Washington Street"
+  },
+  "504": {
+   "name": "Unidentified",
+   "role": "Crosstalk at the podium between citizens' comment speakers"
+  },
+  "506": {
+   "name": "Laura Snelling"
+  },
+  "517": {
+   "name": "Michael Petrin"
+  },
+  "518": {
+   "name": "Michelle"
+  },
+  "528": {
+   "name": "Heather Whitney"
+  },
+  "530": {
+   "name": "Michael Petrin"
+  },
+  "531": {
+   "name": "Nicholas Stone"
+  },
+  "532": {
+   "name": "Nicholas Stone"
+  },
+  "533": {
+   "name": "Nicholas Stone"
+  },
+  "539": {
+   "name": "Michael Petrin"
+  },
+  "540": {
+   "name": "Molly DeLuca",
+   "role": "Ward 2 parent; served on the district restructuring committee"
+  },
+  "541": {
+   "name": "Molly DeLuca",
+   "role": "Ward 2 parent; served on the district restructuring committee"
+  },
+  "542": {
+   "name": "Molly DeLuca",
+   "role": "Ward 2 parent; served on the district restructuring committee"
+  },
+  "543": {
+   "name": "Molly DeLuca",
+   "role": "Ward 2 parent; served on the district restructuring committee"
+  },
+  "544": {
+   "name": "Molly DeLuca",
+   "role": "Ward 2 parent; served on the district restructuring committee"
+  },
+  "545": {
+   "name": "Molly DeLuca",
+   "role": "Ward 2 parent; served on the district restructuring committee"
+  },
+  "546": {
+   "name": "Molly DeLuca",
+   "role": "Ward 2 parent; served on the district restructuring committee"
+  },
+  "547": {
+   "name": "Molly DeLuca",
+   "role": "Ward 2 parent; served on the district restructuring committee"
+  },
+  "548": {
+   "name": "Molly DeLuca",
+   "role": "Ward 2 parent; served on the district restructuring committee"
+  },
+  "549": {
+   "name": "Molly DeLuca",
+   "role": "Ward 2 parent; served on the district restructuring committee"
+  },
+  "550": {
+   "name": "Michael Petrin"
+  },
+  "561": {
+   "name": "Scott Pope",
+   "role": "Ward 2; retired teacher, Sugar River Valley Regional Technical Center; Visioning Committee member"
+  },
+  "562": {
+   "name": "Scott Pope",
+   "role": "Ward 2; retired teacher, Sugar River Valley Regional Technical Center; Visioning Committee member"
+  },
+  "563": {
+   "name": "Scott Pope",
+   "role": "Ward 2; retired teacher, Sugar River Valley Regional Technical Center; Visioning Committee member"
+  },
+  "565": {
+   "name": "Scott Pope",
+   "role": "Ward 2; retired teacher, Sugar River Valley Regional Technical Center; Visioning Committee member"
+  },
+  "566": {
+   "name": "Scott Pope",
+   "role": "Ward 2; retired teacher, Sugar River Valley Regional Technical Center; Visioning Committee member"
+  },
+  "567": {
+   "name": "Scott Pope",
+   "role": "Ward 2; retired teacher, Sugar River Valley Regional Technical Center; Visioning Committee member"
+  },
+  "568": {
+   "name": "Scott Pope",
+   "role": "Ward 2; retired teacher, Sugar River Valley Regional Technical Center; Visioning Committee member"
+  },
+  "569": {
+   "name": "Scott Pope",
+   "role": "Ward 2; retired teacher, Sugar River Valley Regional Technical Center; Visioning Committee member"
+  },
+  "570": {
+   "name": "Scott Pope",
+   "role": "Ward 2; retired teacher, Sugar River Valley Regional Technical Center; Visioning Committee member"
+  },
+  "571": {
+   "name": "Scott Pope",
+   "role": "Ward 2; retired teacher, Sugar River Valley Regional Technical Center; Visioning Committee member"
+  },
+  "572": {
+   "name": "Scott Pope",
+   "role": "Ward 2; retired teacher, Sugar River Valley Regional Technical Center; Visioning Committee member"
+  },
+  "573": {
+   "name": "Scott Pope",
+   "role": "Ward 2; retired teacher, Sugar River Valley Regional Technical Center; Visioning Committee member"
+  },
+  "575": {
+   "name": "Scott Pope",
+   "role": "Ward 2; retired teacher, Sugar River Valley Regional Technical Center; Visioning Committee member"
+  },
+  "577": {
+   "name": "Scott Pope",
+   "role": "Ward 2; retired teacher, Sugar River Valley Regional Technical Center; Visioning Committee member"
+  },
+  "579": {
+   "name": "Michael Petrin"
+  },
+  "582": {
+   "name": "Scott Pope",
+   "role": "Ward 2; retired teacher, Sugar River Valley Regional Technical Center; Visioning Committee member"
+  },
+  "584": {
+   "name": "Scott Pope",
+   "role": "Ward 2; retired teacher, Sugar River Valley Regional Technical Center; Visioning Committee member"
+  },
+  "585": {
+   "name": "Richard Seaman"
+  },
+  "587": {
+   "name": "Richard Seaman"
+  },
+  "589": {
+   "name": "Scott Pope",
+   "role": "Ward 2; retired teacher, Sugar River Valley Regional Technical Center; Visioning Committee member"
+  },
+  "590": {
+   "name": "Raquel"
+  },
+  "591": {
+   "name": "Raquel"
+  },
+  "597": {
+   "name": "Raquel"
+  },
+  "603": {
+   "name": "Heather Whitney"
+  },
+  "609": {
+   "name": "Heather Whitney"
+  },
+  "611": {
+   "name": "Michael Petrin"
+  },
+  "613": {
+   "name": "Heather Whitney"
+  },
+  "614": {
+   "name": "Heather Whitney"
+  },
+  "616": {
+   "name": "Heather Whitney"
+  },
+  "625": {
+   "name": "Raquel"
+  },
+  "629": {
+   "name": "Michael Tempesta"
+  },
+  "643": {
+   "name": "Michael Petrin"
+  },
+  "644": {
+   "name": "Cassandra Edwards"
+  },
+  "652": {
+   "name": "Michael Petrin"
+  },
+  "659": {
+   "name": "Michael Petrin"
+  },
+  "662": {
+   "name": "Michael Petrin"
+  },
+  "663": {
+   "name": "Michael Petrin"
+  },
+  "665": {
+   "name": "Raquel"
+  },
+  "666": {
+   "name": "Raquel"
+  },
+  "668": {
+   "name": "Raquel"
+  },
+  "670": {
+   "name": "Raquel"
+  },
+  "684": {
+   "name": "Michael Petrin"
+  },
+  "700": {
+   "name": "Michael Petrin"
+  },
+  "703": {
+   "name": "Frank Sprague"
+  },
+  "704": {
+   "name": "Frank Sprague"
+  },
+  "705": {
+   "name": "Frank Sprague"
+  },
+  "706": {
+   "name": "Frank Sprague"
+  },
+  "707": {
+   "name": "Frank Sprague"
+  },
+  "708": {
+   "name": "Frank Sprague"
+  },
+  "709": {
+   "name": "Frank Sprague"
+  },
+  "710": {
+   "name": "Frank Sprague"
+  },
+  "711": {
+   "name": "Frank Sprague"
+  },
+  "712": {
+   "name": "Frank Sprague"
+  },
+  "713": {
+   "name": "Frank Sprague"
+  },
+  "715": {
+   "name": "Frank Sprague"
+  },
+  "716": {
+   "name": "Frank Sprague",
+   "role": "School Board member - his question to Alex Herzog; this segment also carries Herzog's reply ('To the best of my knowledge, yes')"
+  },
+  "717": {
+   "name": "Alex Herzog",
+   "role": "Director, Sugar River Valley Regional Technical Center; chair of the Tech Center Visioning Committee"
+  },
+  "718": {
+   "name": "Alex Herzog",
+   "role": "Director, Sugar River Valley Regional Technical Center; chair of the Tech Center Visioning Committee"
+  },
+  "719": {
+   "name": "Alex Herzog",
+   "role": "Director, Sugar River Valley Regional Technical Center; chair of the Tech Center Visioning Committee"
+  },
+  "721": {
+   "name": "Alex Herzog",
+   "role": "Director, Sugar River Valley Regional Technical Center; chair of the Tech Center Visioning Committee"
+  },
+  "722": {
+   "name": "Alex Herzog",
+   "role": "Director, Sugar River Valley Regional Technical Center; chair of the Tech Center Visioning Committee"
+  },
+  "723": {
+   "name": "Alex Herzog",
+   "role": "Director, Sugar River Valley Regional Technical Center; chair of the Tech Center Visioning Committee"
+  },
+  "724": {
+   "name": "Alex Herzog",
+   "role": "Director, Sugar River Valley Regional Technical Center; chair of the Tech Center Visioning Committee"
+  },
+  "726": {
+   "name": "Frank Sprague"
+  },
+  "727": {
+   "name": "Frank Sprague"
+  },
+  "728": {
+   "name": "Alex Herzog",
+   "role": "Director, Sugar River Valley Regional Technical Center; chair of the Tech Center Visioning Committee"
+  },
+  "729": {
+   "name": "Andy"
+  },
+  "730": {
+   "name": "Andy"
+  },
+  "731": {
+   "name": "Andy"
+  },
+  "733": {
+   "name": "Andy"
+  },
+  "734": {
+   "name": "Andy"
+  },
+  "739": {
+   "name": "Michael Petrin"
+  },
+  "742": {
+   "name": "Andy"
+  },
+  "743": {
+   "name": "Scott Pope",
+   "role": "Ward 2; retired teacher, Sugar River Valley Regional Technical Center; Visioning Committee member"
+  },
+  "744": {
+   "name": "Scott Pope",
+   "role": "Ward 2; retired teacher, Sugar River Valley Regional Technical Center; Visioning Committee member"
+  },
+  "745": {
+   "name": "Scott Pope",
+   "role": "Ward 2; retired teacher, Sugar River Valley Regional Technical Center; Visioning Committee member"
+  },
+  "746": {
+   "name": "Scott Pope",
+   "role": "Ward 2; retired teacher, Sugar River Valley Regional Technical Center; Visioning Committee member"
+  },
+  "747": {
+   "name": "Scott Pope",
+   "role": "Ward 2; retired teacher, Sugar River Valley Regional Technical Center; Visioning Committee member"
+  },
+  "748": {
+   "name": "Scott Pope",
+   "role": "Ward 2; retired teacher, Sugar River Valley Regional Technical Center; Visioning Committee member"
+  },
+  "749": {
+   "name": "Michael Petrin"
+  },
+  "754": {
+   "name": "Michael Petrin"
+  },
+  "757": {
+   "name": "Michael Petrin"
+  },
+  "759": {
+   "name": "Frank Sprague"
+  },
+  "761": {
+   "name": "Frank Sprague"
+  },
+  "763": {
+   "name": "Michael Petrin"
+  },
+  "765": {
+   "name": "Michael Petrin"
+  },
+  "768": {
+   "name": "Michael Petrin"
+  },
+  "770": {
+   "name": "Michael Petrin"
+  },
+  "773": {
+   "name": "Richard Seaman"
+  },
+  "774": {
+   "name": "Richard Seaman"
+  },
+  "777": {
+   "name": "Michael Petrin"
+  },
+  "780": {
+   "name": "Frank Sprague"
+  },
+  "781": {
+   "name": "Alex Herzog",
+   "role": "Director, Sugar River Valley Regional Technical Center; chair of the Tech Center Visioning Committee"
+  },
+  "782": {
+   "name": "Alex Herzog",
+   "role": "Director, Sugar River Valley Regional Technical Center; chair of the Tech Center Visioning Committee"
+  },
+  "788": {
+   "name": "Richard Seaman"
+  },
+  "790": {
+   "name": "Michael Petrin"
+  },
+  "792": {
+   "name": "Michael Petrin"
+  },
+  "794": {
+   "name": "Heather Whitney"
+  },
+  "796": {
+   "name": "Frank Sprague"
+  },
+  "811": {
+   "name": "Whitney Skillen",
+   "role": "School Board member (the opening clause may belong to the departing parent; the twin transcription splits it off)"
+  },
+  "813": {
+   "name": "Whitney Skillen"
+  },
+  "823": {
+   "name": "Unidentified",
+   "role": "Board member seconding the motion to adjourn - voice not identifiable"
+  },
+  "564": {
+   "name": "Scott Pope",
+   "role": "Ward 2; retired teacher, Sugar River Valley Regional Technical Center; Visioning Committee member"
+  },
+  "70": {
+   "name": "Michael Tempesta"
+  },
+  "111": {
+   "name": "Michael Tempesta"
+  },
+  "189": {
+   "name": "Michael Tempesta"
+  }
+ }
+}

@@ -1,0 +1,940 @@
+{
+ "Speaker 1": {
+  "name": "Heather Whitney",
+  "role": "Chair, Claremont School Board - convenes the 8/2/2023 meeting, asks Ben Nester to call the roll and conducts every motion; Tempesta says 'as Heather said' (seg 42), Mary Henry asks 'Heather is that what we had discussed?' (595) and 'get them through Heather' (758), and Ben Nester says 'I know Heather and I have talked about it' (986)"
+ },
+ "Speaker 2": {
+  "name": "Alex Herzog",
+  "role": "Director, Sugar River Valley Regional Technical Center - self-identifies 'Alex Herzog, Ward two, but director of the tech center here' in citizens' comments (seg 15); the chair announces 'We have Alex' at seg 14. Cluster also carries the Pledge, Jeff Small and other clipped fragments, reassigned by override"
+ },
+ "Speaker 3": {
+  "name": "Mary Henry",
+  "role": "Business Administrator, Claremont School District / SAU 6 (started early July 2023) - the chair introduces 'Mary Henry is going to be giving us an update on adequacy aid' (seg 590) and this voice delivers the budget-timeline and adequacy-aid presentation from seg 593; she names her own new hire Lori Murray (597) and asks the chair 'Heather is that what we had discussed?' (595). The diarizer also dumped ~150 sub-second crosstalk fragments from the whole room into this cluster; those are reassigned or marked Unidentified by override"
+ },
+ "Speaker 4": {
+  "name": "Chris Pratt",
+  "role": "Principal, Stevens High School - the chair calls 'Principal Pratt' at seg 196 immediately before this voice begins the high-school handbook review, Frank Sprague addresses him as 'Chris' at segs 207 and 271, and he says 'it's myself and two assistants' (234). Cluster also carries Ben Nester's roll call and Jeff Small, reassigned by override"
+ },
+ "Speaker 5": {
+  "name": "Steven Horsky",
+  "role": "Ward 2 resident and former Claremont School Board member (resigned 6/21/2023) - opens 'Hi, guys. Long time no see' (seg 27) and 'when I was on the policy committee' (29); the podium self-identification 'Steven Ward two' is clipped into the neighbouring cluster at seg 26; the chair says 'Thanks, Steve' (35) and later 'I think Steve actually ran on the issue' (852). His surname is never spoken on this recording"
+ },
+ "Speaker 6": {
+  "name": "Hope Damon",
+  "role": "New Hampshire state representative, Sullivan District 8 - self-identifies 'State representative Hope Damon Sullivan, district eight' at seg 34 and supplies free-and-reduced / Medicaid counts at segs 676-679"
+ },
+ "Speaker 7": {
+  "name": "Michael Tempesta",
+  "role": "Superintendent of Schools, SAU 6 - the chair hands off 'move forward to the superintendent report. I, Mr. Tempesta' (seg 36) and asks 'any questions for Mr. Tempesta' (45, 103); he reports the SAU 6 staffing changes and the transportation-waiver recommendation"
+ },
+ "Speaker 8": {
+  "name": "Frank Sprague",
+  "role": "Vice Chair, Claremont School Board; former Stevens High School staff member - the chair credits 'Frank's amendment' (seg 572) and 'Frank would like us to move policy JLCB' (839), Mary Henry says 'which Frank, you may know' (752), and Ben Nester says 'largely Frank, I agree with you' (1040) and 'I totally agree with you, Frank' (1042). He says 'I was a guidance counselor' (370) and 'I started an alternative program at Stevens' (991)"
+ },
+ "Speaker 9": {
+  "name": "Jennifer Gallagher",
+  "role": "Claremont School Board member (elected 3/14/2023, one-year seat); chair of the ad hoc disruptive-behaviors subcommittee - the chair says 'Thank you. Jen' mid-turn at seg 193 and 'No. Jen' at 1184 immediately before she reports 'With the ad hoc disruptive Behaviors Committee, we have yet to set a meeting' (1185); she also reports for the Curriculum Committee (943)"
+ },
+ "Speaker 10": {
+  "name": "Candace Crawford",
+  "role": "Claremont School Board member (appointed 7/19/2023); Tech Center Visioning Committee member - the chair recognizes her as 'It's Crawford' (seg 58), 'Miss Crawford, I saw you' (164), 'Candace,' (290), 'Yes. Candace Crawford' (947) and 'Candy Crawford makes a motion' (846)"
+ },
+ "Speaker 11": {
+  "name": "Bonnie Miles",
+  "role": "Claremont School Board member; chair of the capital-improvement subcommittee - the chair's lead-in at seg 761 is heard as 'I think from body' (i.e. 'from Bonnie') immediately before this voice reports for capital improvement (763), where she says the subcommittee has 'only two of us' and 'Whitney is on vacation'. Her landlord/tenant framing at seg 706 matches the realtor identified as Miles in the 8/9/2023 recording, and her personal, empathetic questioning style matches Miles there. NOT named outright on this recording - see the run report"
+ },
+ "Speaker 12": {
+  "name": "Melissa Lewis",
+  "role": "Principal, Disnard Elementary School - the chair calls 'Miss Lewis' at seg 107 immediately before this voice presents the elementary family/student handbook, and thanks 'Miss Lewis' at 196; Jeff Small says 'any alerts that Melissa sends out' (448) while she comments on her school's app feed (436-444). Cluster also carries Candace Crawford fragments, reassigned by override"
+ },
+ "Speaker 13": {
+  "name": "Arlene Hawkins",
+  "role": "Claremont School Board member (elected 3/14/2023) and SAU 6 Board chair - presents the policy committee's two first-read policies in Whitney Skillen's absence (segs 796-798, right after the chair says 'Miss Skilling is unavailable to act as the chair', 793), asks the chair 'to direct the administration' on policy uploads (928), and reads the future date 'SAU 6 retreat August 23rd, Teal Room 5 to 7 p.m.' (1196-1198). Tempesta says he met 'with Arlene' on SAU business (49). Her phrasing tracks Hawkins in the already-attributed 8/9/2023 recording"
+ },
+ "Speaker 14": {
+  "name": "Jennifer Gallagher",
+  "role": "Claremont School Board member - her 'opposed' answers and apologies during the elementary-handbook vote, split off from her main cluster"
+ },
+ "Speaker 15": {
+  "name": "Jeff Small",
+  "role": "Director of Technology, SAU 6 - the chair announces 'Jeff Small, technology director, is going to give a brief presentation' (seg 313) immediately before this voice begins; Bonnie Miles addresses him as 'Excuse me, Jeff' (428) and the chair thanks 'Jeff' (507)"
+ },
+ "Speaker 16": {
+  "name": "Mike Koski",
+  "role": "Assistant Superintendent, SAU 6 - corrects Candace Crawford on the Visioning Committee consultant contract, 'It's been mailed' (seg 949), immediately after she attributes the contract news to 'my Kosky' (Koski) at seg 948; also supplies the digital-textbook rostering detail at segs 358 and 366"
+ },
+ "Speaker 17": {
+  "name": "Hope Damon",
+  "role": "New Hampshire state representative, Sullivan District 8 - the middle and end of her own free-and-reduced / Medicaid statement, split off from her main cluster (segs 676-679 run with zero gaps)"
+ },
+ "Speaker 18": {
+  "name": "Unidentified",
+  "role": "Claremont School Board member seconding a motion at the board table - not named on the recording"
+ },
+ "Speaker 19": {
+  "name": "Unidentified",
+  "role": "Sub-second backchannel and crosstalk at the board table during the alternative-education discussion - the fragments that can be tied to a speaker are reassigned by override, the rest are not separable"
+ },
+ "Speaker 20": {
+  "name": "Jeff Small",
+  "role": "Director of Technology, SAU 6 - offering to check the policy-upload problem, split off from his main cluster"
+ },
+ "Speaker 21": {
+  "name": "Ben Nester",
+  "role": "Director of Special Education, SAU 6, and the board's de facto secretary (the district clerk seat is vacant) - the chair names him 'Ben Nester is our honorary secretary' and asks him to call the roll (seg 2); he says 'the state of the special ed presentation I gave' (985), Jennifer Gallagher says 'Ben is working diligently' (1189), and the chair says 'we want to hear what Ben and Mike have to say' (1080)"
+ },
+ "Speaker 22": {
+  "name": "Ben Nester",
+  "role": "Director of Special Education, SAU 6 - a one-word fragment inside his own sentence, clipped into a separate cluster"
+ },
+ "Speaker 23": {
+  "name": "Unidentified",
+  "role": "Sub-second crosstalk in the room near adjournment - not separable"
+ },
+ "__overrides__": {
+  "21": {
+   "name": "Heather Whitney",
+   "role": "Chair, Claremont School Board - a chair's recognition or procedural line absorbed into a neighbouring cluster"
+  },
+  "32": {
+   "name": "Heather Whitney",
+   "role": "Chair, Claremont School Board - a chair's recognition or procedural line absorbed into a neighbouring cluster"
+  },
+  "35": {
+   "name": "Heather Whitney",
+   "role": "Chair, Claremont School Board - a chair's recognition or procedural line absorbed into a neighbouring cluster"
+  },
+  "58": {
+   "name": "Heather Whitney",
+   "role": "Chair, Claremont School Board - a chair's recognition or procedural line absorbed into a neighbouring cluster"
+  },
+  "106": {
+   "name": "Heather Whitney",
+   "role": "Chair, Claremont School Board - a chair's recognition or procedural line absorbed into a neighbouring cluster"
+  },
+  "141": {
+   "name": "Heather Whitney",
+   "role": "Chair, Claremont School Board - a chair's recognition or procedural line absorbed into a neighbouring cluster"
+  },
+  "146": {
+   "name": "Heather Whitney",
+   "role": "Chair, Claremont School Board - a chair's recognition or procedural line absorbed into a neighbouring cluster"
+  },
+  "195": {
+   "name": "Heather Whitney",
+   "role": "Chair, Claremont School Board - a chair's recognition or procedural line absorbed into a neighbouring cluster"
+  },
+  "290": {
+   "name": "Heather Whitney",
+   "role": "Chair, Claremont School Board - a chair's recognition or procedural line absorbed into a neighbouring cluster"
+  },
+  "469": {
+   "name": "Heather Whitney",
+   "role": "Chair, Claremont School Board - a chair's recognition or procedural line absorbed into a neighbouring cluster"
+  },
+  "527": {
+   "name": "Heather Whitney",
+   "role": "Chair, Claremont School Board - a chair's recognition or procedural line absorbed into a neighbouring cluster"
+  },
+  "967": {
+   "name": "Heather Whitney",
+   "role": "Chair, Claremont School Board - a chair's recognition or procedural line absorbed into a neighbouring cluster"
+  },
+  "1005": {
+   "name": "Heather Whitney",
+   "role": "Chair, Claremont School Board - a chair's recognition or procedural line absorbed into a neighbouring cluster"
+  },
+  "253": {
+   "name": "Heather Whitney",
+   "role": "Chair, Claremont School Board - a fragment of her own sentence, clipped into a neighbouring cluster"
+  },
+  "261": {
+   "name": "Heather Whitney",
+   "role": "Chair, Claremont School Board - a fragment of her own sentence, clipped into a neighbouring cluster"
+  },
+  "270": {
+   "name": "Heather Whitney",
+   "role": "Chair, Claremont School Board - a fragment of her own sentence, clipped into a neighbouring cluster"
+  },
+  "322": {
+   "name": "Heather Whitney",
+   "role": "Chair, Claremont School Board - a fragment of her own sentence, clipped into a neighbouring cluster"
+  },
+  "511": {
+   "name": "Heather Whitney",
+   "role": "Chair, Claremont School Board - a fragment of her own sentence, clipped into a neighbouring cluster"
+  },
+  "514": {
+   "name": "Heather Whitney",
+   "role": "Chair, Claremont School Board - a fragment of her own sentence, clipped into a neighbouring cluster"
+  },
+  "821": {
+   "name": "Heather Whitney",
+   "role": "Chair, Claremont School Board - a fragment of her own sentence, clipped into a neighbouring cluster"
+  },
+  "1158": {
+   "name": "Heather Whitney",
+   "role": "Chair, Claremont School Board - a fragment of her own sentence, clipped into a neighbouring cluster"
+  },
+  "1178": {
+   "name": "Heather Whitney",
+   "role": "Chair, Claremont School Board - a fragment of her own sentence, clipped into a neighbouring cluster"
+  },
+  "74": {
+   "name": "Michael Tempesta",
+   "role": "Superintendent of Schools, SAU 6 - a fragment of his own sentence, clipped into a neighbouring cluster"
+  },
+  "96": {
+   "name": "Michael Tempesta",
+   "role": "Superintendent of Schools, SAU 6 - a fragment of his own sentence, clipped into a neighbouring cluster"
+  },
+  "478": {
+   "name": "Michael Tempesta",
+   "role": "Superintendent of Schools, SAU 6 - a fragment of his own sentence, clipped into a neighbouring cluster"
+  },
+  "75": {
+   "name": "Jeff Small",
+   "role": "Director of Technology, SAU 6 - answering on the SAU staff directory and the no-emails policy after Tempesta says 'Jeff can speak more to' it (seg 73); the same content and phrasing recur in his own presentation at segs 453 and 455"
+  },
+  "77": {
+   "name": "Jeff Small",
+   "role": "Director of Technology, SAU 6 - answering on the SAU staff directory and the no-emails policy after Tempesta says 'Jeff can speak more to' it (seg 73); the same content and phrasing recur in his own presentation at segs 453 and 455"
+  },
+  "79": {
+   "name": "Jeff Small",
+   "role": "Director of Technology, SAU 6 - answering on the SAU staff directory and the no-emails policy after Tempesta says 'Jeff can speak more to' it (seg 73); the same content and phrasing recur in his own presentation at segs 453 and 455"
+  },
+  "81": {
+   "name": "Jeff Small",
+   "role": "Director of Technology, SAU 6 - answering on the SAU staff directory and the no-emails policy after Tempesta says 'Jeff can speak more to' it (seg 73); the same content and phrasing recur in his own presentation at segs 453 and 455"
+  },
+  "76": {
+   "name": "Jeff Small",
+   "role": "Director of Technology, SAU 6 - answering on the SAU staff directory and the no-emails policy after Tempesta says 'Jeff can speak more to' it (seg 73); the same content and phrasing recur in his own presentation at segs 453 and 455"
+  },
+  "314": {
+   "name": "Jeff Small",
+   "role": "Director of Technology, SAU 6 - a fragment of his own turn, clipped into a neighbouring cluster"
+  },
+  "333": {
+   "name": "Jeff Small",
+   "role": "Director of Technology, SAU 6 - a fragment of his own turn, clipped into a neighbouring cluster"
+  },
+  "343": {
+   "name": "Jeff Small",
+   "role": "Director of Technology, SAU 6 - a fragment of his own turn, clipped into a neighbouring cluster"
+  },
+  "351": {
+   "name": "Jeff Small",
+   "role": "Director of Technology, SAU 6 - a fragment of his own turn, clipped into a neighbouring cluster"
+  },
+  "378": {
+   "name": "Jeff Small",
+   "role": "Director of Technology, SAU 6 - a fragment of his own turn, clipped into a neighbouring cluster"
+  },
+  "391": {
+   "name": "Jeff Small",
+   "role": "Director of Technology, SAU 6 - a fragment of his own turn, clipped into a neighbouring cluster"
+  },
+  "426": {
+   "name": "Jeff Small",
+   "role": "Director of Technology, SAU 6 - a fragment of his own turn, clipped into a neighbouring cluster"
+  },
+  "465": {
+   "name": "Jeff Small",
+   "role": "Director of Technology, SAU 6 - a fragment of his own turn, clipped into a neighbouring cluster"
+  },
+  "505": {
+   "name": "Jeff Small",
+   "role": "Director of Technology, SAU 6 - a fragment of his own turn, clipped into a neighbouring cluster"
+  },
+  "338": {
+   "name": "Jeff Small",
+   "role": "Director of Technology, SAU 6 - his answer to a question put to him, clipped into a neighbouring cluster"
+  },
+  "354": {
+   "name": "Jeff Small",
+   "role": "Director of Technology, SAU 6 - his answer to a question put to him, clipped into a neighbouring cluster"
+  },
+  "375": {
+   "name": "Jeff Small",
+   "role": "Director of Technology, SAU 6 - his answer to a question put to him, clipped into a neighbouring cluster"
+  },
+  "459": {
+   "name": "Jeff Small",
+   "role": "Director of Technology, SAU 6 - his answer to a question put to him, clipped into a neighbouring cluster"
+  },
+  "124": {
+   "name": "Frank Sprague",
+   "role": "Vice Chair, Claremont School Board - a fragment of his own sentence, clipped into a neighbouring cluster"
+  },
+  "157": {
+   "name": "Frank Sprague",
+   "role": "Vice Chair, Claremont School Board - a fragment of his own sentence, clipped into a neighbouring cluster"
+  },
+  "159": {
+   "name": "Frank Sprague",
+   "role": "Vice Chair, Claremont School Board - a fragment of his own sentence, clipped into a neighbouring cluster"
+  },
+  "208": {
+   "name": "Frank Sprague",
+   "role": "Vice Chair, Claremont School Board - a fragment of his own sentence, clipped into a neighbouring cluster"
+  },
+  "278": {
+   "name": "Frank Sprague",
+   "role": "Vice Chair, Claremont School Board - a fragment of his own sentence, clipped into a neighbouring cluster"
+  },
+  "282": {
+   "name": "Frank Sprague",
+   "role": "Vice Chair, Claremont School Board - a fragment of his own sentence, clipped into a neighbouring cluster"
+  },
+  "778": {
+   "name": "Frank Sprague",
+   "role": "Vice Chair, Claremont School Board - a fragment of his own sentence, clipped into a neighbouring cluster"
+  },
+  "801": {
+   "name": "Frank Sprague",
+   "role": "Vice Chair, Claremont School Board - a fragment of his own sentence, clipped into a neighbouring cluster"
+  },
+  "1151": {
+   "name": "Frank Sprague",
+   "role": "Vice Chair, Claremont School Board - a fragment of his own sentence, clipped into a neighbouring cluster"
+  },
+  "132": {
+   "name": "Candace Crawford",
+   "role": "Claremont School Board member (appointed 7/19/2023) - a fragment of her own sentence, clipped into a neighbouring cluster"
+  },
+  "134": {
+   "name": "Candace Crawford",
+   "role": "Claremont School Board member (appointed 7/19/2023) - a fragment of her own sentence, clipped into a neighbouring cluster"
+  },
+  "139": {
+   "name": "Candace Crawford",
+   "role": "Claremont School Board member (appointed 7/19/2023) - a fragment of her own sentence, clipped into a neighbouring cluster"
+  },
+  "294": {
+   "name": "Candace Crawford",
+   "role": "Claremont School Board member (appointed 7/19/2023) - a fragment of her own sentence, clipped into a neighbouring cluster"
+  },
+  "349": {
+   "name": "Candace Crawford",
+   "role": "Claremont School Board member (appointed 7/19/2023) - a fragment of her own sentence, clipped into a neighbouring cluster"
+  },
+  "414": {
+   "name": "Candace Crawford",
+   "role": "Claremont School Board member (appointed 7/19/2023) - a fragment of her own sentence, clipped into a neighbouring cluster"
+  },
+  "424": {
+   "name": "Candace Crawford",
+   "role": "Claremont School Board member (appointed 7/19/2023) - a fragment of her own sentence, clipped into a neighbouring cluster"
+  },
+  "440": {
+   "name": "Candace Crawford",
+   "role": "Claremont School Board member (appointed 7/19/2023) - a fragment of her own sentence, clipped into a neighbouring cluster"
+  },
+  "667": {
+   "name": "Candace Crawford",
+   "role": "Claremont School Board member (appointed 7/19/2023) - a fragment of her own sentence, clipped into a neighbouring cluster"
+  },
+  "946": {
+   "name": "Candace Crawford",
+   "role": "Claremont School Board member (appointed 7/19/2023) - a fragment of her own sentence, clipped into a neighbouring cluster"
+  },
+  "962": {
+   "name": "Candace Crawford",
+   "role": "Claremont School Board member (appointed 7/19/2023) - a fragment of her own sentence, clipped into a neighbouring cluster"
+  },
+  "975": {
+   "name": "Candace Crawford",
+   "role": "Claremont School Board member (appointed 7/19/2023) - a fragment of her own sentence, clipped into a neighbouring cluster"
+  },
+  "1012": {
+   "name": "Candace Crawford",
+   "role": "Claremont School Board member (appointed 7/19/2023) - a fragment of her own sentence, clipped into a neighbouring cluster"
+  },
+  "1016": {
+   "name": "Candace Crawford",
+   "role": "Claremont School Board member (appointed 7/19/2023) - a fragment of her own sentence, clipped into a neighbouring cluster"
+  },
+  "1017": {
+   "name": "Candace Crawford",
+   "role": "Claremont School Board member (appointed 7/19/2023) - a fragment of her own sentence, clipped into a neighbouring cluster"
+  },
+  "1018": {
+   "name": "Candace Crawford",
+   "role": "Claremont School Board member (appointed 7/19/2023) - a fragment of her own sentence, clipped into a neighbouring cluster"
+  },
+  "1100": {
+   "name": "Candace Crawford",
+   "role": "Claremont School Board member (appointed 7/19/2023) - a fragment of her own sentence, clipped into a neighbouring cluster"
+  },
+  "1126": {
+   "name": "Candace Crawford",
+   "role": "Claremont School Board member (appointed 7/19/2023) - a fragment of her own sentence, clipped into a neighbouring cluster"
+  },
+  "1156": {
+   "name": "Candace Crawford",
+   "role": "Claremont School Board member (appointed 7/19/2023) - a fragment of her own sentence, clipped into a neighbouring cluster"
+  },
+  "1164": {
+   "name": "Candace Crawford",
+   "role": "Claremont School Board member (appointed 7/19/2023) - a fragment of her own sentence, clipped into a neighbouring cluster"
+  },
+  "1168": {
+   "name": "Candace Crawford",
+   "role": "Claremont School Board member (appointed 7/19/2023) - a fragment of her own sentence, clipped into a neighbouring cluster"
+  },
+  "113": {
+   "name": "Bonnie Miles",
+   "role": "Claremont School Board member - a fragment of her own sentence, clipped into a neighbouring cluster"
+  },
+  "149": {
+   "name": "Bonnie Miles",
+   "role": "Claremont School Board member - a fragment of her own sentence, clipped into a neighbouring cluster"
+  },
+  "180": {
+   "name": "Bonnie Miles",
+   "role": "Claremont School Board member - a fragment of her own sentence, clipped into a neighbouring cluster"
+  },
+  "232": {
+   "name": "Bonnie Miles",
+   "role": "Claremont School Board member - a fragment of her own sentence, clipped into a neighbouring cluster"
+  },
+  "308": {
+   "name": "Bonnie Miles",
+   "role": "Claremont School Board member - a fragment of her own sentence, clipped into a neighbouring cluster"
+  },
+  "309": {
+   "name": "Bonnie Miles",
+   "role": "Claremont School Board member - a fragment of her own sentence, clipped into a neighbouring cluster"
+  },
+  "368": {
+   "name": "Bonnie Miles",
+   "role": "Claremont School Board member - a fragment of her own sentence, clipped into a neighbouring cluster"
+  },
+  "429": {
+   "name": "Bonnie Miles",
+   "role": "Claremont School Board member - a fragment of her own sentence, clipped into a neighbouring cluster"
+  },
+  "463": {
+   "name": "Bonnie Miles",
+   "role": "Claremont School Board member - a fragment of her own sentence, clipped into a neighbouring cluster"
+  },
+  "495": {
+   "name": "Bonnie Miles",
+   "role": "Claremont School Board member - a fragment of her own sentence, clipped into a neighbouring cluster"
+  },
+  "497": {
+   "name": "Bonnie Miles",
+   "role": "Claremont School Board member - a fragment of her own sentence, clipped into a neighbouring cluster"
+  },
+  "502": {
+   "name": "Bonnie Miles",
+   "role": "Claremont School Board member - a fragment of her own sentence, clipped into a neighbouring cluster"
+  },
+  "503": {
+   "name": "Bonnie Miles",
+   "role": "Claremont School Board member - a fragment of her own sentence, clipped into a neighbouring cluster"
+  },
+  "537": {
+   "name": "Bonnie Miles",
+   "role": "Claremont School Board member - a fragment of her own sentence, clipped into a neighbouring cluster"
+  },
+  "762": {
+   "name": "Bonnie Miles",
+   "role": "Claremont School Board member - a fragment of her own sentence, clipped into a neighbouring cluster"
+  },
+  "772": {
+   "name": "Bonnie Miles",
+   "role": "Claremont School Board member - a fragment of her own sentence, clipped into a neighbouring cluster"
+  },
+  "785": {
+   "name": "Bonnie Miles",
+   "role": "Claremont School Board member - a fragment of her own sentence, clipped into a neighbouring cluster"
+  },
+  "897": {
+   "name": "Bonnie Miles",
+   "role": "Claremont School Board member - a fragment of her own sentence, clipped into a neighbouring cluster"
+  },
+  "1142": {
+   "name": "Bonnie Miles",
+   "role": "Claremont School Board member - a fragment of her own sentence, clipped into a neighbouring cluster"
+  },
+  "533": {
+   "name": "Bonnie Miles",
+   "role": "Claremont School Board member - moving the extension of the Claremont Middle School sports transportation waiver; the mover is never named on the recording and this thread is reconstructed from zero-gap continuity with her own segments 534 and 538 (see the run report)"
+  },
+  "535": {
+   "name": "Bonnie Miles",
+   "role": "Claremont School Board member - moving the extension of the Claremont Middle School sports transportation waiver; the mover is never named on the recording and this thread is reconstructed from zero-gap continuity with her own segments 534 and 538 (see the run report)"
+  },
+  "539": {
+   "name": "Bonnie Miles",
+   "role": "Claremont School Board member - moving the extension of the Claremont Middle School sports transportation waiver; the mover is never named on the recording and this thread is reconstructed from zero-gap continuity with her own segments 534 and 538 (see the run report)"
+  },
+  "540": {
+   "name": "Bonnie Miles",
+   "role": "Claremont School Board member - moving the extension of the Claremont Middle School sports transportation waiver; the mover is never named on the recording and this thread is reconstructed from zero-gap continuity with her own segments 534 and 538 (see the run report)"
+  },
+  "542": {
+   "name": "Bonnie Miles",
+   "role": "Claremont School Board member - moving the extension of the Claremont Middle School sports transportation waiver; the mover is never named on the recording and this thread is reconstructed from zero-gap continuity with her own segments 534 and 538 (see the run report)"
+  },
+  "699": {
+   "name": "Bonnie Miles",
+   "role": "Claremont School Board member - her recap of the free-and-reduced argument, split word-by-word between two clusters (segs 698-704 run with zero gaps)"
+  },
+  "701": {
+   "name": "Bonnie Miles",
+   "role": "Claremont School Board member - her recap of the free-and-reduced argument, split word-by-word between two clusters (segs 698-704 run with zero gaps)"
+  },
+  "703": {
+   "name": "Bonnie Miles",
+   "role": "Claremont School Board member - her recap of the free-and-reduced argument, split word-by-word between two clusters (segs 698-704 run with zero gaps)"
+  },
+  "187": {
+   "name": "Jennifer Gallagher",
+   "role": "Claremont School Board member - a fragment of her own turn, clipped into a neighbouring cluster"
+  },
+  "189": {
+   "name": "Jennifer Gallagher",
+   "role": "Claremont School Board member - a fragment of her own turn, clipped into a neighbouring cluster"
+  },
+  "191": {
+   "name": "Jennifer Gallagher",
+   "role": "Claremont School Board member - a fragment of her own turn, clipped into a neighbouring cluster"
+  },
+  "240": {
+   "name": "Jennifer Gallagher",
+   "role": "Claremont School Board member - a fragment of her own turn, clipped into a neighbouring cluster"
+  },
+  "405": {
+   "name": "Jennifer Gallagher",
+   "role": "Claremont School Board member - a fragment of her own turn, clipped into a neighbouring cluster"
+  },
+  "419": {
+   "name": "Jennifer Gallagher",
+   "role": "Claremont School Board member - a fragment of her own turn, clipped into a neighbouring cluster"
+  },
+  "944": {
+   "name": "Jennifer Gallagher",
+   "role": "Claremont School Board member - a fragment of her own turn, clipped into a neighbouring cluster"
+  },
+  "925": {
+   "name": "Arlene Hawkins",
+   "role": "Claremont School Board member and SAU 6 Board chair - a fragment of her own sentence, clipped into a neighbouring cluster"
+  },
+  "926": {
+   "name": "Arlene Hawkins",
+   "role": "Claremont School Board member and SAU 6 Board chair - a fragment of her own sentence, clipped into a neighbouring cluster"
+  },
+  "972": {
+   "name": "Arlene Hawkins",
+   "role": "Claremont School Board member and SAU 6 Board chair - a fragment of her own sentence, clipped into a neighbouring cluster"
+  },
+  "1135": {
+   "name": "Arlene Hawkins",
+   "role": "Claremont School Board member and SAU 6 Board chair - a fragment of her own sentence, clipped into a neighbouring cluster"
+  },
+  "109": {
+   "name": "Melissa Lewis",
+   "role": "Principal, Disnard Elementary School - a fragment of her own sentence, clipped into a neighbouring cluster"
+  },
+  "198": {
+   "name": "Chris Pratt",
+   "role": "Principal, Stevens High School - a fragment of his own turn, clipped into a neighbouring cluster"
+  },
+  "225": {
+   "name": "Chris Pratt",
+   "role": "Principal, Stevens High School - a fragment of his own turn, clipped into a neighbouring cluster"
+  },
+  "274": {
+   "name": "Chris Pratt",
+   "role": "Principal, Stevens High School - a fragment of his own turn, clipped into a neighbouring cluster"
+  },
+  "980": {
+   "name": "Ben Nester",
+   "role": "Director of Special Education, SAU 6 - the onset of his own turn, clipped into a neighbouring cluster"
+  },
+  "981": {
+   "name": "Ben Nester",
+   "role": "Director of Special Education, SAU 6 - the onset of his own turn, clipped into a neighbouring cluster"
+  },
+  "982": {
+   "name": "Ben Nester",
+   "role": "Director of Special Education, SAU 6 - the onset of his own turn, clipped into a neighbouring cluster"
+  },
+  "1000": {
+   "name": "Ben Nester",
+   "role": "Director of Special Education, SAU 6 - the onset of his own turn, clipped into a neighbouring cluster"
+  },
+  "10": {
+   "name": "Ben Nester",
+   "role": "Director of Special Education, SAU 6 - calling the roll at the chair's request; the ASR renders it 'A lot of miles. Yeah. What are you still in for? Gallagher. Present in Hopkins.' (Miles / Whitney Skillen / Gallagher / Hawkins)"
+  },
+  "24": {
+   "name": "Steven Horsky",
+   "role": "Ward 2 resident and former Claremont School Board member - accepting the chair's offer to speak to an agenda item, the onset of his own turn"
+  },
+  "26": {
+   "name": "Steven Horsky",
+   "role": "Ward 2 resident and former Claremont School Board member - his podium self-identification, 'Steven Ward two', clipped into the neighbouring cluster"
+  },
+  "7": {
+   "name": "Unidentified",
+   "role": "Roll-call answers and opening banter at the board table - the diarizer pooled the members' one-word responses and the ASR dropped most of the names; the individual voices are not separable"
+  },
+  "9": {
+   "name": "Unidentified",
+   "role": "Roll-call answers and opening banter at the board table - the diarizer pooled the members' one-word responses and the ASR dropped most of the names; the individual voices are not separable"
+  },
+  "11": {
+   "name": "Unidentified",
+   "role": "Roll-call answers and opening banter at the board table - the diarizer pooled the members' one-word responses and the ASR dropped most of the names; the individual voices are not separable"
+  },
+  "3": {
+   "name": "Unidentified",
+   "role": "Roll-call answers and opening banter at the board table - the diarizer pooled the members' one-word responses and the ASR dropped most of the names; the individual voices are not separable"
+  },
+  "6": {
+   "name": "Unidentified",
+   "role": "Roll-call answers and opening banter at the board table - the diarizer pooled the members' one-word responses and the ASR dropped most of the names; the individual voices are not separable"
+  },
+  "1": {
+   "name": "Unidentified",
+   "role": "The room reciting the Pledge of Allegiance in unison after the chair calls for it - not a single identifiable speaker"
+  },
+  "44": {
+   "name": "Unidentified",
+   "role": "Sub-second backchannel or assent at the board table - not separable"
+  },
+  "48": {
+   "name": "Unidentified",
+   "role": "Sub-second backchannel or assent at the board table - not separable"
+  },
+  "50": {
+   "name": "Unidentified",
+   "role": "Sub-second backchannel or assent at the board table - not separable"
+  },
+  "82": {
+   "name": "Unidentified",
+   "role": "Sub-second backchannel or assent at the board table - not separable"
+  },
+  "102": {
+   "name": "Unidentified",
+   "role": "Sub-second backchannel or assent at the board table - not separable"
+  },
+  "120": {
+   "name": "Unidentified",
+   "role": "Sub-second backchannel or assent at the board table - not separable"
+  },
+  "145": {
+   "name": "Unidentified",
+   "role": "Sub-second backchannel or assent at the board table - not separable"
+  },
+  "163": {
+   "name": "Unidentified",
+   "role": "Sub-second backchannel or assent at the board table - not separable"
+  },
+  "170": {
+   "name": "Unidentified",
+   "role": "Claremont School Board members voting aloud - the individual voices are not separable"
+  },
+  "201": {
+   "name": "Unidentified",
+   "role": "Sub-second backchannel or assent at the board table - not separable"
+  },
+  "204": {
+   "name": "Unidentified",
+   "role": "Sub-second backchannel or assent at the board table - not separable"
+  },
+  "205": {
+   "name": "Unidentified",
+   "role": "Sub-second backchannel or assent at the board table - not separable"
+  },
+  "211": {
+   "name": "Unidentified",
+   "role": "Sub-second backchannel or assent at the board table - not separable"
+  },
+  "216": {
+   "name": "Unidentified",
+   "role": "Sub-second backchannel or assent at the board table - not separable"
+  },
+  "236": {
+   "name": "Unidentified",
+   "role": "Sub-second backchannel or assent at the board table - not separable"
+  },
+  "242": {
+   "name": "Unidentified",
+   "role": "Sub-second backchannel or assent at the board table - not separable"
+  },
+  "245": {
+   "name": "Unidentified",
+   "role": "Sub-second backchannel or assent at the board table - not separable"
+  },
+  "247": {
+   "name": "Unidentified",
+   "role": "Sub-second backchannel or assent at the board table - not separable"
+  },
+  "250": {
+   "name": "Unidentified",
+   "role": "Sub-second backchannel or assent at the board table - not separable"
+  },
+  "265": {
+   "name": "Unidentified",
+   "role": "Sub-second backchannel or assent at the board table - not separable"
+  },
+  "267": {
+   "name": "Unidentified",
+   "role": "Sub-second backchannel or assent at the board table - not separable"
+  },
+  "272": {
+   "name": "Unidentified",
+   "role": "Sub-second backchannel or assent at the board table - not separable"
+  },
+  "276": {
+   "name": "Unidentified",
+   "role": "Sub-second backchannel or assent at the board table - not separable"
+  },
+  "285": {
+   "name": "Unidentified",
+   "role": "Sub-second backchannel or assent at the board table - not separable"
+  },
+  "297": {
+   "name": "Unidentified",
+   "role": "Sub-second backchannel or assent at the board table - not separable"
+  },
+  "299": {
+   "name": "Unidentified",
+   "role": "Sub-second backchannel or assent at the board table - not separable"
+  },
+  "301": {
+   "name": "Unidentified",
+   "role": "Sub-second backchannel or assent at the board table - not separable"
+  },
+  "303": {
+   "name": "Unidentified",
+   "role": "Claremont School Board members voting aloud - the individual voices are not separable"
+  },
+  "311": {
+   "name": "Unidentified",
+   "role": "Sub-second backchannel or assent at the board table - not separable"
+  },
+  "347": {
+   "name": "Unidentified",
+   "role": "Sub-second backchannel or assent at the board table - not separable"
+  },
+  "360": {
+   "name": "Unidentified",
+   "role": "Sub-second backchannel or assent at the board table - not separable"
+  },
+  "386": {
+   "name": "Unidentified",
+   "role": "Sub-second backchannel or assent at the board table - not separable"
+  },
+  "393": {
+   "name": "Unidentified",
+   "role": "Sub-second backchannel or assent at the board table - not separable"
+  },
+  "399": {
+   "name": "Unidentified",
+   "role": "Sub-second backchannel or assent at the board table - not separable"
+  },
+  "412": {
+   "name": "Unidentified",
+   "role": "Sub-second backchannel or assent at the board table - not separable"
+  },
+  "443": {
+   "name": "Unidentified",
+   "role": "Sub-second backchannel or assent at the board table - not separable"
+  },
+  "445": {
+   "name": "Unidentified",
+   "role": "Sub-second backchannel or assent at the board table - not separable"
+  },
+  "452": {
+   "name": "Unidentified",
+   "role": "Sub-second backchannel or assent at the board table - not separable"
+  },
+  "547": {
+   "name": "Unidentified",
+   "role": "Sub-second backchannel or assent at the board table - not separable"
+  },
+  "549": {
+   "name": "Unidentified",
+   "role": "Sub-second backchannel or assent at the board table - not separable"
+  },
+  "561": {
+   "name": "Unidentified",
+   "role": "Sub-second backchannel or assent at the board table - not separable"
+  },
+  "571": {
+   "name": "Unidentified",
+   "role": "Sub-second backchannel or assent at the board table - not separable"
+  },
+  "580": {
+   "name": "Unidentified",
+   "role": "Sub-second backchannel or assent at the board table - not separable"
+  },
+  "1179": {
+   "name": "Unidentified",
+   "role": "Sub-second backchannel or assent at the board table - not separable"
+  },
+  "1181": {
+   "name": "Unidentified",
+   "role": "Sub-second backchannel or assent at the board table - not separable"
+  },
+  "1175": {
+   "name": "Unidentified",
+   "role": "Sub-second backchannel or assent at the board table - not separable"
+  },
+  "989": {
+   "name": "Unidentified",
+   "role": "Sub-second backchannel or assent at the board table - not separable"
+  },
+  "1124": {
+   "name": "Unidentified",
+   "role": "Sub-second backchannel or assent at the board table - not separable"
+  },
+  "563": {
+   "name": "Unidentified",
+   "role": "Sub-second backchannel or assent at the board table - not separable"
+  },
+  "1190": {
+   "name": "Unidentified",
+   "role": "Sub-second backchannel or assent at the board table - not separable"
+  },
+  "126": {
+   "name": "Unidentified",
+   "role": "Overlapping crosstalk in the room - several voices, not separable"
+  },
+  "168": {
+   "name": "Unidentified",
+   "role": "Overlapping crosstalk in the room - several voices, not separable"
+  },
+  "257": {
+   "name": "Unidentified",
+   "role": "Overlapping crosstalk in the room - several voices, not separable"
+  },
+  "305": {
+   "name": "Unidentified",
+   "role": "Overlapping crosstalk in the room - several voices, not separable"
+  },
+  "357": {
+   "name": "Unidentified",
+   "role": "Overlapping crosstalk in the room - several voices, not separable"
+  },
+  "362": {
+   "name": "Unidentified",
+   "role": "Overlapping crosstalk in the room - several voices, not separable"
+  },
+  "388": {
+   "name": "Unidentified",
+   "role": "Overlapping crosstalk in the room - several voices, not separable"
+  },
+  "431": {
+   "name": "Unidentified",
+   "role": "Overlapping crosstalk in the room - several voices, not separable"
+  },
+  "437": {
+   "name": "Unidentified",
+   "role": "Overlapping crosstalk in the room - several voices, not separable"
+  },
+  "454": {
+   "name": "Unidentified",
+   "role": "Overlapping crosstalk in the room - several voices, not separable"
+  },
+  "523": {
+   "name": "Unidentified",
+   "role": "Overlapping crosstalk in the room - several voices, not separable"
+  },
+  "544": {
+   "name": "Unidentified",
+   "role": "Overlapping crosstalk in the room - several voices, not separable"
+  },
+  "551": {
+   "name": "Unidentified",
+   "role": "A Claremont School Board member at the table - the voice is not separable from the crosstalk cluster"
+  },
+  "558": {
+   "name": "Unidentified",
+   "role": "Overlapping crosstalk in the room - several voices, not separable"
+  },
+  "568": {
+   "name": "Unidentified",
+   "role": "Overlapping crosstalk in the room - several voices, not separable"
+  },
+  "576": {
+   "name": "Unidentified",
+   "role": "Overlapping crosstalk in the room - several voices, not separable"
+  },
+  "578": {
+   "name": "Unidentified",
+   "role": "Overlapping crosstalk in the room - several voices, not separable"
+  },
+  "583": {
+   "name": "Unidentified",
+   "role": "Overlapping crosstalk in the room - several voices, not separable"
+  },
+  "760": {
+   "name": "Unidentified",
+   "role": "Overlapping crosstalk in the room - several voices, not separable"
+  },
+  "773": {
+   "name": "Unidentified",
+   "role": "Overlapping crosstalk in the room - several voices, not separable"
+  },
+  "780": {
+   "name": "Unidentified",
+   "role": "Overlapping crosstalk in the room - several voices, not separable"
+  },
+  "938": {
+   "name": "Unidentified",
+   "role": "Overlapping crosstalk in the room - several voices, not separable"
+  },
+  "1097": {
+   "name": "Unidentified",
+   "role": "Overlapping crosstalk in the room - several voices, not separable"
+  },
+  "1117": {
+   "name": "Unidentified",
+   "role": "Overlapping crosstalk in the room - several voices, not separable"
+  },
+  "1121": {
+   "name": "Unidentified",
+   "role": "Overlapping crosstalk in the room - several voices, not separable"
+  },
+  "1144": {
+   "name": "Unidentified",
+   "role": "Overlapping crosstalk in the room - several voices, not separable"
+  },
+  "1154": {
+   "name": "Unidentified",
+   "role": "Overlapping crosstalk in the room - several voices, not separable"
+  },
+  "1202": {
+   "name": "Unidentified",
+   "role": "Overlapping crosstalk in the room - several voices, not separable"
+  },
+  "1203": {
+   "name": "Unidentified",
+   "role": "Overlapping crosstalk in the room - several voices, not separable"
+  },
+  "122": {
+   "name": "Unidentified",
+   "role": "Overlapping crosstalk in the room - several voices, not separable"
+  },
+  "587": {
+   "name": "Unidentified",
+   "role": "Claremont School Board members voting aloud - the individual voices are not separable"
+  },
+  "589": {
+   "name": "Unidentified",
+   "role": "Claremont School Board members voting aloud - the individual voices are not separable"
+  },
+  "243": {
+   "name": "Unidentified",
+   "role": "A Claremont School Board member at the table - the voice is not separable from the crosstalk cluster"
+  }
+ }
+}

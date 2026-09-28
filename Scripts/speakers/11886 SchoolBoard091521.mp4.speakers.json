@@ -1,0 +1,128 @@
+{
+ "Speaker 1": {
+  "name": "Heather Whitney",
+  "role": "Claremont School Board member, presiding (runs the meeting while Chair Sprague attends remotely; vice chair status not stated on the record - uncertain)"
+ },
+ "Speaker 12": {
+  "name": "Heather Whitney",
+  "role": "Claremont School Board member, presiding (runs the meeting while Chair Sprague attends remotely; vice chair status not stated on the record - uncertain)"
+ },
+ "Speaker 2": {
+  "name": "Michael Petrin",
+  "role": "Claremont School Board member (recognized 'Mike.' [312] and 'Mike' [377] before this voice; refers to his own questions at the 7/21 Fish Tank presentation [235], [314])"
+ },
+ "Speaker 3": {
+  "name": "Steven Horsky",
+  "role": "Claremont School Board member"
+ },
+ "Speaker 4": {
+  "name": "Nicholas Stone",
+  "role": "Claremont School Board member (chair's 'Nick hasn't spoken yet' [226] and 'neck' [278] precede this voice)"
+ },
+ "Speaker 5": {
+  "name": "Mary Woodman",
+  "role": "School district clerk and board recording secretary"
+ },
+ "Speaker 14": {
+  "name": "Mary Woodman",
+  "role": "School district clerk and board recording secretary"
+ },
+ "Speaker 6": {
+  "name": "Michael Demers",
+  "role": "Public commenter, Ward 3 (self-identified [55]; addressed as 'Mr. Dahmer' [262])"
+ },
+ "Speaker 7": {
+  "name": "Michael Demers",
+  "role": "Public commenter, Ward 3 (self-identified [55]; addressed as 'Mr. Dahmer' [262])"
+ },
+ "Speaker 8": {
+  "name": "Michael Tempesta",
+  "role": "Superintendent, SAU 6 (delivers the superintendent's report [59-124])"
+ },
+ "Speaker 9": {
+  "name": "Unidentified",
+  "role": "Unidentified - cluster of short fragments, ayes and interjections from several voices"
+ },
+ "Speaker 10": {
+  "name": "Joshua Lambert",
+  "role": "Claremont School Board member (addressed as 'Josh' [238], [256], [301] before this voice; 'Steve, you said...' [239])"
+ },
+ "Speaker 11": {
+  "name": "Frank Sprague",
+  "role": "Claremont School Board Chair (attending remotely)"
+ },
+ "Speaker 13": {
+  "name": "Unidentified",
+  "role": "Unidentified - short acknowledgements from more than one voice"
+ },
+ "Speaker 15": {
+  "name": "Mary Ellen Janeiro",
+  "role": "Curriculum administrator, SAU 6, six weeks in the district (first name from 'Mary Ellen' [264], surname from ASR 'Doctor Janeiro' [273]; spelling unverified)"
+ },
+ "Speaker 16": {
+  "name": "Unidentified",
+  "role": "Unidentified - audience member commenting that the agenda was hard to find"
+ },
+ "Speaker 17": {
+  "name": "Unidentified",
+  "role": "Unidentified - fragment at adjournment"
+ },
+ "__overrides__": {
+  "8": {
+   "name": "Unidentified",
+   "role": "Unidentified - pre-meeting remark about appearing on the overhead screen (possibly Frank Sprague, remote - uncertain)"
+  },
+  "9": {
+   "name": "Unidentified",
+   "role": "Unidentified - pre-meeting remark about appearing on the overhead screen (possibly Frank Sprague, remote - uncertain)"
+  },
+  "22": {
+   "name": "Steven Horsky",
+   "role": "Claremont School Board member"
+  },
+  "26": {
+   "name": "Steven Horsky",
+   "role": "Claremont School Board member"
+  },
+  "23": {
+   "name": "Mary Woodman",
+   "role": "School district clerk and board recording secretary"
+  },
+  "24": {
+   "name": "Mary Woodman",
+   "role": "School district clerk and board recording secretary"
+  },
+  "42": {
+   "name": "Unidentified",
+   "role": "Unidentified - group aye vote"
+  },
+  "134": {
+   "name": "Heather Whitney",
+   "role": "Claremont School Board member, presiding (runs the meeting while Chair Sprague attends remotely; vice chair status not stated on the record - uncertain)"
+  },
+  "149": {
+   "name": "Heather Whitney",
+   "role": "Claremont School Board member, presiding (runs the meeting while Chair Sprague attends remotely; vice chair status not stated on the record - uncertain)"
+  },
+  "377": {
+   "name": "Heather Whitney",
+   "role": "Claremont School Board member, presiding (runs the meeting while Chair Sprague attends remotely; vice chair status not stated on the record - uncertain)"
+  },
+  "139": {
+   "name": "Frank Sprague",
+   "role": "Claremont School Board Chair (attending remotely)"
+  },
+  "335": {
+   "name": "Mary Ellen Janeiro",
+   "role": "Curriculum administrator, SAU 6, six weeks in the district (first name from 'Mary Ellen' [264], surname from ASR 'Doctor Janeiro' [273]; spelling unverified)"
+  },
+  "337": {
+   "name": "Mary Ellen Janeiro",
+   "role": "Curriculum administrator, SAU 6, six weeks in the district (first name from 'Mary Ellen' [264], surname from ASR 'Doctor Janeiro' [273]; spelling unverified)"
+  },
+  "345": {
+   "name": "Mary Ellen Janeiro",
+   "role": "Curriculum administrator, SAU 6, six weeks in the district (first name from 'Mary Ellen' [264], surname from ASR 'Doctor Janeiro' [273]; spelling unverified)"
+  }
+ }
+}

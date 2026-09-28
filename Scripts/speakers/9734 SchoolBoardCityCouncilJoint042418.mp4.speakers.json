@@ -1,0 +1,247 @@
+{
+ "Speaker 1": {
+  "name": "Unidentified",
+  "role": "Unidentified - cluster of short interjections from several voices (thanks, 'aye' chorus, clipped onsets); see overrides"
+ },
+ "Speaker 2": {
+  "name": "Frank Sprague",
+  "role": "Claremont School Board Chair; co-presiding for the school board (calls the joint session to order [1]; 'Frank' [44]; 'Things go through Middleton' [215]; recognizes members by name [112, 278, 291, 316, 373])"
+ },
+ "Speaker 3": {
+  "name": "Deborah Mostyn",
+  "role": "Turning Points Network representative, presenter on Sexual Assault Awareness Month (name heard only as ASR 'Deborah Mostyn' [148] and 'Miss Mason' [541]; possibly Deborah Mozden; spelling and self-identification uncertain)"
+ },
+ "Speaker 4": {
+  "name": "Mary Woodman",
+  "role": "School district clerk, reads the school board roll call ('Miss Woodman with school board' [3], roll [6])"
+ },
+ "Speaker 5": {
+  "name": "Abigail Kier",
+  "role": "Claremont City Councilor (recognized 'Council care' [258, 380] before this cluster speaks; first name not on this recording, per roster)"
+ },
+ "Speaker 6": {
+  "name": "Terry Tolle",
+  "role": "Head of development, Daniel Webster Council, Boy Scouts of America; presenter (self-identifies [25]; spelling as heard)"
+ },
+ "Speaker 7": {
+  "name": "Unidentified",
+  "role": "Unidentified - cluster of clipped onsets belonging to several speakers; see overrides"
+ },
+ "Speaker 8": {
+  "name": "Nick",
+  "role": "Claremont City Councilor (addressed 'Nick' [266, 278, 285, 306]; surname not on this recording; roster lists a councilor 'Nicholas', surname unresolved)"
+ },
+ "Speaker 9": {
+  "name": "Michelle Pierce",
+  "role": "Claremont School Board member (recognized 'Michele Pierce has a question' [112] and 'Michelle Pierce' [249]; 'school member Pearce' [550])"
+ },
+ "Speaker 10": {
+  "name": "Middleton McGoodwin",
+  "role": "Superintendent, SAU 6 ('Send it to me and I forward it to the board' [219]; 'Doctor Goodwin' [58]; authored the communications proposal with Ryan McNutt [391])"
+ },
+ "Speaker 11": {
+  "name": "Charlene Lovett",
+  "role": "Mayor, City of Claremont; presiding co-chair of the joint session (addressed 'Charlene' [58, 211]; 'Mayor Lovett here' [4])"
+ },
+ "Speaker 12": {
+  "name": "Jason Benware",
+  "role": "Claremont School Board member (recognized 'So Jason is next' [316] before this cluster speaks [319]; attribution of earlier turns [240-248] by voice cluster)"
+ },
+ "Speaker 13": {
+  "name": "Rebecca Zullo",
+  "role": "Claremont School Board Vice Chair and City Councilor (recognized 'Rebecca was next' [291], 'Rebecca' [453, 474]; 'as I said to Rebecca Zullo' [501])"
+ },
+ "Speaker 14": {
+  "name": "Scott Pope",
+  "role": "Claremont City Councilor (recognized 'Councilor Pope' [300, 431, 490]; first name inferred from 'Scott pretty much addressed' [318] and 'what Scott was saying about getting in our own way' [419] (uncertain - first name by cross-reference))"
+ },
+ "Speaker 15": {
+  "name": "Carolyn Towle",
+  "role": "Claremont School Board member (recognized 'Carolyn' [464]; mayor credits 'school board member told' with the subcommittee idea [388]; ASR 'Toll', 'Tall')"
+ },
+ "Speaker 16": {
+  "name": "Steven Horsky",
+  "role": "Claremont School Board member (addressed 'Steven' [342] and 'Steve, you can continue' [373])"
+ },
+ "Speaker 17": {
+  "name": "Jonathan Stone",
+  "role": "Claremont City Councilor (speaks after 'Councilor Stone' [401]; raised the security agenda item per mayor [446]; first name not on this recording, per roster) (uncertain - recognition-based)"
+ },
+ "Speaker 18": {
+  "name": "Cory LeClair",
+  "role": "Assistant Superintendent, SAU 6 (district benefits and safety drills [350-352, 471-473]; referred to as 'what Cory's mentioned', ASR 'what the careers mentioned' [358]) (uncertain - one indirect cue)"
+ },
+ "Speaker 19": {
+  "name": "Allen Damren",
+  "role": "Assistant Mayor, City of Claremont ('as the assistant mayor' [362]; addressed 'Alan' [462]; moved to adjourn per [550], ASR 'Mayor Damron')"
+ },
+ "__overrides__": {
+  "16": {
+   "name": "Charlene Lovett"
+  },
+  "17": {
+   "name": "Charlene Lovett"
+  },
+  "18": {
+   "name": "Charlene Lovett"
+  },
+  "19": {
+   "name": "Charlene Lovett"
+  },
+  "20": {
+   "name": "Charlene Lovett"
+  },
+  "21": {
+   "name": "Charlene Lovett"
+  },
+  "22": {
+   "name": "Charlene Lovett"
+  },
+  "23": {
+   "name": "Charlene Lovett"
+  },
+  "24": {
+   "name": "Charlene Lovett"
+  },
+  "70": {
+   "name": "Charlene Lovett"
+  },
+  "72": {
+   "name": "Charlene Lovett"
+  },
+  "73": {
+   "name": "Charlene Lovett"
+  },
+  "74": {
+   "name": "Charlene Lovett"
+  },
+  "75": {
+   "name": "Charlene Lovett"
+  },
+  "76": {
+   "name": "Charlene Lovett"
+  },
+  "78": {
+   "name": "Charlene Lovett"
+  },
+  "85": {
+   "name": "Charlene Lovett"
+  },
+  "89": {
+   "name": "Charlene Lovett"
+  },
+  "119": {
+   "name": "Charlene Lovett"
+  },
+  "124": {
+   "name": "Charlene Lovett"
+  },
+  "126": {
+   "name": "Charlene Lovett"
+  },
+  "130": {
+   "name": "Charlene Lovett"
+  },
+  "140": {
+   "name": "Charlene Lovett"
+  },
+  "143": {
+   "name": "Charlene Lovett"
+  },
+  "177": {
+   "name": "Charlene Lovett"
+  },
+  "181": {
+   "name": "Charlene Lovett"
+  },
+  "300": {
+   "name": "Charlene Lovett"
+  },
+  "4": {
+   "name": "Russell",
+   "role": "City Clerk, City of Claremont; reads the council roll call ('Miss Russell ... City Council roll call' [3]; 'Miss Russell's our council clerk' [213]; first name not on this recording)"
+  },
+  "5": {
+   "name": "Unidentified",
+   "role": "Unidentified - school board roll-call fragment ('Frank Sprague here'); clerk reading and/or Sprague answering"
+  },
+  "10": {
+   "name": "Unidentified",
+   "role": "Unidentified - notes the mover of the minutes motion ('Make a motion, Michelle')"
+  },
+  "12": {
+   "name": "Unidentified",
+   "role": "Unidentified - notes the second on the minutes motion"
+  },
+  "61": {
+   "name": "Terry Tolle"
+  },
+  "63": {
+   "name": "Terry Tolle"
+  },
+  "67": {
+   "name": "Terry Tolle"
+  },
+  "114": {
+   "name": "Michelle Pierce"
+  },
+  "131": {
+   "name": "Middleton McGoodwin"
+  },
+  "144": {
+   "name": "Deborah Mostyn"
+  },
+  "146": {
+   "name": "Deborah Mostyn"
+  },
+  "205": {
+   "name": "Deborah Mostyn"
+  },
+  "179": {
+   "name": "Rebecca Zullo"
+  },
+  "239": {
+   "name": "Jason Benware"
+  },
+  "292": {
+   "name": "Rebecca Zullo"
+  },
+  "454": {
+   "name": "Rebecca Zullo"
+  },
+  "475": {
+   "name": "Rebecca Zullo"
+  },
+  "318": {
+   "name": "Jason Benware"
+  },
+  "336": {
+   "name": "Unidentified",
+   "role": "Unidentified - clipped fragment at the end of Towle's turn, possibly the chair recognizing the next speaker"
+  },
+  "341": {
+   "name": "Middleton McGoodwin"
+  },
+  "346": {
+   "name": "Cory LeClair"
+  },
+  "382": {
+   "name": "Abigail Kier"
+  },
+  "402": {
+   "name": "Jonathan Stone"
+  },
+  "403": {
+   "name": "Jonathan Stone"
+  },
+  "425": {
+   "name": "Scott Pope"
+  },
+  "443": {
+   "name": "Jason Benware"
+  },
+  "549": {
+   "name": "Allen Damren"
+  }
+ }
+}

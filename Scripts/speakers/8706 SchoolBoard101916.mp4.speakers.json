@@ -1,0 +1,60 @@
+{
+ "Speaker 1": {
+  "name": "Unidentified",
+  "role": "Unidentified - pre-meeting chatter (segs 0-10)"
+ },
+ "Speaker 2": {
+  "name": "Brian Rapp",
+  "role": "Claremont School Board Chair"
+ },
+ "Speaker 3": {
+  "name": "Unidentified",
+  "role": "Unidentified - cluster of short remarks and vote calls merged from several board members"
+ },
+ "Speaker 4": {
+  "name": "Frank Sprague",
+  "role": "Claremont School Board member (superintendent answers him as 'Frank', segs 148, 444, 528; former administrator, seg 493)"
+ },
+ "Speaker 5": {
+  "name": "Patrick Adrian",
+  "role": "Claremont School Board member (superintendent and chair address 'Patrick' on his emails, segs 381, 385, answered segs 390-392; 'Right. Patrick.' seg 566)"
+ },
+ "Speaker 6": {
+  "name": "Cory LeClair",
+  "role": "Assistant Superintendent, SAU 6 (superintendent: 'Would you like to add anything, Cory' seg 76, answered seg 78; presents i-Ready)"
+ },
+ "Speaker 7": {
+  "name": "Unidentified",
+  "role": "Unidentified - cluster merges the roll-call reader (seg 19, reassigned to the clerk) with at least one board member; segs 402-407 may be Michelle Pierce ('I responded' / 'thank you Michel[le]')"
+ },
+ "Speaker 8": {
+  "name": "Middleton McGoodwin",
+  "role": "Superintendent, SAU 6"
+ },
+ "Speaker 9": {
+  "name": "Michelle Pierce",
+  "role": "Claremont School Board member (recognized 'Michelle' seg 131; 'does that work for you, Michel[le]?' seg 546, answered seg 547)"
+ },
+ "Speaker 10": {
+  "name": "Cory LeClair",
+  "role": "Assistant Superintendent, SAU 6 (superintendent: 'Would you like to add anything, Cory' seg 76, answered seg 78; presents i-Ready)"
+ },
+ "Speaker 11": {
+  "name": "Chris Irish",
+  "role": "Claremont School Board Vice Chair (asked 'How did you get that, Chris?' seg 593, answered seg 594)"
+ },
+ "Speaker 12": {
+  "name": "Michelle Pierce",
+  "role": "Claremont School Board member (recognized 'Michelle' seg 131; 'does that work for you, Michel[le]?' seg 546, answered seg 547)"
+ },
+ "__overrides__": {
+  "18": {
+   "name": "Unidentified",
+   "role": "Unidentified - roll call response ('Chris Irish here')"
+  },
+  "19": {
+   "name": "Mary Woodman",
+   "role": "School district clerk and board recording secretary (reads the roll, seg 19; uncertain - not named on this recording, identified from her role at the 11/2/16 meeting)"
+  }
+ }
+}

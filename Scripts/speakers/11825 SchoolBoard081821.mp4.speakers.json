@@ -1,0 +1,179 @@
+{
+ "Speaker 1": {
+  "name": "Frank Sprague",
+  "role": "Claremont School Board Chair (calls meeting to order, runs agenda and votes; answers roll 'Frank Sprague is here' [7]; addressed as 'chair Sprague' [212])"
+ },
+ "Speaker 2": {
+  "name": "Nicole Gordon",
+  "role": "Assistant Principal, Stevens High School (introduced by the superintendent 'Next we have Nicole Gordon' [257]; presents the high school handbook)"
+ },
+ "Speaker 3": {
+  "name": "Mary Woodman",
+  "role": "School district clerk and recording secretary (chair: 'Mrs. Woodman, could you roll call' [3]; calls every roll)"
+ },
+ "Speaker 4": {
+  "name": "Michael Tempesta",
+  "role": "Superintendent, SAU 6 (delivers the superintendent's report; board refers to 'Mike sent us' [216]; he addresses 'chair Sprague' [212])"
+ },
+ "Speaker 5": {
+  "name": "Rob Lovett Jr.",
+  "role": "Claremont School Board member (recognized 'Rob.' [17] then corrects the minutes about his own absence [18]; superintendent: 'I like Rob that we would just take the moderate' [524] after this voice proposed it [467])"
+ },
+ "Speaker 6": {
+  "name": "Heather Whitney",
+  "role": "Claremont School Board member (answers 'Yes' when Heather Whitney is called [563-564]; Horsky: 'I kind of follow what Heather's saying' [516]; self-reference 'Heather I just want to share' [1017])"
+ },
+ "Speaker 7": {
+  "name": "Steven Horsky",
+  "role": "Claremont School Board member (recognized 'Steve.' [86, 237, 331, 461]; answers 'Yes' when Steve is called [565]; superintendent cites 'Mr. Horsey' [767])"
+ },
+ "Speaker 8": {
+  "name": "Unidentified",
+  "role": "Unidentified - cluster of short interjections from several voices (chair recognitions, acknowledgements, onsets of other speakers); see overrides"
+ },
+ "Speaker 9": {
+  "name": "Michael Demers",
+  "role": "Public commenter (surname per chair 'Mike DEMARS Demers' [35]; ASR self-intro 'Michael Morris' [27]; superintendent says 'Mike Myers' [41] and 'Mr. DeMar' [64]; spelling uncertain)"
+ },
+ "Speaker 10": {
+  "name": "Ronnie Irani",
+  "role": "SAU 6 nurse leader and Covid coordinator (self-ID 'Hi, I'm Ronnie Irani' [153]; superintendent: 'our head nurse lead Covid person, our Ronnie' [100]; spelling unverified)"
+ },
+ "Speaker 11": {
+  "name": "Joshua Lambert",
+  "role": "Claremont School Board member (recognized 'Josh.' [229]; answers 'Yes' when Joshua Lambert is called [566-567, 741-742])"
+ },
+ "Speaker 12": {
+  "name": "Frank Romeo",
+  "role": "Principal, Claremont Middle School (called up as 'Romeo' [246], thanked 'Thanks, Frank' [256]; presents the middle school handbook)"
+ },
+ "Speaker 13": {
+  "name": "Ben Nester",
+  "role": "Director of Special Education, SAU 6 (speaks as one of 'the special ed directors in the state' [346]; superintendent credits Ben for keeping special ed placements in district [329]) (uncertain - not named at the mic)"
+ },
+ "Speaker 14": {
+  "name": "Nicholas Stone",
+  "role": "Claremont School Board member (answers 'No' when Nicholas Stone is called [571-572]; chair 'nick and then' [528]; Horsky 'I agree with Nick' [635] on this voice's Claremont-rates proposal)"
+ },
+ "Speaker 15": {
+  "name": "Mary Ellen Janeiro",
+  "role": "Assistant Superintendent, SAU 6, newly hired (superintendent: 'Doctor Mary Ellen Janeiro, our new assistant superintendent' [232]; chair 'Mary Ellen Gennaro' [384]; surname spelling unverified)"
+ },
+ "Speaker 16": {
+  "name": "Unidentified",
+  "role": "Unidentified - cluster of short affirmations and roll-call responses from several board members; see overrides"
+ },
+ "Speaker 17": {
+  "name": "Unidentified",
+  "role": "Unidentified - single two-word interjection"
+ },
+ "Speaker 18": {
+  "name": "Unidentified",
+  "role": "Unidentified - short interjections near adjournment (possibly the chair; not separable)"
+ },
+ "Speaker 19": {
+  "name": "Rob Lovett Jr.",
+  "role": "Claremont School Board member (recognized 'Rob.' [1021] immediately before this motion to adjourn) (uncertain - one segment)"
+ },
+ "__overrides__": {
+  "4": {
+   "name": "Mary Woodman",
+   "role": "School district clerk and recording secretary (roll call; ASR 'I have a witness here' is probably 'Heather Whitney here') (uncertain - short roll-call segment)"
+  },
+  "27": {
+   "name": "Michael Demers"
+  },
+  "77": {
+   "name": "Heather Whitney",
+   "role": "Claremont School Board member (uncertain - onset of the statement Speaker 6 continues at [79])"
+  },
+  "78": {
+   "name": "Heather Whitney",
+   "role": "Claremont School Board member (uncertain - onset of the statement Speaker 6 continues at [79])"
+  },
+  "86": {
+   "name": "Frank Sprague"
+  },
+  "220": {
+   "name": "Unidentified",
+   "role": "Unidentified - elementary interim principal presenting the elementary handbook (Nicole Bailey or Christine Baker, introduced at [217])"
+  },
+  "221": {
+   "name": "Unidentified",
+   "role": "Unidentified - elementary interim principal presenting the elementary handbook (Nicole Bailey or Christine Baker, introduced at [217])"
+  },
+  "222": {
+   "name": "Unidentified",
+   "role": "Unidentified - elementary interim principal presenting the elementary handbook (Nicole Bailey or Christine Baker, introduced at [217])"
+  },
+  "223": {
+   "name": "Unidentified",
+   "role": "Unidentified - elementary interim principal presenting the elementary handbook (Nicole Bailey or Christine Baker, introduced at [217])"
+  },
+  "224": {
+   "name": "Unidentified",
+   "role": "Unidentified - elementary interim principal presenting the elementary handbook (Nicole Bailey or Christine Baker, introduced at [217])"
+  },
+  "225": {
+   "name": "Unidentified",
+   "role": "Unidentified - elementary interim principal presenting the elementary handbook (Nicole Bailey or Christine Baker, introduced at [217])"
+  },
+  "226": {
+   "name": "Unidentified",
+   "role": "Unidentified - elementary interim principal presenting the elementary handbook (Nicole Bailey or Christine Baker, introduced at [217])"
+  },
+  "229": {
+   "name": "Frank Sprague"
+  },
+  "237": {
+   "name": "Frank Sprague"
+  },
+  "279": {
+   "name": "Unidentified",
+   "role": "Unidentified - one-word interjection during the high school handbook presentation"
+  },
+  "331": {
+   "name": "Frank Sprague"
+  },
+  "343": {
+   "name": "Ben Nester"
+  },
+  "344": {
+   "name": "Ben Nester"
+  },
+  "345": {
+   "name": "Ben Nester"
+  },
+  "388": {
+   "name": "Mary Ellen Janeiro"
+  },
+  "422": {
+   "name": "Steven Horsky",
+   "role": "Claremont School Board member (onset of the statement Speaker 7 continues at [423], after the chair recognizes 'Steve' [421])"
+  },
+  "569": {
+   "name": "Rob Lovett Jr.",
+   "role": "Claremont School Board member (roll-call response to 'Rob Loveland. Junior' [568])"
+  },
+  "597": {
+   "name": "Unidentified",
+   "role": "Unidentified - brief interjection during board discussion"
+  },
+  "745": {
+   "name": "Rob Lovett Jr.",
+   "role": "Claremont School Board member (roll-call response to 'Rob Lovett. Junior' [744])"
+  },
+  "748": {
+   "name": "Nicholas Stone",
+   "role": "Claremont School Board member (roll-call response to 'Nicholas stone' [747])"
+  },
+  "750": {
+   "name": "Frank Sprague",
+   "role": "Claremont School Board Chair (roll-call response to 'And Frank spray' [749])"
+  },
+  "1002": {
+   "name": "Mary Ellen Janeiro",
+   "role": "Assistant Superintendent, SAU 6 (answers the chair's question 'Doctor Janeiro, can you share your entry plan' [1001])"
+  }
+ }
+}

@@ -1,0 +1,158 @@
+{
+ "Speaker 1": {
+  "name": "Michael Petrin",
+  "role": "Claremont School Board Chair"
+ },
+ "Speaker 2": {
+  "name": "Unidentified",
+  "role": "Mixed cluster - pledge, ayes, seconds and short interjections from several people; see overrides"
+ },
+ "Speaker 3": {
+  "name": "Whitney Skillen",
+  "role": "Claremont School Board member"
+ },
+ "Speaker 4": {
+  "name": "Steven Horsky",
+  "role": "Claremont School Board member"
+ },
+ "Speaker 5": {
+  "name": "Arlene Hopkins",
+  "role": "Public commenter, Ward 3"
+ },
+ "Speaker 6": {
+  "name": "Michael Tempesta",
+  "role": "Superintendent, SAU 6"
+ },
+ "Speaker 7": {
+  "name": "Stephanie Hurst",
+  "role": "Literacy specialist, SAU 6"
+ },
+ "Speaker 8": {
+  "name": "Heather Whitney",
+  "role": "Claremont School Board Vice Chair"
+ },
+ "Speaker 9": {
+  "name": "Richard Seaman",
+  "role": "Assistant Superintendent for Finance, Operations and Human Resources, SAU 6"
+ },
+ "Speaker 10": {
+  "name": "Bonnie Miles",
+  "role": "Claremont School Board member (uncertain - attribution by elimination plus a garbled hand-off, 'enough money' for 'Bonnie')"
+ },
+ "Speaker 11": {
+  "name": "Joshua Lambert",
+  "role": "Claremont School Board member"
+ },
+ "Speaker 12": {
+  "name": "Frank Sprague",
+  "role": "Claremont School Board member"
+ },
+ "Speaker 13": {
+  "name": "Unidentified",
+  "role": "Short fragment, speaker not determinable"
+ },
+ "__overrides__": {
+  "0": {
+   "name": "Michael Petrin"
+  },
+  "2": {
+   "name": "Unidentified",
+   "role": "Group recitation of the Pledge of Allegiance"
+  },
+  "5": {
+   "name": "Ben Nester",
+   "role": "Director of Special Education, SAU 6 (acting board secretary for the roll call)"
+  },
+  "10": {
+   "name": "Steven Horsky"
+  },
+  "39": {
+   "name": "Michael Tempesta"
+  },
+  "41": {
+   "name": "Michael Tempesta"
+  },
+  "68": {
+   "name": "Michael Tempesta"
+  },
+  "484": {
+   "name": "Richard Seaman"
+  },
+  "487": {
+   "name": "Richard Seaman"
+  },
+  "109": {
+   "name": "Frank Sprague"
+  },
+  "110": {
+   "name": "Frank Sprague"
+  },
+  "111": {
+   "name": "Frank Sprague"
+  },
+  "112": {
+   "name": "Frank Sprague"
+  },
+  "113": {
+   "name": "Frank Sprague"
+  },
+  "114": {
+   "name": "Frank Sprague"
+  },
+  "115": {
+   "name": "Frank Sprague"
+  },
+  "118": {
+   "name": "Frank Sprague"
+  },
+  "126": {
+   "name": "Frank Sprague"
+  },
+  "129": {
+   "name": "Frank Sprague"
+  },
+  "131": {
+   "name": "Frank Sprague"
+  },
+  "134": {
+   "name": "Frank Sprague"
+  },
+  "198": {
+   "name": "Frank Sprague"
+  },
+  "205": {
+   "name": "Frank Sprague"
+  },
+  "263": {
+   "name": "Frank Sprague"
+  },
+  "264": {
+   "name": "Frank Sprague"
+  },
+  "265": {
+   "name": "Frank Sprague"
+  },
+  "266": {
+   "name": "Frank Sprague"
+  },
+  "268": {
+   "name": "Frank Sprague"
+  },
+  "136": {
+   "name": "Unidentified",
+   "role": "Board member or Richard Seaman (uncertain - fragment in a cluster that merges Sprague and Seaman)"
+  },
+  "175": {
+   "name": "Unidentified",
+   "role": "Board member or Richard Seaman (uncertain - fragment in a cluster that merges Sprague and Seaman)"
+  },
+  "179": {
+   "name": "Unidentified",
+   "role": "Board member or Richard Seaman (uncertain - fragment in a cluster that merges Sprague and Seaman)"
+  },
+  "395": {
+   "name": "Unidentified",
+   "role": "Board member or Richard Seaman (uncertain - fragment in a cluster that merges Sprague and Seaman)"
+  }
+ }
+}

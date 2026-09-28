@@ -1,0 +1,134 @@
+{
+ "Speaker 1": {
+  "name": "Brian Rapp",
+  "role": "Claremont School Board Chair (presides: calls to order, runs agenda, calls votes; addressed as 'Brian' by the superintendent [256, 502, 587, 689])"
+ },
+ "Speaker 2": {
+  "name": "Marion Lovett",
+  "role": "Student representative to the board, Stevens High School senior (uncertain - not named on this recording; the student representative on 5/3/17 [file 9073] is Marion Lovett, who reports the same Tyler Sullivan poster item); cluster also absorbs the opening roll call and two short motions, reassigned per segment"
+ },
+ "Speaker 3": {
+  "name": "Middleton McGoodwin",
+  "role": "Superintendent, SAU 6 (gives superintendent's report; thanked as 'Doctor Goodwin' [380]; 'since I arrived 2011' [67])"
+ },
+ "Speaker 4": {
+  "name": "Chris Irish",
+  "role": "Claremont School Board Vice Chair (recognized as 'Chris' [101]; 'to Chris's point' [649])"
+ },
+ "Speaker 5": {
+  "name": "Patrick Adrian",
+  "role": "Claremont School Board member (addressed as 'Patrick' [66, 256, 560]; 'something that Patrick said' [180])"
+ },
+ "Speaker 6": {
+  "name": "Lisa Draper",
+  "role": "Public commenter, Ward 3 resident; TLC Family Resource Center and Rural Outright organizer (self-identified [88])"
+ },
+ "Speaker 7": {
+  "name": "Prescott Herzog",
+  "role": "Eighth-grade student, Claremont Middle School; New Hampshire student ambassador for Fuel Up to Play 60 (introduced by the superintendent [113])"
+ },
+ "Speaker 8": {
+  "name": "Unidentified",
+  "role": "Claremont School Board member (makes motions [304, 741, 767]; not named on this recording; one of Pierce, Sprague or Petrin by elimination, not resolved)"
+ },
+ "Speaker 9": {
+  "name": "Michael O'Neill",
+  "role": "Business Administrator, SAU 6 (uncertain - not self-identified; speaks after 'Mike O'Neill would look forward to that' [533] and 'Michael O'Neill will elaborate' [614]; runs food service RFP and explains health insurance budgeting [695-711])"
+ },
+ "Speaker 10": {
+  "name": "Cory LeClair",
+  "role": "Assistant Superintendent, SAU 6 (recognized as 'Corey' [179]; 'Corey LeClaire has been waiting' [755] before her calendar update)"
+ },
+ "Speaker 11": {
+  "name": "Rebecca Zullo",
+  "role": "Claremont School Board member (superintendent replies 'thank you Rebecca' [472] to this voice's request [465-470])"
+ },
+ "Speaker 12": {
+  "name": "Unidentified",
+  "role": "Unidentified - short cluster of interjections ('Total cost?', 'Thank you'); speaker not established"
+ },
+ "Speaker 13": {
+  "name": "Unidentified",
+  "role": "Unidentified - cluster mixes a board member who questions Senate Bill 93 fiscal impact [434-442, 455] with group 'aye' responses and brief interjections; possibly one member, not named"
+ },
+ "Speaker 14": {
+  "name": "Patricia Barry",
+  "role": "Principal, Stevens High School (introduced as 'Pat Berry' [204]; 'Thanks, Pat' [225])"
+ },
+ "Speaker 15": {
+  "name": "Dale Chenette",
+  "role": "Nominee for principal, Bluff Elementary School (ASR 'Dale Shannon', 'Mr. Cornette' [294-295]); Claremont resident"
+ },
+ "Speaker 16": {
+  "name": "Unidentified",
+  "role": "Unidentified - single 'Good evening' [319]"
+ },
+ "Speaker 17": {
+  "name": "Unidentified",
+  "role": "Unidentified - board member asking about summer meetings [537-548]; not named"
+ },
+ "Speaker 18": {
+  "name": "Unidentified",
+  "role": "Unidentified - brief remarks during the closing nonpublic roll call [771, 773]"
+ },
+ "__overrides__": {
+  "3": {
+   "name": "Mary Woodman",
+   "role": "School district clerk and board recording secretary (uncertain - calls the opening roll but is not named at that point; 'Miss Mary' is asked before the closing roll call [770]; roster lists Woodman taking roll 2015-2021)"
+  },
+  "5": {
+   "name": "Mary Woodman"
+  },
+  "6": {
+   "name": "Mary Woodman"
+  },
+  "4": {
+   "name": "Unidentified",
+   "role": "Roll call exchange: names called and members answering 'here' run together"
+  },
+  "7": {
+   "name": "Unidentified",
+   "role": "Roll call exchange: names called and members answering 'here' run together"
+  },
+  "8": {
+   "name": "Unidentified",
+   "role": "Roll call exchange: names called and members answering 'here' run together"
+  },
+  "9": {
+   "name": "Unidentified",
+   "role": "Roll call exchange: names called and members answering 'here' run together"
+  },
+  "14": {
+   "name": "Unidentified",
+   "role": "Claremont School Board member making a motion (not named)"
+  },
+  "18": {
+   "name": "Unidentified",
+   "role": "Claremont School Board member making a motion (not named)"
+  },
+  "784": {
+   "name": "Unidentified",
+   "role": "Roll call response on motion to enter nonpublic session"
+  },
+  "777": {
+   "name": "Unidentified",
+   "role": "Roll call response on motion to enter nonpublic session"
+  },
+  "783": {
+   "name": "Unidentified",
+   "role": "Roll call response on motion to enter nonpublic session"
+  },
+  "205": {
+   "name": "Patricia Barry"
+  },
+  "206": {
+   "name": "Patricia Barry"
+  },
+  "665": {
+   "name": "Brian Rapp"
+  },
+  "669": {
+   "name": "Michael O'Neill"
+  }
+ }
+}

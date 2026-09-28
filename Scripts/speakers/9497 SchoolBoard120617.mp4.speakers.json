@@ -1,0 +1,203 @@
+{
+ "Speaker 1": {
+  "name": "Josh Malloy",
+  "role": "Director of Instructional Technology, SAU 6 (thanked 'Thank you very much, Joshua' [13] after his security-grant report [0-11]; surname per roster and file 9496)"
+ },
+ "Speaker 2": {
+  "name": "Michelle Pierce",
+  "role": "Claremont School Board member ('No question Michelle.' [45] recognition followed by this voice [46]; asks about school psychologists [75-100])"
+ },
+ "Speaker 3": {
+  "name": "Chris Irish",
+  "role": "Claremont School Board Vice Chair (LeClair: 'Chris is 800 pound elephant that he likes to refer to' [29], answered 'My baby, it's my pet' [30], matching 'near and dear to Chris's heart is career and technical education' in 9507 [584]; medium confidence)"
+ },
+ "Speaker 4": {
+  "name": "Christine",
+  "role": "Stevens High School staff member speaking on reading intervention and curriculum (Barry: 'thank you, Christine' [295]; surname not stated)"
+ },
+ "Speaker 5": {
+  "name": "Michael O'Neill",
+  "role": "Business Administrator, SAU 6 ('Go ahead Mike' [354]; presents the budget line adjustments [355-380]; surname per roster)"
+ },
+ "Speaker 6": {
+  "name": "Middleton McGoodwin",
+  "role": "Superintendent, SAU 6 ('I've been in central office 17 years' [63]; Sprague: 'So Middleton I looked at the saturation study' [251] and this voice answers [252]; refers to his memo 'that I sent you, on Tuesday the fifth' [238])"
+ },
+ "Speaker 7": {
+  "name": "Melissa Lewis",
+  "role": "Principal, Disnard Elementary School (called on 'Melissa Lewis ... Melissa, could you just say a couple of words' [23]; elementary enrollment answer [24-43])"
+ },
+ "Speaker 8": {
+  "name": "Brian Rapp",
+  "role": "Claremont School Board Chair (uncertain - controls scheduling of the next work session and moves the agenda to resignations [426-449]; 'I need to hear your opinion on the effect on our kids' [193-205]; no name cue on this partial recording; 9496 of the same meeting has Rapp in the chair)"
+ },
+ "Speaker 9": {
+  "name": "Cory LeClair",
+  "role": "Assistant Superintendent, SAU 6 (uncertain - no direct name cue on this cluster; explains the grant staffing [47-50], the SAT writing cost [381-388] and pending CBAs [423], matching her role in 9507; Ben: 'like asking Cory to teach' [182])"
+ },
+ "Speaker 10": {
+  "name": "Frank Sprague",
+  "role": "Claremont School Board member (uncertain - cites the saturation study and Charlie Gessner on the A/B schedule [251, 256]; Pierce asks 'Is Frank close?' [259] and the reply begins 'Frank is kind of correct in regards to the A B' [261-262]; moves to accept the resignations [456])"
+ },
+ "Speaker 11": {
+  "name": "Chris",
+  "role": "SAU 6 special education administrator (first name only: superintendent 'Chris, can you speak to that' [51]; Petrin: 'Chris, does that responsibility fall on you ... as director of special' [168]; surname not stated)"
+ },
+ "Speaker 12": {
+  "name": "Michael Petrin",
+  "role": "Claremont School Board member (chair recognition 'Mike, did you have something?' [167] followed by this voice [168]; board-member Mike per roster = Michael Petrin)"
+ },
+ "Speaker 13": {
+  "name": "Ben",
+  "role": "Stevens High School assistant principal and special education coordinator, support services (self-described [230-234]; Chris: 'Ben and I' [227]; surname not stated; possibly Ben Nester, later SAU 6 Director of Special Education, unverified)"
+ },
+ "Speaker 14": {
+  "name": "Chris",
+  "role": "SAU 6 special education administrator (first name only: superintendent 'Chris, can you speak to that' [51]; Petrin: 'Chris, does that responsibility fall on you ... as director of special' [168]; surname not stated)"
+ },
+ "Speaker 15": {
+  "name": "Unidentified",
+  "role": "Unidentified - mixed cluster of short acknowledgments and fragments from several board members (includes chair-like remarks, see overrides)"
+ },
+ "Speaker 16": {
+  "name": "Unidentified",
+  "role": "Unidentified - Claremont School Board member not named on this recording (mentions 'my own grandson' [212, 437]; asks why two special education teachers are needed [160-161])"
+ },
+ "Speaker 17": {
+  "name": "Lexi Grenier",
+  "role": "Student representative, Stevens High School (addressed 'I guess maybe I should be asking Lexi' [327] and answers [333-337]; surname per file 9507 [44], ASR, unverified)"
+ },
+ "Speaker 18": {
+  "name": "Patricia Barry",
+  "role": "Principal, Stevens High School (superintendent hands off 'Pat Berry?' [252]; 'the four years that I've been there' at Stevens [303])"
+ },
+ "Speaker 19": {
+  "name": "Unidentified",
+  "role": "Unidentified - Claremont School Board member not named on this recording (has 'a fierce 14 year old lobbyist in my house' [306])"
+ },
+ "__overrides__": {
+  "13": {
+   "name": "Unidentified",
+   "role": "Unidentified - board-table thanks to Josh Malloy"
+  },
+  "35": {
+   "name": "Michelle Pierce"
+  },
+  "128": {
+   "name": "Michelle Pierce"
+  },
+  "130": {
+   "name": "Michelle Pierce"
+  },
+  "142": {
+   "name": "Michelle Pierce"
+  },
+  "52": {
+   "name": "Chris"
+  },
+  "120": {
+   "name": "Ben"
+  },
+  "27": {
+   "name": "Chris Irish"
+  },
+  "66": {
+   "name": "Unidentified",
+   "role": "Unidentified - board member asking about contracted services; not named"
+  },
+  "69": {
+   "name": "Unidentified",
+   "role": "Unidentified - board member asking about contracted services; not named"
+  },
+  "121": {
+   "name": "Ben"
+  },
+  "123": {
+   "name": "Ben"
+  },
+  "261": {
+   "name": "Charlie Gessner",
+   "role": "Speaker on the A/B schedule's effect on world language enrollment (uncertain - superintendent asks 'Mr. Gessner, would you like to speak to that, sir?' [257] and this speaker says 'I went on a record and I told you it would probably take you about 2 to 3 years' [265]; 'Charlie Gessner spoke earlier this year' [256]; ASR also 'Charlie Jester' [237]; role not stated)"
+  },
+  "262": {
+   "name": "Charlie Gessner",
+   "role": "Speaker on the A/B schedule's effect on world language enrollment (uncertain - superintendent asks 'Mr. Gessner, would you like to speak to that, sir?' [257] and this speaker says 'I went on a record and I told you it would probably take you about 2 to 3 years' [265]; 'Charlie Gessner spoke earlier this year' [256]; ASR also 'Charlie Jester' [237]; role not stated)"
+  },
+  "263": {
+   "name": "Charlie Gessner",
+   "role": "Speaker on the A/B schedule's effect on world language enrollment (uncertain - superintendent asks 'Mr. Gessner, would you like to speak to that, sir?' [257] and this speaker says 'I went on a record and I told you it would probably take you about 2 to 3 years' [265]; 'Charlie Gessner spoke earlier this year' [256]; ASR also 'Charlie Jester' [237]; role not stated)"
+  },
+  "264": {
+   "name": "Charlie Gessner",
+   "role": "Speaker on the A/B schedule's effect on world language enrollment (uncertain - superintendent asks 'Mr. Gessner, would you like to speak to that, sir?' [257] and this speaker says 'I went on a record and I told you it would probably take you about 2 to 3 years' [265]; 'Charlie Gessner spoke earlier this year' [256]; ASR also 'Charlie Jester' [237]; role not stated)"
+  },
+  "265": {
+   "name": "Charlie Gessner",
+   "role": "Speaker on the A/B schedule's effect on world language enrollment (uncertain - superintendent asks 'Mr. Gessner, would you like to speak to that, sir?' [257] and this speaker says 'I went on a record and I told you it would probably take you about 2 to 3 years' [265]; 'Charlie Gessner spoke earlier this year' [256]; ASR also 'Charlie Jester' [237]; role not stated)"
+  },
+  "266": {
+   "name": "Charlie Gessner",
+   "role": "Speaker on the A/B schedule's effect on world language enrollment (uncertain - superintendent asks 'Mr. Gessner, would you like to speak to that, sir?' [257] and this speaker says 'I went on a record and I told you it would probably take you about 2 to 3 years' [265]; 'Charlie Gessner spoke earlier this year' [256]; ASR also 'Charlie Jester' [237]; role not stated)"
+  },
+  "267": {
+   "name": "Charlie Gessner",
+   "role": "Speaker on the A/B schedule's effect on world language enrollment (uncertain - superintendent asks 'Mr. Gessner, would you like to speak to that, sir?' [257] and this speaker says 'I went on a record and I told you it would probably take you about 2 to 3 years' [265]; 'Charlie Gessner spoke earlier this year' [256]; ASR also 'Charlie Jester' [237]; role not stated)"
+  },
+  "268": {
+   "name": "Charlie Gessner",
+   "role": "Speaker on the A/B schedule's effect on world language enrollment (uncertain - superintendent asks 'Mr. Gessner, would you like to speak to that, sir?' [257] and this speaker says 'I went on a record and I told you it would probably take you about 2 to 3 years' [265]; 'Charlie Gessner spoke earlier this year' [256]; ASR also 'Charlie Jester' [237]; role not stated)"
+  },
+  "269": {
+   "name": "Charlie Gessner",
+   "role": "Speaker on the A/B schedule's effect on world language enrollment (uncertain - superintendent asks 'Mr. Gessner, would you like to speak to that, sir?' [257] and this speaker says 'I went on a record and I told you it would probably take you about 2 to 3 years' [265]; 'Charlie Gessner spoke earlier this year' [256]; ASR also 'Charlie Jester' [237]; role not stated)"
+  },
+  "270": {
+   "name": "Charlie Gessner",
+   "role": "Speaker on the A/B schedule's effect on world language enrollment (uncertain - superintendent asks 'Mr. Gessner, would you like to speak to that, sir?' [257] and this speaker says 'I went on a record and I told you it would probably take you about 2 to 3 years' [265]; 'Charlie Gessner spoke earlier this year' [256]; ASR also 'Charlie Jester' [237]; role not stated)"
+  },
+  "156": {
+   "name": "Lexi Grenier"
+  },
+  "213": {
+   "name": "Unidentified",
+   "role": "Unidentified - Claremont School Board member not named on this recording (mentions 'my own grandson' [212, 437]; asks why two special education teachers are needed [160-161])"
+  },
+  "241": {
+   "name": "Unidentified",
+   "role": "Unidentified - Claremont School Board member not named on this recording (mentions 'my own grandson' [212, 437]; asks why two special education teachers are needed [160-161])"
+  },
+  "248": {
+   "name": "Unidentified",
+   "role": "Unidentified - Claremont School Board member not named on this recording (mentions 'my own grandson' [212, 437]; asks why two special education teachers are needed [160-161])"
+  },
+  "430": {
+   "name": "Unidentified",
+   "role": "Unidentified - Claremont School Board member not named on this recording (mentions 'my own grandson' [212, 437]; asks why two special education teachers are needed [160-161])"
+  },
+  "436": {
+   "name": "Unidentified",
+   "role": "Unidentified - Claremont School Board member not named on this recording (mentions 'my own grandson' [212, 437]; asks why two special education teachers are needed [160-161])"
+  },
+  "288": {
+   "name": "Christine"
+  },
+  "290": {
+   "name": "Christine"
+  },
+  "291": {
+   "name": "Christine"
+  },
+  "167": {
+   "name": "Brian Rapp"
+  },
+  "461": {
+   "name": "Brian Rapp"
+  },
+  "453": {
+   "name": "Middleton McGoodwin"
+  },
+  "102": {
+   "name": "Chris"
+  }
+ }
+}

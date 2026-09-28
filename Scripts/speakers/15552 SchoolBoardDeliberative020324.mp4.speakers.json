@@ -1,0 +1,620 @@
+{
+ "Speaker 1": {
+  "name": "Charlene Lovett",
+  "role": "Interim Moderator, Claremont School District (self-identified at 0:00:37; Interim Superintendent Chris Pratt thanks her by name for serving as interim moderator)"
+ },
+ "Speaker 2": {
+  "name": "Candace Crawford",
+  "role": "School Board Member; Capital Improvement and Finance Committees; board representative to the Sugar River Valley Technical Center Committee (attributed by content - she delivers the same curriculum and Visioning Committee report, in near-identical terms, at the 2/1/2025 deliberative session)"
+ },
+ "Speaker 3": {
+  "name": "Chris Pratt",
+  "role": "Interim Superintendent, SAU 6 (self-identifies as interim superintendent and as the former Stevens High School principal)"
+ },
+ "Speaker 4": {
+  "name": "Frank Sprague",
+  "role": "School Board Vice Chair; Finance Committee Chair; board representative to the Sugar River Valley Technical Center Visioning Committee"
+ },
+ "Speaker 5": {
+  "name": "Charlene Lovett",
+  "role": "Interim Moderator, Claremont School District (self-identified at 0:00:37; Interim Superintendent Chris Pratt thanks her by name for serving as interim moderator)"
+ },
+ "Speaker 6": {
+  "name": "Charlene Lovett",
+  "role": "Interim Moderator, Claremont School District (self-identified at 0:00:37; Interim Superintendent Chris Pratt thanks her by name for serving as interim moderator) (one-segment cluster; the sentence continues into her next segment)"
+ },
+ "Speaker 7": {
+  "name": "Unidentified",
+  "role": "School board member speaking from the floor as a voter in favor of Article 2 (self-identified as 'a member of the board'; the name and ward were spoken but are not captured in the recording)"
+ },
+ "Speaker 8": {
+  "name": "Gary Merchant",
+  "role": "Voter, Ward 2 (self-identified - ASR renders it 'Gary Martin for two'; lifelong Claremont resident)"
+ },
+ "Speaker 9": {
+  "name": "Unidentified",
+  "role": "Voter from the floor moving Article 3 to the ballot and speaking for the secretaries' agreement (name not stated)"
+ },
+ "Speaker 10": {
+  "name": "Matt",
+  "role": "Voter, Ward 1; Claremont School District paraprofessional and association president (self-identified by first name only)"
+ },
+ "Speaker 11": {
+  "name": "Unidentified",
+  "role": "Claremont educator and parent speaking for the paraprofessionals' agreement (name not stated; two children in the district, husband Jim, fifth year in the schools)"
+ },
+ "Speaker 12": {
+  "name": "Unidentified",
+  "role": "Claremont educator and parent speaking for the paraprofessionals' agreement (name not stated; two children in the district, husband Jim, fifth year in the schools)"
+ },
+ "__overrides__": {
+  "9": {
+   "name": "Heather Whitney",
+   "role": "School Board Chair; chair of the Parliamentary Procedure ad hoc committee (self-identified while introducing the board) (the moderator's handoff, 'Chair Whitney, would you like to introduce your board?', is absorbed at the head of this segment)"
+  },
+  "10": {
+   "name": "Heather Whitney",
+   "role": "School Board Chair; chair of the Parliamentary Procedure ad hoc committee (self-identified while introducing the board)"
+  },
+  "11": {
+   "name": "Heather Whitney",
+   "role": "School Board Chair; chair of the Parliamentary Procedure ad hoc committee (self-identified while introducing the board)"
+  },
+  "30": {
+   "name": "Heather Whitney",
+   "role": "School Board Chair; chair of the Parliamentary Procedure ad hoc committee (self-identified while introducing the board) (budget presentation; Jennifer Gallagher refers back to this passage as 'what Heather said')"
+  },
+  "31": {
+   "name": "Heather Whitney",
+   "role": "School Board Chair; chair of the Parliamentary Procedure ad hoc committee (self-identified while introducing the board) (budget presentation; Jennifer Gallagher refers back to this passage as 'what Heather said')"
+  },
+  "32": {
+   "name": "Heather Whitney",
+   "role": "School Board Chair; chair of the Parliamentary Procedure ad hoc committee (self-identified while introducing the board) (budget presentation; Jennifer Gallagher refers back to this passage as 'what Heather said')"
+  },
+  "33": {
+   "name": "Heather Whitney",
+   "role": "School Board Chair; chair of the Parliamentary Procedure ad hoc committee (self-identified while introducing the board) (budget presentation; Jennifer Gallagher refers back to this passage as 'what Heather said')"
+  },
+  "41": {
+   "name": "Heather Whitney",
+   "role": "School Board Chair; chair of the Parliamentary Procedure ad hoc committee (self-identified while introducing the board) (attributed by content and register - the chair's instruction-quality section, which she reprises at the 2/1/2025 deliberative session; not named in this passage)"
+  },
+  "42": {
+   "name": "Heather Whitney",
+   "role": "School Board Chair; chair of the Parliamentary Procedure ad hoc committee (self-identified while introducing the board) (attributed by content and register - the chair's instruction-quality section, which she reprises at the 2/1/2025 deliberative session; not named in this passage)"
+  },
+  "43": {
+   "name": "Heather Whitney",
+   "role": "School Board Chair; chair of the Parliamentary Procedure ad hoc committee (self-identified while introducing the board) (attributed by content and register - the chair's instruction-quality section, which she reprises at the 2/1/2025 deliberative session; not named in this passage)"
+  },
+  "73": {
+   "name": "Heather Whitney",
+   "role": "School Board Chair; chair of the Parliamentary Procedure ad hoc committee (self-identified while introducing the board) (attributed by content and register - the chair closing the board's presentation on factors outside the district's control; not named in this passage)"
+  },
+  "74": {
+   "name": "Heather Whitney",
+   "role": "School Board Chair; chair of the Parliamentary Procedure ad hoc committee (self-identified while introducing the board) (attributed by content and register - the chair closing the board's presentation on factors outside the district's control; not named in this passage)"
+  },
+  "75": {
+   "name": "Heather Whitney",
+   "role": "School Board Chair; chair of the Parliamentary Procedure ad hoc committee (self-identified while introducing the board) (attributed by content and register - the chair closing the board's presentation on factors outside the district's control; not named in this passage)"
+  },
+  "76": {
+   "name": "Heather Whitney",
+   "role": "School Board Chair; chair of the Parliamentary Procedure ad hoc committee (self-identified while introducing the board) (attributed by content and register - the chair closing the board's presentation on factors outside the district's control; not named in this passage)"
+  },
+  "77": {
+   "name": "Heather Whitney",
+   "role": "School Board Chair; chair of the Parliamentary Procedure ad hoc committee (self-identified while introducing the board) (attributed by content and register - the chair closing the board's presentation on factors outside the district's control; not named in this passage)"
+  },
+  "78": {
+   "name": "Heather Whitney",
+   "role": "School Board Chair; chair of the Parliamentary Procedure ad hoc committee (self-identified while introducing the board) (attributed by content and register - the chair closing the board's presentation on factors outside the district's control; not named in this passage)"
+  },
+  "85": {
+   "name": "Heather Whitney",
+   "role": "School Board Chair; chair of the Parliamentary Procedure ad hoc committee (self-identified while introducing the board) (two-word transition into the business administrator's presentation; attribution uncertain - could be the moderator)"
+  },
+  "51": {
+   "name": "Jennifer Gallagher",
+   "role": "School Board Member; district Curriculum Committee and Disruptive Behaviors Committee (self-identifies as chair of the Disruptive Behaviors Committee and refers back to 'what Heather said')"
+  },
+  "52": {
+   "name": "Jennifer Gallagher",
+   "role": "School Board Member; district Curriculum Committee and Disruptive Behaviors Committee (self-identifies as chair of the Disruptive Behaviors Committee and refers back to 'what Heather said')"
+  },
+  "53": {
+   "name": "Jennifer Gallagher",
+   "role": "School Board Member; district Curriculum Committee and Disruptive Behaviors Committee (self-identifies as chair of the Disruptive Behaviors Committee and refers back to 'what Heather said')"
+  },
+  "54": {
+   "name": "Jennifer Gallagher",
+   "role": "School Board Member; district Curriculum Committee and Disruptive Behaviors Committee (self-identifies as chair of the Disruptive Behaviors Committee and refers back to 'what Heather said')"
+  },
+  "55": {
+   "name": "Jennifer Gallagher",
+   "role": "School Board Member; district Curriculum Committee and Disruptive Behaviors Committee (self-identifies as chair of the Disruptive Behaviors Committee and refers back to 'what Heather said')"
+  },
+  "56": {
+   "name": "Jennifer Gallagher",
+   "role": "School Board Member; district Curriculum Committee and Disruptive Behaviors Committee (self-identifies as chair of the Disruptive Behaviors Committee and refers back to 'what Heather said')"
+  },
+  "57": {
+   "name": "Jennifer Gallagher",
+   "role": "School Board Member; district Curriculum Committee and Disruptive Behaviors Committee (self-identifies as chair of the Disruptive Behaviors Committee and refers back to 'what Heather said')"
+  },
+  "58": {
+   "name": "Jennifer Gallagher",
+   "role": "School Board Member; district Curriculum Committee and Disruptive Behaviors Committee (self-identifies as chair of the Disruptive Behaviors Committee and refers back to 'what Heather said')"
+  },
+  "136": {
+   "name": "Unidentified",
+   "role": "Voter from the floor moving Article 1 to the ballot (name not stated)"
+  },
+  "25": {
+   "name": "Unidentified",
+   "role": "Voter from the floor correcting the February 8, 2023 minutes to record Arlene Hawkins as Ward 3 (name not stated; the moderator's 'Okay. Thank you. Yes, Mr. Sprague?' is captured at the end of this segment)"
+  },
+  "18": {
+   "name": "Charlene Lovett",
+   "role": "Interim Moderator, Claremont School District (self-identified at 0:00:37; Interim Superintendent Chris Pratt thanks her by name for serving as interim moderator) (her own word 'voters', heard as 'The workers', split into a neighbouring cluster mid-sentence)"
+  },
+  "22": {
+   "name": "Charlene Lovett",
+   "role": "Interim Moderator, Claremont School District (self-identified at 0:00:37; Interim Superintendent Chris Pratt thanks her by name for serving as interim moderator) (a voter's motion to approve the 2/8/2023 minutes is captured inside this segment)"
+  },
+  "29": {
+   "name": "Charlene Lovett",
+   "role": "Interim Moderator, Claremont School District (self-identified at 0:00:37; Interim Superintendent Chris Pratt thanks her by name for serving as interim moderator) (Chair Whitney's budget presentation begins partway through this segment, at 'First, I'd like to thank everybody')"
+  },
+  "5": {
+   "name": "Multiple",
+   "role": "Pledge of Allegiance recited by the meeting (group recitation captured as one voice)"
+  },
+  "155": {
+   "name": "Unidentified",
+   "role": "Voter from the floor speaking in favor of Article 2 (name not stated; cites the Finance Subcommittee, 'our new business administrator, Mrs. Henry' and 'as Whitney said')"
+  },
+  "174": {
+   "name": "Chris Pratt",
+   "role": "Interim Superintendent, SAU 6 (self-identifies as interim superintendent and as the former Stevens High School principal) (onset of his answer, clipped into a neighbouring cluster)"
+  },
+  "243": {
+   "name": "Unidentified",
+   "role": "Voter from the floor moving Article 5 as amended (name not stated)"
+  },
+  "247": {
+   "name": "Matt",
+   "role": "Voter, Ward 1; Claremont School District paraprofessional and association president (self-identified by first name only) (sub-second fragment of his own turn, clipped into a neighbouring cluster)"
+  },
+  "255": {
+   "name": "Matt",
+   "role": "Voter, Ward 1; Claremont School District paraprofessional and association president (self-identified by first name only) (sub-second fragment of his own turn, clipped into a neighbouring cluster)"
+  },
+  "23": {
+   "name": "Unidentified",
+   "role": "Second on the motion to approve the February 8, 2023 minutes (name not stated)"
+  },
+  "34": {
+   "name": "Heather Whitney",
+   "role": "School Board Chair; chair of the Parliamentary Procedure ad hoc committee (self-identified while introducing the board) (introduces the Finance Committee chair - 'Mr. [Sprague], chair of the Finance Committee'; the phrase completes at the head of Frank Sprague's next segment)"
+  },
+  "125": {
+   "name": "Unidentified",
+   "role": "Brief interjection during the business administrator's budget presentation (name not stated; Ben Nester is addressed by name immediately before, but nothing establishes the voice)"
+  },
+  "162": {
+   "name": "Unidentified",
+   "role": "Parent from the floor speaking against Article 2 (name not stated; describes a child taught by YouTube videos)"
+  },
+  "163": {
+   "name": "Unidentified",
+   "role": "Parent from the floor speaking against Article 2 (name not stated; describes a child taught by YouTube videos)"
+  },
+  "164": {
+   "name": "Unidentified",
+   "role": "Parent from the floor speaking against Article 2 (name not stated; describes a child taught by YouTube videos)"
+  },
+  "165": {
+   "name": "Unidentified",
+   "role": "Parent from the floor speaking against Article 2 (name not stated; describes a child taught by YouTube videos)"
+  },
+  "168": {
+   "name": "Unidentified",
+   "role": "Parent from the floor speaking against Article 2 (name not stated; describes a child taught by YouTube videos)"
+  },
+  "173": {
+   "name": "Chris Pratt",
+   "role": "Interim Superintendent, SAU 6 (self-identifies as interim superintendent and as the former Stevens High School principal)"
+  },
+  "175": {
+   "name": "Chris Pratt",
+   "role": "Interim Superintendent, SAU 6 (self-identifies as interim superintendent and as the former Stevens High School principal)"
+  },
+  "176": {
+   "name": "Chris Pratt",
+   "role": "Interim Superintendent, SAU 6 (self-identifies as interim superintendent and as the former Stevens High School principal)"
+  },
+  "177": {
+   "name": "Chris Pratt",
+   "role": "Interim Superintendent, SAU 6 (self-identifies as interim superintendent and as the former Stevens High School principal)"
+  },
+  "178": {
+   "name": "Chris Pratt",
+   "role": "Interim Superintendent, SAU 6 (self-identifies as interim superintendent and as the former Stevens High School principal)"
+  },
+  "179": {
+   "name": "Chris Pratt",
+   "role": "Interim Superintendent, SAU 6 (self-identifies as interim superintendent and as the former Stevens High School principal)"
+  },
+  "271": {
+   "name": "Chris Pratt",
+   "role": "Interim Superintendent, SAU 6 (self-identifies as interim superintendent and as the former Stevens High School principal)"
+  },
+  "272": {
+   "name": "Chris Pratt",
+   "role": "Interim Superintendent, SAU 6 (self-identifies as interim superintendent and as the former Stevens High School principal)"
+  },
+  "273": {
+   "name": "Chris Pratt",
+   "role": "Interim Superintendent, SAU 6 (self-identifies as interim superintendent and as the former Stevens High School principal)"
+  },
+  "181": {
+   "name": "Unidentified",
+   "role": "Brief remark from the floor declining to speak - 'But that's just a question for me' (name not stated)"
+  },
+  "183": {
+   "name": "Unidentified",
+   "role": "District information-technology employee speaking in favor of Article 2 (name not stated; family in Claremont 'for over a century')"
+  },
+  "184": {
+   "name": "Unidentified",
+   "role": "District information-technology employee speaking in favor of Article 2 (name not stated; family in Claremont 'for over a century')"
+  },
+  "185": {
+   "name": "Unidentified",
+   "role": "District information-technology employee speaking in favor of Article 2 (name not stated; family in Claremont 'for over a century')"
+  },
+  "186": {
+   "name": "Unidentified",
+   "role": "District information-technology employee speaking in favor of Article 2 (name not stated; family in Claremont 'for over a century')"
+  },
+  "188": {
+   "name": "Gary Merchant",
+   "role": "Voter, Ward 2 (self-identified - ASR renders it 'Gary Martin for two'; lifelong Claremont resident) ('lifelong resident' - the tail of his self-identification, clipped into a neighbouring cluster)"
+  },
+  "197": {
+   "name": "Unidentified",
+   "role": "Voter from the floor moving to restrict reconsideration of Article 2 under RSA 40:13, IV (name not stated; the moderator recognizes the mover without naming)"
+  },
+  "86": {
+   "name": "Mary Henry",
+   "role": "Business Administrator, SAU 6 (self-identified)"
+  },
+  "87": {
+   "name": "Mary Henry",
+   "role": "Business Administrator, SAU 6 (self-identified)"
+  },
+  "88": {
+   "name": "Mary Henry",
+   "role": "Business Administrator, SAU 6 (self-identified)"
+  },
+  "89": {
+   "name": "Mary Henry",
+   "role": "Business Administrator, SAU 6 (self-identified)"
+  },
+  "90": {
+   "name": "Mary Henry",
+   "role": "Business Administrator, SAU 6 (self-identified)"
+  },
+  "91": {
+   "name": "Mary Henry",
+   "role": "Business Administrator, SAU 6 (self-identified)"
+  },
+  "92": {
+   "name": "Mary Henry",
+   "role": "Business Administrator, SAU 6 (self-identified)"
+  },
+  "93": {
+   "name": "Mary Henry",
+   "role": "Business Administrator, SAU 6 (self-identified)"
+  },
+  "94": {
+   "name": "Mary Henry",
+   "role": "Business Administrator, SAU 6 (self-identified)"
+  },
+  "95": {
+   "name": "Mary Henry",
+   "role": "Business Administrator, SAU 6 (self-identified)"
+  },
+  "96": {
+   "name": "Mary Henry",
+   "role": "Business Administrator, SAU 6 (self-identified)"
+  },
+  "97": {
+   "name": "Mary Henry",
+   "role": "Business Administrator, SAU 6 (self-identified)"
+  },
+  "98": {
+   "name": "Mary Henry",
+   "role": "Business Administrator, SAU 6 (self-identified)"
+  },
+  "99": {
+   "name": "Mary Henry",
+   "role": "Business Administrator, SAU 6 (self-identified)"
+  },
+  "100": {
+   "name": "Mary Henry",
+   "role": "Business Administrator, SAU 6 (self-identified)"
+  },
+  "101": {
+   "name": "Mary Henry",
+   "role": "Business Administrator, SAU 6 (self-identified)"
+  },
+  "102": {
+   "name": "Mary Henry",
+   "role": "Business Administrator, SAU 6 (self-identified)"
+  },
+  "103": {
+   "name": "Mary Henry",
+   "role": "Business Administrator, SAU 6 (self-identified)"
+  },
+  "104": {
+   "name": "Mary Henry",
+   "role": "Business Administrator, SAU 6 (self-identified)"
+  },
+  "105": {
+   "name": "Mary Henry",
+   "role": "Business Administrator, SAU 6 (self-identified)"
+  },
+  "106": {
+   "name": "Mary Henry",
+   "role": "Business Administrator, SAU 6 (self-identified)"
+  },
+  "107": {
+   "name": "Mary Henry",
+   "role": "Business Administrator, SAU 6 (self-identified)"
+  },
+  "108": {
+   "name": "Mary Henry",
+   "role": "Business Administrator, SAU 6 (self-identified)"
+  },
+  "109": {
+   "name": "Mary Henry",
+   "role": "Business Administrator, SAU 6 (self-identified)"
+  },
+  "110": {
+   "name": "Mary Henry",
+   "role": "Business Administrator, SAU 6 (self-identified)"
+  },
+  "111": {
+   "name": "Mary Henry",
+   "role": "Business Administrator, SAU 6 (self-identified)"
+  },
+  "112": {
+   "name": "Mary Henry",
+   "role": "Business Administrator, SAU 6 (self-identified)"
+  },
+  "113": {
+   "name": "Mary Henry",
+   "role": "Business Administrator, SAU 6 (self-identified)"
+  },
+  "114": {
+   "name": "Mary Henry",
+   "role": "Business Administrator, SAU 6 (self-identified)"
+  },
+  "115": {
+   "name": "Mary Henry",
+   "role": "Business Administrator, SAU 6 (self-identified)"
+  },
+  "116": {
+   "name": "Mary Henry",
+   "role": "Business Administrator, SAU 6 (self-identified)"
+  },
+  "117": {
+   "name": "Mary Henry",
+   "role": "Business Administrator, SAU 6 (self-identified)"
+  },
+  "118": {
+   "name": "Mary Henry",
+   "role": "Business Administrator, SAU 6 (self-identified)"
+  },
+  "119": {
+   "name": "Mary Henry",
+   "role": "Business Administrator, SAU 6 (self-identified)"
+  },
+  "120": {
+   "name": "Mary Henry",
+   "role": "Business Administrator, SAU 6 (self-identified)"
+  },
+  "121": {
+   "name": "Mary Henry",
+   "role": "Business Administrator, SAU 6 (self-identified)"
+  },
+  "122": {
+   "name": "Mary Henry",
+   "role": "Business Administrator, SAU 6 (self-identified)"
+  },
+  "123": {
+   "name": "Mary Henry",
+   "role": "Business Administrator, SAU 6 (self-identified)"
+  },
+  "124": {
+   "name": "Mary Henry",
+   "role": "Business Administrator, SAU 6 (self-identified)"
+  },
+  "126": {
+   "name": "Mary Henry",
+   "role": "Business Administrator, SAU 6 (self-identified)"
+  },
+  "127": {
+   "name": "Mary Henry",
+   "role": "Business Administrator, SAU 6 (self-identified)"
+  },
+  "128": {
+   "name": "Mary Henry",
+   "role": "Business Administrator, SAU 6 (self-identified)"
+  },
+  "129": {
+   "name": "Mary Henry",
+   "role": "Business Administrator, SAU 6 (self-identified)"
+  },
+  "130": {
+   "name": "Mary Henry",
+   "role": "Business Administrator, SAU 6 (self-identified)"
+  },
+  "131": {
+   "name": "Mary Henry",
+   "role": "Business Administrator, SAU 6 (self-identified)"
+  },
+  "132": {
+   "name": "Mary Henry",
+   "role": "Business Administrator, SAU 6 (self-identified)"
+  },
+  "143": {
+   "name": "Unidentified",
+   "role": "School board member speaking from the floor as a voter in favor of Article 2 (self-identified as 'a member of the board'; the name and ward were spoken but are not captured in the recording) (onset of the turn; the self-identification itself is not captured)"
+  },
+  "152": {
+   "name": "Unidentified",
+   "role": "Voter from the floor speaking in favor of Article 2 (name not stated; cites the Finance Subcommittee, 'our new business administrator, Mrs. Henry' and 'as Whitney said')"
+  },
+  "154": {
+   "name": "Unidentified",
+   "role": "Voter from the floor speaking in favor of Article 2 (name not stated; cites the Finance Subcommittee, 'our new business administrator, Mrs. Henry' and 'as Whitney said')"
+  },
+  "156": {
+   "name": "Unidentified",
+   "role": "Voter from the floor speaking in favor of Article 2 (name not stated; cites the Finance Subcommittee, 'our new business administrator, Mrs. Henry' and 'as Whitney said')"
+  },
+  "158": {
+   "name": "Unidentified",
+   "role": "Voter from the floor speaking in favor of Article 2 (name not stated; cites the Finance Subcommittee, 'our new business administrator, Mrs. Henry' and 'as Whitney said')"
+  },
+  "159": {
+   "name": "Unidentified",
+   "role": "Voter from the floor speaking in favor of Article 2 (name not stated; cites the Finance Subcommittee, 'our new business administrator, Mrs. Henry' and 'as Whitney said')"
+  },
+  "160": {
+   "name": "Unidentified",
+   "role": "Voter from the floor speaking in favor of Article 2 (name not stated; cites the Finance Subcommittee, 'our new business administrator, Mrs. Henry' and 'as Whitney said')"
+  },
+  "258": {
+   "name": "Unidentified",
+   "role": "Closing words of a speaker supporting the paraprofessionals' agreement (name not stated; the rest of this turn is not transcribed - roughly 58 seconds of the recording carries no words)"
+  },
+  "265": {
+   "name": "Unidentified",
+   "role": "Claremont educator and parent speaking for the paraprofessionals' agreement (name not stated; two children in the district, husband Jim, fifth year in the schools)"
+  },
+  "269": {
+   "name": "Unidentified",
+   "role": "Claremont educator and parent speaking for the paraprofessionals' agreement (name not stated; two children in the district, husband Jim, fifth year in the schools)"
+  },
+  "274": {
+   "name": "Unidentified",
+   "role": "Paraprofessional, Ward 3, 30-year veteran of the Claremont School District (name not stated; the moderator's recognition is absorbed at the head of this turn)"
+  },
+  "275": {
+   "name": "Unidentified",
+   "role": "Paraprofessional, Ward 3, 30-year veteran of the Claremont School District (name not stated; the moderator's recognition is absorbed at the head of this turn)"
+  },
+  "280": {
+   "name": "Unidentified",
+   "role": "Voter from the floor moving to adjourn (name not stated)"
+  },
+  "153": {
+   "name": "Unidentified",
+   "role": "Voter from the floor speaking in favor of Article 2 (name not stated; cites the Finance Subcommittee, 'our new business administrator, Mrs. Henry' and 'as Whitney said')"
+  },
+  "157": {
+   "name": "Unidentified",
+   "role": "Voter from the floor speaking in favor of Article 2 (name not stated; cites the Finance Subcommittee, 'our new business administrator, Mrs. Henry' and 'as Whitney said')"
+  },
+  "161": {
+   "name": "Charlene Lovett",
+   "role": "Interim Moderator, Claremont School District (self-identified at 0:00:37; Interim Superintendent Chris Pratt thanks her by name for serving as interim moderator)"
+  },
+  "170": {
+   "name": "Charlene Lovett",
+   "role": "Interim Moderator, Claremont School District (self-identified at 0:00:37; Interim Superintendent Chris Pratt thanks her by name for serving as interim moderator)"
+  },
+  "166": {
+   "name": "Unidentified",
+   "role": "Parent from the floor speaking against Article 2 (name not stated; describes a child taught by YouTube videos)"
+  },
+  "172": {
+   "name": "Chris Pratt",
+   "role": "Interim Superintendent, SAU 6 (self-identifies as interim superintendent and as the former Stevens High School principal) (volunteers to respond - ASR renders it 'Shirley, speak to that?'; the moderator's 'Yes' closes the segment)"
+  },
+  "196": {
+   "name": "Unidentified",
+   "role": "Voter from the floor moving to restrict reconsideration of Article 2 under RSA 40:13, IV (name not stated; the moderator recognizes the mover without naming)"
+  },
+  "198": {
+   "name": "Unidentified",
+   "role": "Voter from the floor moving to restrict reconsideration of Article 2 under RSA 40:13, IV (name not stated; the moderator recognizes the mover without naming)"
+  },
+  "216": {
+   "name": "Unidentified",
+   "role": "Voter from the floor moving Article 4 to the ballot (name not stated)"
+  },
+  "220": {
+   "name": "Frank Sprague",
+   "role": "School Board Vice Chair; Finance Committee Chair; board representative to the Sugar River Valley Technical Center Visioning Committee (speaks from the podium; self-identification heard as 'Frank's great work to' = 'Frank Sprague, Ward Two')"
+  },
+  "221": {
+   "name": "Frank Sprague",
+   "role": "School Board Vice Chair; Finance Committee Chair; board representative to the Sugar River Valley Technical Center Visioning Committee (speaks from the podium; self-identification heard as 'Frank's great work to' = 'Frank Sprague, Ward Two')"
+  },
+  "222": {
+   "name": "Frank Sprague",
+   "role": "School Board Vice Chair; Finance Committee Chair; board representative to the Sugar River Valley Technical Center Visioning Committee (speaks from the podium; self-identification heard as 'Frank's great work to' = 'Frank Sprague, Ward Two')"
+  },
+  "223": {
+   "name": "Frank Sprague",
+   "role": "School Board Vice Chair; Finance Committee Chair; board representative to the Sugar River Valley Technical Center Visioning Committee (speaks from the podium; self-identification heard as 'Frank's great work to' = 'Frank Sprague, Ward Two')"
+  },
+  "245": {
+   "name": "Charlene Lovett",
+   "role": "Interim Moderator, Claremont School District (self-identified at 0:00:37; Interim Superintendent Chris Pratt thanks her by name for serving as interim moderator)"
+  },
+  "205": {
+   "name": "Unidentified",
+   "role": "Second from the floor (name not stated)"
+  },
+  "218": {
+   "name": "Unidentified",
+   "role": "Second from the floor (name not stated)"
+  },
+  "230": {
+   "name": "Unidentified",
+   "role": "Speaker correcting the year printed in Article 5 from 2015 to 2025 (name not stated; plausibly the drafter of the warrant, not established)"
+  },
+  "232": {
+   "name": "Unidentified",
+   "role": "Speaker correcting the year printed in Article 5 from 2015 to 2025 (name not stated; plausibly the drafter of the warrant, not established)"
+  },
+  "234": {
+   "name": "Unidentified",
+   "role": "Speaker correcting the year printed in Article 5 from 2015 to 2025 (name not stated; plausibly the drafter of the warrant, not established)"
+  },
+  "259": {
+   "name": "Unidentified",
+   "role": "Speaker from the floor supporting the paraprofessionals' agreement (name not stated; refers to 'my paras' and to students with high support needs)"
+  },
+  "260": {
+   "name": "Unidentified",
+   "role": "Speaker from the floor supporting the paraprofessionals' agreement (name not stated; refers to 'my paras' and to students with high support needs)"
+  },
+  "263": {
+   "name": "Unidentified",
+   "role": "Claremont educator and parent speaking for the paraprofessionals' agreement (name not stated; two children in the district, husband Jim, fifth year in the schools)"
+  },
+  "281": {
+   "name": "Unidentified",
+   "role": "Second from the floor (name not stated)"
+  }
+ }
+}

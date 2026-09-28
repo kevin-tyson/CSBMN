@@ -1,0 +1,968 @@
+{
+ "Speaker 1": {
+  "name": "Candace Crawford",
+  "role": "School Board Chair"
+ },
+ "Speaker 2": {
+  "name": "Unidentified",
+  "role": "Brief crosstalk, assent and sentence fragments; diarizer catch-all cluster - voice not distinguishable (Mr. Rapp's substantive remarks also land in this cluster; see per-segment reassignments)"
+ },
+ "Speaker 3": {
+  "name": "Candace Crawford",
+  "role": "School Board Chair (brief fragments the diarizer split out of the chair's main cluster)"
+ },
+ "Speaker 4": {
+  "name": "Noelle Kronberg",
+  "role": "School Board Clerk (calls the roll and keeps the minutes) (this cluster also absorbs the student representative's report and assorted brief female-voice crosstalk - see per-segment reassignments)"
+ },
+ "Speaker 5": {
+  "name": "Matt Angell",
+  "role": "Interim Business Administrator, SAU 6"
+ },
+ "Speaker 6": {
+  "name": "Kerry Kennedy",
+  "role": "Interim Superintendent, SAU 6 (this cluster also absorbs Ms. Whitney's remarks from the first half hour, before the diarizer opened a cluster for her - see per-segment reassignments)"
+ },
+ "Speaker 7": {
+  "name": "Mr. Dewey",
+  "role": "Representative of the Claremont Kiwanis Club (introduced by the chair as 'Mr. Dewey'; first name not stated; the ASR renders 'Kiwanis' as 'Cornice')"
+ },
+ "Speaker 8": {
+  "name": "Don Lavalette",
+  "role": "School Board Member (sworn in 3/18/26; term to 2029); member of the ad hoc School Reconfiguration Exploratory Committee and of the bylaws working group"
+ },
+ "Speaker 9": {
+  "name": "Van Holder",
+  "role": "Public commenter, Ward 2; parent of a Maple Avenue student formerly at Bluff School (surname as announced - the self-ID is heard 'Van hold[er]'; first name not recoverable; the same commenter self-identified at the 3/18/26 meeting)"
+ },
+ "Speaker 10": {
+  "name": "Loren Howard",
+  "role": "School Board Member; Policy Subcommittee Chair"
+ },
+ "Speaker 11": {
+  "name": "Heather Whitney",
+  "role": "School Board Member; chair of the ad hoc School Reconfiguration Exploratory Committee"
+ },
+ "Speaker 12": {
+  "name": "Jason Bonneville",
+  "role": "Technology Director, SAU 6 (this cluster also holds Mr. Lavalette's remarks from earlier in the meeting - see per-segment reassignments)"
+ },
+ "Speaker 13": {
+  "name": "Michael Petrin",
+  "role": "School Board Vice Chair; Chair, SRVRTC Subcommittee"
+ },
+ "Speaker 14": {
+  "name": "Bill Olson",
+  "role": "Interim Principal, Claremont Middle School (self-identified; surname as heard - ASR confidence 0.64; first name from Ms. Whitney's 'Thank you for stepping up, Bill' at the end of his report)"
+ },
+ "Speaker 15": {
+  "name": "William 'Bill' Madden",
+  "role": "School Board Member; Curriculum Subcommittee Chair; Capital Improvement Subcommittee Chair"
+ },
+ "Speaker 16": {
+  "name": "Michael Herrington",
+  "role": "Principal, Stevens High School (ASR renders the surname 'Harrington')"
+ },
+ "Speaker 17": {
+  "name": "Michael Herrington",
+  "role": "Principal, Stevens High School (ASR renders the surname 'Harrington') (single-segment cluster - 'Any other questions?' at the close of his report; UNCERTAIN, the chair is also a possible speaker)"
+ },
+ "__overrides__": {
+  "1": {
+   "name": "Multiple",
+   "role": "Group recitation of the Pledge of Allegiance (captured as one voice)"
+  },
+  "5": {
+   "name": "Don Lavalette",
+   "role": "School Board Member (sworn in 3/18/26; term to 2029); member of the ad hoc School Reconfiguration Exploratory Committee and of the bylaws working group (roll-call response; the clerk's call of his name was lost by the ASR)"
+  },
+  "9": {
+   "name": "Candace Crawford",
+   "role": "School Board Chair (sentence onset or continuation the diarizer clipped into a neighbouring cluster)"
+  },
+  "10": {
+   "name": "Doug Beaupre",
+   "role": "Athletic Director, Claremont School District (self-described 11th year; presents the Kiwanis scoreboard donation)"
+  },
+  "11": {
+   "name": "Unidentified",
+   "role": "Brief crosstalk from the board table - voice not distinguishable (the diarizer placed it in the clerk's cluster)"
+  },
+  "13": {
+   "name": "Candace Crawford",
+   "role": "School Board Chair (sentence onset or continuation the diarizer clipped into a neighbouring cluster)"
+  },
+  "14": {
+   "name": "Doug Beaupre",
+   "role": "Athletic Director, Claremont School District (self-described 11th year; presents the Kiwanis scoreboard donation)"
+  },
+  "15": {
+   "name": "Unidentified",
+   "role": "Brief crosstalk from the board table - voice not distinguishable (the diarizer placed it in the clerk's cluster)"
+  },
+  "16": {
+   "name": "Unidentified",
+   "role": "Brief crosstalk from the board table - voice not distinguishable (the diarizer placed it in the clerk's cluster)"
+  },
+  "18": {
+   "name": "Doug Beaupre",
+   "role": "Athletic Director, Claremont School District (self-described 11th year; presents the Kiwanis scoreboard donation)"
+  },
+  "19": {
+   "name": "Doug Beaupre",
+   "role": "Athletic Director, Claremont School District (self-described 11th year; presents the Kiwanis scoreboard donation)"
+  },
+  "20": {
+   "name": "Doug Beaupre",
+   "role": "Athletic Director, Claremont School District (self-described 11th year; presents the Kiwanis scoreboard donation)"
+  },
+  "21": {
+   "name": "Doug Beaupre",
+   "role": "Athletic Director, Claremont School District (self-described 11th year; presents the Kiwanis scoreboard donation)"
+  },
+  "22": {
+   "name": "Doug Beaupre",
+   "role": "Athletic Director, Claremont School District (self-described 11th year; presents the Kiwanis scoreboard donation)"
+  },
+  "23": {
+   "name": "Doug Beaupre",
+   "role": "Athletic Director, Claremont School District (self-described 11th year; presents the Kiwanis scoreboard donation)"
+  },
+  "24": {
+   "name": "Doug Beaupre",
+   "role": "Athletic Director, Claremont School District (self-described 11th year; presents the Kiwanis scoreboard donation)"
+  },
+  "25": {
+   "name": "Doug Beaupre",
+   "role": "Athletic Director, Claremont School District (self-described 11th year; presents the Kiwanis scoreboard donation)"
+  },
+  "26": {
+   "name": "Doug Beaupre",
+   "role": "Athletic Director, Claremont School District (self-described 11th year; presents the Kiwanis scoreboard donation)"
+  },
+  "27": {
+   "name": "Doug Beaupre",
+   "role": "Athletic Director, Claremont School District (self-described 11th year; presents the Kiwanis scoreboard donation)"
+  },
+  "28": {
+   "name": "Doug Beaupre",
+   "role": "Athletic Director, Claremont School District (self-described 11th year; presents the Kiwanis scoreboard donation)"
+  },
+  "30": {
+   "name": "Doug Beaupre",
+   "role": "Athletic Director, Claremont School District (self-described 11th year; presents the Kiwanis scoreboard donation)"
+  },
+  "31": {
+   "name": "Doug Beaupre",
+   "role": "Athletic Director, Claremont School District (self-described 11th year; presents the Kiwanis scoreboard donation)"
+  },
+  "33": {
+   "name": "Doug Beaupre",
+   "role": "Athletic Director, Claremont School District (self-described 11th year; presents the Kiwanis scoreboard donation)"
+  },
+  "34": {
+   "name": "Unidentified",
+   "role": "Brief crosstalk from the board table - voice not distinguishable (the diarizer placed it in the clerk's cluster)"
+  },
+  "39": {
+   "name": "Doug Beaupre",
+   "role": "Athletic Director, Claremont School District (self-described 11th year; presents the Kiwanis scoreboard donation) (sentence onset or continuation the diarizer clipped into a neighbouring cluster)"
+  },
+  "41": {
+   "name": "Doug Beaupre",
+   "role": "Athletic Director, Claremont School District (self-described 11th year; presents the Kiwanis scoreboard donation)"
+  },
+  "43": {
+   "name": "Heather Whitney",
+   "role": "School Board Member; chair of the ad hoc School Reconfiguration Exploratory Committee"
+  },
+  "45": {
+   "name": "Heather Whitney",
+   "role": "School Board Member; chair of the ad hoc School Reconfiguration Exploratory Committee"
+  },
+  "50": {
+   "name": "Mr. Dewey",
+   "role": "Representative of the Claremont Kiwanis Club (introduced by the chair as 'Mr. Dewey'; first name not stated; the ASR renders 'Kiwanis' as 'Cornice') (sentence onset or continuation the diarizer clipped into a neighbouring cluster)"
+  },
+  "51": {
+   "name": "Unidentified",
+   "role": "Brief crosstalk from the board table - voice not distinguishable (the diarizer placed it in the clerk's cluster)"
+  },
+  "54": {
+   "name": "Unidentified",
+   "role": "Brief crosstalk from the board table - voice not distinguishable (the diarizer placed it in the clerk's cluster)"
+  },
+  "57": {
+   "name": "Unidentified",
+   "role": "A board member's question to the Kiwanis representative about an upcoming auction - speaker not distinguishable"
+  },
+  "58": {
+   "name": "Unidentified",
+   "role": "A board member's question to the Kiwanis representative about an upcoming auction - speaker not distinguishable"
+  },
+  "64": {
+   "name": "Unidentified",
+   "role": "Brief crosstalk from the board table - voice not distinguishable (the diarizer placed it in the clerk's cluster)"
+  },
+  "67": {
+   "name": "Multiple",
+   "role": "Voice vote / group recitation (chorus captured as one voice)"
+  },
+  "72": {
+   "name": "Unidentified",
+   "role": "Brief crosstalk from the board table - voice not distinguishable (the diarizer placed it in the clerk's cluster)"
+  },
+  "75": {
+   "name": "Lily Clark",
+   "role": "Student School Board Representative, Stevens High School, Class of 2026 (delivers the student report; identified from the 5/6/26 meeting, where she opens 'last time I was here, I was talking to you about the senior play puffs' - the subject of this report - and from her own roster reading here, which lists 'Michaela Gallo... and me'. A board member's 'Thank you. Michaela.' right after that roster appears to be addressed to her co-representative Michaela Gallo, who the chair introduces as filling in for Miles Sheehan tonight; both students are at the table and the report is delivered in the first person plural, so this cluster may carry both voices)"
+  },
+  "76": {
+   "name": "Lily Clark",
+   "role": "Student School Board Representative, Stevens High School, Class of 2026 (delivers the student report; identified from the 5/6/26 meeting, where she opens 'last time I was here, I was talking to you about the senior play puffs' - the subject of this report - and from her own roster reading here, which lists 'Michaela Gallo... and me'. A board member's 'Thank you. Michaela.' right after that roster appears to be addressed to her co-representative Michaela Gallo, who the chair introduces as filling in for Miles Sheehan tonight; both students are at the table and the report is delivered in the first person plural, so this cluster may carry both voices)"
+  },
+  "77": {
+   "name": "Lily Clark",
+   "role": "Student School Board Representative, Stevens High School, Class of 2026 (delivers the student report; identified from the 5/6/26 meeting, where she opens 'last time I was here, I was talking to you about the senior play puffs' - the subject of this report - and from her own roster reading here, which lists 'Michaela Gallo... and me'. A board member's 'Thank you. Michaela.' right after that roster appears to be addressed to her co-representative Michaela Gallo, who the chair introduces as filling in for Miles Sheehan tonight; both students are at the table and the report is delivered in the first person plural, so this cluster may carry both voices)"
+  },
+  "78": {
+   "name": "Lily Clark",
+   "role": "Student School Board Representative, Stevens High School, Class of 2026 (delivers the student report; identified from the 5/6/26 meeting, where she opens 'last time I was here, I was talking to you about the senior play puffs' - the subject of this report - and from her own roster reading here, which lists 'Michaela Gallo... and me'. A board member's 'Thank you. Michaela.' right after that roster appears to be addressed to her co-representative Michaela Gallo, who the chair introduces as filling in for Miles Sheehan tonight; both students are at the table and the report is delivered in the first person plural, so this cluster may carry both voices)"
+  },
+  "79": {
+   "name": "Lily Clark",
+   "role": "Student School Board Representative, Stevens High School, Class of 2026 (delivers the student report; identified from the 5/6/26 meeting, where she opens 'last time I was here, I was talking to you about the senior play puffs' - the subject of this report - and from her own roster reading here, which lists 'Michaela Gallo... and me'. A board member's 'Thank you. Michaela.' right after that roster appears to be addressed to her co-representative Michaela Gallo, who the chair introduces as filling in for Miles Sheehan tonight; both students are at the table and the report is delivered in the first person plural, so this cluster may carry both voices)"
+  },
+  "80": {
+   "name": "Lily Clark",
+   "role": "Student School Board Representative, Stevens High School, Class of 2026 (delivers the student report; identified from the 5/6/26 meeting, where she opens 'last time I was here, I was talking to you about the senior play puffs' - the subject of this report - and from her own roster reading here, which lists 'Michaela Gallo... and me'. A board member's 'Thank you. Michaela.' right after that roster appears to be addressed to her co-representative Michaela Gallo, who the chair introduces as filling in for Miles Sheehan tonight; both students are at the table and the report is delivered in the first person plural, so this cluster may carry both voices)"
+  },
+  "81": {
+   "name": "Lily Clark",
+   "role": "Student School Board Representative, Stevens High School, Class of 2026 (delivers the student report; identified from the 5/6/26 meeting, where she opens 'last time I was here, I was talking to you about the senior play puffs' - the subject of this report - and from her own roster reading here, which lists 'Michaela Gallo... and me'. A board member's 'Thank you. Michaela.' right after that roster appears to be addressed to her co-representative Michaela Gallo, who the chair introduces as filling in for Miles Sheehan tonight; both students are at the table and the report is delivered in the first person plural, so this cluster may carry both voices)"
+  },
+  "82": {
+   "name": "Lily Clark",
+   "role": "Student School Board Representative, Stevens High School, Class of 2026 (delivers the student report; identified from the 5/6/26 meeting, where she opens 'last time I was here, I was talking to you about the senior play puffs' - the subject of this report - and from her own roster reading here, which lists 'Michaela Gallo... and me'. A board member's 'Thank you. Michaela.' right after that roster appears to be addressed to her co-representative Michaela Gallo, who the chair introduces as filling in for Miles Sheehan tonight; both students are at the table and the report is delivered in the first person plural, so this cluster may carry both voices)"
+  },
+  "84": {
+   "name": "Lily Clark",
+   "role": "Student School Board Representative, Stevens High School, Class of 2026 (delivers the student report; identified from the 5/6/26 meeting, where she opens 'last time I was here, I was talking to you about the senior play puffs' - the subject of this report - and from her own roster reading here, which lists 'Michaela Gallo... and me'. A board member's 'Thank you. Michaela.' right after that roster appears to be addressed to her co-representative Michaela Gallo, who the chair introduces as filling in for Miles Sheehan tonight; both students are at the table and the report is delivered in the first person plural, so this cluster may carry both voices)"
+  },
+  "85": {
+   "name": "Lily Clark",
+   "role": "Student School Board Representative, Stevens High School, Class of 2026 (delivers the student report; identified from the 5/6/26 meeting, where she opens 'last time I was here, I was talking to you about the senior play puffs' - the subject of this report - and from her own roster reading here, which lists 'Michaela Gallo... and me'. A board member's 'Thank you. Michaela.' right after that roster appears to be addressed to her co-representative Michaela Gallo, who the chair introduces as filling in for Miles Sheehan tonight; both students are at the table and the report is delivered in the first person plural, so this cluster may carry both voices)"
+  },
+  "87": {
+   "name": "Lily Clark",
+   "role": "Student School Board Representative, Stevens High School, Class of 2026 (delivers the student report; identified from the 5/6/26 meeting, where she opens 'last time I was here, I was talking to you about the senior play puffs' - the subject of this report - and from her own roster reading here, which lists 'Michaela Gallo... and me'. A board member's 'Thank you. Michaela.' right after that roster appears to be addressed to her co-representative Michaela Gallo, who the chair introduces as filling in for Miles Sheehan tonight; both students are at the table and the report is delivered in the first person plural, so this cluster may carry both voices)"
+  },
+  "88": {
+   "name": "Lily Clark",
+   "role": "Student School Board Representative, Stevens High School, Class of 2026 (delivers the student report; identified from the 5/6/26 meeting, where she opens 'last time I was here, I was talking to you about the senior play puffs' - the subject of this report - and from her own roster reading here, which lists 'Michaela Gallo... and me'. A board member's 'Thank you. Michaela.' right after that roster appears to be addressed to her co-representative Michaela Gallo, who the chair introduces as filling in for Miles Sheehan tonight; both students are at the table and the report is delivered in the first person plural, so this cluster may carry both voices)"
+  },
+  "89": {
+   "name": "Lily Clark",
+   "role": "Student School Board Representative, Stevens High School, Class of 2026 (delivers the student report; identified from the 5/6/26 meeting, where she opens 'last time I was here, I was talking to you about the senior play puffs' - the subject of this report - and from her own roster reading here, which lists 'Michaela Gallo... and me'. A board member's 'Thank you. Michaela.' right after that roster appears to be addressed to her co-representative Michaela Gallo, who the chair introduces as filling in for Miles Sheehan tonight; both students are at the table and the report is delivered in the first person plural, so this cluster may carry both voices)"
+  },
+  "91": {
+   "name": "Lily Clark",
+   "role": "Student School Board Representative, Stevens High School, Class of 2026 (delivers the student report; identified from the 5/6/26 meeting, where she opens 'last time I was here, I was talking to you about the senior play puffs' - the subject of this report - and from her own roster reading here, which lists 'Michaela Gallo... and me'. A board member's 'Thank you. Michaela.' right after that roster appears to be addressed to her co-representative Michaela Gallo, who the chair introduces as filling in for Miles Sheehan tonight; both students are at the table and the report is delivered in the first person plural, so this cluster may carry both voices)"
+  },
+  "92": {
+   "name": "Lily Clark",
+   "role": "Student School Board Representative, Stevens High School, Class of 2026 (delivers the student report; identified from the 5/6/26 meeting, where she opens 'last time I was here, I was talking to you about the senior play puffs' - the subject of this report - and from her own roster reading here, which lists 'Michaela Gallo... and me'. A board member's 'Thank you. Michaela.' right after that roster appears to be addressed to her co-representative Michaela Gallo, who the chair introduces as filling in for Miles Sheehan tonight; both students are at the table and the report is delivered in the first person plural, so this cluster may carry both voices)"
+  },
+  "93": {
+   "name": "Lily Clark",
+   "role": "Student School Board Representative, Stevens High School, Class of 2026 (delivers the student report; identified from the 5/6/26 meeting, where she opens 'last time I was here, I was talking to you about the senior play puffs' - the subject of this report - and from her own roster reading here, which lists 'Michaela Gallo... and me'. A board member's 'Thank you. Michaela.' right after that roster appears to be addressed to her co-representative Michaela Gallo, who the chair introduces as filling in for Miles Sheehan tonight; both students are at the table and the report is delivered in the first person plural, so this cluster may carry both voices)"
+  },
+  "95": {
+   "name": "Don Lavalette",
+   "role": "School Board Member (sworn in 3/18/26; term to 2029); member of the ad hoc School Reconfiguration Exploratory Committee and of the bylaws working group (sentence onset or continuation the diarizer clipped into a neighbouring cluster)"
+  },
+  "97": {
+   "name": "Don Lavalette",
+   "role": "School Board Member (sworn in 3/18/26; term to 2029); member of the ad hoc School Reconfiguration Exploratory Committee and of the bylaws working group (sentence onset or continuation the diarizer clipped into a neighbouring cluster)"
+  },
+  "99": {
+   "name": "Lily Clark",
+   "role": "Student School Board Representative, Stevens High School, Class of 2026 (delivers the student report; identified from the 5/6/26 meeting, where she opens 'last time I was here, I was talking to you about the senior play puffs' - the subject of this report - and from her own roster reading here, which lists 'Michaela Gallo... and me'. A board member's 'Thank you. Michaela.' right after that roster appears to be addressed to her co-representative Michaela Gallo, who the chair introduces as filling in for Miles Sheehan tonight; both students are at the table and the report is delivered in the first person plural, so this cluster may carry both voices)"
+  },
+  "102": {
+   "name": "Lily Clark",
+   "role": "Student School Board Representative, Stevens High School, Class of 2026 (delivers the student report; identified from the 5/6/26 meeting, where she opens 'last time I was here, I was talking to you about the senior play puffs' - the subject of this report - and from her own roster reading here, which lists 'Michaela Gallo... and me'. A board member's 'Thank you. Michaela.' right after that roster appears to be addressed to her co-representative Michaela Gallo, who the chair introduces as filling in for Miles Sheehan tonight; both students are at the table and the report is delivered in the first person plural, so this cluster may carry both voices)"
+  },
+  "104": {
+   "name": "Lily Clark",
+   "role": "Student School Board Representative, Stevens High School, Class of 2026 (delivers the student report; identified from the 5/6/26 meeting, where she opens 'last time I was here, I was talking to you about the senior play puffs' - the subject of this report - and from her own roster reading here, which lists 'Michaela Gallo... and me'. A board member's 'Thank you. Michaela.' right after that roster appears to be addressed to her co-representative Michaela Gallo, who the chair introduces as filling in for Miles Sheehan tonight; both students are at the table and the report is delivered in the first person plural, so this cluster may carry both voices)"
+  },
+  "109": {
+   "name": "Heather Whitney",
+   "role": "School Board Member; chair of the ad hoc School Reconfiguration Exploratory Committee"
+  },
+  "117": {
+   "name": "Noelle Kronberg",
+   "role": "School Board Clerk (calls the roll and keeps the minutes) (sentence onset or continuation the diarizer clipped into a neighbouring cluster)"
+  },
+  "119": {
+   "name": "Noelle Kronberg",
+   "role": "School Board Clerk (calls the roll and keeps the minutes) (sentence onset or continuation the diarizer clipped into a neighbouring cluster)"
+  },
+  "123": {
+   "name": "Don Lavalette",
+   "role": "School Board Member (sworn in 3/18/26; term to 2029); member of the ad hoc School Reconfiguration Exploratory Committee and of the bylaws working group (sentence onset or continuation the diarizer clipped into a neighbouring cluster)"
+  },
+  "131": {
+   "name": "Don Lavalette",
+   "role": "School Board Member (sworn in 3/18/26; term to 2029); member of the ad hoc School Reconfiguration Exploratory Committee and of the bylaws working group (sentence onset or continuation the diarizer clipped into a neighbouring cluster)"
+  },
+  "133": {
+   "name": "Heather Whitney",
+   "role": "School Board Member; chair of the ad hoc School Reconfiguration Exploratory Committee"
+  },
+  "135": {
+   "name": "Heather Whitney",
+   "role": "School Board Member; chair of the ad hoc School Reconfiguration Exploratory Committee"
+  },
+  "137": {
+   "name": "Heather Whitney",
+   "role": "School Board Member; chair of the ad hoc School Reconfiguration Exploratory Committee"
+  },
+  "139": {
+   "name": "Heather Whitney",
+   "role": "School Board Member; chair of the ad hoc School Reconfiguration Exploratory Committee"
+  },
+  "141": {
+   "name": "Heather Whitney",
+   "role": "School Board Member; chair of the ad hoc School Reconfiguration Exploratory Committee"
+  },
+  "143": {
+   "name": "Matt Angell",
+   "role": "Interim Business Administrator, SAU 6 (sentence onset or continuation the diarizer clipped into a neighbouring cluster)"
+  },
+  "165": {
+   "name": "Van Holder",
+   "role": "Public commenter, Ward 2; parent of a Maple Avenue student formerly at Bluff School (surname as announced - the self-ID is heard 'Van hold[er]'; first name not recoverable; the same commenter self-identified at the 3/18/26 meeting) (sentence onset or continuation the diarizer clipped into a neighbouring cluster)"
+  },
+  "174": {
+   "name": "Candace Crawford",
+   "role": "School Board Chair (sentence onset or continuation the diarizer clipped into a neighbouring cluster)"
+  },
+  "184": {
+   "name": "Van Holder",
+   "role": "Public commenter, Ward 2; parent of a Maple Avenue student formerly at Bluff School (surname as announced - the self-ID is heard 'Van hold[er]'; first name not recoverable; the same commenter self-identified at the 3/18/26 meeting) (sentence onset or continuation the diarizer clipped into a neighbouring cluster)"
+  },
+  "187": {
+   "name": "Matt Angell",
+   "role": "Interim Business Administrator, SAU 6 (sentence onset or continuation the diarizer clipped into a neighbouring cluster)"
+  },
+  "189": {
+   "name": "Matt Angell",
+   "role": "Interim Business Administrator, SAU 6 (sentence onset or continuation the diarizer clipped into a neighbouring cluster)"
+  },
+  "194": {
+   "name": "Matt Angell",
+   "role": "Interim Business Administrator, SAU 6 (sentence onset or continuation the diarizer clipped into a neighbouring cluster)"
+  },
+  "205": {
+   "name": "Candace Crawford",
+   "role": "School Board Chair (sentence onset or continuation the diarizer clipped into a neighbouring cluster)"
+  },
+  "209": {
+   "name": "Multiple",
+   "role": "Voice vote / group recitation (chorus captured as one voice)"
+  },
+  "213": {
+   "name": "Kerry Kennedy",
+   "role": "Interim Superintendent, SAU 6 (sentence onset or continuation the diarizer clipped into a neighbouring cluster)"
+  },
+  "222": {
+   "name": "Heather Whitney",
+   "role": "School Board Member; chair of the ad hoc School Reconfiguration Exploratory Committee (sentence onset or continuation the diarizer clipped into a neighbouring cluster)"
+  },
+  "230": {
+   "name": "Candace Crawford",
+   "role": "School Board Chair (sentence onset or continuation the diarizer clipped into a neighbouring cluster)"
+  },
+  "247": {
+   "name": "Heather Whitney",
+   "role": "School Board Member; chair of the ad hoc School Reconfiguration Exploratory Committee (sentence onset or continuation the diarizer clipped into a neighbouring cluster)"
+  },
+  "271": {
+   "name": "Candace Crawford",
+   "role": "School Board Chair (sentence onset or continuation the diarizer clipped into a neighbouring cluster)"
+  },
+  "273": {
+   "name": "Don Lavalette",
+   "role": "School Board Member (sworn in 3/18/26; term to 2029); member of the ad hoc School Reconfiguration Exploratory Committee and of the bylaws working group (sentence onset or continuation the diarizer clipped into a neighbouring cluster)"
+  },
+  "278": {
+   "name": "Candace Crawford",
+   "role": "School Board Chair (sentence onset or continuation the diarizer clipped into a neighbouring cluster)"
+  },
+  "287": {
+   "name": "Kerry Kennedy",
+   "role": "Interim Superintendent, SAU 6 (sentence onset or continuation the diarizer clipped into a neighbouring cluster)"
+  },
+  "298": {
+   "name": "Kerry Kennedy",
+   "role": "Interim Superintendent, SAU 6 (sentence onset or continuation the diarizer clipped into a neighbouring cluster)"
+  },
+  "302": {
+   "name": "Candace Crawford",
+   "role": "School Board Chair (sentence onset or continuation the diarizer clipped into a neighbouring cluster)"
+  },
+  "311": {
+   "name": "Heather Whitney",
+   "role": "School Board Member; chair of the ad hoc School Reconfiguration Exploratory Committee (sentence onset or continuation the diarizer clipped into a neighbouring cluster)"
+  },
+  "314": {
+   "name": "Matt Angell",
+   "role": "Interim Business Administrator, SAU 6 (sentence onset or continuation the diarizer clipped into a neighbouring cluster)"
+  },
+  "318": {
+   "name": "Candace Crawford",
+   "role": "School Board Chair"
+  },
+  "327": {
+   "name": "William 'Bill' Madden",
+   "role": "School Board Member; Curriculum Subcommittee Chair; Capital Improvement Subcommittee Chair (sentence onset or continuation the diarizer clipped into a neighbouring cluster)"
+  },
+  "329": {
+   "name": "Candace Crawford",
+   "role": "School Board Chair (sentence onset or continuation the diarizer clipped into a neighbouring cluster)"
+  },
+  "330": {
+   "name": "William 'Bill' Madden",
+   "role": "School Board Member; Curriculum Subcommittee Chair; Capital Improvement Subcommittee Chair (sentence onset or continuation the diarizer clipped into a neighbouring cluster)"
+  },
+  "331": {
+   "name": "William 'Bill' Madden",
+   "role": "School Board Member; Curriculum Subcommittee Chair; Capital Improvement Subcommittee Chair"
+  },
+  "332": {
+   "name": "William 'Bill' Madden",
+   "role": "School Board Member; Curriculum Subcommittee Chair; Capital Improvement Subcommittee Chair"
+  },
+  "334": {
+   "name": "William 'Bill' Madden",
+   "role": "School Board Member; Curriculum Subcommittee Chair; Capital Improvement Subcommittee Chair"
+  },
+  "341": {
+   "name": "Chief Brent Wilmot",
+   "role": "Chief, Claremont Police Department (introduced by the Interim Superintendent; the ASR renders the name 'Brant Wilmot' and 'chief Beaumont')"
+  },
+  "342": {
+   "name": "Chief Brent Wilmot",
+   "role": "Chief, Claremont Police Department (introduced by the Interim Superintendent; the ASR renders the name 'Brant Wilmot' and 'chief Beaumont')"
+  },
+  "343": {
+   "name": "Chief Brent Wilmot",
+   "role": "Chief, Claremont Police Department (introduced by the Interim Superintendent; the ASR renders the name 'Brant Wilmot' and 'chief Beaumont')"
+  },
+  "344": {
+   "name": "Chief Brent Wilmot",
+   "role": "Chief, Claremont Police Department (introduced by the Interim Superintendent; the ASR renders the name 'Brant Wilmot' and 'chief Beaumont')"
+  },
+  "345": {
+   "name": "Chief Brent Wilmot",
+   "role": "Chief, Claremont Police Department (introduced by the Interim Superintendent; the ASR renders the name 'Brant Wilmot' and 'chief Beaumont')"
+  },
+  "346": {
+   "name": "Chief Brent Wilmot",
+   "role": "Chief, Claremont Police Department (introduced by the Interim Superintendent; the ASR renders the name 'Brant Wilmot' and 'chief Beaumont')"
+  },
+  "347": {
+   "name": "Chief Brent Wilmot",
+   "role": "Chief, Claremont Police Department (introduced by the Interim Superintendent; the ASR renders the name 'Brant Wilmot' and 'chief Beaumont')"
+  },
+  "348": {
+   "name": "Chief Brent Wilmot",
+   "role": "Chief, Claremont Police Department (introduced by the Interim Superintendent; the ASR renders the name 'Brant Wilmot' and 'chief Beaumont')"
+  },
+  "349": {
+   "name": "Chief Brent Wilmot",
+   "role": "Chief, Claremont Police Department (introduced by the Interim Superintendent; the ASR renders the name 'Brant Wilmot' and 'chief Beaumont')"
+  },
+  "350": {
+   "name": "Chief Brent Wilmot",
+   "role": "Chief, Claremont Police Department (introduced by the Interim Superintendent; the ASR renders the name 'Brant Wilmot' and 'chief Beaumont')"
+  },
+  "354": {
+   "name": "Chief Brent Wilmot",
+   "role": "Chief, Claremont Police Department (introduced by the Interim Superintendent; the ASR renders the name 'Brant Wilmot' and 'chief Beaumont') (sentence onset or continuation the diarizer clipped into a neighbouring cluster)"
+  },
+  "366": {
+   "name": "Unidentified",
+   "role": "A board member seconds the school resource officer MOU; the chair's naming is cut off ('Second. Mr..') - speaker not distinguishable"
+  },
+  "396": {
+   "name": "Heather Whitney",
+   "role": "School Board Member; chair of the ad hoc School Reconfiguration Exploratory Committee (sentence onset or continuation the diarizer clipped into a neighbouring cluster)"
+  },
+  "399": {
+   "name": "Don Lavalette",
+   "role": "School Board Member (sworn in 3/18/26; term to 2029); member of the ad hoc School Reconfiguration Exploratory Committee and of the bylaws working group (sentence onset or continuation the diarizer clipped into a neighbouring cluster)"
+  },
+  "400": {
+   "name": "Don Lavalette",
+   "role": "School Board Member (sworn in 3/18/26; term to 2029); member of the ad hoc School Reconfiguration Exploratory Committee and of the bylaws working group"
+  },
+  "402": {
+   "name": "Don Lavalette",
+   "role": "School Board Member (sworn in 3/18/26; term to 2029); member of the ad hoc School Reconfiguration Exploratory Committee and of the bylaws working group"
+  },
+  "403": {
+   "name": "Don Lavalette",
+   "role": "School Board Member (sworn in 3/18/26; term to 2029); member of the ad hoc School Reconfiguration Exploratory Committee and of the bylaws working group"
+  },
+  "408": {
+   "name": "Don Lavalette",
+   "role": "School Board Member (sworn in 3/18/26; term to 2029); member of the ad hoc School Reconfiguration Exploratory Committee and of the bylaws working group"
+  },
+  "414": {
+   "name": "Loren Howard",
+   "role": "School Board Member; Policy Subcommittee Chair (sentence onset or continuation the diarizer clipped into a neighbouring cluster)"
+  },
+  "416": {
+   "name": "Loren Howard",
+   "role": "School Board Member; Policy Subcommittee Chair (sentence onset or continuation the diarizer clipped into a neighbouring cluster)"
+  },
+  "419": {
+   "name": "Don Lavalette",
+   "role": "School Board Member (sworn in 3/18/26; term to 2029); member of the ad hoc School Reconfiguration Exploratory Committee and of the bylaws working group"
+  },
+  "421": {
+   "name": "Candace Crawford",
+   "role": "School Board Chair (sentence onset or continuation the diarizer clipped into a neighbouring cluster)"
+  },
+  "423": {
+   "name": "Don Lavalette",
+   "role": "School Board Member (sworn in 3/18/26; term to 2029); member of the ad hoc School Reconfiguration Exploratory Committee and of the bylaws working group"
+  },
+  "425": {
+   "name": "Don Lavalette",
+   "role": "School Board Member (sworn in 3/18/26; term to 2029); member of the ad hoc School Reconfiguration Exploratory Committee and of the bylaws working group (sentence onset or continuation the diarizer clipped into a neighbouring cluster)"
+  },
+  "426": {
+   "name": "Don Lavalette",
+   "role": "School Board Member (sworn in 3/18/26; term to 2029); member of the ad hoc School Reconfiguration Exploratory Committee and of the bylaws working group (sentence onset or continuation the diarizer clipped into a neighbouring cluster)"
+  },
+  "427": {
+   "name": "Don Lavalette",
+   "role": "School Board Member (sworn in 3/18/26; term to 2029); member of the ad hoc School Reconfiguration Exploratory Committee and of the bylaws working group (sentence onset or continuation the diarizer clipped into a neighbouring cluster)"
+  },
+  "460": {
+   "name": "Don Lavalette",
+   "role": "School Board Member (sworn in 3/18/26; term to 2029); member of the ad hoc School Reconfiguration Exploratory Committee and of the bylaws working group"
+  },
+  "461": {
+   "name": "Don Lavalette",
+   "role": "School Board Member (sworn in 3/18/26; term to 2029); member of the ad hoc School Reconfiguration Exploratory Committee and of the bylaws working group"
+  },
+  "462": {
+   "name": "Don Lavalette",
+   "role": "School Board Member (sworn in 3/18/26; term to 2029); member of the ad hoc School Reconfiguration Exploratory Committee and of the bylaws working group"
+  },
+  "463": {
+   "name": "Don Lavalette",
+   "role": "School Board Member (sworn in 3/18/26; term to 2029); member of the ad hoc School Reconfiguration Exploratory Committee and of the bylaws working group"
+  },
+  "464": {
+   "name": "Don Lavalette",
+   "role": "School Board Member (sworn in 3/18/26; term to 2029); member of the ad hoc School Reconfiguration Exploratory Committee and of the bylaws working group"
+  },
+  "465": {
+   "name": "Don Lavalette",
+   "role": "School Board Member (sworn in 3/18/26; term to 2029); member of the ad hoc School Reconfiguration Exploratory Committee and of the bylaws working group"
+  },
+  "466": {
+   "name": "Don Lavalette",
+   "role": "School Board Member (sworn in 3/18/26; term to 2029); member of the ad hoc School Reconfiguration Exploratory Committee and of the bylaws working group"
+  },
+  "467": {
+   "name": "Don Lavalette",
+   "role": "School Board Member (sworn in 3/18/26; term to 2029); member of the ad hoc School Reconfiguration Exploratory Committee and of the bylaws working group"
+  },
+  "468": {
+   "name": "Don Lavalette",
+   "role": "School Board Member (sworn in 3/18/26; term to 2029); member of the ad hoc School Reconfiguration Exploratory Committee and of the bylaws working group"
+  },
+  "469": {
+   "name": "Don Lavalette",
+   "role": "School Board Member (sworn in 3/18/26; term to 2029); member of the ad hoc School Reconfiguration Exploratory Committee and of the bylaws working group"
+  },
+  "472": {
+   "name": "Brian Rapp",
+   "role": "School Board Member (sworn in 3/18/26; term to 2029)"
+  },
+  "473": {
+   "name": "Brian Rapp",
+   "role": "School Board Member (sworn in 3/18/26; term to 2029)"
+  },
+  "474": {
+   "name": "Brian Rapp",
+   "role": "School Board Member (sworn in 3/18/26; term to 2029)"
+  },
+  "481": {
+   "name": "Michael Petrin",
+   "role": "School Board Vice Chair; Chair, SRVRTC Subcommittee (the chair calls on 'the people who haven't spoken... Mr. Peter[in]' immediately before this turn - ASR confidence 0.36 on the surname - and prefaces his next turn the same way; the diarizer placed this turn in Mr. Lavalette's cluster, so the attribution is NOT certain)"
+  },
+  "484": {
+   "name": "Michael Petrin",
+   "role": "School Board Vice Chair; Chair, SRVRTC Subcommittee (the chair calls on 'the people who haven't spoken... Mr. Peter[in]' immediately before this turn - ASR confidence 0.36 on the surname - and prefaces his next turn the same way; the diarizer placed this turn in Mr. Lavalette's cluster, so the attribution is NOT certain)"
+  },
+  "485": {
+   "name": "Michael Petrin",
+   "role": "School Board Vice Chair; Chair, SRVRTC Subcommittee (the chair calls on 'the people who haven't spoken... Mr. Peter[in]' immediately before this turn - ASR confidence 0.36 on the surname - and prefaces his next turn the same way; the diarizer placed this turn in Mr. Lavalette's cluster, so the attribution is NOT certain)"
+  },
+  "486": {
+   "name": "Michael Petrin",
+   "role": "School Board Vice Chair; Chair, SRVRTC Subcommittee (the chair calls on 'the people who haven't spoken... Mr. Peter[in]' immediately before this turn - ASR confidence 0.36 on the surname - and prefaces his next turn the same way; the diarizer placed this turn in Mr. Lavalette's cluster, so the attribution is NOT certain)"
+  },
+  "489": {
+   "name": "Candace Crawford",
+   "role": "School Board Chair (sentence onset or continuation the diarizer clipped into a neighbouring cluster)"
+  },
+  "491": {
+   "name": "Don Lavalette",
+   "role": "School Board Member (sworn in 3/18/26; term to 2029); member of the ad hoc School Reconfiguration Exploratory Committee and of the bylaws working group"
+  },
+  "497": {
+   "name": "Brian Rapp",
+   "role": "School Board Member (sworn in 3/18/26; term to 2029) (sentence onset or continuation the diarizer clipped into a neighbouring cluster)"
+  },
+  "499": {
+   "name": "Brian Rapp",
+   "role": "School Board Member (sworn in 3/18/26; term to 2029)"
+  },
+  "501": {
+   "name": "Brian Rapp",
+   "role": "School Board Member (sworn in 3/18/26; term to 2029)"
+  },
+  "503": {
+   "name": "Brian Rapp",
+   "role": "School Board Member (sworn in 3/18/26; term to 2029)"
+  },
+  "506": {
+   "name": "Candace Crawford",
+   "role": "School Board Chair (sentence onset or continuation the diarizer clipped into a neighbouring cluster)"
+  },
+  "532": {
+   "name": "Brian Rapp",
+   "role": "School Board Member (sworn in 3/18/26; term to 2029)"
+  },
+  "539": {
+   "name": "Don Lavalette",
+   "role": "School Board Member (sworn in 3/18/26; term to 2029); member of the ad hoc School Reconfiguration Exploratory Committee and of the bylaws working group"
+  },
+  "540": {
+   "name": "Don Lavalette",
+   "role": "School Board Member (sworn in 3/18/26; term to 2029); member of the ad hoc School Reconfiguration Exploratory Committee and of the bylaws working group (sentence onset or continuation the diarizer clipped into a neighbouring cluster)"
+  },
+  "541": {
+   "name": "Don Lavalette",
+   "role": "School Board Member (sworn in 3/18/26; term to 2029); member of the ad hoc School Reconfiguration Exploratory Committee and of the bylaws working group"
+  },
+  "542": {
+   "name": "Brian Rapp",
+   "role": "School Board Member (sworn in 3/18/26; term to 2029)"
+  },
+  "544": {
+   "name": "Don Lavalette",
+   "role": "School Board Member (sworn in 3/18/26; term to 2029); member of the ad hoc School Reconfiguration Exploratory Committee and of the bylaws working group (sentence onset or continuation the diarizer clipped into a neighbouring cluster)"
+  },
+  "546": {
+   "name": "Don Lavalette",
+   "role": "School Board Member (sworn in 3/18/26; term to 2029); member of the ad hoc School Reconfiguration Exploratory Committee and of the bylaws working group (sentence onset or continuation the diarizer clipped into a neighbouring cluster)"
+  },
+  "550": {
+   "name": "Don Lavalette",
+   "role": "School Board Member (sworn in 3/18/26; term to 2029); member of the ad hoc School Reconfiguration Exploratory Committee and of the bylaws working group (sentence onset or continuation the diarizer clipped into a neighbouring cluster)"
+  },
+  "566": {
+   "name": "Don Lavalette",
+   "role": "School Board Member (sworn in 3/18/26; term to 2029); member of the ad hoc School Reconfiguration Exploratory Committee and of the bylaws working group"
+  },
+  "571": {
+   "name": "Don Lavalette",
+   "role": "School Board Member (sworn in 3/18/26; term to 2029); member of the ad hoc School Reconfiguration Exploratory Committee and of the bylaws working group"
+  },
+  "573": {
+   "name": "Don Lavalette",
+   "role": "School Board Member (sworn in 3/18/26; term to 2029); member of the ad hoc School Reconfiguration Exploratory Committee and of the bylaws working group"
+  },
+  "575": {
+   "name": "Kerry Kennedy",
+   "role": "Interim Superintendent, SAU 6 (sentence onset or continuation the diarizer clipped into a neighbouring cluster)"
+  },
+  "585": {
+   "name": "Don Lavalette",
+   "role": "School Board Member (sworn in 3/18/26; term to 2029); member of the ad hoc School Reconfiguration Exploratory Committee and of the bylaws working group"
+  },
+  "593": {
+   "name": "Jason Bonneville",
+   "role": "Technology Director, SAU 6 (sentence onset or continuation the diarizer clipped into a neighbouring cluster)"
+  },
+  "595": {
+   "name": "Jason Bonneville",
+   "role": "Technology Director, SAU 6 (sentence onset or continuation the diarizer clipped into a neighbouring cluster)"
+  },
+  "619": {
+   "name": "Heather Whitney",
+   "role": "School Board Member; chair of the ad hoc School Reconfiguration Exploratory Committee (sentence onset or continuation the diarizer clipped into a neighbouring cluster)"
+  },
+  "635": {
+   "name": "Jason Bonneville",
+   "role": "Technology Director, SAU 6 (sentence onset or continuation the diarizer clipped into a neighbouring cluster)"
+  },
+  "644": {
+   "name": "Matt Angell",
+   "role": "Interim Business Administrator, SAU 6 (sentence onset or continuation the diarizer clipped into a neighbouring cluster)"
+  },
+  "656": {
+   "name": "Loren Howard",
+   "role": "School Board Member; Policy Subcommittee Chair (sentence onset or continuation the diarizer clipped into a neighbouring cluster)"
+  },
+  "662": {
+   "name": "Brian Rapp",
+   "role": "School Board Member (sworn in 3/18/26; term to 2029)"
+  },
+  "665": {
+   "name": "Brian Rapp",
+   "role": "School Board Member (sworn in 3/18/26; term to 2029)"
+  },
+  "667": {
+   "name": "Brian Rapp",
+   "role": "School Board Member (sworn in 3/18/26; term to 2029) (sentence onset or continuation the diarizer clipped into a neighbouring cluster)"
+  },
+  "671": {
+   "name": "Brian Rapp",
+   "role": "School Board Member (sworn in 3/18/26; term to 2029) (sentence onset or continuation the diarizer clipped into a neighbouring cluster)"
+  },
+  "689": {
+   "name": "Candace Crawford",
+   "role": "School Board Chair (sentence onset or continuation the diarizer clipped into a neighbouring cluster)"
+  },
+  "711": {
+   "name": "William 'Bill' Madden",
+   "role": "School Board Member; Curriculum Subcommittee Chair; Capital Improvement Subcommittee Chair (sentence onset or continuation the diarizer clipped into a neighbouring cluster)"
+  },
+  "717": {
+   "name": "Bill Olson",
+   "role": "Interim Principal, Claremont Middle School (self-identified; surname as heard - ASR confidence 0.64; first name from Ms. Whitney's 'Thank you for stepping up, Bill' at the end of his report) (sentence onset or continuation the diarizer clipped into a neighbouring cluster)"
+  },
+  "720": {
+   "name": "Candace Crawford",
+   "role": "School Board Chair (sentence onset or continuation the diarizer clipped into a neighbouring cluster)"
+  },
+  "721": {
+   "name": "Michael Herrington",
+   "role": "Principal, Stevens High School (ASR renders the surname 'Harrington') (sentence onset or continuation the diarizer clipped into a neighbouring cluster)"
+  },
+  "723": {
+   "name": "Michael Herrington",
+   "role": "Principal, Stevens High School (ASR renders the surname 'Harrington') (sentence onset or continuation the diarizer clipped into a neighbouring cluster)"
+  },
+  "724": {
+   "name": "Michael Herrington",
+   "role": "Principal, Stevens High School (ASR renders the surname 'Harrington') (sentence onset or continuation the diarizer clipped into a neighbouring cluster)"
+  },
+  "725": {
+   "name": "Michael Herrington",
+   "role": "Principal, Stevens High School (ASR renders the surname 'Harrington') (sentence onset or continuation the diarizer clipped into a neighbouring cluster)"
+  },
+  "726": {
+   "name": "Michael Herrington",
+   "role": "Principal, Stevens High School (ASR renders the surname 'Harrington') (sentence onset or continuation the diarizer clipped into a neighbouring cluster)"
+  },
+  "728": {
+   "name": "Michael Herrington",
+   "role": "Principal, Stevens High School (ASR renders the surname 'Harrington') (sentence onset or continuation the diarizer clipped into a neighbouring cluster)"
+  },
+  "738": {
+   "name": "Michael Herrington",
+   "role": "Principal, Stevens High School (ASR renders the surname 'Harrington') (sentence onset or continuation the diarizer clipped into a neighbouring cluster)"
+  },
+  "741": {
+   "name": "Michael Herrington",
+   "role": "Principal, Stevens High School (ASR renders the surname 'Harrington') (sentence onset or continuation the diarizer clipped into a neighbouring cluster)"
+  },
+  "746": {
+   "name": "Candace Crawford",
+   "role": "School Board Chair (sentence onset or continuation the diarizer clipped into a neighbouring cluster)"
+  },
+  "750": {
+   "name": "Michael Herrington",
+   "role": "Principal, Stevens High School (ASR renders the surname 'Harrington') (sentence onset or continuation the diarizer clipped into a neighbouring cluster)"
+  },
+  "751": {
+   "name": "Michael Herrington",
+   "role": "Principal, Stevens High School (ASR renders the surname 'Harrington') (sentence onset or continuation the diarizer clipped into a neighbouring cluster)"
+  },
+  "755": {
+   "name": "Michael Herrington",
+   "role": "Principal, Stevens High School (ASR renders the surname 'Harrington') (sentence onset or continuation the diarizer clipped into a neighbouring cluster)"
+  },
+  "761": {
+   "name": "Michael Herrington",
+   "role": "Principal, Stevens High School (ASR renders the surname 'Harrington') (sentence onset or continuation the diarizer clipped into a neighbouring cluster)"
+  },
+  "765": {
+   "name": "Candace Crawford",
+   "role": "School Board Chair (sentence onset or continuation the diarizer clipped into a neighbouring cluster)"
+  },
+  "773": {
+   "name": "Michael Herrington",
+   "role": "Principal, Stevens High School (ASR renders the surname 'Harrington') (sentence onset or continuation the diarizer clipped into a neighbouring cluster)"
+  },
+  "780": {
+   "name": "Michael Herrington",
+   "role": "Principal, Stevens High School (ASR renders the surname 'Harrington') (sentence onset or continuation the diarizer clipped into a neighbouring cluster)"
+  },
+  "789": {
+   "name": "Brian Rapp",
+   "role": "School Board Member (sworn in 3/18/26; term to 2029)"
+  },
+  "790": {
+   "name": "Brian Rapp",
+   "role": "School Board Member (sworn in 3/18/26; term to 2029)"
+  },
+  "817": {
+   "name": "Unidentified",
+   "role": "Brief interjection during the dress-code exchange - voice not distinguishable"
+  },
+  "825": {
+   "name": "William 'Bill' Madden",
+   "role": "School Board Member; Curriculum Subcommittee Chair; Capital Improvement Subcommittee Chair (sentence onset or continuation the diarizer clipped into a neighbouring cluster)"
+  },
+  "841": {
+   "name": "Michael Petrin",
+   "role": "School Board Vice Chair; Chair, SRVRTC Subcommittee (sentence onset or continuation the diarizer clipped into a neighbouring cluster)"
+  },
+  "853": {
+   "name": "Brian Rapp",
+   "role": "School Board Member (sworn in 3/18/26; term to 2029)"
+  },
+  "883": {
+   "name": "Heather Whitney",
+   "role": "School Board Member; chair of the ad hoc School Reconfiguration Exploratory Committee (sentence onset or continuation the diarizer clipped into a neighbouring cluster)"
+  },
+  "908": {
+   "name": "Heather Whitney",
+   "role": "School Board Member; chair of the ad hoc School Reconfiguration Exploratory Committee (sentence onset or continuation the diarizer clipped into a neighbouring cluster)"
+  },
+  "909": {
+   "name": "Michael Petrin",
+   "role": "School Board Vice Chair; Chair, SRVRTC Subcommittee (sentence onset or continuation the diarizer clipped into a neighbouring cluster)"
+  },
+  "920": {
+   "name": "Brian Rapp",
+   "role": "School Board Member (sworn in 3/18/26; term to 2029)"
+  },
+  "927": {
+   "name": "Multiple",
+   "role": "Voice vote / group recitation (chorus captured as one voice)"
+  },
+  "961": {
+   "name": "Candace Crawford",
+   "role": "School Board Chair (sentence onset or continuation the diarizer clipped into a neighbouring cluster)"
+  },
+  "970": {
+   "name": "Brian Rapp",
+   "role": "School Board Member (sworn in 3/18/26; term to 2029)"
+  },
+  "972": {
+   "name": "Brian Rapp",
+   "role": "School Board Member (sworn in 3/18/26; term to 2029) (sentence onset or continuation the diarizer clipped into a neighbouring cluster)"
+  },
+  "984": {
+   "name": "Brian Rapp",
+   "role": "School Board Member (sworn in 3/18/26; term to 2029)"
+  },
+  "986": {
+   "name": "Brian Rapp",
+   "role": "School Board Member (sworn in 3/18/26; term to 2029)"
+  },
+  "1002": {
+   "name": "Brian Rapp",
+   "role": "School Board Member (sworn in 3/18/26; term to 2029)"
+  },
+  "1015": {
+   "name": "Luke Diamond",
+   "role": "Incoming School District Treasurer (identified from the chair's 'we're waiting to get contact information for Mr. Diamond' spoken immediately before he answers; no self-identification on the recording) (sentence onset or continuation the diarizer clipped into a neighbouring cluster)"
+  },
+  "1016": {
+   "name": "Luke Diamond",
+   "role": "Incoming School District Treasurer (identified from the chair's 'we're waiting to get contact information for Mr. Diamond' spoken immediately before he answers; no self-identification on the recording) (sentence onset or continuation the diarizer clipped into a neighbouring cluster)"
+  },
+  "1017": {
+   "name": "Luke Diamond",
+   "role": "Incoming School District Treasurer (identified from the chair's 'we're waiting to get contact information for Mr. Diamond' spoken immediately before he answers; no self-identification on the recording) (sentence onset or continuation the diarizer clipped into a neighbouring cluster)"
+  },
+  "1019": {
+   "name": "Luke Diamond",
+   "role": "Incoming School District Treasurer (identified from the chair's 'we're waiting to get contact information for Mr. Diamond' spoken immediately before he answers; no self-identification on the recording) (sentence onset or continuation the diarizer clipped into a neighbouring cluster)"
+  },
+  "1022": {
+   "name": "Unidentified",
+   "role": "Brief crosstalk from the board table - voice not distinguishable (the diarizer placed it in the clerk's cluster)"
+  },
+  "1024": {
+   "name": "Luke Diamond",
+   "role": "Incoming School District Treasurer (identified from the chair's 'we're waiting to get contact information for Mr. Diamond' spoken immediately before he answers; no self-identification on the recording) (sentence onset or continuation the diarizer clipped into a neighbouring cluster)"
+  },
+  "1025": {
+   "name": "Luke Diamond",
+   "role": "Incoming School District Treasurer (identified from the chair's 'we're waiting to get contact information for Mr. Diamond' spoken immediately before he answers; no self-identification on the recording) (sentence onset or continuation the diarizer clipped into a neighbouring cluster)"
+  },
+  "1027": {
+   "name": "Luke Diamond",
+   "role": "Incoming School District Treasurer (identified from the chair's 'we're waiting to get contact information for Mr. Diamond' spoken immediately before he answers; no self-identification on the recording) (sentence onset or continuation the diarizer clipped into a neighbouring cluster)"
+  },
+  "1028": {
+   "name": "Heather Whitney",
+   "role": "School Board Member; chair of the ad hoc School Reconfiguration Exploratory Committee (sentence onset or continuation the diarizer clipped into a neighbouring cluster)"
+  },
+  "1042": {
+   "name": "Don Lavalette",
+   "role": "School Board Member (sworn in 3/18/26; term to 2029); member of the ad hoc School Reconfiguration Exploratory Committee and of the bylaws working group (identified by 'I've only been on the board now two weeks' - only he and Mr. Rapp were sworn in on 3/18/26 - and by the 'I got a couple of things' opener he uses earlier in this meeting and in the shipped 5/6, 5/20 and 6/3/26 dialogues; the diarizer placed these segments in Mr. Petrin's cluster, so the attribution rests on content, not on the cluster)"
+  },
+  "1043": {
+   "name": "Don Lavalette",
+   "role": "School Board Member (sworn in 3/18/26; term to 2029); member of the ad hoc School Reconfiguration Exploratory Committee and of the bylaws working group (identified by 'I've only been on the board now two weeks' - only he and Mr. Rapp were sworn in on 3/18/26 - and by the 'I got a couple of things' opener he uses earlier in this meeting and in the shipped 5/6, 5/20 and 6/3/26 dialogues; the diarizer placed these segments in Mr. Petrin's cluster, so the attribution rests on content, not on the cluster)"
+  },
+  "1044": {
+   "name": "Don Lavalette",
+   "role": "School Board Member (sworn in 3/18/26; term to 2029); member of the ad hoc School Reconfiguration Exploratory Committee and of the bylaws working group (identified by 'I've only been on the board now two weeks' - only he and Mr. Rapp were sworn in on 3/18/26 - and by the 'I got a couple of things' opener he uses earlier in this meeting and in the shipped 5/6, 5/20 and 6/3/26 dialogues; the diarizer placed these segments in Mr. Petrin's cluster, so the attribution rests on content, not on the cluster)"
+  },
+  "1045": {
+   "name": "Don Lavalette",
+   "role": "School Board Member (sworn in 3/18/26; term to 2029); member of the ad hoc School Reconfiguration Exploratory Committee and of the bylaws working group (identified by 'I've only been on the board now two weeks' - only he and Mr. Rapp were sworn in on 3/18/26 - and by the 'I got a couple of things' opener he uses earlier in this meeting and in the shipped 5/6, 5/20 and 6/3/26 dialogues; the diarizer placed these segments in Mr. Petrin's cluster, so the attribution rests on content, not on the cluster)"
+  },
+  "1046": {
+   "name": "Don Lavalette",
+   "role": "School Board Member (sworn in 3/18/26; term to 2029); member of the ad hoc School Reconfiguration Exploratory Committee and of the bylaws working group (identified by 'I've only been on the board now two weeks' - only he and Mr. Rapp were sworn in on 3/18/26 - and by the 'I got a couple of things' opener he uses earlier in this meeting and in the shipped 5/6, 5/20 and 6/3/26 dialogues; the diarizer placed these segments in Mr. Petrin's cluster, so the attribution rests on content, not on the cluster)"
+  },
+  "1047": {
+   "name": "Don Lavalette",
+   "role": "School Board Member (sworn in 3/18/26; term to 2029); member of the ad hoc School Reconfiguration Exploratory Committee and of the bylaws working group (identified by 'I've only been on the board now two weeks' - only he and Mr. Rapp were sworn in on 3/18/26 - and by the 'I got a couple of things' opener he uses earlier in this meeting and in the shipped 5/6, 5/20 and 6/3/26 dialogues; the diarizer placed these segments in Mr. Petrin's cluster, so the attribution rests on content, not on the cluster)"
+  },
+  "1048": {
+   "name": "Don Lavalette",
+   "role": "School Board Member (sworn in 3/18/26; term to 2029); member of the ad hoc School Reconfiguration Exploratory Committee and of the bylaws working group (identified by 'I've only been on the board now two weeks' - only he and Mr. Rapp were sworn in on 3/18/26 - and by the 'I got a couple of things' opener he uses earlier in this meeting and in the shipped 5/6, 5/20 and 6/3/26 dialogues; the diarizer placed these segments in Mr. Petrin's cluster, so the attribution rests on content, not on the cluster)"
+  },
+  "1049": {
+   "name": "Don Lavalette",
+   "role": "School Board Member (sworn in 3/18/26; term to 2029); member of the ad hoc School Reconfiguration Exploratory Committee and of the bylaws working group (identified by 'I've only been on the board now two weeks' - only he and Mr. Rapp were sworn in on 3/18/26 - and by the 'I got a couple of things' opener he uses earlier in this meeting and in the shipped 5/6, 5/20 and 6/3/26 dialogues; the diarizer placed these segments in Mr. Petrin's cluster, so the attribution rests on content, not on the cluster)"
+  },
+  "1055": {
+   "name": "Don Lavalette",
+   "role": "School Board Member (sworn in 3/18/26; term to 2029); member of the ad hoc School Reconfiguration Exploratory Committee and of the bylaws working group (identified by 'I've only been on the board now two weeks' - only he and Mr. Rapp were sworn in on 3/18/26 - and by the 'I got a couple of things' opener he uses earlier in this meeting and in the shipped 5/6, 5/20 and 6/3/26 dialogues; the diarizer placed these segments in Mr. Petrin's cluster, so the attribution rests on content, not on the cluster)"
+  },
+  "1073": {
+   "name": "Multiple",
+   "role": "Voice vote / group recitation (chorus captured as one voice)"
+  }
+ }
+}

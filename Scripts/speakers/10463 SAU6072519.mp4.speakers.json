@@ -1,0 +1,202 @@
+{
+ "Speaker 1": {
+  "name": "Unidentified",
+  "role": "Unidentified - catch-all cluster of short responses from many voices (pledge, ayes, clipped onsets); attributable fragments reassigned per segment"
+ },
+ "Speaker 2": {
+  "name": "Mary Woodman",
+  "role": "School district clerk and recording secretary (roll caller; not named on this recording, attribution from her standing role)"
+ },
+ "Speaker 3": {
+  "name": "Marjorie Erickson",
+  "role": "SAU 6 Board Vice Chair (Unity), presiding (uncertain - never named; refers to 'Mike Patron' in the third person [257] and to Claremont as 'you guys' [131],[263])"
+ },
+ "Speaker 4": {
+  "name": "Jason Benware",
+  "role": "Claremont School Board member (uncertain - no name cue; motion maker, asks 'what you were going to say, Rob?' [49], admin-to-teachers remark matches his 7/30/19 statement)"
+ },
+ "Speaker 5": {
+  "name": "Heather Whitney",
+  "role": "Claremont School Board member"
+ },
+ "Speaker 6": {
+  "name": "Michael Tempesta",
+  "role": "Superintendent, SAU 6"
+ },
+ "Speaker 7": {
+  "name": "Frank Sprague",
+  "role": "Claremont School Board Chair; SAU 6 Board member"
+ },
+ "Speaker 8": {
+  "name": "Donna Magoon",
+  "role": "Assistant Superintendent nominee, SAU 6 (Tempesta: 'Donna McGowan' [80]; surname per roster)"
+ },
+ "Speaker 9": {
+  "name": "Rebecca Zullo",
+  "role": "Claremont School Board Vice Chair"
+ },
+ "Speaker 10": {
+  "name": "Unidentified",
+  "role": "Unidentified - short fragments from several voices; attributable onsets reassigned per segment"
+ },
+ "Speaker 11": {
+  "name": "Carolyn Towle",
+  "role": "Claremont School Board member; SAU 6 treasurer (self-described)"
+ },
+ "Speaker 12": {
+  "name": "Courtney Porter",
+  "role": "School social worker and McKinney-Vento homeless liaison, Claremont School District"
+ },
+ "Speaker 13": {
+  "name": "Unidentified",
+  "role": "Unidentified - mixes Courtney Porter fragments with other voices; Porter segments reassigned"
+ },
+ "Speaker 14": {
+  "name": "Courtney Porter",
+  "role": "School social worker and McKinney-Vento homeless liaison, Claremont School District"
+ },
+ "Speaker 15": {
+  "name": "Unidentified",
+  "role": "Unidentified - single question about meeting dates"
+ },
+ "__overrides__": {
+  "31": {
+   "name": "Heather Whitney"
+  },
+  "33": {
+   "name": "Heather Whitney"
+  },
+  "35": {
+   "name": "Heather Whitney"
+  },
+  "37": {
+   "name": "Heather Whitney"
+  },
+  "55": {
+   "name": "Heather Whitney"
+  },
+  "58": {
+   "name": "Heather Whitney"
+  },
+  "60": {
+   "name": "Heather Whitney"
+  },
+  "62": {
+   "name": "Heather Whitney"
+  },
+  "64": {
+   "name": "Heather Whitney"
+  },
+  "67": {
+   "name": "Heather Whitney"
+  },
+  "233": {
+   "name": "Heather Whitney"
+  },
+  "243": {
+   "name": "Heather Whitney"
+  },
+  "246": {
+   "name": "Heather Whitney"
+  },
+  "5": {
+   "name": "Rob Lovett Jr.",
+   "role": "Claremont School Board member"
+  },
+  "38": {
+   "name": "Rob Lovett Jr.",
+   "role": "Claremont School Board member"
+  },
+  "50": {
+   "name": "Rob Lovett Jr.",
+   "role": "Claremont School Board member"
+  },
+  "77": {
+   "name": "Michael Tempesta"
+  },
+  "101": {
+   "name": "Michael Tempesta"
+  },
+  "106": {
+   "name": "Michael Tempesta"
+  },
+  "153": {
+   "name": "Michael Tempesta"
+  },
+  "160": {
+   "name": "Michael Tempesta"
+  },
+  "181": {
+   "name": "Michael Tempesta"
+  },
+  "84": {
+   "name": "Frank Sprague"
+  },
+  "194": {
+   "name": "Frank Sprague"
+  },
+  "265": {
+   "name": "Frank Sprague"
+  },
+  "136": {
+   "name": "Jason Benware"
+  },
+  "138": {
+   "name": "Jason Benware"
+  },
+  "140": {
+   "name": "Jason Benware"
+  },
+  "146": {
+   "name": "Jason Benware"
+  },
+  "212": {
+   "name": "Jason Benware"
+  },
+  "248": {
+   "name": "Jason Benware"
+  },
+  "270": {
+   "name": "Jason Benware"
+  },
+  "273": {
+   "name": "Jason Benware"
+  },
+  "23": {
+   "name": "Marjorie Erickson"
+  },
+  "171": {
+   "name": "Marjorie Erickson"
+  },
+  "251": {
+   "name": "Marjorie Erickson"
+  },
+  "253": {
+   "name": "Marjorie Erickson"
+  },
+  "175": {
+   "name": "Rebecca Zullo"
+  },
+  "183": {
+   "name": "Courtney Porter"
+  },
+  "230": {
+   "name": "Courtney Porter"
+  },
+  "241": {
+   "name": "Courtney Porter"
+  },
+  "198": {
+   "name": "Courtney Porter"
+  },
+  "201": {
+   "name": "Courtney Porter"
+  },
+  "232": {
+   "name": "Courtney Porter"
+  },
+  "244": {
+   "name": "Courtney Porter"
+  }
+ }
+}

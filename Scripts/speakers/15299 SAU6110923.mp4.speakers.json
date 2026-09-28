@@ -1,0 +1,320 @@
+{
+  "Speaker 1": {
+    "name": "Arlene Hawkins",
+    "role": "SAU 6 Joint Board Chair; Claremont School Board member - presides throughout. Dr. David Ryan says 'Chair Hawkins' twice (1928.5s, 1944.8s) and 'Madam Chair' at 3005.4s; Marjorie Erickson's motion at 1394.3s names 'Miss Crawford, Miss Simpson and Miss Hawkins' for the policy subcommittee seconds after this voice described that trio as 'Candice, Kelly and myself'"
+  },
+  "Speaker 2": {
+    "name": "Unidentified",
+    "role": "Board-table crosstalk: short overlapping fragments during the clerk-appointment confusion and the budget discussion that cannot be tied to a single voice. This diarized cluster is a merge of several people (the roll reader, Chair Hawkins, Heather Whitney and others); every individually attributable segment in it has been reassigned"
+  },
+  "Speaker 3": {
+    "name": "Michael Tempesta",
+    "role": "Superintendent of Schools, SAU 6 - the chair hands him the floor at 99.0s ('and Mr. Tempesta') and he introduces the school-board-clerk candidate he had interviewed that day; the chair recognises 'Mike.' at 3556.5s immediately before his closing question. Fired by this board 1/11/2024, two months later"
+  },
+  "Speaker 4": {
+    "name": "Unidentified",
+    "role": "SAU 6 board member, never named or addressed on the recording. This voice presses on whether the school-board clerk is one position or two, then moves the amendment recording that the board's goal-setting does not follow the superintendent's contract or the approved policy. Best fit on subject matter and role is Rocco Ruggeri (Unity; SAU 6 vice chair; member of the superintendent-evaluation subcommittee), but there is no name anchor, and Hart or Skillen - the other subcommittee members - are not excluded"
+  },
+  "Speaker 5": {
+    "name": "Unidentified",
+    "role": "SAU 6 board member, never named or addressed on the recording. This voice presses on whether the school-board clerk is one position or two, then moves the amendment recording that the board's goal-setting does not follow the superintendent's contract or the approved policy. Best fit on subject matter and role is Rocco Ruggeri (Unity; SAU 6 vice chair; member of the superintendent-evaluation subcommittee), but there is no name anchor, and Hart or Skillen - the other subcommittee members - are not excluded"
+  },
+  "Speaker 6": {
+    "name": "Unidentified",
+    "role": "Unity-side SAU 6 board member - says 'We do unity at 530' at 1206.2s when the December 7 special meeting time is set, and says of the October 12 minutes 'I just saw my name on there and I was like, I was not here.' Never named on the recording; Erickson is separately identified, leaving Ruggeri, Popescu, Simpson and Hart as candidates"
+  },
+  "Speaker 7": {
+    "name": "Jennifer Gallagher",
+    "role": "SAU 6 board member (Claremont) - the chair says 'Jen.' at 520.6s in the gap between this voice's motion to accept the minutes and its next segment; Jennifer Gallagher is the only Jen on this board"
+  },
+  "Speaker 8": {
+    "name": "Ben Nester",
+    "role": "Director of Special Education, SAU 6 - Heather Whitney asks 'if Ben could talk to us about what this assistant special education director would do' at 972.2s and 'Ben, could you speak up?' at 995.3s immediately before this voice, which then speaks throughout as the special-education supervisor"
+  },
+  "Speaker 9": {
+    "name": "Heather Whitney",
+    "role": "Claremont School Board Chair; SAU 6 board member - the chair recognises 'Heather,' at 968.3s and 1170.3s immediately before this voice, which is the questioner pressing Ben Nester on the proposed assistant special education director"
+  },
+  "Speaker 10": {
+    "name": "Candace Crawford",
+    "role": "SAU 6 board member (Claremont) - the chair recognises 'Candice.'/'Candace.' at 1281.4s, 3045.3s and 3511.7s immediately before this voice, and Dr. Ryan says 'Yes. Miss Crawford.' at 2012.7s"
+  },
+  "Speaker 11": {
+    "name": "Arlene Hawkins",
+    "role": "SAU 6 Joint Board Chair; Claremont School Board member - presides throughout. Dr. David Ryan says 'Chair Hawkins' twice (1928.5s, 1944.8s) and 'Madam Chair' at 3005.4s; Marjorie Erickson's motion at 1394.3s names 'Miss Crawford, Miss Simpson and Miss Hawkins' for the policy subcommittee seconds after this voice described that trio as 'Candice, Kelly and myself'"
+  },
+  "Speaker 12": {
+    "name": "Marjorie Erickson",
+    "role": "Unity School Board Chair; SAU 6 board member - the chair asks 'Answer your question, Marjorie?' at 3538.7s immediately after this voice, and it is the voice that moves the policy-subcommittee nomination the chair had just asked for"
+  },
+  "Speaker 13": {
+    "name": "David Ryan",
+    "role": "Dr. David Ryan, outside facilitator hired by this board 8/17/23 at not more than $5,000 to run the superintendent goal-setting - the chair turns the meeting over to 'David Ryan, our facilitator' at 1493.2s, reads his credentials, and thanks 'David' at 3029.0s"
+  },
+  "Speaker 14": {
+    "name": "Unidentified",
+    "role": "Two-segment diarized cluster; both of its segments are onsets/continuations of other speakers' sentences and have been reassigned"
+  },
+  "Speaker 15": {
+    "name": "Arlene Hawkins",
+    "role": "SAU 6 Joint Board Chair; Claremont School Board member - presides throughout. Dr. David Ryan says 'Chair Hawkins' twice (1928.5s, 1944.8s) and 'Madam Chair' at 3005.4s; Marjorie Erickson's motion at 1394.3s names 'Miss Crawford, Miss Simpson and Miss Hawkins' for the policy subcommittee seconds after this voice described that trio as 'Candice, Kelly and myself'"
+  },
+  "__overrides__": {
+    "75": {
+      "name": "Mary Henry",
+      "role": "SAU 6 Business Administrator - the chair introduces 'a budget review by Mary Henry' at 554.1s; this voice presents the draft SAU budget, says 'I wasn't here to do it' about last year's figures, and addresses the chair as 'Arlene' at 822.3s"
+    },
+    "76": {
+      "name": "Mary Henry",
+      "role": "SAU 6 Business Administrator - the chair introduces 'a budget review by Mary Henry' at 554.1s; this voice presents the draft SAU budget, says 'I wasn't here to do it' about last year's figures, and addresses the chair as 'Arlene' at 822.3s"
+    },
+    "77": {
+      "name": "Mary Henry",
+      "role": "SAU 6 Business Administrator - the chair introduces 'a budget review by Mary Henry' at 554.1s; this voice presents the draft SAU budget, says 'I wasn't here to do it' about last year's figures, and addresses the chair as 'Arlene' at 822.3s"
+    },
+    "78": {
+      "name": "Mary Henry",
+      "role": "SAU 6 Business Administrator - the chair introduces 'a budget review by Mary Henry' at 554.1s; this voice presents the draft SAU budget, says 'I wasn't here to do it' about last year's figures, and addresses the chair as 'Arlene' at 822.3s"
+    },
+    "79": {
+      "name": "Mary Henry",
+      "role": "SAU 6 Business Administrator - the chair introduces 'a budget review by Mary Henry' at 554.1s; this voice presents the draft SAU budget, says 'I wasn't here to do it' about last year's figures, and addresses the chair as 'Arlene' at 822.3s"
+    },
+    "80": {
+      "name": "Mary Henry",
+      "role": "SAU 6 Business Administrator - the chair introduces 'a budget review by Mary Henry' at 554.1s; this voice presents the draft SAU budget, says 'I wasn't here to do it' about last year's figures, and addresses the chair as 'Arlene' at 822.3s"
+    },
+    "81": {
+      "name": "Mary Henry",
+      "role": "SAU 6 Business Administrator - the chair introduces 'a budget review by Mary Henry' at 554.1s; this voice presents the draft SAU budget, says 'I wasn't here to do it' about last year's figures, and addresses the chair as 'Arlene' at 822.3s"
+    },
+    "82": {
+      "name": "Mary Henry",
+      "role": "SAU 6 Business Administrator - the chair introduces 'a budget review by Mary Henry' at 554.1s; this voice presents the draft SAU budget, says 'I wasn't here to do it' about last year's figures, and addresses the chair as 'Arlene' at 822.3s"
+    },
+    "83": {
+      "name": "Mary Henry",
+      "role": "SAU 6 Business Administrator - the chair introduces 'a budget review by Mary Henry' at 554.1s; this voice presents the draft SAU budget, says 'I wasn't here to do it' about last year's figures, and addresses the chair as 'Arlene' at 822.3s"
+    },
+    "84": {
+      "name": "Mary Henry",
+      "role": "SAU 6 Business Administrator - the chair introduces 'a budget review by Mary Henry' at 554.1s; this voice presents the draft SAU budget, says 'I wasn't here to do it' about last year's figures, and addresses the chair as 'Arlene' at 822.3s"
+    },
+    "85": {
+      "name": "Mary Henry",
+      "role": "SAU 6 Business Administrator - the chair introduces 'a budget review by Mary Henry' at 554.1s; this voice presents the draft SAU budget, says 'I wasn't here to do it' about last year's figures, and addresses the chair as 'Arlene' at 822.3s"
+    },
+    "87": {
+      "name": "Mary Henry",
+      "role": "SAU 6 Business Administrator - the chair introduces 'a budget review by Mary Henry' at 554.1s; this voice presents the draft SAU budget, says 'I wasn't here to do it' about last year's figures, and addresses the chair as 'Arlene' at 822.3s"
+    },
+    "88": {
+      "name": "Mary Henry",
+      "role": "SAU 6 Business Administrator - the chair introduces 'a budget review by Mary Henry' at 554.1s; this voice presents the draft SAU budget, says 'I wasn't here to do it' about last year's figures, and addresses the chair as 'Arlene' at 822.3s"
+    },
+    "90": {
+      "name": "Mary Henry",
+      "role": "SAU 6 Business Administrator - the chair introduces 'a budget review by Mary Henry' at 554.1s; this voice presents the draft SAU budget, says 'I wasn't here to do it' about last year's figures, and addresses the chair as 'Arlene' at 822.3s"
+    },
+    "92": {
+      "name": "Mary Henry",
+      "role": "SAU 6 Business Administrator - the chair introduces 'a budget review by Mary Henry' at 554.1s; this voice presents the draft SAU budget, says 'I wasn't here to do it' about last year's figures, and addresses the chair as 'Arlene' at 822.3s"
+    },
+    "95": {
+      "name": "Mary Henry",
+      "role": "SAU 6 Business Administrator - the chair introduces 'a budget review by Mary Henry' at 554.1s; this voice presents the draft SAU budget, says 'I wasn't here to do it' about last year's figures, and addresses the chair as 'Arlene' at 822.3s"
+    },
+    "97": {
+      "name": "Mary Henry",
+      "role": "SAU 6 Business Administrator - the chair introduces 'a budget review by Mary Henry' at 554.1s; this voice presents the draft SAU budget, says 'I wasn't here to do it' about last year's figures, and addresses the chair as 'Arlene' at 822.3s"
+    },
+    "99": {
+      "name": "Mary Henry",
+      "role": "SAU 6 Business Administrator - the chair introduces 'a budget review by Mary Henry' at 554.1s; this voice presents the draft SAU budget, says 'I wasn't here to do it' about last year's figures, and addresses the chair as 'Arlene' at 822.3s"
+    },
+    "101": {
+      "name": "Mary Henry",
+      "role": "SAU 6 Business Administrator - the chair introduces 'a budget review by Mary Henry' at 554.1s; this voice presents the draft SAU budget, says 'I wasn't here to do it' about last year's figures, and addresses the chair as 'Arlene' at 822.3s"
+    },
+    "41": {
+      "name": "Frank Sprague",
+      "role": "SAU 6 board member; Claremont School Board Vice Chair - answers the roll at 67.3s ('Frank Sprague here') and the chair asks 'Frank, did you have your hand up?' at 3582.6s. THIS ATTRIBUTION IS INFERRED, not anchored: it is the second, non-Tempesta voice inside a merged male cluster (this diarizer merges same-sex voices); the speaker names Rocco Ruggeri in the third person at 905.0s so he is not Ruggeri; Sprague and Ruggeri are the only two men on this board; and the demand for per-employee salary history matches Sprague's documented pattern in the 8/17/23 recording"
+    },
+    "89": {
+      "name": "Frank Sprague",
+      "role": "SAU 6 board member; Claremont School Board Vice Chair - answers the roll at 67.3s ('Frank Sprague here') and the chair asks 'Frank, did you have your hand up?' at 3582.6s. THIS ATTRIBUTION IS INFERRED, not anchored: it is the second, non-Tempesta voice inside a merged male cluster (this diarizer merges same-sex voices); the speaker names Rocco Ruggeri in the third person at 905.0s so he is not Ruggeri; Sprague and Ruggeri are the only two men on this board; and the demand for per-employee salary history matches Sprague's documented pattern in the 8/17/23 recording"
+    },
+    "91": {
+      "name": "Frank Sprague",
+      "role": "SAU 6 board member; Claremont School Board Vice Chair - answers the roll at 67.3s ('Frank Sprague here') and the chair asks 'Frank, did you have your hand up?' at 3582.6s. THIS ATTRIBUTION IS INFERRED, not anchored: it is the second, non-Tempesta voice inside a merged male cluster (this diarizer merges same-sex voices); the speaker names Rocco Ruggeri in the third person at 905.0s so he is not Ruggeri; Sprague and Ruggeri are the only two men on this board; and the demand for per-employee salary history matches Sprague's documented pattern in the 8/17/23 recording"
+    },
+    "93": {
+      "name": "Frank Sprague",
+      "role": "SAU 6 board member; Claremont School Board Vice Chair - answers the roll at 67.3s ('Frank Sprague here') and the chair asks 'Frank, did you have your hand up?' at 3582.6s. THIS ATTRIBUTION IS INFERRED, not anchored: it is the second, non-Tempesta voice inside a merged male cluster (this diarizer merges same-sex voices); the speaker names Rocco Ruggeri in the third person at 905.0s so he is not Ruggeri; Sprague and Ruggeri are the only two men on this board; and the demand for per-employee salary history matches Sprague's documented pattern in the 8/17/23 recording"
+    },
+    "119": {
+      "name": "Frank Sprague",
+      "role": "SAU 6 board member; Claremont School Board Vice Chair - answers the roll at 67.3s ('Frank Sprague here') and the chair asks 'Frank, did you have your hand up?' at 3582.6s. THIS ATTRIBUTION IS INFERRED, not anchored: it is the second, non-Tempesta voice inside a merged male cluster (this diarizer merges same-sex voices); the speaker names Rocco Ruggeri in the third person at 905.0s so he is not Ruggeri; Sprague and Ruggeri are the only two men on this board; and the demand for per-employee salary history matches Sprague's documented pattern in the 8/17/23 recording"
+    },
+    "121": {
+      "name": "Frank Sprague",
+      "role": "SAU 6 board member; Claremont School Board Vice Chair - answers the roll at 67.3s ('Frank Sprague here') and the chair asks 'Frank, did you have your hand up?' at 3582.6s. THIS ATTRIBUTION IS INFERRED, not anchored: it is the second, non-Tempesta voice inside a merged male cluster (this diarizer merges same-sex voices); the speaker names Rocco Ruggeri in the third person at 905.0s so he is not Ruggeri; Sprague and Ruggeri are the only two men on this board; and the demand for per-employee salary history matches Sprague's documented pattern in the 8/17/23 recording"
+    },
+    "123": {
+      "name": "Frank Sprague",
+      "role": "SAU 6 board member; Claremont School Board Vice Chair - answers the roll at 67.3s ('Frank Sprague here') and the chair asks 'Frank, did you have your hand up?' at 3582.6s. THIS ATTRIBUTION IS INFERRED, not anchored: it is the second, non-Tempesta voice inside a merged male cluster (this diarizer merges same-sex voices); the speaker names Rocco Ruggeri in the third person at 905.0s so he is not Ruggeri; Sprague and Ruggeri are the only two men on this board; and the demand for per-employee salary history matches Sprague's documented pattern in the 8/17/23 recording"
+    },
+    "125": {
+      "name": "Frank Sprague",
+      "role": "SAU 6 board member; Claremont School Board Vice Chair - answers the roll at 67.3s ('Frank Sprague here') and the chair asks 'Frank, did you have your hand up?' at 3582.6s. THIS ATTRIBUTION IS INFERRED, not anchored: it is the second, non-Tempesta voice inside a merged male cluster (this diarizer merges same-sex voices); the speaker names Rocco Ruggeri in the third person at 905.0s so he is not Ruggeri; Sprague and Ruggeri are the only two men on this board; and the demand for per-employee salary history matches Sprague's documented pattern in the 8/17/23 recording"
+    },
+    "127": {
+      "name": "Frank Sprague",
+      "role": "SAU 6 board member; Claremont School Board Vice Chair - answers the roll at 67.3s ('Frank Sprague here') and the chair asks 'Frank, did you have your hand up?' at 3582.6s. THIS ATTRIBUTION IS INFERRED, not anchored: it is the second, non-Tempesta voice inside a merged male cluster (this diarizer merges same-sex voices); the speaker names Rocco Ruggeri in the third person at 905.0s so he is not Ruggeri; Sprague and Ruggeri are the only two men on this board; and the demand for per-employee salary history matches Sprague's documented pattern in the 8/17/23 recording"
+    },
+    "8": {
+      "name": "Michael Tempesta",
+      "role": "Superintendent of Schools, SAU 6 - the chair hands him the floor at 99.0s ('and Mr. Tempesta') and he introduces the school-board-clerk candidate he had interviewed that day; the chair recognises 'Mike.' at 3556.5s immediately before his closing question. Fired by this board 1/11/2024, two months later"
+    },
+    "312": {
+      "name": "Michael Tempesta",
+      "role": "Superintendent of Schools, SAU 6 - the chair hands him the floor at 99.0s ('and Mr. Tempesta') and he introduces the school-board-clerk candidate he had interviewed that day; the chair recognises 'Mike.' at 3556.5s immediately before his closing question. Fired by this board 1/11/2024, two months later"
+    },
+    "314": {
+      "name": "Michael Tempesta",
+      "role": "Superintendent of Schools, SAU 6 - the chair hands him the floor at 99.0s ('and Mr. Tempesta') and he introduces the school-board-clerk candidate he had interviewed that day; the chair recognises 'Mike.' at 3556.5s immediately before his closing question. Fired by this board 1/11/2024, two months later"
+    },
+    "315": {
+      "name": "Michael Tempesta",
+      "role": "Superintendent of Schools, SAU 6 - the chair hands him the floor at 99.0s ('and Mr. Tempesta') and he introduces the school-board-clerk candidate he had interviewed that day; the chair recognises 'Mike.' at 3556.5s immediately before his closing question. Fired by this board 1/11/2024, two months later"
+    },
+    "104": {
+      "name": "Ben Nester",
+      "role": "Director of Special Education, SAU 6 - Heather Whitney asks 'if Ben could talk to us about what this assistant special education director would do' at 972.2s and 'Ben, could you speak up?' at 995.3s immediately before this voice, which then speaks throughout as the special-education supervisor"
+    },
+    "105": {
+      "name": "Ben Nester",
+      "role": "Director of Special Education, SAU 6 - Heather Whitney asks 'if Ben could talk to us about what this assistant special education director would do' at 972.2s and 'Ben, could you speak up?' at 995.3s immediately before this voice, which then speaks throughout as the special-education supervisor"
+    },
+    "103": {
+      "name": "Heather Whitney",
+      "role": "Claremont School Board Chair; SAU 6 board member - the chair recognises 'Heather,' at 968.3s and 1170.3s immediately before this voice, which is the questioner pressing Ben Nester on the proposed assistant special education director"
+    },
+    "107": {
+      "name": "Heather Whitney",
+      "role": "Claremont School Board Chair; SAU 6 board member - the chair recognises 'Heather,' at 968.3s and 1170.3s immediately before this voice, which is the questioner pressing Ben Nester on the proposed assistant special education director"
+    },
+    "109": {
+      "name": "Heather Whitney",
+      "role": "Claremont School Board Chair; SAU 6 board member - the chair recognises 'Heather,' at 968.3s and 1170.3s immediately before this voice, which is the questioner pressing Ben Nester on the proposed assistant special education director"
+    },
+    "111": {
+      "name": "Heather Whitney",
+      "role": "Claremont School Board Chair; SAU 6 board member - the chair recognises 'Heather,' at 968.3s and 1170.3s immediately before this voice, which is the questioner pressing Ben Nester on the proposed assistant special education director"
+    },
+    "137": {
+      "name": "Heather Whitney",
+      "role": "Claremont School Board Chair; SAU 6 board member - the chair recognises 'Heather,' at 968.3s and 1170.3s immediately before this voice, which is the questioner pressing Ben Nester on the proposed assistant special education director"
+    },
+    "53": {
+      "name": "Arlene Hawkins",
+      "role": "SAU 6 Joint Board Chair; Claremont School Board member - presides throughout. Dr. David Ryan says 'Chair Hawkins' twice (1928.5s, 1944.8s) and 'Madam Chair' at 3005.4s; Marjorie Erickson's motion at 1394.3s names 'Miss Crawford, Miss Simpson and Miss Hawkins' for the policy subcommittee seconds after this voice described that trio as 'Candice, Kelly and myself'"
+    },
+    "96": {
+      "name": "Arlene Hawkins",
+      "role": "SAU 6 Joint Board Chair; Claremont School Board member - presides throughout. Dr. David Ryan says 'Chair Hawkins' twice (1928.5s, 1944.8s) and 'Madam Chair' at 3005.4s; Marjorie Erickson's motion at 1394.3s names 'Miss Crawford, Miss Simpson and Miss Hawkins' for the policy subcommittee seconds after this voice described that trio as 'Candice, Kelly and myself'"
+    },
+    "98": {
+      "name": "Arlene Hawkins",
+      "role": "SAU 6 Joint Board Chair; Claremont School Board member - presides throughout. Dr. David Ryan says 'Chair Hawkins' twice (1928.5s, 1944.8s) and 'Madam Chair' at 3005.4s; Marjorie Erickson's motion at 1394.3s names 'Miss Crawford, Miss Simpson and Miss Hawkins' for the policy subcommittee seconds after this voice described that trio as 'Candice, Kelly and myself'"
+    },
+    "133": {
+      "name": "Candace Crawford",
+      "role": "SAU 6 board member (Claremont) - the chair recognises 'Candice.'/'Candace.' at 1281.4s, 3045.3s and 3511.7s immediately before this voice, and Dr. Ryan says 'Yes. Miss Crawford.' at 2012.7s"
+    },
+    "202": {
+      "name": "Candace Crawford",
+      "role": "SAU 6 board member (Claremont) - the chair recognises 'Candice.'/'Candace.' at 1281.4s, 3045.3s and 3511.7s immediately before this voice, and Dr. Ryan says 'Yes. Miss Crawford.' at 2012.7s"
+    },
+    "204": {
+      "name": "Candace Crawford",
+      "role": "SAU 6 board member (Claremont) - the chair recognises 'Candice.'/'Candace.' at 1281.4s, 3045.3s and 3511.7s immediately before this voice, and Dr. Ryan says 'Yes. Miss Crawford.' at 2012.7s"
+    },
+    "256": {
+      "name": "Candace Crawford",
+      "role": "SAU 6 board member (Claremont) - the chair recognises 'Candice.'/'Candace.' at 1281.4s, 3045.3s and 3511.7s immediately before this voice, and Dr. Ryan says 'Yes. Miss Crawford.' at 2012.7s"
+    },
+    "166": {
+      "name": "Marjorie Erickson",
+      "role": "Unity School Board Chair; SAU 6 board member - the chair asks 'Answer your question, Marjorie?' at 3538.7s immediately after this voice, and it is the voice that moves the policy-subcommittee nomination the chair had just asked for"
+    },
+    "273": {
+      "name": "Marjorie Erickson",
+      "role": "Unity School Board Chair; SAU 6 board member - the chair asks 'Answer your question, Marjorie?' at 3538.7s immediately after this voice, and it is the voice that moves the policy-subcommittee nomination the chair had just asked for"
+    },
+    "179": {
+      "name": "David Ryan",
+      "role": "Dr. David Ryan, outside facilitator hired by this board 8/17/23 at not more than $5,000 to run the superintendent goal-setting - the chair turns the meeting over to 'David Ryan, our facilitator' at 1493.2s, reads his credentials, and thanks 'David' at 3029.0s"
+    },
+    "181": {
+      "name": "David Ryan",
+      "role": "Dr. David Ryan, outside facilitator hired by this board 8/17/23 at not more than $5,000 to run the superintendent goal-setting - the chair turns the meeting over to 'David Ryan, our facilitator' at 1493.2s, reads his credentials, and thanks 'David' at 3029.0s"
+    },
+    "184": {
+      "name": "David Ryan",
+      "role": "Dr. David Ryan, outside facilitator hired by this board 8/17/23 at not more than $5,000 to run the superintendent goal-setting - the chair turns the meeting over to 'David Ryan, our facilitator' at 1493.2s, reads his credentials, and thanks 'David' at 3029.0s"
+    },
+    "187": {
+      "name": "David Ryan",
+      "role": "Dr. David Ryan, outside facilitator hired by this board 8/17/23 at not more than $5,000 to run the superintendent goal-setting - the chair turns the meeting over to 'David Ryan, our facilitator' at 1493.2s, reads his credentials, and thanks 'David' at 3029.0s"
+    },
+    "253": {
+      "name": "David Ryan",
+      "role": "Dr. David Ryan, outside facilitator hired by this board 8/17/23 at not more than $5,000 to run the superintendent goal-setting - the chair turns the meeting over to 'David Ryan, our facilitator' at 1493.2s, reads his credentials, and thanks 'David' at 3029.0s"
+    },
+    "260": {
+      "name": "David Ryan",
+      "role": "Dr. David Ryan, outside facilitator hired by this board 8/17/23 at not more than $5,000 to run the superintendent goal-setting - the chair turns the meeting over to 'David Ryan, our facilitator' at 1493.2s, reads his credentials, and thanks 'David' at 3029.0s"
+    },
+    "271": {
+      "name": "David Ryan",
+      "role": "Dr. David Ryan, outside facilitator hired by this board 8/17/23 at not more than $5,000 to run the superintendent goal-setting - the chair turns the meeting over to 'David Ryan, our facilitator' at 1493.2s, reads his credentials, and thanks 'David' at 3029.0s"
+    },
+    "4": {
+      "name": "Unidentified",
+      "role": "Reads the attendance roll after the chair asks for 'the secretary's roll call of attendance'; never named or addressed on the recording. The SAU 6 board had no clerk until this meeting appointed one, so the reader is not the clerk; Chelsea Weatherford (SAU 6 executive assistant, who keeps these minutes) and Ben Nester (the board's de facto roll reader in this era) both fit and the tape does not choose. Members' spoken answers are absorbed into the same segments"
+    },
+    "6": {
+      "name": "Unidentified",
+      "role": "Reads the attendance roll after the chair asks for 'the secretary's roll call of attendance'; never named or addressed on the recording. The SAU 6 board had no clerk until this meeting appointed one, so the reader is not the clerk; Chelsea Weatherford (SAU 6 executive assistant, who keeps these minutes) and Ben Nester (the board's de facto roll reader in this era) both fit and the tape does not choose. Members' spoken answers are absorbed into the same segments"
+    },
+    "100": {
+      "name": "Unidentified",
+      "role": "Segment merges two voices and cannot be split: it opens with the chair closing the budget item ('Any questions or I wonders or whatever else that you may have in preparation for our next meeting. That would be great.') and continues with an unnamed board member's follow-up about the ESSER-funded staff accountant and the $126,000 moving into the SAU budget, with Mary Henry's 'Correct.' absorbed"
+    },
+    "145": {
+      "name": "Unidentified",
+      "role": "Unity-side SAU 6 board member - says 'We do unity at 530' at 1206.2s when the December 7 special meeting time is set, and says of the October 12 minutes 'I just saw my name on there and I was like, I was not here.' Never named on the recording; Erickson is separately identified, leaving Ruggeri, Popescu, Simpson and Hart as candidates"
+    },
+    "140": {
+      "name": "Unidentified",
+      "role": "Voice at the board table answering the chair's question about starting the December 7 meeting at 6:00; falls inside Ben Nester's diarized cluster but is not separable from the other men at the table"
+    },
+    "143": {
+      "name": "Unidentified",
+      "role": "Voice at the board table answering the chair's question about starting the December 7 meeting at 6:00; falls inside Ben Nester's diarized cluster but is not separable from the other men at the table"
+    },
+    "279": {
+      "name": "Unidentified",
+      "role": "Single-word interjection inside a merged cluster; the voice is not separable from the surrounding speakers"
+    },
+    "303": {
+      "name": "Unidentified",
+      "role": "Single-word interjection inside a merged cluster; the voice is not separable from the surrounding speakers"
+    },
+    "334": {
+      "name": "Unidentified",
+      "role": "A board member's 'Aye' on the motion to adjourn; the individual voice is not identifiable"
+    }
+  }
+}

@@ -1,0 +1,20 @@
+{
+ "Speaker 1": {"name": "Unidentified", "role": "Unidentified - two short fragments"},
+ "Speaker 2": {"name": "Richard Seaman", "role": "Claremont School Board Chair (presides; addressed 'Richard' by the superintendent)"},
+ "Speaker 3": {"name": "Unidentified", "role": "Unidentified - cluster of short interjections and group responses from several board members"},
+ "Speaker 4": {"name": "Mary Woodman", "role": "School District Clerk and board recording secretary"},
+ "Speaker 5": {"name": "Unidentified", "role": "Unidentified - Claremont School Board member who moves the agenda (not Brian Rapp, who seconds); name not on this recording"},
+ "Speaker 6": {"name": "Middleton McGoodwin", "role": "Superintendent, SAU 6"},
+ "Speaker 7": {"name": "Alex Scott", "role": "Claremont Police Chief (guest presenter on pre-employment drug screening)"},
+ "Speaker 8": {"name": "Brian Rapp", "role": "Claremont School Board member (uncertain - short cluster; answers the chair's 'Brian, do you have something?' and speaks for the fire department)"},
+ "Speaker 9": {"name": "Unidentified", "role": "Unidentified - single two-word fragment"},
+ "Speaker 10": {"name": "Chris Irish", "role": "Claremont School Board member"},
+ "Speaker 11": {"name": "John", "role": "Claremont School Board member (first name only on this recording; surname not stated)"},
+ "Speaker 12": {"name": "Brent Ferland", "role": "Claremont School Board member"},
+ "Speaker 13": {"name": "Cory LeClair", "role": "Assistant Superintendent, SAU 6"},
+ "Speaker 14": {"name": "Heather", "role": "Public commenter, parent of a Stevens High School student (first name only, from the chair's 'Heather'; surname not stated)"},
+ "Speaker 15": {"name": "Unidentified", "role": "Unidentified - board member asking about the warrant article procedure"},
+ "__overrides__": {
+  "74": {"name": "Brian Rapp", "role": "Claremont School Board member (uncertain - short cluster; answers the chair's 'Brian, do you have something?' and speaks for the fire department)"}
+ }
+}
