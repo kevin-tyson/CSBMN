@@ -1,0 +1,286 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>About the School Board Meeting Navigator | Claremont Community Television (CCTV) / Claremont Community Media Center (CCMC)</title>
+<meta name="description" content="What the Claremont School Board Meeting Navigator is, how Claremont residents can use it, and how its transcripts, summaries and review flags were produced.">
+<style>
+/* All rules are scoped to .csbmn so the block can be pasted into the
+   CCTV/CCMC site's content area without restyling the host page. */
+.csbmn {
+  --paper: #fdfdfb; --panel: #f3f6f8; --ink: #1a2733; --muted: #44535f;
+  --accent: #14558f; --accent-ink: #0f3f6b; --rule: #b9c6cf; --focus: #b3540d;
+  --high-bg: #f9e3de; --high-ink: #7c1d10; --high-rule: #c4826f;
+  --med-bg: #fdf3d4;  --med-ink: #5f4700;  --med-rule: #c2a24a;
+  --obs-bg: #e3edf6;  --obs-ink: #123f66;  --obs-rule: #7fa3c4;
+  --pos-bg: #e2f2e5;  --pos-ink: #175226;  --pos-rule: #74a983;
+  box-sizing: border-box;
+  max-width: 60rem;
+  margin: 0 auto;
+  padding: 0 1rem 2rem;
+  background: var(--paper);
+  color: var(--ink);
+  font-family: system-ui, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+  font-size: 1rem;
+  line-height: 1.5;
+}
+.csbmn *, .csbmn *::before, .csbmn *::after { box-sizing: inherit; }
+.csbmn .skip { position: absolute; left: -999px; top: 0; background: var(--accent-ink); color: #fff; padding: 0.5rem 0.9rem; z-index: 10; }
+.csbmn .skip:focus { left: 0.5rem; top: 0.5rem; }
+.csbmn h1 { font-size: 1.6rem; line-height: 1.2; margin: 1.1rem 0 0.3rem; color: var(--accent-ink); }
+.csbmn h2 { font-size: 1.2rem; margin: 1.8rem 0 0.5rem; padding-bottom: 0.15rem; border-bottom: 2px solid var(--rule); color: var(--accent-ink); }
+.csbmn h3 { font-size: 1.03rem; margin: 1.1rem 0 0.3rem; }
+.csbmn p { margin: 0.45rem 0; }
+.csbmn a { color: var(--accent); text-decoration: underline; }
+.csbmn a:hover { color: var(--accent-ink); }
+.csbmn a:focus-visible, .csbmn summary:focus-visible { outline: 3px solid var(--focus); outline-offset: 2px; border-radius: 2px; }
+.csbmn code { font-family: ui-monospace, "SF Mono", Consolas, Menlo, monospace; font-size: 0.88em; background: var(--panel); padding: 0 0.25em; border-radius: 3px; }
+.csbmn .subtitle { color: var(--muted); font-size: 1.02rem; margin: 0 0 0.8rem; }
+.csbmn .go {
+  display: inline-block; margin: 0.3rem 0 0.9rem; padding: 0.55rem 1rem;
+  background: var(--accent-ink); color: #fff; font-weight: 700; text-decoration: none; border-radius: 4px;
+}
+.csbmn .go:hover { background: var(--accent); color: #fff; }
+.csbmn .toc { display: flex; flex-wrap: wrap; gap: 0.2rem 1rem; align-items: baseline; font-size: 0.92rem; margin: 0 0 0.6rem; }
+.csbmn .toc-label { font-weight: 700; font-size: 0.78rem; text-transform: uppercase; letter-spacing: 0.04em; color: var(--muted); }
+.csbmn .toc ul { display: flex; flex-wrap: wrap; gap: 0.2rem 1rem; list-style: none; margin: 0; padding: 0; }
+.csbmn .facts {
+  display: grid; grid-template-columns: repeat(auto-fit, minmax(13rem, 1fr)); gap: 0.5rem 1.2rem;
+  background: var(--panel); border: 1px solid var(--rule); border-radius: 6px; padding: 0.7rem 0.9rem; margin: 0.8rem 0 0.4rem;
+}
+.csbmn .facts dt { font-weight: 700; font-size: 0.78rem; text-transform: uppercase; letter-spacing: 0.04em; color: var(--muted); }
+.csbmn .facts dd { margin: 0; font-size: 0.95rem; }
+.csbmn .tag { color: var(--muted); font-size: 0.85rem; }
+.csbmn .chip { display: inline-block; font-size: 0.75rem; font-weight: 700; letter-spacing: 0.03em; padding: 0.05rem 0.45rem; border-radius: 999px; border: 1px solid; white-space: nowrap; }
+.csbmn .chip-high { background: var(--high-bg); color: var(--high-ink); border-color: var(--high-rule); }
+.csbmn .chip-med  { background: var(--med-bg);  color: var(--med-ink);  border-color: var(--med-rule); }
+.csbmn .chip-obs  { background: var(--obs-bg);  color: var(--obs-ink);  border-color: var(--obs-rule); }
+.csbmn .chip-pos  { background: var(--pos-bg);  color: var(--pos-ink);  border-color: var(--pos-rule); }
+.csbmn .audiences { display: grid; grid-template-columns: repeat(auto-fit, minmax(14rem, 1fr)); gap: 0.8rem; margin: 0.8rem 0 1rem; }
+.csbmn .aud { border: 1px solid var(--rule); border-top: 4px solid var(--accent); border-radius: 4px; padding: 0.6rem 0.8rem 0.7rem; }
+.csbmn .aud h3 { margin: 0 0 0.3rem; color: var(--accent-ink); }
+.csbmn .aud p { font-size: 0.95rem; }
+.csbmn .scroll { overflow-x: auto; }
+.csbmn table { border-collapse: collapse; width: 100%; min-width: 32rem; margin: 0.6rem 0 1rem; font-size: 0.92rem; }
+.csbmn caption { text-align: left; font-weight: 700; color: var(--muted); font-size: 0.85rem; padding-bottom: 0.25rem; }
+.csbmn th, .csbmn td { border: 1px solid var(--rule); padding: 0.35rem 0.5rem; vertical-align: top; text-align: left; }
+.csbmn thead th { background: var(--accent-ink); color: #fff; }
+.csbmn tbody tr:nth-child(even) { background: var(--panel); }
+.csbmn td.num { white-space: nowrap; font-variant-numeric: tabular-nums; }
+.csbmn ol.stages { counter-reset: stage; list-style: none; margin: 0.6rem 0 1rem; padding: 0; }
+.csbmn ol.stages > li { counter-increment: stage; position: relative; padding: 0.1rem 0 0.6rem 2.6rem; margin-bottom: 0.5rem; border-bottom: 1px solid var(--rule); }
+.csbmn ol.stages > li::before {
+  content: counter(stage); position: absolute; left: 0; top: 0.15rem; width: 1.9rem; height: 1.9rem; border-radius: 50%;
+  background: var(--accent-ink); color: #fff; font-weight: 700; text-align: center; line-height: 1.9rem;
+}
+.csbmn ol.stages h3 { margin: 0.1rem 0 0.3rem; }
+.csbmn .callout { border-left: 6px solid var(--accent); background: var(--panel); padding: 0.5rem 0.8rem; margin: 0.8rem 0; border-radius: 0 4px 4px 0; }
+.csbmn .notice { margin-top: 1.5rem; padding: 0.6rem 0.9rem; border: 1px solid var(--rule); border-radius: 4px; background: var(--panel); font-weight: 700; text-align: center; font-size: 0.92rem; }
+.csbmn .foot { margin-top: 1.5rem; padding-top: 0.8rem; border-top: 2px solid var(--rule); color: var(--muted); font-size: 0.85rem; }
+@media print { .csbmn .toc, .csbmn .go { display: none; } .csbmn a { color: var(--ink); } }
+</style>
+</head>
+<body>
+<div class="csbmn">
+<a class="skip" href="#csbmn-main">Skip to main content</a>
+
+<header>
+  <h1>The Claremont School Board Meeting Navigator</h1>
+  <p class="subtitle">Claremont Community Television (CCTV), also known as the Claremont Community Media Center (CCMC), records and publishes the public meetings of the Claremont School Board and the SAU 6 Board. The Meeting Navigator is an experimental CCTV/CCMC service that turns eleven years of those recordings, and the district's own documents, into a searchable record for the people of Claremont who vote on the school budget, pay for it, send their children to the schools or attend them.</p>
+  <a class="go" href="https://csbmn.claremontv.org/">Open the Meeting Navigator</a>
+  <nav class="toc" aria-labelledby="csbmn-toc"><span class="toc-label" id="csbmn-toc">On this page</span><ul><li><a href="#start">Who it is for</a></li><li><a href="#tools">The tools</a></li><li><a href="#reading">Reading a meeting page</a></li><li><a href="#methods">Research methods</a></li><li><a href="#analysis">How the record was analyzed</a></li><li><a href="#limits">Limits and corrections</a></li></ul></nav>
+  <dl class="facts">
+    <div><dt>Meetings covered</dt><dd>312, from January 21, 2015 to <a href="https://csbmn.claremontv.org/17594%20SchoolBoard091626.mp4.HTML">September 16, 2026</a></dd></div>
+    <div><dt>Recorded proceedings</dt><dd>About 565 hours, transcribed into 196,944 speaker-attributed passages of roughly 5.1 million words</dd></div>
+    <div><dt>Review flags</dt><dd>2,692: <span class="chip chip-high">142 HIGH</span> <span class="chip chip-med">706 MEDIUM</span> <span class="chip chip-obs">1,205 OBSERVATION</span> <span class="chip chip-pos">639 POSITIVE</span></dd></div>
+    <div><dt>District documents</dt><dd>1,292 links to agendas, <a href="https://drive.google.com/drive/folders/1LXgVyI9nJCv4jDy73lAFT0XT47S5bdBK">board packets</a> and <a href="https://drive.google.com/drive/folders/1482gj2MFrWIESHvadUpXEx5Tn_L3Vjdv">minutes</a> the district posts on public Google Drive</dd></div>
+  </dl>
+  <p class="tag">Figures counted on September 29, 2026. The <a href="https://csbmn.claremontv.org/">Navigator's meeting list</a> carries the current count as meetings are added.</p>
+</header>
+
+<main id="csbmn-main">
+
+<h2 id="start">Who it is for</h2>
+
+<p>Most decisions about Claremont's schools that reach the voters are shaped first at these meetings: the operating budget and warrant articles, labor contracts, policies, audits and the use of year-end fund balance. New Hampshire's Right-to-Know Law (<a href="https://gc.nh.gov/rsa/html/VI/91-A/91-A-2.htm">RSA 91-A:2</a>) makes the meetings public, and <a href="https://gc.nh.gov/rsa/html/VI/91-A/91-A-4.htm">RSA 91-A:4</a> gives every citizen the right to inspect the records behind them. Public is not the same as findable. A single meeting can run three hours, and the documents sit in folders few residents open. The Navigator gives each meeting one page you can skim and check against the source, and it links every moment it describes to the second of CCTV/CCMC video where it happened.</p>
+
+<div class="audiences">
+  <section class="aud" aria-labelledby="aud-voters">
+    <h3 id="aud-voters">Voters</h3>
+    <p>Before the deliberative session and the March ballot, read what the board said about each warrant article and how the budget changed on its way to you. Each page's discussion timeline gives motions and vote counts as the recording and the minutes report them.</p>
+  </section>
+  <section class="aud" aria-labelledby="aud-taxpayers">
+    <h3 id="aud-taxpayers">Taxpayers</h3>
+    <p>Follow the money through the audits, the fund balance, grant reimbursements and the deficit the district announced in 2025. Pages flag discussion that touches a filing deadline, an audit requirement or the rules on retained fund balance under <a href="https://gc.nh.gov/rsa/html/XV/198/198-4-b.htm">RSA 198:4-b</a>, and cite the statute.</p>
+  </section>
+  <section class="aud" aria-labelledby="aud-parents">
+    <h3 id="aud-parents">Parents</h3>
+    <p>Find when a policy was adopted or changed, what was said about special education, school safety or the calendar, and what other parents told the board during citizens' comments. The participants table on each page lists everyone who spoke, with the ward or affiliation they gave.</p>
+  </section>
+  <section class="aud" aria-labelledby="aud-students">
+    <h3 id="aud-students">Students</h3>
+    <p>Student representatives take part in board meetings, and their reports are on the record. For a civics assignment or a debate, the Navigator lets you cite a board member's exact words with a link to the moment they were said, then check the claim against the minutes and the documents.</p>
+  </section>
+</div>
+
+<h2 id="tools">The tools</h2>
+
+<p>The Navigator is built for finding a specific answer quickly, and every answer leads back to its source.</p>
+
+<h3>The meeting list</h3>
+<p>The <a href="https://csbmn.claremontv.org/">front page</a> lists all 312 meetings, newest first and grouped by year. Each row carries a one-paragraph summary that opens in full when you hover over it or reach it with the Tab key, and colored counts of the page's review flags, which link straight to them. Your browser's Find command (Ctrl+F, or Command+F on a Mac) searches every summary at once, so a word such as "tuition," "audit" or a member's surname shows you every meeting where it mattered.</p>
+
+<h3>Timestamps that open the video</h3>
+<p>Every time shown on a meeting page is a link into the CCTV/CCMC recording at that second. You can hear any summary, quotation or vote for yourself in a single click.</p>
+
+<h3>Word-for-word transcripts</h3>
+<p>Each meeting's full transcript is published as a spreadsheet file (CSV), linked from the appendix of its page. It opens in Excel, Numbers, Google Sheets or LibreOffice, where you can search every word spoken, filter by speaker and measure who held the floor. Its columns are described under <a href="#methods">Research methods</a> below.</p>
+
+<h3>Source documents and statutes</h3>
+<p>The appendix of every page links the meeting's agenda, board packet documents and minutes on the district's public Google Drive, and the official text of every law the page cites.</p>
+
+<h3>The Data Quality Report</h3>
+<p>The <a href="https://csbmn.claremontv.org/DataQualityReport.HTML">Data Quality Report</a> lists every problem found in building the Navigator, in the district's records and in the Navigator's own work, so you can judge how far to trust a given figure.</p>
+
+<h2 id="reading">Reading a meeting page</h2>
+
+<p>Every meeting page follows the same plan, so once you have read one you can find your way around all 312. The <a href="https://csbmn.claremontv.org/17594%20SchoolBoard091626.mp4.HTML">September 16, 2026 School Board page</a> is a good first example.</p>
+
+<div class="scroll">
+<table>
+  <caption>The parts of a meeting page, in the order they appear</caption>
+  <thead><tr><th scope="col">Part</th><th scope="col">What it tells you</th><th scope="col">How to use it</th></tr></thead>
+  <tbody>
+    <tr><th scope="row">Facts panel</th><td>The body, date, place, scheduled start, the time the meeting was called to order, any nonpublic session, the recording and its length, and where the minutes are or that none were found.</td><td>A missing agenda or missing minutes is stated plainly. That absence is itself information about the public record.</td></tr>
+    <tr><th scope="row">Participants</th><td>Everyone heard or recorded as present: members present and absent, administrators, presenters, student representatives and every resident who spoke at citizens' comments.</td><td>Hover over or tab to a participation note to read it in full.</td></tr>
+    <tr><th scope="row">Agenda</th><td>The posted agenda, item by item, with the time each item was taken up. Where nothing was posted, the page rebuilds the order of business from the chair's own transitions and says so.</td><td>Click a "Taken up" time to jump straight to that item in the video.</td></tr>
+    <tr><th scope="row">Discussion timeline</th><td>The meeting in order, topic by topic. Each entry leads with the concrete material: figures, motions, who moved and seconded, and vote counts.</td><td>Quotations are the transcript as spoken. Words in [square brackets] are corrections or insertions, so you can see where the page departs from the machine transcript.</td></tr>
+    <tr><th scope="row">Items flagged for review</th><td>Places where the record raises a question under state or federal law, or shows practice better than the law requires. Each flag names its statute or rule and links the official text.</td><td>Read the flag, follow its timestamps, then read the statute. A flag is a question for a reader, not a conclusion.</td></tr>
+    <tr><th scope="row">Appendix</th><td>Every source the page drew on: the recording, each packet document, the minutes, the transcript file, and every law cited, with the version in force on the meeting date.</td><td>Documents the page looked for and could not find are listed as "Not located."</td></tr>
+    <tr><th scope="row">Footer</th><td>When the page was built, from which inputs, and the known weaknesses of that meeting's transcript.</td><td>Read it before quoting the page. It tells you, for example, how many passages could not be tied to a named speaker.</td></tr>
+  </tbody>
+</table>
+</div>
+
+<h3 id="severity">The flag severity scale</h3>
+<p>Severity measures how squarely a cited rule fits the facts in the record. It does not measure how serious the conduct was, and it is never a finding that anyone broke the law.</p>
+<div class="scroll">
+<table>
+  <caption>What each flag color means</caption>
+  <thead><tr><th scope="col">Flag</th><th scope="col">Used when</th></tr></thead>
+  <tbody>
+    <tr><td><span class="chip chip-high">HIGH</span></td><td>The record shows a likely departure from a binding rule, a missed statutory deadline or a material misstatement, and a verified statute or regulation supports the reading. Where the record itself explains the gap, the flag is graded lower.</td></tr>
+    <tr><td><span class="chip chip-med">MEDIUM</span></td><td>A probable gap in process or in financial controls, again tied to a verified rule.</td></tr>
+    <tr><td><span class="chip chip-obs">OBSERVATION</span></td><td>Something a careful reader should notice for which no verified rule establishes a requirement. Speakers' own characterizations are labeled as theirs.</td></tr>
+    <tr><td><span class="chip chip-pos">POSITIVE</span></td><td>Practice that goes beyond what the law requires. These are included so that the pages report what the board does well as readily as what it does poorly.</td></tr>
+  </tbody>
+</table>
+</div>
+
+<h2 id="methods">Research methods</h2>
+
+<p>The Navigator rewards the same habits a reporter or an auditor would bring to a public record. These are the ones that work best.</p>
+
+<h3>Follow an issue across the years</h3>
+<p>Search the meeting list for a subject word and read the matching meetings from oldest to newest. You get the history of that subject in sequence: when it first reached the agenda, who raised it, what documents were presented and how the board disposed of it. Then open the transcript files for those meetings to find the passages where it came up outside its agenda item.</p>
+
+<h3>Check a claim at its source</h3>
+<p>Before you repeat something you read in the Navigator, click its timestamp and listen. Then compare the approved minutes, which the district publishes at <a href="https://www.sau6.org/">sau6.org</a> and in its <a href="https://drive.google.com/drive/folders/1482gj2MFrWIESHvadUpXEx5Tn_L3Vjdv">minutes folder</a>. The approved minutes are the official record of a meeting. Where they and the recording disagree, the page reports the disagreement and does not settle it.</p>
+
+<h3>Read what the board read</h3>
+<p>Reading the packet before a meeting, and the Navigator page after it, is the fastest way to know what was decided and on what information. Where a page lists a document as not located, you may ask the district for it under <a href="https://gc.nh.gov/rsa/html/VI/91-A/91-A-4.htm">RSA 91-A:4</a>.</p>
+
+<h3>Work with the transcript files yourself</h3>
+<p>The transcript columns are <code>Start</code> and <code>End</code> (clock time in the recording), <code>Start (sec)</code> and <code>End (sec)</code> (the same times in seconds, for arithmetic), <code>Speaker</code>, <code>Role</code> (with the evidence for the attribution), <code>Dialogue</code> (the words as transcribed) and <code>Diarized As</code> (the anonymous voice label the transcription software assigned, kept so any attribution can be traced and disputed). Filter by speaker to read one person's contributions, or subtract start from end to measure who spoke and for how long. To open the video at a passage, add <code>&amp;seekto=</code> and the whole number of seconds to the meeting's CCTV/CCMC video address.</p>
+
+<h3>Use a search engine on the whole Navigator</h3>
+<p>Once search engines have indexed the Navigator, a query such as <code>site:csbmn.claremontv.org "capital reserve"</code> searches every page's summaries, timelines and flags at once.</p>
+
+<h3>Take part</h3>
+<p>The Navigator is a way to arrive prepared. The district posts upcoming board packets in its <a href="https://drive.google.com/drive/folders/1LXgVyI9nJCv4jDy73lAFT0XT47S5bdBK">packet folders</a>, and meeting pages sometimes list the next meeting's draft agenda when it was filed with the packet. If you plan to speak at citizens' comments, a timestamped citation to what the board said at an earlier meeting is harder to dismiss than a recollection.</p>
+
+<h2 id="analysis">How the record was analyzed</h2>
+
+<p>The Navigator is produced by a machine-assisted pipeline that runs from the raw recording to the published page. AI models do most of the work at each stage, under written procedures that fix what they may and may not conclude, and every stage ends in automated checks that can stop publication. No page has been reviewed by an attorney. The stages below describe what was done to the recordings and documents and why.</p>
+
+<ol class="stages">
+  <li>
+    <h3>Collecting the recordings</h3>
+    <p>Recordings come from the CCTV/CCMC <a href="https://reflect-claremont.cablecast.tv/internetchannel/gallery/6?site=1">video-on-demand service</a>, which carries the district's meeting video. Each recording is identified by its Cablecast show number, and each show was checked through the Cablecast service's own data against the meeting it claims to be, by title and by event date. That check matters because some show titles carry the wrong year and a few event dates fall a day early. The Navigator links to the recordings and does not copy them.</p>
+  </li>
+  <li>
+    <h3>Mapping the documents to the meetings</h3>
+    <p>A master map pairs every meeting with its public documents: the Google Drive packet folder, each item in it, the minutes and the recording. The map now runs to 317 sections and 1,292 links to district documents. It also records what is missing. The district's Drive shares hold no packets before 2022 and no minutes before 2023, so for most meetings from 2015 through 2021 the recording is the only surviving public record, and those pages say so.</p>
+  </li>
+  <li>
+    <h3>Transcribing, word for word</h3>
+    <p>Each recording was transcribed by speech-recognition software (Adobe Premiere Pro) that also separates voices, a process called diarization. The result gives every word a timestamp and every stretch of speech an anonymous label such as "Speaker 3." Every transcribed word is kept exactly as recognized, errors included. Nothing is silently corrected, because a transcript that has been tidied can no longer be checked against the recording. Recurring recognition errors in names, dollar figures and statute numbers are tracked in project glossaries and corrected only in square brackets on the pages.</p>
+  </li>
+  <li>
+    <h3>Naming the speakers</h3>
+    <p>Anonymous voice labels become names only on evidence. The evidence is gathered per voice, strongest first: the roll call, people identifying themselves ("as a board member," "from a teacher standpoint"), being addressed by name, control of the floor (the voice that calls the meeting to order and moves between items is the chair), role-specific content (staff report operations, members ask questions) and institutional memory. Each identification is then checked against the agenda, the minutes and a board roster. For 2015 through 2023 the rosters had to be reconstructed from the record itself, with chairs, seat changes and spellings documented. A voice that cannot be named with defensible evidence stays "Unidentified," which applies to 11.6 percent of all passages. About three quarters of those are five words or fewer, such as roll-call answers and voice votes. A separate program then rebuilds every transcript file from the raw speech-recognition output, without reusing the building code, and confirms that no word was added, dropped or reordered and that every timestamp runs in order. For the 2015 to 2023 files, a list of 67 suggested attribution corrections, drawn from the minutes and from review of the pages, is waiting to be applied.</p>
+  </li>
+  <li>
+    <h3>Reading each meeting</h3>
+    <p>For each meeting the transcript is read in full alongside the agenda, the minutes and the packet. From these come the facts panel, the participants table with members absent as well as present, the agenda with the moment each item was taken up, and the discussion timeline. Where the minutes and the transcript disagree on a name or a number, the page follows the minutes and reports the transcript's version. Each timestamp on the page is computed from the start time of a specific transcript passage, and the link, the displayed time and the passage must agree.</p>
+  </li>
+  <li>
+    <h3>Checking the record against the law</h3>
+    <p>Each meeting is compared with the state and federal rules that govern what the board did: the Right-to-Know Law's requirements for notice, minutes and nonpublic sessions (<a href="https://gc.nh.gov/rsa/html/VI/91-A/91-A-2.htm">RSA 91-A:2</a>, <a href="https://gc.nh.gov/rsa/html/VI/91-A/91-A-3.htm">RSA 91-A:3</a>), school finance and filing statutes, and federal audit rules such as the single-audit deadline in <a href="https://www.ecfr.gov/current/title-2/subtitle-A/chapter-II/part-200/subpart-F/section-200.512">2 CFR 200.512</a>. Citations come from a catalog of provisions checked against their official text, with the date each was verified. A concern that no verified rule supports can only be an OBSERVATION. The law is applied as it read on the day of the meeting. For example, the dollar amount of unanticipated money that required a prior public hearing under <a href="https://gc.nh.gov/rsa/html/XV/198/198-20-b.htm">RSA 198:20-b</a> was $5,000 until a 2023 amendment raised it to $20,000, and once the state of emergency behind the governor's remote-meeting order expired on June 11, 2021, remote participation was again governed by RSA 91-A:2, III, including its requirement that every vote be taken by roll call. Each build also searches for newly enacted legislation, because a new law can change the meaning of a continuing story. <a href="https://legiscan.com/NH/bill/SB586/2026">SB 586</a> (2026 N.H. Laws ch. 272), effective July 1, 2026, requires each district to file an independent audit or certified financial report within six months of the fiscal year's end and directs the education commissioner to withhold state funding from a district that does not. Every HIGH flag in the 2015 to 2023 pages received a second, independent review before publication. Two rules have no exceptions: a flag concerns the conduct of the public body and never a member of the public, and practice that exceeds the legal minimum is flagged POSITIVE.</p>
+  </li>
+  <li>
+    <h3>Auditing before publication</h3>
+    <p>Three programs audit every batch of pages. The page validator checks structure, broken links, keyboard access, color contrast for readers with low vision and that every timestamp link lands on the time it displays. The quotation audit compares every quotation on every page with the transcript, word for word after ignoring punctuation and bracketed corrections. It exists because an early trial found that AI drafting had quietly "cleaned up" transcript text in quotations, and in one case dropped a negation. The transcript audit described in stage 4 runs on every transcript file. Citation links must also point to an approved list of official sources, and the maintainer's own name is searched for in every transcript so that his participation can be disclosed on the pages concerned.</p>
+  </li>
+  <li>
+    <h3>Publishing the errors, too</h3>
+    <p>The <a href="https://csbmn.claremontv.org/DataQualityReport.HTML">Data Quality Report</a> catalogues 393 problems found while building the Navigator, merged from 619 separately compiled records. It sorts them by whose problem each one is: 126 in the district's own records, 53 in the Navigator's transcripts and data, 170 errors the project made and corrected, and 44 limits of the methods used. It ranks them by what they could cost a reader. The report currently covers the 126 meeting pages from February 2023 through August 2026. The meetings from 2015 to early 2023 were added in September 2026 and are not yet in it.</p>
+  </li>
+</ol>
+
+<div class="scroll">
+<table>
+  <caption>The record by the numbers, as of September 29, 2026</caption>
+  <thead><tr><th scope="col">Measure</th><th scope="col">Count</th></tr></thead>
+  <tbody>
+    <tr><td>Meeting pages</td><td class="num">312</td></tr>
+    <tr><td>Transcript files (one meeting has two recordings)</td><td class="num">313</td></tr>
+    <tr><td>Hours of recorded proceedings transcribed</td><td class="num">about 565</td></tr>
+    <tr><td>Speaker-attributed passages</td><td class="num">196,944</td></tr>
+    <tr><td>Passages not tied to a named speaker</td><td class="num">22,815 (11.6%)</td></tr>
+    <tr><td>Meeting-map sections / links to district documents</td><td class="num">317 / 1,292</td></tr>
+    <tr><td>Distinct links to official legal texts across the Navigator</td><td class="num">280</td></tr>
+    <tr><td>Review flags: HIGH / MEDIUM / OBSERVATION / POSITIVE</td><td class="num">142 / 706 / 1,205 / 639</td></tr>
+  </tbody>
+</table>
+</div>
+
+<p>The Navigator's pages are built to the Section 508 and WCAG 2.1 AA accessibility standards, and the validator checks the parts it can measure: text contrast of at least 4.5 to 1, visible keyboard focus, and summaries that expand for keyboard users exactly as they do for a mouse, with the full text always available to screen readers. One known gap remains: the widest tables on meeting pages run past the edge of a phone screen.</p>
+
+<h2 id="limits">Limits and corrections</h2>
+
+<div class="callout">
+  <p><strong>The Navigator is a finding aid, not the official record.</strong> The approved minutes and the recording are the record. Nothing in the Navigator is legal advice, and a flag is not an allegation or a finding that anyone violated the law.</p>
+</div>
+
+<p>Speech recognition makes mistakes, including in names, dollar amounts and statute numbers. Check any figure that matters at its timestamp. Summaries compress hours into paragraphs and lose context in doing so. A statute can be cited correctly and still be the wrong one for the facts, which is a legal judgment the pipeline cannot make. Coverage is incomplete: a meeting with no page has not been processed yet, and a meeting with no minutes or packet may never have had them posted.</p>
+
+<p>The weakest link is speaker attribution, and it is weakest for members of the public, most of whom speak once and never again, leaving no second recording to confirm the voice. Residents who speak at citizens' comments are named as they identified themselves on the record, the way a newspaper would report them. The protection they are owed is accuracy. Any private individual may have their name removed from a page on request, without giving a reason. Officials acting in their official capacity may submit corrections on the same footing as anyone else, and their submissions are published with the correction.</p>
+
+<p>Errors of fact are corrected, and the corrected page says what changed and when. Send corrections and removal requests to <a href="https://claremontv.org/">Claremont Community Television (CCTV) / Claremont Community Media Center (CCMC)</a>.</p>
+
+<h3>Disclosure</h3>
+<p>The Navigator is built by the Government Transparency Project, maintained by Kevin Tyson of Ward 2, Claremont, who holds no office in the school district, SAU 6 or the city. He has taken part in some of the proceedings covered. He has served on the board of directors of Claremont Community Television (CCTV) / Claremont Community Media Center (CCMC) since a City Council appointment in July 2022 and serves on it now; CCTV/CCMC produces the recordings and publishes the Navigator. He also co-founded Education Options, which board members discussed in October and November 2025 when he applied for a vacant School Board seat. Where he appears in a meeting's record, that meeting's page says so.</p>
+
+<h3>Reuse</h3>
+<p>The Navigator's pages and transcript files may be reused under the <a href="https://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0</a> license. The facts themselves (dates, votes, dollar figures) belong to no one and may be used freely. District documents are linked rather than copied and are not covered by that license. Anyone who republishes a Navigator page carries its notice with it.</p>
+
+<p class="notice">AI-Generated Content from official sources. Not warranted for any use.</p>
+
+<p class="foot">Prepared September 29, 2026 by the Government Transparency Project for Claremont Community Television (CCTV) / Claremont Community Media Center (CCMC). Counts were computed that day from the Navigator's 312 published meeting pages, its 313 transcript files and its meeting-to-document map. The method description summarizes the project's published documentation, its build procedures for transcripts and pages, its verified legal-citation catalogs, and its three audit programs.</p>
+
+</main>
+</div>
+</body>
+</html>

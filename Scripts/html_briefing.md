@@ -558,8 +558,11 @@ packet folder and `{}` for the 2024 minutes folder whose contents were readable 
 
 **h. Maintainer disclosure — a standing rule.** The 6/5/24 packet names **Kevin Tyson**, this
 project's maintainer, as the holder of Seat 3 on the CCTV Board of Directors (City Council
-appointment, 13 July 2022 – 31 May 2025). CCTV is the source of every recording in this
-corpus. **Wherever the maintainer, CCTV's board, or CCTV's own interests appear in a
+appointment, 13 July 2022; the packet shows the term ending 31 May 2025, but he has served
+continuously since and still sits on the board, as of 29 September 2026). Claremont
+Community Television (CCTV) and Claremont Community Media Center (CCMC) are one organization;
+always name it with both names. CCTV/CCMC is the source of every recording in this corpus
+and publishes these pages as the Claremont School Board Meeting Navigator. **Wherever the maintainer, CCTV's board, or CCTV's own interests appear in a
 document a page relies on, disclose it plainly in the page footer** — as the 15786 page does
 — and keep the finding to what the documents support. Do not omit the item, and do not soften
 it.

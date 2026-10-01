@@ -1527,3 +1527,24 @@ reenacted section as a whole (¶VIII allows audit-report extensions for disputed
 "within 6 months of the fiscal year"; "withhold any and all state funding"; its placement at ¶III.
 Press "good cause" extension language (NH Bulletin, Valley News, April 2026) describes the House
 amendment, not the enacted wording; cite the statute's own words instead.
+
+## Run of 2026-10-01 (page for the full 9/2/26 recording, show 17566)
+
+- **The skill's `references/legal-anchors.md` still carries the superseded SB 586 entry** ("within 6 months",
+  "withhold all state funding", LegiScan link). This run first drafted the filings flag from that entry, then
+  corrected it against the chaptered text above (¶III keeps September 1 with no extension; ¶VIII: audit within
+  9 months, withholding of state grant funding "not including RSA 198:40-a funding"). Fix the skill entry at the
+  next skill edit so the next run does not repeat the detour.
+- **RSA 197:23-a** (gc.nh.gov, read 2026-10-01): "The treasurer shall pay out the same only upon orders of the
+  school board or upon orders of 2 or more members of the school board empowered by the school board as a whole
+  to authorize payments." Last amended 2023. The two-signature practice the superintendent describes in the
+  9/2/26 finance report rests on this clause; the catalogued holding ("only upon orders of the school board")
+  omits it.
+- **RSA 91-A:3, II(c)** exact wording: "other than a member of the public body itself" (the district's
+  nonpublic-minutes form says "other than a member of this board"). Quote the statute, not the form.
+- **GASB 84** cited for the first time on a page (athletics checking account held by school staff): activity
+  the district controls is governmental, not fiduciary. Holding taken from the skill's GASB table (gasb.org
+  PDF returned 403 again).
+- **2025 HB 2 cell-phone provision**: the Stevens principal's "no phones ... due to a state law" (9/2/26,
+  2:07:13) and Rapp's "technical advisory from the DOE" were left as the speakers' statements; the RSA section
+  was not verified this run (education.nh.gov policy page returned 403).

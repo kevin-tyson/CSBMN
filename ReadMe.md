@@ -30,14 +30,21 @@ minutes, and renders a per-meeting HTML page carrying:
   Law (RSA 91-A) or another cited statute, with the statute's text linked
 * a source appendix naming every document the page drew on
 
-Coverage runs February 2023 to the present: 126 meetings with transcripts,
-dialogue and pages (127 transcripts and dialogue files, one of them a second
-recording of the 1 February 2023 meeting), and 129 meetings mapped to their
-Drive packets, minutes and recordings.
+Coverage runs January 2015 to the present. As of 29 September 2026: 312
+meetings with transcripts, dialogue and pages, from 21 January 2015 to
+16 September 2026 (313 transcripts and dialogue files, one meeting having a
+second recording), with `MAP.md` (317 sections) mapping them to their Drive
+packets, minutes and recordings.
 
-Source video is not redistributed here. Each meeting links to Claremont
-Community Television's own Cablecast recording and to the Google Drive packet
-and minutes files the district publishes.
+The published pages are served as the **Claremont School Board Meeting
+Navigator** (<https://csbmn.claremontv.org/>), an experimental service of
+Claremont Community Television (CCTV) / Claremont Community Media Center
+(CCMC). See [Affiliation](#affiliation).
+
+Source video is not redistributed here. Each meeting links to the Cablecast
+recording published by Claremont Community Television (CCTV) / Claremont
+Community Media Center (CCMC) and to the Google Drive packet and minutes files
+the district publishes.
 
 ## What this is not
 
@@ -109,8 +116,10 @@ Input/
     MAP.md             the meeting to document and recording map
   Templates/           stubs for the skills
 Output/
-  Dialogue/            speaker-attributed dialogue CSVs
   HTML/                published meeting pages, index.html, style.css
+    Dialogue/          speaker-attributed dialogue CSVs, published with the pages
+  Reports/             cross-meeting reports
+  CCTV-CCMC-Site/      explainer page for the CCTV/CCMC website
 Scripts/               pipeline and audit code, plus build briefings
 ```
 
@@ -173,7 +182,13 @@ requiring a reason. See [DISCLAIMER.md](DISCLAIMER.md).
 
 ## Affiliation
 
-This project is not affiliated with, endorsed by, or authorized by the Claremont
-School District, SAU 6, the City of Claremont, or Claremont Community
-Television. Their names are used only to identify the public proceedings that
-are its subject.
+The Claremont School Board Meeting Navigator, which publishes this project's
+output, is an experimental service of Claremont Community Television (CCTV) /
+Claremont Community Media Center (CCMC). CCTV and CCMC are one organization
+under two names; it also produces and publishes the meeting recordings the
+pages are built from. The maintainer's seat on its board is disclosed in
+[CONFLICTS.md](CONFLICTS.md).
+
+This project is not affiliated with, endorsed by, or authorized by the
+Claremont School District, SAU 6, or the City of Claremont. Their names are
+used only to identify the public proceedings that are its subject.

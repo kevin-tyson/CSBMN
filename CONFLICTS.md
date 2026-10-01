@@ -27,16 +27,29 @@ any advocacy organization.
 
 ## Standing conflicts
 
-### Claremont Community Television
+### Claremont Community Television (CCTV) / Claremont Community Media Center (CCMC)
 
-Held **Seat 3 on the CCTV Board of Directors**, a City Council appointment
-running from **13 July 2022 to 31 May 2025**.
+Serves on the **CCTV/CCMC Board of Directors**, and has since the City Council
+appointed him to **Seat 3 on 13 July 2022**. The board roster in the district's
+21 May 2025 packet shows that appointment's term expiring 31 May 2025; he has
+continued to serve on the board since that date and serves on it now. CCTV and
+CCMC are one organization under two names.
 
-This is the most structurally significant item in this file. CCTV produces and
-publishes every recording in this corpus. Each page in the project links to a
-CCTV recording and deep-links into it by timestamp. For every meeting held
-between those two dates, the maintainer sat on the board of the organization
-that made the record the page is built from. Pages covering meetings where
+This is the most structurally significant item in this file. CCTV/CCMC produces
+and publishes every recording in this corpus, and it publishes this project's
+output as the Claremont School Board Meeting Navigator, an experimental CCTV/CCMC
+service. Each page in the project links to a CCTV/CCMC recording and deep-links
+into it by timestamp. For every meeting held since 13 July 2022, the maintainer
+has sat on the board of the organization that made the record the page is built
+from, and he sits on the board of the organization that publishes the pages.
+
+*Corrected 29 September 2026.* Earlier versions of this file, of `ReadMe.md`, of
+the Data Quality Report and of 37 meeting pages gave this board service as
+ending on 31 May 2025. It did not end. Each of those statements now says that the
+maintainer still serves on the board. Because the earlier end date took meetings
+after May 2025 out of this disclosure, five pages for later meetings at which
+CCTV/CCMC's own business came up (3, 10 and 12 December 2025; 5 and 12 August
+2026) had no board disclosure; they now carry one. Pages covering meetings where
 CCTV's own contract, funding or operations were before the school board carry an
 expanded disclosure to that effect. See in particular the pages for 5 June 2024,
 21 August 2024, 20 November 2024 and 18 March 2026.
@@ -91,7 +104,7 @@ Chronological. "Spoke" means he is a named speaker in the dialogue file.
 | 5 Nov 2025 | School Board (regular) | **Spoke, and was a candidate.** One of the two remaining candidates. Gave citizens' comments on his volunteering in the schools and his role with EdOpt. The board declined to fill the seat. |
 | 5 Nov 2025 | School Board vacancy segment (separate recording) | **Spoke, and was a candidate.** The same proceeding recorded separately. Named repeatedly by board members and by other residents; EdOpt was cited in two members' stated reasons for their votes. |
 | 7 Feb 2026 | Deliberative Session | **Spoke, and moved amendments.** Appeared as a Ward 2 voter and was the mover of **both amendments that carried**, including the removal of "or lease" from the property-disposition article. Disclosed on that page at flag 17. |
-| 18 Mar 2026 | School Board | **Named indirectly.** CCTV's operations were the subject of the quoted exchange; his prior CCTV board service is disclosed on that page. |
+| 18 Mar 2026 | School Board | **Named indirectly.** CCTV's operations were the subject of the quoted exchange; his CCTV/CCMC board service is disclosed on that page. |
 
 ### One correction to an earlier record
 
@@ -107,7 +120,7 @@ not otherwise named in that record.
 Where the maintainer is a participant, treat the page for that meeting with the
 skepticism you would apply to any account written by someone in the room. Where
 the meeting concerns CCTV, treat it with the skepticism you would apply to an
-account written by a former director of the organization under discussion.
+account written by a sitting director of the organization under discussion.
 
 The mitigations, such as they are:
 

@@ -4,10 +4,11 @@
 # SPDX-License-Identifier: Apache-2.0
 #
 # ---------------------------------------------------------------------------
-# download_untranscribed_videos.sh (v3) - walk the CCTV "CLAREMONT SCHOOLS"
-# Cablecast gallery (internetchannel, channel 6), keep only school board / SAU
-# 6 / subcommittee meeting recordings, drop anything already downloaded or
-# already transcribed, and fetch the rest into Input/Videos.
+# download_untranscribed_videos.sh (v4) - walk the CCTV "CLAREMONT SCHOOLS"
+# Cablecast gallery (internetchannel, channel 6) AND search the Cablecast show
+# catalog for meetings the gallery leaves out, keep only school board / SAU 6 /
+# subcommittee meeting recordings, drop anything already downloaded or already
+# transcribed, and fetch the rest into Input/Videos.
 #
 # Run it on the Mac itself, in Terminal - not from a Cowork/Claude session.
 # reflect-claremont.cablecast.tv returns HTTP 403 to every route available
@@ -23,6 +24,37 @@
 #   excluded, and (with --debug) saves the raw gallery pages under
 #   Scripts/.gallery_debug/ plus a gallery_excluded.tsv / gallery_in_scope.tsv
 #   you can scan for anything that landed on the wrong side of the filter.
+#
+# WHAT CHANGED IN v4 (2026-10-01), AND WHY
+# ---------------------------------------------------------------------------
+#   - The gallery is not a complete list. The full 9/2/26 board meeting (show
+#     17566, 3h14m) was never added to it, nor were SAU 6 board meetings such
+#     as 4/9/26 (show 17307) or 12/1/22 (show 14765), or the 5/7/24 Policy
+#     Committee (show 15738). Step 2b now also searches the show catalog
+#     through /CablecastAPI/v1/shows?search=<term>&include=vod for each term in
+#     SEARCH_TERMS and merges whatever the gallery missed. --no-search turns
+#     this off.
+#   - With include=vod the API returns a progressive store-N/.../vod.mp4 for
+#     recent shows too (checked 2026-10-01: 206 Partial Content, video/mp4,
+#     6.9 GB for 17566), where the gallery hands back an .m3u8. When both
+#     exist the script now prefers the API's .mp4: a plain resumable curl,
+#     no ffmpeg needed.
+#   - Catalog shows with no video attached are listed as "no link yet" only if
+#     their eventDate falls within SEARCH_RECENT_DAYS; older ones (the
+#     catalog goes back to 2006, mostly with no video) are dropped quietly and
+#     recorded in the --debug TSV.
+#   - The SAU clause in SCOPE_INCLUDE used the POSIX class [[:space:]], which
+#     Python's re does not support, so "SAU 6 Board Meeting" titles only ever
+#     matched when they also said "school board". Fixed. SCOPE_EXCLUDE gained
+#     the county, city-budget, PSA, election-night and interview programming
+#     that the catalog search turns up.
+#   - The title/date alias check now also indexes Input/Transcripts, not just
+#     Input/Videos, and compares the date digits exactly (file extensions
+#     stripped) instead of by substring. Six mid-2026 meetings have
+#     transcripts under names without a show id ("Claremont School Board
+#     81926.mp4.json"); with Input/Videos emptied, v3 would have downloaded all
+#     six again. The old substring test could also skip the wrong meeting
+#     ("12/1/23" contains "2123").
 #
 # WHAT CHANGED FROM v1/v2, AND WHY
 # ---------------------------------------------------------------------------
@@ -87,6 +119,7 @@
 #   bash Scripts/download_untranscribed_videos.sh --oldest           oldest missing shows first
 #   bash Scripts/download_untranscribed_videos.sh --max-pages 80     raise the gallery page-scan cap (default 60)
 #   bash Scripts/download_untranscribed_videos.sh --no-scope-filter  keep every show in the gallery, not just meetings
+#   bash Scripts/download_untranscribed_videos.sh --no-search        gallery only, skip the catalog search (v3 behavior)
 # ---------------------------------------------------------------------------
 set -uo pipefail
 
@@ -102,10 +135,18 @@ PAGE_PARAM="page"          # <- if page 2+ keeps returning the same shows as pag
 
 # Titles must match this (case-insensitive) to be treated as an in-scope
 # meeting at all...
-SCOPE_INCLUDE='school board|s\.?a\.?u\.?[[:space:]]*6\b|finance (committee|subcommittee)|budget.*(hearing|committee|workshop|study)|deliberative|policy committee|negotiations? committee|building committee|facilities committee|subcommittee|city council.*school board|school board.*city council'
+SCOPE_INCLUDE='school board|\bs\.?a\.?u\.?\s*#?\s*6\b|\bsau board|school bud(get)? hearing|finance (committee|subcommittee)|budget.*(hearing|committee|workshop|study)|deliberative|policy committee|negotiations? committee|building committee|facilities committee|subcommittee|city council.*school board|school board.*city council'
 # ...and must NOT match this, even if it also matched SCOPE_INCLUDE (a "school
 # board candidates forum" contains "school board" but is not a meeting).
-SCOPE_EXCLUDE='graduation|commencement|class night|recognition night|holiday concert|spring concert|candidates? forum|funding fairness|restructuring discussion|open house|science fair|spelling bee|talent show|scholarship|kindergarten screening|preschool|8th grade|the last bake sale|portrait unveiling|your candidates'
+SCOPE_EXCLUDE='graduation|commencement|class night|recognition night|holiday concert|spring concert|candidates? forum|funding fairness|restructuring discussion|open house|science fair|spelling bee|talent show|scholarship|kindergarten screening|preschool|8th grade|the last bake sale|portrait unveiling|your candidates|candidates for|sullivan county|county budget|board of commissioners|nh issues|state budget hearing|city (council )?budget hearing|city budget public hearing|cardinal perspective|\bpsa\b|sugar river report|election results|come join us|ballot guide|movement towards excellence|smarter balance|community forum|superintendent search'
+# These two patterns are evaluated by Python's re module (case-insensitive),
+# so use Python syntax: \s not [[:space:]].
+
+# Catalog search (Step 2b). Each term is sent to the Cablecast show search;
+# the union of results then goes through the same scope filter as the gallery.
+SEARCH_TERMS=("School Board" "SAU" "Finance Committee" "Budget" "Deliberative" "Committee")
+SEARCH_RECENT_DAYS=45      # a catalog show with no video yet is reported only if this recent
+SEARCH_MAX_PAGES=20        # per term, 100 shows per page
 
 ROOT="$(cd "$(dirname "${BASH_SOURCE[0]}")/.." && pwd)"
 VIDEOS="$ROOT/Input/Videos"
@@ -115,7 +156,7 @@ DEBUG_DIR="$ROOT/Scripts/.gallery_debug"
 
 UA="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Safari/605.1.15"
 
-DRY=0; LIMIT=0; ORDER=newest; DEBUG=0; MAX_PAGES=60; SCOPE_FILTER=1
+DRY=0; LIMIT=0; ORDER=newest; DEBUG=0; MAX_PAGES=60; SCOPE_FILTER=1; SEARCH=1
 while [ $# -gt 0 ]; do
   case "$1" in
     --dry-run)          DRY=1 ;;
@@ -124,7 +165,8 @@ while [ $# -gt 0 ]; do
     --debug)            DEBUG=1 ;;
     --max-pages)        shift; MAX_PAGES="${1:-60}" ;;
     --no-scope-filter)  SCOPE_FILTER=0 ;;
-    -h|--help)          sed -n '2,75p' "$0"; exit 0 ;;
+    --no-search)        SEARCH=0 ;;
+    -h|--help)          sed -n '2,115p' "$0"; exit 0 ;;
     *) echo "unknown option: $1" >&2; exit 2 ;;
   esac
   shift
@@ -167,30 +209,31 @@ done
 is_transcribed() { case "$TRANSCRIBED_IDS" in *" $1 "*) return 0 ;; *) return 1 ;; esac; }
 is_on_disk()     { case "$ON_DISK_IDS"     in *" $1 "*) return 0 ;; *) return 1 ;; esac; }
 
-# A handful of older recordings are on disk under a title-based filename with
-# no id prefix ("Claremont School Board 81926.mp4") instead of this project's
-# "<id> <title>.ext" convention, so is_on_disk() above can't see them. Index
-# those separately by the digit run in the filename (usually a date) and,
-# once a candidate's own title is in hand, check for an overlap before
-# fetching it - this only ever prevents a redundant download, never touches
-# an existing file.
+# Some recordings and transcripts carry a title-based filename with no id
+# prefix ("Claremont School Board 81926.mp4.json") instead of this project's
+# "<id> <title>.ext" convention, so is_on_disk()/is_transcribed() can't see
+# them. Index those by the digits left in the name once its extensions are
+# stripped (in practice the meeting date, M D YY) and, once a candidate's own
+# title is in hand, skip it when its title's digits are exactly the same.
+# Exact, not substring: "12/1/23" -> 12123 must not match "2123". This only
+# ever prevents a redundant download, never touches an existing file.
 declare -a ALIAS_NAME=(); declare -a ALIAS_DIGITS=()
-for f in "$VIDEOS"/*.mp4; do
+for f in "$VIDEOS"/* "$TRANSCRIPTS"/*; do
   [ -e "$f" ] || continue
   b="$(basename "$f")"
   case "$b" in [0-9]*' '*) continue ;; esac  # id-prefixed, already covered above
-  digits="$(printf '%s' "$b" | tr -cd '0-9')"
+  stem="$(printf '%s' "$b" | sed -E 's/(\.([Mm][Pp]4|[Mm]4[Vv]|[Mm][Oo][Vv]|[Jj][Ss][Oo][Nn]|[Cc][Ss][Vv]|[Tt][Xx][Tt]|part))+$//')"
+  digits="$(printf '%s' "$stem" | tr -cd '0-9')"
   [ -n "$digits" ] || continue
   ALIAS_NAME+=("$b"); ALIAS_DIGITS+=("$digits")
 done
 
-alias_conflict() { # $1 = candidate title/slug; echoes the matching on-disk filename, empty if none
+alias_conflict() { # $1 = candidate title; echoes the matching filename, empty if none
   local tdigits i
   tdigits="$(printf '%s' "$1" | tr -cd '0-9')"
   [ -n "$tdigits" ] || return 1
   for i in "${!ALIAS_DIGITS[@]}"; do
-    case "$tdigits" in *"${ALIAS_DIGITS[$i]}"*) printf '%s' "${ALIAS_NAME[$i]}"; return 0 ;; esac
-    case "${ALIAS_DIGITS[$i]}" in *"$tdigits"*) printf '%s' "${ALIAS_NAME[$i]}"; return 0 ;; esac
+    [ "$tdigits" = "${ALIAS_DIGITS[$i]}" ] && { printf '%s' "${ALIAS_NAME[$i]}"; return 0; }
   done
   return 1
 }
@@ -226,8 +269,39 @@ if [ "$GALLERY_COUNT" -eq 0 ]; then
   echo "  No \"showId\":N entries matched. The site may have changed how it embeds" >&2
   echo "  show data. Re-run with --debug and inspect $DEBUG_DIR/gallery-page-1.html" >&2
   echo "  for how a show's id/title/video link are represented now." >&2
-  rm -f "$PAGES_CONCAT"
-  exit 1
+  if [ "$SEARCH" = 0 ]; then rm -f "$PAGES_CONCAT"; exit 1; fi
+  echo "  Continuing with the catalog search only." >&2
+fi
+
+# ---------------------------------------------------------------------------
+# Step 2b - search the show catalog for meetings the gallery never listed.
+# One JSON file per (term, page); Python merges them below.
+# ---------------------------------------------------------------------------
+API_DIR="$(mktemp -d)"
+if [ "$SEARCH" = 1 ]; then
+  echo "Searching the Cablecast show catalog (${#SEARCH_TERMS[@]} terms)..."
+  for term in "${SEARCH_TERMS[@]}"; do
+    enc="$(python3 -c 'import sys, urllib.parse; print(urllib.parse.quote(sys.argv[1]))' "$term")"
+    tag="$(printf '%s' "$term" | tr -c 'A-Za-z0-9' '_')"
+    offset=0; pg=0; got=0
+    while [ "$pg" -lt "$SEARCH_MAX_PAGES" ]; do
+      f="$API_DIR/$tag-$offset.json"
+      if ! fetch "$BASE_SITE/CablecastAPI/v1/shows?site=$SITE_ID&search=$enc&page_size=100&offset=$offset&include=vod" > "$f"; then
+        echo "  \"$term\": fetch failed at offset $offset, using what was read so far" >&2
+        rm -f "$f"; break
+      fi
+      read -r total n < <(python3 -c 'import json, sys
+try:
+    d = json.load(open(sys.argv[1]))
+    print(d.get("meta", {}).get("count", 0), len(d.get("shows", [])))
+except Exception:
+    print(0, 0)' "$f")
+      got=$((got + n)); pg=$((pg + 1)); offset=$((offset + 100))
+      [ "$n" -eq 0 ] || [ "$offset" -ge "$total" ] && break
+    done
+    echo "  \"$term\": $got show(s)"
+    [ "$DEBUG" = 1 ] && cp "$API_DIR"/"$tag"-*.json "$DEBUG_DIR"/ 2>/dev/null
+  done
 fi
 
 # id<TAB>title<TAB>vodUrl(or literally "null") for every show the gallery
@@ -235,11 +309,12 @@ fi
 CANDIDATES_TSV="$(mktemp)"
 EXCLUDED_TSV="$(mktemp)"
 python3 - "$PAGES_CONCAT" "$SCOPE_FILTER" "$SCOPE_INCLUDE" "$SCOPE_EXCLUDE" \
-        "$CANDIDATES_TSV" "$EXCLUDED_TSV" <<'PYEOF'
-import json, re, sys
+        "$CANDIDATES_TSV" "$EXCLUDED_TSV" "$API_DIR" "$SEARCH_RECENT_DAYS" <<'PYEOF'
+import datetime, glob, json, os, re, sys
 
-pages_path, scope_filter, include_re, exclude_re, out_path, excluded_path = sys.argv[1:7]
+pages_path, scope_filter, include_re, exclude_re, out_path, excluded_path, api_dir, recent_days = sys.argv[1:9]
 scope_filter = scope_filter == "1"
+recent_cutoff = datetime.date.today() - datetime.timedelta(days=int(recent_days))
 inc = re.compile(include_re, re.IGNORECASE)
 exc = re.compile(exclude_re, re.IGNORECASE)
 
@@ -260,36 +335,70 @@ pat = re.compile(
 def unescape(raw):
     return json.loads('"' + raw + '"')
 
-seen = {}
+seen = {}  # sid -> [title, vod, source]
 for m in pat.finditer(body):
     sid = int(m.group(1))
     title = unescape(m.group(2))
     vod = unescape(m.group(4)) if m.group(4) is not None else None
-    seen[sid] = (title, vod)  # last occurrence wins if a page repeats a show
+    seen[sid] = [title, vod, "gallery"]  # last occurrence wins if a page repeats a show
+n_gallery = len(seen)
+
+# Catalog search results: {"meta":..., "shows":[{id,title,eventDate,vods:[vodId]}],
+#                          "vods":[{id, show, url}]}
+api_added = 0; api_upgraded = 0; api_stale = {}
+for path in sorted(glob.glob(os.path.join(api_dir, "*.json"))):
+    try:
+        d = json.load(open(path, encoding="utf-8"))
+    except Exception:
+        continue
+    vod_url = {v.get("id"): v.get("url") for v in d.get("vods", []) if v.get("url")}
+    for s in d.get("shows", []):
+        sid = s.get("id")
+        if sid is None:
+            continue
+        url = next((vod_url[v] for v in s.get("vods", []) if v in vod_url), None)
+        if sid in seen:
+            # Same show the gallery listed: take the API's progressive .mp4 over an HLS playlist.
+            if url and url.endswith(".mp4") and (seen[sid][1] or "").endswith(".m3u8"):
+                seen[sid][1] = url; seen[sid][2] = "gallery+api-mp4"; api_upgraded += 1
+            continue
+        title = (s.get("title") or "").strip()
+        if not url:
+            try:
+                ev = datetime.date.fromisoformat((s.get("eventDate") or "")[:10])
+            except ValueError:
+                ev = None
+            if ev is None or ev < recent_cutoff:
+                api_stale[sid] = (sid, title, "catalog: no video, older than cutoff")
+                continue
+        seen[sid] = [title, url, "catalog"]
+        api_added += 1
 
 kept = []
-dropped = []
-for sid, (title, vod) in seen.items():
+dropped = [v for k, v in api_stale.items() if k not in seen]
+for sid, (title, vod, src) in seen.items():
     in_scope = (not scope_filter) or (bool(inc.search(title)) and not exc.search(title))
     if in_scope:
-        kept.append((sid, title, vod))
+        kept.append((sid, title, vod, src))
     else:
         why = "no include match" if not inc.search(title) else "matched exclude"
-        dropped.append((sid, title, why))
+        dropped.append((sid, title, f"{why} ({src})"))
 
 with open(out_path, "w", encoding="utf-8") as f:
-    for sid, title, vod in sorted(kept):
-        f.write(f"{sid}\t{title}\t{vod if vod else 'null'}\n")
+    for sid, title, vod, src in sorted(kept):
+        f.write(f"{sid}\t{title}\t{vod if vod else 'null'}\t{src}\n")
 
 with open(excluded_path, "w", encoding="utf-8") as f:
     for sid, title, why in sorted(dropped):
         f.write(f"{sid}\t{title}\t{why}\n")
 
-print(f"  shows parsed with id/title/vodUrl : {len(seen)}", file=sys.stderr)
+print(f"  shows parsed from gallery         : {n_gallery}", file=sys.stderr)
+print(f"  added from catalog search         : {api_added}", file=sys.stderr)
+print(f"  gallery HLS links swapped for mp4 : {api_upgraded}", file=sys.stderr)
 print(f"  in scope (board/SAU/committee)    : {len(kept)}", file=sys.stderr)
 print(f"  out of scope                      : {len(dropped)}", file=sys.stderr)
 PYEOF
-rm -f "$PAGES_CONCAT"
+rm -f "$PAGES_CONCAT"; rm -rf "$API_DIR"
 if [ "$DEBUG" = 1 ]; then
   cp "$EXCLUDED_TSV" "$DEBUG_DIR/gallery_excluded.tsv"
   cp "$CANDIDATES_TSV" "$DEBUG_DIR/gallery_in_scope.tsv"
@@ -351,8 +460,8 @@ for id in $CANDIDATE_IDS; do
     skipped_limit=$((skipped_limit+1)); continue
   fi
   n=$((n+1))
-  IFS=$'\t' read -r _ title vod < <(row_for_id "$id")
-  printf '[%s] %3d/%d  show %s  ' "$(date '+%H:%M:%S')" "$n" "$todo" "$id"
+  IFS=$'\t' read -r _ title vod src < <(row_for_id "$id")
+  printf '[%s] %3d/%d  show %s (%s)  ' "$(date '+%H:%M:%S')" "$n" "$todo" "$id" "${src:-gallery}"
 
   if [ -z "$vod" ] || [ "$vod" = "null" ]; then
     echo "!! no video attached yet (upcoming run?) - skipped"
@@ -366,7 +475,7 @@ for id in $CANDIDATE_IDS; do
 
   match="$(alias_conflict "$title")"
   if [ -n "$match" ]; then
-    echo "already on disk as \"$match\" (title/date match) - skipped"
+    echo "already have \"$match\" (title/date match) - skipped"
     skip_on_disk=$((skip_on_disk+1))
     continue
   fi

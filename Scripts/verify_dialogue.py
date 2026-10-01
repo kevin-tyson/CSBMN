@@ -29,13 +29,40 @@ TWO ROW CONVENTIONS ARE ACCEPTED.
   Whole corpus: python3 verify_dialogue.py --corpus Input/Transcripts Output/HTML/Dialogue
   Name sweep  : python3 verify_dialogue.py --names Output/HTML/Dialogue
 
+An optional 9th column, "Video URL" (added by Scripts/add_video_urls.py), is
+accepted. When present, every cell must be either empty in every row (meeting has
+no Remote video in MAP.md) or one Cablecast show URL ending in ?site=1 followed by
+&seekto=floor(Start (sec)), the same show on every row.
+
 Exits non-zero if any check fails.
 """
-import argparse, csv, json, os, re, sys
+import argparse, csv, json, math, os, re, sys
 from collections import Counter, defaultdict
 
 COLUMNS = ["Start", "End", "Start (sec)", "End (sec)",
            "Speaker", "Role", "Dialogue", "Diarized As"]
+URL_COL = "Video URL"
+SEEK_RE = re.compile(r"(https://\S+/internetchannel/show/\d+\?site=1)&seekto=(\d+)")
+
+
+def check_video_urls(body):
+    """Validate the optional 9th column. Returns a list of problems."""
+    cells = [r[8] for r in body if len(r) == 9]
+    if not any(cells):
+        return []
+    problems, bases = [], set()
+    for i, r in enumerate(body):
+        if len(r) != 9:
+            continue
+        m = SEEK_RE.fullmatch(r[8])
+        if not m:
+            problems.append(f"row {i}: Video URL malformed or empty: {r[8]!r}"); continue
+        bases.add(m.group(1))
+        if int(m.group(2)) != math.floor(float(r[2])):
+            problems.append(f"row {i}: seekto={m.group(2)} but Start (sec)={r[2]}")
+    if len(bases) > 1:
+        problems.append(f"Video URL points at more than one show: {sorted(bases)}")
+    return problems
 
 
 def hms(t):
@@ -43,22 +70,22 @@ def hms(t):
     return f"{h}:{m:02d}:{s:05.2f}"
 
 
-def verify_turn_based(expected, body, name, quiet):
+def verify_turn_based(expected, body, name, quiet, width=8):
     """Accept a turn-based CSV: rows are speaker turns, not diarizer segments."""
-    problems = []
+    problems = check_video_urls(body)
     src_toks = [t for e in expected for t in e[4]]
     csv_toks = [t for r in body for t in r[6].split()]
     if src_toks != csv_toks:
         problems.append(f"token stream differs: csv={len(csv_toks)} src={len(src_toks)} tokens"
                         f"{' (same count, different words/order)' if len(csv_toks)==len(src_toks) else ''}")
     for i, r in enumerate(body):
-        if len(r) != 8:
-            problems.append(f"row {i}: {len(r)} columns, expected 8"); continue
+        if len(r) != width:
+            problems.append(f"row {i}: {len(r)} columns, expected {width}"); continue
         if not r[4].strip():
             problems.append(f"row {i}: empty Speaker")
         if not r[6].strip():
             problems.append(f"row {i}: empty Dialogue")
-    good = [r for r in body if len(r) == 8]
+    good = [r for r in body if len(r) == width]
     secs = [float(r[2]) for r in good]
     if not all(a <= b for a, b in zip(secs, secs[1:])):
         problems.append("timestamps not monotonic")
@@ -97,18 +124,21 @@ def verify(jpath, cpath, quiet=False):
     with open(cpath, encoding="utf-8-sig") as f:
         rows = list(csv.reader(f))
     problems = []
-    if not rows or rows[0] != COLUMNS:
+    if not rows or rows[0] not in (COLUMNS, COLUMNS + [URL_COL]):
         problems.append(f"header mismatch: {rows[0] if rows else 'EMPTY FILE'}")
+    width = len(rows[0]) if rows and rows[0] == COLUMNS + [URL_COL] else 8
     body = rows[1:]
     if len(body) != len(expected):
         src_toks = [t for e in expected for t in e[4]]
-        csv_toks = [t for r in body if len(r) == 8 for t in r[6].split()]
+        csv_toks = [t for r in body if len(r) == width for t in r[6].split()]
         if src_toks == csv_toks:
-            return verify_turn_based(expected, body, os.path.basename(cpath), quiet)
+            return verify_turn_based(expected, body, os.path.basename(cpath), quiet, width)
         problems.append(f"row count: csv={len(body)} expected={len(expected)}")
+    if width == 9:
+        problems += check_video_urls(body)
     for i, (r, e) in enumerate(zip(body, expected)):
-        if len(r) != 8:
-            problems.append(f"row {i}: {len(r)} columns, expected 8"); continue
+        if len(r) != width:
+            problems.append(f"row {i}: {len(r)} columns, expected {width}"); continue
         if r[6].split() != e[4]:
             problems.append(f"row {i}: token mismatch "
                             f"(csv {len(r[6].split())} vs src {len(e[4])} tokens)")
@@ -121,10 +151,10 @@ def verify(jpath, cpath, quiet=False):
             problems.append(f"row {i}: empty Speaker")
         if not r[6].strip():
             problems.append(f"row {i}: empty Dialogue")
-    secs = [float(r[2]) for r in body if len(r) == 8]
+    secs = [float(r[2]) for r in body if len(r) == width]
     if not all(a <= b for a, b in zip(secs, secs[1:])):
         problems.append("timestamps not monotonic")
-    if not all(float(r[3]) >= float(r[2]) for r in body if len(r) == 8):
+    if not all(float(r[3]) >= float(r[2]) for r in body if len(r) == width):
         problems.append("a row has end < start")
 
     name = os.path.basename(cpath)

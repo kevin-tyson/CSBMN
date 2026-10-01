@@ -1,0 +1,180 @@
+{
+ "Speaker 1": {
+  "name": "Candace Crawford",
+  "role": "School Board Chair - calls the meeting to order (000), asks 'Noel' to call the roll (002), runs the agenda and calls the votes; the 9/2/26 draft minutes record her presenting the HiSET recognition certificate with Dr. Broadrick"
+ },
+ "Speaker 2": {
+  "name": "Don Lavalette",
+  "role": "School Board member (Policy Subcommittee) - the chair recognizes 'Don.' (057, 426, 541) and he answers 'Thank you, Madam Chair'; the minutes record his corrections to the 8/19 minutes (058-068), his second on the nominations (884) and his questions on purchasing ethics and Newport's emergency-services program (372, 393-401)"
+ },
+ "Speaker 3": {
+  "name": "Unidentified",
+  "role": "Short interjection in the Speaker 3 catch-all cluster (which also holds the clerk's roll call and a member of the public); speaker not determinable"
+ },
+ "Speaker 4": {
+  "name": "Courtney Porter",
+  "role": "Presenter of the staff recognition - introduced by the chair (004: 'Courtney Porter is going to lead us'); the draft minutes record 'Courtney Porter recognized Jacqueline Hall'; title not stated in the transcript or minutes"
+ },
+ "Speaker 5": {
+  "name": "Jacqueline 'Jackie' Hall",
+  "role": "Adult education / HiSET volunteer (draft minutes) - recognized by the board; addressed as 'Jackie' by the chair (039, 057); describes the HiSET program and says she started in Claremont education in 1968 (045)"
+ },
+ "Speaker 6": {
+  "name": "Unidentified",
+  "role": "Short interjection in a four-segment catch-all cluster; speaker not determinable"
+ },
+ "Speaker 7": {
+  "name": "Tim Broadrick",
+  "role": "Superintendent, SAU 6 - delivers the finance and superintendent's reports; the chair turns to 'Doctor Broderick' for the finance report (148-149) and he answers 'Mr. Madden' (225, 235, 290)"
+ },
+ "Speaker 8": {
+  "name": "William 'Bill' Madden",
+  "role": "School Board member (Capital Improvement Chair) - recognized 'Yes, bill.' (075) before asking to carry the curriculum committee, which the minutes attribute to Bill Madden; the superintendent answers 'Mr. Madden' (225); reports for Capital Improvement (910)"
+ },
+ "Speaker 9": {
+  "name": "Luke Diamond",
+  "role": "School District Treasurer - gives the verbal Treasurer's report (084-091); the chair thanks 'Luke' (097) and the minutes record 'Treasurer's Report - Luke Diamond'"
+ },
+ "Speaker 10": {
+  "name": "Unidentified",
+  "role": "Short interjection in a seven-segment catch-all cluster; speaker not determinable"
+ },
+ "Speaker 11": {
+  "name": "Kerry Kennedy",
+  "role": "Director of Curriculum, Instruction & Assessment, SAU 6 - delivers the curriculum report the chair introduces as 'Carrie Kennedy' (098); the chair confirms 'Is that correct, Carrie?' (101)"
+ },
+ "Speaker 12": {
+  "name": "Heather Whitney",
+  "role": "School Board member (Ad Hoc Reconfiguration Chair; Finance Subcommittee) - the chair recognizes 'Heather?' (160) and she asks the tax-assessment questions the minutes attribute to Heather Whitney (161-190); moves the nominations (881) and the nonpublic session (1070), as the minutes record"
+ },
+ "Speaker 13": {
+  "name": "Brian Rapp",
+  "role": "School Board member (Capital Improvement Subcommittee; Policy Subcommittee) - the chair's 'Brian, you had some comments' (783) is answered here with the mouth-guard point the minutes attribute to Brian Rapp (784); the minutes also credit him with the Unity/Bluff School software point (241), the field-license reading (352), the hats-and-hoodies view (488-490) and the lone 'no' on JKAA/GBGA (1031)"
+ },
+ "Speaker 14": {
+  "name": "Unidentified",
+  "role": "Short interjection in a twelve-segment catch-all cluster ('Thank you', 'Yes', fragments); speaker not determinable"
+ },
+ "Speaker 15": {
+  "name": "Michael Petrin",
+  "role": "School Board Vice Chair; SRVRTC Committee Chair - answers the chair's 'Mike.' (402-403) and 'Mike, you submitted the minutes' (896-897); the chair supports 'what Mike said' about the tech center adding programs (420, echoing 411); the minutes credit Michael Petrin with the administrators-know-trends view (472) and the $19,842 recoup question (854), and with seconding the nonpublic motion (1072)"
+ },
+ "Speaker 16": {
+  "name": "Loren Howard",
+  "role": "School Board member (Policy Subcommittee Chair) - answers the chair's 'Lauren' calls (406-407, 785-786, 922-923; ASR renders Loren as 'Lauren'); makes the SHS handbook and policy motions the minutes attribute to Loren Howard (578, 930)"
+ },
+ "Speaker 17": {
+  "name": "Dr. Michael Herrington",
+  "role": "Principal, Stevens High School - answers Lavalette's question to 'Doctor Harrington' about hats (448-455; ASR renders Herrington as 'Harrington') and Whitney's handbook questions, which the minutes attribute to Dr. Herrington; not the same person as Michelle Herrington, principal of the tech center"
+ },
+ "Speaker 18": {
+  "name": "Unidentified",
+  "role": "Three short segments ('I will double check for.', 'Dramatically, dramatically.', 'Aye.'); speaker not determinable"
+ },
+ "Speaker 19": {
+  "name": "Candace Crawford",
+  "role": "School Board Chair - single segment 'All right. Is there a second.' (933), the chair's call for a second, continued in her own cluster at 934"
+ },
+ "__overrides__": {
+  "001": {
+   "name": "Unidentified",
+   "role": "Group recitation - Pledge of Allegiance (all present)"
+  },
+  "003": {
+   "name": "Noelle Kronberg",
+   "role": "School Board Clerk - calls the roll after the chair's 'Noel, would you please call? Roll call.' (002); the members' 'here' answers are inside this segment"
+  },
+  "051": {
+   "name": "Unidentified",
+   "role": "Short remark during the recognition photo ('Stand behind.'); speaker not determinable"
+  },
+  "060": {
+   "name": "Noelle Kronberg",
+   "role": "School Board Clerk (probable) - the minute-taker answering Lavalette's question about what the manifest note specified"
+  },
+  "073": {
+   "name": "Noelle Kronberg",
+   "role": "School Board Clerk (probable) - the minute-taker asking Lavalette to send his corrections to the previous meeting's minutes"
+  },
+  "085": {
+   "name": "Luke Diamond",
+   "role": "School District Treasurer (onset of his own sentence, 'I've been working with Doctor', clipped into another cluster)"
+  },
+  "087": {
+   "name": "Luke Diamond",
+   "role": "School District Treasurer (fragment 'Multiple' of his own sentence, clipped into another cluster)"
+  },
+  "137": {
+   "name": "Candace Crawford",
+   "role": "School Board Chair (floor call 'Others? Yes.', clipped into another cluster)"
+  },
+  "149": {
+   "name": "Candace Crawford",
+   "role": "School Board Chair (end of her own sentence 'the finance report from Doctor Broderick', clipped into another cluster)"
+  },
+  "184": {
+   "name": "Heather Whitney",
+   "role": "School Board member (probable) - 'Am I wrong?' continues her vacancy point at 181; diarized in Kennedy's cluster"
+  },
+  "339": {
+   "name": "Michael Petrin",
+   "role": "School Board Vice Chair - answers the chair's 'Mike.' (338) with the parking suggestion the minutes attribute to Michael Petrin; diarized in Lavalette's cluster"
+  },
+  "340": {
+   "name": "Michael Petrin",
+   "role": "School Board Vice Chair (last word 'Stroll' of his own sentence at 339, clipped into another cluster)"
+  },
+  "341": {
+   "name": "Michael Petrin",
+   "role": "School Board Vice Chair - parking reconfiguration suggestion the minutes attribute to Michael Petrin; diarized in Lavalette's cluster"
+  },
+  "342": {
+   "name": "Michael Petrin",
+   "role": "School Board Vice Chair - parking reconfiguration suggestion the minutes attribute to Michael Petrin; diarized in Lavalette's cluster"
+  },
+  "406": {
+   "name": "Candace Crawford",
+   "role": "School Board Chair (probable) - the recognition 'Lauren.' before Howard speaks, clipped into another cluster"
+  },
+  "451": {
+   "name": "Dr. Michael Herrington",
+   "role": "Principal, Stevens High School - 'Yes, absolutely.' answers Lavalette's question whether he would support a teacher who bans hats; the minutes record 'Dr. Herrington stated that he would'; diarized in Rapp's cluster"
+  },
+  "460": {
+   "name": "Candace Crawford",
+   "role": "School Board Chair (probable) - recognition 'Bill.' before Madden speaks, clipped into another cluster"
+  },
+  "588": {
+   "name": "Noel (Ward 2 resident; surname not given)",
+   "role": "Member of the public - asks to go to the podium during the dress-code discussion; ASR 'Noel'; not recorded in the draft minutes, which list citizens' comments as 'none'; may be the board clerk Noelle Kronberg speaking as a resident, but nothing in the record confirms it"
+  },
+  "589": {
+   "name": "Noel (Ward 2 resident; surname not given)",
+   "role": "Member of the public - self-identified 'Noel, Ward two' and a teacher; speaks on the dress code; identity beyond the announced first name not verifiable"
+  },
+  "590": {
+   "name": "Noel (Ward 2 resident; surname not given)",
+   "role": "Member of the public (continuation of 589)"
+  },
+  "591": {
+   "name": "Noel (Ward 2 resident; surname not given)",
+   "role": "Member of the public (continuation of 589)"
+  },
+  "886": {
+   "name": "Candace Crawford",
+   "role": "School Board Chair (probable) - 'Motion carries.' completes her vote call at 885; diarized in Rapp's cluster"
+  },
+  "1074": {
+   "name": "Unidentified",
+   "role": "Roll-call answer ('Yes') on the nonpublic motion; the clerk's name reading is not in the transcript, so the voter cannot be identified"
+  },
+  "1075": {
+   "name": "Noelle Kronberg",
+   "role": "School Board Clerk - calls 'Howard?' in the nonpublic roll call; diarized in Kennedy's cluster"
+  },
+  "1080": {
+   "name": "Noelle Kronberg",
+   "role": "School Board Clerk - continues the nonpublic roll call ('Heather Whitney'); the 'Yes' answers of other members are inside this segment"
+  }
+ }
+}

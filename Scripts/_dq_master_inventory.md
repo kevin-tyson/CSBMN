@@ -45,7 +45,7 @@ Where the sources genuinely disagree, the disagreement is stated inside the reco
 7. **C1.1 — the RSA 91-A:2, II mover/seconder clause was wrongly dated to 2023.** It has bound every meeting here since 1 January 2019, so the error was about to credit districts with voluntary compliance and to miss real defects in 2019–2023 minutes.
 8. **C1.151 — SAU 6 does not dissolve on 1 July 2026.** Two officials said it did and the project recorded it as settled background across §28 and several shipped pages; the SAU 6 chair corrects them on tape, and what ends is Unity's membership under RSA 194-C:2, IV.
 9. **B1.1 — phantom names at full ASR confidence.** `Nathan Ward, please` is the podium prompt, `Mr. Clark` is the District Clerk, `Leah` is the LEA, `Sussex` is SAU 6 — a class of garble that mints people who were never in the room.
-10. **D1.1 — the maintainer's CCTV board seat.** Kevin Tyson maintains this project and held Seat 3 on the Claremont Community Television Board of Directors from 13 July 2022 to 31 May 2025; CCTV is the source of every recording in the corpus, and he also appears in the record as a board applicant and a floor speaker.
+10. **D1.1 — the maintainer's CCTV board seat.** Kevin Tyson maintains this project and has served on the Claremont Community Television (CCTV) / Claremont Community Media Center (CCMC) Board of Directors since 13 July 2022, first in Seat 3, and still does (corrected 29 September 2026); CCTV is the source of every recording in the corpus, and he also appears in the record as a board applicant and a floor speaker.
 
 ---
 # CLASS A — DISTRICT SOURCE RECORDS
