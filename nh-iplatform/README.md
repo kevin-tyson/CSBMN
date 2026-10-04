@@ -203,7 +203,7 @@ The skill says so and offers the other browser. It never switches silently.
 
 -   No number is estimated or filled from memory.
 -   No downloads without asking, and no direct calls to `dashboards.nh.gov`.
--   Whole-state pulls happeexample requestn only when you ask for a ranking or comparison.
+-   Whole-state pulls happen only when you ask for a ranking or comparison..
 -   Intermediate files go only where you chose.
 
 ## Sources
