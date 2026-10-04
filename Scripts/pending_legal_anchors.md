@@ -1548,3 +1548,48 @@ amendment, not the enacted wording; cite the statute's own words instead.
 - **2025 HB 2 cell-phone provision**: the Stevens principal's "no phones ... due to a state law" (9/2/26,
   2:07:13) and Rapp's "technical advisory from the DOE" were left as the speakers' statements; the RSA section
   was not verified this run (education.nh.gov policy page returned 403).
+
+
+---
+
+## Rebuild of 2026-10-02/03: corrections to this file, and where the new anchors are
+
+The full rebuild's builders reported 479 provisions read from primary sources. They are
+collected, grouped by provision, in **`Scripts/anchors_rebuild_2026-10.md`**; promote from
+there after a vintage check. The corrections below affect lines already in this file.
+
+### CORRECTION: RSA 194:23-f, III no longer says the board sets the start date
+The section above ("CORRECTION, ACT ON THIS: RSA 194:23-f's amendment is IN FORCE from
+13 August 2024") quotes ¶III as "The school board shall decide the date at which the term
+shall begin." The text gc.nh.gov serves on 2026-10-03 has no such sentence: ¶III now reads
+that terms last one year and "any student who will graduate during the term's duration is not
+eligible to be a candidate and is not eligible to vote." Source note ends 2024, 69:1, eff.
+Aug. 13, 2024. Re-read the 2024 chaptered text before citing the start-date sentence for any
+meeting. https://gc.nh.gov/rsa/html/XV/194/194-23-f.htm (read 2026-10-03; two builders
+reported the same).
+
+### CORRECTION: RSA 198:20-b, III(b) wording
+The paraphrase above ("school board shall post notice in agenda and include notice in meeting
+minutes") omits the board's power to set a lower figure. Current text (2023, 38:1, eff.
+July 18, 2023): "A school board may establish the amount of unanticipated funds required for
+notice under this subparagraph, provided such amount is less than $20,000. For unanticipated
+funds in an amount less than $20,000, the school board shall post notice of the funds in the
+agenda and shall include notice in the minutes of the school board meeting in which such funds
+are discussed." https://gc.nh.gov/rsa/html/XV/198/198-20-b.htm (read 2026-10-03).
+
+### CORRECTION: RSA 189:11-a, VIII was in force before 2019
+The entry above says "IN FORCE FROM 2019, 301:1, eff. July 1, 2019." The 2018 codification
+already carries ¶VIII with source note 2016, 48:1, eff. July 2, 2016
+(https://law.justia.com/codes/new-hampshire/2018/title-xv/chapter-189/section-189-11-a/).
+2019, 301:1 amended the paragraph; it did not create it. For meetings from July 2, 2016 to
+June 30, 2019, cite the 2016 text (`anchors_2015_2022.md` line on the 2018 codification).
+
+### Further negatives and refinements reported by the builders (not re-verified here)
+- **RSA 186-C:3-a** says nothing about preschool; a member cited it for preschool on 12/13/24.
+- **RSA 186-C:18, III** (2024 codification) contains no "95% by law" figure and no 90% figure.
+- **RSA 91-A:1** has no numbered paragraphs; cite it without one.
+- **RSA 91-A:2, II** carries meeting start/end-time and producer language added by
+  **2025, 112:1**; check the meeting date before citing that sentence.
+- **RSA 198:4-d, III** has no "free days" grace period for the DOE-25 (claimed on 8/12/26).
+- **42 U.S.C. § 218d** does not exist (cited in district policy ACN, 3/6/24); 29 U.S.C. § 218d
+  is the nursing-mothers provision.

@@ -2,7 +2,7 @@
 
 Built 2026-08-18 by walking the shared Drive folder [[Packets - Posted to website]](https://drive.google.com/drive/folders/1LXgVyI9nJCv4jDy73lAFT0XT47S5bdBK), including its `[Archived Packets]` subtree, and matching folder dates against the five videos in `Input/Videos/`. Dates come from the video filenames (M-D-YY, so `72126` = 7/21/26); for the three board meetings the match is corroborated by an explicitly dated Drive folder name. The shared [Meeting Minutes](https://drive.google.com/drive/folders/1482gj2MFrWIESHvadUpXEx5Tn_L3Vjdv) folder (year folders 2023–2027 plus `Unsealed Minutes`) is also scanned as of 2026-08-18, feeding the `Minutes:` lines below. The `Remote video:` lines link the same meetings' recordings in Claremont Community TV's Cablecast gallery [CLAREMONT SCHOOLS](https://reflect-claremont.cablecast.tv/internetchannel/gallery/6?site=1), matched 2026-08-19 and re-checked 2026-08-22. On 2026-08-23 the map was extended backwards to cover the 39 meetings of January 2025 – January 2026 that already had attributed dialogue in `Output/Dialogue/` but no local video: their Cablecast show IDs are the numeric prefixes of the transcript file names, each confirmed against the show's own metadata, and their packets were matched in the [2025 Meeting Documents](https://drive.google.com/drive/folders/1V6Dyb9Gr78OG7_myE1dmYza2Db6xTrc6) and [FY 2025-2026 Meeting Documents](https://drive.google.com/drive/folders/1-rBO5fyVoFsbGeoNZfevNcuaoAnxcFgk) archives. SAU 6 board meetings draw on a separate share, [Schoolboard Packets](https://drive.google.com/drive/folders/1NxqIs1xjT8073FMEW_qO5YWuLp7zwJN5), documented here for the first time. On 2026-08-26 the nine folders of that share that had never been opened — the five 2024 meetings, 8/21/25, 8/26/25, 4/9/26 and 5/28/26 — were inventoried and added as sections, which renumbered every later section; their Cablecast matches came from the site's own search API and the Meeting Minutes share was re-checked in full (2024–2027 year folders) and holds no SAU 6 file of any kind. On 2026-08-28 the map was extended backwards again, to the whole of February 2023 – December 2024 and the February – June 2026 gap: 74 meetings whose videos had arrived in `Input/Videos/` and whose dialogue CSVs had just been completed, matched against two archives opened here for the first time — [2023 Meeting Documents](https://drive.google.com/drive/folders/1stI0GTNhKp5ovBt9DZKvhaqHYjSWg_oL) (28 folders) and [2024 Meeting Documents](https://drive.google.com/drive/folders/1cLgG0fJDuHC8ft3h09j4aRWLbnCL37Fh) (21) — plus the `2023` and `2024 Meeting Packets` archives inside the SAU 6 share and the 2023, 2024 and 2026 Meeting Minutes year folders. That run also gave five already-mapped SAU 6 sections their local video files. The same day a Cablecast pass added `Remote video:` links to all 74, every one confirmed against the show's own `/CablecastAPI/v1/shows/<id>` metadata rather than its gallery title.
 
-Last updated 2026-10-01 (full map update, third run: dialogue note added for `17566 SchoolBoard090226.mp4`; Drive and Cablecast unchanged); 2026-10-01 (full map update, second run: transcript note added for `17566 SchoolBoard090226.mp4`; Drive and Cablecast unchanged); 2026-10-01 (full map update): the full 9/2/26 meeting recording added to section 313 (local file `17566 SchoolBoard090226.mp4` and Cablecast show 17566, confirmed by `eventDate`); Drive re-checked with no new packet documents or minutes for any mapped meeting; the four SAU 6 meetings without a recording re-scanned by show id with no match. 2026-09-26 (full map update); 2026-08-28 (Drive and Cablecast); 2026-09-02: local video files recorded for the 39 January 2025 – January 2026 meetings downloaded on 2026-09-01/02 (19 of them renamed to match their transcripts; show 16872's file had carried Cablecast's wrong 9/26/25 eventDate), and dialogue CSVs recorded for the five mid-2026 meetings. 2026-09-24 (Drive): sections added for 1/3, 1/9, 1/11 and 1/17/23 and for 9/2 and 9/16/26 (every later section renumbered by four); 21 late documents added to the 8/19/26 packet table; unsealed 8/5/26 nonpublic minutes linked; finance-committee negatives for 6/19 and 8/12/26 re-confirmed. Same day (Cablecast): `Remote video:` lines added for those six sections, all confirmed by `eventDate` (shows 14822, 14835, 14833, 14847, 17575, 17574, 17594); the four SAU 6 meetings still without a recording (12/3/24, 8/21/25, 8/26/25, 5/28/26) were re-checked by scanning show ids around each date, with no match. 2026-09-26 (full map update, Drive and Cablecast): 180 sections added for the 2015 – 2022 meetings whose videos, transcripts and attributed dialogue were on hand (every later section renumbered by 180); the [2022 Meeting Documents](https://drive.google.com/drive/folders/1b1uvfbrRGH9_iyMTt9NTvKqabXNjyy9M) archive (10 folders) and the SAU 6 [2022 Meeting Packets](https://drive.google.com/drive/folders/1NnE26Z6CRFC1kvc6DGTGNiJCThXACf5O) archive (5 folders) were opened for the first time and supply packets for ten of them; the other 170 have no Drive material because neither share reaches back before July 2022. Every one of the 180 carries a `Remote video:` line whose show id is the file-name prefix, confirmed against `/CablecastAPI/v1/shows/<id>?site=1`; ten `eventDate` disagreements are recorded in the sections' date notes. Transcript notes were added to the four January 2023 sections.
+Last updated 2026-10-03 (corrections from the full page rebuild: the 2021-22 CSB Packets (Web) archive added to the July 2021 to June 2022 Claremont sections, with folders and agendas for 4/6/22 and 5/4/22 and the 2022 warrant for 2/9/22; 12/12/24 SAU 6 minutes approval noted; 4/2/25 nonpublic minutes relinked; section 307 folder ID corrected; section 100a renumbered 280a; date notes added to sections 59, 65, 124 and 251); 2026-10-01 (full map update, third run: dialogue note added for `17566 SchoolBoard090226.mp4`; Drive and Cablecast unchanged); 2026-10-01 (full map update, second run: transcript note added for `17566 SchoolBoard090226.mp4`; Drive and Cablecast unchanged); 2026-10-01 (full map update): the full 9/2/26 meeting recording added to section 313 (local file `17566 SchoolBoard090226.mp4` and Cablecast show 17566, confirmed by `eventDate`); Drive re-checked with no new packet documents or minutes for any mapped meeting; the four SAU 6 meetings without a recording re-scanned by show id with no match. 2026-09-26 (full map update); 2026-08-28 (Drive and Cablecast); 2026-09-02: local video files recorded for the 39 January 2025 – January 2026 meetings downloaded on 2026-09-01/02 (19 of them renamed to match their transcripts; show 16872's file had carried Cablecast's wrong 9/26/25 eventDate), and dialogue CSVs recorded for the five mid-2026 meetings. 2026-09-24 (Drive): sections added for 1/3, 1/9, 1/11 and 1/17/23 and for 9/2 and 9/16/26 (every later section renumbered by four); 21 late documents added to the 8/19/26 packet table; unsealed 8/5/26 nonpublic minutes linked; finance-committee negatives for 6/19 and 8/12/26 re-confirmed. Same day (Cablecast): `Remote video:` lines added for those six sections, all confirmed by `eventDate` (shows 14822, 14835, 14833, 14847, 17575, 17574, 17594); the four SAU 6 meetings still without a recording (12/3/24, 8/21/25, 8/26/25, 5/28/26) were re-checked by scanning show ids around each date, with no match. 2026-09-26 (full map update, Drive and Cablecast): 180 sections added for the 2015 – 2022 meetings whose videos, transcripts and attributed dialogue were on hand (every later section renumbered by 180); the [2022 Meeting Documents](https://drive.google.com/drive/folders/1b1uvfbrRGH9_iyMTt9NTvKqabXNjyy9M) archive (10 folders) and the SAU 6 [2022 Meeting Packets](https://drive.google.com/drive/folders/1NnE26Z6CRFC1kvc6DGTGNiJCThXACf5O) archive (5 folders) were opened for the first time and supply packets for ten of them; the other 170 have no Drive material because neither share reaches back before July 2022. Every one of the 180 carries a `Remote video:` line whose show id is the file-name prefix, confirmed against `/CablecastAPI/v1/shows/<id>?site=1`; ten `eventDate` disagreements are recorded in the sections' date notes. Transcript notes were added to the four January 2023 sections.
 
 Meetings are listed chronologically.
 
@@ -360,6 +360,8 @@ No Drive material: neither share holds a year folder older than 2022, and the Me
 
 Video: `Input/Videos/9602 SchoolBoardDeliberative020818.mp4` (transcript also on hand: `Input/Transcripts/9602 SchoolBoardDeliberative020818.mp4.json`; dialogue: `Output/HTML/Dialogue/9602 SchoolBoardDeliberative020818.mp4.CSV`) *(mapped 9/26/26)* Remote video: [SCHOOL BUDGET DELIBERATIVE SESSION 2-8](https://reflect-claremont.cablecast.tv/internetchannel/show/9602?site=1)
 
+Date note: the board announced the session for Wednesday, February 7, 2018 (1/3/18 agenda and the 1/30 and 1/31 recordings); the file name, Cablecast title and `eventDate` say February 8. Not resolved; a weather postponement is possible but not established.
+
 No Drive material: neither share holds a year folder older than 2022, and the Meeting Minutes share starts at 2023 (checked 9/26/26).
 
 ## 60. Claremont School Board — February 21, 2018
@@ -395,6 +397,8 @@ No Drive material: neither share holds a year folder older than 2022, and the Me
 ## 65. Claremont School Board & City Council, Joint Meeting — April 24, 2018
 
 Video: `Input/Videos/9734 SchoolBoardCityCouncilJoint042418.mp4` (transcript also on hand: `Input/Transcripts/9734 SchoolBoardCityCouncilJoint042418.mp4.json`; dialogue: `Output/HTML/Dialogue/9734 SchoolBoardCityCouncilJoint042418.mp4.CSV`) *(mapped 9/26/26)* Remote video: [JOINT MEETING- COUNCIL & SCHOOL BOARD 4-17](https://reflect-claremont.cablecast.tv/internetchannel/show/9734?site=1)
+
+Date note (2026-10-03): the recording's content points to Tuesday 4/17/18, matching the show title: events of April 21 to 23 are announced as upcoming, a House committee vote on "the 18th" is "maybe tomorrow", and on 6/21/18 (show 9849) members three times call the previous joint meeting "April 17th". Worth checking against the City Council minutes.
 
 Date note: The show title says 4-17 but `eventDate` and the file name agree on 4/24/18.
 
@@ -756,6 +760,8 @@ No Drive material: neither share holds a year folder older than 2022, and the Me
 
 Video: `Input/Videos/10722 SchoolBoardDeliberative020120.mp4` (transcript also on hand: `Input/Transcripts/10722 SchoolBoardDeliberative020120.mp4.json`; dialogue: `Output/HTML/Dialogue/10722 SchoolBoardDeliberative020120.mp4.CSV`) *(mapped 9/26/26)* Remote video: [SCHOOL BOARD Deliberative Session on the Budget 2/5/20](https://reflect-claremont.cablecast.tv/internetchannel/show/10722?site=1)
 
+Date note: the heading and file name say Saturday 2/1/20, but the Cablecast title says 2/5/20, the 1/21/20 board motion (show 10704) and the Valley News notice of 1/22/20 set the session for Wednesday, February 5, 2020 at 6:30 p.m., and the recording is an evening session. The 2026-10-03 page uses February 5 in its facts panel; the heading is left unchanged pending a decision.
+
 No Drive material: neither share holds a year folder older than 2022, and the Meeting Minutes share starts at 2023 (checked 9/26/26).
 
 ## 125. Claremont School Board — March 4, 2020
@@ -902,11 +908,15 @@ Video: `Input/Videos/11776 SchoolBoard072121.mp4` (transcript also on hand: `Inp
 
 No Drive material: neither share holds a year folder older than 2022, and the Meeting Minutes share starts at 2023 (checked 9/26/26).
 
+Correction (2026-10-03): a Claremont packet archive for this school year does exist, [2021 22 CSB Packets (Web)](https://drive.google.com/drive/folders/1XpFlvItswy0DgDy6mvaHyWv8qZE6Xf6I) (owner `sau6webmaster`, created 2021-06-30). The Drive API lists only two of its folders, `18.  CSB 4.6.22` and `19.  CSB 5.4.22`; the numbering implies folders 1 to 17 for earlier 2021-22 meetings that the API does not return. Enumerate the archive in a browser before treating this meeting as having no packet.
+
 ## 148. Claremont School Board — August 4, 2021
 
 Video: `Input/Videos/11793 SchoolBoard080421.mp4` (transcript also on hand: `Input/Transcripts/11793 SchoolBoard080421.mp4.json`; dialogue: `Output/HTML/Dialogue/11793 SchoolBoard080421.mp4.CSV`) *(mapped 9/26/26)* Remote video: [Claremont School Board Meeting of 8-4-21](https://reflect-claremont.cablecast.tv/internetchannel/show/11793?site=1)
 
 No Drive material: neither share holds a year folder older than 2022, and the Meeting Minutes share starts at 2023 (checked 9/26/26).
+
+Correction (2026-10-03): a Claremont packet archive for this school year does exist, [2021 22 CSB Packets (Web)](https://drive.google.com/drive/folders/1XpFlvItswy0DgDy6mvaHyWv8qZE6Xf6I) (owner `sau6webmaster`, created 2021-06-30). The Drive API lists only two of its folders, `18.  CSB 4.6.22` and `19.  CSB 5.4.22`; the numbering implies folders 1 to 17 for earlier 2021-22 meetings that the API does not return. Enumerate the archive in a browser before treating this meeting as having no packet.
 
 ## 149. Claremont School Board — August 18, 2021
 
@@ -914,17 +924,23 @@ Video: `Input/Videos/11825 SchoolBoard081821.mp4` (transcript also on hand: `Inp
 
 No Drive material: neither share holds a year folder older than 2022, and the Meeting Minutes share starts at 2023 (checked 9/26/26).
 
+Correction (2026-10-03): a Claremont packet archive for this school year does exist, [2021 22 CSB Packets (Web)](https://drive.google.com/drive/folders/1XpFlvItswy0DgDy6mvaHyWv8qZE6Xf6I) (owner `sau6webmaster`, created 2021-06-30). The Drive API lists only two of its folders, `18.  CSB 4.6.22` and `19.  CSB 5.4.22`; the numbering implies folders 1 to 17 for earlier 2021-22 meetings that the API does not return. Enumerate the archive in a browser before treating this meeting as having no packet.
+
 ## 150. Claremont School Board — September 1, 2021
 
 Video: `Input/Videos/11862 SchoolBoard090121.mp4` (transcript also on hand: `Input/Transcripts/11862 SchoolBoard090121.mp4.json`; dialogue: `Output/HTML/Dialogue/11862 SchoolBoard090121.mp4.CSV`) *(mapped 9/26/26)* Remote video: [Claremont School Board Meeting of 9/1/21](https://reflect-claremont.cablecast.tv/internetchannel/show/11862?site=1)
 
 No Drive material: neither share holds a year folder older than 2022, and the Meeting Minutes share starts at 2023 (checked 9/26/26).
 
+Correction (2026-10-03): a Claremont packet archive for this school year does exist, [2021 22 CSB Packets (Web)](https://drive.google.com/drive/folders/1XpFlvItswy0DgDy6mvaHyWv8qZE6Xf6I) (owner `sau6webmaster`, created 2021-06-30). The Drive API lists only two of its folders, `18.  CSB 4.6.22` and `19.  CSB 5.4.22`; the numbering implies folders 1 to 17 for earlier 2021-22 meetings that the API does not return. Enumerate the archive in a browser before treating this meeting as having no packet.
+
 ## 151. Claremont School Board — September 15, 2021
 
 Video: `Input/Videos/11886 SchoolBoard091521.mp4` (transcript also on hand: `Input/Transcripts/11886 SchoolBoard091521.mp4.json`; dialogue: `Output/HTML/Dialogue/11886 SchoolBoard091521.mp4.CSV`) *(mapped 9/26/26)* Remote video: [School Board live on 9/15/21](https://reflect-claremont.cablecast.tv/internetchannel/show/11886?site=1)
 
 No Drive material: neither share holds a year folder older than 2022, and the Meeting Minutes share starts at 2023 (checked 9/26/26).
+
+Correction (2026-10-03): a Claremont packet archive for this school year does exist, [2021 22 CSB Packets (Web)](https://drive.google.com/drive/folders/1XpFlvItswy0DgDy6mvaHyWv8qZE6Xf6I) (owner `sau6webmaster`, created 2021-06-30). The Drive API lists only two of its folders, `18.  CSB 4.6.22` and `19.  CSB 5.4.22`; the numbering implies folders 1 to 17 for earlier 2021-22 meetings that the API does not return. Enumerate the archive in a browser before treating this meeting as having no packet.
 
 ## 152. SAU 6 Board — September 20, 2021
 
@@ -938,6 +954,8 @@ Video: `Input/Videos/11963 SchoolBoard102021.mp4` (transcript also on hand: `Inp
 
 No Drive material: neither share holds a year folder older than 2022, and the Meeting Minutes share starts at 2023 (checked 9/26/26).
 
+Correction (2026-10-03): a Claremont packet archive for this school year does exist, [2021 22 CSB Packets (Web)](https://drive.google.com/drive/folders/1XpFlvItswy0DgDy6mvaHyWv8qZE6Xf6I) (owner `sau6webmaster`, created 2021-06-30). The Drive API lists only two of its folders, `18.  CSB 4.6.22` and `19.  CSB 5.4.22`; the numbering implies folders 1 to 17 for earlier 2021-22 meetings that the API does not return. Enumerate the archive in a browser before treating this meeting as having no packet.
+
 ## 154. SAU 6 Board — October 21, 2021
 
 Video: `Input/Videos/11980 SAU6102121.mp4` (transcript also on hand: `Input/Transcripts/11980 SAU6102121.mp4.json`; dialogue: `Output/HTML/Dialogue/11980 SAU6102121.mp4.CSV`) *(mapped 9/26/26)* Remote video: [SAU 6 Meeting of 10/21/21](https://reflect-claremont.cablecast.tv/internetchannel/show/11980?site=1)
@@ -949,6 +967,8 @@ No Drive material: neither share holds a year folder older than 2022, and the Me
 Video: `Input/Videos/12005 SchoolBoard110321.mp4` (transcript also on hand: `Input/Transcripts/12005 SchoolBoard110321.mp4.json`; dialogue: `Output/HTML/Dialogue/12005 SchoolBoard110321.mp4.CSV`) *(mapped 9/26/26)* Remote video: [Claremont School Board of 11/3/21](https://reflect-claremont.cablecast.tv/internetchannel/show/12005?site=1)
 
 No Drive material: neither share holds a year folder older than 2022, and the Meeting Minutes share starts at 2023 (checked 9/26/26).
+
+Correction (2026-10-03): a Claremont packet archive for this school year does exist, [2021 22 CSB Packets (Web)](https://drive.google.com/drive/folders/1XpFlvItswy0DgDy6mvaHyWv8qZE6Xf6I) (owner `sau6webmaster`, created 2021-06-30). The Drive API lists only two of its folders, `18.  CSB 4.6.22` and `19.  CSB 5.4.22`; the numbering implies folders 1 to 17 for earlier 2021-22 meetings that the API does not return. Enumerate the archive in a browser before treating this meeting as having no packet.
 
 ## 156. SAU 6 Board — November 18, 2021
 
@@ -962,6 +982,8 @@ Video: `Input/Videos/12056 SchoolBoard120121.mp4` (transcript also on hand: `Inp
 
 No Drive material: neither share holds a year folder older than 2022, and the Meeting Minutes share starts at 2023 (checked 9/26/26).
 
+Correction (2026-10-03): a Claremont packet archive for this school year does exist, [2021 22 CSB Packets (Web)](https://drive.google.com/drive/folders/1XpFlvItswy0DgDy6mvaHyWv8qZE6Xf6I) (owner `sau6webmaster`, created 2021-06-30). The Drive API lists only two of its folders, `18.  CSB 4.6.22` and `19.  CSB 5.4.22`; the numbering implies folders 1 to 17 for earlier 2021-22 meetings that the API does not return. Enumerate the archive in a browser before treating this meeting as having no packet.
+
 ## 158. SAU 6 Board — December 16, 2021
 
 Video: `Input/Videos/12088 SAU6121621.mp4` (transcript also on hand: `Input/Transcripts/12088 SAU6121621.mp4.json`; dialogue: `Output/HTML/Dialogue/12088 SAU6121621.mp4.CSV`) *(mapped 9/26/26)* Remote video: [SAU 6 Board Meeting of 12/16/21](https://reflect-claremont.cablecast.tv/internetchannel/show/12088?site=1)
@@ -974,17 +996,23 @@ Video: `Input/Videos/12115 SchoolBoard010522.mp4` (transcript also on hand: `Inp
 
 No packet folder: the district's `2022 Meeting Documents` archive begins with `1.  CSB 7.20.22` and the SAU 6 `2022 Meeting Packets` archive with `1. SAU SB Retreat 7.24.22`; no Meeting Minutes year folder predates 2023 (checked 9/26/26).
 
+Correction (2026-10-03): a Claremont packet archive for this school year does exist, [2021 22 CSB Packets (Web)](https://drive.google.com/drive/folders/1XpFlvItswy0DgDy6mvaHyWv8qZE6Xf6I) (owner `sau6webmaster`, created 2021-06-30). The Drive API lists only two of its folders, `18.  CSB 4.6.22` and `19.  CSB 5.4.22`; the numbering implies folders 1 to 17 for earlier 2021-22 meetings that the API does not return. Enumerate the archive in a browser before treating this meeting as having no packet.
+
 ## 160. Claremont School Board — January 18, 2022
 
 Video: `Input/Videos/12151 SchoolBoard011822.mp4` (transcript also on hand: `Input/Transcripts/12151 SchoolBoard011822.mp4.json`; dialogue: `Output/HTML/Dialogue/12151 SchoolBoard011822.mp4.CSV`) *(mapped 9/26/26)* Remote video: [School Board Meeting live on 1/18/22](https://reflect-claremont.cablecast.tv/internetchannel/show/12151?site=1)
 
 No packet folder: the district's `2022 Meeting Documents` archive begins with `1.  CSB 7.20.22` and the SAU 6 `2022 Meeting Packets` archive with `1. SAU SB Retreat 7.24.22`; no Meeting Minutes year folder predates 2023 (checked 9/26/26).
 
+Correction (2026-10-03): a Claremont packet archive for this school year does exist, [2021 22 CSB Packets (Web)](https://drive.google.com/drive/folders/1XpFlvItswy0DgDy6mvaHyWv8qZE6Xf6I) (owner `sau6webmaster`, created 2021-06-30). The Drive API lists only two of its folders, `18.  CSB 4.6.22` and `19.  CSB 5.4.22`; the numbering implies folders 1 to 17 for earlier 2021-22 meetings that the API does not return. Enumerate the archive in a browser before treating this meeting as having no packet.
+
 ## 161. Claremont School Board — February 2, 2022
 
 Video: `Input/Videos/12180 SchoolBoard020222.mp4` (transcript also on hand: `Input/Transcripts/12180 SchoolBoard020222.mp4.json`; dialogue: `Output/HTML/Dialogue/12180 SchoolBoard020222.mp4.CSV`) *(mapped 9/26/26)* Remote video: [Claremont School Board of 2/2/22](https://reflect-claremont.cablecast.tv/internetchannel/show/12180?site=1)
 
 No packet folder: the district's `2022 Meeting Documents` archive begins with `1.  CSB 7.20.22` and the SAU 6 `2022 Meeting Packets` archive with `1. SAU SB Retreat 7.24.22`; no Meeting Minutes year folder predates 2023 (checked 9/26/26).
+
+Correction (2026-10-03): a Claremont packet archive for this school year does exist, [2021 22 CSB Packets (Web)](https://drive.google.com/drive/folders/1XpFlvItswy0DgDy6mvaHyWv8qZE6Xf6I) (owner `sau6webmaster`, created 2021-06-30). The Drive API lists only two of its folders, `18.  CSB 4.6.22` and `19.  CSB 5.4.22`; the numbering implies folders 1 to 17 for earlier 2021-22 meetings that the API does not return. Enumerate the archive in a browser before treating this meeting as having no packet.
 
 ## 162. Claremont School District, Deliberative Session — February 9, 2022
 
@@ -994,6 +1022,8 @@ Minutes on hand only as packet documents (the Meeting Minutes share starts in 20
 
 No packet folder: the district's `2022 Meeting Documents` archive begins with `1.  CSB 7.20.22` and the SAU 6 `2022 Meeting Packets` archive with `1. SAU SB Retreat 7.24.22`; no Meeting Minutes year folder predates 2023 (checked 9/26/26).
 
+Correction (2026-10-03): a Claremont packet archive for this school year does exist, [2021 22 CSB Packets (Web)](https://drive.google.com/drive/folders/1XpFlvItswy0DgDy6mvaHyWv8qZE6Xf6I) (owner `sau6webmaster`, created 2021-06-30). The Drive API lists only two of its folders, `18.  CSB 4.6.22` and `19.  CSB 5.4.22`; the numbering implies folders 1 to 17 for earlier 2021-22 meetings that the API does not return. Enumerate the archive in a browser before treating this meeting as having no packet. Separately, [2022 CL Warrant.pdf](https://drive.google.com/file/d/1F94droZXetorOhuII8ObQTA2MpDkRorx/view) (owner `msmall@sau6.org`, created 2022-02-08) is the warrant for this session; it was shared directly with the project account on 2022-05-04 and the API shows no parent folder, so its public location is unknown.
+
 ## 163. Claremont School Board — February 16, 2022
 
 Video: `Input/Videos/12210 SchoolBoard021622.mp4` (transcript also on hand: `Input/Transcripts/12210 SchoolBoard021622.mp4.json`; dialogue: `Output/HTML/Dialogue/12210 SchoolBoard021622.mp4.CSV`) *(mapped 9/26/26)* Remote video: [School Board Meeting Emergency Session of 2/16/22](https://reflect-claremont.cablecast.tv/internetchannel/show/12210?site=1)
@@ -1002,6 +1032,8 @@ Date note: Cablecast `eventDate` is 2/17/22; the show title and file name say 2/
 
 No packet folder: the district's `2022 Meeting Documents` archive begins with `1.  CSB 7.20.22` and the SAU 6 `2022 Meeting Packets` archive with `1. SAU SB Retreat 7.24.22`; no Meeting Minutes year folder predates 2023 (checked 9/26/26).
 
+Correction (2026-10-03): a Claremont packet archive for this school year does exist, [2021 22 CSB Packets (Web)](https://drive.google.com/drive/folders/1XpFlvItswy0DgDy6mvaHyWv8qZE6Xf6I) (owner `sau6webmaster`, created 2021-06-30). The Drive API lists only two of its folders, `18.  CSB 4.6.22` and `19.  CSB 5.4.22`; the numbering implies folders 1 to 17 for earlier 2021-22 meetings that the API does not return. Enumerate the archive in a browser before treating this meeting as having no packet.
+
 ## 164. Claremont School Board — April 6, 2022
 
 Video: `Input/Videos/12315 SchoolBoard040622.mp4` (transcript also on hand: `Input/Transcripts/12315 SchoolBoard040622.mp4.json`; dialogue: `Output/HTML/Dialogue/12315 SchoolBoard040622.mp4.CSV`) *(mapped 9/26/26)* Remote video: [School Board Meeting live on 4/6/22](https://reflect-claremont.cablecast.tv/internetchannel/show/12315?site=1)
@@ -1009,6 +1041,8 @@ Video: `Input/Videos/12315 SchoolBoard040622.mp4` (transcript also on hand: `Inp
 Minutes on hand only as packet documents (the Meeting Minutes share starts in 2023): [CSB Board Public Hearing & Regular minutes 4.6.22.pdf](https://drive.google.com/file/d/1Nu4iN30VkvVp-PMLBqgvM4TbFYcE20CM/view) *(filed in the packet folder `1.  CSB 7.20.22`)*
 
 No packet folder: the district's `2022 Meeting Documents` archive begins with `1.  CSB 7.20.22` and the SAU 6 `2022 Meeting Packets` archive with `1. SAU SB Retreat 7.24.22`; no Meeting Minutes year folder predates 2023 (checked 9/26/26).
+
+Correction (2026-10-03): the packet folder exists in the [2021 22 CSB Packets (Web)](https://drive.google.com/drive/folders/1XpFlvItswy0DgDy6mvaHyWv8qZE6Xf6I) archive: [18.  CSB 4.6.22](https://drive.google.com/drive/folders/1VA9QlwTX4ChMoDbrN2uPEhX92EPyNcnL) (created 2022-04-04), holding the agenda Google Doc [Claremont School Board Public Hearing & Regular Meeting Agenda  4.6.22](https://docs.google.com/document/d/1GUaDyVHucW5KYrheOWICZKvE7P_Bhk3XsxqqIfOtb1w/edit) (created 2022-04-04 13:19 UTC). The API lists only that one file; the folder was last modified 2022-07-27, so a browser check may find more.
 
 ## 165. SAU 6 Board — April 21, 2022
 
@@ -1024,11 +1058,15 @@ Video: `Input/Videos/12366 SchoolBoard050422.mp4` (transcript also on hand: `Inp
 
 No packet folder: the district's `2022 Meeting Documents` archive begins with `1.  CSB 7.20.22` and the SAU 6 `2022 Meeting Packets` archive with `1. SAU SB Retreat 7.24.22`; no Meeting Minutes year folder predates 2023 (checked 9/26/26).
 
+Correction (2026-10-03): the packet folder exists in the [2021 22 CSB Packets (Web)](https://drive.google.com/drive/folders/1XpFlvItswy0DgDy6mvaHyWv8qZE6Xf6I) archive: [19.  CSB 5.4.22](https://drive.google.com/drive/folders/1JEfEcMzNZ_24q9TRMNWriWxQJNXVaVWp) (created 2022-05-02), holding [CSB Agenda 5.4.22 (2).pdf](https://drive.google.com/file/d/11YgcS52j6529xhHZ5Lr9xWmxH0YQGHj5/view) (created 2022-05-02 14:00 UTC). No minutes found there.
+
 ## 167. Claremont School Board — May 18, 2022
 
 Video: `Input/Videos/12399 SchoolBoard051822.mp4` (transcript also on hand: `Input/Transcripts/12399 SchoolBoard051822.mp4.json`; dialogue: `Output/HTML/Dialogue/12399 SchoolBoard051822.mp4.CSV`) *(mapped 9/26/26)* Remote video: [School Board Meeting live on 5/18/22](https://reflect-claremont.cablecast.tv/internetchannel/show/12399?site=1)
 
 No packet folder: the district's `2022 Meeting Documents` archive begins with `1.  CSB 7.20.22` and the SAU 6 `2022 Meeting Packets` archive with `1. SAU SB Retreat 7.24.22`; no Meeting Minutes year folder predates 2023 (checked 9/26/26).
+
+Correction (2026-10-03): a Claremont packet archive for this school year does exist, [2021 22 CSB Packets (Web)](https://drive.google.com/drive/folders/1XpFlvItswy0DgDy6mvaHyWv8qZE6Xf6I) (owner `sau6webmaster`, created 2021-06-30). The Drive API lists only two of its folders, `18.  CSB 4.6.22` and `19.  CSB 5.4.22`; the numbering implies folders 1 to 17 for earlier 2021-22 meetings that the API does not return. Enumerate the archive in a browser before treating this meeting as having no packet.
 
 ## 168. SAU 6 Board — May 19, 2022
 
@@ -1043,6 +1081,8 @@ Video: `Input/Videos/13420 SchoolBoard061522.mp4` (transcript also on hand: `Inp
 Minutes on hand only as packet documents (the Meeting Minutes share starts in 2023): [CSB Agenda minutes 6.15.22 .pdf](https://drive.google.com/file/d/1VYbg-o_0WSxW3hpL9ZnleYPw4ykXYBa7/view) *(filed in the packet folder `1.  CSB 7.20.22`)*
 
 No packet folder: the district's `2022 Meeting Documents` archive begins with `1.  CSB 7.20.22` and the SAU 6 `2022 Meeting Packets` archive with `1. SAU SB Retreat 7.24.22`; no Meeting Minutes year folder predates 2023 (checked 9/26/26).
+
+Correction (2026-10-03): a Claremont packet archive for this school year does exist, [2021 22 CSB Packets (Web)](https://drive.google.com/drive/folders/1XpFlvItswy0DgDy6mvaHyWv8qZE6Xf6I) (owner `sau6webmaster`, created 2021-06-30). The Drive API lists only two of its folders, `18.  CSB 4.6.22` and `19.  CSB 5.4.22`; the numbering implies folders 1 to 17 for earlier 2021-22 meetings that the API does not return. Enumerate the archive in a browser before treating this meeting as having no packet.
 
 ## 170. SAU 6 Board — June 16, 2022
 
@@ -4702,7 +4742,7 @@ PDF
 
 Video: `Input/Videos/16213 SAU6121224.mp4` (transcript also on hand: `Input/Transcripts/16213 SAU6121224.mp4.json`; dialogue: `Output/HTML/Dialogue/16213 SAU6121224.mp4.CSV`) *(local copy and attributed dialogue added 8/28/26)* Remote video: [SAU #6 Board Meeting - 12/12/24](https://reflect-claremont.cablecast.tv/internetchannel/show/16213?site=1) Drive folder: [5. SAU6 12.12.24](https://drive.google.com/drive/folders/1tMDtTkpxCg6Gg4KqXGsLxjWwYrz0tFhI) — 8 documents *(in the SAU 6 Schoolboard Packets)*
 
-No minutes for this meeting exist in either share. The next SAU 6 packet folder is `6. SAU6 6.12.25`, six months later, and it carries only the 4/10/25 draft; the Claremont [Meeting Minutes](https://drive.google.com/drive/folders/1482gj2MFrWIESHvadUpXEx5Tn_L3Vjdv) share holds no SAU 6 files at all (2024–2027 year folders checked 2026-08-26).
+No minutes for this meeting exist in either share, although they were approved: the [4/10/25 SAU 6 draft minutes](https://drive.google.com/file/d/1KcmceeO49Fd392oO_RBk86who2DyTLkT/view) record "Heather Whitney made a motion to approve the minutes from 12.12.24 as presented, Michael Petrin seconded the motion" by voice vote, all present in favor (noted 2026-10-03). The next SAU 6 packet folder is `6. SAU6 6.12.25`, six months later, and it carries only the 4/10/25 draft; the Claremont [Meeting Minutes](https://drive.google.com/drive/folders/1482gj2MFrWIESHvadUpXEx5Tn_L3Vjdv) share holds no SAU 6 files at all (2024–2027 year folders checked 2026-08-26).
 
 Document
 
@@ -4843,6 +4883,8 @@ PDF
 ## 251. Claremont School Board Finance Committee — January 6, 2025
 
 Video: `Input/Videos/16246 SchoolBoardFinance010625.mp4` *(local copy added 2026-09-01/02)* (transcript also on hand: `Input/Transcripts/16246 SchoolBoardFinance010625.mp4.json`; dialogue: `Output/HTML/Dialogue/16246 SchoolBoardFinance010625.mp4.CSV`) Remote video: [School Board Finance Meeting 1/6/24](https://reflect-claremont.cablecast.tv/internetchannel/show/16246?site=1)
+
+Date note: the Cablecast title reads 1/6/24, but the file name, `eventDate` and content place this session on January 6, 2025.
 
 **No packet or minutes found in either district share.** Checked the [2025 Meeting Documents](https://drive.google.com/drive/folders/1V6Dyb9Gr78OG7_myE1dmYza2Db6xTrc6) and [FY 2025-2026 Meeting Documents](https://drive.google.com/drive/folders/1-rBO5fyVoFsbGeoNZfevNcuaoAnxcFgk) archives, both candidate year folders in the Meeting Minutes share, and Drive keyword searches for `finance` and the dotted date. The district does maintain a [Claremont Finance Sub Committee](https://drive.google.com/drive/folders/1tRpGMsplz7AVzNThjhWtl7yOHiCiNZmn) folder (owned by `sau6webmaster`), but it is **empty** — verified 2026-08-23.
 
@@ -5262,7 +5304,7 @@ PDF
 
 [open](https://drive.google.com/file/d/1taw19erQ_eL7sPRuEJ05bcxbS3XGaI3_/view)
 
-The Unsealed Minutes share holds [`4.3.25 CSB nonpublic minutes Unsealed`](https://drive.google.com/file/d/1S5bhZcYSHSwq2t3BUpiOh5_cNjeleTkr/view), dated the following day; it is not linked to this meeting because the date does not match.
+Nonpublic minutes: [`4.3.25 CSB nonpublic minutes Unsealed`](https://drive.google.com/file/d/1S5bhZcYSHSwq2t3BUpiOh5_cNjeleTkr/view) in the Unsealed Minutes share belongs to this meeting. The file name says 4.3.25 (the file was created 2025-04-03), but the form inside is dated 4/2/25 and its members, motions and times match this meeting (relinked 2026-10-03).
 
 ## 262. SAU 6 Board — April 10, 2025
 
@@ -6246,7 +6288,7 @@ Video: `Input/Videos/16881 SchoolBoardSpecial100625.mp4` (transcript also on han
 
 Folder `9. CSB 10.6.25` holds exactly one document, `CSB Agenda 10.6.25`; folder created 2025-10-03T17:02:57Z and the agenda six seconds later — about 76 hours' notice. **No minutes exist for 10/6/25 and none were ever approved**: the approved 12/3/25 minutes list 9/17, 10/1, 10/15, 11/5 and 11/19, and omit 10/6.
 
-## 100a. SAU 6 Board, Special Meeting — October 6, 2025
+## 280a. SAU 6 Board, Special Meeting — October 6, 2025
 
 Video: `Input/Videos/16882 SAU6BoardMeeting100625.mp4` *(local copy added 2026-09-01/02)* (transcript also on hand: `Input/Transcripts/16882 SAU6BoardMeeting100625.mp4.json`; dialogue: `Output/HTML/Dialogue/16882 SAU6BoardMeeting100625.mp4.CSV`) *(note: `Input/Videos/16881 SchoolBoardSpecial100625.mp4` is now on hand but is a DIFFERENT show — [Special School Board Meeting 10/6/25](https://reflect-claremont.cablecast.tv/internetchannel/show/16881?site=1), a Claremont School Board special meeting the same evening (`eventDate` 2025-10-06, verified 8/28/26), with its own transcript and dialogue CSV. The FY 2025-2026 archive holds a `9. CSB 10.6.25` packet folder that belongs to that meeting, not this one; it has not been inventoried. Added 8/28/26)* Remote video: [Special SAU #6 Board Meeting - 10/6/25](https://reflect-claremont.cablecast.tv/internetchannel/show/16882?site=1) Drive folder: [11. SAU6 10.6.25](https://drive.google.com/drive/folders/1VKnWAXxaY7oOZA5lk20TON9y2kdWnjE7) — 1 document *(in the SAU 6 Schoolboard Packets)*
 
@@ -6264,7 +6306,7 @@ PDF
 
 [open](https://drive.google.com/file/d/1_F6LXo8RA89Xfy7k9CEWj7l0_t4t4tQC/view)
 
-A same-date folder also exists in the Claremont packets share, [9. CSB 10.6.25](https://drive.google.com/drive/folders/1baMTL30f1zPVUF5hcKkLBKq45TH9Os2l), holding one document: [`CSB Agenda 10.6.25`](https://drive.google.com/file/d/1GdN7ZwOjFyPYTNEd65sQdXZE473iNMfC/view). Whether the two agendas describe the same gathering was not determined; document contents were not opened.
+A same-date folder also exists in the Claremont packets share, [9. CSB 10.6.25](https://drive.google.com/drive/folders/1baMTL30f1zPVUF5hcKkLBKq45TH9Os2l), holding one document: [`CSB Agenda 10.6.25`](https://drive.google.com/file/d/1GdN7ZwOjFyPYTNEd65sQdXZE473iNMfC/view). That folder and agenda belong to the Claremont School Board special meeting at 5:30 p.m. (show 16881, section 280); this section is the SAU 6 meeting at 6:00 p.m. (resolved 2026-08-29; section renumbered from 100a to 280a on 2026-10-03 so it sits under the number of the meeting it follows).
 
 ## 281. Claremont School Board — October 15, 2025
 
@@ -7494,7 +7536,7 @@ Video: `Input/Videos/School Board Finance Committee - 61926.mp4` (transcript als
 
 Nearest related items, for reference:
 
--   [28. CSB 6.17.26](https://drive.google.com/drive/folders/1EI-n-x52QAsCeJQHO5dciuwwaOBVhVMZ) — board packet from two days before this meeting (in the FY 2025-2026 archive).
+-   [28. CSB 6.17.26](https://drive.google.com/drive/folders/1rOOpju69k_DYPtfAzumSJg11Fv4RVRep) — board packet from two days before this meeting (in the FY 2025-2026 archive). Corrected 2026-10-03: the folder ID listed here earlier (`1EI-n-x52QAsCeJQHO5dciuwwaOBVhVMZ`) is `27. CSB 6.3.26`.
 -   Your own files, outside the shared folder: [Finance Sub-Committee 2026-06-19 - Minutes with video links](https://drive.google.com/open?id=1Ku7qQ-q6Ubure_1YE83EbOGuklm_uv24) and [Copy of Finance Sub-Committee June 19, 2026.docx](https://drive.google.com/file/d/14h3LrdZWWgIG4RtNZ_QPxNdy_LfYSXDs/view).
 
 ## 308. Claremont School Board — July 21, 2026

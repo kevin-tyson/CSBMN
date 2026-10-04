@@ -929,7 +929,7 @@ re-read it at the time of writing.
 
 **h. Drive `createdTime`, fourth refinement — for the 2026 Claremont minutes it dates the CALL
 TO ORDER.** The clerk drafts in the document live, so 3.4.26 minutes were created 6:30 p.m. on
-3 March and 3.18.26 minutes at 6:30 p.m. on 18 March. **It cannot test the five-business-day
+4 March (`createdTime` 2026-03-04T23:30Z; this line said 3 March until corrected 2026-10-03) and 3.18.26 minutes at 6:30 p.m. on 18 March. **It cannot test the five-business-day
 rule for these — but it is an excellent independent anchor for a start time the minutes omit.**
 
 **i. Names settled at the end of the run.** The incoming superintendent signs his own memo

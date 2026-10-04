@@ -165,6 +165,22 @@ thead th { background: var(--accent-ink); color: #ffffff; }
 tbody tr:nth-child(even) { background: var(--panel); }
 th.num, td.num { white-space: nowrap; font-variant-numeric: tabular-nums; }
 
+/* ---- phone widths ----------------------------------------------------------
+   Long file names, URLs and statute strings must wrap rather than push the
+   page sideways. Tables keep their table semantics (no display:block, which
+   strips the table role in some screen readers); file names and links wrap
+   anywhere. On phones, cell text may also break inside a long word, but
+   every column keeps at least 5.8em so short headings stay readable, and the
+   padding tightens so a four-column table fits a 390 px screen. ---------- */
+td, th, dd, .cite { overflow-wrap: break-word; }
+code, .path, a { overflow-wrap: anywhere; }
+th.num, td.num, td.num a { overflow-wrap: normal; }
+@media (max-width: 40rem) {
+  table { font-size: 0.84rem; }
+  th, td { padding: 0.25rem 0.3rem; hyphens: auto; overflow-wrap: anywhere; min-width: 5.8em; }
+  th.num, td.num { white-space: normal; }
+}
+
 /* ---- snippet / hover-expand pattern --------------------------------------
    Dense views show only the leading text of an item; the full text is revealed
    on mouse hover OR keyboard focus (give the element tabindex="0").

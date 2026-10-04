@@ -1330,7 +1330,11 @@ The 1/17/23 minutes state both budget motions as "…three hundred and **thirtee
   nomination. Addendum 2's "starting early July 2023" is her START date, not her appointment.
 - **The SAU 6 minutes-filing practice changed in May 2023.** 5/11/23 is the first SAU 6
   meeting whose minutes were filed in its OWN packet folder and inside the five-business-day
-  window. The two-stage search rule (html_briefing §6) still applies to 2024–25.
+  window.
+  **Corrected 2026-10-03:** the change came earlier. The 3/30/23 draft was created in its own
+  folder on 4/4/23 (third business day), and the 2/16/23 draft likewise, so 5/11/23 is not the
+  first. Also: Kelly Simpson is already on the 3/30/23 SAU 6 masthead and roll call, so she did
+  not first join in April 2023 (finding from the 3/30/23 page, show 14986). The two-stage search rule (html_briefing §6) still applies to 2024–25.
 - New people: **Eric Zengota**, publicist — a Claremont district employee funded partly with
   SAU money from Unity through federal grants. **Amanda Phelps**, NHSBA. **"Sharon"**, SAU 6
   business office — surname never spoken.
