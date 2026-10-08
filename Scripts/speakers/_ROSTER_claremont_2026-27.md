@@ -34,3 +34,9 @@ Last updated 2026-10-01 from 17566 (9/2/26 full meeting); earlier from 17575 (9/
 
 ## Read the draft minutes first
 The 9/16/26 draft minutes (PDF in the packet folder) named two voices the transcript could not: Petrin and Melissa Lewis. They also record movers and seconders, which settle who said a bare "Second".
+
+## 10/7/26 (17634 Claremont School Board 10-7-26)
+- The transcript has NO diarization (one 'Unknown' voice, 502 segments), so the CSV names only anchored segments: Broadrick reading Dr. Herrington's letter (002-004), Sam Deering and Wayne Hemingway (citizens' comment, self-ID), Luke Diamond (021-022), Kerry Kennedy (027-037). Everything else is 'Unidentified'.
+- Dr. Michael Herrington (Stevens principal) was absent on 10/7; the superintendent read his recognition letter for John Gannon (National Merit commended student).
+- Roll call (008) heard: Howard, Petrin ('patron'), Lavalette, Madden, Rapp ('Ryan wrap'), Whitney, Crawford.
+- No MAP.md section yet, so Video URL is empty; rerun the map update, then add_video_urls.py.

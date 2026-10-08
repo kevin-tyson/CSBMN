@@ -1,0 +1,262 @@
+{
+  "source_url": "https://library.municode.com/nh/claremont/codes/code_of_ordinances?nodeId=CLCO",
+  "downloaded": "2026-10-06",
+  "online_version": "July 23, 2026 (current)",
+  "publication": "Supplement No. 25, July 2026",
+  "complete_file": "Claremont_NH_Complete_Code_Supplement_25_July_2026.pdf",
+  "complete_sha256": "279adc29f7b4283d41d4503900ea47cf94ae57412ec03ad6e27d9403b310a7aa",
+  "parts": [
+    {
+      "file": "00_Supplement_Instructions.pdf",
+      "source_first_page": 1,
+      "source_last_page": 38,
+      "pages": 38
+    },
+    {
+      "file": "01_Front_Matter_Preface_Adopting_Ordinance_Contents.pdf",
+      "source_first_page": 39,
+      "source_last_page": 70,
+      "pages": 32
+    },
+    {
+      "file": "02_Supplement_History_Table.pdf",
+      "source_first_page": 71,
+      "source_last_page": 76,
+      "pages": 6
+    },
+    {
+      "file": "03_Part_I_Charter.pdf",
+      "source_first_page": 77,
+      "source_last_page": 106,
+      "pages": 30
+    },
+    {
+      "file": "04_Charter_Comparative_Table.pdf",
+      "source_first_page": 107,
+      "source_last_page": 108,
+      "pages": 2
+    },
+    {
+      "file": "Chapter_01_General_Provisions.pdf",
+      "source_first_page": 109,
+      "source_last_page": 116,
+      "pages": 8
+    },
+    {
+      "file": "Chapter_02_Administration.pdf",
+      "source_first_page": 117,
+      "source_last_page": 188,
+      "pages": 72
+    },
+    {
+      "file": "Chapter_03_Alarm_Systems.pdf",
+      "source_first_page": 189,
+      "source_last_page": 192,
+      "pages": 4
+    },
+    {
+      "file": "Chapter_04_Animals.pdf",
+      "source_first_page": 193,
+      "source_last_page": 202,
+      "pages": 10
+    },
+    {
+      "file": "Chapter_05_Buildings_and_Building_Regulations.pdf",
+      "source_first_page": 203,
+      "source_last_page": 228,
+      "pages": 26
+    },
+    {
+      "file": "Chapter_06_Fire_Prevention_and_Protection.pdf",
+      "source_first_page": 229,
+      "source_last_page": 238,
+      "pages": 10
+    },
+    {
+      "file": "Chapter_07_Reserved.pdf",
+      "source_first_page": 239,
+      "source_last_page": 240,
+      "pages": 2
+    },
+    {
+      "file": "Chapter_08_Licenses_and_Business_Regulations.pdf",
+      "source_first_page": 241,
+      "source_last_page": 282,
+      "pages": 42
+    },
+    {
+      "file": "Chapter_09_Miscellaneous_Offenses.pdf",
+      "source_first_page": 283,
+      "source_last_page": 288,
+      "pages": 6
+    },
+    {
+      "file": "Chapter_10_Mobile_Homes_Recreational_Vehicles_and_Mobile_Home_and_Recreational_Vehicle_Parks.pdf",
+      "source_first_page": 289,
+      "source_last_page": 302,
+      "pages": 14
+    },
+    {
+      "file": "Chapter_11_Nuisances.pdf",
+      "source_first_page": 303,
+      "source_last_page": 316,
+      "pages": 14
+    },
+    {
+      "file": "Chapter_12_Parks_and_Recreation.pdf",
+      "source_first_page": 317,
+      "source_last_page": 342,
+      "pages": 26
+    },
+    {
+      "file": "Chapter_13_Police.pdf",
+      "source_first_page": 343,
+      "source_last_page": 346,
+      "pages": 4
+    },
+    {
+      "file": "Chapter_14_Solid_Waste.pdf",
+      "source_first_page": 347,
+      "source_last_page": 352,
+      "pages": 6
+    },
+    {
+      "file": "Chapter_15_Special_Assessments.pdf",
+      "source_first_page": 353,
+      "source_last_page": 358,
+      "pages": 6
+    },
+    {
+      "file": "Chapter_16_Streets_Sidewalks_and_Other_Public_Places.pdf",
+      "source_first_page": 359,
+      "source_last_page": 394,
+      "pages": 36
+    },
+    {
+      "file": "Chapter_17_Subdivisions.pdf",
+      "source_first_page": 395,
+      "source_last_page": 396,
+      "pages": 2
+    },
+    {
+      "file": "Chapter_18_Taxation.pdf",
+      "source_first_page": 397,
+      "source_last_page": 414,
+      "pages": 18
+    },
+    {
+      "file": "Chapter_19_Traffic_and_Motor_Vehicles.pdf",
+      "source_first_page": 415,
+      "source_last_page": 478,
+      "pages": 64
+    },
+    {
+      "file": "Chapter_20_Utilities.pdf",
+      "source_first_page": 479,
+      "source_last_page": 626,
+      "pages": 148
+    },
+    {
+      "file": "Chapter_21_Vehicles_for_Hire.pdf",
+      "source_first_page": 627,
+      "source_last_page": 636,
+      "pages": 10
+    },
+    {
+      "file": "Chapter_22_Zoning.pdf",
+      "source_first_page": 637,
+      "source_last_page": 866,
+      "pages": 230
+    },
+    {
+      "file": "Appendix_A_City_Council_Rules_and_Regulations.pdf",
+      "source_first_page": 867,
+      "source_last_page": 884,
+      "pages": 18
+    },
+    {
+      "file": "Appendix_B_Personnel_Classification_and_Pay_Schedules.pdf",
+      "source_first_page": 885,
+      "source_last_page": 930,
+      "pages": 46
+    },
+    {
+      "file": "Appendix_C_Site_Plan_Regulations.pdf",
+      "source_first_page": 931,
+      "source_last_page": 946,
+      "pages": 16
+    },
+    {
+      "file": "Appendix_D_Earth_Excavation_Regulations.pdf",
+      "source_first_page": 947,
+      "source_last_page": 954,
+      "pages": 8
+    },
+    {
+      "file": "Appendix_E_Subdivision_Regulations.pdf",
+      "source_first_page": 955,
+      "source_last_page": 994,
+      "pages": 40
+    },
+    {
+      "file": "Appendix_F_Submission_Policies_For_Site_Plan_and_Subdivision_Applications.pdf",
+      "source_first_page": 995,
+      "source_last_page": 996,
+      "pages": 2
+    },
+    {
+      "file": "Appendix_G_Claremont_Zoning_Board_of_Adjustment_Rules_of_Procedure.pdf",
+      "source_first_page": 997,
+      "source_last_page": 1022,
+      "pages": 26
+    },
+    {
+      "file": "Appendix_H_Claremont_Planning_Board_Rules_of_Procedure.pdf",
+      "source_first_page": 1023,
+      "source_last_page": 1050,
+      "pages": 28
+    },
+    {
+      "file": "Appendix_I_Claremont_Conservation_Commission_Bylaws.pdf",
+      "source_first_page": 1051,
+      "source_last_page": 1062,
+      "pages": 12
+    },
+    {
+      "file": "Appendix_J_Claremont_Road_and_Street_Requirements.pdf",
+      "source_first_page": 1063,
+      "source_last_page": 1066,
+      "pages": 4
+    },
+    {
+      "file": "Appendix_K_Claremont_Road_and_Sidewalk_Construction_Specifications.pdf",
+      "source_first_page": 1067,
+      "source_last_page": 1078,
+      "pages": 12
+    },
+    {
+      "file": "Reference_Code_Comparative_Table_Ordinances.pdf",
+      "source_first_page": 1079,
+      "source_last_page": 1106,
+      "pages": 28
+    },
+    {
+      "file": "Reference_State_Law_Reference_Table.pdf",
+      "source_first_page": 1107,
+      "source_last_page": 1114,
+      "pages": 8
+    },
+    {
+      "file": "Reference_Charter_Index.pdf",
+      "source_first_page": 1115,
+      "source_last_page": 1122,
+      "pages": 8
+    },
+    {
+      "file": "Reference_Code_Index.pdf",
+      "source_first_page": 1123,
+      "source_last_page": 1216,
+      "pages": 94
+    }
+  ]
+}
