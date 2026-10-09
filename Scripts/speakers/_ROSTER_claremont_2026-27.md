@@ -39,4 +39,4 @@ The 9/16/26 draft minutes (PDF in the packet folder) named two voices the transc
 - The transcript has NO diarization (one 'Unknown' voice, 502 segments), so the CSV names only anchored segments: Broadrick reading Dr. Herrington's letter (002-004), Sam Deering and Wayne Hemingway (citizens' comment, self-ID), Luke Diamond (021-022), Kerry Kennedy (027-037). Everything else is 'Unidentified'.
 - Dr. Michael Herrington (Stevens principal) was absent on 10/7; the superintendent read his recognition letter for John Gannon (National Merit commended student).
 - Roll call (008) heard: Howard, Petrin ('patron'), Lavalette, Madden, Rapp ('Ryan wrap'), Whitney, Crawford.
-- No MAP.md section yet, so Video URL is empty; rerun the map update, then add_video_urls.py.
+- MAP.md section 318 landed 2026-10-08 (Remote video: show 17634); the CSV's Video URL column is filled and verify_dialogue.py passes (502 rows, 30338 tokens). Re-checked 2026-10-09: source JSON still undiarized, so no further names are defensible.
