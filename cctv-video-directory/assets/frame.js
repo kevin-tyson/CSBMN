@@ -1,0 +1,1 @@
+(()=>{window.addEventListener('message',e=>{for(const frame of document.querySelectorAll('.cctv-directory-frame')){if(e.source!==frame.contentWindow||e.origin!==new URL(frame.src).origin||e.data?.type!=='cctv-height')continue;const h=Number(e.data.height);if(Number.isFinite(h))frame.style.height=Math.max(600,Math.min(20000,h))+'px';}});})();
