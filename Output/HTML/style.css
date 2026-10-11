@@ -141,6 +141,35 @@ code, .path {
 .toc li { margin: 0; }
 @media print { .toc { display: none; } }
 
+/* ---- catalog link ("Meeting Navigator") -----------------------------------
+   Top left of the content column, directly above the h1, and repeated just
+   before the footer. The house icon is decorative (aria-hidden); the visible
+   text names the link. The negative left margin cancels the tap padding so
+   the icon's left edge lines up with the h1; min-height gives a 44 px touch
+   target. Colors reuse --accent-ink / --accent, already contrast-checked. */
+.sitenav { margin: 0.5rem 0 0; }
+.sitenav a {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.4rem;
+  min-height: 44px;
+  padding: 0.35rem 0.5rem;
+  margin-left: -0.5rem;
+  color: var(--accent-ink);
+  font-weight: 600;
+  text-decoration: none;
+  border-radius: 4px;
+}
+.sitenav a span { text-decoration: underline; text-underline-offset: 0.18em; }
+.sitenav a:hover { color: var(--accent); }
+.sitenav a:hover span { text-decoration-thickness: 2px; }
+.sitenav a:focus-visible { outline: 3px solid var(--focus); outline-offset: 2px; }
+.sitenav-icon { flex: none; width: 20px; height: 20px; }
+.sitenav-top + h1 { margin-top: 0.15rem; }
+.sitenav-bottom { margin-top: 1.6rem; }
+.sitenav-bottom + footer.pagefoot { margin-top: 0.3rem; }
+@media print { .sitenav { display: none; } }
+
 /* ---- dense tables --------------------------------------------------------- */
 table {
   border-collapse: collapse;
