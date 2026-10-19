@@ -86,7 +86,7 @@ for f in sorted(glob.glob(D+'/*.CSV')):
         chair_share_of_board=round(chairsecs/board,3) if board else 0, top_share_of_board=round(top/board,3) if board else 0,
         board_gini=round(gini(bysp.values()),3), n_board_speakers=len(bysp), public_turns=pubturns, **txt))
 keys=['file','date','era','body','total_min','board_share','admin_share','public_share','outside_share','unid_share','chair_share_of_board','top_share_of_board','board_gini','n_board_speakers','public_turns','rollcall','voicevote','nonpublic','unanimous','audit','fundbal','esser','reimb','motion','consent','reading','order']
-with open('Output/Reports/signatures-by-meeting.csv','w',newline='') as fh:
+with open('Output/HTML/Reports/signatures-by-meeting.csv','w',newline='') as fh:
     w=csv.DictWriter(fh,fieldnames=keys,extrasaction='ignore'); w.writeheader()
     for r in rows: w.writerow({k:r.get(k,0) for k in keys})
 # by era, School Board meetings only (Board+Finance+Budget+Special), and SAU6 separately
@@ -100,7 +100,7 @@ def agg(sel,label):
         def per10h(k): return round(sum(r.get(k,0) for r in rs)/(tm/600),2) if tm else 0
         out.append(dict(era=e,meetings=n,hours=round(tm/60,1),board_share=wavg('board_share'),admin_share=wavg('admin_share'),public_share=wavg('public_share'),outside_share=wavg('outside_share'),unid_share=wavg('unid_share'),chair_share=wavg('chair_share_of_board'),top_share=wavg('top_share_of_board'),gini=round(sum(r['board_gini'] for r in rs)/n,3),
             rollcall_per10h=per10h('rollcall'),voicevote_per10h=per10h('voicevote'),nonpublic_per10h=per10h('nonpublic'),unanimous_per10h=per10h('unanimous'),audit_per10h=per10h('audit'),fundbal_per10h=per10h('fundbal'),esser_per10h=per10h('esser'),reimb_per10h=per10h('reimb'),motion_per10h=per10h('motion'),public_turns_per10h=per10h('public_turns')))
-    with open(f'Output/Reports/signatures-by-era-{label}.csv','w',newline='') as fh:
+    with open(f'Output/HTML/Reports/signatures-by-era-{label}.csv','w',newline='') as fh:
         w=csv.DictWriter(fh,fieldnames=list(out[0].keys())); w.writeheader(); w.writerows(out)
     print('==',label)
     print(','.join(out[0].keys()))
