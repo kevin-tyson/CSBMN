@@ -1,0 +1,13 @@
+{% extends "base.html" %}
+{% block title %}Five-business-day statement{% endblock %}
+{% block content %}
+<h1>Five-business-day statement for {{ r.public_id }}</h1>
+<p>This sends the written statement RSA 91-A:4, IV(b) requires without taking the request out of its place in the queue. It is published in the log.</p>
+<blockquote class="request">{{ r.text }}</blockquote>
+<form method="post" action="/staff/request/{{ r.pk }}/ack" class="stack">
+  <input type="hidden" name="csrf" value="{{ csrf }}">
+  <div class="field"><label for="subject">Subject</label><input id="subject" name="subject" value="{{ subject }}"></div>
+  <div class="field"><label for="body">Body</label><textarea id="body" name="body" rows="22" class="mono">{{ body }}</textarea></div>
+  <p class="actions"><button class="button primary" type="submit">Send and publish</button> <a href="/staff">Cancel</a></p>
+</form>
+{% endblock %}

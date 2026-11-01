@@ -1,0 +1,38 @@
+{% extends "base.html" %}
+{% block title %}Search public records{% endblock %}
+{% block content %}
+<h1>Search records that are already public</h1>
+<p class="lede">Meeting recordings, agendas, packets, minutes, transcripts and Board policies from the Claremont School Board Meeting Navigator knowledge graph. Every result links to the official copy or to the moment in the recording.</p>
+<form method="get" action="/kg/search" class="searchbar" role="search">
+  <label for="q" class="sr-only">Search terms</label>
+  <input id="q" name="q" value="{{ q }}" placeholder="for example: audit contract, K-1 program, policy EH">
+  <label for="from">From</label><input id="from" name="from" type="date" value="{{ d1 }}">
+  <label for="to">To</label><input id="to" name="to" type="date" value="{{ d2 }}">
+  <label for="kind">Type</label>
+  <select id="kind" name="kind">
+    <option value="">Any</option>
+    {% for k, label in [("meeting","Meeting pages"),("minutes","Minutes"),("agenda","Agendas"),("document","Packet documents"),("recording","Recordings"),("topic","Discussion topics"),("flag","Review flags"),("policy","Board policies"),("report","Reports"),("dialogue","Transcript")] %}
+    <option value="{{ k }}" {% if k in kinds %}selected{% endif %}>{{ label }}</option>
+    {% endfor %}
+  </select>
+  <button class="button primary" type="submit">Search</button>
+</form>
+{% if not kg %}<div class="alert error">The knowledge graph index has not been built on this server yet.</div>{% endif %}
+{% if q %}
+  {% if hits %}
+  <ol class="results">
+  {% for h in hits %}
+    <li>
+      <span class="kind k-{{ h.kind }}">{{ h.kind.replace("_", " ") }}</span>
+      <a href="{{ h.url }}">{{ h.title }}</a>{% if h.date %} <span class="muted">{{ h.date|fdate }}</span>{% endif %}
+      {% if h.snippet %}<p class="snip">{{ h.snippet|snippet }}</p>{% endif %}
+      {% if h.meeting_url and h.kind not in ("meeting",) %}<p class="muted">From <a href="{{ h.meeting_url }}">{{ h.meeting_title }}</a></p>{% endif %}
+    </li>
+  {% endfor %}
+  </ol>
+  {% else %}
+  <p>No public record matched. If you think the District keeps a record on this, <a href="/request">file a request</a>.</p>
+  {% endif %}
+{% endif %}
+{% if kg %}<p class="help">Index built {{ kg.built_at[:10] }}{% if kg.repo_commit %} from knowledge graph commit {{ kg.repo_commit }}{% endif %}. Results are a finding aid; the District's own documents and approved minutes are the record.</p>{% endif %}
+{% endblock %}

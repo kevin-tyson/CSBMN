@@ -1,0 +1,17 @@
+{% extends "base.html" %}
+{% block title %}Office calendar{% endblock %}
+{% block content %}
+<h1>Office calendar</h1>
+<p>The five-business-day clock skips weekends and the legal holidays in RSA 288:1. Mark a day closed (a snow day, or the day after Thanksgiving if the office closes) or open (if the office works on a legal holiday). Changes apply to due dates set from now on and are recorded in the public event chain.</p>
+<form method="post" class="stack narrow box">
+  <input type="hidden" name="csrf" value="{{ csrf }}">
+  <div class="field"><label for="day">Date</label><input id="day" name="day" type="date" required></div>
+  <div class="field"><label for="mode">Office is</label><select id="mode" name="mode"><option value="closed">Closed</option><option value="open">Open</option><option value="clear">Remove override</option></select></div>
+  <div class="field"><label for="note">Note</label><input id="note" name="note" maxlength="200"></div>
+  <p><button class="button primary" type="submit">Save</button> <a href="/staff">Back to console</a></p>
+</form>
+<h2>Overrides</h2>
+{% if rows %}<ul class="compact">{% for r in rows %}<li>{{ r.day|fdate }}: {{ "open" if r.is_open else "closed" }}{% if r.note %} ({{ r.note }}){% endif %}</li>{% endfor %}</ul>{% else %}<p>None.</p>{% endif %}
+<h2>Upcoming legal holidays (RSA 288:1)</h2>
+<ul class="compact">{% for d, n in holidays %}<li>{{ d|fdate }}: {{ n }}</li>{% endfor %}</ul>
+{% endblock %}

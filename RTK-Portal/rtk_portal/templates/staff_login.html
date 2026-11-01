@@ -1,0 +1,22 @@
+{% extends "base.html" %}
+{% block title %}Staff sign-in{% endblock %}
+{% block content %}
+<h1>Staff sign-in</h1>
+{% if error %}<div class="alert error" role="alert">{{ error }}</div>{% endif %}
+{% if not sent %}
+<p>Enter your District email address. If it is on the staff list, a sign-in code will arrive by email.</p>
+<form method="post" class="stack narrow">
+  <input type="hidden" name="csrf" value="{{ csrf }}">
+  <div class="field"><label for="email">Email address</label><input id="email" name="email" type="email" autocomplete="email" required></div>
+  <p><button class="button primary" name="action" value="start" type="submit">Send code</button></p>
+</form>
+{% else %}
+<p>If <strong>{{ email }}</strong> is on the staff list, a code is on its way.</p>
+<form method="post" class="stack narrow">
+  <input type="hidden" name="csrf" value="{{ csrf }}">
+  <input type="hidden" name="email" value="{{ email }}">
+  <div class="field"><label for="code">Sign-in code</label><input id="code" name="code" inputmode="numeric" autocomplete="one-time-code" maxlength="7" required class="code"></div>
+  <p><button class="button primary" name="action" value="verify" type="submit">Sign in</button></p>
+</form>
+{% endif %}
+{% endblock %}

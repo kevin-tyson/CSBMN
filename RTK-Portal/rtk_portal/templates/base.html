@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>{% block title %}Right-to-Know Portal{% endblock %} | {{ settings.district_name }}</title>
+<link rel="stylesheet" href="/static/style.css">
+</head>
+<body>
+<a class="skip-link" href="#main">Skip to main content</a>
+<header class="site">
+  <div class="wrap">
+    <a class="brand" href="/"><span class="brand-mark" aria-hidden="true">91-A</span><span>Right-to-Know Portal<small>{{ settings.district_name }}</small></span></a>
+    <nav aria-label="Main">
+      <a href="/request">File a request</a>
+      <a href="/log">Public log</a>
+      <a href="/kg/search">Search public records</a>
+      <a href="/about">How it works</a>
+      {% if staff_user %}<a href="/staff" class="staff-link">Staff console</a>{% endif %}
+    </nav>
+  </div>
+</header>
+<main id="main" class="wrap">
+{% block content %}{% endblock %}
+</main>
+<footer class="site">
+  <div class="wrap">
+    <p>Operated by {{ settings.operator }} as a pilot for the {{ settings.district_name }}. Policy EH makes the Superintendent of SAU 6 the custodian of District records; this portal logs and tracks requests to that office. Draft responses are prepared with automated tools and reviewed and sent by District staff. Nothing on this site is legal advice.</p>
+    <p>You never have to use this portal. A request to the Superintendent's office in person, by mail or by email is just as valid (Procedure <a href="{{ citations['policy-eh-r1'].url }}">EH-R(1)</a>).</p>
+    <p class="muted">RTK Portal {{ version }} &middot; <a href="https://github.com/kevin-tyson/CSBMN">source and knowledge graph</a> &middot; <a href="/staff">staff sign-in</a></p>
+  </div>
+</footer>
+</body>
+</html>

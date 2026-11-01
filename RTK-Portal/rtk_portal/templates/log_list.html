@@ -1,0 +1,34 @@
+{% extends "base.html" %}
+{% block title %}Public log{% endblock %}
+{% block content %}
+<h1>Public log of Right-to-Know requests</h1>
+<p class="lede">Every verified request, in order of receipt, with its five-business-day due date under RSA 91-A:4, IV(b) and the date of the District's first written response.</p>
+<p class="filters" aria-label="Filter">
+  <a href="/log" {% if not state %}aria-current="page"{% endif %}>All</a>
+  <a href="/log?state=open" {% if state == "open" %}aria-current="page"{% endif %}>Open</a>
+  <a href="/log?state=closed" {% if state == "closed" %}aria-current="page"{% endif %}>Closed</a>
+  <span class="muted">Download: <a href="/log.csv">CSV</a> &middot; <a href="/log.json">JSON</a> &middot; <a href="/log/events.json">event chain</a></span>
+</p>
+{% if not rows %}
+<p>No requests yet.</p>
+{% else %}
+<div class="table-wrap">
+<table>
+  <caption class="sr-only">Right-to-Know requests</caption>
+  <thead><tr><th scope="col">Request</th><th scope="col">Received</th><th scope="col">Response due</th><th scope="col">Status</th><th scope="col">First written response</th><th scope="col">Request text</th></tr></thead>
+  <tbody>
+  {% for r in rows %}
+  <tr>
+    <td><a href="/log/{{ r.public_id }}">{{ r.public_id }}</a><br><span class="muted">{{ r.requester }}</span></td>
+    <td>{{ r.received|fdatetime }}</td>
+    <td>{{ r.due|fdate }}</td>
+    <td><span class="status s-{{ r.state }}">{{ r.status }}</span>{% if r.category %}<br><span class="muted">{{ categories[r.category] }}</span>{% endif %}</td>
+    <td>{% if r.first_response %}{{ r.first_response|fdate }}<br><span class="muted">business day {{ r.business_days }}</span>{% if r.on_time %} <span class="chip ok">on time</span>{% else %} <span class="chip late">late</span>{% endif %}{% elif r.on_time == false %}<span class="chip late">overdue</span>{% else %}<span class="muted">none yet (business day {{ r.business_days }} of 5)</span>{% endif %}</td>
+    <td class="text">{% if r.text_held %}<em>Held for privacy review</em>{% else %}{{ (r.text or "")[:220] }}{% if (r.text or "")|length > 220 %}...{% endif %}{% endif %}</td>
+  </tr>
+  {% endfor %}
+  </tbody>
+</table>
+</div>
+{% endif %}
+{% endblock %}

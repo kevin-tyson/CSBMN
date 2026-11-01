@@ -1,0 +1,33 @@
+{% extends "base.html" %}
+{% block title %}Home{% endblock %}
+{% block content %}
+<section class="hero">
+  <h1>Ask for {{ settings.district_name }} records under RSA 91-A</h1>
+  <p class="lede">New Hampshire's Right-to-Know Law gives every citizen access to governmental records. File a request here, confirm your email address, and follow it in a public log that shows when it arrived, when the five-business-day response is due, and what the District sent back.</p>
+  <p class="actions">
+    <a class="button primary" href="/request">File a request</a>
+    <a class="button" href="/log">See the public log</a>
+    <a class="button" href="/kg/search">Search records that are already public</a>
+  </p>
+</section>
+
+<section class="grid3" aria-label="At a glance">
+  <div class="card"><h2>{{ stats.total or 0 }}</h2><p>requests logged</p></div>
+  <div class="card"><h2>{{ stats.open or 0 }}</h2><p>open now</p></div>
+  <div class="card"><h2>{{ stats.closed or 0 }}</h2><p>closed</p></div>
+</section>
+
+<section>
+  <h2>Before you file</h2>
+  <p>Many records are already public. The search covers {{ (kg.counts.meetings if kg.counts else 0) }} School Board, SAU 6 and committee meetings{% if kg.date_min %} from {{ kg.date_min|fdate }} to {{ kg.date_max|fdate }}{% endif %}: their recordings, agendas, packets, minutes and transcripts, the Board's policy index, and the Claremont School Board Meeting Navigator's reports. If the record you want is there, you can have it now without waiting.</p>
+  <h2>What happens after you file</h2>
+  <ol class="steps">
+    <li><strong>You confirm your email.</strong> A six-digit code arrives by email. The request is filed, numbered and logged when you enter it.</li>
+    <li><strong>It joins the queue.</strong> Requests are handled one at a time, oldest first, except that a requester's second and later open requests wait until everyone else's earlier requests are handled.</li>
+    <li><strong>It is triaged.</strong> The portal checks the request against RSA 91-A, the Superintendent's procedures (Policy EH and EH-R(1)) and the public knowledge graph, and drafts a response.</li>
+    <li><strong>Staff review and send.</strong> A person at the Superintendent's office edits and approves every response. Nothing is sent automatically.</li>
+    <li><strong>Everything is published.</strong> The request, its dates and the response go in the public log. Your email address never does.</li>
+  </ol>
+  <p><a href="/about">Read the full rules</a>, including how the queue works, what is published, and the statutes behind each step.</p>
+</section>
+{% endblock %}

@@ -1,0 +1,552 @@
+{
+ "Speaker 1": {
+  "name": "Marjorie Erickson",
+  "role": "SAU 6 Board Chair, Unity member (presides; missed the 11/16 meeting, 'Shows you how many meetings I've missed' [1]; leads the superintendent evaluation subcommittee [667]-[674]; David: 'Marjorie, I think you should be separate from being the leadership for that type of process' [710])"
+ },
+ "Speaker 2": {
+  "name": "Steven Horsky",
+  "role": "Claremont School Board member; SAU 6 Board member (chair: 'Go ahead Steve' [76], 'Steve' [293], [345]; Seaman: 'Stephen' [170], [525], [569]); abstains on the 11/16 minutes [6]"
+ },
+ "Speaker 3": {
+  "name": "Frank Sprague",
+  "role": "Claremont School Board member; SAU 6 Board member (Seaman: 'What's the 30%, Frank' [49], 'I don't know that I can answer that question, Frank' [255], 'It should be, Frank' [644]; chair: 'Go ahead, Frank' [494]; 'When I was at Stevens' [386]; Petrin: 'I have to agree with you, Frank' [440])"
+ },
+ "Speaker 4": {
+  "name": "Richard Seaman",
+  "role": "Assistant Superintendent for Finance, Operations and Human Resources, SAU 6 (chair: 'Richard, are you going to walk us through' [13]; Sprague: 'So Richard I'm looking at your title' [236]; answers every budget line)"
+ },
+ "Speaker 5": {
+  "name": "Unidentified",
+  "role": "Cluster mixing Frank Sprague (to about [236]) and Superintendent Michael Tempesta (from [243]); residual short segments not separable, see overrides"
+ },
+ "Speaker 6": {
+  "name": "Michael Tempesta",
+  "role": "Superintendent, SAU 6 ('when I took the job here, when we negotiated the contract' [89]; Seaman: 'I'm going to let Mike speak to - Mike' [116], 'How do you see that, Mike' [241], 'maybe you can speak to that' [257])"
+ },
+ "Speaker 7": {
+  "name": "Unidentified",
+  "role": "Cluster mixing Assistant Superintendent Koski with short onsets of other voices; see overrides"
+ },
+ "Speaker 8": {
+  "name": "Michael Petrin",
+  "role": "Claremont School Board Chair; SAU 6 Board member (chair: 'Mike.' [402] before [403]; Sprague answers him 'My only pushback to that, Mike' [441]; chair: 'a breakdown in contracted services. You're asking for, Mike' [609])"
+ },
+ "Speaker 9": {
+  "name": "Whitney Skillen",
+  "role": "Claremont School Board member; SAU 6 Board member (chair: 'I think Whitney got her hand up first' [397] before [398]; 'Whitney.' [727] before her motion to adjourn [728])"
+ },
+ "Speaker 10": {
+  "name": "Heather Whitney",
+  "role": "Claremont School Board member; SAU 6 Board member (chair: 'Heather.' [280] before [281])"
+ },
+ "Speaker 11": {
+  "name": "Unidentified",
+  "role": "SAU 6 Board member speaking for Unity on back-billing ('we unity does receive bills' [319]); not named"
+ },
+ "Speaker 12": {
+  "name": "Unidentified",
+  "role": "SAU 6 Board member, not named (hiring-process remarks [372]-[389] and a summing-up of the HR discussion [427]-[431]); possibly Bonnie Miles, present per the minutes (chair: 'And then Bonnie, you also wanted [to] say' [388], answered 'I'm done' [389]) - not confirmed"
+ },
+ "Speaker 13": {
+  "name": "Marjorie Erickson",
+  "role": "SAU 6 Board Chair (second cluster for the chair's short recognitions: 'Mike.' [439], 'Go ahead, Frank' [494])"
+ },
+ "Speaker 14": {
+  "name": "Unidentified",
+  "role": "Short fragments, several voices (onsets of Horsky's turns [420], [423]; 'I'd say put it off for a year' [432])"
+ },
+ "Speaker 15": {
+  "name": "Marjorie Erickson",
+  "role": "SAU 6 Board Chair (recognizes David [446]; reports the superintendent evaluation subcommittee's goal-setting [453]-[454]; restates the 3% raise request [462])"
+ },
+ "Speaker 16": {
+  "name": "David Putnam",
+  "role": "Member of the public, Ward 2; named David Putnam in the SAU6 12.1.22 Meeting Minutes (Drive 1h2_TLpDmGDQck2S4ZazgRsXoE6iyITk8); chair calls him 'David' [7], [446]; ASR renders 'When David. Pollen board two' [8]; says he formerly chaired both the school board and the SAU board"
+ },
+ "Speaker 17": {
+  "name": "Unidentified",
+  "role": "Single interjection [521]"
+ },
+ "Speaker 18": {
+  "name": "Rocco Ruggeri",
+  "role": "SAU 6 Board member, Unity (chair: 'Rocco.' [549] before [550]; Petrin: 'what Marco [Rocco] expressed' [612]; roster_2015_2023.md lists Ruggeri as a Unity member 2020 onward)"
+ },
+ "Speaker 19": {
+  "name": "Unidentified",
+  "role": "Single remark on the retreat date [694]"
+ },
+ "Speaker 20": {
+  "name": "Unidentified",
+  "role": "Closing thank-yous [726], [731]"
+ },
+ "__overrides__": {
+  "8": {
+   "name": "David Putnam",
+   "role": "Member of the public, Ward 2; named David Putnam in the SAU6 12.1.22 Meeting Minutes (Drive 1h2_TLpDmGDQck2S4ZazgRsXoE6iyITk8); chair calls him 'David' [7], [446]; ASR renders 'When David. Pollen board two' [8]; says he formerly chaired both the school board and the SAU board (citizen comment diarized with Sprague)"
+  },
+  "9": {
+   "name": "David Putnam",
+   "role": "Member of the public, Ward 2; named David Putnam in the SAU6 12.1.22 Meeting Minutes (Drive 1h2_TLpDmGDQck2S4ZazgRsXoE6iyITk8); chair calls him 'David' [7], [446]; ASR renders 'When David. Pollen board two' [8]; says he formerly chaired both the school board and the SAU board (citizen comment diarized with Sprague)"
+  },
+  "10": {
+   "name": "David Putnam",
+   "role": "Member of the public, Ward 2; named David Putnam in the SAU6 12.1.22 Meeting Minutes (Drive 1h2_TLpDmGDQck2S4ZazgRsXoE6iyITk8); chair calls him 'David' [7], [446]; ASR renders 'When David. Pollen board two' [8]; says he formerly chaired both the school board and the SAU board (citizen comment diarized with Sprague)"
+  },
+  "19": {
+   "name": "Unidentified",
+   "role": "Administrator noting the report recommendation was added to the budget; diarized with Horsky, voice not identified"
+  },
+  "48": {
+   "name": "Frank Sprague",
+   "role": "Claremont School Board member; SAU 6 Board member (Seaman: 'What's the 30%, Frank' [49], 'I don't know that I can answer that question, Frank' [255], 'It should be, Frank' [644]; chair: 'Go ahead, Frank' [494]; 'When I was at Stevens' [386]; Petrin: 'I have to agree with you, Frank' [440])"
+  },
+  "50": {
+   "name": "Frank Sprague",
+   "role": "Claremont School Board member; SAU 6 Board member (Seaman: 'What's the 30%, Frank' [49], 'I don't know that I can answer that question, Frank' [255], 'It should be, Frank' [644]; chair: 'Go ahead, Frank' [494]; 'When I was at Stevens' [386]; Petrin: 'I have to agree with you, Frank' [440])"
+  },
+  "52": {
+   "name": "Frank Sprague",
+   "role": "Claremont School Board member; SAU 6 Board member (Seaman: 'What's the 30%, Frank' [49], 'I don't know that I can answer that question, Frank' [255], 'It should be, Frank' [644]; chair: 'Go ahead, Frank' [494]; 'When I was at Stevens' [386]; Petrin: 'I have to agree with you, Frank' [440])"
+  },
+  "54": {
+   "name": "Frank Sprague",
+   "role": "Claremont School Board member; SAU 6 Board member (Seaman: 'What's the 30%, Frank' [49], 'I don't know that I can answer that question, Frank' [255], 'It should be, Frank' [644]; chair: 'Go ahead, Frank' [494]; 'When I was at Stevens' [386]; Petrin: 'I have to agree with you, Frank' [440])"
+  },
+  "56": {
+   "name": "Frank Sprague",
+   "role": "Claremont School Board member; SAU 6 Board member (Seaman: 'What's the 30%, Frank' [49], 'I don't know that I can answer that question, Frank' [255], 'It should be, Frank' [644]; chair: 'Go ahead, Frank' [494]; 'When I was at Stevens' [386]; Petrin: 'I have to agree with you, Frank' [440])"
+  },
+  "58": {
+   "name": "Frank Sprague",
+   "role": "Claremont School Board member; SAU 6 Board member (Seaman: 'What's the 30%, Frank' [49], 'I don't know that I can answer that question, Frank' [255], 'It should be, Frank' [644]; chair: 'Go ahead, Frank' [494]; 'When I was at Stevens' [386]; Petrin: 'I have to agree with you, Frank' [440])"
+  },
+  "60": {
+   "name": "Frank Sprague",
+   "role": "Claremont School Board member; SAU 6 Board member (Seaman: 'What's the 30%, Frank' [49], 'I don't know that I can answer that question, Frank' [255], 'It should be, Frank' [644]; chair: 'Go ahead, Frank' [494]; 'When I was at Stevens' [386]; Petrin: 'I have to agree with you, Frank' [440])"
+  },
+  "63": {
+   "name": "Frank Sprague",
+   "role": "Claremont School Board member; SAU 6 Board member (Seaman: 'What's the 30%, Frank' [49], 'I don't know that I can answer that question, Frank' [255], 'It should be, Frank' [644]; chair: 'Go ahead, Frank' [494]; 'When I was at Stevens' [386]; Petrin: 'I have to agree with you, Frank' [440])"
+  },
+  "65": {
+   "name": "Frank Sprague",
+   "role": "Claremont School Board member; SAU 6 Board member (Seaman: 'What's the 30%, Frank' [49], 'I don't know that I can answer that question, Frank' [255], 'It should be, Frank' [644]; chair: 'Go ahead, Frank' [494]; 'When I was at Stevens' [386]; Petrin: 'I have to agree with you, Frank' [440])"
+  },
+  "67": {
+   "name": "Frank Sprague",
+   "role": "Claremont School Board member; SAU 6 Board member (Seaman: 'What's the 30%, Frank' [49], 'I don't know that I can answer that question, Frank' [255], 'It should be, Frank' [644]; chair: 'Go ahead, Frank' [494]; 'When I was at Stevens' [386]; Petrin: 'I have to agree with you, Frank' [440])"
+  },
+  "69": {
+   "name": "Frank Sprague",
+   "role": "Claremont School Board member; SAU 6 Board member (Seaman: 'What's the 30%, Frank' [49], 'I don't know that I can answer that question, Frank' [255], 'It should be, Frank' [644]; chair: 'Go ahead, Frank' [494]; 'When I was at Stevens' [386]; Petrin: 'I have to agree with you, Frank' [440])"
+  },
+  "75": {
+   "name": "Frank Sprague",
+   "role": "Claremont School Board member; SAU 6 Board member (Seaman: 'What's the 30%, Frank' [49], 'I don't know that I can answer that question, Frank' [255], 'It should be, Frank' [644]; chair: 'Go ahead, Frank' [494]; 'When I was at Stevens' [386]; Petrin: 'I have to agree with you, Frank' [440])"
+  },
+  "84": {
+   "name": "Frank Sprague",
+   "role": "Claremont School Board member; SAU 6 Board member (Seaman: 'What's the 30%, Frank' [49], 'I don't know that I can answer that question, Frank' [255], 'It should be, Frank' [644]; chair: 'Go ahead, Frank' [494]; 'When I was at Stevens' [386]; Petrin: 'I have to agree with you, Frank' [440])"
+  },
+  "88": {
+   "name": "Frank Sprague",
+   "role": "Claremont School Board member; SAU 6 Board member (Seaman: 'What's the 30%, Frank' [49], 'I don't know that I can answer that question, Frank' [255], 'It should be, Frank' [644]; chair: 'Go ahead, Frank' [494]; 'When I was at Stevens' [386]; Petrin: 'I have to agree with you, Frank' [440])"
+  },
+  "90": {
+   "name": "Frank Sprague",
+   "role": "Claremont School Board member; SAU 6 Board member (Seaman: 'What's the 30%, Frank' [49], 'I don't know that I can answer that question, Frank' [255], 'It should be, Frank' [644]; chair: 'Go ahead, Frank' [494]; 'When I was at Stevens' [386]; Petrin: 'I have to agree with you, Frank' [440])"
+  },
+  "91": {
+   "name": "Frank Sprague",
+   "role": "Claremont School Board member; SAU 6 Board member (Seaman: 'What's the 30%, Frank' [49], 'I don't know that I can answer that question, Frank' [255], 'It should be, Frank' [644]; chair: 'Go ahead, Frank' [494]; 'When I was at Stevens' [386]; Petrin: 'I have to agree with you, Frank' [440])"
+  },
+  "95": {
+   "name": "Frank Sprague",
+   "role": "Claremont School Board member; SAU 6 Board member (Seaman: 'What's the 30%, Frank' [49], 'I don't know that I can answer that question, Frank' [255], 'It should be, Frank' [644]; chair: 'Go ahead, Frank' [494]; 'When I was at Stevens' [386]; Petrin: 'I have to agree with you, Frank' [440])"
+  },
+  "97": {
+   "name": "Frank Sprague",
+   "role": "Claremont School Board member; SAU 6 Board member (Seaman: 'What's the 30%, Frank' [49], 'I don't know that I can answer that question, Frank' [255], 'It should be, Frank' [644]; chair: 'Go ahead, Frank' [494]; 'When I was at Stevens' [386]; Petrin: 'I have to agree with you, Frank' [440])"
+  },
+  "102": {
+   "name": "Frank Sprague",
+   "role": "Claremont School Board member; SAU 6 Board member (Seaman: 'What's the 30%, Frank' [49], 'I don't know that I can answer that question, Frank' [255], 'It should be, Frank' [644]; chair: 'Go ahead, Frank' [494]; 'When I was at Stevens' [386]; Petrin: 'I have to agree with you, Frank' [440])"
+  },
+  "104": {
+   "name": "Frank Sprague",
+   "role": "Claremont School Board member; SAU 6 Board member (Seaman: 'What's the 30%, Frank' [49], 'I don't know that I can answer that question, Frank' [255], 'It should be, Frank' [644]; chair: 'Go ahead, Frank' [494]; 'When I was at Stevens' [386]; Petrin: 'I have to agree with you, Frank' [440])"
+  },
+  "106": {
+   "name": "Frank Sprague",
+   "role": "Claremont School Board member; SAU 6 Board member (Seaman: 'What's the 30%, Frank' [49], 'I don't know that I can answer that question, Frank' [255], 'It should be, Frank' [644]; chair: 'Go ahead, Frank' [494]; 'When I was at Stevens' [386]; Petrin: 'I have to agree with you, Frank' [440])"
+  },
+  "108": {
+   "name": "Frank Sprague",
+   "role": "Claremont School Board member; SAU 6 Board member (Seaman: 'What's the 30%, Frank' [49], 'I don't know that I can answer that question, Frank' [255], 'It should be, Frank' [644]; chair: 'Go ahead, Frank' [494]; 'When I was at Stevens' [386]; Petrin: 'I have to agree with you, Frank' [440])"
+  },
+  "112": {
+   "name": "Frank Sprague",
+   "role": "Claremont School Board member; SAU 6 Board member (Seaman: 'What's the 30%, Frank' [49], 'I don't know that I can answer that question, Frank' [255], 'It should be, Frank' [644]; chair: 'Go ahead, Frank' [494]; 'When I was at Stevens' [386]; Petrin: 'I have to agree with you, Frank' [440])"
+  },
+  "118": {
+   "name": "Frank Sprague",
+   "role": "Claremont School Board member; SAU 6 Board member (Seaman: 'What's the 30%, Frank' [49], 'I don't know that I can answer that question, Frank' [255], 'It should be, Frank' [644]; chair: 'Go ahead, Frank' [494]; 'When I was at Stevens' [386]; Petrin: 'I have to agree with you, Frank' [440])"
+  },
+  "120": {
+   "name": "Frank Sprague",
+   "role": "Claremont School Board member; SAU 6 Board member (Seaman: 'What's the 30%, Frank' [49], 'I don't know that I can answer that question, Frank' [255], 'It should be, Frank' [644]; chair: 'Go ahead, Frank' [494]; 'When I was at Stevens' [386]; Petrin: 'I have to agree with you, Frank' [440])"
+  },
+  "122": {
+   "name": "Frank Sprague",
+   "role": "Claremont School Board member; SAU 6 Board member (Seaman: 'What's the 30%, Frank' [49], 'I don't know that I can answer that question, Frank' [255], 'It should be, Frank' [644]; chair: 'Go ahead, Frank' [494]; 'When I was at Stevens' [386]; Petrin: 'I have to agree with you, Frank' [440])"
+  },
+  "124": {
+   "name": "Frank Sprague",
+   "role": "Claremont School Board member; SAU 6 Board member (Seaman: 'What's the 30%, Frank' [49], 'I don't know that I can answer that question, Frank' [255], 'It should be, Frank' [644]; chair: 'Go ahead, Frank' [494]; 'When I was at Stevens' [386]; Petrin: 'I have to agree with you, Frank' [440])"
+  },
+  "125": {
+   "name": "Frank Sprague",
+   "role": "Claremont School Board member; SAU 6 Board member (Seaman: 'What's the 30%, Frank' [49], 'I don't know that I can answer that question, Frank' [255], 'It should be, Frank' [644]; chair: 'Go ahead, Frank' [494]; 'When I was at Stevens' [386]; Petrin: 'I have to agree with you, Frank' [440])"
+  },
+  "126": {
+   "name": "Frank Sprague",
+   "role": "Claremont School Board member; SAU 6 Board member (Seaman: 'What's the 30%, Frank' [49], 'I don't know that I can answer that question, Frank' [255], 'It should be, Frank' [644]; chair: 'Go ahead, Frank' [494]; 'When I was at Stevens' [386]; Petrin: 'I have to agree with you, Frank' [440])"
+  },
+  "128": {
+   "name": "Frank Sprague",
+   "role": "Claremont School Board member; SAU 6 Board member (Seaman: 'What's the 30%, Frank' [49], 'I don't know that I can answer that question, Frank' [255], 'It should be, Frank' [644]; chair: 'Go ahead, Frank' [494]; 'When I was at Stevens' [386]; Petrin: 'I have to agree with you, Frank' [440])"
+  },
+  "129": {
+   "name": "Frank Sprague",
+   "role": "Claremont School Board member; SAU 6 Board member (Seaman: 'What's the 30%, Frank' [49], 'I don't know that I can answer that question, Frank' [255], 'It should be, Frank' [644]; chair: 'Go ahead, Frank' [494]; 'When I was at Stevens' [386]; Petrin: 'I have to agree with you, Frank' [440])"
+  },
+  "130": {
+   "name": "Frank Sprague",
+   "role": "Claremont School Board member; SAU 6 Board member (Seaman: 'What's the 30%, Frank' [49], 'I don't know that I can answer that question, Frank' [255], 'It should be, Frank' [644]; chair: 'Go ahead, Frank' [494]; 'When I was at Stevens' [386]; Petrin: 'I have to agree with you, Frank' [440])"
+  },
+  "131": {
+   "name": "Frank Sprague",
+   "role": "Claremont School Board member; SAU 6 Board member (Seaman: 'What's the 30%, Frank' [49], 'I don't know that I can answer that question, Frank' [255], 'It should be, Frank' [644]; chair: 'Go ahead, Frank' [494]; 'When I was at Stevens' [386]; Petrin: 'I have to agree with you, Frank' [440])"
+  },
+  "133": {
+   "name": "Frank Sprague",
+   "role": "Claremont School Board member; SAU 6 Board member (Seaman: 'What's the 30%, Frank' [49], 'I don't know that I can answer that question, Frank' [255], 'It should be, Frank' [644]; chair: 'Go ahead, Frank' [494]; 'When I was at Stevens' [386]; Petrin: 'I have to agree with you, Frank' [440])"
+  },
+  "135": {
+   "name": "Frank Sprague",
+   "role": "Claremont School Board member; SAU 6 Board member (Seaman: 'What's the 30%, Frank' [49], 'I don't know that I can answer that question, Frank' [255], 'It should be, Frank' [644]; chair: 'Go ahead, Frank' [494]; 'When I was at Stevens' [386]; Petrin: 'I have to agree with you, Frank' [440])"
+  },
+  "137": {
+   "name": "Frank Sprague",
+   "role": "Claremont School Board member; SAU 6 Board member (Seaman: 'What's the 30%, Frank' [49], 'I don't know that I can answer that question, Frank' [255], 'It should be, Frank' [644]; chair: 'Go ahead, Frank' [494]; 'When I was at Stevens' [386]; Petrin: 'I have to agree with you, Frank' [440])"
+  },
+  "142": {
+   "name": "Frank Sprague",
+   "role": "Claremont School Board member; SAU 6 Board member (Seaman: 'What's the 30%, Frank' [49], 'I don't know that I can answer that question, Frank' [255], 'It should be, Frank' [644]; chair: 'Go ahead, Frank' [494]; 'When I was at Stevens' [386]; Petrin: 'I have to agree with you, Frank' [440])"
+  },
+  "179": {
+   "name": "Frank Sprague",
+   "role": "Claremont School Board member; SAU 6 Board member (Seaman: 'What's the 30%, Frank' [49], 'I don't know that I can answer that question, Frank' [255], 'It should be, Frank' [644]; chair: 'Go ahead, Frank' [494]; 'When I was at Stevens' [386]; Petrin: 'I have to agree with you, Frank' [440])"
+  },
+  "219": {
+   "name": "Frank Sprague",
+   "role": "Claremont School Board member; SAU 6 Board member (Seaman: 'What's the 30%, Frank' [49], 'I don't know that I can answer that question, Frank' [255], 'It should be, Frank' [644]; chair: 'Go ahead, Frank' [494]; 'When I was at Stevens' [386]; Petrin: 'I have to agree with you, Frank' [440])"
+  },
+  "221": {
+   "name": "Frank Sprague",
+   "role": "Claremont School Board member; SAU 6 Board member (Seaman: 'What's the 30%, Frank' [49], 'I don't know that I can answer that question, Frank' [255], 'It should be, Frank' [644]; chair: 'Go ahead, Frank' [494]; 'When I was at Stevens' [386]; Petrin: 'I have to agree with you, Frank' [440])"
+  },
+  "236": {
+   "name": "Frank Sprague",
+   "role": "Claremont School Board member; SAU 6 Board member (Seaman: 'What's the 30%, Frank' [49], 'I don't know that I can answer that question, Frank' [255], 'It should be, Frank' [644]; chair: 'Go ahead, Frank' [494]; 'When I was at Stevens' [386]; Petrin: 'I have to agree with you, Frank' [440])"
+  },
+  "243": {
+   "name": "Michael Tempesta",
+   "role": "Superintendent, SAU 6 ('when I took the job here, when we negotiated the contract' [89]; Seaman: 'I'm going to let Mike speak to - Mike' [116], 'How do you see that, Mike' [241], 'maybe you can speak to that' [257]) - diarized in the cluster that earlier carried Sprague"
+  },
+  "244": {
+   "name": "Michael Tempesta",
+   "role": "Superintendent, SAU 6 ('when I took the job here, when we negotiated the contract' [89]; Seaman: 'I'm going to let Mike speak to - Mike' [116], 'How do you see that, Mike' [241], 'maybe you can speak to that' [257]) - diarized in the cluster that earlier carried Sprague"
+  },
+  "245": {
+   "name": "Michael Tempesta",
+   "role": "Superintendent, SAU 6 ('when I took the job here, when we negotiated the contract' [89]; Seaman: 'I'm going to let Mike speak to - Mike' [116], 'How do you see that, Mike' [241], 'maybe you can speak to that' [257]) - diarized in the cluster that earlier carried Sprague"
+  },
+  "258": {
+   "name": "Michael Tempesta",
+   "role": "Superintendent, SAU 6 ('when I took the job here, when we negotiated the contract' [89]; Seaman: 'I'm going to let Mike speak to - Mike' [116], 'How do you see that, Mike' [241], 'maybe you can speak to that' [257]) - diarized in the cluster that earlier carried Sprague"
+  },
+  "259": {
+   "name": "Michael Tempesta",
+   "role": "Superintendent, SAU 6 ('when I took the job here, when we negotiated the contract' [89]; Seaman: 'I'm going to let Mike speak to - Mike' [116], 'How do you see that, Mike' [241], 'maybe you can speak to that' [257]) - diarized in the cluster that earlier carried Sprague"
+  },
+  "261": {
+   "name": "Michael Tempesta",
+   "role": "Superintendent, SAU 6 ('when I took the job here, when we negotiated the contract' [89]; Seaman: 'I'm going to let Mike speak to - Mike' [116], 'How do you see that, Mike' [241], 'maybe you can speak to that' [257]) - diarized in the cluster that earlier carried Sprague"
+  },
+  "263": {
+   "name": "Michael Tempesta",
+   "role": "Superintendent, SAU 6 ('when I took the job here, when we negotiated the contract' [89]; Seaman: 'I'm going to let Mike speak to - Mike' [116], 'How do you see that, Mike' [241], 'maybe you can speak to that' [257]) - diarized in the cluster that earlier carried Sprague"
+  },
+  "264": {
+   "name": "Michael Tempesta",
+   "role": "Superintendent, SAU 6 ('when I took the job here, when we negotiated the contract' [89]; Seaman: 'I'm going to let Mike speak to - Mike' [116], 'How do you see that, Mike' [241], 'maybe you can speak to that' [257]) - diarized in the cluster that earlier carried Sprague"
+  },
+  "270": {
+   "name": "Michael Tempesta",
+   "role": "Superintendent, SAU 6 ('when I took the job here, when we negotiated the contract' [89]; Seaman: 'I'm going to let Mike speak to - Mike' [116], 'How do you see that, Mike' [241], 'maybe you can speak to that' [257]) - diarized in the cluster that earlier carried Sprague"
+  },
+  "272": {
+   "name": "Michael Tempesta",
+   "role": "Superintendent, SAU 6 ('when I took the job here, when we negotiated the contract' [89]; Seaman: 'I'm going to let Mike speak to - Mike' [116], 'How do you see that, Mike' [241], 'maybe you can speak to that' [257]) - diarized in the cluster that earlier carried Sprague"
+  },
+  "273": {
+   "name": "Michael Tempesta",
+   "role": "Superintendent, SAU 6 ('when I took the job here, when we negotiated the contract' [89]; Seaman: 'I'm going to let Mike speak to - Mike' [116], 'How do you see that, Mike' [241], 'maybe you can speak to that' [257]) - diarized in the cluster that earlier carried Sprague"
+  },
+  "274": {
+   "name": "Michael Tempesta",
+   "role": "Superintendent, SAU 6 ('when I took the job here, when we negotiated the contract' [89]; Seaman: 'I'm going to let Mike speak to - Mike' [116], 'How do you see that, Mike' [241], 'maybe you can speak to that' [257]) - diarized in the cluster that earlier carried Sprague"
+  },
+  "295": {
+   "name": "Michael Tempesta",
+   "role": "Superintendent, SAU 6 ('when I took the job here, when we negotiated the contract' [89]; Seaman: 'I'm going to let Mike speak to - Mike' [116], 'How do you see that, Mike' [241], 'maybe you can speak to that' [257]) - diarized in the cluster that earlier carried Sprague"
+  },
+  "296": {
+   "name": "Michael Tempesta",
+   "role": "Superintendent, SAU 6 ('when I took the job here, when we negotiated the contract' [89]; Seaman: 'I'm going to let Mike speak to - Mike' [116], 'How do you see that, Mike' [241], 'maybe you can speak to that' [257]) - diarized in the cluster that earlier carried Sprague"
+  },
+  "332": {
+   "name": "Michael Tempesta",
+   "role": "Superintendent, SAU 6 ('when I took the job here, when we negotiated the contract' [89]; Seaman: 'I'm going to let Mike speak to - Mike' [116], 'How do you see that, Mike' [241], 'maybe you can speak to that' [257]) - diarized in the cluster that earlier carried Sprague"
+  },
+  "336": {
+   "name": "Michael Tempesta",
+   "role": "Superintendent, SAU 6 ('when I took the job here, when we negotiated the contract' [89]; Seaman: 'I'm going to let Mike speak to - Mike' [116], 'How do you see that, Mike' [241], 'maybe you can speak to that' [257]) - diarized in the cluster that earlier carried Sprague"
+  },
+  "339": {
+   "name": "Michael Tempesta",
+   "role": "Superintendent, SAU 6 ('when I took the job here, when we negotiated the contract' [89]; Seaman: 'I'm going to let Mike speak to - Mike' [116], 'How do you see that, Mike' [241], 'maybe you can speak to that' [257]) - diarized in the cluster that earlier carried Sprague"
+  },
+  "341": {
+   "name": "Michael Tempesta",
+   "role": "Superintendent, SAU 6 ('when I took the job here, when we negotiated the contract' [89]; Seaman: 'I'm going to let Mike speak to - Mike' [116], 'How do you see that, Mike' [241], 'maybe you can speak to that' [257]) - diarized in the cluster that earlier carried Sprague"
+  },
+  "353": {
+   "name": "Michael Tempesta",
+   "role": "Superintendent, SAU 6 ('when I took the job here, when we negotiated the contract' [89]; Seaman: 'I'm going to let Mike speak to - Mike' [116], 'How do you see that, Mike' [241], 'maybe you can speak to that' [257]) - diarized in the cluster that earlier carried Sprague"
+  },
+  "354": {
+   "name": "Michael Tempesta",
+   "role": "Superintendent, SAU 6 ('when I took the job here, when we negotiated the contract' [89]; Seaman: 'I'm going to let Mike speak to - Mike' [116], 'How do you see that, Mike' [241], 'maybe you can speak to that' [257]) - diarized in the cluster that earlier carried Sprague"
+  },
+  "356": {
+   "name": "Michael Tempesta",
+   "role": "Superintendent, SAU 6 ('when I took the job here, when we negotiated the contract' [89]; Seaman: 'I'm going to let Mike speak to - Mike' [116], 'How do you see that, Mike' [241], 'maybe you can speak to that' [257]) - diarized in the cluster that earlier carried Sprague"
+  },
+  "360": {
+   "name": "Michael Tempesta",
+   "role": "Superintendent, SAU 6 ('when I took the job here, when we negotiated the contract' [89]; Seaman: 'I'm going to let Mike speak to - Mike' [116], 'How do you see that, Mike' [241], 'maybe you can speak to that' [257]) - diarized in the cluster that earlier carried Sprague"
+  },
+  "363": {
+   "name": "Michael Tempesta",
+   "role": "Superintendent, SAU 6 ('when I took the job here, when we negotiated the contract' [89]; Seaman: 'I'm going to let Mike speak to - Mike' [116], 'How do you see that, Mike' [241], 'maybe you can speak to that' [257]) - diarized in the cluster that earlier carried Sprague"
+  },
+  "365": {
+   "name": "Michael Tempesta",
+   "role": "Superintendent, SAU 6 ('when I took the job here, when we negotiated the contract' [89]; Seaman: 'I'm going to let Mike speak to - Mike' [116], 'How do you see that, Mike' [241], 'maybe you can speak to that' [257]) - diarized in the cluster that earlier carried Sprague"
+  },
+  "367": {
+   "name": "Michael Tempesta",
+   "role": "Superintendent, SAU 6 ('when I took the job here, when we negotiated the contract' [89]; Seaman: 'I'm going to let Mike speak to - Mike' [116], 'How do you see that, Mike' [241], 'maybe you can speak to that' [257]) - diarized in the cluster that earlier carried Sprague"
+  },
+  "368": {
+   "name": "Michael Tempesta",
+   "role": "Superintendent, SAU 6 ('when I took the job here, when we negotiated the contract' [89]; Seaman: 'I'm going to let Mike speak to - Mike' [116], 'How do you see that, Mike' [241], 'maybe you can speak to that' [257]) - diarized in the cluster that earlier carried Sprague"
+  },
+  "378": {
+   "name": "Michael Tempesta",
+   "role": "Superintendent, SAU 6 ('when I took the job here, when we negotiated the contract' [89]; Seaman: 'I'm going to let Mike speak to - Mike' [116], 'How do you see that, Mike' [241], 'maybe you can speak to that' [257]) - diarized in the cluster that earlier carried Sprague"
+  },
+  "380": {
+   "name": "Michael Tempesta",
+   "role": "Superintendent, SAU 6 ('when I took the job here, when we negotiated the contract' [89]; Seaman: 'I'm going to let Mike speak to - Mike' [116], 'How do you see that, Mike' [241], 'maybe you can speak to that' [257]) - diarized in the cluster that earlier carried Sprague"
+  },
+  "382": {
+   "name": "Michael Tempesta",
+   "role": "Superintendent, SAU 6 ('when I took the job here, when we negotiated the contract' [89]; Seaman: 'I'm going to let Mike speak to - Mike' [116], 'How do you see that, Mike' [241], 'maybe you can speak to that' [257]) - diarized in the cluster that earlier carried Sprague"
+  },
+  "385": {
+   "name": "Michael Tempesta",
+   "role": "Superintendent, SAU 6 ('when I took the job here, when we negotiated the contract' [89]; Seaman: 'I'm going to let Mike speak to - Mike' [116], 'How do you see that, Mike' [241], 'maybe you can speak to that' [257]) - diarized in the cluster that earlier carried Sprague"
+  },
+  "387": {
+   "name": "Michael Tempesta",
+   "role": "Superintendent, SAU 6 ('when I took the job here, when we negotiated the contract' [89]; Seaman: 'I'm going to let Mike speak to - Mike' [116], 'How do you see that, Mike' [241], 'maybe you can speak to that' [257]) - diarized in the cluster that earlier carried Sprague"
+  },
+  "591": {
+   "name": "Unidentified",
+   "role": "Remark on bargaining-unit insurance shares; Frank Sprague or Michael Tempesta (the minutes credit the scenario request to Sprague)"
+  },
+  "595": {
+   "name": "Frank Sprague",
+   "role": "Claremont School Board member; SAU 6 Board member (Seaman: 'What's the 30%, Frank' [49], 'I don't know that I can answer that question, Frank' [255], 'It should be, Frank' [644]; chair: 'Go ahead, Frank' [494]; 'When I was at Stevens' [386]; Petrin: 'I have to agree with you, Frank' [440]) - the SAU6 12.1.22 Meeting Minutes (Drive 1h2_TLpDmGDQck2S4ZazgRsXoE6iyITk8) credit him with asking for the raise and insurance-share scenarios; diarized in the cluster that later carries Tempesta"
+  },
+  "598": {
+   "name": "Frank Sprague",
+   "role": "Claremont School Board member; SAU 6 Board member (Seaman: 'What's the 30%, Frank' [49], 'I don't know that I can answer that question, Frank' [255], 'It should be, Frank' [644]; chair: 'Go ahead, Frank' [494]; 'When I was at Stevens' [386]; Petrin: 'I have to agree with you, Frank' [440]) - the SAU6 12.1.22 Meeting Minutes (Drive 1h2_TLpDmGDQck2S4ZazgRsXoE6iyITk8) credit him with asking for the raise and insurance-share scenarios; diarized in the cluster that later carries Tempesta"
+  },
+  "650": {
+   "name": "Michael Tempesta",
+   "role": "Superintendent, SAU 6 ('when I took the job here, when we negotiated the contract' [89]; Seaman: 'I'm going to let Mike speak to - Mike' [116], 'How do you see that, Mike' [241], 'maybe you can speak to that' [257]) - diarized in the cluster that earlier carried Sprague"
+  },
+  "652": {
+   "name": "Michael Tempesta",
+   "role": "Superintendent, SAU 6 ('when I took the job here, when we negotiated the contract' [89]; Seaman: 'I'm going to let Mike speak to - Mike' [116], 'How do you see that, Mike' [241], 'maybe you can speak to that' [257]) - diarized in the cluster that earlier carried Sprague"
+  },
+  "654": {
+   "name": "Michael Tempesta",
+   "role": "Superintendent, SAU 6 ('when I took the job here, when we negotiated the contract' [89]; Seaman: 'I'm going to let Mike speak to - Mike' [116], 'How do you see that, Mike' [241], 'maybe you can speak to that' [257]) - diarized in the cluster that earlier carried Sprague"
+  },
+  "657": {
+   "name": "Michael Tempesta",
+   "role": "Superintendent, SAU 6 ('when I took the job here, when we negotiated the contract' [89]; Seaman: 'I'm going to let Mike speak to - Mike' [116], 'How do you see that, Mike' [241], 'maybe you can speak to that' [257]) - diarized in the cluster that earlier carried Sprague"
+  },
+  "713": {
+   "name": "Michael Tempesta",
+   "role": "Superintendent, SAU 6 ('when I took the job here, when we negotiated the contract' [89]; Seaman: 'I'm going to let Mike speak to - Mike' [116], 'How do you see that, Mike' [241], 'maybe you can speak to that' [257]) - diarized in the cluster that earlier carried Sprague"
+  },
+  "719": {
+   "name": "Michael Tempesta",
+   "role": "Superintendent, SAU 6 ('when I took the job here, when we negotiated the contract' [89]; Seaman: 'I'm going to let Mike speak to - Mike' [116], 'How do you see that, Mike' [241], 'maybe you can speak to that' [257]) - diarized in the cluster that earlier carried Sprague"
+  },
+  "641": {
+   "name": "Frank Sprague",
+   "role": "Claremont School Board member; SAU 6 Board member (Seaman: 'What's the 30%, Frank' [49], 'I don't know that I can answer that question, Frank' [255], 'It should be, Frank' [644]; chair: 'Go ahead, Frank' [494]; 'When I was at Stevens' [386]; Petrin: 'I have to agree with you, Frank' [440])"
+  },
+  "643": {
+   "name": "Frank Sprague",
+   "role": "Claremont School Board member; SAU 6 Board member (Seaman: 'What's the 30%, Frank' [49], 'I don't know that I can answer that question, Frank' [255], 'It should be, Frank' [644]; chair: 'Go ahead, Frank' [494]; 'When I was at Stevens' [386]; Petrin: 'I have to agree with you, Frank' [440])"
+  },
+  "145": {
+   "name": "Michael Koski",
+   "role": "Assistant Superintendent, SAU 6 (spelling uncertain; 'new eyes coming into the district, right from a district that had HR' [154]; David refers to 'your assistant superintendent, Mr. coffee' [449]; same name and spelling caveat as the 10/19/22 and 11/3/22 mappings) - fragments of his sentence diarized with Sprague's cluster"
+  },
+  "147": {
+   "name": "Michael Koski",
+   "role": "Assistant Superintendent, SAU 6 (spelling uncertain; 'new eyes coming into the district, right from a district that had HR' [154]; David refers to 'your assistant superintendent, Mr. coffee' [449]; same name and spelling caveat as the 10/19/22 and 11/3/22 mappings) - fragments of his sentence diarized with Sprague's cluster"
+  },
+  "149": {
+   "name": "Michael Koski",
+   "role": "Assistant Superintendent, SAU 6 (spelling uncertain; 'new eyes coming into the district, right from a district that had HR' [154]; David refers to 'your assistant superintendent, Mr. coffee' [449]; same name and spelling caveat as the 10/19/22 and 11/3/22 mappings) - fragments of his sentence diarized with Sprague's cluster"
+  },
+  "153": {
+   "name": "Michael Koski",
+   "role": "Assistant Superintendent, SAU 6 (spelling uncertain; 'new eyes coming into the district, right from a district that had HR' [154]; David refers to 'your assistant superintendent, Mr. coffee' [449]; same name and spelling caveat as the 10/19/22 and 11/3/22 mappings) - fragments of his sentence diarized with Sprague's cluster"
+  },
+  "150": {
+   "name": "Michael Koski",
+   "role": "Assistant Superintendent, SAU 6 (spelling uncertain; 'new eyes coming into the district, right from a district that had HR' [154]; David refers to 'your assistant superintendent, Mr. coffee' [449]; same name and spelling caveat as the 10/19/22 and 11/3/22 mappings)"
+  },
+  "152": {
+   "name": "Michael Koski",
+   "role": "Assistant Superintendent, SAU 6 (spelling uncertain; 'new eyes coming into the district, right from a district that had HR' [154]; David refers to 'your assistant superintendent, Mr. coffee' [449]; same name and spelling caveat as the 10/19/22 and 11/3/22 mappings)"
+  },
+  "154": {
+   "name": "Michael Koski",
+   "role": "Assistant Superintendent, SAU 6 (spelling uncertain; 'new eyes coming into the district, right from a district that had HR' [154]; David refers to 'your assistant superintendent, Mr. coffee' [449]; same name and spelling caveat as the 10/19/22 and 11/3/22 mappings)"
+  },
+  "156": {
+   "name": "Michael Koski",
+   "role": "Assistant Superintendent, SAU 6 (spelling uncertain; 'new eyes coming into the district, right from a district that had HR' [154]; David refers to 'your assistant superintendent, Mr. coffee' [449]; same name and spelling caveat as the 10/19/22 and 11/3/22 mappings)"
+  },
+  "275": {
+   "name": "Michael Koski",
+   "role": "Assistant Superintendent, SAU 6 (spelling uncertain; 'new eyes coming into the district, right from a district that had HR' [154]; David refers to 'your assistant superintendent, Mr. coffee' [449]; same name and spelling caveat as the 10/19/22 and 11/3/22 mappings)"
+  },
+  "277": {
+   "name": "Michael Koski",
+   "role": "Assistant Superintendent, SAU 6 (spelling uncertain; 'new eyes coming into the district, right from a district that had HR' [154]; David refers to 'your assistant superintendent, Mr. coffee' [449]; same name and spelling caveat as the 10/19/22 and 11/3/22 mappings)"
+  },
+  "279": {
+   "name": "Michael Koski",
+   "role": "Assistant Superintendent, SAU 6 (spelling uncertain; 'new eyes coming into the district, right from a district that had HR' [154]; David refers to 'your assistant superintendent, Mr. coffee' [449]; same name and spelling caveat as the 10/19/22 and 11/3/22 mappings)"
+  },
+  "287": {
+   "name": "Michael Koski",
+   "role": "Assistant Superintendent, SAU 6 (spelling uncertain; 'new eyes coming into the district, right from a district that had HR' [154]; David refers to 'your assistant superintendent, Mr. coffee' [449]; same name and spelling caveat as the 10/19/22 and 11/3/22 mappings)"
+  },
+  "289": {
+   "name": "Michael Koski",
+   "role": "Assistant Superintendent, SAU 6 (spelling uncertain; 'new eyes coming into the district, right from a district that had HR' [154]; David refers to 'your assistant superintendent, Mr. coffee' [449]; same name and spelling caveat as the 10/19/22 and 11/3/22 mappings)"
+  },
+  "292": {
+   "name": "Michael Koski",
+   "role": "Assistant Superintendent, SAU 6 (spelling uncertain; 'new eyes coming into the district, right from a district that had HR' [154]; David refers to 'your assistant superintendent, Mr. coffee' [449]; same name and spelling caveat as the 10/19/22 and 11/3/22 mappings)"
+  },
+  "158": {
+   "name": "Michael Petrin",
+   "role": "Claremont School Board Chair; SAU 6 Board member - middle of his health-insurance question [157]-[159]"
+  },
+  "242": {
+   "name": "Michael Tempesta",
+   "role": "Superintendent, SAU 6 ('when I took the job here, when we negotiated the contract' [89]; Seaman: 'I'm going to let Mike speak to - Mike' [116], 'How do you see that, Mike' [241], 'maybe you can speak to that' [257]) - onset of his answer [243]"
+  },
+  "247": {
+   "name": "Frank Sprague",
+   "role": "Claremont School Board member; SAU 6 Board member (Seaman: 'What's the 30%, Frank' [49], 'I don't know that I can answer that question, Frank' [255], 'It should be, Frank' [644]; chair: 'Go ahead, Frank' [494]; 'When I was at Stevens' [386]; Petrin: 'I have to agree with you, Frank' [440]) - fragments of his data-specialist question [247]-[254], split across clusters"
+  },
+  "248": {
+   "name": "Frank Sprague",
+   "role": "Claremont School Board member; SAU 6 Board member (Seaman: 'What's the 30%, Frank' [49], 'I don't know that I can answer that question, Frank' [255], 'It should be, Frank' [644]; chair: 'Go ahead, Frank' [494]; 'When I was at Stevens' [386]; Petrin: 'I have to agree with you, Frank' [440]) - fragments of his data-specialist question [247]-[254], split across clusters"
+  },
+  "249": {
+   "name": "Frank Sprague",
+   "role": "Claremont School Board member; SAU 6 Board member (Seaman: 'What's the 30%, Frank' [49], 'I don't know that I can answer that question, Frank' [255], 'It should be, Frank' [644]; chair: 'Go ahead, Frank' [494]; 'When I was at Stevens' [386]; Petrin: 'I have to agree with you, Frank' [440]) - fragments of his data-specialist question [247]-[254], split across clusters"
+  },
+  "250": {
+   "name": "Frank Sprague",
+   "role": "Claremont School Board member; SAU 6 Board member (Seaman: 'What's the 30%, Frank' [49], 'I don't know that I can answer that question, Frank' [255], 'It should be, Frank' [644]; chair: 'Go ahead, Frank' [494]; 'When I was at Stevens' [386]; Petrin: 'I have to agree with you, Frank' [440]) - fragments of his data-specialist question [247]-[254], split across clusters"
+  },
+  "252": {
+   "name": "Frank Sprague",
+   "role": "Claremont School Board member; SAU 6 Board member (Seaman: 'What's the 30%, Frank' [49], 'I don't know that I can answer that question, Frank' [255], 'It should be, Frank' [644]; chair: 'Go ahead, Frank' [494]; 'When I was at Stevens' [386]; Petrin: 'I have to agree with you, Frank' [440]) - fragments of his data-specialist question [247]-[254], split across clusters"
+  },
+  "282": {
+   "name": "Heather Whitney",
+   "role": "Claremont School Board member; SAU 6 Board member - continuation of her recognized turn [281], [283] ('to Whitney's point'), diarized with the chair"
+  },
+  "284": {
+   "name": "Heather Whitney",
+   "role": "Claremont School Board member; SAU 6 Board member - continuation of her recognized turn [281], [283] ('to Whitney's point'), diarized with the chair"
+  },
+  "285": {
+   "name": "Heather Whitney",
+   "role": "Claremont School Board member; SAU 6 Board member - continuation of her recognized turn [281], [283] ('to Whitney's point'), diarized with the chair"
+  },
+  "646": {
+   "name": "Unidentified",
+   "role": "Diarized with the chair right after she asks 'Heather, do we want to include cleaning up some of these job descriptions' [645]; may be Heather Whitney answering, not confirmed"
+  },
+  "647": {
+   "name": "Unidentified",
+   "role": "Diarized with the chair right after she asks 'Heather, do we want to include cleaning up some of these job descriptions' [645]; may be Heather Whitney answering, not confirmed"
+  },
+  "648": {
+   "name": "Unidentified",
+   "role": "Diarized with the chair right after she asks 'Heather, do we want to include cleaning up some of these job descriptions' [645]; may be Heather Whitney answering, not confirmed"
+  },
+  "649": {
+   "name": "Unidentified",
+   "role": "Diarized with the chair right after she asks 'Heather, do we want to include cleaning up some of these job descriptions' [645]; may be Heather Whitney answering, not confirmed"
+  },
+  "4": {
+   "name": "Michael Petrin",
+   "role": "Claremont School Board Chair; SAU 6 Board member - moves to approve the 11/16/22 minutes per the SAU6 12.1.22 Meeting Minutes (Drive 1h2_TLpDmGDQck2S4ZazgRsXoE6iyITk8) ('Michael Petrin makes a motion to approve meeting minutes from 11.16.22'); diarized in Sprague's cluster"
+  },
+  "729": {
+   "name": "Frank Sprague",
+   "role": "Claremont School Board member; SAU 6 Board member (Seaman: 'What's the 30%, Frank' [49], 'I don't know that I can answer that question, Frank' [255], 'It should be, Frank' [644]; chair: 'Go ahead, Frank' [494]; 'When I was at Stevens' [386]; Petrin: 'I have to agree with you, Frank' [440]) - seconds the adjournment per the SAU6 12.1.22 Meeting Minutes (Drive 1h2_TLpDmGDQck2S4ZazgRsXoE6iyITk8)"
+  }
+ }
+}

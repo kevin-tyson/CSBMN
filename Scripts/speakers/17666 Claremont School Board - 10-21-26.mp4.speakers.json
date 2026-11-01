@@ -1,0 +1,436 @@
+{
+ "Speaker 1": {
+  "name": "Tim Broadrick",
+  "role": "Superintendent, SAU 6 - presents the HB 1300 information forum (003-029); the chair turns the floor to 'Doctor Broderick' (002) and he hands it back with 'Madam Chair' (029); ASR renders Broadrick as 'Broderick'. This cluster also holds public commenters Nelson and Merchant, relabeled per segment"
+ },
+ "Speaker 2": {
+  "name": "Candace Crawford",
+  "role": "School Board Chair - opens the forum, calls the meeting to order 'for October 21st, 2026' (203), runs the agenda and calls every vote; addressed as 'Chair Crawford' by Rep. Hemingway (105, 109) and 'Candy' by Mark Chamberlain (080)"
+ },
+ "Speaker 3": {
+  "name": "Teresa Taylor",
+  "role": "Business Administrator, SAU 6 - presents the first-quarter budget report after the chair introduces 'Teresa Taylor ... on the job for two weeks' (284); Bill Madden addresses her as 'Theresa' (361). This cluster also holds the clerk's roll calls, relabeled per segment"
+ },
+ "Speaker 4": {
+  "name": "Don Lavalette",
+  "role": "School Board member - corrects the 9/16 and 10/7 minutes, addressing the clerk as 'Noel' (217-230); the superintendent answers 'Mr. Level' (430; ASR for Lavalette); Heather Whitney echoes 'Don's initiative' on classroom-evacuation notices (482), which this cluster raised (465-474); moves the electricity contract (566) and the parking contract (592)"
+ },
+ "Speaker 5": {
+  "name": "Chris Cogswell",
+  "role": "Member of the public - self-identifies 'Chris Cogswell, Ward three, running for New Hampshire House in district six. Also currently the city council' (053, 189); the chair calls 'Mr. Cogswell' (188)"
+ },
+ "Speaker 6": {
+  "name": "Kevin Tyson",
+  "role": "Member of the public - self-identifies 'My name is Kevin Tyson. I live in Ward two' (064) and 'I'm still Kevin Tyson, still in Ward two' (167); the chair calls 'Mr. Tyson' (063, 164, 166)"
+ },
+ "Speaker 7": {
+  "name": "Wayne Hemingway",
+  "role": "Member of the public; NH state representative - continuation of the remarks he opens in the Speaker 9 cluster (112-116 finish his sentences from 111). This cluster also holds Rep. Cloutier, Bennie Nelson and Treasurer Diamond, relabeled per segment"
+ },
+ "Speaker 8": {
+  "name": "Mark Chamberlain",
+  "role": "Member of the public - self-identifies 'Mark Chamberlain, Ward one' (079) after the chair calls 'Mr. Chamberlain?' (078). The cluster also holds audience interjections, relabeled per segment"
+ },
+ "Speaker 9": {
+  "name": "Wayne Hemingway",
+  "role": "Member of the public; NH state representative - self-identifies 'I am Representative Wayne Hemingway. I am a Claremont resident of Ward one' (107)"
+ },
+ "Speaker 10": {
+  "name": "Benjamin Nelson",
+  "role": "Member of the public - one segment (099) inside the remarks of the speaker who gives his name as 'Benjamin Nelson' (093) of 'Ward two, running for Sullivan County commissioner' (094-095); listed on the 2026 Sullivan County commissioner ballot as Bennie Nelson"
+ },
+ "Speaker 11": {
+  "name": "Emily Sandblade",
+  "role": "Member of the public - self-identifies 'I'm Emily San. Blade and I live in Ward three' (130; ASR splits the surname); Valley News names Emily Sandblade as a leader of the March 2026 petitioned budget cap"
+ },
+ "Speaker 12": {
+  "name": "Tom Luther",
+  "role": "Member of the public - self-identifies 'Tom Luther, I'm in Ward one' and as a Riverview Charter School board member (264); the chair calls 'Tom' (137)"
+ },
+ "Speaker 13": {
+  "name": "Hope Damon",
+  "role": "Member of the public; NH state representative - self-identifies 'state representative Hope Damon' on the House Education Funding Committee (146, 154, 197); the chair calls 'Hope' (145) and 'miss Damon' (196)"
+ },
+ "Speaker 14": {
+  "name": "Heather Whitney",
+  "role": "School Board member (Finance; Ad Hoc Reconfiguration Chair) - the chair recognizes 'Yes. Heather.' (481) and thanks 'Heather' after her HB 1300 remarks (530); the superintendent answers 'everything that you just mentioned, Heather' (497); the chair's 'I need a second for her motion' (442) follows this cluster's NHIAA motion (437)"
+ },
+ "Speaker 15": {
+  "name": "William 'Bill' Madden",
+  "role": "School Board member (Capital Improvement Chair) - answers the chair's 'Mr. Madden' (242), 'Bill' (360, 475, 551); gives the Capital Improvement report (664-666), which the superintendent corrects with 'I'm sorry, Mr. Madden' (667)"
+ },
+ "Speaker 16": {
+  "name": "Rachel Nagler",
+  "role": "Member of the public - self-identifies 'I am Rachel, I'm from Ward two' (248) and gives her last name as 'Nagler' when the chair asks (256-257); her spelling is cut off by ASR ('GLR', 260), so the surname spelling is as transcribed"
+ },
+ "Speaker 17": {
+  "name": "Byron DeCamp",
+  "role": "Student representative (Stevens High School) - delivers the student report; Lavalette says 'Good job. Byron.' (276) and the chair 'Thank you for Byron ... You are excused' (277); the chair's introduction is rendered 'Brian DeCamp' (267). Later fragments in this cluster come after he was excused and are relabeled"
+ },
+ "Speaker 18": {
+  "name": "Luke Diamond",
+  "role": "School District Treasurer - gives the treasurer's report after the chair's 'tracers report, Mr. Diamond' (277): his meeting 'with Miss Taylor' about electronic payments 'not being seen by the board' (281-282)"
+ },
+ "Speaker 19": {
+  "name": "Tim Broadrick",
+  "role": "Superintendent, SAU 6 - the chair asks 'Doctor Broderick, would you like to address this?' (560) and 'Any questions for Doctor Broderick?' (646) after his reports; delivers the superintendent's report, the electricity bid and the personnel nominations"
+ },
+ "Speaker 20": {
+  "name": "Unidentified",
+  "role": "Catch-all cluster of short interjections ('Aye', 'Second', 'Yes', sentence fragments) from several voices, including members' roll-call answers; speaker not determinable unless relabeled per segment"
+ },
+ "Speaker 21": {
+  "name": "Unidentified board member",
+  "role": "School Board member, Brian Rapp or Michael Petrin (both answered the roll call at 215; Howard was absent per the chair at 603, and the other four members are identified in their own clusters). The remark that caps have come 'both municipal and school side, several times' (542) fits Rapp, a former board member (2010-2017) and Claremont deputy fire chief per Valley News, but nothing in the transcript rules out Petrin; the 10/21 draft minutes should settle it through the movers at 634 and 647"
+ },
+ "__overrides__": {
+  "000": {
+   "name": "Tim Broadrick",
+   "role": "Superintendent, SAU 6 (probable) - hands out the forum information just before presenting; diarized in his forum cluster"
+  },
+  "089": {
+   "name": "Benjamin Nelson",
+   "role": "Member of the public - self-identifies 'Benjamin Nelson' (093), 'Ward two, running for Sullivan County commissioner' (094-095); diarized in Broadrick's forum cluster"
+  },
+  "092": {
+   "name": "Benjamin Nelson",
+   "role": "Member of the public - self-identifies 'Benjamin Nelson' (093), 'Ward two, running for Sullivan County commissioner' (094-095); diarized in Broadrick's forum cluster"
+  },
+  "094": {
+   "name": "Benjamin Nelson",
+   "role": "Member of the public - self-identifies 'Benjamin Nelson' (093), 'Ward two, running for Sullivan County commissioner' (094-095); diarized in Broadrick's forum cluster"
+  },
+  "096": {
+   "name": "Benjamin Nelson",
+   "role": "Member of the public - self-identifies 'Benjamin Nelson' (093), 'Ward two, running for Sullivan County commissioner' (094-095); diarized in Broadrick's forum cluster"
+  },
+  "098": {
+   "name": "Benjamin Nelson",
+   "role": "Member of the public - self-identifies 'Benjamin Nelson' (093), 'Ward two, running for Sullivan County commissioner' (094-095); diarized in Broadrick's forum cluster"
+  },
+  "100": {
+   "name": "Benjamin Nelson",
+   "role": "Member of the public - self-identifies 'Benjamin Nelson' (093), 'Ward two, running for Sullivan County commissioner' (094-095); diarized in Broadrick's forum cluster"
+  },
+  "101": {
+   "name": "Benjamin Nelson",
+   "role": "Member of the public - self-identifies 'Benjamin Nelson' (093), 'Ward two, running for Sullivan County commissioner' (094-095); diarized in Broadrick's forum cluster"
+  },
+  "093": {
+   "name": "Benjamin Nelson",
+   "role": "Member of the public (part of his own self-introduction and remarks; diarized in another cluster)"
+  },
+  "095": {
+   "name": "Benjamin Nelson",
+   "role": "Member of the public (part of his own self-introduction and remarks; diarized in another cluster)"
+  },
+  "097": {
+   "name": "Benjamin Nelson",
+   "role": "Member of the public (part of his own self-introduction and remarks; diarized in another cluster)"
+  },
+  "118": {
+   "name": "Gary Merchant",
+   "role": "Member of the public - self-identifies 'my name is Gary Merchant, Ward two' (119) and 'Gary Merchant' again in round two (183); the chair calls 'Mr. merchant' (117, 182); diarized in Broadrick's forum cluster"
+  },
+  "119": {
+   "name": "Gary Merchant",
+   "role": "Member of the public - self-identifies 'my name is Gary Merchant, Ward two' (119) and 'Gary Merchant' again in round two (183); the chair calls 'Mr. merchant' (117, 182); diarized in Broadrick's forum cluster"
+  },
+  "120": {
+   "name": "Gary Merchant",
+   "role": "Member of the public - self-identifies 'my name is Gary Merchant, Ward two' (119) and 'Gary Merchant' again in round two (183); the chair calls 'Mr. merchant' (117, 182); diarized in Broadrick's forum cluster"
+  },
+  "121": {
+   "name": "Gary Merchant",
+   "role": "Member of the public - self-identifies 'my name is Gary Merchant, Ward two' (119) and 'Gary Merchant' again in round two (183); the chair calls 'Mr. merchant' (117, 182); diarized in Broadrick's forum cluster"
+  },
+  "122": {
+   "name": "Gary Merchant",
+   "role": "Member of the public - self-identifies 'my name is Gary Merchant, Ward two' (119) and 'Gary Merchant' again in round two (183); the chair calls 'Mr. merchant' (117, 182); diarized in Broadrick's forum cluster"
+  },
+  "123": {
+   "name": "Gary Merchant",
+   "role": "Member of the public - self-identifies 'my name is Gary Merchant, Ward two' (119) and 'Gary Merchant' again in round two (183); the chair calls 'Mr. merchant' (117, 182); diarized in Broadrick's forum cluster"
+  },
+  "124": {
+   "name": "Gary Merchant",
+   "role": "Member of the public - self-identifies 'my name is Gary Merchant, Ward two' (119) and 'Gary Merchant' again in round two (183); the chair calls 'Mr. merchant' (117, 182); diarized in Broadrick's forum cluster"
+  },
+  "125": {
+   "name": "Gary Merchant",
+   "role": "Member of the public - self-identifies 'my name is Gary Merchant, Ward two' (119) and 'Gary Merchant' again in round two (183); the chair calls 'Mr. merchant' (117, 182); diarized in Broadrick's forum cluster"
+  },
+  "126": {
+   "name": "Gary Merchant",
+   "role": "Member of the public - self-identifies 'my name is Gary Merchant, Ward two' (119) and 'Gary Merchant' again in round two (183); the chair calls 'Mr. merchant' (117, 182); diarized in Broadrick's forum cluster"
+  },
+  "183": {
+   "name": "Gary Merchant",
+   "role": "Member of the public - self-identifies 'my name is Gary Merchant, Ward two' (119) and 'Gary Merchant' again in round two (183); the chair calls 'Mr. merchant' (117, 182); diarized in Broadrick's forum cluster"
+  },
+  "184": {
+   "name": "Gary Merchant",
+   "role": "Member of the public - self-identifies 'my name is Gary Merchant, Ward two' (119) and 'Gary Merchant' again in round two (183); the chair calls 'Mr. merchant' (117, 182); diarized in Broadrick's forum cluster"
+  },
+  "185": {
+   "name": "Gary Merchant",
+   "role": "Member of the public - self-identifies 'my name is Gary Merchant, Ward two' (119) and 'Gary Merchant' again in round two (183); the chair calls 'Mr. merchant' (117, 182); diarized in Broadrick's forum cluster"
+  },
+  "186": {
+   "name": "Gary Merchant",
+   "role": "Member of the public - self-identifies 'my name is Gary Merchant, Ward two' (119) and 'Gary Merchant' again in round two (183); the chair calls 'Mr. merchant' (117, 182); diarized in Broadrick's forum cluster"
+  },
+  "187": {
+   "name": "Gary Merchant",
+   "role": "Member of the public - self-identifies 'my name is Gary Merchant, Ward two' (119) and 'Gary Merchant' again in round two (183); the chair calls 'Mr. merchant' (117, 182); diarized in Broadrick's forum cluster"
+  },
+  "205": {
+   "name": "Unidentified",
+   "role": "Short remark before the Pledge of Allegiance; speaker not determinable"
+  },
+  "073": {
+   "name": "John Cloutier",
+   "role": "Member of the public; NH state representative - self-identifies 'For the record, I'm John Cloutier. I live in Ward one ... New Hampshire House of Representatives representing Claremont and Croydon' (073); the chair calls 'John' (072)"
+  },
+  "074": {
+   "name": "John Cloutier",
+   "role": "Member of the public; NH state representative - self-identifies 'For the record, I'm John Cloutier. I live in Ward one ... New Hampshire House of Representatives representing Claremont and Croydon' (073); the chair calls 'John' (072)"
+  },
+  "075": {
+   "name": "John Cloutier",
+   "role": "Member of the public; NH state representative - self-identifies 'For the record, I'm John Cloutier. I live in Ward one ... New Hampshire House of Representatives representing Claremont and Croydon' (073); the chair calls 'John' (072)"
+  },
+  "076": {
+   "name": "John Cloutier",
+   "role": "Member of the public; NH state representative - self-identifies 'For the record, I'm John Cloutier. I live in Ward one ... New Hampshire House of Representatives representing Claremont and Croydon' (073); the chair calls 'John' (072)"
+  },
+  "077": {
+   "name": "John Cloutier",
+   "role": "Member of the public; NH state representative - self-identifies 'For the record, I'm John Cloutier. I live in Ward one ... New Hampshire House of Representatives representing Claremont and Croydon' (073); the chair calls 'John' (072)"
+  },
+  "204": {
+   "name": "Unidentified",
+   "role": "Short remark before the Pledge of Allegiance; speaker not determinable"
+  },
+  "104": {
+   "name": "Unidentified",
+   "role": "Short remark during Rep. Hemingway's opening ('You didn't mean.'); speaker not determinable"
+  },
+  "278": {
+   "name": "Luke Diamond",
+   "role": "School District Treasurer - 'Thank you, Madam Chair.' answering 'tracers report, Mr. Diamond' (277); diarized in another cluster"
+  },
+  "279": {
+   "name": "Luke Diamond",
+   "role": "School District Treasurer - 'No written reports tonight. I did meet.' opens his report; diarized in another cluster"
+  },
+  "280": {
+   "name": "Luke Diamond",
+   "role": "School District Treasurer - 'With Miss Taylor last week.' continues his sentence from 279; diarized in another cluster"
+  },
+  "090": {
+   "name": "Wayne Hemingway",
+   "role": "Member of the public; NH state representative (probable) - 'I'll follow you on that.' while Nelson goes first; Hemingway speaks next, in this cluster"
+  },
+  "091": {
+   "name": "Wayne Hemingway",
+   "role": "Member of the public; NH state representative (probable) - 'I'll follow you on that.' while Nelson goes first; Hemingway speaks next, in this cluster"
+  },
+  "102": {
+   "name": "Unidentified",
+   "role": "Short 'Thank you.' after Nelson's remarks; speaker not determinable"
+  },
+  "103": {
+   "name": "Wayne Hemingway",
+   "role": "Member of the public; NH state representative - mixed segment: it opens with another voice ('Thank you. You're welcome. Mr. Hemingway, ...') and ends with Hemingway's own 'Good evening.', merged by the diarizer"
+  },
+  "138": {
+   "name": "Tom Luther",
+   "role": "Member of the public - 'Tom. Luther.' gives his name after the chair's 'go ahead, Tom' (137); diarized in Chamberlain's cluster"
+  },
+  "147": {
+   "name": "Unidentified",
+   "role": "Audience remark about the microphone during Rep. Damon's turn; speaker not determinable"
+  },
+  "149": {
+   "name": "Unidentified",
+   "role": "Audience remark about the microphone during Rep. Damon's turn; speaker not determinable"
+  },
+  "153": {
+   "name": "Unidentified",
+   "role": "Audience remark about the microphone during Rep. Damon's turn; speaker not determinable"
+  },
+  "176": {
+   "name": "Unidentified",
+   "role": "Short remark during the Tyson-Crawford exchange about the warrant article ('We had to okay, okay. They had.'); speaker not determinable"
+  },
+  "451": {
+   "name": "Unidentified",
+   "role": "Short remark during the NHIAA motion ('I hope.'); speaker not determinable"
+  },
+  "152": {
+   "name": "Hope Damon",
+   "role": "Member of the public; NH state representative - 'Is this better?' tests the microphone during her own turn; diarized in Luther's cluster"
+  },
+  "358": {
+   "name": "Unidentified",
+   "role": "Short fragment during the finance-report discussion; speaker not determinable"
+  },
+  "259": {
+   "name": "Candace Crawford",
+   "role": "School Board Chair - 'Spell that, please?' completes her own question 'Would you' (258) to Rachel Nagler; diarized in Whitney's cluster"
+  },
+  "287": {
+   "name": "Candace Crawford",
+   "role": "School Board Chair - 'Me to?' completes her own question 'Can I help you? You want' (286) to Teresa Taylor; diarized in Whitney's cluster"
+  },
+  "420": {
+   "name": "Don Lavalette",
+   "role": "School Board member - 'That needs.' opens his own 'that needs to stop' (421) about the SAU 6 web pages; diarized in Madden's cluster"
+  },
+  "215": {
+   "name": "Noelle Kronberg",
+   "role": "School Board Clerk - reads the roll call; the members' 'Here' answers are inside this segment ('Lauren. Howard.' has no answer, consistent with the chair's note at 603 that Howard could not attend; 'John' is ASR for Don Lavalette and 'Ryan. Rap' for Brian Rapp)"
+  },
+  "222": {
+   "name": "Noelle Kronberg",
+   "role": "School Board Clerk (probable) - 'Yes.' answering Lavalette, who addresses 'Noel' about his minutes corrections (217-226)"
+  },
+  "225": {
+   "name": "Noelle Kronberg",
+   "role": "School Board Clerk (probable) - 'Yes.' answering Lavalette, who addresses 'Noel' about his minutes corrections (217-226)"
+  },
+  "227": {
+   "name": "Noelle Kronberg",
+   "role": "School Board Clerk - answers Lavalette that she re-checked the 9/2 minutes changes 'today'"
+  },
+  "229": {
+   "name": "Noelle Kronberg",
+   "role": "School Board Clerk - answers Lavalette that she re-checked the 9/2 minutes changes 'today'"
+  },
+  "262": {
+   "name": "Noelle Kronberg",
+   "role": "School Board Clerk (probable) - 'Yes. Thank you.' accepting Rachel Nagler's written letter (260)"
+  },
+  "687": {
+   "name": "Noelle Kronberg",
+   "role": "School Board Clerk - calls the roll on the nonpublic motion ('Donna' is ASR for Don, 'Ryan' for Brian Rapp); the 'Yes' answers sit in the catch-all cluster"
+  },
+  "689": {
+   "name": "Noelle Kronberg",
+   "role": "School Board Clerk - calls the roll on the nonpublic motion ('Donna' is ASR for Don, 'Ryan' for Brian Rapp); the 'Yes' answers sit in the catch-all cluster"
+  },
+  "691": {
+   "name": "Noelle Kronberg",
+   "role": "School Board Clerk - calls the roll on the nonpublic motion ('Donna' is ASR for Don, 'Ryan' for Brian Rapp); the 'Yes' answers sit in the catch-all cluster"
+  },
+  "693": {
+   "name": "Noelle Kronberg",
+   "role": "School Board Clerk - calls 'Heather. Whitney.'; Whitney's 'Yes.' is inside this segment"
+  },
+  "044": {
+   "name": "Unidentified",
+   "role": "Short remark when the chair opens the forum to board members ('To speak on this.'); speaker not determinable"
+  },
+  "051": {
+   "name": "Unidentified",
+   "role": "Short remark before Cogswell begins ('The 15 seconds.'); speaker not determinable"
+  },
+  "180": {
+   "name": "Unidentified",
+   "role": "Short 'Thank you.' closing Tyson's second turn; speaker not determinable"
+  },
+  "165": {
+   "name": "Unidentified",
+   "role": "'Yes.' after the chair's 'Mr. Tyson. I think you had your hint.'; speaker not determinable"
+  },
+  "206": {
+   "name": "Unidentified",
+   "role": "Group recitation - Pledge of Allegiance (all present)"
+  },
+  "207": {
+   "name": "Unidentified",
+   "role": "Group recitation - Pledge of Allegiance (all present)"
+  },
+  "329": {
+   "name": "Teresa Taylor",
+   "role": "Business Administrator (probable) - 'It does. And this is ... My Excel.' answers the question whether the report comes from the accounting system; her own next segment continues 'this here though is a spreadsheet ... that I've been using for years' (331)"
+  },
+  "330": {
+   "name": "Teresa Taylor",
+   "role": "Business Administrator (probable) - 'It does. And this is ... My Excel.' answers the question whether the report comes from the accounting system; her own next segment continues 'this here though is a spreadsheet ... that I've been using for years' (331)"
+  },
+  "540": {
+   "name": "Unidentified board member",
+   "role": "School Board member, Brian Rapp or Michael Petrin - 'I would' / 'Agree' open the same speaker's 'with you, Madam Chair' (542); diarized in other clusters"
+  },
+  "541": {
+   "name": "Unidentified board member",
+   "role": "School Board member, Brian Rapp or Michael Petrin - 'I would' / 'Agree' open the same speaker's 'with you, Madam Chair' (542); diarized in other clusters"
+  },
+  "555": {
+   "name": "Unidentified board member",
+   "role": "School Board member, Brian Rapp or Michael Petrin - 'I.' opens the same speaker's 'Disagree I don't think anyone here is complacent' (556); diarized in Tyson's cluster"
+  },
+  "446": {
+   "name": "Unidentified board member",
+   "role": "School Board member, Brian Rapp or Michael Petrin - 'I didn't hear.' opens the same speaker's 'the end of the motion' (447); diarized in Broadrick's cluster"
+  },
+  "307": {
+   "name": "Unidentified",
+   "role": "Short fragment in the student representative's cluster after he was excused (277); speaker not determinable"
+  },
+  "351": {
+   "name": "Unidentified",
+   "role": "Short fragment in the student representative's cluster after he was excused (277); speaker not determinable"
+  },
+  "440": {
+   "name": "Unidentified",
+   "role": "Short fragment in the student representative's cluster after he was excused (277); speaker not determinable"
+  },
+  "588": {
+   "name": "Tim Broadrick",
+   "role": "Superintendent, SAU 6 - 'Most.' opens his own 'importantly most importantly' (589); diarized in another cluster"
+  },
+  "466": {
+   "name": "Don Lavalette",
+   "role": "School Board member - 'Looking at.' completes his own sentence 'that's what I'm' (465); diarized in the catch-all cluster"
+  },
+  "435": {
+   "name": "Tim Broadrick",
+   "role": "Superintendent, SAU 6 - 'Do that.' completes his own 'I would be very happy to' (434); diarized in the catch-all cluster"
+  },
+  "565": {
+   "name": "Tim Broadrick",
+   "role": "Superintendent, SAU 6 (probable) - 'I'm done. Madam Chair.' closes his electricity-bid presentation (561-564); diarized in the catch-all cluster"
+  },
+  "590": {
+   "name": "Tim Broadrick",
+   "role": "Superintendent, SAU 6 - 'Low price.' completes his own sentence at 589; the rest of the segment ('Right. Thank you. Yeah. All right.') may be other voices"
+  },
+  "638": {
+   "name": "Tim Broadrick",
+   "role": "Superintendent, SAU 6 - 'Are two.' continues his own 'So there' (637) into 'Certified educator nominations' (639); diarized in the catch-all cluster"
+  },
+  "645": {
+   "name": "Tim Broadrick",
+   "role": "Superintendent, SAU 6 - 'The morning.' completes his own 'We will correct the online document in' (644); the trailing 'Good, good.' may be the chair"
+  },
+  "255": {
+   "name": "Rachel Nagler",
+   "role": "Member of the public - end of her remarks; the segment's closing 'thank you, Rachel' is the chair cutting off her time, merged by the diarizer"
+  },
+  "085": {
+   "name": "Sam Deering",
+   "role": "Member of the public - self-identifies only as 'My name is Sam. I'm running for state representative here in Claremont' and a Navy veteran (085); surname taken from his 10/7/26 citizens' comment, where he gave 'Sam Deering ... running for state representative alongside Hope here in Claremont' (17634, seg 016) and from the 2026 ballot (Samuel Deering, NH House Sullivan 8); diarized in Cogswell's cluster"
+  },
+  "086": {
+   "name": "Sam Deering",
+   "role": "Member of the public - self-identifies only as 'My name is Sam. I'm running for state representative here in Claremont' and a Navy veteran (085); surname taken from his 10/7/26 citizens' comment, where he gave 'Sam Deering ... running for state representative alongside Hope here in Claremont' (17634, seg 016) and from the 2026 ballot (Samuel Deering, NH House Sullivan 8); diarized in Cogswell's cluster"
+  },
+  "087": {
+   "name": "Sam Deering",
+   "role": "Member of the public - self-identifies only as 'My name is Sam. I'm running for state representative here in Claremont' and a Navy veteran (085); surname taken from his 10/7/26 citizens' comment, where he gave 'Sam Deering ... running for state representative alongside Hope here in Claremont' (17634, seg 016) and from the 2026 ballot (Samuel Deering, NH House Sullivan 8); diarized in Cogswell's cluster"
+  }
+ }
+}

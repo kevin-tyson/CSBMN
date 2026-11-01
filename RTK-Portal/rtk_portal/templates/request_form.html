@@ -1,0 +1,44 @@
+{% extends "base.html" %}
+{% block title %}File a request{% endblock %}
+{% block content %}
+<h1>File a Right-to-Know request</h1>
+<p class="lede">Describe the records you want. You do not have to give a reason, and you do not have to give your name.</p>
+
+{% if error %}<div class="alert error" role="alert">{{ error }}</div>{% endif %}
+
+<form method="post" action="/request" class="stack" novalidate>
+  <input type="hidden" name="csrf" value="{{ csrf }}">
+  <div class="hp" aria-hidden="true"><label>Leave this empty <input name="website" tabindex="-1" autocomplete="off"></label></div>
+
+  <div class="field">
+    <label for="text">Records you are asking for <span class="req">(required)</span></label>
+    <textarea id="text" name="text" rows="8" maxlength="{{ settings.max_request_chars }}" required aria-describedby="text-help">{{ form.text or "" }}</textarea>
+    <p id="text-help" class="help">Name the record, not the question: "the signed contract with the auditors for the FY25 audit" works better than "why is the audit late?" Give a date range and the people or offices involved if you know them. The law does not require the District to answer questions or create new lists (RSA 91-A:4, VII).</p>
+  </div>
+
+  <div class="field">
+    <label for="email">Email address <span class="req">(required)</span></label>
+    <input id="email" name="email" type="email" autocomplete="email" required value="{{ form.email or "" }}" aria-describedby="email-help">
+    <p id="email-help" class="help">Used to send your verification code and the District's response. Never published.</p>
+  </div>
+
+  <div class="field">
+    <label for="name">Your name <span class="opt">(optional)</span></label>
+    <input id="name" name="name" autocomplete="name" maxlength="120" value="{{ form.name or "" }}">
+    <label class="check"><input type="checkbox" name="publish_name" {% if form.publish_name %}checked{% endif %}> Show my name with this request in the public log. If you leave this unchecked, the log shows "Requester".</label>
+  </div>
+
+  <fieldset class="field">
+    <legend>How this portal handles your request</legend>
+    <ul class="compact">
+      <li>The text of your request goes in the public log once you verify your email. Phone numbers and email addresses in it are removed. Text that may identify a student or another private person is held back until staff review it.</li>
+      <li>The District's response is published too, with your email address removed and your name removed unless you chose to show it.</li>
+      {% if settings.triage_engine == "claude" %}<li>Your request text, without your email address, is sent to an AI model (Anthropic's Claude) to prepare a draft response that District staff review before anything is sent.</li>{% else %}<li>An automated rules engine prepares a draft response that District staff review before anything is sent.</li>{% endif %}
+      <li>Requests are handled one at a time. Your second and later open requests wait until other requesters' earlier requests are handled.</li>
+    </ul>
+    <label class="check"><input type="checkbox" name="ack" required> I have read how this portal publishes and handles requests.</label>
+  </fieldset>
+
+  <p><button class="button primary" type="submit">Send verification code</button></p>
+</form>
+{% endblock %}

@@ -1,0 +1,96 @@
+{
+ "Speaker 1": {
+  "name": "Michael Petrin",
+  "role": "Claremont School Board Chair (presides; Sprague: 'Thanks, Mike' [117]; Claremont chair from April 2022 per roster_2015_2023.md)"
+ },
+ "Speaker 2": {
+  "name": "Heather Whitney",
+  "role": "Claremont School Board member (chair: 'Motion by Heather' [8] after [4], 'Second by Heather' [35]; reports for the ad hoc parliamentary procedure group the chair says he works on with 'Heather, Frank and I' [47], [113]-[114])"
+ },
+ "Speaker 3": {
+  "name": "Bonnie Miles",
+  "role": "Claremont School Board member (minutes correction [24]-[27], then 'as amended by Bonnie' [29], [34]; answers for the SRVRTC visioning committee 'Bonnie or Frank?' [90]-[97]); cluster also carries other members' roll-call answers, see overrides"
+ },
+ "Speaker 4": {
+  "name": "Michael Tempesta",
+  "role": "Superintendent, SAU 6 (gives the superintendent's report [38]-[43]; addressed as 'Mr. Tempesta' by Kaylee [141] and Dr. Herzog [203])"
+ },
+ "Speaker 5": {
+  "name": "Whitney Skillen",
+  "role": "Claremont School Board member (moves to approve the minutes [29], [34]; chair: 'The motion by Whitney' [35])"
+ },
+ "Speaker 6": {
+  "name": "Frank Sprague",
+  "role": "Claremont School Board member (chair: 'Anything else on that, Frank?' [62]; 'Frank, there's really nothing more' [91]; 'Thanks, Mike' [117])"
+ },
+ "Speaker 7": {
+  "name": "Joshua Lambert",
+  "role": "Claremont School Board member; curriculum committee ('With all my hats. Educator, board member' [75]; Whitney: 'there with Josh ... echo what Josh said' [81]; chair: 'Motion by Josh' [234] after [232])"
+ },
+ "Speaker 8": {
+  "name": "Dr. Alex Herzog",
+  "role": "Director, Sugar River Valley Regional Technical Center (Miles: 'Doctor horse? Nothing to add.' [97]; Tempesta refers to 'Doctor Herzog' [150], [164]; reports on tech-center programs [100]-[108], [202]-[208])"
+ },
+ "Speaker 9": {
+  "name": "Unidentified",
+  "role": "Short interjection cluster (thank-yous, 'Aye', a 'Second' [233]); several voices, not separable"
+ },
+ "Speaker 10": {
+  "name": "Kaylee Schuler",
+  "role": "Member of the public; sixth-grade student at Claremont Middle School speaking against the elementary restructuring (self-ID 'My name is Kaylee Schuler' [138]; surname spelling uncertain, later heard as 'Shula' [144])"
+ },
+ "Speaker 11": {
+  "name": "Unidentified",
+  "role": "Speaker describing the 'related class' model for tech-center academics [195]-[199]; not named (not Herzog, who begins a separate turn at [201]-[202])"
+ },
+ "__overrides__": {
+  "7": {
+   "name": "Whitney Skillen",
+   "role": "Claremont School Board member (seconds the agenda motion; chair: 'seconded by Whitney' [8])"
+  },
+  "11": {
+   "name": "Unidentified",
+   "role": "Roll-call reading, diarized with the chair (the chair asked 'Mike ... Roll call for us' [10] and Tempesta's cluster reads the last names [18], [20]; reader not certain)"
+  },
+  "13": {
+   "name": "Unidentified",
+   "role": "Roll-call reading, diarized with the chair (see [11])"
+  },
+  "15": {
+   "name": "Unidentified",
+   "role": "Roll-call reading, diarized with the chair (see [11])"
+  },
+  "17": {
+   "name": "Unidentified",
+   "role": "Roll-call reading, diarized with the chair (see [11])"
+  },
+  "12": {
+   "name": "Heather Whitney",
+   "role": "Claremont School Board member (answers 'Whitney here' to 'Heather.' [11])"
+  },
+  "16": {
+   "name": "Whitney Skillen",
+   "role": "Claremont School Board member (answers 'Skilling here' to 'Whitney.' [15]; ASR 'Skilling' = Skillen)"
+  },
+  "18": {
+   "name": "Unidentified",
+   "role": "Roll-call reading ('Steven.'), diarized with the superintendent; reader not certain"
+  },
+  "20": {
+   "name": "Unidentified",
+   "role": "Roll-call reading ('Frank Sprague.'), diarized with the superintendent; reader not certain"
+  },
+  "21": {
+   "name": "Unidentified",
+   "role": "Roll-call answer, voice not identified"
+  },
+  "22": {
+   "name": "Unidentified",
+   "role": "Roll-call aside, voice not identified"
+  },
+  "153": {
+   "name": "Michael Tempesta",
+   "role": "Superintendent, SAU 6 (gives the superintendent's report [38]-[43]; addressed as 'Mr. Tempesta' by Kaylee [141] and Dr. Herzog [203]) - slide cue inside his presentation, diarized with Herzog"
+  }
+ }
+}

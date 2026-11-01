@@ -1,0 +1,37 @@
+{% extends "base.html" %}
+{% block title %}{{ r.public_id }}{% endblock %}
+{% block content %}
+{% if filed %}<div class="alert ok" role="status">Your request is filed as <strong>{{ r.public_id }}</strong>. A receipt is on its way to your email. Bookmark this page to follow it.</div>{% endif %}
+<h1>Request {{ r.public_id }}</h1>
+<dl class="facts">
+  <div><dt>Requester</dt><dd>{{ r.requester }}</dd></div>
+  <div><dt>Received</dt><dd>{{ r.received|fdatetime }}</dd></div>
+  <div><dt>Response due</dt><dd>{{ r.due|fdate }} <span class="muted">(5 business days, RSA 91-A:4, IV(b))</span></dd></div>
+  <div><dt>Status</dt><dd><span class="status s-{{ r.state }}">{{ r.status }}</span></dd></div>
+  {% if r.state == "queued" %}<div><dt>Queue round</dt><dd>{{ r.round }} <span class="muted">(round {{ r.round }} means the requester had {{ r.round - 1 }} other open request{{ "" if r.round == 2 else "s" }} when this one arrived)</span></dd></div>{% endif %}
+  <div><dt>First written response</dt><dd>{% if r.first_response %}{{ r.first_response|fdatetime }}, business day {{ r.business_days }}{% if r.on_time %} <span class="chip ok">on time</span>{% else %} <span class="chip late">late</span>{% endif %}{% elif r.on_time == false %}<span class="chip late">overdue</span>{% else %}none yet{% endif %}</dd></div>
+  {% if r.category %}<div><dt>Outcome</dt><dd>{{ categories[r.category] }}</dd></div>{% endif %}
+</dl>
+
+<h2>The request</h2>
+{% if r.text_held %}
+<p class="alert">The text of this request is held back while staff check it for information that could identify a student or another private person. Its dates and status are public.</p>
+{% else %}
+<blockquote class="request">{{ r.text }}</blockquote>
+{% endif %}
+
+<h2>Record of events</h2>
+<ol class="timeline">
+{% for e in r.events %}
+  <li>
+    <p><time datetime="{{ e.at }}">{{ e.at_local|fdatetime }}</time> <strong>{% if e.type == "received" %}Received and logged{% elif e.type == "triage_started" %}Taken from the queue for triage{% elif e.type == "ready_for_review" %}Draft ready for staff review{% elif e.type == "acknowledgment_sent" %}Five-business-day statement sent{% elif e.type == "response_sent" %}Response sent{% elif e.type == "closed" %}Closed ({{ e.data.reason }}){% elif e.type == "text_published" %}Request text published after privacy review{% else %}{{ e.type }}{% endif %}</strong></p>
+    {% if e.type in ("acknowledgment_sent", "response_sent") %}
+      <details {% if e.type == "response_sent" %}open{% endif %}><summary>{{ e.data.subject }}</summary><pre class="email">{{ e.data.body }}</pre></details>
+    {% endif %}
+    {% if e.type == "closed" and e.data.note %}<p>{{ e.data.note }}</p>{% endif %}
+    <p class="hash" title="Event hash; see the event chain download">#{{ e.seq }} &middot; {{ e.hash[:16] }}</p>
+  </li>
+{% endfor %}
+</ol>
+<p class="help">Each event's hash covers the one before it, so an edited or deleted event breaks the chain. Anyone can check it: download <a href="/log/events.json">the event chain</a> and recompute the hashes.</p>
+{% endblock %}

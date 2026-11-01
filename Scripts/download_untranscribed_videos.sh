@@ -4,7 +4,7 @@
 # SPDX-License-Identifier: Apache-2.0
 #
 # ---------------------------------------------------------------------------
-# download_untranscribed_videos.sh (v4) - walk the CCTV "CLAREMONT SCHOOLS"
+# download_untranscribed_videos.sh (v5) - walk the CCTV "CLAREMONT SCHOOLS"
 # Cablecast gallery (internetchannel, channel 6) AND search the Cablecast show
 # catalog for meetings the gallery leaves out, keep only school board / SAU 6 /
 # subcommittee meeting recordings, drop anything already downloaded or already
@@ -24,6 +24,26 @@
 #   excluded, and (with --debug) saves the raw gallery pages under
 #   Scripts/.gallery_debug/ plus a gallery_excluded.tsv / gallery_in_scope.tsv
 #   you can scan for anything that landed on the wrong side of the filter.
+#
+# WHAT CHANGED IN v5 (2026-10-28), AND WHY
+# ---------------------------------------------------------------------------
+#   - The catalog search in Step 2b never paged. /CablecastAPI/v1/shows
+#     ignores "offset": any offset above 0 returns an empty "shows" list
+#     while meta.count stays the same (checked 2026-10-28 from a browser on
+#     this Mac: "School Board" counts 559 matches, offset=100 returns 0
+#     shows, page_size=1000 returns all 559). v4 asked for 100 at a time, so
+#     it only ever saw the newest 100 matches per term and stopped there
+#     without saying so. Nothing was missed in practice (on 2026-10-28 all
+#     316 in-scope meetings were transcribed or on disk), but a gap in older
+#     material would have stayed invisible.
+#   - v5 sends one request per term with page_size=$SEARCH_PAGE_SIZE and
+#     compares the number of shows returned with meta.count. If Cablecast
+#     ever starts capping page_size, that term is reported as INCOMPLETE
+#     instead of being cut short silently. SEARCH_MAX_PAGES is gone.
+#   - --help prints this whole header however long it grows.
+#   - The 9/2/26 board meeting (17566) named in the v4 note below has since
+#     been added to the gallery; 17307, 14765 and 15738 still had not been
+#     as of 2026-10-28.
 #
 # WHAT CHANGED IN v4 (2026-10-01), AND WHY
 # ---------------------------------------------------------------------------
@@ -142,11 +162,16 @@ SCOPE_EXCLUDE='graduation|commencement|class night|recognition night|holiday con
 # These two patterns are evaluated by Python's re module (case-insensitive),
 # so use Python syntax: \s not [[:space:]].
 
+# Show ids never to fetch, whatever their title (2026-10-29: 15738 "Policy
+# Committee - 5/7/24" is the City of Claremont Policy Committee, not a school
+# body; dropped from the archive at Kevin's request).
+EXCLUDE_IDS="15738"
+
 # Catalog search (Step 2b). Each term is sent to the Cablecast show search;
 # the union of results then goes through the same scope filter as the gallery.
 SEARCH_TERMS=("School Board" "SAU" "Finance Committee" "Budget" "Deliberative" "Committee")
 SEARCH_RECENT_DAYS=45      # a catalog show with no video yet is reported only if this recent
-SEARCH_MAX_PAGES=20        # per term, 100 shows per page
+SEARCH_PAGE_SIZE=5000      # one request per term; the API ignores offset (see v5 note)
 
 ROOT="$(cd "$(dirname "${BASH_SOURCE[0]}")/.." && pwd)"
 VIDEOS="$ROOT/Input/Videos"
@@ -166,7 +191,7 @@ while [ $# -gt 0 ]; do
     --max-pages)        shift; MAX_PAGES="${1:-60}" ;;
     --no-scope-filter)  SCOPE_FILTER=0 ;;
     --no-search)        SEARCH=0 ;;
-    -h|--help)          sed -n '2,115p' "$0"; exit 0 ;;
+    -h|--help)          awk 'NR > 1 && !/^#/ { exit } NR > 1' "$0"; exit 0 ;;
     *) echo "unknown option: $1" >&2; exit 2 ;;
   esac
   shift
@@ -275,33 +300,37 @@ fi
 
 # ---------------------------------------------------------------------------
 # Step 2b - search the show catalog for meetings the gallery never listed.
-# One JSON file per (term, page); Python merges them below.
+# One request and one JSON file per term; Python merges them below. The API
+# ignores offset (see the v5 note at the top), so page_size has to be large
+# enough to return every match at once; the count check says so if it isn't.
 # ---------------------------------------------------------------------------
 API_DIR="$(mktemp -d)"
+SEARCH_INCOMPLETE=0
 if [ "$SEARCH" = 1 ]; then
   echo "Searching the Cablecast show catalog (${#SEARCH_TERMS[@]} terms)..."
   for term in "${SEARCH_TERMS[@]}"; do
     enc="$(python3 -c 'import sys, urllib.parse; print(urllib.parse.quote(sys.argv[1]))' "$term")"
     tag="$(printf '%s' "$term" | tr -c 'A-Za-z0-9' '_')"
-    offset=0; pg=0; got=0
-    while [ "$pg" -lt "$SEARCH_MAX_PAGES" ]; do
-      f="$API_DIR/$tag-$offset.json"
-      if ! fetch "$BASE_SITE/CablecastAPI/v1/shows?site=$SITE_ID&search=$enc&page_size=100&offset=$offset&include=vod" > "$f"; then
-        echo "  \"$term\": fetch failed at offset $offset, using what was read so far" >&2
-        rm -f "$f"; break
-      fi
-      read -r total n < <(python3 -c 'import json, sys
+    f="$API_DIR/$tag.json"
+    if ! fetch "$BASE_SITE/CablecastAPI/v1/shows?site=$SITE_ID&search=$enc&page_size=$SEARCH_PAGE_SIZE&include=vod" > "$f"; then
+      echo "  \"$term\": fetch failed, term skipped" >&2
+      rm -f "$f"; SEARCH_INCOMPLETE=$((SEARCH_INCOMPLETE + 1)); continue
+    fi
+    read -r total n < <(python3 -c 'import json, sys
 try:
     d = json.load(open(sys.argv[1]))
     print(d.get("meta", {}).get("count", 0), len(d.get("shows", [])))
 except Exception:
     print(0, 0)' "$f")
-      got=$((got + n)); pg=$((pg + 1)); offset=$((offset + 100))
-      [ "$n" -eq 0 ] || [ "$offset" -ge "$total" ] && break
-    done
-    echo "  \"$term\": $got show(s)"
-    [ "$DEBUG" = 1 ] && cp "$API_DIR"/"$tag"-*.json "$DEBUG_DIR"/ 2>/dev/null
+    if [ "$n" -lt "$total" ]; then
+      echo "  \"$term\": $n of $total show(s) - INCOMPLETE: Cablecast returned fewer shows than it counted (page_size cap?)" >&2
+      SEARCH_INCOMPLETE=$((SEARCH_INCOMPLETE + 1))
+    else
+      echo "  \"$term\": $n show(s)"
+    fi
+    [ "$DEBUG" = 1 ] && cp "$f" "$DEBUG_DIR/$tag.json"
   done
+  [ "$SEARCH_INCOMPLETE" -gt 0 ] && echo "  WARNING: $SEARCH_INCOMPLETE search term(s) incomplete - older catalog-only meetings may be missing from this run" >&2
 fi
 
 # id<TAB>title<TAB>vodUrl(or literally "null") for every show the gallery
@@ -430,6 +459,7 @@ total=0; skip_transcribed=0; skip_on_disk=0
 CANDIDATE_IDS=""
 while read -r id; do
   [ -n "$id" ] || continue
+  case " $EXCLUDE_IDS " in *" $id "*) continue ;; esac
   total=$((total+1))
   if is_transcribed "$id"; then skip_transcribed=$((skip_transcribed+1)); continue; fi
   if is_on_disk "$id"; then skip_on_disk=$((skip_on_disk+1)); continue; fi

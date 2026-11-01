@@ -1,0 +1,112 @@
+{% extends "base.html" %}
+{% block title %}Staff console{% endblock %}
+{% block content %}
+<div class="console-head">
+  <h1>Staff console</h1>
+  <form method="post" action="/staff/logout" class="inline"><input type="hidden" name="csrf" value="{{ csrf }}"><button class="linklike" type="submit">Sign out {{ staff_user }}</button></form>
+</div>
+<p class="muted">Triage engine: <strong>{{ "Claude (" ~ settings.claude_model ~ ")" if engine == "claude" else "rules only (no API key set)" }}</strong>.
+Knowledge graph: {% if kg %}built {{ kg.built_at[:16].replace("T", " ") }}{% if kg.repo_commit %}, commit {{ kg.repo_commit }}{% endif %}, {{ kg.counts.meetings }} meetings{% else %}<strong class="bad">not built</strong>{% endif %}.
+<a href="/staff/calendar">Office calendar</a></p>
+
+{% if notice %}<div class="alert ok" role="status">{{ notice }}</div>{% endif %}
+{% if err %}<div class="alert error" role="alert">{{ err }}</div>{% endif %}
+
+<section aria-labelledby="active-h" class="panel">
+<h2 id="active-h">Request under review</h2>
+{% if not act %}
+  <p>No request is open. {% if queue %}The next one is being triaged; reload in a moment.{% else %}The queue is empty.{% endif %}</p>
+{% elif act.status == "triage" %}
+  <p><strong>{{ act.public_id }}</strong> is being triaged. Reload in a moment.</p>
+{% else %}
+  <dl class="facts">
+    <div><dt>Request</dt><dd><a href="/log/{{ act.public_id }}">{{ act.public_id }}</a> (round {{ act.queue_round }})</dd></div>
+    <div><dt>Received</dt><dd>{{ act_info.received|fdate }}</dd></div>
+    <div><dt>Due</dt><dd>{{ act_info.due|fdate }} <span class="{{ 'bad' if act_info.elapsed >= 4 else 'muted' }}">(business day {{ act_info.elapsed }} of 5)</span></dd></div>
+    <div><dt>Requester</dt><dd>{{ act.requester_name or "(no name)" }} &lt;{{ act_info.email }}&gt;{% if act.publish_name %} <span class="chip">name public</span>{% endif %}</dd></div>
+  </dl>
+  <h3>Request text</h3>
+  <blockquote class="request">{{ act.text }}</blockquote>
+  {% if act.text_held %}<p class="alert">Held from the public log: {{ (act.held_reasons or "[]")|replace('"', '')|replace('[', '')|replace(']', '') }}. Publish a redacted copy below when you send, or leave it held.</p>{% endif %}
+
+  {% if result %}
+  <h3>Triage: {{ categories[result.category] }}</h3>
+  <p class="muted">Engine {{ result.engine }}, confidence {{ result.confidence }}{% if result.rules_category and result.rules_category != result.category %}; the rules engine suggested "{{ categories[result.rules_category] }}"{% endif %}.</p>
+  {% if result.review_notes %}<div class="alert"><strong>Check before sending</strong><ul>{% for n in result.review_notes %}<li>{{ n }}</li>{% endfor %}</ul></div>{% endif %}
+  <ul class="reasons">
+  {% for rs in result.reasons %}
+    <li>{{ rs.explanation }}<br><span class="muted">{% for cid in rs.citations %}{% if cid in citations %}<a href="{{ citations[cid].url }}">{{ citations[cid].label }}</a>{% if not loop.last %}; {% endif %}{% endif %}{% endfor %}</span></li>
+  {% endfor %}
+  </ul>
+  {% if result.hits %}
+  <details open><summary>{% if result.category == "public_info" %}Knowledge-graph records the draft relies on{% else %}Related public records found (check whether any belong in the response){% endif %} ({{ result.hits|length }})</summary>
+    <ol class="results compact">{% for h in result.hits %}<li><span class="kind k-{{ h.kind }}">{{ h.kind }}</span> <a href="{{ h.url }}">{{ h.title }}</a>{% if h.date %} <span class="muted">{{ h.date }}</span>{% endif %}</li>{% endfor %}</ol>
+  </details>
+  {% endif %}
+  {% if result.kg and result.kg.url %}<p class="muted">Search used: <a href="{{ result.kg.url }}">{{ result.kg.query }}</a>{% if result.kg.date_from %} ({{ result.kg.date_from }} to {{ result.kg.date_to }}){% endif %}</p>{% endif %}
+  <details><summary>All search results and signals</summary>
+    <ol class="results compact">{% for h in result.all_hits or [] %}<li><span class="kind k-{{ h.kind }}">{{ h.kind }}</span> <a href="{{ h.url }}">{{ h.title }}</a> <span class="muted">{{ h.date or "" }} coverage {{ h.coverage }}</span></li>{% endfor %}</ol>
+    <pre class="json">{{ result.signals|tojson_pretty }}</pre>
+  </details>
+  {% endif %}
+
+  <h3>Response</h3>
+  <form method="post" class="stack" action="/staff/request/{{ act.pk }}/save">
+    <input type="hidden" name="csrf" value="{{ csrf }}">
+    <div class="field"><label for="subject">Subject</label><input id="subject" name="subject" value="{{ act.draft_subject }}"></div>
+    <div class="field"><label for="body">Body</label><textarea id="body" name="body" rows="30" class="mono">{{ act.draft_body }}</textarea>
+      <p class="help">Fill in or delete every [[...]] before sending. The public copy replaces the quoted request with its public text, removes the email address, and removes the requester's name unless they chose to show it.</p></div>
+    <div class="field"><label for="public_text">Public text of the request</label>
+      <textarea id="public_text" name="public_text" rows="4">{{ act.public_text or act.text }}</textarea>
+      <label class="check"><input type="checkbox" name="publish_text"> Publish this text in the log (replaces the current public text{% if act.text_held %} and releases the hold{% endif %})</label></div>
+    <p class="actions">
+      <button class="button" type="submit" formaction="/staff/request/{{ act.pk }}/save">Save draft</button>
+      <button class="button primary" type="submit" formaction="/staff/request/{{ act.pk }}/send">Approve and send</button>
+    </p>
+  </form>
+  <div class="grid2">
+    <form method="post" action="/staff/request/{{ act.pk }}/retriage" class="stack box">
+      <input type="hidden" name="csrf" value="{{ csrf }}">
+      <label for="category">Re-run triage as</label>
+      <select id="category" name="category"><option value="">Let the engine decide</option>{% for k, v in categories.items() %}<option value="{{ k }}">{{ v }}</option>{% endfor %}</select>
+      <p class="help">Replaces the draft above. Save your edits elsewhere first.</p>
+      <button class="button" type="submit">Re-run triage</button>
+    </form>
+    <form method="post" action="/staff/request/{{ act.pk }}/close" class="stack box">
+      <input type="hidden" name="csrf" value="{{ csrf }}">
+      <label for="reason">Close without a response</label>
+      <select id="reason" name="reason"><option value="withdrawn">Withdrawn by the requester</option><option value="duplicate">Duplicate of another request</option><option value="abandoned">Abandoned (no reply to clarification)</option></select>
+      <label for="note">Public note</label><input id="note" name="note" maxlength="500">
+      <button class="button" type="submit">Close</button>
+    </form>
+  </div>
+{% endif %}
+</section>
+
+<section aria-labelledby="queue-h">
+<h2 id="queue-h">Waiting ({{ queue|length }})</h2>
+{% if queue %}
+<div class="table-wrap"><table>
+  <thead><tr><th>#</th><th>Request</th><th>Round</th><th>Received</th><th>Due</th><th>Business days</th><th>Requester</th><th>Text</th><th></th></tr></thead>
+  <tbody>
+  {% for q in queue %}
+  <tr class="{{ 'row-bad' if q.overdue else ('row-warn' if q.urgent else '') }}">
+    <td>{{ q.pos }}</td><td><a href="/log/{{ q.r.public_id }}">{{ q.r.public_id }}</a></td><td>{{ q.r.queue_round }}</td>
+    <td>{{ q.received|fdate }}</td><td>{{ q.due|fdate }}</td>
+    <td>{{ q.elapsed }} of 5{% if q.r.ack_sent_at %} <span class="chip ok">acknowledged</span>{% elif q.overdue %} <span class="chip late">overdue</span>{% elif q.urgent %} <span class="chip late">due soon</span>{% endif %}</td>
+    <td>{{ q.r.requester_email }}</td><td class="text">{{ q.r.text[:140] }}{% if q.r.text|length > 140 %}...{% endif %}</td>
+    <td><a href="/staff/request/{{ q.r.pk }}/ack">5-day statement</a></td>
+  </tr>
+  {% endfor %}
+  </tbody>
+</table></div>
+{% else %}<p>Nobody is waiting.</p>{% endif %}
+</section>
+
+<section aria-labelledby="closed-h">
+<h2 id="closed-h">Recently closed</h2>
+{% if closed %}
+<ul class="compact">{% for c in closed %}<li><a href="/log/{{ c.public_id }}">{{ c.public_id }}</a>: {{ c.close_reason }}{% if c.category %}, {{ categories[c.category] }}{% endif %} <span class="muted">({{ c.closed_at[:10] }}, {{ c.reviewer }})</span></li>{% endfor %}</ul>
+{% else %}<p>None yet.</p>{% endif %}
+</section>
+{% endblock %}

@@ -1,0 +1,21 @@
+{% extends "base.html" %}
+{% block title %}Verify your email{% endblock %}
+{% block content %}
+<h1>Check your email</h1>
+<p class="lede">We sent a six-digit code to <strong>{{ email }}</strong>. Your request is filed when you enter it. The code expires in {{ settings.otp_ttl_minutes }} minutes.</p>
+{% if error %}<div class="alert error" role="alert">{{ error }}</div>{% endif %}
+{% if notice %}<div class="alert ok" role="status">{{ notice }}</div>{% endif %}
+<form method="post" class="stack narrow">
+  <input type="hidden" name="csrf" value="{{ csrf }}">
+  <div class="field">
+    <label for="code">Verification code</label>
+    <input id="code" name="code" inputmode="numeric" autocomplete="one-time-code" pattern="[0-9 ]{6,7}" maxlength="7" required class="code">
+  </div>
+  <p><button class="button primary" type="submit" name="action" value="verify">File my request</button></p>
+</form>
+<form method="post" class="inline">
+  <input type="hidden" name="csrf" value="{{ csrf }}">
+  <button class="linklike" type="submit" name="action" value="resend">Send a new code</button>
+</form>
+<p class="help">Unverified requests are deleted after {{ settings.pending_ttl_hours }} hours.</p>
+{% endblock %}
