@@ -11,8 +11,8 @@ against existing exported JSON): document.f0 = segments, f1 = language,
 f2 = speakers (f0 name, f1 uuid table of two u64). Segment: f0 start ticks,
 f1 duration ticks, f2 speaker uuid, f3 words, f4 language. Word: f0 start
 ticks, f1 duration ticks, f2 text, f3 confidence (float32), f4 trailing-
-punctuation flag (not exported), f5 eos, f6/f7 disfluency markers (only on
-empty-text words). 254016000000 ticks per second.
+punctuation flag (not exported), f5 eos, f6/f7 markers (disfluency on empty
+words; f7=2 profanity on a real word). 254016000000 ticks per second.
 
   python3 prproj_transcripts.py project.prproj OUTDIR [--only NAME.mp4]
 """
@@ -63,14 +63,18 @@ def decode(blob):
         for j in range(wn):
             w = F.deref(wp + 4 * j); wf = F.table(w)
             text = F.string(w + wf[2]) if 2 in wf else ""
-            disfl = 6 in wf or 7 in wf
+            # f6 (value 3) and f7 (value 1) mark empty disfluency words;
+            # f7 value 2 marks profanity on a non-empty word (seen 11-4-26 policy cmte).
+            f7 = F.b[w + wf[7]] if 7 in wf else None
+            profane = f7 == 2
+            disfl = (6 in wf or 7 in wf) and not profane
             if disfl and text:
                 sys.exit(f"unexpected: disfluency marker on non-empty word {text!r}")
             words.append({"confidence": num(F.f32(w + wf[3])) if 3 in wf else 0,
                           "duration": num(F.q(w + wf[1]) / TPS),
                           "eos": bool(5 in wf and F.b[w + wf[5]]),
                           "start": num(F.q(w + wf[0]) / TPS),
-                          "tags": ["disfluency"] if disfl else [],
+                          "tags": ["disfluency"] if disfl else (["profanity"] if profane else []),
                           "text": text, "type": "word"})
         segs.append({"duration": num(F.q(t + fl[1]) / TPS),
                      "language": F.string(t + fl[4]) if 4 in fl else lang,

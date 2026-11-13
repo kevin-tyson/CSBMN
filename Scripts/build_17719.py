@@ -1,0 +1,246 @@
+#!/usr/bin/env python3
+"""Build the 11/4/26 Policy Subcommittee meeting page (MAP.md section 321)."""
+import sys
+from urllib.parse import quote
+
+OUT = sys.argv[1]
+BASE = "17719 Claremont School Board Policy Committee 11-4-26.mp4"
+SHOW = "https://reflect-claremont.cablecast.tv/internetchannel/show/17719?site=1"
+NB = 'target="_blank" rel="noopener"'
+
+
+def hms(sec):
+    return "%d:%02d:%02d" % (sec // 3600, sec % 3600 // 60, sec % 60)
+
+
+def T(sec):
+    return f'<a href="{SHOW}&amp;seekto={sec}" {NB}>{hms(sec)}</a>'
+
+
+def TD(sec):
+    return f'<td class="num">{T(sec)}</td>'
+
+
+def ext(url, text):
+    return f'<a href="{url}" {NB}>{text}</a>'
+
+
+def snip(t):
+    return f'<span class="snip" tabindex="0">{t}</span>'
+
+
+def chip(sev, n):
+    cls = {"MEDIUM": "chip-med", "OBSERVATION": "chip-obs", "POSITIVE": "chip-pos", "HIGH": "chip-high"}[sev]
+    return f'<a class="chip {cls}" href="#flag-{n}">{sev}</a>'
+
+
+R91_1a = ext("https://gc.nh.gov/rsa/html/VI/91-A/91-A-1-a.htm", "RSA 91-A:1-a, VI(d)")
+R91_2 = ext("https://gc.nh.gov/rsa/html/VI/91-A/91-A-2.htm", "RSA 91-A:2, II")
+R197 = ext("https://gc.nh.gov/rsa/html/XV/197/197-23-a.htm", "RSA 197:23-a")
+R193F3 = ext("https://gc.nh.gov/rsa/html/XV/193-F/193-F-3.htm", "RSA 193-F:3")
+HB131 = ext("https://bills.nhliberty.org/bills/2026/HB131/changes", "2026 N.H. Laws ch. 205 (HB 131)")
+R194 = ext("https://gc.nh.gov/rsa/html/XV/194/194-mrg.htm", "RSA ch. 194")
+FOLDER = ext("https://drive.google.com/drive/folders/1mjpPgypT0xoL6K1fRL3beXc4My_ZFdbv", "13. 11.4.26 -- Policy Subcommittee")
+MINPDF = ext("https://drive.google.com/file/d/1iNXKBVvgBGVACJh9VxHLI_V-GIVlQ3Z7/view", "CSB Policy Sub-Committee Meeting Minutes (1).pdf")
+BOARDMIN = ext("https://docs.google.com/document/d/1PQgiLlD2yCbkqrusk4T1ofF03eLMXlPW-rv6genyEJM/edit", "11.4.26 DRAFT CSB Minutes")
+POLFOLDER = ext("https://drive.google.com/drive/folders/1jscI8feFB13YLJNMP8cgl6deTtV1b9wn", "Claremont Policy Sub Committee")
+MIN27 = ext("https://drive.google.com/drive/folders/1aNhxjZSbvCrpjTZpCT7Y4XrW9ZM-bfhe", "2027 Meeting Minutes")
+P819 = ext("https://drive.google.com/drive/folders/1n54GUX-a2l018ledM2HWHmhyc-Fgapmj", "5. 8.19.26 -- Policy Subcommittee")
+BOARDPAGE = '<a href="17693%20Claremont%20School%20Board%2011-4-26.mp4.HTML">the board meeting page for that evening</a>'
+TIMELINE = '<a href="Claremont-Deficit-Crisis-Timeline.HTML">deficit crisis timeline</a>'
+CSV = f'<a href="Dialogue/{quote(BASE + ".CSV")}" {NB}><code>Dialogue/{BASE}.CSV</code></a>'
+CSVSPAN = f'<a href="Dialogue/{quote(BASE + ".CSV")}" {NB}><span class="path">Dialogue/{BASE}.CSV</span></a>'
+NAV_TOP = '<nav class="sitenav sitenav-top" aria-label="Meeting catalog"><a href="index.html" target="_self"><svg class="sitenav-icon" width="20" height="20" viewBox="0 0 20 20" aria-hidden="true" focusable="false"><path d="M1.5 9.5 10 2.5l8.5 7M3.75 8v9.5h12.5V8M8.25 17.5v-5h3.5v5" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round"/></svg><span>Meeting Navigator</span></a></nav>'
+NAV_BOT = '<nav class="sitenav sitenav-bottom" aria-label="Meeting catalog, end of page"><a href="index.html" target="_self"><svg class="sitenav-icon" width="20" height="20" viewBox="0 0 20 20" aria-hidden="true" focusable="false"><path d="M1.5 9.5 10 2.5l8.5 7M3.75 8v9.5h12.5V8M8.25 17.5v-5h3.5v5" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round"/></svg><span>Meeting Navigator</span></a></nav>'
+
+# ---------------------------------------------------------------- flags
+flags = [
+    ("MEDIUM", "Minutes of three earlier Policy Subcommittee meetings are still not public",
+     f'<p>This meeting\'s own minutes say the minutes of the subcommittee\'s June 17, August 19 and October 7, 2026 meetings "will need to be approved before the 18th." The chair opened on the same point: "I think these minutes, if possible, using our handy dandy robot friends and the drafts we already have, I think, you know, before the 18th, we need them" ({T(12)}). '
+     f'A subcommittee of a school board is a public body ({R91_1a}), and {R91_2} requires its minutes to be "open to public inspection not more than 5 business days after the meeting"; a draft satisfies that, and approval is not a precondition. As of November 13, 2026 no Policy Subcommittee minutes for those dates were found in the Meeting Minutes share\'s {MIN27} folder, in the {P819} packet folder (which holds only the agenda) or in the district\'s empty {POLFOLDER} folder; the 2026 year folder was not rechecked this run. '
+     f'In mitigation, the minutes of this meeting were posted in its packet folder on November 12, 2026 (Drive creation date), the fifth business day after the meeting with Veterans Day excluded, and the chair told the board that evening the minutes "will be submitted" ({BOARDMIN}).</p>',
+     f'{R91_1a} (subcommittees are public bodies); {R91_2} (minutes within five business days; drafts suffice); {MINPDF}'),
+    ("OBSERVATION", "No posted notice or agenda for this meeting was found",
+     f'<p>The meeting\'s packet folder, {FOLDER}, holds only the minutes, added November 12; the August 19 subcommittee folder, by contrast, carried an agenda. The board\'s November 4 agenda listed the meeting ("Meeting planned Nov. 4, 4:00 p.m.", reproduced in {BOARDMIN}). {R91_2} requires notice of the time and place posted at least 24 hours ahead, excluding Sundays and legal holidays, in two appropriate places, one of which may be the district\'s website, or printed in a newspaper of general circulation. A physical posting would not show in the Drive shares, so this is a gap in the public record checked here, not a finding that notice was missing. The chair\'s working agenda appears on screen during the meeting ("I\'m going to go to our agenda", {T(569)}).</p>',
+     f'{R91_2} (24-hour notice)'),
+    ("OBSERVATION", "The annual investment-policy review is the board's duty, and DFA was set aside",
+     f'<p>The chair noted that DFA (investments) "says we should review it annually" ({T(2472)}) and recalled "We passed DF a revision in October, I think, or last October" ({T(2764)}); the closing summary put DFA among items "not different enough to change ... so we don\'t do anything with those" ({T(3322)}). {R197}, IV says "At least yearly, the school board shall review and adopt an investment policy for the investment of public funds." The duty runs to the board, not the subcommittee. If DFA was last adopted in October 2025, the board\'s 2026 review and adoption is due; a subcommittee decision that no edits are needed does not by itself meet it. The record here does not show when the board last adopted DFA.</p>',
+     f'{R197}, IV (yearly review and adoption of an investment policy)'),
+    ("OBSERVATION", "The superintendent's account of how the 2025 financial-control policies arrived",
+     f'<p>Reviewing DGA, the superintendent noted that the board\'s first read of an authorized-signer policy "was like June of 25. He just didn\'t have it before that" ({T(2794)}), and then: "The 80 deficit. Right. 1 million to 1 million and a half dollar deficit had been reported to you that April. Yep. You would drain your ETF and capital reserve accounts in May. And when you started to get it looks like some financial control policies." ({T(2826)}). The chair answered that "Administration was not there for, and it was board members who were like, well, I guess we got to do this." ({T(2849)}). These are characterizations by the speakers, not findings; the dates and amounts can be checked against the board\'s 2025 meetings on the project\'s {TIMELINE}.</p>',
+     f'Speakers\' characterizations; no rule cited. Context: {TIMELINE}'),
+    ("OBSERVATION", "Tuition agreements with surrounding districts had expired",
+     f'<p>The superintendent, explaining why the tuition and nonresident-admission policies (JFAB, JECD) matter: "tonight we\'ll talk at the regular board meeting about the six, I think sex tuition agreements that we theoretically have with surrounding school districts outside of Claremont." "And I say theoretically because they\'ve all expired." "Without the board\'s renewing them." ({T(1229)}, {T(1265)}). The board took up the agreements in nonpublic session that evening and, per its draft minutes, voted afterward in public for the superintendent to send updated agreements to Cornish, Croydon, Unity, Lempster, Goshen and Weathersfield ({BOARDMIN}; see {BOARDPAGE}). Tuition agreements are governed by {R194}; no specific section was verified this run, so no rule-based finding is made.</p>',
+     f'{R194} (school districts; tuition agreements; chapter cited, section not verified); {BOARDMIN}'),
+    ("POSITIVE", "Signature authority for checks and contracts tightened (DGA)",
+     f'<p>The subcommittee agreed to bring the board a DGA revision built on the superintendent\'s draft ({T(2190)}, {T(2434)}). As the minutes record it, checks on the general fund or any special fund "require the signature of the school district treasurer who is authorized to sign only after approval of a manifest by the school board or a duly authorized subcommittee thereof," and "Any multi-year contract or any contract binding the district to an expense greater than $5,000 may be signed only by the superintendent or business administrator, unless the superintendent delegates such authority in writing." The check language tracks {R197}, I, under which the treasurer pays out money "only upon orders of the school board." The superintendent tied the $5,000 line to the three-quote procurement threshold so purchases are checked "before the auditors catch it at the end of the fiscal year" ({T(2576)}). The chair asked for the open-ended "other district personnel" language to be struck, which the superintendent questioned and the chair said matched Mr. Lavalette\'s concern ({T(2419)}).</p>',
+     f'{R197}, I (treasurer pays only on the board\'s orders); {MINPDF}'),
+    ("POSITIVE", "Bullying policy brought into line with the 2026 change in state law (JIC)",
+     f'<p>The superintendent reported that "all they changed in the law is the, imbalance of power element" and that the district\'s policy still refers twice to an alleged victim\'s perceived imbalance of power; striking those two references would "come into compliance with the only change in state law" ({T(3237)}, {T(3308)}). {HB131} §4 repealed {R193F3}, I(b), the "imbalance of power" clause of the definition of bullying; the act was approved July 2, 2026 and that section took effect 30 days after passage. The chair queued the change for the November 18 board meeting ({T(3322)}). The district\'s policy has lagged the statute since about August 2026; the gc.nh.gov page for RSA 193-F:3 may not yet show the repeal.</p>',
+     f'{HB131}, §§4–5 (repeal of RSA 193-F:3, I(b); effective date); {R193F3}'),
+]
+
+flag_html = []
+for n, (sev, title, body, src) in enumerate(flags, 1):
+    fc = {"MEDIUM": "flag-med", "OBSERVATION": "flag-obs", "POSITIVE": "flag-pos", "HIGH": "flag-high"}[sev]
+    cc = {"MEDIUM": "chip-med", "OBSERVATION": "chip-obs", "POSITIVE": "chip-pos", "HIGH": "chip-high"}[sev]
+    flag_html.append(f'  <article class="flag {fc}" id="flag-{n}">\n    <h3><span class="chip {cc}">{sev}</span> {title}</h3>\n    {body}\n    <p class="cite">Sources: {src}</p>\n  </article>')
+
+# ---------------------------------------------------------------- participants
+participants = [
+    ("Loren Howard", "Chair, Policy Subcommittee; School Board member",
+     f'Called the meeting to order at 4:15 p.m. (minutes) and runs it from his working document on screen. Opens on the minutes backlog ({T(12)}), points members to the NHSBA policy service ("simply") and its review-frequency and required-by-law lists ({T(158)}), leads each policy item, and closes with the list for November 18 ({T(3322)}) and "Consensus. Thank you, everybody, for coming." ({T(3510)}). Reported the meeting to the board that evening ({BOARDMIN}).'),
+    ("Dr. Timothy Broadrick", "Superintendent, SAU 6",
+     f'Drafts or supplies the policy language: a fundraising calendar and 24-hour deposit rule for JJ ({T(381)}), his DAF from his previous district ({T(1487)}), a DGA with treasurer, manifest and $5,000 contract rules ({T(2190)}, {T(2257)}), and the JIC bullying change ({T(3237)}). Says the district\'s tuition agreements have expired ({T(1265)}) and recounts the 2025 sequence of deficit report, reserve use and control policies ({T(2826)}).'),
+    ("Brian Rapp", "School Board member",
+     f'Present per the minutes. Raises principals\' approval of competing fundraisers ({T(510)}) and asks for a broader review of JJ, "larger than just the revision" ({T(894)}); the superintendent answers "the support Brian, saying it opens up a much bigger discussion" ({T(948)}). Attribution rests on that reply; the same voice cluster also says "I have no luck Brian ever using my portable device" ({T(607)}), which reads as addressing someone else, so treat individual lines with care.'),
+    ("Don Lavalette", "School Board member",
+     f'Present per the minutes. The chair credits "Don\'s document he brought a few months ago to the board" on review frequency ({T(158)}) and, during DGA, says "Don, you were saying" ({T(2372)}) and "that\'s exactly what Don was saying" ({T(2419)}). The remark about the "etc." in DGA ({T(1725)}) is probably his. No passage is tied to his voice with certainty.'),
+    ("Tammy Cote", "Listed in the minutes' attendance; role not stated",
+     'Not on the 2026-27 board roster, and not identified on the recording. One unattributed voice (labeled Speaker 4 in the dialogue file) could be Ms. Cote or Mr. Lavalette.'),
+]
+
+# ---------------------------------------------------------------- agenda (reconstructed)
+agenda = [
+    (12, "Minutes and citizens' comments", f'Minutes of earlier meetings to be finished "before the 18th"; "I don\'t see any citizens here." ({T(37)}). No action.'),
+    (37, "Policies passed since March", 'The chair\'s list of policies adopted since March 2026, posted on the website and linked from the tracker (minutes). Information only.'),
+    (139, "NHSBA policy service (\"simply\")", 'Review-frequency and required-by-law documents uploaded to the shared policy drive. Information only.'),
+    (340, "JJ, Student Fundraising Activities", 'Consensus to replace building-principal approval with prior approval of the superintendent; athletics and equity questions to the full board. Revision to come back.'),
+    (1229, "JFAB, JECD and JCA (tuition, nonresident admission, assignment)", 'Superintendent to place his drafts in the drafts folder for the next committee meeting.'),
+    (1452, "DAF, administration of federal grants", '"Claremont School Board" for "the board" and items 12 and 13 added to the table of contents; treated as a revision needing no motion.'),
+    (1645, "DGA, Authorized Signatures", 'Superintendent\'s additions adopted as the base, "other district personnel" sentence struck; revision to the next board meeting.'),
+    (2472, "DFA, investments", '"Not different enough to change"; to be shown to the treasurer. No action.'),
+    (2790, "IMDB (and IMBC, IHBI)", 'IMDB adds an Ed 306 reference; IHBI found on the books; IMBC to future agenda.'),
+    (3119, "Future items: EHAG (generative AI), BGA, FBB, FE, EG", 'Listed for future meetings.'),
+    (3237, "JIC, bullying", 'Strike two "imbalance of power" references; moved up for the next meeting.'),
+    (3322, "Next meeting and future items", 'JJ, DGA, IMDB and JIC to the November 18 board meeting as revisions; fragrance-free policy and KFAA/KFAB later.'),
+    (3504, "Other business; close", '"Is there other business?" "Good. For now." Closed by consensus; no adjournment vote heard.'),
+]
+
+# ---------------------------------------------------------------- timeline
+timeline = [
+    (12, "Minutes backlog", f'"I think these minutes, if possible, using our handy dandy robot friends and the drafts we already have, I think, you know, before the 18th, we need them and then we\'ll do them in a batch for the next meeting, ideally with tonight\'s minutes."', [1]),
+    (37, "Citizens; policy list", '"I don\'t see any citizens here." The list of policies "passed since March of this year. Just just gigantic list."', []),
+    (158, "NHSBA resources", 'The chair recommends the NHSBA service\'s documents on how often policies need review, "kind of have some of what Don\'s document he brought a few months ago to the board has." A member asks whether each member gets an individual login; "It\'s all each of us individually."', []),
+    (340, "JJ raised", 'A member: JJ "is one that we\'ve, we\'ve been kicking around ... it just seems like it keeps getting pushed back."', []),
+    (381, "JJ: who approves fundraisers", 'Superintendent: "First sentence is the big one. Oh, raising activities must be approved by the building principal. And then we ended up with a million fundraisers, all competing for the same dollar." He wants a fundraising calendar and "all fundraising money should be deposited within 24 hours in the student activities account."', []),
+    (894, "JJ: scope", 'Mr. Rapp: "I have a sense of a be larger than just the revision, though." Superintendent: fundraising that buys uniforms for one group can raise equity problems, "much bigger discussion than just you\'re allowed to sell Christmas wreaths."', []),
+    (1002, "JJ: outcome", 'Chair: "today for sure I\'ll mark down that superintendent language is the big change we confidently made."', []),
+    (1229, "Tuition policies; expired agreements", '"tonight we\'ll talk at the regular board meeting about the six, I think sex tuition agreements that we theoretically have with surrounding school districts outside of Claremont." "And I say theoretically because they\'ve all expired."', [5]),
+    (1487, "DAF", 'Superintendent: DAF updates usually follow a federal grant audit; "usually the findings from a federal grant audit will include update your policy DAF with the following things." Chair: "So deaf. Looks good to me." (deaf is the transcript\'s rendering of DAF)', []),
+    (1669, "DGA: why it exists", 'Chair: DGA "is probably important," noting he never met a treasurer "before I met Luke Diamond," and "this was a document that, you know, we put out, last year specifically to avoid things like that."', []),
+    (1725, "DGA: competing drafts", 'A member recalls raising the "etc." in parentheses. Superintendent reads his previous district\'s one-sentence DGA: treasurer signs "only after approval of a manifest." A member: "the more people that we put in here that have the keys to the shed, the more people are going to get into the shed."', [6]),
+    (2190, "DGA: superintendent's draft", 'Treasurer signs "only after approval of a manifest by the school board or a duly authorized subcommittee thereof"; contracts over "$5,000, maybe signed only by the superintendent or business administrator." "Right now, every contract is coming across my desk."', [6]),
+    (2419, "DGA: outcome", 'Chair: "We can get rid of it. And that\'s that\'s exactly what Don was saying." Then: taking "this with Tim\'s additions and striking that, part of the paragraph out as a revision to the next board meeting."', [6]),
+    (2472, "DFA", '"DFA is an investment one. It\'s says we should review it annually." The sample policy\'s line leaving investments "to the discretion of the finance committee without prior approval of board" was struck, which the chair calls "a hefty one."', [3]),
+    (2794, "DGA history", 'Superintendent: the first read of an authorized-signer policy "was like June of 25"; a "1 million to 1 million and a half dollar deficit had been reported to you that April," reserves drained in May. Chair: "I\'m going to plead the fifth going forward."', [4]),
+    (2790, "IMDB", f'IMDB "just adds a at 306 reference"; the chair\'s remark at {T(2943)} was followed by "Muting that for CCTV."', []),
+    (3119, "Future items; generative AI", 'Chair on EHAG: schools may lose the ability to turn off Google\'s AI answers, so "every single time a student would Google something, they would be prompted by like a fake conversational AI."', []),
+    (3237, "JIC", 'Superintendent: "all they changed in the law is the, imbalance of power element"; striking two references brings the policy into compliance "with the only change in state law."', [7]),
+    (3322, "Next steps", '"those will be our one, two, three, four that will bring on the 18th. They\'re all revisions, which is pretty cool."', []),
+    (3383, "Fragrance-free policy", 'Superintendent: "It\'s not a crisis," but two schools had cases this year, one "with a really severely allergic student."', []),
+    (3456, "Annual review cadence", 'Chair: start "a cadence of annually reviewing our own policies ... so that there\'s some accountability." A member: "That\'s how we found JJ, because that was from a 2025."', [3]),
+]
+timeline.sort(key=lambda r: r[0])
+
+# ---------------------------------------------------------------- assemble
+nflags = len(flags)
+toc = f'<nav class="toc" aria-labelledby="toc-label"><span class="toc-label" id="toc-label">On this page</span><ul><li><a href="#participants">Participants</a></li><li><a href="#agenda">Order of business (reconstructed)</a></li><li><a href="#topics">Discussion timeline</a></li><li><a href="#flags">Flags ({nflags})</a></li><li><a href="#appendix">Appendix</a></li></ul></nav>'
+
+h = []
+h.append(f'''<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Claremont School Board Policy Subcommittee — November 4, 2026 | Subcommittee meeting</title>
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+<a class="skip-link" href="#main">Skip to main content</a>
+
+<header>
+  {NAV_TOP}
+  <h1>Claremont School Board Policy Subcommittee — November 4, 2026</h1>
+  <p class="subtitle">A working session of the board's three-member Policy Subcommittee with the superintendent, held before that evening's board meeting. It settled revisions to four policies for November 18: student fundraising (JJ), authorized signatures (DGA), an Ed 306 reference (IMDB) and bullying (JIC), and heard that the minutes of three earlier subcommittee meetings are still unfinished. Built from the speaker-attributed CCTV/CCMC transcript and the minutes posted in the packet folder. Timestamps link to the same moment in the Cablecast recording.</p>
+  {toc}
+  <dl class="facts">
+    <div><dt>Body</dt><dd>Claremont School Board Policy Subcommittee (Claremont School District, SAU 6): Loren Howard, chair; Brian Rapp; Donald Lavalette (membership per the board's November 4 agenda)</dd></div>
+    <div><dt>Date</dt><dd>Wednesday, November 4, 2026</dd></div>
+    <div><dt>Start time</dt><dd>Scheduled 4:00 to 5:15 p.m.; called to order at 4:15 p.m. by Loren Howard (minutes). The recording opens on the chair's first remarks ({T(12)}) and the chair closes by consensus at {T(3510)}; the transcript ends at 0:58:35 with the chair's "In an hour."</dd></div>
+    <div><dt>Location</dt><dd>SAU 6 Conference Room (minutes)</dd></div>
+    <div><dt>Recording</dt><dd>{ext(SHOW, "Cablecast: Claremont School Board Policy Committee 11/4/26")} (show 17719; event date November 4, 2026). The transcript covers 0:00:12 to 0:58:35.</dd></div>
+    <div><dt>Minutes</dt><dd>{MINPDF}, in the packet folder {FOLDER}; Drive shows it added November 12, 2026, within the five business days {R91_2} allows. Nothing for this meeting in the Meeting Minutes share as of November 13, 2026.</dd></div>
+  </dl>
+</header>
+
+<main id="main">
+  <h2 id="participants">Participants</h2>
+  <table>
+    <caption>Attendance as listed in the minutes. Attributions come from the speaker-attributed dialogue file and are named only where the record supports them; the minutes give attendance but no speaker-by-speaker account.</caption>
+    <thead><tr><th scope="col">Name</th><th scope="col">Role</th><th scope="col">Participation</th></tr></thead>
+    <tbody>''')
+for name, role, part in participants:
+    h.append(f'      <tr><td>{name}</td><td>{role}</td><td>{snip(part)}</td></tr>')
+h.append('''    </tbody>
+  </table>
+
+  <h2 id="agenda">Order of business (reconstructed)</h2>
+  <table>
+    <caption>No agenda for this meeting was found in the district's Drive shares. The items below are reconstructed from the chair's transitions and the minutes.</caption>
+    <thead><tr><th scope="col">Taken up</th><th scope="col">Item</th><th scope="col">Disposition</th></tr></thead>
+    <tbody>''')
+for sec, item, disp in agenda:
+    h.append(f'      <tr>{TD(sec)}<td>{item}</td><td>{snip(disp)}</td></tr>')
+h.append(f'''    </tbody>
+  </table>
+
+  <h2 id="topics">Discussion timeline</h2>
+  <p class="tag">Times are taken from the dialogue transcript ({CSVSPAN}) and link into the recording. Quotations are as transcribed.</p>
+  <table>
+    <thead><tr><th scope="col">Time</th><th scope="col">Topic</th><th scope="col">What was said</th><th scope="col">Flags</th></tr></thead>
+    <tbody>''')
+for sec, topic, said, fl in timeline:
+    chips = " ".join(chip(flags[n - 1][0], n) for n in fl)
+    h.append(f'      <tr>{TD(sec)}<td>{topic}</td><td>{snip(said)}</td><td>{chips}</td></tr>')
+h.append('''    </tbody>
+  </table>
+
+  <h2 id="flags">Items flagged for review</h2>
+  <p>These flags are a reviewer's aid: points in the record that a reader may want to check against the law and the documents. They are not findings of violation and not legal advice. Each rule-based flag names the provision it rests on.</p>''')
+h.extend(flag_html)
+h.append(f'''
+  <h2 id="appendix">Appendix — source files</h2>
+  <h3>Official and public sources</h3>
+  <ul class="compact">
+    <li>{ext(SHOW, "Cablecast: Claremont School Board Policy Committee 11/4/26")} (recording, show 17719)</li>
+    <li>{FOLDER} (Drive packet folder, 1 document; no agenda)</li>
+    <li>{MINPDF} (minutes of this meeting, with the draft texts of JJ, DGA and JIC)</li>
+    <li>{BOARDMIN} (the board's draft minutes for that evening: subcommittee membership, the chair's report, and the tuition-agreement vote)</li>
+    <li>{POLFOLDER} (district folder for subcommittee material; empty as of November 13, 2026) and {P819} (the August 19 meeting's folder, agenda only)</li>
+    <li>Minutes of the subcommittee's June 17, August 19 and October 7, 2026 meetings: none found in the {MIN27} folder as of November 13, 2026</li>
+  </ul>
+  <h3>Project files</h3>
+  <p class="tag">Working files this page was built from. The dialogue file is linked; the others are not published with the page.</p>
+  <ul class="compact">
+    <li>{CSV} (312 attributed rows; the basis of this page)</li>
+    <li><code>Input/Videos/{BASE}</code></li>
+    <li><code>Input/Transcripts/{BASE}.json</code></li>
+    <li><code>Input/SupportingDocuments/MAP.md</code> (section 321)</li>
+  </ul>
+  <h3>Laws and rules cited on this page</h3>
+  <ul class="compact">
+    <li><strong>State:</strong> {R91_1a}; {R91_2}; {R197}, I and IV; {R193F3}; {R194} (chapter only)</li>
+    <li><strong>Session law:</strong> {HB131}, §4 (repeal of RSA 193-F:3, I(b)) and §5 (effective dates); chaptered text as reproduced by NH Liberty Alliance's bill tracker</li>
+  </ul>
+</main>
+
+{NAV_BOT}
+
+<footer class="pagefoot">
+  <p>Generated November 13, 2026 for the Government Transparency Project from <code>Dialogue/{BASE}.CSV</code>, the minutes in the packet folder, the board's draft minutes of November 4, 2026, and the MAP.md entry. The transcript was extracted from the district recording's Premiere Pro project (five voice clusters) and attributed with 10 per-segment corrections. Loren Howard and Dr. Broadrick are firmly identified; Brian Rapp rests on one direct address; one voice (Speaker 4 in the dialogue file) is left "Unidentified" because it could be Don Lavalette or Tammy Cote; 22 of 312 rows are "Unidentified." Quotations are left as heard, including misrenderings (NHS, VA and NHS b a for NHSBA; Daff for DAF; IMDb and I am DB for IMDB; sex for six; editor. 306 for Ed 306; Kenny Vento for McKinney-Vento; title line, probably for Title IX); bracketed words would be corrections. One word of profanity at {T(2943)} is transcribed as spoken. Flags are generated review aids, not determinations of law, and may be incomplete or wrong; verify against the recording and primary sources before relying on them.</p>
+</footer>
+</body>
+</html>
+''')
+open(OUT, "w", encoding="utf-8").write("\n".join(h))

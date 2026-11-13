@@ -1,0 +1,64 @@
+{
+  "Speaker 1": {
+    "name": "Loren Howard",
+    "role": "School Board member; Policy Subcommittee Chair - the meeting 'was called to order at 4:15pm by Loren Howard' per the minutes; the packet's 'CSB Policy Sub-Committee Meeting Minutes (1).pdf' (folder '13. 11.4.26 -- Policy Subcommittee') lists attendance as Loren Howard, Don Lavalette, Brian Rapp, Timothy Broadrick and Tammy Cote; runs the agenda (JJ, DAF, DGA, DFA, IMDB, future items) and closes it ('Is there other business? ... Consensus. Thank you, everybody, for coming', 309-311; 'See you in an hour', 313); refers to Don (007, 181, 186), Tim (019, 076, 168) and Bill (115) in the second or third person. At the 11/4/26 board meeting the chair asked 'Policy subcommittee. You met today?' and Howard answered (17693, seg 530-532). ASR 'Lauren' elsewhere"
+  },
+  "Speaker 2": {
+    "name": "Tim Broadrick",
+    "role": "Superintendent, SAU 6 (Timothy Broadrick in the minutes' attendance) - speaks of his previous district ('I'm actually going to the Prospect Mountain site now', 021; 'go back over to prospect', 257), of Theresa [Taylor] ('I told her not to bring it up tonight', 132) and of signing every contract himself (173); drops his drafts into the policy subcommittee's drafts folder (087, 178); the chair addresses him as 'Tim' (076, 168, 221); the minutes' DGA and JIC drafts carry his $5,000 contract language and his 'imbalance of power' change. This cluster also absorbs a few board-member lines, relabeled below"
+  },
+  "Speaker 3": {
+    "name": "Brian Rapp",
+    "role": "School Board member (Policy Subcommittee) - present per the minutes' attendance; after this voice says the fundraising question is 'larger than just the revision' (058), the superintendent answers 'the support Brian, saying it opens up a much bigger discussion' (066); raises principals' fundraising approval (027-028) and athletics (050-054). Caveat: this cluster also says 'I have no luck Brian ever using my portable device' (035), which reads as addressing someone else; ASR or diarization noise is likely there"
+  },
+  "Speaker 4": {
+    "name": "Unidentified",
+    "role": "Present at the meeting (minutes' attendance leaves Don Lavalette and Tammy Cote as the voices not otherwise placed) - pulls up policies on the web during the meeting (214-216, 243, 275-279), says 'That's how we found JJ, because that was from a 2025 ... Just by reviewing' (305-307) and answers the chair's 'Is there other business?' with 'Good. For now.' (310); the review cue fits Don Lavalette, whose review-frequency document the chair credits (007), but no segment names this voice; not confirmed"
+  },
+  "Speaker 5": {
+    "name": "Unidentified",
+    "role": "Two short fragments (264, 294); speaker not determinable except where relabeled"
+  },
+  "__overrides__": {
+    "11": {
+      "name": "Unidentified",
+      "role": "Opens the question 'And do you each [get your own ID ... ]' that runs on into 012; the chair answers it at 013; diarized in the chair's cluster"
+    },
+    "12": {
+      "name": "Unidentified",
+      "role": "Board member's question whether each member has an individual NHSBA login (the chair answers at 013); diarized in Broadrick's cluster"
+    },
+    "18": {
+      "name": "Unidentified",
+      "role": "Board member raises JJ as a policy 'we've been kicking around' that 'keeps getting pushed back' because it was revised in 2025 (the same point Speaker 4 makes at 305); diarized in Broadrick's cluster"
+    },
+    "26": {
+      "name": "Unidentified",
+      "role": "'I would argue the first sentence because we building' runs on into Speaker 3's 'Principals we have' at 027; same speaker as 027, diarized in Broadrick's cluster"
+    },
+    "34": {
+      "name": "Unidentified",
+      "role": "Short reply about the NHSBA contact ('Amanda'); speaker not determinable"
+    },
+    "36": {
+      "name": "Unidentified",
+      "role": "One-word reaction ('Really?'); speaker not determinable"
+    },
+    "38": {
+      "name": "Unidentified",
+      "role": "One-word reaction ('Yeah.'); speaker not determinable"
+    },
+    "125": {
+      "name": "Unidentified",
+      "role": "Board member recalls raising the 'etc.' in parentheses in DGA as an issue; the chair later says 'Don, you were saying like the [...] is what you're concerned about' (181), so this is probably Don Lavalette (present per the minutes), unconfirmed; diarized in Broadrick's cluster"
+    },
+    "182": {
+      "name": "Unidentified",
+      "role": "'Be concerned about' answers the chair's 'Don, you were saying ...' (181); probably Don Lavalette (present per the minutes), unconfirmed; diarized in Broadrick's cluster"
+    },
+    "264": {
+      "name": "Loren Howard",
+      "role": "School Board member; Policy Subcommittee Chair - 'Don't know if we have' finishes his own 'That one I' at 263"
+    }
+  }
+}

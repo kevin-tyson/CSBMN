@@ -1,65 +1,264 @@
 {
-  "Speaker 1": {"name": "Candace Crawford", "role": "School Board Chair - calls the meeting to order 'for November 4th, 2026' (000), asks for the roll call (002), runs the agenda, recognizes every speaker and calls every vote; addressed as 'Madam Chair' (007, 012, 020, 048) and as 'Candy' by Heather Whitney (330); answers the roll call last (005), the chair's usual place"},
-  "Speaker 2": {"name": "Unidentified", "role": "Catch-all cluster of short interjections ('Okay', 'Yes', 'Second', 'Aye'), sentence fragments split off other speakers, the room's Pledge of Allegiance (001) and roll-call votes; speaker not determinable unless relabeled per segment"},
-  "Speaker 3": {"name": "Michael Petrin", "role": "School Board Vice Chair; SRVRTC Committee Chair - the treasurer answers this voice's 'line above' point with 'I think you've got it Mike' (071-077); the chair calls 'Mike' and this cluster asks about partnering with the city on plowing (430-435); gives the SRVRTC Committee report when the chair calls 'the sugar River committee. Mike.' (509-510), the committee he chairs per the 11/4/26 agenda; ASR 'Patron' in earlier roll calls"},
-  "Speaker 4": {"name": "Wayne Hemingway", "role": "Member of the public (Ward 1 resident, parent of a student) - the chair calls 'Mister Hemingway' (011) and he gives his name and ward, rendered by ASR as 'Boiling him away. Ward one' (012); he identified himself as a state representative on 10/21/26 (17666, seg 107)"},
-  "Speaker 5": {"name": "Tim Broadrick", "role": "Superintendent, SAU 6 - answers when the chair calls 'Doctor Broderick' (016, 271; ASR for Broadrick); speaks of 'our new business administrator, Teresa Taylor' (054), hands off with 'let Carrie take over' (178) and delivers the superintendent's report items listed on the 11/4/26 agenda (Supreme Court opinion, IRS filings, safety plan, Frontline breach, trustees of trust funds)"},
-  "Speaker 6": {"name": "Luke Diamond", "role": "District Treasurer - gives the treasurer's report after the chair calls 'Mr. Diamond' (018-020); Michael Petrin says 'Not from you, Luke' (048); speaks of 'the current treasurer' and his reconciliation work"},
-  "Speaker 7": {"name": "Teresa Taylor", "role": "Business Administrator, SAU 6 - gives the finance report after the chair calls 'Miss Taylor' (080-081), as the 11/4/26 agenda lists ('Finance Report - Teresa Taylor'); also answers on ACH payments and voucher batches (056-065), the DOE-25 and audit updates (108-133) and the corrective actions (146-173)"},
-  "Speaker 8": {"name": "Heather Whitney", "role": "School Board member (Finance; Ad Hoc Exploratory Reconfiguration Subcommittee Chair) - after this voice's IRS remarks the chair says 'So I think Heather is saying' (389); addresses the chair as 'Candy' (330); says 'Mr. Madden and I' toured an elementary school (257); answers the chair's 'AD hoc. When is your next meeting?' (524-527), the subcommittee she chairs per the 11/4/26 agenda; makes the plowing, corrective-action and nomination motions (447, 454, 491)"},
-  "Speaker 9": {"name": "William 'Bill' Madden", "role": "School Board member (Capital Improvement & Facilities Chair; Curriculum Advisory Committee Chair) - answers the chair's 'Capital improvements. Bill.' (528-529) and reports the Curriculum Advisory Committee meeting had to be rescheduled (537-538), both committees he chairs per the 11/4/26 agenda, which also marks that meeting 'canceled, need to reschedule'; finishes the forensic-audit question the chair recognized as 'Bill' (138-140)"},
-  "Speaker 10": {"name": "Kerry Kennedy", "role": "Director of Curriculum, Instruction & Assessment, SAU 6 - takes over the enrollment report when the superintendent says 'let Carrie take over' (178) and 'Sorry, Carrie. Go ahead.' (181); Heather Whitney thanks 'Carrie' (269); reports the district data dashboard and educator licensure, the items under the CIA report on the 11/4/26 agenda; ASR 'Carrie'"},
-  "Speaker 11": {"name": "Unidentified", "role": "Small cluster of short interjections ('Any other questions?', 'All right. Thank you.', 'Okay.'); floor-control phrases that could be the chair or Kerry Kennedy closing her report, but no segment is anchored; speaker not determinable"},
-  "Speaker 12": {"name": "Loren Howard", "role": "School Board member (Policy Subcommittee Chair) - answers the chair's 'Policy subcommittee. You met today?' (530-532), the subcommittee he chairs per the 11/4/26 agenda (meeting planned Nov. 4, 4:00 p.m.); reports on the school board association meeting after the chair's 'Lauren, you'd like to talk about' (539-540) and 'Any questions for Lauren?' (550); ASR 'Lauren'"},
+  "Speaker 1": {
+    "name": "Candace Crawford",
+    "role": "School Board Chair - calls the meeting to order 'for November 4th, 2026' (000), asks for the roll call (002), runs the agenda, recognizes every speaker and calls every vote; addressed as 'Madam Chair' (007, 012, 020, 048) and as 'Candy' by Heather Whitney (330); answers the roll call last (005), the chair's usual place"
+  },
+  "Speaker 2": {
+    "name": "Unidentified",
+    "role": "Catch-all cluster of short interjections ('Okay', 'Yes', 'Second', 'Aye'), sentence fragments split off other speakers, the room's Pledge of Allegiance (001) and roll-call votes; speaker not determinable unless relabeled per segment"
+  },
+  "Speaker 3": {
+    "name": "Michael Petrin",
+    "role": "School Board Vice Chair; SRVRTC Committee Chair - the treasurer answers this voice's 'line above' point with 'I think you've got it Mike' (071-077); the chair calls 'Mike' and this cluster asks about partnering with the city on plowing (430-435); gives the SRVRTC Committee report when the chair calls 'the sugar River committee. Mike.' (509-510), the committee he chairs per the 11/4/26 agenda; ASR 'Patron' in earlier roll calls; NOTE (2026-11-13): the 11/4/26 draft minutes place two of this cluster's exchanges (048-052, 249) with Don Lavalette, so the cluster mixes the two men; segments without an anchor stay labeled Petrin"
+  },
+  "Speaker 4": {
+    "name": "Wayne Hemingway",
+    "role": "Member of the public (Ward 1 resident, parent of a student) - the chair calls 'Mister Hemingway' (011) and he gives his name and ward, rendered by ASR as 'Boiling him away. Ward one' (012); he identified himself as a state representative on 10/21/26 (17666, seg 107)"
+  },
+  "Speaker 5": {
+    "name": "Tim Broadrick",
+    "role": "Superintendent, SAU 6 - answers when the chair calls 'Doctor Broderick' (016, 271; ASR for Broadrick); speaks of 'our new business administrator, Teresa Taylor' (054), hands off with 'let Carrie take over' (178) and delivers the superintendent's report items listed on the 11/4/26 agenda (Supreme Court opinion, IRS filings, safety plan, Frontline breach, trustees of trust funds)"
+  },
+  "Speaker 6": {
+    "name": "Luke Diamond",
+    "role": "District Treasurer - gives the treasurer's report after the chair calls 'Mr. Diamond' (018-020); Michael Petrin says 'Not from you, Luke' (048); speaks of 'the current treasurer' and his reconciliation work"
+  },
+  "Speaker 7": {
+    "name": "Teresa Taylor",
+    "role": "Business Administrator, SAU 6 - gives the finance report after the chair calls 'Miss Taylor' (080-081), as the 11/4/26 agenda lists ('Finance Report - Teresa Taylor'); also answers on ACH payments and voucher batches (056-065), the DOE-25 and audit updates (108-133) and the corrective actions (146-173)"
+  },
+  "Speaker 8": {
+    "name": "Heather Whitney",
+    "role": "School Board member (Finance; Ad Hoc Exploratory Reconfiguration Subcommittee Chair) - after this voice's IRS remarks the chair says 'So I think Heather is saying' (389); addresses the chair as 'Candy' (330); says 'Mr. Madden and I' toured an elementary school (257); answers the chair's 'AD hoc. When is your next meeting?' (524-527), the subcommittee she chairs per the 11/4/26 agenda; makes the plowing, corrective-action and nomination motions (447, 454, 491)"
+  },
+  "Speaker 9": {
+    "name": "William 'Bill' Madden",
+    "role": "School Board member (Capital Improvement & Facilities Chair; Curriculum Advisory Committee Chair) - answers the chair's 'Capital improvements. Bill.' (528-529) and reports the Curriculum Advisory Committee meeting had to be rescheduled (537-538), both committees he chairs per the 11/4/26 agenda, which also marks that meeting 'canceled, need to reschedule'; finishes the forensic-audit question the chair recognized as 'Bill' (138-140)"
+  },
+  "Speaker 10": {
+    "name": "Kerry Kennedy",
+    "role": "Director of Curriculum, Instruction & Assessment, SAU 6 - takes over the enrollment report when the superintendent says 'let Carrie take over' (178) and 'Sorry, Carrie. Go ahead.' (181); Heather Whitney thanks 'Carrie' (269); reports the district data dashboard and educator licensure, the items under the CIA report on the 11/4/26 agenda; ASR 'Carrie'"
+  },
+  "Speaker 11": {
+    "name": "Unidentified",
+    "role": "Small cluster of short interjections ('Any other questions?', 'All right. Thank you.', 'Okay.'); floor-control phrases that could be the chair or Kerry Kennedy closing her report, but no segment is anchored; speaker not determinable"
+  },
+  "Speaker 12": {
+    "name": "Loren Howard",
+    "role": "School Board member (Policy Subcommittee Chair) - answers the chair's 'Policy subcommittee. You met today?' (530-532), the subcommittee he chairs per the 11/4/26 agenda (meeting planned Nov. 4, 4:00 p.m.); reports on the school board association meeting after the chair's 'Lauren, you'd like to talk about' (539-540) and 'Any questions for Lauren?' (550); ASR 'Lauren'"
+  },
   "__overrides__": {
-    "3": {"name": "Unidentified", "role": "Roll-call answers ('Here.' four times), several board members; the clerk's name readings were not transcribed; diarized in Petrin's cluster"},
-    "4": {"name": "Unidentified", "role": "Roll-call answer ('Here.') after the gap where Rapp (absent per the chair, 005) would be called; by the 10/7 and 10/21 roll-call order this is probably Heather Whitney, unconfirmed"},
-    "7": {"name": "Michael Petrin", "role": "School Board Vice Chair (probable) - minutes correction addressed to the clerk 'Noel'; diarized in Petrin's cluster, but Don Lavalette made the minutes corrections to 'Noel' on 10/21/26, so check the 11/4/26 draft minutes"},
-    "8": {"name": "Michael Petrin", "role": "School Board Vice Chair (probable) - closes the minutes correction at 007; see the note there"},
-    "26": {"name": "Candace Crawford", "role": "School Board Chair - 'Oh, I see on the next to the last page'; the opening 'Sure there is that' finishes the treasurer's 'And I'm' at 025 and is probably his"},
-    "33": {"name": "Luke Diamond", "role": "District Treasurer - one word ('Created.') split mid-sentence from his own remarks at 032-034"},
-    "49": {"name": "Michael Petrin", "role": "School Board Vice Chair - finishes his own sentence from 048 ('I'm trying to ... figure out somebody'); diarized in the chair's cluster"},
-    "62": {"name": "Teresa Taylor", "role": "Business Administrator, SAU 6 - one word ('I.') split mid-sentence from her own remarks at 061-063"},
-    "97": {"name": "Heather Whitney", "role": "School Board member - finishes her own question from 096 ('surplus as ... of now'); diarized in the chair's cluster"},
-    "98": {"name": "Heather Whitney", "role": "School Board member - continues her question from 096-097 ('in yellow')"},
-    "112": {"name": "Heather Whitney", "role": "School Board member - 'kind of what I was looking for'; the opening 'Weather' finishes the superintendent's 'I've been a little under the' at 111 and is his"},
-    "114": {"name": "Tim Broadrick", "role": "Superintendent, SAU 6 - one word ('The.') between his own segments 113 and 115 ('I've been a little under the [weather]')"},
-    "120": {"name": "Tim Broadrick", "role": "Superintendent, SAU 6 - finishes his own sentence from 119 ('turn them back around to ... us')"},
-    "139": {"name": "William 'Bill' Madden", "role": "School Board member - the chair recognizes 'Bill' (138) and this question ('Which audits have to be completed in order to') runs on into Speaker 9 at 140 ('Begin the forensic investigation?'); diarized in Petrin's cluster"},
-    "142": {"name": "Unidentified", "role": "Short reaction ('There is. No.') right after Madden's forensic-audit question; diarized in Petrin's cluster; speaker not determinable"},
-    "166": {"name": "Teresa Taylor", "role": "Business Administrator, SAU 6 - one word ('They.') split mid-sentence from her own remarks at 165-167"},
-    "182": {"name": "Kerry Kennedy", "role": "Director of Curriculum, Instruction & Assessment, SAU 6 - starts the enrollment remarks after the superintendent's 'Sorry, Carrie. Go ahead.' (181); the sentence runs on into Speaker 10 at 184"},
-    "183": {"name": "Kerry Kennedy", "role": "Director of Curriculum, Instruction & Assessment, SAU 6 - 'Has been a decline' runs on into her own 'In enrollment' at 184; diarized in Taylor's cluster"},
-    "209": {"name": "Candace Crawford", "role": "School Board Chair - 'Of want to know' finishes her own 'I mean, just kind' at 208; diarized in Kennedy's cluster; the closing 'Yeah.' may be Kennedy's"},
-    "237": {"name": "Tim Broadrick", "role": "Superintendent, SAU 6 - 'it's 25' runs on into his own 'Percent right now' at 238"},
-    "241": {"name": "Tim Broadrick", "role": "Superintendent, SAU 6 - one word ('Thing.') between his own segments 240 and 242 ('not a brand new thing that just happened')"},
-    "244": {"name": "Candace Crawford", "role": "School Board Chair - one word ('The.') inside her own sentence at 243-247 ('the dearth of teachers available')"},
-    "246": {"name": "Candace Crawford", "role": "School Board Chair - one word ('Of.') inside her own sentence at 243-247"},
-    "294": {"name": "Tim Broadrick", "role": "Superintendent, SAU 6 - one word ('Their.') between his own segments 293 and 295 ('ordered to pay their parents or guardians legal costs')"},
-    "307": {"name": "Tim Broadrick", "role": "Superintendent, SAU 6 - false start ('The there's.') between his own segments 306 and 308"},
-    "350": {"name": "Candace Crawford", "role": "School Board Chair - 'And they've' runs on into her own 'They've also said to me' at 351"},
-    "355": {"name": "Candace Crawford", "role": "School Board Chair - one word ('Planning.') finishing her own 'so that we can do budget' at 354"},
-    "361": {"name": "Tim Broadrick", "role": "Superintendent, SAU 6 - one word ('Which.') between his own segments 360 and 362 ('which is very cool')"},
-    "369": {"name": "Candace Crawford", "role": "School Board Chair - finishes her own 'Any further questions for' (368) with 'Doctor Broderick?'"},
-    "399": {"name": "Heather Whitney", "role": "School Board member (probable) - 'Because they weren't specific' finishes her point at 397 about the policies; then yields ('Sorry, no')"},
-    "411": {"name": "Heather Whitney", "role": "School Board member - 'If.' runs on into her own 'If the administration knows' at 412"},
-    "413": {"name": "Tim Broadrick", "role": "Superintendent, SAU 6 - 'It is we're.' runs on into his own 'We're creating binders' at 414"},
-    "418": {"name": "Candace Crawford", "role": "School Board Chair - 'So I' runs on into her own 'Did look at these two' at 419"},
-    "430": {"name": "Candace Crawford", "role": "School Board Chair - recognizes 'Mike.' after her own 'Other questions? Yes.' (429); Petrin answers at 431"},
-    "457": {"name": "Loren Howard", "role": "School Board member - opens the question ('Tiny question. Very first item.') that runs on into Speaker 12 at 458; thanks the answer at 474"},
-    "460": {"name": "Loren Howard", "role": "School Board member - one word ('One.') finishing his own 'It's the very first' at 459"},
-    "495": {"name": "Candace Crawford", "role": "School Board Chair - 'Motion carries.' right after her own 'Opposed? Nay. Okay.' (494)"},
-    "511": {"name": "Michael Petrin", "role": "School Board Vice Chair - 'You want to do?' finishes his own 'How much do' at 510"},
-    "513": {"name": "Tim Broadrick", "role": "Superintendent, SAU 6 - 'Bring that here.' finishes his own 'We want to' at 512"},
-    "518": {"name": "Tim Broadrick", "role": "Superintendent, SAU 6 - inside his own sentence at 517-521 ('Ask Michelle to come to a regular board meeting')"},
-    "520": {"name": "Tim Broadrick", "role": "Superintendent, SAU 6 - inside his own sentence at 517-521 ('bring that presentation')"},
-    "546": {"name": "Candace Crawford", "role": "School Board Chair - one word ('Notes.') inside her own sentence at 545-547 ('the notes you sent to me')"},
-    "548": {"name": "Candace Crawford", "role": "School Board Chair - one word ('Board.') finishing her own 'include them for the next' at 547"},
-    "554": {"name": "Candace Crawford", "role": "School Board Chair - 'And before' runs on into her own 'We go into that' at 555"},
-    "563": {"name": "Tim Broadrick", "role": "Superintendent, SAU 6 - 'And then my' runs on into his own 'Authority to suspend ends' at 564"},
-    "568": {"name": "Tim Broadrick", "role": "Superintendent, SAU 6 - one word ('It.') between his own segments 567 and 569"},
-    "570": {"name": "Tim Broadrick", "role": "Superintendent, SAU 6 - 'Place to look.' finishes his own 'That might just be the' at 569"},
-    "577": {"name": "Tim Broadrick", "role": "Superintendent, SAU 6 - 'I would, I would, I' runs on into his own 'Would look at it more' at 578"},
-    "593": {"name": "Unidentified", "role": "Roll-call votes ('Yes.' three times) on the nonpublic motion, several board members; diarized in Petrin's cluster"}
+    "3": {
+      "name": "Unidentified",
+      "role": "Roll-call answers ('Here.' four times), several board members; the clerk's name readings were not transcribed; diarized in Petrin's cluster"
+    },
+    "4": {
+      "name": "Unidentified",
+      "role": "Roll-call answer ('Here.') after the gap where Rapp (absent per the chair, 005) would be called; by the 10/7 and 10/21 roll-call order this is probably Heather Whitney, unconfirmed"
+    },
+    "7": {
+      "name": "Michael Petrin",
+      "role": "School Board Vice Chair (probable) - minutes correction addressed to the clerk 'Noel'; diarized in Petrin's cluster, but Don Lavalette made the minutes corrections to 'Noel' on 10/21/26, so check the 11/4/26 draft minutes"
+    },
+    "8": {
+      "name": "Michael Petrin",
+      "role": "School Board Vice Chair (probable) - closes the minutes correction at 007; see the note there"
+    },
+    "26": {
+      "name": "Candace Crawford",
+      "role": "School Board Chair - 'Oh, I see on the next to the last page'; the opening 'Sure there is that' finishes the treasurer's 'And I'm' at 025 and is probably his"
+    },
+    "33": {
+      "name": "Luke Diamond",
+      "role": "District Treasurer - one word ('Created.') split mid-sentence from his own remarks at 032-034"
+    },
+    "49": {
+      "name": "Don Lavalette",
+      "role": "School Board member - named by the 11/4/26 draft minutes (Minutes share, '11.4.26 DRAFT CSB Minutes'), which record that 'Don Lavalette asked if there could be an explanation included on the comments where there are payments without the treasurer authorizing'; diarized in Petrin's cluster (Speaker 3), relabeled 2026-11-13 - 'Figure out somebody' finishes his own sentence at 048; diarized in the chair's cluster"
+    },
+    "62": {
+      "name": "Teresa Taylor",
+      "role": "Business Administrator, SAU 6 - one word ('I.') split mid-sentence from her own remarks at 061-063"
+    },
+    "97": {
+      "name": "Heather Whitney",
+      "role": "School Board member - finishes her own question from 096 ('surplus as ... of now'); diarized in the chair's cluster"
+    },
+    "98": {
+      "name": "Heather Whitney",
+      "role": "School Board member - continues her question from 096-097 ('in yellow')"
+    },
+    "112": {
+      "name": "Heather Whitney",
+      "role": "School Board member - 'kind of what I was looking for'; the opening 'Weather' finishes the superintendent's 'I've been a little under the' at 111 and is his"
+    },
+    "114": {
+      "name": "Tim Broadrick",
+      "role": "Superintendent, SAU 6 - one word ('The.') between his own segments 113 and 115 ('I've been a little under the [weather]')"
+    },
+    "120": {
+      "name": "Tim Broadrick",
+      "role": "Superintendent, SAU 6 - finishes his own sentence from 119 ('turn them back around to ... us')"
+    },
+    "139": {
+      "name": "William 'Bill' Madden",
+      "role": "School Board member - the chair recognizes 'Bill' (138) and this question ('Which audits have to be completed in order to') runs on into Speaker 9 at 140 ('Begin the forensic investigation?'); diarized in Petrin's cluster"
+    },
+    "142": {
+      "name": "Unidentified",
+      "role": "Short reaction ('There is. No.') right after Madden's forensic-audit question; diarized in Petrin's cluster; speaker not determinable"
+    },
+    "166": {
+      "name": "Teresa Taylor",
+      "role": "Business Administrator, SAU 6 - one word ('They.') split mid-sentence from her own remarks at 165-167"
+    },
+    "182": {
+      "name": "Kerry Kennedy",
+      "role": "Director of Curriculum, Instruction & Assessment, SAU 6 - starts the enrollment remarks after the superintendent's 'Sorry, Carrie. Go ahead.' (181); the sentence runs on into Speaker 10 at 184"
+    },
+    "183": {
+      "name": "Kerry Kennedy",
+      "role": "Director of Curriculum, Instruction & Assessment, SAU 6 - 'Has been a decline' runs on into her own 'In enrollment' at 184; diarized in Taylor's cluster"
+    },
+    "209": {
+      "name": "Candace Crawford",
+      "role": "School Board Chair - 'Of want to know' finishes her own 'I mean, just kind' at 208; diarized in Kennedy's cluster; the closing 'Yeah.' may be Kennedy's"
+    },
+    "237": {
+      "name": "Tim Broadrick",
+      "role": "Superintendent, SAU 6 - 'it's 25' runs on into his own 'Percent right now' at 238"
+    },
+    "241": {
+      "name": "Tim Broadrick",
+      "role": "Superintendent, SAU 6 - one word ('Thing.') between his own segments 240 and 242 ('not a brand new thing that just happened')"
+    },
+    "244": {
+      "name": "Candace Crawford",
+      "role": "School Board Chair - one word ('The.') inside her own sentence at 243-247 ('the dearth of teachers available')"
+    },
+    "246": {
+      "name": "Candace Crawford",
+      "role": "School Board Chair - one word ('Of.') inside her own sentence at 243-247"
+    },
+    "294": {
+      "name": "Tim Broadrick",
+      "role": "Superintendent, SAU 6 - one word ('Their.') between his own segments 293 and 295 ('ordered to pay their parents or guardians legal costs')"
+    },
+    "307": {
+      "name": "Tim Broadrick",
+      "role": "Superintendent, SAU 6 - false start ('The there's.') between his own segments 306 and 308"
+    },
+    "350": {
+      "name": "Candace Crawford",
+      "role": "School Board Chair - 'And they've' runs on into her own 'They've also said to me' at 351"
+    },
+    "355": {
+      "name": "Candace Crawford",
+      "role": "School Board Chair - one word ('Planning.') finishing her own 'so that we can do budget' at 354"
+    },
+    "361": {
+      "name": "Tim Broadrick",
+      "role": "Superintendent, SAU 6 - one word ('Which.') between his own segments 360 and 362 ('which is very cool')"
+    },
+    "369": {
+      "name": "Candace Crawford",
+      "role": "School Board Chair - finishes her own 'Any further questions for' (368) with 'Doctor Broderick?'"
+    },
+    "399": {
+      "name": "Heather Whitney",
+      "role": "School Board member (probable) - 'Because they weren't specific' finishes her point at 397 about the policies; then yields ('Sorry, no')"
+    },
+    "411": {
+      "name": "Heather Whitney",
+      "role": "School Board member - 'If.' runs on into her own 'If the administration knows' at 412"
+    },
+    "413": {
+      "name": "Tim Broadrick",
+      "role": "Superintendent, SAU 6 - 'It is we're.' runs on into his own 'We're creating binders' at 414"
+    },
+    "418": {
+      "name": "Candace Crawford",
+      "role": "School Board Chair - 'So I' runs on into her own 'Did look at these two' at 419"
+    },
+    "430": {
+      "name": "Candace Crawford",
+      "role": "School Board Chair - recognizes 'Mike.' after her own 'Other questions? Yes.' (429); Petrin answers at 431"
+    },
+    "457": {
+      "name": "Loren Howard",
+      "role": "School Board member - opens the question ('Tiny question. Very first item.') that runs on into Speaker 12 at 458; thanks the answer at 474"
+    },
+    "460": {
+      "name": "Loren Howard",
+      "role": "School Board member - one word ('One.') finishing his own 'It's the very first' at 459"
+    },
+    "495": {
+      "name": "Candace Crawford",
+      "role": "School Board Chair - 'Motion carries.' right after her own 'Opposed? Nay. Okay.' (494)"
+    },
+    "511": {
+      "name": "Michael Petrin",
+      "role": "School Board Vice Chair - 'You want to do?' finishes his own 'How much do' at 510"
+    },
+    "513": {
+      "name": "Tim Broadrick",
+      "role": "Superintendent, SAU 6 - 'Bring that here.' finishes his own 'We want to' at 512"
+    },
+    "518": {
+      "name": "Tim Broadrick",
+      "role": "Superintendent, SAU 6 - inside his own sentence at 517-521 ('Ask Michelle to come to a regular board meeting')"
+    },
+    "520": {
+      "name": "Tim Broadrick",
+      "role": "Superintendent, SAU 6 - inside his own sentence at 517-521 ('bring that presentation')"
+    },
+    "546": {
+      "name": "Candace Crawford",
+      "role": "School Board Chair - one word ('Notes.') inside her own sentence at 545-547 ('the notes you sent to me')"
+    },
+    "548": {
+      "name": "Candace Crawford",
+      "role": "School Board Chair - one word ('Board.') finishing her own 'include them for the next' at 547"
+    },
+    "554": {
+      "name": "Candace Crawford",
+      "role": "School Board Chair - 'And before' runs on into her own 'We go into that' at 555"
+    },
+    "563": {
+      "name": "Tim Broadrick",
+      "role": "Superintendent, SAU 6 - 'And then my' runs on into his own 'Authority to suspend ends' at 564"
+    },
+    "568": {
+      "name": "Tim Broadrick",
+      "role": "Superintendent, SAU 6 - one word ('It.') between his own segments 567 and 569"
+    },
+    "570": {
+      "name": "Tim Broadrick",
+      "role": "Superintendent, SAU 6 - 'Place to look.' finishes his own 'That might just be the' at 569"
+    },
+    "577": {
+      "name": "Tim Broadrick",
+      "role": "Superintendent, SAU 6 - 'I would, I would, I' runs on into his own 'Would look at it more' at 578"
+    },
+    "593": {
+      "name": "Unidentified",
+      "role": "Roll-call votes ('Yes.' three times) on the nonpublic motion, several board members; diarized in Petrin's cluster"
+    },
+    "48": {
+      "name": "Don Lavalette",
+      "role": "School Board member - named by the 11/4/26 draft minutes (Minutes share, '11.4.26 DRAFT CSB Minutes'), which record that 'Don Lavalette asked if there could be an explanation included on the comments where there are payments without the treasurer authorizing'; diarized in Petrin's cluster (Speaker 3), relabeled 2026-11-13 - opens the question ('Can we get a sum wise with all these red ones? ... Not from you, Luke')"
+    },
+    "50": {
+      "name": "Don Lavalette",
+      "role": "School Board member - named by the 11/4/26 draft minutes (Minutes share, '11.4.26 DRAFT CSB Minutes'), which record that 'Don Lavalette asked if there could be an explanation included on the comments where there are payments without the treasurer authorizing'; diarized in Petrin's cluster (Speaker 3), relabeled 2026-11-13 - 'current treasurer did not authorize, but it seems to be a recurring theme'"
+    },
+    "52": {
+      "name": "Don Lavalette",
+      "role": "School Board member - named by the 11/4/26 draft minutes (Minutes share, '11.4.26 DRAFT CSB Minutes'), which record that 'Don Lavalette asked if there could be an explanation included on the comments where there are payments without the treasurer authorizing'; diarized in Petrin's cluster (Speaker 3), relabeled 2026-11-13 - closes the same exchange ('the public needs to should get that right')"
+    },
+    "249": {
+      "name": "Don Lavalette",
+      "role": "School Board member - named by the 11/4/26 draft minutes, which record that 'Don Lavalette commented that he did not believe the district and other districts have a shortage of teachers, but rather a shortage of fair working environments for teachers'; diarized in Petrin's cluster (Speaker 3), relabeled 2026-11-13"
+    }
   }
 }
