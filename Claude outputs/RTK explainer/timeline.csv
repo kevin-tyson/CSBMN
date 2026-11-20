@@ -1,0 +1,20 @@
+id,kind,start,end,picture
+T0,hold,0.0,4.0,cards/title.png
+1.01,narr,4.0,19.98,cards/title.png + portal_shots/13_home_after.jpg|push
+1.02,narr,19.98,37.89,cards/law.png
+1.03,narr,37.89,56.57,cards/policy.png|push
+1.04,narr,56.57,74.48,cards/overview.png
+2.01,narr,74.48,95.85,portal_shots/02_form_top.jpg + portal_shots/03_verify_code.jpg + portal_shots/04_filed_status.jpg
+2.02,narr,95.85,109.53,cards/queue.png
+2.03,narr,109.53,131.67,cards/outcomes.png
+2.04,narr,131.67,148.42,cards/triage.png + portal_shots/05_console_top.jpg|push
+2.05,narr,148.42,162.49,portal_shots/05_console_draft.jpg + portal_shots/09_send_blocked.jpg
+2.06,narr,162.49,179.63,portal_shots/10_log_list.jpg + portal_shots/11_log_detail_response.jpg + portal_shots/12_log_held.jpg
+2.07,narr,179.63,199.46,cards/status.png
+3.01,narr,199.46,210.44,cards/why.png
+3.02,narr,210.44,230.67,cards/s1.png|push
+3.03,narr,230.67,246.65,cards/ask.png
+3.04,narr,246.65,256.12,cards/ask2.png
+3.05,narr,256.12,269.03,cards/decisions.png
+3.06,narr,269.03,273.86,cards/closing.png
+END,hold,273.86,278.86,cards/end.png

@@ -1,0 +1,3 @@
+[calm, friendly narration]
+
+Here is how a request moves. The screens you are about to see are the working portal, running on invented test requests. A resident describes the records they want, and confirms an email address with a six-digit code. The request then gets a public number, and a due date on the fifth business day.

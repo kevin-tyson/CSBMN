@@ -1,0 +1,3 @@
+[calm, friendly narration]
+
+Why Anthropic? The drafting step can use Anthropic's model, and that use costs money. The project does not want that cost to fall on the District's budget.

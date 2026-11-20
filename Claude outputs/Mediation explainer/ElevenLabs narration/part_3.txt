@@ -1,0 +1,11 @@
+[calm, friendly narration]
+
+The district's own policies set conditions that come first. Its policy on generative A-I requires the Superintendent's written approval before any A-I tool enters district systems. Its data governance policy requires the security officer to approve the vendor, even for a free service. The project's records show neither approval yet.
+
+Federal privacy rules let an outside company handle student records only under the district's direct control. That is a question for the district's lawyer. Until it is answered, Claude would see public records only.
+
+A mediator is also a gatekeeper. Whoever runs it shapes what people find. The design limits that power. Answers link to the original records, so anyone can check them. The log is public. The meeting navigator stays independent of the district. And the portal can draft responses with no model at all, so the district never depends on one company.
+
+The proposal starts small. Stage one answers questions about the public record. Stage two helps staff find the policy in force and draft routine letters. Stage three routes requests for a person's own records to staff, without the model reading them. Classroom use would come later, under the district's A-I plan, and is not part of this request.
+
+Nobody yet knows whether wide use of A-I will raise achievement in Claremont, and this proposal does not claim it. What a pilot can measure is narrower: answers given on time, sources that check out, how often staff change a draft, and what each answer costs.

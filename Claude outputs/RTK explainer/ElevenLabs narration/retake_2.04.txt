@@ -1,0 +1,3 @@
+[calm, friendly narration]
+
+The first sorting is done by fixed rules. When it is switched on, Claude, an A-I model made by Anthropic, can then search the public record and prepare the draft. Either way, the portal accepts legal citations only from an approved list.

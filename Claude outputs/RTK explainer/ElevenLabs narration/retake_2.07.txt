@@ -1,0 +1,3 @@
+[calm, friendly narration]
+
+The software passes fifty-six automated tests. An independent review found nineteen defects, and all of them were fixed. Two steps remain before a pilot. The District's counsel should review the legal citations and the response templates. And the Claude step, tested so far with a stand-in, needs one live test.

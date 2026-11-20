@@ -1,0 +1,3 @@
+[calm, friendly narration]
+
+Anthropic has made no commitment. If the answer is no, the portal still works, because the fixed rules can draft responses without Claude.

@@ -1,0 +1,200 @@
+{
+  "Speaker 1": {
+    "name": "Unidentified",
+    "role": "Short interjections from the room during the Lewis recognition ('Thank you', 'I am just blown away'); speaker not determinable"
+  },
+  "Speaker 2": {
+    "name": "Candace Crawford",
+    "role": "School Board Chair - calls the meeting to order 'for November 18th, 2026' (001), runs the agenda and every vote, recognizes members by name ('Heather' 043, 115; 'Bill' 190; 'Mike' 267, 551; 'Lauren' 547; 'Don' 549); roll call ASR 'Candace Parker' (042)"
+  },
+  "Speaker 3": {
+    "name": "Don Lavalette",
+    "role": "School Board member; Policy Subcommittee - answers Whitney's 'What do you think, Don?' (060-061); the chair says 'the report that Don is referring to' after this voice's remarks on the injury log (382-396); Madden later says 'as Don mentioned earlier, this is a $40 million business' (728), this voice's phrase at 450; answers the chair's 'Don.' (549-550). NOTE: the cluster also holds the room's Pledge (002-003) and Michael Petrin's 'crisis mode' remarks (268-281, relabeled); unanchored passages here (the adaptive-test explanation 254-261, the DIBELS question 312-330, the health-insurance question 490-491, the DGA motion 629-640) are assigned to Lavalette by cluster only; check the 11/18/26 minutes"
+  },
+  "Speaker 4": {
+    "name": "Tim Broadrick",
+    "role": "Superintendent, SAU 6 - addressed as 'Doctor Broderick' (004, 248, 490) and 'Tim' (670); gives the superintendent's and curriculum reports; ASR 'Broderick', 'Roderick'"
+  },
+  "Speaker 5": {
+    "name": "Melissa Lewis",
+    "role": "Principal, Disnard Elementary - introduced by the superintendent as 'Melissa Lewis' (005); speaks of 'the Lewis family' Thanksgiving dinner at Disnard ('Disney Art', 'Disney') and 'my school' (006-014); called 'Melissa' by the chair for citizens' comment (068)"
+  },
+  "Speaker 6": {
+    "name": "Chris Lewis",
+    "role": "Spouse of Melissa Lewis; co-host of the district Thanksgiving dinner - named 'Chris ... the chef' by her (007) and says 'Melissa and I heard' the York, Maine fire chief's interview (015); not a district employee as far as the recording shows"
+  },
+  "Speaker 7": {
+    "name": "Heather Whitney",
+    "role": "School Board member; Ad Hoc Reconfiguration Subcommittee - recognized by the chair as 'Heather' (043, 115, 262) and by Loren Howard (474); raises the ad hoc reconfiguration item (044) and the NHSBA membership question (707-719)"
+  },
+  "Speaker 8": {
+    "name": "Faith Norton",
+    "role": "Student representative (Stevens High School senior) - Byron DeCamp hands off 'to face [Faith] so she can talk about some of the athletics and clubs' (083) and this voice gives that report (084-087); the cluster also holds the clerk's roll call (042), relabeled"
+  },
+  "Speaker 9": {
+    "name": "Luke Diamond",
+    "role": "District Treasurer - called on as 'Mr. Diamond' for the treasurer's report (072-075)"
+  },
+  "Speaker 10": {
+    "name": "Byron DeCamp",
+    "role": "Student representative (Stevens High School senior) - gives the class and club report and hands off to Faith (080-090); Faith returns the floor 'to Byron' (087). Later one- and two-word fragments in this cluster are relabeled Unidentified"
+  },
+  "Speaker 11": {
+    "name": "Teresa Taylor",
+    "role": "Business Administrator, SAU 6 - called on as 'Miss Taylor' for the finance report (095-114); describes the MS-25 ('Miss 25') and grant closeouts"
+  },
+  "Speaker 12": {
+    "name": "William Madden",
+    "role": "School Board member; Capital Improvement chair - recognized as 'Bill' (190, 722, 727) and 'Mr. Madden' (215, 294); speaks of his son's high-school experience (289)"
+  },
+  "Speaker 13": {
+    "name": "Unidentified",
+    "role": "Short fragments during the curriculum report (280, 319, 322, 324); speaker not determinable"
+  },
+  "Speaker 14": {
+    "name": "Unidentified",
+    "role": "District staff member who answers questions on the Imagine Learning math program (350-360: hours 8 a.m. to 10 p.m.); not named in the recording"
+  },
+  "Speaker 15": {
+    "name": "Michael Petrin",
+    "role": "School Board Vice Chair - answers the chair's 'Mike.' on the evening deliberative session (551-553); the cluster also holds the 'behavior is the disability' remarks (406-413)"
+  },
+  "Speaker 16": {
+    "name": "Brian Rapp",
+    "role": "School Board member - Lavalette says 'I agree with Brian's point' (550) about this voice's preference for a weekday-evening deliberative session (541-546); ASR 'Ryan rap' in the roll call (042)"
+  },
+  "Speaker 17": {
+    "name": "Unidentified",
+    "role": "Two sentence onsets (419, 540); speaker not determinable"
+  },
+  "Speaker 18": {
+    "name": "Loren Howard",
+    "role": "School Board member; Policy Subcommittee chair - the superintendent answers this voice with 'I entirely agree, Lauren' (459); presents the policy revisions and says the policy subcommittee will meet December 2 (578-701); ASR 'Lauren'"
+  },
+  "Speaker 19": {
+    "name": "Unidentified",
+    "role": "Short questions and fragments during the policy item (587-676); speaker not determinable"
+  },
+  "Speaker 20": {
+    "name": "Unidentified",
+    "role": "One fragment after the nonpublic roll-call vote (737)"
+  },
+  "__overrides__": {
+    "2": {
+      "name": "Unidentified",
+      "role": "Room recitation of the Pledge of Allegiance"
+    },
+    "3": {
+      "name": "Unidentified",
+      "role": "Room recitation of the Pledge of Allegiance"
+    },
+    "42": {
+      "name": "Noelle Kronberg",
+      "role": "Clerk - reads the roll call (members answer 'here'); diarized into the student-rep cluster. ASR: 'Lauren Howard', 'Come over' [Don Lavalette], 'Michael Ryan rap' [Michael Petrin, Brian Rapp], 'Candace Parker' [Candace Crawford]"
+    },
+    "77": {
+      "name": "Unidentified",
+      "role": "'Thank you' after the treasurer's report; diarized with the student rep's cluster"
+    },
+    "96": {
+      "name": "Teresa Taylor",
+      "role": "Business Administrator - onset of her finance report after the chair calls 'Miss Taylor' (095); the report continues in her cluster at 097"
+    },
+    "140": {
+      "name": "Tim Broadrick",
+      "role": "Superintendent - completes his own question 'So what year are you looking at?' begun at 139; diarized with the chair"
+    },
+    "247": {
+      "name": "Unidentified",
+      "role": "Fragment; diarized with the treasurer's cluster"
+    },
+    "268": {
+      "name": "Michael Petrin",
+      "role": "School Board Vice Chair - answers the chair's 'Mike.' (267); the superintendent replies 'thanks, Mike' (270); diarized into the Lavalette cluster"
+    },
+    "269": {
+      "name": "Michael Petrin",
+      "role": "School Board Vice Chair - continues his 'crisis mode' remarks (see 268)"
+    },
+    "273": {
+      "name": "Michael Petrin",
+      "role": "School Board Vice Chair - continues his 'crisis mode' remarks (see 268)"
+    },
+    "278": {
+      "name": "Michael Petrin",
+      "role": "School Board Vice Chair - continues his 'crisis mode' remarks (see 268)"
+    },
+    "281": {
+      "name": "Michael Petrin",
+      "role": "School Board Vice Chair - closes his 'crisis mode' remarks (see 268)"
+    },
+    "275": {
+      "name": "Unidentified",
+      "role": "Fragment; diarized with the student rep's cluster after the students' report"
+    },
+    "277": {
+      "name": "Unidentified",
+      "role": "Fragment; diarized with the student rep's cluster after the students' report"
+    },
+    "311": {
+      "name": "Unidentified",
+      "role": "Fragment; diarized with the treasurer's cluster"
+    },
+    "318": {
+      "name": "Unidentified",
+      "role": "Fragment; diarized with the student rep's cluster after the students' report"
+    },
+    "342": {
+      "name": "Unidentified",
+      "role": "Fragment; diarized with the student rep's cluster after the students' report"
+    },
+    "344": {
+      "name": "Unidentified",
+      "role": "Fragment; diarized with the student rep's cluster after the students' report"
+    },
+    "405": {
+      "name": "Michael Petrin",
+      "role": "School Board Vice Chair - onset of the remarks that continue at 406 in his cluster; diarized with Chris Lewis"
+    },
+    "414": {
+      "name": "Brian Rapp",
+      "role": "School Board member - onset of 'I would like to see kids get sent home for a couple of days', completed at 415 in his cluster and continued at 420-422; diarized with Madden"
+    },
+    "432": {
+      "name": "Unidentified",
+      "role": "'Yes, please'; diarized with the student rep's cluster"
+    },
+    "513": {
+      "name": "Tim Broadrick",
+      "role": "Superintendent - 'So I won't read these to you' runs straight into 514 in his cluster; diarized with Rapp"
+    },
+    "519": {
+      "name": "Unidentified",
+      "role": "Fragment; diarized with the student rep's cluster"
+    },
+    "590": {
+      "name": "Unidentified",
+      "role": "Fragment; diarized with the student rep's cluster"
+    },
+    "637": {
+      "name": "Unidentified",
+      "role": "Fragment; diarized with the student rep's cluster"
+    },
+    "677": {
+      "name": "Unidentified",
+      "role": "Fragment; diarized with the student rep's cluster"
+    },
+    "733": {
+      "name": "Unidentified",
+      "role": "Roll-call 'Yes' vote on the nonpublic motion; the clerk's name readings are not audible, so the voter cannot be identified"
+    },
+    "735": {
+      "name": "Unidentified",
+      "role": "Roll-call 'Yes' vote on the nonpublic motion; voter cannot be identified"
+    },
+    "736": {
+      "name": "Unidentified",
+      "role": "Roll-call 'Yes' vote on the nonpublic motion; diarized with the Business Administrator, who does not vote"
+    }
+  }
+}

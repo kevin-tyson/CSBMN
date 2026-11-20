@@ -1,0 +1,3 @@
+[calm, friendly narration]
+
+Here is the proposed design. Every question, from any channel, passes through the same four layers. Every step is written to a log.

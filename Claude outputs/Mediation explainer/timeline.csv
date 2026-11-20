@@ -1,0 +1,28 @@
+id,kind,start,end,picture
+T0,hold,0.0,4.0,cards/title.png
+1.01,narr,4.0,23.07,cards/title.png + cards/oneline.png
+1.02,narr,23.07,39.82,cards/constituents.png|push
+1.03,narr,39.82,56.19,cards/clocks.png
+1.04,narr,56.19,73.72,cards/constituents.png
+1.05,narr,73.72,92.02,cards/volume.png
+1.06,narr,92.02,114.93,cards/warning.png|push
+2.01,narr,114.93,124.4,cards/arch.png
+2.02,narr,124.4,142.7,cards/arch_gate.png
+2.03,narr,142.7,161.38,cards/arch_graph.png
+2.04,narr,161.38,177.36,cards/arch_claude.png
+2.05,narr,177.36,197.58,cards/arch_custodian.png + portal_shots/05_console_draft.jpg + portal_shots/09_send_blocked.jpg
+2.06,narr,197.58,212.41,cards/arch_log.png + portal_shots/10_log_list.jpg|push
+3.01,narr,212.41,232.24,cards/conditions.png
+3.02,narr,232.24,245.92,cards/conditions.png|push
+3.03,narr,245.92,269.6,cards/gatekeeper.png
+3.04,narr,269.6,292.51,cards/stages.png
+3.05,narr,292.51,310.81,cards/measures.png
+4.01,narr,310.81,332.56,cards/voters.png
+4.02,narr,332.56,347.03,cards/constitution.png|push
+4.03,narr,347.03,372.63,cards/tocqueville.png
+4.04,narr,372.63,390.16,cards/precedent.png
+4.05,narr,390.16,409.99,cards/s1.png|push
+4.06,narr,409.99,428.67,cards/ask.png
+4.07,narr,428.67,446.97,cards/before.png
+4.08,narr,446.97,453.72,cards/closing.png
+END,hold,453.72,458.72,cards/end.png

@@ -1,0 +1,3 @@
+[calm, friendly narration]
+
+This is a short introduction to a Right-to-Know request portal, built for the Claremont School District. It shows how a request would move through the portal. It also explains why the project is asking a company called Anthropic for support.

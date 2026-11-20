@@ -1,0 +1,3 @@
+[calm, friendly narration]
+
+First, a gate. It is made of fixed rules, not a model. It decides who is asking, which privacy tier the request falls in, and which legal deadline applies. A public question needs no sign-in. A request for a person's own records is verified by staff.

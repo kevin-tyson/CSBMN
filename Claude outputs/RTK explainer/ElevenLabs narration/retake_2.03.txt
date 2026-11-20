@@ -1,0 +1,3 @@
+[calm, friendly narration]
+
+Next, the portal sorts the request into one of five outcomes, and writes a draft to match. The most common is expected to be a records search, for a record that is not posted anywhere. Other drafts point to a record that is already public, offer combined figures about students, or cite the exemption that applies.

@@ -1,0 +1,3 @@
+[calm, friendly narration]
+
+The public log shows each request, its due date, its status, and every response. Email addresses are never shown. A requester's name appears only if they choose. And text that may identify a student is held back until staff publish a redacted copy.

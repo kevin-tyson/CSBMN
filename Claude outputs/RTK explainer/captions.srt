@@ -1,0 +1,68 @@
+1
+00:00:04,000 --> 00:00:19,980
+This is a short introduction to a Right-to-Know request portal, built for the Claremont School District. It shows how a request would move through the portal. It also explains why the project is asking a company called Anthropic for support.
+
+2
+00:00:19,980 --> 00:00:37,890
+New Hampshire's Right-to-Know Law, R-S-A ninety-one A, gives every citizen the right to inspect public records. When a record is not immediately available, the District has five business days to produce it, deny the request in writing, or say in writing when it will answer.
+
+3
+00:00:37,890 --> 00:00:56,570
+In September of twenty twenty-five, the School Board adopted Policy E-H. It directs the Superintendent's procedures to include, in the policy's words, a method for logging and tracking both the requests and the responses. The policy also allows that log to be posted on the District's website.
+
+4
+00:00:56,570 --> 00:01:14,480
+The portal is one way to do that. A resident files a request online. The portal logs it, puts it in line, and prepares a draft response. District staff review and send every response. Then the request and the response appear on a public log.
+
+5
+00:01:14,480 --> 00:01:35,850
+Here is how a request moves. The screens you are about to see are the working portal, running on invented test requests. A resident describes the records they want, and confirms an email address with a six-digit code. The request then gets a public number, and a due date on the fifth business day.
+
+6
+00:01:35,850 --> 00:01:49,530
+Requests are handled one at a time, in a fair order. A person's first open request goes ahead of anyone's second. So one person who files many requests does not hold up everyone else.
+
+7
+00:01:49,530 --> 00:02:11,670
+Next, the portal sorts the request into one of five outcomes, and writes a draft to match. The most common is expected to be a records search, for a record that is not posted anywhere. Other drafts point to a record that is already public, offer combined figures about students, or cite the exemption that applies.
+
+8
+00:02:11,670 --> 00:02:28,420
+The first sorting is done by fixed rules. When it is switched on, Claude, an A-I model made by Anthropic, can then search the public record and prepare the draft. Either way, the portal accepts legal citations only from an approved list.
+
+9
+00:02:28,420 --> 00:02:42,487
+Nothing is sent automatically. A staff member at the Superintendent's office reads the draft, edits it, and sends it. If a draft still has a blank to fill in, the portal refuses to send it.
+
+10
+00:02:42,487 --> 00:02:59,627
+The public log shows each request, its due date, its status, and every response. Email addresses are never shown. A requester's name appears only if they choose. And text that may identify a student is held back until staff publish a redacted copy.
+
+11
+00:02:59,627 --> 00:03:19,460
+The software passes fifty-six automated tests. An independent review found nineteen defects, and all of them were fixed. Two steps remain before a pilot. The District's counsel should review the legal citations and the response templates. And the Claude step, tested so far with a stand-in, needs one live test.
+
+12
+00:03:19,460 --> 00:03:30,440
+Why Anthropic? The drafting step can use Anthropic's model, and that use costs money. The project does not want that cost to fall on the District's budget.
+
+13
+00:03:30,440 --> 00:03:50,673
+In October of twenty twenty-six, Anthropic filed papers to become a public company. In that filing, it says its public benefit work may include programs designed to make Claude accessible to underserved communities, educators, and public institutions. It has also placed five percent of its shares in a public benefit fund.
+
+14
+00:03:50,673 --> 00:04:06,653
+So the project plans to ask Anthropic for two things. The first is use of Claude at no charge. The second is an operating grant to the proposed operator, Claremont Community Television, also known as the Claremont Community Media Center.
+
+15
+00:04:06,653 --> 00:04:16,120
+Anthropic has made no commitment. If the answer is no, the portal still works, because the fixed rules can draft responses without Claude.
+
+16
+00:04:16,120 --> 00:04:29,030
+We are asking the Board and the Administration for a small set of decisions. The first is whether to run a pilot. The briefing that goes with this video lists the rest.
+
+17
+00:04:29,030 --> 00:04:33,863
+The portal drafts. District staff decide. Thank you for your time.
+

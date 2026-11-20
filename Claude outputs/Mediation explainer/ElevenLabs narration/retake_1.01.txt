@@ -1,0 +1,3 @@
+[calm, friendly narration]
+
+This video describes a proposal for the Claremont School District. The idea is to use Claude, an A-I model made by Anthropic, to help the district answer the people it serves, on time and within the law. It also explains why the project is asking Anthropic for support.

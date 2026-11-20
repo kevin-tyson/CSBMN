@@ -1,0 +1,24 @@
+{
+  "Speaker 1": {
+    "name": "Tim Broadrick",
+    "role": "Superintendent, SAU 6 - addressed as 'Tim' by the committee chair (098); says 'my office will recommend' the operating budget (056); describes past practice 'in Alton' (114), the home of Prospect Mountain, his previous district; shares the revised budget development schedule 'with Teresa Taylor, Amy Savage and Tami Cody [Tammy Cote]' (320)"
+  },
+  "Speaker 2": {
+    "name": "Candace Crawford",
+    "role": "School Board Chair; Finance Committee - runs the meeting, sums up the schedule (140, 197) and says she will put the school-configuration question on the agenda for the next board meeting (280, 303), which she does as chair on 11/18/26; the 11/18/26 recording has her report that 'I've been asked' about an evening deliberative session, as this voice says here (042); not 'Don', who is absent (117, 165)"
+  },
+  "Speaker 3": {
+    "name": "Heather Whitney",
+    "role": "School Board member; Finance Committee - the superintendent answers this voice's payroll question with 'you're right, Heather' (064-069); one of the two members present with the superintendent besides absent Don Lavalette (117, 165). This cluster ends at 1336 s and Speaker 4 begins at 1487 s with no overlap, so the diarizer appears to have split one voice in two"
+  },
+  "Speaker 4": {
+    "name": "Heather Whitney",
+    "role": "School Board member; Ad Hoc Reconfiguration Subcommittee chair - says she is 'one of two' on the ad hoc committee and that 'Mister lava' [Lavalette] asked for a summer hiatus (234), and that she will 'connect with Don' (304, 328); continues the Speaker 3 voice after 1487 s (see that row's note)"
+  },
+  "__overrides__": {
+    "1": {
+      "name": "Unidentified",
+      "role": "Diarized with the chair's cluster but asks 'So Candy grab or did you get something?', addressing Candace Crawford by name, so it is probably not her; speaker not determinable"
+    }
+  }
+}

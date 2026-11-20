@@ -1,0 +1,13 @@
+[calm, friendly narration]
+
+Here is the proposed design. Every question, from any channel, passes through the same four layers. Every step is written to a log.
+
+First, a gate. It is made of fixed rules, not a model. It decides who is asking, which privacy tier the request falls in, and which legal deadline applies. A public question needs no sign-in. A request for a person's own records is verified by staff.
+
+Second, the district's records graph. It holds public records only: every dated version of each policy, minutes, budgets, the index of recorded meetings, and each legal duty with its deadline and owner. Student and employee files stay in the district's own systems. They never enter the graph.
+
+Third, Claude. It searches the graph and answers in plain language, with a link to the minute, policy or recording behind each statement. When the graph holds nothing on point, Claude says so, and offers to open a records request.
+
+Fourth, a person. Where the law calls for a decision, Claude only drafts. A records custodian reads, edits and sends every response, and a draft with a blank left in it cannot be sent. The project's Right-to-Know portal already works this way. These screens show it running on invented test requests.
+
+Last, the log. Every request, answer, review and release is recorded in a chain that shows whether any entry was later changed. The public part of the log lists each request, its due date, and its response.

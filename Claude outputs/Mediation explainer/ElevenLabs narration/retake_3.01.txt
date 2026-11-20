@@ -1,0 +1,3 @@
+[calm, friendly narration]
+
+The district's own policies set conditions that come first. Its policy on generative A-I requires the Superintendent's written approval before any A-I tool enters district systems. Its data governance policy requires the security officer to approve the vendor, even for a free service. The project's records show neither approval yet.

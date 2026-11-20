@@ -1,0 +1,15 @@
+[calm, friendly narration]
+
+Here is how a request moves. The screens you are about to see are the working portal, running on invented test requests. A resident describes the records they want, and confirms an email address with a six-digit code. The request then gets a public number, and a due date on the fifth business day.
+
+Requests are handled one at a time, in a fair order. A person's first open request goes ahead of anyone's second. So one person who files many requests does not hold up everyone else.
+
+Next, the portal sorts the request into one of five outcomes, and writes a draft to match. The most common is expected to be a records search, for a record that is not posted anywhere. Other drafts point to a record that is already public, offer combined figures about students, or cite the exemption that applies.
+
+The first sorting is done by fixed rules. When it is switched on, Claude, an A-I model made by Anthropic, can then search the public record and prepare the draft. Either way, the portal accepts legal citations only from an approved list.
+
+Nothing is sent automatically. A staff member at the Superintendent's office reads the draft, edits it, and sends it. If a draft still has a blank to fill in, the portal refuses to send it.
+
+The public log shows each request, its due date, its status, and every response. Email addresses are never shown. A requester's name appears only if they choose. And text that may identify a student is held back until staff publish a redacted copy.
+
+The software passes fifty-six automated tests. An independent review found nineteen defects, and all of them were fixed. Two steps remain before a pilot. The District's counsel should review the legal citations and the response templates. And the Claude step, tested so far with a stand-in, needs one live test.

@@ -1,0 +1,9 @@
+[calm, friendly narration]
+
+This is a short introduction to a Right-to-Know request portal, built for the Claremont School District. It shows how a request would move through the portal. It also explains why the project is asking a company called Anthropic for support.
+
+New Hampshire's Right-to-Know Law, R-S-A ninety-one A, gives every citizen the right to inspect public records. When a record is not immediately available, the District has five business days to produce it, deny the request in writing, or say in writing when it will answer.
+
+In September of twenty twenty-five, the School Board adopted Policy E-H. It directs the Superintendent's procedures to include, in the policy's words, a method for logging and tracking both the requests and the responses. The policy also allows that log to be posted on the District's website.
+
+The portal is one way to do that. A resident files a request online. The portal logs it, puts it in line, and prepares a draft response. District staff review and send every response. Then the request and the response appear on a public log.

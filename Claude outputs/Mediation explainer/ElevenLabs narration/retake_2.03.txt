@@ -1,0 +1,3 @@
+[calm, friendly narration]
+
+Second, the district's records graph. It holds public records only: every dated version of each policy, minutes, budgets, the index of recorded meetings, and each legal duty with its deadline and owner. Student and employee files stay in the district's own systems. They never enter the graph.

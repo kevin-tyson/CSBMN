@@ -1,0 +1,3 @@
+[calm, friendly narration]
+
+Last, the log. Every request, answer, review and release is recorded in a chain that shows whether any entry was later changed. The public part of the log lists each request, its due date, and its response.
