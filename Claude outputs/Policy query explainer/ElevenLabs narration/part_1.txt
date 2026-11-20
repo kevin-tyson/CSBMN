@@ -1,0 +1,9 @@
+[calm, friendly narration]
+
+This video shows how to install and use a skill for Claude called C-S-B policy query. A skill is a set of written instructions that Claude follows for one kind of task. This one answers questions about Claremont School Board policy.
+
+The district publishes its policies through one Google document: an index with about three hundred fifty links, in twelve sections lettered A through L. Each link opens a policy, a regulation, or a form.
+
+The skill answers from that index and the documents it links, and nothing else. It does not use news, meeting minutes, or what Claude already knows about New Hampshire law. When a policy cites a statute, the answer says so, but it does not say what the statute requires.
+
+Every statement in an answer names the policy behind it, with a link. And when the policies do not answer the question, the reply is two words: Insufficient Data.

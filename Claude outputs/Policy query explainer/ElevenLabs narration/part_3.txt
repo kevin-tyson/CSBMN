@@ -1,0 +1,17 @@
+[calm, friendly narration]
+
+To use it, ask a question about school board policy in plain words. Claude picks the skill on its own when a question fits. Here are two real questions, asked on November twentieth, twenty twenty-six.
+
+The first: may students use their cell phones during lunch? Claude reads the index fresh, lists every entry, and looks for titles about phones, devices and lunch. It also searches Google Drive, and keeps only files the index links. Then it reads the strongest matches.
+
+The answer is no. Policy J-I-C-J, Unauthorized Communication Devices, adopted in September twenty twenty-five, bars student use of personal devices from the first bell to the dismissal bell. It says the school day includes lunch periods, passing time and recesses. It also lists exceptions for medical needs, disabilities and language access.
+
+The answer also reports an older policy that is still in the index. J-I-C-A-B, from twenty ten, says permitted uses of electronic devices will be set out in the student and parent handbooks. Neither policy says it replaces the other, so the skill shows both, with their dates.
+
+The second question: how many votes did each candidate get in the March twenty twenty-six school board election? The skill read policy B-B-B, on board membership and elections. It says board members are elected each March for three-year terms. It gives no results. The Drive search also turned up meeting minutes and an agenda, but those are not policies, so the skill set them aside.
+
+So the reply is: Insufficient Data. That tells you the answer is not in board policy, and you need another source, such as the election results.
+
+Two more cases. If the policies answer only part of a question, the skill answers that part and marks the rest Insufficient Data. If a policy cannot be opened, it says which one, instead.
+
+One source. A policy behind every statement. Two words when the policies are silent. Thank you for watching.

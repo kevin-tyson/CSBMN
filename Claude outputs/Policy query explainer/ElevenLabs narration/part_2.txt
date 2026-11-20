@@ -1,0 +1,7 @@
+[calm, friendly narration]
+
+Installing it takes three steps. First, skills need code execution. On a Free, Pro or Max plan, open Settings, then Capabilities, and turn on Code execution and file creation. Newer versions of the settings page call it Create and edit files. On a Team or Enterprise plan, an owner has to allow skills for the organization first.
+
+Second, upload the skill. It comes as a zip file holding one folder with one instruction file. In Claude, open Customize, then Skills. Click the plus button, choose Create skill, then Upload a skill, and pick the zip file. The skill appears in your list with a switch. Make sure it is on. A skill you upload is private to your account.
+
+Third, connect Google Drive, because the policies live there. Open Customize, then Connectors, find Google Drive, choose Connect, and sign in with your Google account. Claude can open only the files that account can open. The index is shared with anyone who has the link, and so are the policies tested for this video.

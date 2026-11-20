@@ -1,0 +1,3 @@
+[calm, friendly narration]
+
+This video shows how to install and use a skill for Claude called C-S-B policy query. A skill is a set of written instructions that Claude follows for one kind of task. This one answers questions about Claremont School Board policy.

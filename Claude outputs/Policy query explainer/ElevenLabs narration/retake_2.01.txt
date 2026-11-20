@@ -1,0 +1,3 @@
+[calm, friendly narration]
+
+Installing it takes three steps. First, skills need code execution. On a Free, Pro or Max plan, open Settings, then Capabilities, and turn on Code execution and file creation. Newer versions of the settings page call it Create and edit files. On a Team or Enterprise plan, an owner has to allow skills for the organization first.

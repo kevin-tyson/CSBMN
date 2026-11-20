@@ -1,0 +1,3 @@
+[calm, friendly narration]
+
+The skill answers from that index and the documents it links, and nothing else. It does not use news, meeting minutes, or what Claude already knows about New Hampshire law. When a policy cites a statute, the answer says so, but it does not say what the statute requires.

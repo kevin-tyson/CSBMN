@@ -1,0 +1,3 @@
+[calm, friendly narration]
+
+Second, upload the skill. It comes as a zip file holding one folder with one instruction file. In Claude, open Customize, then Skills. Click the plus button, choose Create skill, then Upload a skill, and pick the zip file. The skill appears in your list with a switch. Make sure it is on. A skill you upload is private to your account.

@@ -1,0 +1,3 @@
+[calm, friendly narration]
+
+Two more cases. If the policies answer only part of a question, the skill answers that part and marks the rest Insufficient Data. If a policy cannot be opened, it says which one, instead.

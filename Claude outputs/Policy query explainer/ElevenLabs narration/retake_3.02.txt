@@ -1,0 +1,3 @@
+[calm, friendly narration]
+
+The first: may students use their cell phones during lunch? Claude reads the index fresh, lists every entry, and looks for titles about phones, devices and lunch. It also searches Google Drive, and keeps only files the index links. Then it reads the strongest matches.

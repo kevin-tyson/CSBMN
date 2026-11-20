@@ -1,0 +1,18 @@
+id,kind,start,end,picture
+T0,hold,0.0,4.0,cards/title.png
+1.01,narr,4.0,18.33,cards/title.png + cards/what.png
+1.02,narr,18.33,30.93,cards/index.png|push
+1.03,narr,30.93,47.18,cards/scope.png
+1.04,narr,47.18,57.18,cards/promise.png
+2.01,narr,57.18,78.74,cards/step1.png
+2.02,narr,78.74,100.74,cards/step2.png
+2.03,narr,100.74,119.86,cards/step3.png
+3.01,narr,119.86,131.92,cards/ask.png
+3.02,narr,131.92,149.32,cards/flow.png + cards/flow_q1.png
+3.03,narr,149.32,170.86,cards/answer1.png + cards/jicj_text.png|push
+3.04,narr,170.86,187.6,cards/overlap.png
+3.05,narr,187.6,210.26,cards/q2.png
+3.06,narr,210.26,218.83,cards/answer2.png
+3.07,narr,218.83,230.5,cards/cases.png
+3.08,narr,230.5,238.51,cards/closing.png
+END,hold,238.51,243.51,cards/end.png

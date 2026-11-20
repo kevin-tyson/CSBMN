@@ -1,0 +1,3 @@
+[calm, friendly narration]
+
+To use it, ask a question about school board policy in plain words. Claude picks the skill on its own when a question fits. Here are two real questions, asked on November twentieth, twenty twenty-six.

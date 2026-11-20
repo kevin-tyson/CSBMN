@@ -1,0 +1,3 @@
+[calm, friendly narration]
+
+Third, connect Google Drive, because the policies live there. Open Customize, then Connectors, find Google Drive, choose Connect, and sign in with your Google account. Claude can open only the files that account can open. The index is shared with anyone who has the link, and so are the policies tested for this video.

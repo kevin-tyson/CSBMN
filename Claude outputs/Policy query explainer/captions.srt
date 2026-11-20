@@ -1,0 +1,60 @@
+1
+00:00:04,000 --> 00:00:18,333
+This video shows how to install and use a skill for Claude called C-S-B policy query. A skill is a set of written instructions that Claude follows for one kind of task. This one answers questions about Claremont School Board policy.
+
+2
+00:00:18,333 --> 00:00:30,933
+The district publishes its policies through one Google document: an index with about three hundred fifty links, in twelve sections lettered A through L. Each link opens a policy, a regulation, or a form.
+
+3
+00:00:30,933 --> 00:00:47,178
+The skill answers from that index and the documents it links, and nothing else. It does not use news, meeting minutes, or what Claude already knows about New Hampshire law. When a policy cites a statute, the answer says so, but it does not say what the statute requires.
+
+4
+00:00:47,178 --> 00:00:57,178
+Every statement in an answer names the policy behind it, with a link. And when the policies do not answer the question, the reply is two words: Insufficient Data.
+
+5
+00:00:57,178 --> 00:01:18,745
+Installing it takes three steps. First, skills need code execution. On a Free, Pro or Max plan, open Settings, then Capabilities, and turn on Code execution and file creation. Newer versions of the settings page call it Create and edit files. On a Team or Enterprise plan, an owner has to allow skills for the organization first.
+
+6
+00:01:18,745 --> 00:01:40,745
+Second, upload the skill. It comes as a zip file holding one folder with one instruction file. In Claude, open Customize, then Skills. Click the plus button, choose Create skill, then Upload a skill, and pick the zip file. The skill appears in your list with a switch. Make sure it is on. A skill you upload is private to your account.
+
+7
+00:01:40,745 --> 00:01:59,858
+Third, connect Google Drive, because the policies live there. Open Customize, then Connectors, find Google Drive, choose Connect, and sign in with your Google account. Claude can open only the files that account can open. The index is shared with anyone who has the link, and so are the policies tested for this video.
+
+8
+00:01:59,858 --> 00:02:11,925
+To use it, ask a question about school board policy in plain words. Claude picks the skill on its own when a question fits. Here are two real questions, asked on November twentieth, twenty twenty-six.
+
+9
+00:02:11,925 --> 00:02:29,325
+The first: may students use their cell phones during lunch? Claude reads the index fresh, lists every entry, and looks for titles about phones, devices and lunch. It also searches Google Drive, and keeps only files the index links. Then it reads the strongest matches.
+
+10
+00:02:29,325 --> 00:02:50,858
+The answer is no. Policy J-I-C-J, Unauthorized Communication Devices, adopted in September twenty twenty-five, bars student use of personal devices from the first bell to the dismissal bell. It says the school day includes lunch periods, passing time and recesses. It also lists exceptions for medical needs, disabilities and language access.
+
+11
+00:02:50,858 --> 00:03:07,598
+The answer also reports an older policy that is still in the index. J-I-C-A-B, from twenty ten, says permitted uses of electronic devices will be set out in the student and parent handbooks. Neither policy says it replaces the other, so the skill shows both, with their dates.
+
+12
+00:03:07,598 --> 00:03:30,265
+The second question: how many votes did each candidate get in the March twenty twenty-six school board election? The skill read policy B-B-B, on board membership and elections. It says board members are elected each March for three-year terms. It gives no results. The Drive search also turned up meeting minutes and an agenda, but those are not policies, so the skill set them aside.
+
+13
+00:03:30,265 --> 00:03:38,831
+So the reply is: Insufficient Data. That tells you the answer is not in board policy, and you need another source, such as the election results.
+
+14
+00:03:38,831 --> 00:03:50,498
+Two more cases. If the policies answer only part of a question, the skill answers that part and marks the rest Insufficient Data. If a policy cannot be opened, it says which one, instead.
+
+15
+00:03:50,498 --> 00:03:58,514
+One source. A policy behind every statement. Two words when the policies are silent. Thank you for watching.
+

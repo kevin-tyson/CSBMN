@@ -1,0 +1,3 @@
+[calm, friendly narration]
+
+Every statement in an answer names the policy behind it, with a link. And when the policies do not answer the question, the reply is two words: Insufficient Data.
